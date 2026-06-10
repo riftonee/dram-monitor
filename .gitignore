@@ -1,0 +1,16 @@
+# Secrets — never commit. All keys live in GitHub Secrets / local .env
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
