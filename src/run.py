@@ -13,10 +13,18 @@ Run:  python3 -m src.run
 
 from __future__ import annotations
 
+import sys
 import time
 
+try:  # Load a local .env for dev; in CI the vars come from GitHub Secrets.
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except ImportError:
+    pass
+
 import config
-from src import state
+from src import notify, state
 from src.collect import collect_all
 
 
@@ -45,6 +53,8 @@ def gather_new_items(now: float | None = None) -> list[dict]:
 
 
 def main() -> None:
+    send = "--send" in sys.argv[1:]
+
     new, n_collected, n_recent = gather_new_items()
     for item in new:
         print(f"[{item['topic']:>8}] {item['title']}")
@@ -55,6 +65,11 @@ def main() -> None:
         f"--- collected {n_collected} -> {n_recent} recent "
         f"(<= {config.MAX_ITEM_AGE_HOURS}h) -> {len(new)} new after dedupe ---"
     )
+
+    if send:
+        subject = f"DRAM monitor — {len(new)} new item(s)"
+        result = notify.send_email(subject, notify.render_raw_list_html(new))
+        print(f"--- email sent via Resend (id: {result.get('id', '?')}) ---")
 
 
 if __name__ == "__main__":
