@@ -64,7 +64,19 @@ jobs:
           git add state/
           if git diff --cached --quiet; then
             echo "no state changes"
-          else
-            git commit -m "state: update seen/buffer [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "state: update seen/buffer [skip ci]"
+          # main may have advanced (a manual push, or another run) since checkout.
+          # State touches only state/*.json, so a rebase merges cleanly; retry the
+          # push a few times, rebasing onto the latest each attempt.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "state pushed"
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt) — rebasing onto latest main"
+            git pull --rebase --autostash origin main || true
+          done
+          echo "could not push state after retries" >&2
+          exit 1
