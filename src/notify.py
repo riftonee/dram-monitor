@@ -19,6 +19,26 @@ import urllib.request
 RESEND_ENDPOINT = "https://api.resend.com/emails"
 
 
+def _wrap_html(inner: str) -> str:
+    """Wrap a body fragment in a readable email shell: large font, comfortable
+    line spacing, a sensible reading width. Styling is inline (email clients
+    routinely strip <style> blocks), and the base font-size is inherited by the
+    paragraphs, lists, and headings inside."""
+    return (
+        '<!DOCTYPE html><html><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1.0">'
+        '</head><body style="margin:0;padding:0;background:#f2f3f5;">'
+        '<div style="max-width:680px;margin:0 auto;padding:28px 26px;background:#ffffff;'
+        "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;"
+        'font-size:19px;line-height:1.65;color:#1a1a1a;">'
+        f"{inner}"
+        '<hr style="border:none;border-top:1px solid #e3e3e3;margin:28px 0 14px;">'
+        '<p style="font-size:14px;color:#8a8a8a;margin:0;">'
+        "DRAM monitor — awareness only, not financial advice.</p>"
+        "</div></body></html>"
+    )
+
+
 def send_email(subject: str, body_html: str, *, to: str | None = None, sender: str | None = None) -> dict:
     """Send one email through Resend. Returns the parsed API response (includes the
     message id). Raises RuntimeError with the API's message on a non-2xx response."""
@@ -27,7 +47,7 @@ def send_email(subject: str, body_html: str, *, to: str | None = None, sender: s
     sender = sender or os.environ["EMAIL_FROM"]
 
     payload = json.dumps(
-        {"from": sender, "to": [to], "subject": subject, "html": body_html}
+        {"from": sender, "to": [to], "subject": subject, "html": _wrap_html(body_html)}
     ).encode("utf-8")
     request = urllib.request.Request(
         RESEND_ENDPOINT,
