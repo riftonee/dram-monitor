@@ -457,5 +457,464 @@
    "summary": "SK hynix executive sold 2.3 billion won (~$1.7M USD equivalent) in company shares near recent peak. Insider selling is a minor signal and common during stock strength; without context on the executive's level, total holdings, or stated rationale, this registers as a passing mention of insider activity rather than a material event."
   },
   "buffered_ts": 1781078760.598751
+ },
+ {
+  "id": "31ac43cb1b93b899b6f0be0dcb011a01945aa64e",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Hanwha Semitech Supplies Hybrid Bonding Cluster System to SK hynix - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X3NodDI3aXRJLV9CdXdLZnY5NXozZjhfUUVjd2QydWMtbk5fVHZUNW1ER1R0eW11LTlJVVBxOXhUc1EzQXpMX3UzSi03dE1FRk50TzE0ZTh0UWdkTDRMdjViYXVTQkU?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:46:55 GMT",
+  "published_ts": 1781084815,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X3NodDI3aXRJLV9CdXdLZnY5NXozZjhfUUVjd2QydWMtbk5fVHZUNW1ER1R0eW11LTlJVVBxOXhUc1EzQXpMX3UzSi03dE1FRk50TzE0ZTh0UWdkTDRMdjViYXVTQkU?oc=5\" target=\"_blank\">Hanwha Semitech Supplies Hybrid Bonding Cluster System to SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Hanwha Semitech has supplied a hybrid bonding cluster system to SK hynix, a confirmed equipment deal that supports advanced packaging and memory production capacity—a material development for this key DRAM ETF holding."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "f0b0c7495954647b0224acfb9f69533eb67030a2",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Huang calls AI stock selloff a buying chance, seals SK Hynix deal - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObUcydzhYVGhwS3otZ3RTZW1GRURmUnJ2QVNGZUF5U1hqNzI1aWVtTVRuXzZGWVpGRVJPRkw2c3JmeGRKZFAyZGEyT3JEc2hwSHZRUjJ5SkNhRVkyWWNQLTYxLVljU3dvemxHanNZUEttV3MwbTFPLU1KQXgwVFN5Z21FckpPcTJEdEtUeWttX3hSWGo2cW1FTW5KMVNCR1Z1eHZOOXdZdDZSbnNTZ0VrLWpySFhnanBIcl9rOHFaOGhXbnNRaUhIWHNtak9NUFZHb2hZVU8zYkI1cnV0Q3BfeXo4ZWx3akJXU09QcWsxczhXYlRCVDBmOE1kRQ?oc=5",
+  "published_at": "Wed, 10 Jun 2026 01:09:18 GMT",
+  "published_ts": 1781053758,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxObUcydzhYVGhwS3otZ3RTZW1GRURmUnJ2QVNGZUF5U1hqNzI1aWVtTVRuXzZGWVpGRVJPRkw2c3JmeGRKZFAyZGEyT3JEc2hwSHZRUjJ5SkNhRVkyWWNQLTYxLVljU3dvemxHanNZUEttV3MwbTFPLU1KQXgwVFN5Z21FckpPcTJEdEtUeWttX3hSWGo2cW1FTW5KMVNCR1Z1eHZOOXdZdDZSbnNTZ0VrLWpySFhnanBIcl9rOHFaOGhXbnNRaUhIWHNtak9NUFZHb2hZVU8zYkI1cnV0Q3BfeXo4ZWx3akJXU09QcWsxczhXYlRCVDBmOE1kRQ?oc=5\" target=\"_blank\">Huang calls AI stock selloff a buying chance, seals SK Hynix deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Nvidia CEO Huang confirms deal with SK Hynix (a DRAM fund holding), a concrete, officially announced transaction that materially affects memory semiconductor supply and demand dynamics for a key portfolio company."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "ea54bdf2fa5866a3b66b59d2588bfe09a12d788d",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3E0bzV2U283RGhtMURjLVRmQlJXXzhGNTNhcFdtN1pFN255WWhTZ3BueVV1NTBodDNlX05Ta3JSUWdualprSmZWY01wQzZaWndMeTBEX2tQMG5UTS1vcElZQzMzOUJ1YW9ablBXUVJSUTExS2NFYmUxQjExY09tY05xZHhkN2VlOS1BV1Z4Zm1Sc0ljVGttWl9pSVlfUjctMnhGVmN2NmQzZDZ6dGtnOFpxRFBmOE0?oc=5",
+  "published_at": "Wed, 10 Jun 2026 11:00:03 GMT",
+  "published_ts": 1781089203,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3E0bzV2U283RGhtMURjLVRmQlJXXzhGNTNhcFdtN1pFN255WWhTZ3BueVV1NTBodDNlX05Ta3JSUWdualprSmZWY01wQzZaWndMeTBEX2tQMG5UTS1vcElZQzMzOUJ1YW9ablBXUVJSUTExS2NFYmUxQjExY09tY05xZHhkN2VlOS1BV1Z4Zm1Sc0ljVGttWl9pSVlfUjctMnhGVmN2NmQzZDZ6dGtnOFpxRFBmOE0?oc=5\" target=\"_blank\">South Korea's SK Hynix eyes US listing as soon as August, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is exploring a potential US listing as early as August. This is a significant corporate development for the company but remains exploratory and sourced (not yet officially announced), making it speculative rather than a confirmed event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "fede286f22b9e42c1b35204c86c1218cacf8a85f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuNFZDcVMySXBUeVB3Q1Z3RWpkM2t5OC1BWHpEaWk3OWRVZVU0SW5xOXJxYWtPakYwbWJ3T0ZKN01GWVBLX0x4blNMSmNWX1k3RnE2QUFIS3BBcUNhckVobzhlYy1ySnlRMkpVQ3laTlFTZnY1Q2hpNk05bEdDZw?oc=5",
+  "published_at": "Wed, 10 Jun 2026 10:25:38 GMT",
+  "published_ts": 1781087138,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBuNFZDcVMySXBUeVB3Q1Z3RWpkM2t5OC1BWHpEaWk3OWRVZVU0SW5xOXJxYWtPakYwbWJ3T0ZKN01GWVBLX0x4blNMSmNWX1k3RnE2QUFIS3BBcUNhckVobzhlYy1ySnlRMkpVQ3laTlFTZnY1Q2hpNk05bEdDZw?oc=5\" target=\"_blank\">South Korea's SK Hynix eyes US listing as soon as August, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM and NAND producer and key DRAM ETF holding, is exploring a US listing as soon as August according to sources. While a US listing could increase visibility to US investors and potentially boost the stock, this remains a sourced report of exploration rather than a confirmed announcement or official filing, making it material but speculative."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "f4a1f10c8db9f80293cead85dd9166c5df99e003",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix reportedly targets U.S. listing as soon as August (HXSCL:OTCMKTS) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWVNtZENWNzhaTEJmWm90bkU0ODRtVElNS1RqYmdyS01oaU5iT3FlNEQyemNIczFBamdWcnBsUm1PN1VJd21vTUR2Z3ktUEhHZm1uTlpVemxVaUowSXRZSWoxVHc1Tlg1bUxMRnhVQ1BJTzhQWHdrN2U2MzU5eThxNEstUm9ZeC1pMi1uejZ0SzVFb3FfbnJESU5B?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:06:31 GMT",
+  "published_ts": 1781078791,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWVNtZENWNzhaTEJmWm90bkU0ODRtVElNS1RqYmdyS01oaU5iT3FlNEQyemNIczFBamdWcnBsUm1PN1VJd21vTUR2Z3ktUEhHZm1uTlpVemxVaUowSXRZSWoxVHc1Tlg1bUxMRnhVQ1BJTzhQWHdrN2U2MzU5eThxNEstUm9ZeC1pMi1uejZ0SzVFb3FfbnJESU5B?oc=5\" target=\"_blank\">SK Hynix reportedly targets U.S. listing as soon as August (HXSCL:OTCMKTS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is reportedly targeting a U.S. listing as soon as August. This is a significant corporate development for the company but remains a report/plan rather than a confirmed event, making it a soft but material item for the fund."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "f138ce093d0361623f9ab061450620a19eb6b859",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "SK Hynix (HXSCL) Eyes U.S. Listing Amid Strong AI Demand - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUFPckYtRWpjRGZib0w5clA0WTB0OE5ZaTdQTVU5R1h6OWVYR1dibFZfNUJyQVJMbVJtMEl1dWhZWi1PSHRGNThQdHJxbTE0UGdKRnNsdzVHcVNWZFBWaTYxbTU4MUtlcUNFX0duenFQV1QxTnUxd0pnZVZVQUdLcFpGZG04ZUF2aE02Vm9wMFVHblEyUUE?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:56:59 GMT",
+  "published_ts": 1781085419,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUFPckYtRWpjRGZib0w5clA0WTB0OE5ZaTdQTVU5R1h6OWVYR1dibFZfNUJyQVJMbVJtMEl1dWhZWi1PSHRGNThQdHJxbTE0UGdKRnNsdzVHcVNWZFBWaTYxbTU4MUtlcUNFX0duenFQV1QxTnUxd0pnZVZVQUdLcFpGZG04ZUF2aE02Vm9wMFVHblEyUUE?oc=5\" target=\"_blank\">SK Hynix (HXSCL) Eyes U.S. Listing Amid Strong AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix exploring a potential U.S. listing amid strong AI demand. This is a strategic corporate development for a key DRAM fund holding, but the listing remains speculative (no confirmed announcement or timeline) and the AI demand reference is general commentary rather than a concrete event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "de11cd4ebff21421a6ad93f807023b327b2562c4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "AM Markets Need to Know: SK Hynix eyes U.S. listing, OpenAI data center lease, and more (SP500:) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHlRUzA3QVdrWXNZNGlybUlkOWlMajRuMVRvTVdpSHo4ZU5YNGk4eWQ5U3U5UHpzU05GeTZVZHJtQnVmWnNsNEV6b3pKVlJHS0M1NVI1TEVUajR4c0w0c21IWGx3M3k3YkRCQ0hMTGJUWk10aDBzb25FVlZkc2M1RUNuZ25IX3ZxanlFdFNOU2F2TXVnc2hiTXJ4eU9xOXNuZm4xN210WFhqYldTS09uUlBvT2h1ZndDZm4ybA?oc=5",
+  "published_at": "Wed, 10 Jun 2026 10:10:18 GMT",
+  "published_ts": 1781086218,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHlRUzA3QVdrWXNZNGlybUlkOWlMajRuMVRvTVdpSHo4ZU5YNGk4eWQ5U3U5UHpzU05GeTZVZHJtQnVmWnNsNEV6b3pKVlJHS0M1NVI1TEVUajR4c0w0c21IWGx3M3k3YkRCQ0hMTGJUWk10aDBzb25FVlZkc2M1RUNuZ25IX3ZxanlFdFNOU2F2TXVnc2hiTXJ4eU9xOXNuZm4xN210WFhqYldTS09uUlBvT2h1ZndDZm4ybA?oc=5\" target=\"_blank\">AM Markets Need to Know: SK Hynix eyes U.S. listing, OpenAI data center lease, and more (SP500:)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is exploring a U.S. listing. This is a strategic development for the company but represents an exploratory possibility rather than a confirmed event, and the timing and concrete impact remain uncertain."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "a30539249f92bbffb1acc99c40ac2ca26d751967",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix Chemical Leak Sends Two Workers to Hospital - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXEyYWZQYlFkVFZ5cUcxLUlVOWp5a3R3NjBFWl91cmlfMndMSG9CNGQ1Z1pjU25UdVFwd1l3REFiSEkzdFZZSWZHRHNqdU9qak0wR29vWk1jSERpNlZkYU1Jazc0bVdJSnBoQWF0NEo4WUZWZ0ZqajB0ZmVPU2VDUkQzZEd6dkJC?oc=5",
+  "published_at": "Wed, 10 Jun 2026 11:34:14 GMT",
+  "published_ts": 1781091254,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXEyYWZQYlFkVFZ5cUcxLUlVOWp5a3R3NjBFWl91cmlfMndMSG9CNGQ1Z1pjU25UdVFwd1l3REFiSEkzdFZZSWZHRHNqdU9qak0wR29vWk1jSERpNlZkYU1Jazc0bVdJSnBoQWF0NEo4WUZWZ0ZqajB0ZmVPU2VDUkQzZEd6dkJC?oc=5\" target=\"_blank\">SK Hynix Chemical Leak Sends Two Workers to Hospital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix reported a chemical leak incident that hospitalized two workers. While a safety incident at a major memory manufacturer, the report contains no information about production impact, facility shutdown, or supply disruption, making it a concrete event at a key holding but with uncertain material impact on operations or output."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "4a19bcb596f5e98ab9a6fee51969e209c76c0dac",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SK Hynix US Listing Timeline Surfaces, Said to Debut as Early as August - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2NtZVAwQ0xvLTNqd05zNi1jbGRRS1JOZDBrUktLRVBkX0g5WmpMdTBuMXVyRmkycjNuWllMS2Q0VG8tZm1hMjhBLUpOOERVWFoyVVFzbmxzUFhVQl9hdFBvVExIOXRLdlFfVGlsQkJIclR5M1lUSk5tak9zQ1F3cXdjQVRsVW93VEZ2TkVadDlKbXpvaXlLRm9XRkxTQk5lNUMw?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:02:14 GMT",
+  "published_ts": 1781082134,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2NtZVAwQ0xvLTNqd05zNi1jbGRRS1JOZDBrUktLRVBkX0g5WmpMdTBuMXVyRmkycjNuWllMS2Q0VG8tZm1hMjhBLUpOOERVWFoyVVFzbmxzUFhVQl9hdFBvVExIOXRLdlFfVGlsQkJIclR5M1lUSk5tak9zQ1F3cXdjQVRsVW93VEZ2TkVadDlKbXpvaXlLRm9XRkxTQk5lNUMw?oc=5\" target=\"_blank\">SK Hynix US Listing Timeline Surfaces, Said to Debut as Early as August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is reported to be pursuing a US listing with a potential debut as early as August. This is a significant corporate development for the holding, though the report relies on \"said to\" language and lacks official confirmation, making it speculation rather than a confirmed event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "07160916505d8139fa221a5790409b1292be9c3c",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "South Korea’s SK Hynix eyes US listing as soon as August: sources - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNETEVfdmFJOXBIOGZ2YVNhNmxvcGVFcWNocDVZcmxKT0ZHbGd4N2J5bHdld0JyS1BBUVRMTWU0dm9xZnV0dEhDVGh1UjNoOVpRVGlaWVpCc3Z6QTNMeWxHSERNM2JZNTl3MHE3UFRYLVdqczhtWGZ1eV9tNW05X21ZQm5fMV9YM1piWGdIWUtxWUFQWkVNa2RGY29wZnh6c29pNGd3QVM5OFcyYjBJSFpha2ppR2Z0dGg5LXhsaXQzWUdn?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:36:00 GMT",
+  "published_ts": 1781084160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNETEVfdmFJOXBIOGZ2YVNhNmxvcGVFcWNocDVZcmxKT0ZHbGd4N2J5bHdld0JyS1BBUVRMTWU0dm9xZnV0dEhDVGh1UjNoOVpRVGlaWVpCc3Z6QTNMeWxHSERNM2JZNTl3MHE3UFRYLVdqczhtWGZ1eV9tNW05X21ZQm5fMV9YM1piWGdIWUtxWUFQWkVNa2RGY29wZnh6c29pNGd3QVM5OFcyYjBJSFpha2ppR2Z0dGg5LXhsaXQzWUdn?oc=5\" target=\"_blank\">South Korea’s SK Hynix eyes US listing as soon as August: sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is exploring a potential US listing as soon as August. This is a significant corporate development for a major DRAM fund holding, but remains in the planning/exploration stage rather than a confirmed announcement, making it soft news subject to change."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "968dfec614918f322ef156fc7d9622da3b41c83d",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "SK hynix seeks US listing as early as August, sources say - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNm9YckJEYUFDQ2Y4Um5kUVFlRHpVbXhfVDRHeWRPblFKM0hiWlZOeFJta0luVEhyYWdoQ1NMWGRWTkQyWWxVVzlwRDBxRmtWaWJJV3ZDQjRBUUppc3JjOHI5YnFtYmlvbElLdDYwV2ZuRVZBNXNBdnZDQkZlTVI1dw?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:00:00 GMT",
+  "published_ts": 1781082000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNm9YckJEYUFDQ2Y4Um5kUVFlRHpVbXhfVDRHeWRPblFKM0hiWlZOeFJta0luVEhyYWdoQ1NMWGRWTkQyWWxVVzlwRDBxRmtWaWJJV3ZDQjRBUUppc3JjOHI5YnFtYmlvbElLdDYwV2ZuRVZBNXNBdnZDQkZlTVI1dw?oc=5\" target=\"_blank\">SK hynix seeks US listing as early as August, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is exploring a US listing as early as August according to sources. This is a potential corporate development for a key DRAM fund holding, but remains sourced and unconfirmed rather than an officially announced decision, limiting it to impact 3."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "e2bb273ff338394d9c2c4f66e68ddc2e854a7e86",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix reportedly targets US listing as soon as August - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDFSb3JIbnY4enZ5a01FUnVLS3dpREhLXy1nV0pFVFJHU1lybzR0cUVONzZrS1dERG5samxhd3JWOUc1MzlreXJQSVZYd2F0R2xhWE9ycDBxd1h2d1pBR21uaGNmaEJaQkVGdjNiNHNydnNnRHVrM1RveGRqVGpieGxmNHM4UW5mZG1mMFJaRVlMRUtERXRTZlp1cm16WTJ1V0E2X05jWFRBaXJxQmFOZVBBNjNoTU1OMjdTY1dJeHVTZGhzOXJTVDNjZDJja2YxUGc?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:12:13 GMT",
+  "published_ts": 1781079133,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDFSb3JIbnY4enZ5a01FUnVLS3dpREhLXy1nV0pFVFJHU1lybzR0cUVONzZrS1dERG5samxhd3JWOUc1MzlreXJQSVZYd2F0R2xhWE9ycDBxd1h2d1pBR21uaGNmaEJaQkVGdjNiNHNydnNnRHVrM1RveGRqVGpieGxmNHM4UW5mZG1mMFJaRVlMRUtERXRTZlp1cm16WTJ1V0E2X05jWFRBaXJxQmFOZVBBNjNoTU1OMjdTY1dJeHVTZGhzOXJTVDNjZDJja2YxUGc?oc=5\" target=\"_blank\">SK Hynix reportedly targets US listing as soon as August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly targeting a US listing as soon as August. This is a speculative report about a potential corporate action that could enhance the holding's profile and accessibility to US investors, but it remains unconfirmed and lacks concrete detail on timing or terms."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "26434b25d60fcc1a5011bf883adf6023065608c7",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "SK Hynix Reportedly Plans U.S. ADR Listing as Early as August, With SEC Approval Possible in Late June - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXU4M1o2SXFTTXEtUjR5S2d6aUphUTNBVjM3Q09DSS11X3VjNmxZdy1ndGFpWUo3cnBtVHI5djMwN2kxQy10enZqV3NrS09BZ2NQTlVac2ZQUndUb3RLbjh1WjM2N2U1bjc0cmpOR2F4MVNya2ltR19iNUJUdXBPY1huNHJBZWFTcW1FQnVVbHpkb094NDg0bUFKZ3dOd3hUaHJpTU9UU0tQVTRNWDhCMGtFWDdaRm1vdDdKUTI0T2NIWC1icnZBcTdwZHFpQ21HcHRmS25FV3pyNl9xLTd3YjVFeU5Sb2djbk1CMWVB?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:37:30 GMT",
+  "published_ts": 1781084250,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXU4M1o2SXFTTXEtUjR5S2d6aUphUTNBVjM3Q09DSS11X3VjNmxZdy1ndGFpWUo3cnBtVHI5djMwN2kxQy10enZqV3NrS09BZ2NQTlVac2ZQUndUb3RLbjh1WjM2N2U1bjc0cmpOR2F4MVNya2ltR19iNUJUdXBPY1huNHJBZWFTcW1FQnVVbHpkb094NDg0bUFKZ3dOd3hUaHJpTU9UU0tQVTRNWDhCMGtFWDdaRm1vdDdKUTI0T2NIWC1icnZBcTdwZHFpQ21HcHRmS25FV3pyNl9xLTd3YjVFeU5Sb2djbk1CMWVB?oc=5\" target=\"_blank\">SK Hynix Reportedly Plans U.S. ADR Listing as Early as August, With SEC Approval Possible in Late June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix reportedly planning a U.S. ADR listing as early as August, with potential SEC approval in late June. This is a significant corporate development for a major DRAM ETF holding, but remains a report of plans and SEC approval is not yet confirmed, making it soft news rather than a settled event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "3ddb57fcb7e14507b3a595438401dd06c8d0933c",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNclFMU2hCNFlVMWl5THRaemJacnA4X2Z2MVc3VGxCZEQ0eHNDcHNYOGVYcmxhTTNqRURtY2FveDhuNHNyQnZYamZJWFdEWldXcEZXZV84MmtHcU1Ga2hJcXEwNmZ5MFl4b2gzZ2h5MTdpbC1YQUdfTWtsUFhqeUJIZVFfd0M5cHpGOXZFTUN1NEg0aG00ZmY5ckZEVFUwY3ZOVVNtTlB4Z0xOWVI3UUlhTkdOZ280WkhjRHFiamxsQjd5Z3hjR0Q5cEJuVk9LemlBNFRyMXl4NUZhNGRBcDh5bTR3?oc=5",
+  "published_at": "Wed, 10 Jun 2026 11:27:45 GMT",
+  "published_ts": 1781090865,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNclFMU2hCNFlVMWl5THRaemJacnA4X2Z2MVc3VGxCZEQ0eHNDcHNYOGVYcmxhTTNqRURtY2FveDhuNHNyQnZYamZJWFdEWldXcEZXZV84MmtHcU1Ga2hJcXEwNmZ5MFl4b2gzZ2h5MTdpbC1YQUdfTWtsUFhqeUJIZVFfd0M5cHpGOXZFTUN1NEg0aG00ZmY5ckZEVFUwY3ZOVVNtTlB4Z0xOWVI3UUlhTkdOZ280WkhjRHFiamxsQjd5Z3hjR0Q5cEJuVk9LemlBNFRyMXl4NUZhNGRBcDh5bTR3?oc=5\" target=\"_blank\">South Korea's SK Hynix eyes US listing as soon as August, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly exploring a US listing as early as August. This is a significant development for a core DRAM fund holding, but remains sourced speculation rather than an official announcement or confirmed event, limiting impact to 3."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "59501b732474f5276a0124bf91b2d993003e4f22",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2lqcmctZkdYRVE5U1RpVzNaS1ZXb1A4NVA4dTd4X1Y1TElpZHJKbzczQU1OT1hLNEV5Y05fRWZKcUZJZ0laZ3VvbGttd055NHNZOVhmT09mLVJFNlRrOG5hN1E4eklEU292ZnM0ejNSOGJ3eHVyVmNGMy1YOGFoaG5BSzE2c25KV053eEcxQkUxV2RHN3dnZ3dDWjlQNURoS0pJREtaR2xmX0tCd244LVNxMmJDQ0MzVktYMi1EZW1BYmVnelM4TUFJcWY0Zi1Yb2prUHppaVpxdUk?oc=5",
+  "published_at": "Wed, 10 Jun 2026 10:40:47 GMT",
+  "published_ts": 1781088047,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2lqcmctZkdYRVE5U1RpVzNaS1ZXb1A4NVA4dTd4X1Y1TElpZHJKbzczQU1OT1hLNEV5Y05fRWZKcUZJZ0laZ3VvbGttd055NHNZOVhmT09mLVJFNlRrOG5hN1E4eklEU292ZnM0ejNSOGJ3eHVyVmNGMy1YOGFoaG5BSzE2c25KV053eEcxQkUxV2RHN3dnZ3dDWjlQNURoS0pJREtaR2xmX0tCd244LVNxMmJDQ0MzVktYMi1EZW1BYmVnelM4TUFJcWY0Zi1Yb2prUHppaVpxdUk?oc=5\" target=\"_blank\">South Korea's SK Hynix eyes US listing as soon as August, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is exploring a US listing as early as August. This is a significant corporate development that could affect the company's profile and accessibility to US investors, but it remains sourced to unnamed sources and has not been officially confirmed by the company, making it speculative at this stage."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "58b1ffdd06ea4c4960a13b8a3ab70a04ddb83b5e",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "South Korea’s SK Hynix, Samsung rebound after AI rout spurs deep losses - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmtKT3dldUdvaUlOV29ENzVrb1duejBLQU5uTzBfSkgxYXl3SU9zWDNsaGJ5VXlaRUM4NVRHQnlXbWJKc05kZlZiZlRrRTdlOGZaVVRhMHd2OWtkX1BKcjJ0bVhxM2FkTEdaR1ZjdmJmRFZlUDN4YlZ0dHJiV01WdGR3c3pXZlB0VzlzMm9SVVlNY2JoWm44Zm1mUjVXbFBpRGRhcjVRQW9tZTJSWXRZbFJDbnkzOHl2b01RVDZEYnBEVkh0?oc=5",
+  "published_at": "Tue, 09 Jun 2026 06:46:57 GMT",
+  "published_ts": 1780987617,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmtKT3dldUdvaUlOV29ENzVrb1duejBLQU5uTzBfSkgxYXl3SU9zWDNsaGJ5VXlaRUM4NVRHQnlXbWJKc05kZlZiZlRrRTdlOGZaVVRhMHd2OWtkX1BKcjJ0bVhxM2FkTEdaR1ZjdmJmRFZlUDN4YlZ0dHJiV01WdGR3c3pXZlB0VzlzMm9SVVlNY2JoWm44Zm1mUjVXbFBpRGRhcjVRQW9tZTJSWXRZbFJDbnkzOHl2b01RVDZEYnBEVkh0?oc=5\" target=\"_blank\">South Korea’s SK Hynix, Samsung rebound after AI rout spurs deep losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung (memory division) are rebounding after previous AI-driven losses. Story reports stock price movement and sentiment shift but lacks concrete catalysts, earnings numbers, or official guidance changes—typical analyst/market commentary rather than a settled event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "9ed946b5a6cd9d6815f1554f01263a706549b61d",
+  "source": "ANI News",
+  "topic": "holding",
+  "title": "Korean chip giant SK hynix could list in US as soon as August: Report - ANI News",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHFzakdscEV4S3BjNV96dGpPT2ljU0FyeTAxaXRqZHZFVDJsUW1NWTVGNXd1WHhnZEYwems0dHRxSlpvUXludXVRamR3VXJRQXRLQ3JEbGZDSnFjdmQ0Wm9acWRUTkUxU0kzOTB6dWFWbG4zSlNlUFdYQlRaR2NJU1Z3cEZ0T3loRVpHckhlcHNwQzI4a3JIc1FnWUhsbWtuTS01czBpbFRMNzhYNWVhLVo1NWlfbTRyTGZn?oc=5",
+  "published_at": "Wed, 10 Jun 2026 11:09:00 GMT",
+  "published_ts": 1781089740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHFzakdscEV4S3BjNV96dGpPT2ljU0FyeTAxaXRqZHZFVDJsUW1NWTVGNXd1WHhnZEYwems0dHRxSlpvUXludXVRamR3VXJRQXRLQ3JEbGZDSnFjdmQ0Wm9acWRUTkUxU0kzOTB6dWFWbG4zSlNlUFdYQlRaR2NJU1Z3cEZ0T3loRVpHckhlcHNwQzI4a3JIc1FnWUhsbWtuTS01czBpbFRMNzhYNWVhLVo1NWlfbTRyTGZn?oc=5\" target=\"_blank\">Korean chip giant SK hynix could list in US as soon as August: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM ETF holding, is reportedly considering a US listing as soon as August. This is a significant corporate action for the company but remains speculative ('could list') and has not been officially confirmed. A US listing could affect capital structure, investor base, and trading dynamics, but the report is based on unnamed sources and represents a possibility rather than a confirmed event."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "ac87a804ea3a3cb8eb930657409f2f66cb75cf7e",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Samsung Reclaims DRAM Lead with 95% Revenue Gain - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHlwR0tTZUl3b0VhbW9pNTg4TmdnX2N2SnJPdHlKWHVEcjVuQ0s0c285YzV3LW5YMm81cjZMTFZ5STNMQlZfMmlXM2l3WUx2TWtXOGY1dlNkTFc2WE41YXF5U2FXNVlCdzY4MlRYemFvSXdId0txZmliMXBfY1pUOW8wRjQtYnZzUGJiTU1tck83RzQ?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:25:29 GMT",
+  "published_ts": 1781079929,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHlwR0tTZUl3b0VhbW9pNTg4TmdnX2N2SnJPdHlKWHVEcjVuQ0s0c285YzV3LW5YMm81cjZMTFZ5STNMQlZfMmlXM2l3WUx2TWtXOGY1dlNkTFc2WE41YXF5U2FXNVlCdzY4MlRYemFvSXdId0txZmliMXBfY1pUOW8wRjQtYnZzUGJiTU1tck83RzQ?oc=5\" target=\"_blank\">Samsung Reclaims DRAM Lead with 95% Revenue Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported a 95% revenue gain and reclaimed DRAM market leadership. This is a significant result for a major fund holding, but without confirmed earnings figures, detailed timing, or official Samsung guidance, the claim reads more as analysis/commentary than a hard event report. Warrants monitoring for official earnings confirmation."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "e43d589e849539fcd0b74cbc92e63b92ca1593d5",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Western Digital Emerges as a New AI Storage Winner Alongside Micron - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZkh5Rm92N2xPUXhDaGF0QUppVFlQaUhWTk1hcUl2NHo2TXBrU2VlclB4c3Rfejlxb1NZX0ZDeXc3Z0cwdkQyd0NUZDczOUh0MTJqWVdZY3ZxVUtXcnpXdXZkTy1wcjRCNDJhNDBlUlJSVUN4ZW1mbzFzeWk3R3U3WWtuTlV0NVA0Zk5ic0xEbDQzMHV3QkFBeGQzRHR4SnhETnUyR3RYaVducldSLW9xc0c2aklnQUtQNzhxWURUZmtldy0wMkFzMWhYSkMteUxMTWZMb2Z4cnZpMVFyWjJMcnBPdFRuVXVyb2g5RWlVSTZnblFtUkNCdVNEOFVEeEJkY203YjB0SFVURFJrQ3ZzcURJc1R2MnBTSEtjMg?oc=5",
+  "published_at": "Tue, 09 Jun 2026 20:57:00 GMT",
+  "published_ts": 1781038620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPZkh5Rm92N2xPUXhDaGF0QUppVFlQaUhWTk1hcUl2NHo2TXBrU2VlclB4c3Rfejlxb1NZX0ZDeXc3Z0cwdkQyd0NUZDczOUh0MTJqWVdZY3ZxVUtXcnpXdXZkTy1wcjRCNDJhNDBlUlJSVUN4ZW1mbzFzeWk3R3U3WWtuTlV0NVA0Zk5ic0xEbDQzMHV3QkFBeGQzRHR4SnhETnUyR3RYaVducldSLW9xc0c2aklnQUtQNzhxWURUZmtldy0wMkFzMWhYSkMteUxMTWZMb2Z4cnZpMVFyWjJMcnBPdFRuVXVyb2g5RWlVSTZnblFtUkNCdVNEOFVEeEJkY203YjB0SFVURFJrQ3ZzcURJc1R2MnBTSEtjMg?oc=5\" target=\"_blank\">Western Digital Emerges as a New AI Storage Winner Alongside Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital positioned as emerging winner in AI storage alongside Micron. Analysis piece identifying WDC as a beneficiary of AI infrastructure growth and storage demand, but lacks concrete events, earnings data, or confirmed guidance changes to support a higher impact rating."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "83340be6420c86793e37dc5a894c6bf94b3ada5b",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Western Digital, Microchip Technology, and Seagate Shares Are Soaring, What You Need To Know - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOY05BNUI1ZWFiUHo0RGNhbFlqdUZaYlhOUzJ6QW52VWtfcWUzc25tWFVrTXZaRDF4aGJoRFhIMWhhMHVGWlJmMnJHXzFOckV6M3lYQ0ZkemRtSXRPanZUM1hJR2dlS1Y5MkJQRDRCQkhLZ05qNlF3R3IxajU3WUp1ZE80U1RKWlpkQ3M2aWMzSmhQbzExbjduYzlrY2VGRnFKMVN0Q2pDX1lSRnJhS195el9va2VWWkFMNVZNdi1qX3hQY095VEpYVFFaYldCWlRVLWhUNi1jNHhWbVFudl9vSnBkMHA3Tm5lSjhyOWx5MWhuTmoxNlZ4U3hpQm9KQV8zSWcw?oc=5",
+  "published_at": "Mon, 08 Jun 2026 17:35:05 GMT",
+  "published_ts": 1780940105,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOY05BNUI1ZWFiUHo0RGNhbFlqdUZaYlhOUzJ6QW52VWtfcWUzc25tWFVrTXZaRDF4aGJoRFhIMWhhMHVGWlJmMnJHXzFOckV6M3lYQ0ZkemRtSXRPanZUM1hJR2dlS1Y5MkJQRDRCQkhLZ05qNlF3R3IxajU3WUp1ZE80U1RKWlpkQ3M2aWMzSmhQbzExbjduYzlrY2VGRnFKMVN0Q2pDX1lSRnJhS195el9va2VWWkFMNVZNdi1qX3hQY095VEpYVFFaYldCWlRVLWhUNi1jNHhWbVFudl9vSnBkMHA3Tm5lSjhyOWx5MWhuTmoxNlZ4U3hpQm9KQV8zSWcw?oc=5\" target=\"_blank\">Western Digital, Microchip Technology, and Seagate Shares Are Soaring, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital and Seagate shares are soaring with no disclosed catalyst reported. Both are DRAM ETF holdings, but a price-move story without a stated cause or concrete event is soft news—analyst commentary or market momentum rather than a material development."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "f86a68661a467c2fa9fb21d1192eb9822fb94dde",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Sandisk Stock Jumps—Again. Don’t Worry About New Memory Supply, Say Analysts. - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWUlYcTkxVjR0eEN5X0Z6UGRyVHZ6cXMzVl9jX19NR2d3d0JhbHF0Tmx2dTMwcEJsa2hPSHRaLVlEbG1YUHBrMG9LM3F1TWZrWGJMOWZvVWZlWDcwdTI4aXM2d3dvNVFYOENFX21Qd00waWhVckUtN2VxcnE?oc=5",
+  "published_at": "Mon, 08 Jun 2026 13:52:00 GMT",
+  "published_ts": 1780926720,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWUlYcTkxVjR0eEN5X0Z6UGRyVHZ6cXMzVl9jX19NR2d3d0JhbHF0Tmx2dTMwcEJsa2hPSHRaLVlEbG1YUHBrMG9LM3F1TWZrWGJMOWZvVWZlWDcwdTI4aXM2d3dvNVFYOENFX21Qd00waWhVckUtN2VxcnE?oc=5\" target=\"_blank\">Sandisk Stock Jumps—Again. Don’t Worry About New Memory Supply, Say Analysts.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXBSTnVFY00ycWI5WVFoZTBFOVJOMDZDbHp4T2ZWZENRNEtiRm90M0IxWU00ZzhjN3JLdVhzbEU3VUtpblNab3owNmZWQWlITERENlNtdVRlNF9lazVqQ3RIOWJsWlJwdDk4NmVKVVN6dm8yMFBZV1l0MlpXd0c0eVNB?oc=5\" target=\"_blank\">Sandisk Stock: Can You Say ‘Bubble’?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkJDb1lvdjJsMkZQZUhEWTR6YjRna3kyR0lQUVJCMnBZV2RkeE4zZjNhZkdXeGZoSkVEcWhsTDlfVmEyb1kyLWdVMDFLRzhDZThvTHQyMGNXaWMxNUtEVXFhWWIwb1hLX2F0TXl5dHNiYUctOUQ2UXdGdEhqVnJaSFNFN3ZKeHUzSTIyQzRvaFJpQnNLd1hHRQ?oc=5\" target=\"_blank\">SanDisk wins big BofA target upgrade as new supply deals shore up earnings visibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rallied; analysts comment that new memory supply concerns should not worry investors. This is analyst commentary on pricing/supply dynamics rather than a concrete event, deal, or earnings result."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "0acc90e40e940d0616d69e728ddcde2d82cfdff0",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Micron and Sandisk Have Crushed Nvidia as the Top Artificial Intelligence (AI) Stock in 2026. Can That Continue? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZGEtRm5PN19ZeG1CNG4yaVVRMnBDUm55ckNIdEk2Nk5jR0xCUTVxNjNWVTJ1c3VDX2lsN05uS3ZZX2JYaWNYWUdMSmJmVktEbFlqNkhhaEFFcy1seVVvT2xDdXRQNzJTdnVCOHFha3B6NzZwODhPUFozN2ZhaloxZ3NDUmQ3WDlLNWJKQnQtbDBXMlVYZjQ2LVV3T1NPUDByaUd3X0pnX2dxTXYzeEVYLU5NQzFZNTFPTXhSYmllYkpFeU81Q0liVTZQeWlHejctOWJiLWx2UldvaHp5YW55LXhJUVpIeG1MWFRqS0dGUEVhaUhvLURDRTFtNUtOblJjZGlURUpNa2F3SV9HWVJQbVdOMXBkUQ?oc=5",
+  "published_at": "Wed, 10 Jun 2026 11:08:52 GMT",
+  "published_ts": 1781089732,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOZGEtRm5PN19ZeG1CNG4yaVVRMnBDUm55ckNIdEk2Nk5jR0xCUTVxNjNWVTJ1c3VDX2lsN05uS3ZZX2JYaWNYWUdMSmJmVktEbFlqNkhhaEFFcy1seVVvT2xDdXRQNzJTdnVCOHFha3B6NzZwODhPUFozN2ZhaloxZ3NDUmQ3WDlLNWJKQnQtbDBXMlVYZjQ2LVV3T1NPUDByaUd3X0pnX2dxTXYzeEVYLU5NQzFZNTFPTXhSYmllYkpFeU81Q0liVTZQeWlHejctOWJiLWx2UldvaHp5YW55LXhJUVpIeG1MWFRqS0dGUEVhaUhvLURDRTFtNUtOblJjZGlURUpNa2F3SV9HWVJQbVdOMXBkUQ?oc=5\" target=\"_blank\">Micron and Sandisk Have Crushed Nvidia as the Top Artificial Intelligence (AI) Stock in 2026. Can That Continue?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece noting that Micron and SanDisk have outperformed Nvidia as AI stocks in 2026. While both are fund holdings and the comparison is timely, this is market commentary and performance observation rather than a concrete catalyst or earnings/guidance event moving the stocks."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "0f538d75886d619f393a4378fa54715ae28318ce",
+  "source": "The Economic Times",
+  "topic": "industry",
+  "title": "AI demand to keep memory tight through 2027, chipflation to squeeze consumer hardware and cloud costs - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ0w5b09LbWItWmZzYTJ5NjBEdjF4dU9MeWFhUXlzQTdmd1ZCUXplR1RQSzRGeWRXdE9wWk8yc29NUng2anhqSUhoOEhFQkMyV2RoMUlvUGN0RkYyMjAzR05HdkhWZ3F2ay1SNFhfV0lGT1lieWpHbnN1eFV2VGRfM0Q5eVVUREkxb1JnQWNIbklPS3ZHWEF5Si1UUG9rb3BrOGNHZUZ4bnItS3FubXRJS2ZWSnVDbW14SVR3cGZXYlNNV1RkdjhSWUFxb2lJbU92STlzS0VKc0U5SWlDVDJ4N3dZR2Rrem1OOHRwRnBRRWdma2phZmctTndCVkwzMlpLQzlmYVZtU2dfWmp1ZW9NctIBlgJBVV95cUxOTTViMHpkVEhkX1I1Xy1penJnbUxEcnFOX0h6VUNQM3hwYkM3Sm9Ld3F6TTRPN0JGejlMYzd5QW9aR054WnhoSFVuU0ZtWjNZbzB2RlFoVEpBVEJUcXFYNHh2ajZLbVZiYmRNQVhzSWFxdHJ1Rm9FUlFvNzFMOXhVbW0zdWFHSGxtWDdtamRZeHFNYkpPYkI3dDdkcFlHc2tCWnJ3a2pNNy1ZLTJvTFJfNGhaNUc1dWswYnRHNDJBTF9tOW1vUXI4Q2VXdHVOZ2lTU216TGlKVjZEVzE1aF8zczI2dWU5d3QyTXJWREdHQ3FKQXF3WVpLeGNBMU1hbTJlRnFNLURLQkViZklvWVFwUWdGU05hZw?oc=5",
+  "published_at": "Wed, 10 Jun 2026 07:24:23 GMT",
+  "published_ts": 1781076263,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ0w5b09LbWItWmZzYTJ5NjBEdjF4dU9MeWFhUXlzQTdmd1ZCUXplR1RQSzRGeWRXdE9wWk8yc29NUng2anhqSUhoOEhFQkMyV2RoMUlvUGN0RkYyMjAzR05HdkhWZ3F2ay1SNFhfV0lGT1lieWpHbnN1eFV2VGRfM0Q5eVVUREkxb1JnQWNIbklPS3ZHWEF5Si1UUG9rb3BrOGNHZUZ4bnItS3FubXRJS2ZWSnVDbW14SVR3cGZXYlNNV1RkdjhSWUFxb2lJbU92STlzS0VKc0U5SWlDVDJ4N3dZR2Rrem1OOHRwRnBRRWdma2phZmctTndCVkwzMlpLQzlmYVZtU2dfWmp1ZW9NctIBlgJBVV95cUxOTTViMHpkVEhkX1I1Xy1penJnbUxEcnFOX0h6VUNQM3hwYkM3Sm9Ld3F6TTRPN0JGejlMYzd5QW9aR054WnhoSFVuU0ZtWjNZbzB2RlFoVEpBVEJUcXFYNHh2ajZLbVZiYmRNQVhzSWFxdHJ1Rm9FUlFvNzFMOXhVbW0zdWFHSGxtWDdtamRZeHFNYkpPYkI3dDdkcFlHc2tCWnJ3a2pNNy1ZLTJvTFJfNGhaNUc1dWswYnRHNDJBTF9tOW1vUXI4Q2VXdHVOZ2lTU216TGlKVjZEVzE1aF8zczI2dWU5d3QyTXJWREdHQ3FKQXF3WVpLeGNBMU1hbTJlRnFNLURLQkViZklvWVFwUWdGU05hZw?oc=5\" target=\"_blank\">AI demand to keep memory tight through 2027, chipflation to squeeze consumer hardware and cloud costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis forecasting AI demand will maintain tight memory supply conditions through 2027, with potential cost pressures on consumer and cloud infrastructure. Soft forecast rather than confirmed event or hard data point."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "b7c33a33e012adcfeea3b0e152ec633c8737ee00",
+  "source": "digitimes",
+  "topic": "pricing",
+  "title": "AI data centers still lack cost case to replace HDDs with SSDs, says former Western Digital EVP - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMS05N3NHSHQyb3hnUTNpQ3JOOVQ5dlJQMTdCWDByOXo1WXRJRTJILW5ZSkpMTTJkX0tDd3dzM1pUeFFPZnpGQXVRQndiOXdTOFNQeGduRFRZRVhzdnM4WVdORm5jY0h1YmFxRlRXV3RveXE0UWpDdWk2X1JlaE93UDVYNzhnVmpsc3p5bXhVS1g?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:13:01 GMT",
+  "published_ts": 1781079181,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMS05N3NHSHQyb3hnUTNpQ3JOOVQ5dlJQMTdCWDByOXo1WXRJRTJILW5ZSkpMTTJkX0tDd3dzM1pUeFFPZnpGQXVRQndiOXdTOFNQeGduRFRZRVhzdnM4WVdORm5jY0h1YmFxRlRXV3RveXE0UWpDdWk2X1JlaE93UDVYNzhnVmpsc3p5bXhVS1g?oc=5\" target=\"_blank\">AI data centers still lack cost case to replace HDDs with SSDs, says former Western Digital EVP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Former Western Digital executive commentary on the economics of HDD-to-SSD replacement in AI data centers. While relevant to WDC (a fund holding) and storage pricing dynamics, this is opinion/analysis from an industry veteran rather than a concrete event or confirmed market development. No hard numbers, pricing data, or announced decisions provided."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "02d1e14a1d3b8db6323352d48931ef4778826d57",
+  "source": "富途牛牛",
+  "topic": "pricing",
+  "title": "Analysts: Chip prices could peak earlier than expected within one year; DRAM and NAND prices may experience consecutive quarterly declines starting early next year. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVdoWlQwdmZMV0lEaFgzSTNJOEVHMDRpSHh5Q1dIYm5rYlBVT29qd1IyMzVDakYwcGw4VFBYOFZyb3RLbm90OFU5d2xZRGN3YWhjVHh5ZTFQdWtXSkpwVkhTNzlBbldCLUNWaks1cEpoNlJpQnd1c1lSMlVjcW5WTUdiZFRGbmV2MUFtR2VDQnBzbVl2NjMySE5IVlZqSFp2M0I4R3NLa2g?oc=5",
+  "published_at": "Wed, 10 Jun 2026 10:57:58 GMT",
+  "published_ts": 1781089078,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVdoWlQwdmZMV0lEaFgzSTNJOEVHMDRpSHh5Q1dIYm5rYlBVT29qd1IyMzVDakYwcGw4VFBYOFZyb3RLbm90OFU5d2xZRGN3YWhjVHh5ZTFQdWtXSkpwVkhTNzlBbldCLUNWaks1cEpoNlJpQnd1c1lSMlVjcW5WTUdiZFRGbmV2MUFtR2VDQnBzbVl2NjMySE5IVlZqSFp2M0I4R3NLa2g?oc=5\" target=\"_blank\">Analysts: Chip prices could peak earlier than expected within one year; DRAM and NAND prices may experience consecutive quarterly declines starting early next year.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysts forecast that DRAM and NAND prices could peak within one year and experience consecutive quarterly declines starting in early next year. This is analyst opinion and forecast rather than a confirmed event, making it a soft signal on memory pricing trends."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "09b405f078aa1a60d98122abb2fffb895716b1c8",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[Insights] Memory Spot Price Update: DDR5 Spot Momentum Continues as DDR4 Tightness Spills Over to DDR3 - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUh3N2lOUEtKQ0xkU09xcjVlUTdfOUpOcmN2RnNsU0NJYWdsaHNrM1Y5ejR0RHZ2LVFNUkZGWC02RWE1dnJVUDc4aWtPdmJ2d3N6NE1RWEhvRzVpcXlnNFExcnFmcEtvWlR4S1JlNlFhRUlya25iOGZMTjNLTnZiY2dWaU9ybTk5TnR2TlJWZGJhR2JfV1o2bWJhSTd0dzhROUYyejhrX0M2VWlVUVZtMWJTdWpldjRKS0FrNFg5V1dPbTk1djRVdS1iMDJBM3FlZ29UM2JSTHVyVUky?oc=5",
+  "published_at": "Wed, 10 Jun 2026 06:28:53 GMT",
+  "published_ts": 1781072933,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUh3N2lOUEtKQ0xkU09xcjVlUTdfOUpOcmN2RnNsU0NJYWdsaHNrM1Y5ejR0RHZ2LVFNUkZGWC02RWE1dnJVUDc4aWtPdmJ2d3N6NE1RWEhvRzVpcXlnNFExcnFmcEtvWlR4S1JlNlFhRUlya25iOGZMTjNLTnZiY2dWaU9ybTk5TnR2TlJWZGJhR2JfV1o2bWJhSTd0dzhROUYyejhrX0M2VWlVUVZtMWJTdWpldjRKS0FrNFg5V1dPbTk1djRVdS1iMDJBM3FlZ29UM2JSTHVyVUky?oc=5\" target=\"_blank\">[Insights] Memory Spot Price Update: DDR5 Spot Momentum Continues as DDR4 Tightness Spills Over to DDR3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce reports on DRAM spot price momentum, noting continued DDR5 strength and tightening conditions spreading from DDR4 to DDR3. Spot pricing is a leading indicator for memory semiconductor stocks, but this is analysis/market commentary rather than a concrete event or hard number with specific price levels or volume data."
+  },
+  "buffered_ts": 1781092420.8884525
+ },
+ {
+  "id": "55969cb8762914c38cd95100fab98bb4fa62c2ca",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Two workers hospitalized after chemical exposure incident at SK hynix in Cheongju - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9STFdwZnljeXNQUl8yXzJmZEdsampKaGV3eFZERkpxbVhhTVJNSDhvYlFxeUlrcXFvLVp5ZXI4WjVXNzdjMktDU1BibTRpR3dDSGlV?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:26:07 GMT",
+  "published_ts": 1781079967,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9STFdwZnljeXNQUl8yXzJmZEdsampKaGV3eFZERkpxbVhhTVJNSDhvYlFxeUlrcXFvLVp5ZXI4WjVXNzdjMktDU1BibTRpR3dDSGlV?oc=5\" target=\"_blank\">Two workers hospitalized after chemical exposure incident at SK hynix in Cheongju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Two workers at SK hynix's Cheongju fab were hospitalized following a chemical exposure incident. While this is a safety event at a major holding, the impact on production or operations is not yet disclosed; this is a minor incident report with no indication of fab disruption or output loss."
+  },
+  "buffered_ts": 1781092420.8884525
  }
 ]
