@@ -76,14 +76,19 @@ def run(mode: str, dry: bool) -> None:
         f"-> {len(kept)} relevant ({len(instant)} alert); buffer={len(buffer)} ---"
     )
 
-    # Instant alerts fire in every mode, once per newly-seen high-impact item.
-    for item in instant:
-        v = item["triage"]
-        subject = f"🚨 DRAM alert [{v['impact']}/5]: {item['title']}"
-        if dry:
-            print(f"    [dry] would alert: {subject}")
+    # Instant alerts: one batched email per run (not one-per-item — that both
+    # spams the inbox and trips Resend's 5-requests/sec limit on a backlog).
+    if instant:
+        if len(instant) == 1:
+            v = instant[0]["triage"]
+            subject = f"🚨 DRAM alert [{v['impact']}/5]: {instant[0]['title']}"
         else:
-            notify.send_email(subject, notify.render_digest_html([item]))
+            top = instant[0]["triage"]["impact"]
+            subject = f"🚨 DRAM: {len(instant)} high-impact items (top {top}/5)"
+        if dry:
+            print(f"    [dry] would send 1 alert email covering {len(instant)} item(s)")
+        else:
+            notify.send_email(subject, notify.render_digest_html(instant))
 
     if mode == "brief":
         # Synthesize the whole day's buffer, send, then flush. Always sends —

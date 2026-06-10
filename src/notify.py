@@ -13,10 +13,12 @@ from __future__ import annotations
 import html as html_lib
 import json
 import os
+import time
 import urllib.error
 import urllib.request
 
 RESEND_ENDPOINT = "https://api.resend.com/emails"
+_MAX_SEND_RETRIES = 3
 
 
 def _wrap_html(inner: str) -> str:
@@ -61,12 +63,18 @@ def send_email(subject: str, body_html: str, *, to: str | None = None, sender: s
             "User-Agent": "dram-monitor/1.0",
         },
     )
-    try:
-        with urllib.request.urlopen(request) as response:
-            return json.load(response)
-    except urllib.error.HTTPError as error:
-        detail = error.read().decode("utf-8", "replace")
-        raise RuntimeError(f"Resend returned {error.code}: {detail}") from error
+    for attempt in range(_MAX_SEND_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(request) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as error:
+            # 429 = Resend's per-second rate limit; back off and retry.
+            if error.code == 429 and attempt < _MAX_SEND_RETRIES:
+                retry_after = error.headers.get("retry-after")
+                time.sleep(float(retry_after) if retry_after else 1.5)
+                continue
+            detail = error.read().decode("utf-8", "replace")
+            raise RuntimeError(f"Resend returned {error.code}: {detail}") from error
 
 
 def render_raw_list_html(items: list[dict]) -> str:
