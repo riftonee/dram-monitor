@@ -40,9 +40,23 @@ What is NOT relevant — drop these (relevant=false):
 memory-specific news.
 - Unrelated macro/markets stories that merely name-drop the fund.
 
-Impact scale (1-5): 5 = major, market-moving (earnings, big guidance change, \
-large price move, supply shock); 4 = clearly material; 3 = notable; 2 = minor; \
-1 = trivial. Category is the dominant theme.
+Impact scale (1-5) — reserve 4 and 5 for stories reporting a CONCRETE EVENT or a \
+HARD NUMBER, not opinion or possibility:
+- 5 = a confirmed, market-moving event: earnings results, a real guidance change, \
+a large actual price move, an announced supply/production cut or shock.
+- 4 = a concrete, material development that has actually happened: a signed or \
+officially announced deal, a substantive regulatory filing, an official \
+capacity/investment decision, or a sizable confirmed stock move with a stated cause.
+- 3 = relevant but soft — opinion, analysis, or possibility rather than a settled \
+event. Includes analyst notes and price-target changes; deals merely being \
+discussed, pursued, explored, or rumored; executives "meeting to discuss"; and \
+"stock rose/fell X%" pieces with no disclosed catalyst. When torn between 3 and 4, \
+pick 3.
+- 2 = minor or passing mention. 1 = trivial.
+
+Only impact 4-5 triggers an instant alert, so be strict: if the story is talk, \
+speculation, a forecast, or a pure price move with no stated cause, it is at most \
+a 3. Category is the dominant theme.
 
 Translate non-English (e.g. Korean SK hynix/Samsung) coverage as needed."""
 
