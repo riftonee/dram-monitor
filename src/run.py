@@ -24,7 +24,7 @@ except ImportError:
     pass
 
 import config
-from src import notify, state
+from src import notify, state, triage
 from src.collect import collect_all
 
 
@@ -56,20 +56,32 @@ def main() -> None:
     send = "--send" in sys.argv[1:]
 
     new, n_collected, n_recent = gather_new_items()
-    for item in new:
-        print(f"[{item['topic']:>8}] {item['title']}")
-        print(f"           {item['source']} — {item['published_at']}")
-        print(f"           {item['url']}")
+    kept = triage.triage_items(new)  # relevant items only, sorted by impact desc
+    instant = [i for i in kept if i["triage"]["impact"] >= config.INSTANT_ALERT_IMPACT]
+
+    for item in kept:
+        v = item["triage"]
+        print(f"[{v['impact']}/5 {v['category']:>8}] {item['title']}")
+        print(f"           {v['summary']}")
         print()
     print(
         f"--- collected {n_collected} -> {n_recent} recent "
-        f"(<= {config.MAX_ITEM_AGE_HOURS}h) -> {len(new)} new after dedupe ---"
+        f"(<= {config.MAX_ITEM_AGE_HOURS}h) -> {len(new)} new -> {len(kept)} relevant "
+        f"({len(instant)} instant-alert) ---"
     )
 
     if send:
-        subject = f"DRAM monitor — {len(new)} new item(s)"
-        result = notify.send_email(subject, notify.render_raw_list_html(new))
-        print(f"--- email sent via Resend (id: {result.get('id', '?')}) ---")
+        # Instant alerts for high-impact breaks (rare by design).
+        for item in instant:
+            v = item["triage"]
+            notify.send_email(
+                f"🚨 DRAM alert [{v['impact']}/5]: {item['title']}",
+                notify.render_digest_html([item]),
+            )
+        # The daily brief: everything kept.
+        subject = f"DRAM monitor — {len(kept)} item(s), {len(instant)} alert(s)"
+        result = notify.send_email(subject, notify.render_digest_html(kept))
+        print(f"--- {len(instant)} alert(s) + brief sent via Resend (brief id: {result.get('id', '?')}) ---")
 
 
 if __name__ == "__main__":

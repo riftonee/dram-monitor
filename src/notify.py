@@ -68,3 +68,39 @@ def render_raw_list_html(items: list[dict]) -> str:
             parts.append(f'<li><a href="{url}">{title}</a> — <em>{source}</em></li>')
         parts.append("</ul>")
     return "\n".join(parts)
+
+
+# Order categories most-actionable first in the digest.
+_CATEGORY_ORDER = ["fund", "holding", "pricing", "industry", "macro"]
+
+
+def render_digest_html(items: list[dict]) -> str:
+    """Milestone 4 email body: triaged items grouped by category, each with its
+    impact score and one-line summary. Items must carry a 'triage' verdict."""
+    if not items:
+        return "<p>Nothing material in the last 24h.</p>"
+
+    by_category: dict[str, list[dict]] = {}
+    for item in items:
+        by_category.setdefault(item["triage"]["category"], []).append(item)
+
+    ordered = [c for c in _CATEGORY_ORDER if c in by_category]
+    ordered += [c for c in sorted(by_category) if c not in _CATEGORY_ORDER]
+
+    parts: list[str] = []
+    for category in ordered:
+        rows = sorted(by_category[category], key=lambda i: i["triage"]["impact"], reverse=True)
+        parts.append(f"<h3>{html_lib.escape(category.title())}</h3><ul>")
+        for item in rows:
+            impact = item["triage"]["impact"]
+            title = html_lib.escape(item["title"])
+            url = html_lib.escape(item["url"], quote=True)
+            source = html_lib.escape(item["source"])
+            summary = html_lib.escape(item["triage"]["summary"])
+            parts.append(
+                f'<li><strong>[{impact}/5]</strong> '
+                f'<a href="{url}">{title}</a> — <em>{source}</em>'
+                f"<br><small>{summary}</small></li>"
+            )
+        parts.append("</ul>")
+    return "\n".join(parts)
