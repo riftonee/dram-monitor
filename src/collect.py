@@ -10,6 +10,7 @@ Run:  python3 -m src.collect
 
 from __future__ import annotations
 
+import calendar
 import hashlib
 import sys
 import urllib.parse
@@ -23,6 +24,16 @@ def _make_id(url: str, title: str, source: str) -> str:
     """Stable dedupe id. Prefer the URL; fall back to title+source (BRIEF.md)."""
     basis = url.strip() if url else f"{title}|{source}"
     return hashlib.sha1(basis.encode("utf-8")).hexdigest()
+
+
+def _published_ts(entry) -> float | None:
+    """Epoch seconds (UTC) for the entry, or None if unparseable.
+
+    feedparser exposes `published_parsed` as a UTC time.struct_time; calendar.timegm
+    converts it without dragging in the local timezone (time.mktime would).
+    """
+    parsed = entry.get("published_parsed")
+    return calendar.timegm(parsed) if parsed else None
 
 
 def _google_news_url(query: str) -> str:
@@ -50,6 +61,7 @@ def collect_google_news() -> list[dict]:
                     "title": title,
                     "url": url,
                     "published_at": entry.get("published", ""),
+                    "published_ts": _published_ts(entry),
                     "snippet": entry.get("summary", "").strip(),
                 }
             )

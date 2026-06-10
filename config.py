@@ -39,5 +39,13 @@ GOOGLE_NEWS_QUERIES = [
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
 GOOGLE_NEWS_PARAMS = {"hl": "en-US", "gl": "US", "ceid": "US:en"}
 
+# Recency: ignore anything older than this. Combined with dedupe, this keeps the
+# very first run from importing a months-deep backlog, and bounds steady-state work.
+MAX_ITEM_AGE_HOURS = 48
+
+# How long an id stays in state/seen.json before it is pruned. Must comfortably
+# exceed MAX_ITEM_AGE_HOURS so a still-recent story can never be re-imported.
+SEEN_RETENTION_DAYS = 30
+
 # Routing thresholds (used from Milestone 4).
 INSTANT_ALERT_IMPACT = 4  # impact >= this triggers an instant alert email
