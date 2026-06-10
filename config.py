@@ -72,4 +72,6 @@ SEEN_RETENTION_DAYS = 30
 BUFFER_RETENTION_HOURS = 36
 
 # Routing thresholds (used from Milestone 4).
-INSTANT_ALERT_IMPACT = 4  # impact >= this triggers an instant alert email
+# Only impact-5 (confirmed, market-moving events) trigger an instant alert; impact
+# 4 and below are held for the daily brief. Keeps alerts rare by design.
+INSTANT_ALERT_IMPACT = 5  # impact >= this triggers an instant alert email
