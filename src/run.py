@@ -3,12 +3,21 @@
 Pipeline (BRIEF.md). Dedupe happens BEFORE any paid AI step so a story is never
 processed twice:
 
-    collect  ->  drop stale (recency)  ->  drop already-seen (dedupe)  ->  [triage/synth/send]
+    collect -> drop stale (recency) -> drop seen (dedupe) -> triage -> route -> send
 
-Milestones 1-2 implemented here: collect, recency filter, dedupe, persist state.
-Triage/synthesize/notify hook in at steps 4-5.
+Two modes:
+  alerts  (every 30 min) — collect, triage, send instant alerts (impact>=4), and
+                           accumulate kept items into the daily buffer.
+  brief   (once a day)   — same, plus pull the rate-limited source (Alpha Vantage),
+                           synthesize the whole day's buffer into the morning
+                           briefing, send it, and clear the buffer.
 
-Run:  python3 -m src.run
+Instant alerts fire in BOTH modes — they're keyed to this run's newly-seen items,
+so each alert-worthy story is emailed exactly once regardless of mode.
+
+Run:  python3 -m src.run alerts        (default)
+      python3 -m src.run brief
+      python3 -m src.run brief --dry    (print, don't send — for local testing)
 """
 
 from __future__ import annotations
@@ -35,12 +44,12 @@ def filter_recent(items: list[dict], max_age_hours: int, now: float) -> list[dic
     return [i for i in items if i["published_ts"] is None or i["published_ts"] >= cutoff]
 
 
-def gather_new_items(now: float | None = None) -> list[dict]:
+def gather_new_items(include_rate_limited: bool = False, now: float | None = None):
     """Collect, drop stale, drop already-seen, and persist the updated seen-state.
-    Returns the fresh items for the downstream (triage -> synth -> send) stages."""
+    Returns (new_items, n_collected, n_recent) for the downstream stages."""
     now = time.time() if now is None else now
 
-    collected = collect_all()
+    collected = collect_all(include_rate_limited=include_rate_limited)
     recent = filter_recent(collected, config.MAX_ITEM_AGE_HOURS, now)
 
     seen = state.load_seen()
@@ -52,36 +61,48 @@ def gather_new_items(now: float | None = None) -> list[dict]:
     return new, len(collected), len(recent)
 
 
-def main() -> None:
-    send = "--send" in sys.argv[1:]
-
-    new, n_collected, n_recent = gather_new_items()
-    kept = triage.triage_items(new)  # relevant items only, sorted by impact desc
+def run(mode: str, dry: bool) -> None:
+    new, n_collected, n_recent = gather_new_items(include_rate_limited=(mode == "brief"))
+    kept = triage.triage_items(new)  # relevant only, sorted by impact desc
     instant = [i for i in kept if i["triage"]["impact"] >= config.INSTANT_ALERT_IMPACT]
+    buffer = state.append_buffer(kept)
 
     for item in kept:
         v = item["triage"]
         print(f"[{v['impact']}/5 {v['category']:>8}] {item['title']}")
         print(f"           {v['summary']}")
-        print()
     print(
-        f"--- collected {n_collected} -> {n_recent} recent "
-        f"(<= {config.MAX_ITEM_AGE_HOURS}h) -> {len(new)} new -> {len(kept)} relevant "
-        f"({len(instant)} instant-alert) ---"
+        f"--- [{mode}] collected {n_collected} -> {n_recent} recent -> {len(new)} new "
+        f"-> {len(kept)} relevant ({len(instant)} alert); buffer={len(buffer)} ---"
     )
 
-    if send:
-        # Instant alerts for high-impact breaks (rare by design).
-        for item in instant:
-            v = item["triage"]
-            notify.send_email(
-                f"🚨 DRAM alert [{v['impact']}/5]: {item['title']}",
-                notify.render_digest_html([item]),
-            )
-        # The daily brief: Sonnet synthesis over everything kept.
-        subject = f"DRAM monitor — {len(kept)} item(s), {len(instant)} alert(s)"
-        result = notify.send_email(subject, synthesize.synthesize(kept))
-        print(f"--- {len(instant)} alert(s) + brief sent via Resend (brief id: {result.get('id', '?')}) ---")
+    # Instant alerts fire in every mode, once per newly-seen high-impact item.
+    for item in instant:
+        v = item["triage"]
+        subject = f"🚨 DRAM alert [{v['impact']}/5]: {item['title']}"
+        if dry:
+            print(f"    [dry] would alert: {subject}")
+        else:
+            notify.send_email(subject, notify.render_digest_html([item]))
+
+    if mode == "brief":
+        # Synthesize the whole day's buffer, send, then flush. Always sends —
+        # even on a quiet day — so a silent failure is distinguishable.
+        subject = f"DRAM brief — {len(buffer)} item(s) today, {len(instant)} alert(s) this run"
+        body = synthesize.synthesize(buffer)
+        if dry:
+            print(f"    [dry] would send brief ({len(buffer)} items)\n{body[:500]}")
+        else:
+            result = notify.send_email(subject, body)
+            state.clear_buffer()
+            print(f"--- brief sent via Resend (id: {result.get('id', '?')}); buffer cleared ---")
+
+
+def main() -> None:
+    args = sys.argv[1:]
+    mode = "brief" if "brief" in args else "alerts"
+    dry = "--dry" in args
+    run(mode, dry)
 
 
 if __name__ == "__main__":

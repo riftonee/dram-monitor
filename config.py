@@ -67,5 +67,9 @@ MAX_ITEM_AGE_HOURS = 48
 # exceed MAX_ITEM_AGE_HOURS so a still-recent story can never be re-imported.
 SEEN_RETENTION_DAYS = 30
 
+# Safety cap on the daily kept-buffer: if a brief run is ever missed, items don't
+# accumulate forever. Should exceed one day so a normal day's items survive to 8am.
+BUFFER_RETENTION_HOURS = 36
+
 # Routing thresholds (used from Milestone 4).
 INSTANT_ALERT_IMPACT = 4  # impact >= this triggers an instant alert email

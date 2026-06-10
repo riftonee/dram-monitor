@@ -2,47 +2,72 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Status: design-only, not yet implemented
-
-The repo currently contains a single design document, `BRIEF.md`. No code, `requirements.txt`, workflow, or `state/` directory exists yet. `BRIEF.md` is the source of truth for intent — read it before writing code. The structure below is the *planned* target, not the current state.
-
 ## What this is
 
-A personal, cron-scheduled monitor for the **Roundhill Memory ETF (DRAM)**. It collects memory-industry news, filters noise with an AI triage pass, and emails the owner a daily briefing plus rare instant alerts. It is an *awareness* tool, explicitly **not** a trading signal (see Non-Goals in `BRIEF.md`). It reuses the "Oceania monitor" / "cruise monitor" pattern: serverless, runs entirely inside GitHub Actions, state committed back to the repo as JSON.
+A personal, cron-scheduled monitor for the **Roundhill Memory ETF (DRAM)**. It collects memory-industry news, filters noise with an AI triage pass, and emails a daily briefing plus rare instant alerts. It is an *awareness* tool, explicitly **not** a trading signal (see Non-Goals in `BRIEF.md`). Serverless: runs entirely inside GitHub Actions, state committed back to the repo as JSON. `BRIEF.md` is the original design spec; this file and the code are the current truth.
+
+## Commands
+
+```sh
+# Setup
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+cp .env.example .env            # fill in keys (gitignored)
+
+# Run
+.venv/bin/python -m src.collect          # print collected items (add --all for Alpha Vantage)
+.venv/bin/python -m src.run alerts        # every-30-min path: triage + instant alerts
+.venv/bin/python -m src.run brief         # daily path: + Alpha Vantage + synthesized brief
+.venv/bin/python -m src.run brief --dry   # full pipeline but PRINT instead of send/clear
+```
+
+There is no test suite yet. Verify changes with `--dry` (no email sent, buffer not cleared) and by re-running to confirm dedupe drives new-item count to 0.
 
 ## Architecture (the big picture)
 
-The whole thing is one Python pipeline invoked per Actions run. The ordering of stages is load-bearing:
+One Python pipeline, invoked per Actions run. The stage ordering is load-bearing:
 
-1. **Collect** → normalize every source item to `{id, source, ticker/topic, title, url, published_at, snippet}`.
-2. **Dedupe** against `state/seen.json` — **must happen before any AI call** so the same story is never paid for twice. `id` is the URL or a hash of title+source.
-3. **Triage (Haiku, per item)** → forced JSON `{relevant, impact 1-5, category, summary}`. Drop `relevant:false`.
-4. **Route** → `impact >= 4` triggers an instant-alert email (and is also kept for the brief); everything else is held.
-5. **Synthesize (Sonnet, once/day)** → short briefing over the day's kept items, grouped by category, highest-impact first.
-6. **Send (Resend)** → then update `state/seen.json` and commit it back.
+`collect → drop stale (recency) → drop already-seen (dedupe) → Haiku triage → route → send`
 
-Planned layout: `src/{collect,triage,synthesize,notify,state}.py`, `config.py` (watchlist/queries/thresholds), `state/seen.json`, `.github/workflows/monitor.yml`, `requirements.txt`.
+Dedupe **must** stay before any AI call so a story is never paid for twice. Modules (`src/`):
+
+- `collect.py` — all source fetchers, normalized to `{id, source, topic, title, url, published_at, published_ts, snippet}`. `collect_all(include_rate_limited=False)`; Alpha Vantage is gated behind that flag (its free tier is ~25 req/day). Every fetcher is defensive — a failing source logs and contributes nothing.
+- `state.py` — two JSON stores in `state/`, both committed back each run: `seen.json` (dedupe memory, pruned at 30d) and `kept_today.json` (the daily buffer — see below).
+- `triage.py` — `claude-haiku-4-5`, forced JSON via `output_config.format`, drops `relevant:false`.
+- `synthesize.py` — `claude-sonnet-4-6`, once-daily HTML briefing over the buffer.
+- `notify.py` — Resend email via stdlib HTTP.
+- `run.py` — the orchestrator; `config.py` (root) holds the watchlist, queries, and thresholds.
+
+### The two-mode split (key design point)
+
+`run.py` has two modes because alerts and the brief run on different cadences:
+
+- **`alerts`** (every 30 min) — collect, triage, send instant alerts (impact ≥ 4), append kept items to the daily buffer.
+- **`brief`** (once a day, 12:05 UTC) — same, plus Alpha Vantage, then synthesize the **whole day's buffer** and clear it.
+
+Why the buffer exists: dedupe marks each item seen on first encounter, so by 8am the brief would see "0 new" — every item was already consumed by an alert run. `kept_today.json` accumulates the day's kept items so the brief can summarize all of them. Instant alerts fire in *both* modes (keyed to this run's newly-seen items), so each alert-worthy story emails exactly once.
+
+The workflow (`.github/workflows/monitor.yml`) picks the mode from `github.event.schedule`; the brief cron is `5 12 * * *` (a non-`:00`/`:30` minute) so it never collides with the `*/30` alerts cron, and a concurrency group serializes runs so state pushes can't race.
 
 ## Critical domain rules (easy to get wrong)
 
-- **Never naive-search the word "DRAM".** It floods with memory-technology trivia. Always scope by ticker (MU, SNDK, STX, WDC) or by the curated topic queries in `BRIEF.md` (e.g. `HBM demand`, `DRAM contract price`, `SK Hynix`).
-- **DRAM is an ETF — there is no single ticker.** Monitor the holdings, the industry theme, and the fund itself. The watchlist should self-update from the fund's daily holdings file on rebalance.
-- **The two Korean holdings (SK Hynix KRX:000660, Samsung KRX:005930) don't appear cleanly in US ticker news APIs.** Cover them via Google News RSS / Reuters / Yonhap queries, and lean on Haiku/Sonnet to translate Korean coverage inline.
-- **Memory pricing is the leading indicator** — DRAM/NAND spot/contract pricing (TrendForce/DRAMeXchange via Google News RSS) often moves before earnings.
-- **Keep alerts rare.** `impact >= 4` only. A noisy inbox defeats the purpose. The daily brief always sends — even on quiet days ("nothing material") — so a silent failure is distinguishable from a quiet day.
+- **Never naive-search the word "DRAM".** It floods with memory-technology trivia. Scope by ticker (MU, SNDK, STX, WDC) or curated topic queries in `config.py`. This rule lives in the Haiku triage system prompt too.
+- **DRAM is an ETF — no single ticker.** Monitor holdings + industry + the fund itself.
+- **The Korean holdings (SK hynix, Samsung) don't appear in US ticker APIs** (Finnhub/Alpha Vantage). They're covered only via Google News queries; Haiku is told to translate Korean coverage inline.
+- **Pricing is the leading indicator** — DRAM/NAND spot/contract prices often move before earnings.
+- **Keep alerts rare** (impact ≥ 4 only) and **always send the brief** — even on quiet days — so a silent failure is distinguishable.
 
-## AI / model notes
+## Gotchas baked into the code
 
-- Two models on purpose: **`claude-haiku-4-5`** for cheap per-headline triage, **`claude-sonnet-4-6`** for the once-daily synthesis. Confirm the latest model strings against the Claude API docs at build time.
-- Force Haiku to return **JSON only** (no prose, no markdown fences) and parse defensively.
-- Use **prompt caching** for the system prompt + watchlist context so repeated 30-min runs don't re-pay for it.
+- **SEC EDGAR** uses the submissions JSON API (`data.sec.gov`), not the browse-edgar atom feed (its `<content>` embeds raw HTML that breaks XML parsing). It **403s without a contact-email `EDGAR_USER_AGENT`** and then contributes nothing silently.
+- **Resend is behind Cloudflare** — the default `Python-urllib` User-Agent gets a 403 (error 1010); `notify.py` sends a real UA.
+- **Google News URLs are redirect links** (`news.google.com/rss/articles/...`). Stable for dedupe; not yet resolved to publisher URLs.
+- **Model strings** `claude-haiku-4-5` / `claude-sonnet-4-6` are current as written. Haiku rejects the `effort` param; don't add it there.
 
-## Build order
+## Known tuning points (not yet done)
 
-Follow the milestones in `BRIEF.md`: Google News RSS collect → dedupe/`seen.json` → Resend daily send → Haiku triage+route → Sonnet synthesis → add Alpha Vantage/Finnhub/EDGAR → instant alerts + holdings auto-refresh. Start cheapest-path-to-working.
+- Near-duplicate high-impact stories (e.g. many Micron-earnings rewrites) can each score 5 and over-trigger alerts — wants same-story dedup or a threshold bump.
+- The watchlist should self-update from the fund's daily holdings file on rebalance (BRIEF.md milestone 7); not yet implemented.
 
-## Operational constraints
+## Secrets (GitHub Secrets / local `.env`)
 
-- **Schedule:** every 30 min, active ~6:00am–midnight ET (wide on purpose — SK Hynix/Samsung earnings and TrendForce pricing break during Asia overnight). Daily brief at ~7:00–8:00am ET.
-- **Secrets live in GitHub Secrets**, never in code: `ANTHROPIC_API_KEY`, `RESEND_API_KEY`, `ALPHA_VANTAGE_KEY`, `FINNHUB_KEY`, `EMAIL_TO`, `EMAIL_FROM`.
-- Every-30-min runs brush the ~2,000 free Actions-minutes/month cap on a *private* repo. Keeping the repo **public** (all secrets are in GitHub Secrets) buys unlimited minutes — this is an open decision in `BRIEF.md`.
+`ANTHROPIC_API_KEY`, `RESEND_API_KEY`, `EMAIL_TO`, `EMAIL_FROM`, `EDGAR_USER_AGENT`, and optionally `FINNHUB_KEY`, `ALPHA_VANTAGE_KEY`. Never commit `.env`. The repo is public (unlimited Actions minutes); all secrets live in GitHub Secrets.
