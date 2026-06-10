@@ -1,1 +1,19 @@
-[]
+[
+ {
+  "id": "4d4588d84245908e35156d93d9f8ad914a35678f",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "BofA Securities Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,100 - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTdGajh1ZmhIV1l2SFdSa2VjQzkxVk1ZWTV1QXRoelZsQ2FBc2piQTdmX2VwZVJ5bVE0WUhNd0pOQU9WRTA1VFJWWjh0ck5HNWo2Sk5sNlZUSDRKN3VxNld3NWdFeDJ4a1pxT0o0QU4tSUg2RUxFcVdZUWVmdlFNUTFkSVJxcWJTRTNnRnhTZHZ4cm53d1lrdXhGck5EWHlhclEyZ3d3ZDVFNHNKV25XUmVR?oc=5",
+  "published_at": "Mon, 08 Jun 2026 10:42:53 GMT",
+  "published_ts": 1780915373,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTdGajh1ZmhIV1l2SFdSa2VjQzkxVk1ZWTV1QXRoelZsQ2FBc2piQTdmX2VwZVJ5bVE0WUhNd0pOQU9WRTA1VFJWWjh0ck5HNWo2Sk5sNlZUSDRKN3VxNld3NWdFeDJ4a1pxT0o0QU4tSUg2RUxFcVdZUWVmdlFNUTFkSVJxcWJTRTNnRnhTZHZ4cm53d1lrdXhGck5EWHlhclEyZ3d3ZDVFNHNKV25XUmVR?oc=5\" target=\"_blank\">BofA Securities Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BofA Securities maintains Buy rating on SanDisk (SNDK), a DRAM ETF holding, and raises price target to $2,100, signaling analyst confidence in the memory semiconductor company's outlook."
+  },
+  "buffered_ts": 1781063129.1119573
+ }
+]
