@@ -63,10 +63,10 @@ The workflow (`.github/workflows/monitor.yml`) picks the mode from `github.event
 - **Google News URLs are redirect links** (`news.google.com/rss/articles/...`). Stable for dedupe; not yet resolved to publisher URLs.
 - **Model strings** `claude-haiku-4-5` / `claude-sonnet-4-6` are current as written. Haiku rejects the `effort` param; don't add it there.
 
-## Known tuning points (not yet done)
+## Planned enhancements (not yet built)
 
-- Near-duplicate high-impact stories (e.g. many Micron-earnings rewrites) can each score 5 and over-trigger alerts — wants same-story dedup or a threshold bump.
-- The watchlist should self-update from the fund's daily holdings file on rebalance (BRIEF.md milestone 7); not yet implemented.
+- **Same-story dedup (confirmed wanted — 2026-06-10).** Many outlets cover one event (e.g. a single Micron earnings report → 7 near-identical headlines), each legitimately scoring 5, so one event produces many alerts. The triage rubric is already tightened to reserve 4-5 for concrete events (so this is no longer a *scoring* issue) and alerts are batched into one email per run (so it's not an *inbox* issue) — but the day's brief and the alert digest still list the same event many times. Plan: collapse near-identical items about the same event *after* triage and *before* routing/synthesis — e.g. cluster by entity + event/number or by normalized-title similarity, keep the highest-impact representative (and optionally a count of corroborating outlets). The `seen.json` dedup is exact-URL only and deliberately stays that way; this is a separate semantic-dedup layer. Likely lives between `triage.triage_items()` and routing in `run.py`, and should also collapse items before they enter the daily buffer.
+- **Holdings auto-refresh.** The watchlist should self-update from the fund's daily holdings file on rebalance (BRIEF.md milestone 7); currently `config.py` lists holdings statically.
 
 ## Secrets (GitHub Secrets / local `.env`)
 
