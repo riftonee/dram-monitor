@@ -24,7 +24,7 @@ except ImportError:
     pass
 
 import config
-from src import notify, state, triage
+from src import notify, state, synthesize, triage
 from src.collect import collect_all
 
 
@@ -78,9 +78,9 @@ def main() -> None:
                 f"🚨 DRAM alert [{v['impact']}/5]: {item['title']}",
                 notify.render_digest_html([item]),
             )
-        # The daily brief: everything kept.
+        # The daily brief: Sonnet synthesis over everything kept.
         subject = f"DRAM monitor — {len(kept)} item(s), {len(instant)} alert(s)"
-        result = notify.send_email(subject, notify.render_digest_html(kept))
+        result = notify.send_email(subject, synthesize.synthesize(kept))
         print(f"--- {len(instant)} alert(s) + brief sent via Resend (brief id: {result.get('id', '?')}) ---")
 
 
