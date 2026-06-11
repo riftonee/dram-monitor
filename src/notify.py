@@ -48,8 +48,12 @@ def send_email(subject: str, body_html: str, *, to: str | None = None, sender: s
     to = to or os.environ["EMAIL_TO"]
     sender = sender or os.environ["EMAIL_FROM"]
 
+    # EMAIL_TO may be a single address or a comma-separated list; Resend's "to"
+    # field takes an array, so split and trim. A lone address yields a 1-item list.
+    recipients = [addr.strip() for addr in to.split(",") if addr.strip()]
+
     payload = json.dumps(
-        {"from": sender, "to": [to], "subject": subject, "html": _wrap_html(body_html)}
+        {"from": sender, "to": recipients, "subject": subject, "html": _wrap_html(body_html)}
     ).encode("utf-8")
     request = urllib.request.Request(
         RESEND_ENDPOINT,
