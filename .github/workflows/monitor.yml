@@ -4,9 +4,10 @@ on:
   schedule:
     # Alerts: every 30 minutes, 24/7 (memory news breaks during Asia overnight).
     - cron: "*/30 * * * *"
-    # Daily brief: 12:05 UTC (~8am ET). 12:05 is deliberately NOT a :00/:30 slot,
-    # so the every-30-min alerts cron never fires at the same minute.
-    - cron: "5 12 * * *"
+    # NOTE: the daily brief is NOT scheduled here. GitHub's cron is best-effort and
+    # was slipping the 12:05 UTC brief by hours (landing ~9am PT instead of ~5am PT).
+    # The brief is now fired punctually by an EXTERNAL scheduler (cron-job.org) that
+    # calls this workflow via workflow_dispatch with mode=brief at 12:05 UTC.
   workflow_dispatch:
     inputs:
       mode:
@@ -36,12 +37,10 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Determine mode
+        # Scheduled runs are always alerts (every-30-min cron). The daily brief
+        # arrives via workflow_dispatch (mode=brief) from the external scheduler.
         run: |
-          if [ "${{ github.event.schedule }}" = "5 12 * * *" ]; then
-            echo "MODE=brief" >> "$GITHUB_ENV"
-          else
-            echo "MODE=${{ github.event.inputs.mode || 'alerts' }}" >> "$GITHUB_ENV"
-          fi
+          echo "MODE=${{ github.event.inputs.mode || 'alerts' }}" >> "$GITHUB_ENV"
 
       - name: Run monitor
         env:
