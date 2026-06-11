@@ -1477,5 +1477,192 @@
    "summary": "Options trading activity on the Roundhill Memory ETF (DRAM) on June 9th: 298.51K contracts traded with 1.35M open interest. Reflects market activity but lacks material news about the fund's composition, holdings, or strategy."
   },
   "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "41ad0870aa9f9f2ecf8ada81220a269c0b54ab83",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix Chairman says company will triple wafer capacity by 2034 (HXSCL:OTCMKTS) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODFOYU9uQ3M3LW1RWWJqMzl0cFdWOGctWWFOMmFtdFFja05jZmtJS09zdVN0T1lKYlVoY2VYUi1PZ1Y3LUljM2JMeWNaanZGblJybkJVVkU4NWFuZllTQjNDRFJ1RVA1Vm1Wejg5d01jb2pEWTRzYjNTU1NrUURSc09VajNuSjdBa0tVdlc2eXZwWWl2WDY0RUdFRC1MVFJrbU5rRVZ3?oc=5",
+  "published_at": "Thu, 11 Jun 2026 12:39:52 GMT",
+  "published_ts": 1781181592,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNODFOYU9uQ3M3LW1RWWJqMzl0cFdWOGctWWFOMmFtdFFja05jZmtJS09zdVN0T1lKYlVoY2VYUi1PZ1Y3LUljM2JMeWNaanZGblJybkJVVkU4NWFuZllTQjNDRFJ1RVA1Vm1Wejg5d01jb2pEWTRzYjNTU1NrUURSc09VajNuSjdBa0tVdlc2eXZwWWl2WDY0RUdFRC1MVFJrbU5rRVZ3?oc=5\" target=\"_blank\">SK Hynix Chairman says company will triple wafer capacity by 2034 (HXSCL:OTCMKTS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix chairman announces official plan to triple wafer capacity by 2034, a substantive, long-term capacity expansion commitment from a major DRAM fund holding that signals significant future production growth in memory semiconductors."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "17da12340097a994d5c18a55ebcaa5d9b85aa633",
+  "source": "The Information",
+  "topic": "holding",
+  "title": "Google Turns to Samsung for Future AI Chip as Capacity Tightens - The Information",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ204MDFveWlMX3ZtRzdNT2p3czRGalpvZXZyNHN3c1A2U0t3S2YyZ0dNZUlMeF9ub2t5cFBHSkQwa1BhRVE1Yk43M1ZHSnhsc0R3a3EySmpkZnA1TXJaNTZVRjdreDBxZnE3b3VEMV9oVHVUQkZCOU9ETnpid3lnazlnTVU1bll1U1Z2MXpWZWVTUkl1QkpUWA?oc=5",
+  "published_at": "Thu, 11 Jun 2026 13:00:00 GMT",
+  "published_ts": 1781182800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ204MDFveWlMX3ZtRzdNT2p3czRGalpvZXZyNHN3c1A2U0t3S2YyZ0dNZUlMeF9ub2t5cFBHSkQwa1BhRVE1Yk43M1ZHSnhsc0R3a3EySmpkZnA1TXJaNTZVRjdreDBxZnE3b3VEMV9oVHVUQkZCOU9ETnpid3lnazlnTVU1bll1U1Z2MXpWZWVTUkl1QkpUWA?oc=5\" target=\"_blank\">Google Turns to Samsung for Future AI Chip as Capacity Tightens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Google is sourcing future AI chips from Samsung amid tightening capacity, signaling increased demand for semiconductor manufacturing and potential memory integration in AI infrastructure, which directly benefits Samsung's semiconductor business."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "479fb7737a0c304be6b949fac512275992f7bd50",
+  "source": "EE Times India",
+  "topic": "holding",
+  "title": "Samsung Starts Shipment of HBM4E Samples - EE Times India",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96cXFMLVFXLWpWUDJ6S1RQZ05hSmNnQ0lfVmVDVUNMbFNKSEg1ZUlzRjdqZl9XSWQyV1ZMVmt4aU9MQ05EX1hBd29TcnJCWUZYTzJmSVVyVGVMMlo4X3EwQ1IwN2ZMbTRwZ1BPNHp1bG1yRWRqX3dV?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:06:53 GMT",
+  "published_ts": 1781161613,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE96cXFMLVFXLWpWUDJ6S1RQZ05hSmNnQ0lfVmVDVUNMbFNKSEg1ZUlzRjdqZl9XSWQyV1ZMVmt4aU9MQ05EX1hBd29TcnJCWUZYTzJmSVVyVGVMMlo4X3EwQ1IwN2ZMbTRwZ1BPNHp1bG1yRWRqX3dV?oc=5\" target=\"_blank\">Samsung Starts Shipment of HBM4E Samples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times India</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung has begun shipment of HBM4E samples, a concrete development in high-bandwidth memory production. HBM4E is a next-generation memory product critical to AI infrastructure demand, and sample shipments represent a material step toward commercial availability that could influence memory cycle dynamics and Samsung's competitive position in a key growth segment."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "cb4d63c96f6075361c11a719162e2d69eed13ee2",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "SK Hynix Races Samsung to 400+ Layer NAND, but Must Abandon Tungsten Entirely as Stacking Hits a Material Wall - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjl6ZHRHV0xMQWZ6bUVqMXlYc25kcjIxblVUVjFsS0J4ZnM1ejNzNGQwdWFtVTVXRTNVc1pOQ0J2UjJsQjRvdUY0bjYxVm5wODFVaE1BSWNxRmNYcGlNYXBITV9kLVZ1MDFvSGQ4UnROeWU2VHBZUkJEVW8wV3FtaVlrck1XNFRJeFZCTzFuNDh0elRtdFM2Q2FVQ1JzZms3cHFIcW84dW53anN60gGyAUFVX3lxTFBxYWoxazVVS2RNb0g0RnJhTWo2UVJWOUlzM2NrdEFha29lbU84dzExNjFoZE9DVXhrdkQxV3BQOHRBUzFQeG1kX1hQbXlLa29TWlNlbHpGdVNXZWNsZkNLMDN1MTMwZ01xdTJlM2JsdjdkdkNyaGVJN2RWNU15ZlVBSzBUWVdPUWVNNnZQQ2FtZjN3YWNHalZERk9jSWtUYzNyMHVldldWWTFIYTVCZEtQZnc?oc=5",
+  "published_at": "Thu, 11 Jun 2026 14:55:00 GMT",
+  "published_ts": 1781189700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjl6ZHRHV0xMQWZ6bUVqMXlYc25kcjIxblVUVjFsS0J4ZnM1ejNzNGQwdWFtVTVXRTNVc1pOQ0J2UjJsQjRvdUY0bjYxVm5wODFVaE1BSWNxRmNYcGlNYXBITV9kLVZ1MDFvSGQ4UnROeWU2VHBZUkJEVW8wV3FtaVlrck1XNFRJeFZCTzFuNDh0elRtdFM2Q2FVQ1JzZms3cHFIcW84dW53anN60gGyAUFVX3lxTFBxYWoxazVVS2RNb0g0RnJhTWo2UVJWOUlzM2NrdEFha29lbU84dzExNjFoZE9DVXhrdkQxV3BQOHRBUzFQeG1kX1hQbXlLa29TWlNlbHpGdVNXZWNsZkNLMDN1MTMwZ01xdTJlM2JsdjdkdkNyaGVJN2RWNU15ZlVBSzBUWVdPUWVNNnZQQ2FtZjN3YWNHalZERk9jSWtUYzNyMHVldldWWTFIYTVCZEtQZnc?oc=5\" target=\"_blank\">SK Hynix Races Samsung to 400+ Layer NAND, but Must Abandon Tungsten Entirely as Stacking Hits a Material Wall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix and Samsung are competing to develop 400+ layer NAND technology, with SK Hynix reportedly needing to abandon tungsten materials due to stacking challenges. This is technical development reporting on advanced memory fabrication; while relevant to memory-industry capacity and competitiveness, it remains analysis/technical commentary rather than a confirmed production milestone, pricing impact, or earnings guidance change."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "146ae6c4cdd0beb83d432558ebe88c7bede7aa6e",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "South Korea Has a Chip Conundrum—Huge Profits and a Serious Selloff - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkanhMNmtJX242VHI0aUxPNEVDYXVYazdsYnJDb1hXV015MVRTaldBckp4VUFTQ0dtQjc0ajhHQ1lrVElIZUNTNjRQWE5hYU5yT2psOGlRRm4xYk9Hd1Y1OWtRbmx1ZTlpMGY5TEU2Qmp1MVNT?oc=5",
+  "published_at": "Thu, 11 Jun 2026 13:01:00 GMT",
+  "published_ts": 1781182860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkanhMNmtJX242VHI0aUxPNEVDYXVYazdsYnJDb1hXV015MVRTaldBckp4VUFTQ0dtQjc0ajhHQ1lrVElIZUNTNjRQWE5hYU5yT2psOGlRRm4xYk9Hd1Y1OWtRbmx1ZTlpMGY5TEU2Qmp1MVNT?oc=5\" target=\"_blank\">South Korea Has a Chip Conundrum—Huge Profits and a Serious Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's analysis of South Korean chip companies (SK hynix and Samsung) facing a paradox of strong profitability amid stock selloff. Discusses the market dynamics and valuation concerns for major DRAM/memory holdings but lacks concrete new earnings data, guidance changes, or confirmed catalysts—primarily commentary and analysis on existing conditions."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "8eb4b8b7f8681041cd3335137845a94a327d6041",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "CLSA: SK Hynix HBM4 Supply and Mid-term Pricing Visibility Improve; Seen Continuing Re-rating - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdU4yVWM5c3NyZXdJcUNvV0Q1d2c0bUtHWWpyUXhWaE5sZUdoZ1V5R2VWUmc1akM5ZXZIQXMtTWd6Zy1waWd4YlNmRk83ZFBGUGFuMzF0R0I2TXBLTUs2WWRPM1NoT3lac1JiSi11d2RwRjZ4NXBpUHZHRkE2cERGbmZwN3ppTEdZeG9pSHpmV2dBMXNJY3c?oc=5",
+  "published_at": "Thu, 11 Jun 2026 02:31:00 GMT",
+  "published_ts": 1781145060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdU4yVWM5c3NyZXdJcUNvV0Q1d2c0bUtHWWpyUXhWaE5sZUdoZ1V5R2VWUmc1akM5ZXZIQXMtTWd6Zy1waWd4YlNmRk83ZFBGUGFuMzF0R0I2TXBLTUs2WWRPM1NoT3lac1JiSi11d2RwRjZ4NXBpUHZHRkE2cERGbmZwN3ppTEdZeG9pSHpmV2dBMXNJY3c?oc=5\" target=\"_blank\">CLSA: SK Hynix HBM4 Supply and Mid-term Pricing Visibility Improve; Seen Continuing Re-rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "CLSA analyst note on SK Hynix HBM4 supply improving and mid-term pricing visibility strengthening, with a view to continued re-rating of the stock. This is analyst commentary and outlook rather than a confirmed event or hard data, making it a soft but relevant signal on a key holding's HBM positioning."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "4e53a765c84a2f38a65b318f70ce22cd87dd2d66",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Better AI Memory Stock: Seagate or Western Digital? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdkMldEWTBzYjhRNEprYTRtd0dnZTR5Y19PU0tkWUFUYnpnMmc5aXBLR2kzM3pqdmwyQ0RDU1pGOUd3Sk8yeXRobUNGdFhCRlg5dGZuNWVpa1pYOXVBSFRDRWZkYXlvd09BeDFSQ3Q3QjBYYXdVbVB1RXFxT19yYmlaWjFNNG1MbW9FN0ZucjBwQnBLX09n?oc=5",
+  "published_at": "Thu, 11 Jun 2026 14:45:42 GMT",
+  "published_ts": 1781189142,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdkMldEWTBzYjhRNEprYTRtd0dnZTR5Y19PU0tkWUFUYnpnMmc5aXBLR2kzM3pqdmwyQ0RDU1pGOUd3Sk8yeXRobUNGdFhCRlg5dGZuNWVpa1pYOXVBSFRDRWZkYXlvd09BeDFSQ3Q3QjBYYXdVbVB1RXFxT19yYmlaWjFNNG1MbW9FN0ZucjBwQnBLX09n?oc=5\" target=\"_blank\">Better AI Memory Stock: Seagate or Western Digital?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool comparison article analyzing Seagate and Western Digital as AI memory plays. This is analyst opinion/commentary on two fund holdings, but lacks concrete news, earnings data, or material events—typical investment analysis rather than a market-moving development."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "ffc97ed92a693a19a60198cc47099708e3960e84",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Analysts Bullish on Sandisk (SNDK), Here’s Why - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFRPT1RxRjhuYWZEOGNqRGNPM21Rd2Zfbmt2UnY2QklXRnVyQVcyclZEWGNrQ0NHa1hRblJKbTd5Q0tPdHJxMlNVbzA3TzRRbnJmS1o0MXl1REQ5ajNaeGdESWZRMlRmSkVZZGVjYjF6U2xaQjRORENJTTRuUUgzdlAtbjAwVUROU3NnNjRLcGJxaWFUOUZkb2hIVWUtM1k?oc=5",
+  "published_at": "Thu, 11 Jun 2026 01:13:00 GMT",
+  "published_ts": 1781140380,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFRPT1RxRjhuYWZEOGNqRGNPM21Rd2Zfbmt2UnY2QklXRnVyQVcyclZEWGNrQ0NHa1hRblJKbTd5Q0tPdHJxMlNVbzA3TzRRbnJmS1o0MXl1REQ5ajNaeGdESWZRMlRmSkVZZGVjYjF6U2xaQjRORENJTTRuUUgzdlAtbjAwVUROU3NnNjRLcGJxaWFUOUZkb2hIVWUtM1k?oc=5\" target=\"_blank\">Analysts Bullish on Sandisk (SNDK), Here’s Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmRWQVNzbEZHb2FwTW9uOFZuc19NbUU1YU1KMmphN2p6Z2VMdll4YmtRWEZJNUdBOWREdUwwWGE4NlJWa0NON1NGMUQxVjZPVHFOMVV5VGw2dFVUWjl0bHVFbWJkdDM0V3RqRndPalBxUUNQc29mbXhOb3Q1U0RGN3ZCczJsR0tJUVZRLUFpZ2tINXpYU2JXb1BIenJCYTlSbDhn?oc=5\" target=\"_blank\">Sandisk: Market Has Completely Misread The AI NAND Supercycle (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXBSTnVFY00ycWI5WVFoZTBFOVJOMDZDbHp4T2ZWZENRNEtiRm90M0IxWU00ZzhjN3JLdVhzbEU3VUtpblNab3owNmZWQWlITERENlNtdVRlNF9lazVqQ3RIOWJsWlJwdDk4NmVKVVN6dm8yMFBZV1l0MlpXd0c0eVNB?oc=5\" target=\"_blank\">Sandisk Stock: Can You Say ‘Bubble’?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQREpjeGVGVFhyWkh5MHlUWU9PVEMta3Bzc0FjamlNZXh4Z3dZZEFSS25zMFE4b0M0SDloa2wydV9ueVdYWi10WFZvWGJYVzZKOWhHdWp4VGM5ZnVqTzdkVFpvLTBWMllVMGt3Z3ZQaEZmdl9MQjg5M3RXU205NkhEUGR1NU42Wlh1MjN3YmE0TXRXWUhO?oc=5\" target=\"_blank\">Why is SanDisk stock rising today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzFjOS1veHh6TkVHaVlqY05Zd3RkOGtXU0lGOVpPdWZrZkZmM0syTGdDeFk1bnlKUnlxcjJLYnVSN29lRDRPVVBjbFNXc3ZXTEo1MDMzMVhlZThjYnlxeDlhSi1BS1VING9QN29vSTc0QWU3bkFScmJBVEJOM0FSMzVQaWliMy11SUdydWxaNWZWR3ZUU2R1M1Vza2dzOTJiT3JmMTd1Wm5LbjV5QU80bWxOQTdVRFZNdkh1UzBUNy0wcDVjNkcyc1Y2UnVsSjd2MFFrbVFNVQ?oc=5\" target=\"_blank\">Up 500% in 2026: 1 Deeply Concerning Reason to Stand Pat on SanDisk Stock Despite the June Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjREOHF1M1ZEMEMzQVg3aEJFeEZadU5hV0VnN2l0SlJxeHZLWXg5bG1VWktQMGpEa01zbG1wNlVsVWZsYTViQzBUUVlpblp4Z0tFYWE1bFkwWDAwbU96cWRZQ3JEYWtkRE42MkktRC1aWjBKNUtsZ01Qak1vaVNvdFRDdWxBZHhQSWwwWFRlalhoOFFl?oc=5\" target=\"_blank\">Why Sandisk Stock Fell Today After Being Up Big</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWUlYcTkxVjR0eEN5X0Z6UGRyVHZ6cXMzVl9jX19NR2d3d0JhbHF0Tmx2dTMwcEJsa2hPSHRaLVlEbG1YUHBrMG9LM3F1TWZrWGJMOWZvVWZlWDcwdTI4aXM2d3dvNVFYOENFX21Qd00waWhVckUtN2VxcnE?oc=5\" target=\"_blank\">Sandisk Stock Jumps—Again. Don’t Worry About New Memory Supply, Say Analysts.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUk9QNzZmcDduay1fTzNoUFJkR0JHaXBManBIaUFkclhjNEpScDdlWTRjcVNOWEgxc2psajZhNkl0ZDFRZlY4R0U1MFcwLWk4N3h2WGQwS01rUlBpamRSbDdndHVKODlUVHZxYlpDd19XSkZYTzhwOHEzTVJKSzFnbVN2bVF6REJFc2FndkFubXd2b0V1V1VON1huYw?oc=5\" target=\"_blank\">BofA Raises SanDisk (SNDK) Price Target to $2,100, Keeps Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHA0R2ZZQlNoWHp1bE1KSFZ6dkhTdTNZNU11WWhtZEtDZFBWWkVILUJyOHItaHU0V1lkRmZKVDl2dEJhOEZMSHBvSW95SXRSYWlXZ2FMZnBENWFoU0FRcWwwS1BiZ1lRNXZENmRRM0dTSkVfTE5GVHVHMnd2Sm1Td1d0MXdfQ0JiUXJCMlBZdHhBUWh1STVrcXY5ZmJrRGh3SXV3ZmlrQUkxbEtGbEZvMDN0R1FUaW9pOFlBVDhIbUc4d0U?oc=5\" target=\"_blank\">Analysts boost SanDisk stock targets as pricing trends remain strong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li></ol>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysts express bullish sentiment on SanDisk (SNDK), a DRAM ETF holding. The piece discusses analyst views and reasoning but does not report a concrete event, earnings result, guidance change, or confirmed price move with a stated fundamental cause."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "dcee38558a14615cc0b91b12b05ceaff781f69bd",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SanDisk stock rallying today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmw3d0hqbGppVm52UDg3UjNBMUo3NUVFdnFQajQtWkhkSFFiR2o4QW92cXNzM3BUWHVTMTQxWGswMGp4aWdCdDhOZm5mYS05UzZIQ1lLbjBCNWhxYWlUT2ZDeGNZWHhIZmZKVjlTZm5iYlcxVmgxZm5ZcXNEUVZxdFlZNWh6RXBtYUp5dkNzNnFCcC1QTWIzcGhMZUxuQQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 12:39:49 GMT",
+  "published_ts": 1781181589,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNmw3d0hqbGppVm52UDg3UjNBMUo3NUVFdnFQajQtWkhkSFFiR2o4QW92cXNzM3BUWHVTMTQxWGswMGp4aWdCdDhOZm5mYS05UzZIQ1lLbjBCNWhxYWlUT2ZDeGNZWHhIZmZKVjlTZm5iYlcxVmgxZm5ZcXNEUVZxdFlZNWh6RXBtYUp5dkNzNnFCcC1QTWIzcGhMZUxuQQ?oc=5\" target=\"_blank\">Why is SanDisk stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rally reported without disclosed catalyst. SNDK is a fund holding, but the article appears to be a price-movement piece without a stated concrete event or announced news driving the move, making it soft/speculative rather than a confirmed catalyst."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "2682e2e65eb2c776b06364ff81673b58153aa6ef",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "U.S. Stocks Move | SanDisk (SNDK.US) Rises Over 6% as Concerns Ease Over Super IPO Diverting Funds - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEpkaXAzcDhITGgxZHlUaVd4cW1DWUtoM0wxZ0xvQnRTLUY3M0ZOSXJsSDkyaThpVzdPLWVQdjBuR2M0Mnl2dS1TemRtdnhPbTdoX2E2Y2JCdnA3bUpwLTFpc1RGUVdsc2lsZWpwaDlZQk9FQ3FIOGtMRHdhRmNyME9Db19xcFF4eDRZSUZrTVhHX3c5YjljeGlKTQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 14:45:40 GMT",
+  "published_ts": 1781189140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEpkaXAzcDhITGgxZHlUaVd4cW1DWUtoM0wxZ0xvQnRTLUY3M0ZOSXJsSDkyaThpVzdPLWVQdjBuR2M0Mnl2dS1TemRtdnhPbTdoX2E2Y2JCdnA3bUpwLTFpc1RGUVdsc2lsZWpwaDlZQk9FQ3FIOGtMRHdhRmNyME9Db19xcFF4eDRZSUZrTVhHX3c5YjljeGlKTQ?oc=5\" target=\"_blank\">U.S. Stocks Move | SanDisk (SNDK.US) Rises Over 6% as Concerns Ease Over Super IPO Diverting Funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) rose over 6% as concerns eased regarding a potential Super IPO diverting capital. The stock movement is attributed to sentiment shift rather than a concrete operational or market event, making it a soft catalyst."
+  },
+  "buffered_ts": 1781190262.5101044
+ },
+ {
+  "id": "311e2312d092089e341b9cb1b5181aad62926fea",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "Form 144 sale notices at STX (insider sales and RSU vesting) - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0VnbGYtcTBrNm9INzdFdTJyMnpvc0tqMkNwRmV6MHREclE1c3lfcDZVbHpseG9JcUpNeHZPMXhOd2Qwb0tmUjNTblRSRUR6c0hIX2hUaE02WnJJUTdpc0RDcTJvdjlqY0pBeFlqNkdqanlZeTE0MklWQjFzY1E2Q1ZZYWxQVWdObTJmYm5CMXBIWHVFY0VNWTBkcmVYRDNCcDE3eThzZVFWQTA?oc=5",
+  "published_at": "Thu, 11 Jun 2026 11:14:56 GMT",
+  "published_ts": 1781176496,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0VnbGYtcTBrNm9INzdFdTJyMnpvc0tqMkNwRmV6MHREclE1c3lfcDZVbHpseG9JcUpNeHZPMXhOd2Qwb0tmUjNTblRSRUR6c0hIX2hUaE02WnJJUTdpc0RDcTJvdjlqY0pBeFlqNkdqanlZeTE0MklWQjFzY1E2Q1ZZYWxQVWdObTJmYm5CMXBIWHVFY0VNWTBkcmVYRDNCcDE3eThzZVFWQTA?oc=5\" target=\"_blank\">Form 144 sale notices at STX (insider sales and RSU vesting)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Form 144 filing showing insider sales and RSU vesting at Seagate (STX), a fund holding. Routine corporate transactions with minimal material significance to the fund's thesis."
+  },
+  "buffered_ts": 1781190262.5101044
  }
 ]
