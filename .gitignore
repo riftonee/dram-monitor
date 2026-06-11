@@ -1,6 +1,8 @@
 # Secrets — never commit. All keys live in GitHub Secrets / local .env
 .env
 .env.*
+# ...but the placeholder template IS committed (it holds no real secrets):
+!.env.example
 *.key
 
 # Python

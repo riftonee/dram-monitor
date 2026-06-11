@@ -22,9 +22,12 @@ collect → drop stale (>48h) → dedupe (seen.json) → Haiku triage → route 
 
 ## Schedule (GitHub Actions, `.github/workflows/monitor.yml`)
 
-- **Alerts** — every 30 min, 24/7 (memory news breaks during Asia overnight).
-- **Brief** — 12:05 UTC (~8am ET), summarizing the whole day; always sent, even on
-  quiet days.
+- **Alerts** — every 30 min, 24/7 (memory news breaks during Asia overnight). Runs on
+  GitHub's `*/30` cron.
+- **Brief** — 12:05 UTC (after the Asian trading day closes, ~5am PT), summarizing the
+  whole day; always sent, even on quiet days. Fired by an **external scheduler
+  (cron-job.org)** via `workflow_dispatch` (`mode=brief`), not GitHub cron — GitHub's
+  scheduled cron was slipping the brief by hours.
 
 ## Required GitHub Secrets
 
@@ -34,8 +37,8 @@ Set these in **Settings → Secrets and variables → Actions**:
 |---|---|
 | `ANTHROPIC_API_KEY` | Haiku triage + Sonnet synthesis |
 | `RESEND_API_KEY` | Email delivery |
-| `EMAIL_TO` | Recipient |
-| `EMAIL_FROM` | Sender (verify a domain in Resend for production) |
+| `EMAIL_TO` | Recipient(s) — one address, or a comma-separated list for several |
+| `EMAIL_FROM` | Sender on a Resend-verified domain (e.g. `dram-monitor@yourdomain.com`); the `onboarding@resend.dev` test sender only delivers to your own account email |
 | `EDGAR_USER_AGENT` | e.g. `dram-monitor you@example.com` — SEC 403s without a contact |
 | `FINNHUB_KEY` | *(optional)* extra ticker news |
 | `ALPHA_VANTAGE_KEY` | *(optional)* extra ticker news (daily only) |

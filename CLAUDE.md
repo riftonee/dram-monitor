@@ -46,7 +46,7 @@ Dedupe **must** stay before any AI call so a story is never paid for twice. Modu
 
 Why the buffer exists: dedupe marks each item seen on first encounter, so by 8am the brief would see "0 new" — every item was already consumed by an alert run. `kept_today.json` accumulates the day's kept items so the brief can summarize all of them. Instant alerts fire in *both* modes (keyed to this run's newly-seen items), so each alert-worthy story emails exactly once.
 
-The workflow (`.github/workflows/monitor.yml`) picks the mode from `github.event.schedule`; the brief cron is `5 12 * * *` (a non-`:00`/`:30` minute) so it never collides with the `*/30` alerts cron, and a concurrency group serializes runs so state pushes can't race.
+**Brief is triggered externally, not by GitHub cron (changed 2026-06-11).** GitHub's scheduled cron is best-effort and was slipping the 12:05 UTC brief by ~4h (landing ~9am PT instead of ~5am PT). So `monitor.yml` only schedules the `*/30` alerts cron; the brief is fired punctually by an **external scheduler (cron-job.org)** that POSTs to the GitHub `workflow_dispatch` API (`.../actions/workflows/monitor.yml/dispatches`, body `{"ref":"main","inputs":{"mode":"brief"}}`) at 12:05 UTC, authed with a fine-grained PAT (Actions: read/write) in an `Authorization: Bearer` header. The "Determine mode" step resolves scheduled runs to `alerts`, so only a `workflow_dispatch` with `mode=brief` produces a brief. 12:05 UTC is chosen to sit *after* the Asian trading day closes (Korea/Taiwan — the leading memory indicators) while still landing in early Pacific morning. A concurrency group serializes runs so state pushes can't race. **Watch-out: if the PAT expires the brief silently stops** (a cloud reminder routine is set for 2027-06-07, a few days before the current token's 2027-06-11 expiry).
 
 ## Critical domain rules (easy to get wrong)
 
@@ -71,3 +71,6 @@ The workflow (`.github/workflows/monitor.yml`) picks the mode from `github.event
 ## Secrets (GitHub Secrets / local `.env`)
 
 `ANTHROPIC_API_KEY`, `RESEND_API_KEY`, `EMAIL_TO`, `EMAIL_FROM`, `EDGAR_USER_AGENT`, and optionally `FINNHUB_KEY`, `ALPHA_VANTAGE_KEY`. Never commit `.env`. The repo is public (unlimited Actions minutes); all secrets live in GitHub Secrets.
+
+- **`EMAIL_TO` supports multiple recipients** — a comma-separated list (e.g. `a@x.com, b@y.com`); `notify.py` splits/trims it into Resend's `to` array. A single address still works (one-item list).
+- **`EMAIL_FROM` should be an address on a Resend-verified domain** for production (e.g. `dram-monitor@yourdomain.com`; the local part is arbitrary and needs no mailbox). The shared `onboarding@resend.dev` test sender only delivers to your own Resend-account email, so it can't reach additional recipients.
