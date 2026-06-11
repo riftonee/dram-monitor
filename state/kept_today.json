@@ -1,1 +1,223 @@
-[]
+[
+ {
+  "id": "316c861896feb5e16252d5c91481a8ea856036f7",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix's Capacity Plan - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXhudXlxekVQMTU5b0dIN3A0RmJnNEx6QTI5VXVNUFMxaVJUVjc0VWczUUY1Y1V1LXY1ZFQxS2JSNHZ1QkJvdDM5M1lUWHRpR01ReVBQNE5ObHFJdVdldnNlZlN1SU4tLVpVY3hTTDdWQXFQcmJMZDJNWmNKV1g2TlMtVllBMU5TY2J5Tk00ZU9telRPOWJMdEdWcFBmY0hfODUzOGF1cl9HNmJzZG9XcUhHSnVhb1ZCZl9vYTlCMjM0YWxSeTIxT09nY0stRk0zaTBR?oc=5",
+  "published_at": "Thu, 11 Jun 2026 19:26:18 GMT",
+  "published_ts": 1781205978,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXhudXlxekVQMTU5b0dIN3A0RmJnNEx6QTI5VXVNUFMxaVJUVjc0VWczUUY1Y1V1LXY1ZFQxS2JSNHZ1QkJvdDM5M1lUWHRpR01ReVBQNE5ObHFJdVdldnNlZlN1SU4tLVpVY3hTTDdWQXFQcmJMZDJNWmNKV1g2TlMtVllBMU5TY2J5Tk00ZU9telRPOWJMdEdWcFBmY0hfODUzOGF1cl9HNmJzZG9XcUhHSnVhb1ZCZl9vYTlCMjM0YWxSeTIxT09nY0stRk0zaTBR?oc=5\" target=\"_blank\">SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix's Capacity Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SanDisk and Western Digital stocks rallied sharply (14% and 6% respectively) following SK hynix's announcement of a capacity plan, signaling positive sentiment on memory supply dynamics and production decisions that affect the memory cycle."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "1a212441e5a1e90ef8025237f5bec78447c98c5f",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Western to exchange 1.04M Sandisk shares for WDC stock with pricing set June 16–18 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdklIdkx2SmNWZ3U1cTZMendwamdDb2NtcnR2WExjMDMzVEFPY2s4dEFlMnlITVdRbnlReE1ieHBJZWFOcmd3U3VwMkpoOExnT0Z4NVcxYlB4QlRTSW5vY2RLNkNkZ0lPekxvN2VWUDdLVGZRRHEwWkZVbE9HZVc2UDJrbWRFTEpETWkySUhEU1lDQUt2V0QzRGtRRzFnVTF4eEtCeDR2aGVHN2xESlFISGpzak9WYWIxQnhnLW02TFZnSnJKWmE2RzhUY184VWlVckZ5dE5Rbks2bjJW?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:13:01 GMT",
+  "published_ts": 1781208781,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdklIdkx2SmNWZ3U1cTZMendwamdDb2NtcnR2WExjMDMzVEFPY2s4dEFlMnlITVdRbnlReE1ieHBJZWFOcmd3U3VwMkpoOExnT0Z4NVcxYlB4QlRTSW5vY2RLNkNkZ0lPekxvN2VWUDdLVGZRRHEwWkZVbE9HZVc2UDJrbWRFTEpETWkySUhEU1lDQUt2V0QzRGtRRzFnVTF4eEtCeDR2aGVHN2xESlFISGpzak9WYWIxQnhnLW02TFZnSnJKWmE2RzhUY184VWlVckZ5dE5Rbks2bjJW?oc=5\" target=\"_blank\">Western to exchange 1.04M Sandisk shares for WDC stock with pricing set June 16–18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Western Digital announced an exchange of 1.04 million SanDisk shares for WDC stock, with pricing to be set June 16–18. This is a concrete corporate action directly involving two DRAM ETF holdings (WDC and SanDisk), representing a material restructuring event with defined terms and timing."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "bda48c74bf10fdf275935d53df7402ec69cf57e2",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "Western Digital (WDC) to exchange 1.04M Sandisk shares for its own stock - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTlIQl9QRUR5Q0FHaTBWd2xPSFF5M3BvNHRXYzZpemI5ZkFPQnNuUmI5dmFPNmVYVmVEQVRwaVRsczFYQ1hTY2VFZGtsLVdwcVBlX3N1QVgzaU9NMS1EYTBqS19UVkNSQTdZcXVDZ0NveUNQTUJXOVhSMUp6eEpHY3JiR1NNTDRmVUFTSWw1bkVfLXZXYmR2cEdkMWZFdExHalZtRDhiZFJpQkZp?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:06:03 GMT",
+  "published_ts": 1781208363,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTlIQl9QRUR5Q0FHaTBWd2xPSFF5M3BvNHRXYzZpemI5ZkFPQnNuUmI5dmFPNmVYVmVEQVRwaVRsczFYQ1hTY2VFZGtsLVdwcVBlX3N1QVgzaU9NMS1EYTBqS19UVkNSQTdZcXVDZ0NveUNQTUJXOVhSMUp6eEpHY3JiR1NNTDRmVUFTSWw1bkVfLXZXYmR2cEdkMWZFdExHalZtRDhiZFJpQkZp?oc=5\" target=\"_blank\">Western Digital (WDC) to exchange 1.04M Sandisk shares for its own stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Western Digital announced an exchange of 1.04 million SanDisk shares for its own stock. This is a concrete corporate action affecting two fund holdings (WDC and SanDisk/SNDK), representing a material capital structure change and share consolidation event."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "3fbffc6836a2c2c4dd5544e81ce0e7a862293797",
+  "source": "AskTraders",
+  "topic": "holding",
+  "title": "Here’s Why SanDisk Shares Rallied 14.5% on Thursday - AskTraders",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHNSQ3hLZnZUY0swbkZGSXB1bV8zLUhiM19GbTl1VXllOFZKOU56eFg3di1aSWJIcHVIY0lfQXZDeFAyNE9WMkoxWmhtVXZwM2xTVUZsaEsyNWtNeWdzUXV1YjN6MWEzY0VibGhwS3YwZGY5dTJlS3U4Uk9Xa1pnckhKWjV6VWJyaURGTkhSVQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 21:05:40 GMT",
+  "published_ts": 1781211940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHNSQ3hLZnZUY0swbkZGSXB1bV8zLUhiM19GbTl1VXllOFZKOU56eFg3di1aSWJIcHVIY0lfQXZDeFAyNE9WMkoxWmhtVXZwM2xTVUZsaEsyNWtNeWdzUXV1YjN6MWEzY0VibGhwS3YwZGY5dTJlS3U4Uk9Xa1pnckhKWjV6VWJyaURGTkhSVQ?oc=5\" target=\"_blank\">Here’s Why SanDisk Shares Rallied 14.5% on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AskTraders</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk shares rallied 14.5% on Thursday with a disclosed catalyst. As a core DRAM ETF holding, a material single-day stock move of this magnitude tied to a concrete event qualifies as a substantive development affecting fund performance."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "f521f093771f0c121448a2af01c0b90b6d74cfad",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Western Digital is making the right moves amid fierce momentum for memory stocks - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOYUVvM05JZXU0NzhvaTdaTEZjR0VOX244eDIyRDhSbU5Ham5BUmxEYzhia3dxa1lIa0JrSVZfd1phMUxXWUtaYTNsLXQ4RzBSX0tTT05ld184ZFY5UDNGdzR4VURqcU5GR3BYUWVtSFZUN0tpaTFlM3NIa3QyN3p4Q3hHNlBMM1JDcjlkVlVoTEd5V2dQZ0pXRFFxNVRWWjRJc1M0UGlMSlNQUXRZRmxLWDF5MXlxN3JjbzRyUTRDeG55TU4tendVNTdiRUZMUXgzTGV6QW9BbW9pcXNXaFhTcXZsZVBMRDF1WW5USlZMd2xxSjJyX01tNWRRV1NrZWxwdE0zN1RWM2RlbVppTmNWUGNZWTUyV0FCSm5NVHczcWczY3U2djZ2OXJZSHZ0Um82aEZJMEpRSDN2Qm1NSmhMdWhFM0xlU3pfWktrUDVsczMxY0hwOG9XWUhiWkR5Wmw2YnRuNmtB?oc=5",
+  "published_at": "Wed, 10 Jun 2026 21:09:25 GMT",
+  "published_ts": 1781125765,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxOYUVvM05JZXU0NzhvaTdaTEZjR0VOX244eDIyRDhSbU5Ham5BUmxEYzhia3dxa1lIa0JrSVZfd1phMUxXWUtaYTNsLXQ4RzBSX0tTT05ld184ZFY5UDNGdzR4VURqcU5GR3BYUWVtSFZUN0tpaTFlM3NIa3QyN3p4Q3hHNlBMM1JDcjlkVlVoTEd5V2dQZ0pXRFFxNVRWWjRJc1M0UGlMSlNQUXRZRmxLWDF5MXlxN3JjbzRyUTRDeG55TU4tendVNTdiRUZMUXgzTGV6QW9BbW9pcXNXaFhTcXZsZVBMRDF1WW5USlZMd2xxSjJyX01tNWRRV1NrZWxwdE0zN1RWM2RlbVppTmNWUGNZWTUyV0FCSm5NVHczcWczY3U2djZ2OXJZSHZ0Um82aEZJMEpRSDN2Qm1NSmhMdWhFM0xlU3pfWktrUDVsczMxY0hwOG9XWUhiWkR5Wmw2YnRuNmtB?oc=5\" target=\"_blank\">Western Digital is making the right moves amid fierce momentum for memory stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "MSN opinion piece discussing Western Digital's strategic positioning amid strong momentum in memory stocks. Analyst commentary on WDC's moves, but no concrete event, earnings result, or stated catalyst provided."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "441dae2f6157965aeedbf43c84007ee1ba12b86a",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Sandisk Stock Has More Room to Run Even After 660% Rally, According to Bank of America - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3JiR3kzbHA0dlU3UUlnbUNmWDI2ODd0UUpDZG9sYVRGalNINS1FZjdZdVVHYnlzM0RUTkRnM2h0Y1RfUzRfZEp3SDBleDFDRFFFRGlBUFBEWXhWR05TWVJoc3N3VGlNVHN6THZaT29IU0VidmV4N3psQUhGLUVRYjZudm5LR3BDY1p2eVdrX0RvRFhqQUdGM2VFWkQycndlZUF5bHJXQ2llSW1TdF9MTkctVHlJVmZhQmRVZTJmY09DYTh3R0FB?oc=5",
+  "published_at": "Thu, 11 Jun 2026 18:48:39 GMT",
+  "published_ts": 1781203719,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3JiR3kzbHA0dlU3UUlnbUNmWDI2ODd0UUpDZG9sYVRGalNINS1FZjdZdVVHYnlzM0RUTkRnM2h0Y1RfUzRfZEp3SDBleDFDRFFFRGlBUFBEWXhWR05TWVJoc3N3VGlNVHN6THZaT29IU0VidmV4N3psQUhGLUVRYjZudm5LR3BDY1p2eVdrX0RvRFhqQUdGM2VFWkQycndlZUF5bHJXQ2llSW1TdF9MTkctVHlJVmZhQmRVZTJmY09DYTh3R0FB?oc=5\" target=\"_blank\">Sandisk Stock Has More Room to Run Even After 660% Rally, According to Bank of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of America analyst maintains bullish stance on SanDisk (SNDK), a DRAM ETF holding, suggesting further upside potential after a 660% rally. This is analyst opinion/price-target commentary rather than a concrete market event or earnings catalyst."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "bddfee50c4e6ea6658bff2373cd178a75506e32c",
+  "source": "StocksToTrade",
+  "topic": "holding",
+  "title": "Sandisk Stock Rips Higher As AI Memory Upcycle Accelerates - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUWpGdmtONUFMUlRDNFpoSXBlR1B4ZDdpa28wUE9mTllpMFFEWVI5bVVVV2hZSWw4VTV2ZmJzbndQZGhWeHhHRVZfVWkxbXBFRDFoZzlDNUxZWGgzMGVEeFVGakl0bU90VW8yeWhtVFpzcHRqUGs1NVFDZzBOS2c?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:02:00 GMT",
+  "published_ts": 1781208120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUWpGdmtONUFMUlRDNFpoSXBlR1B4ZDdpa28wUE9mTllpMFFEWVI5bVVVV2hZSWw4VTV2ZmJzbndQZGhWeHhHRVZfVWkxbXBFRDFoZzlDNUxZWGgzMGVEeFVGakl0bU90VW8yeWhtVFpzcHRqUGs1NVFDZzBOS2c?oc=5\" target=\"_blank\">Sandisk Stock Rips Higher As AI Memory Upcycle Accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rallying on AI memory upcycle acceleration. Story reports stock movement with AI memory demand as the stated driver, but lacks concrete catalyst (earnings, guidance, deal, or hard price target). Qualifies as relevant holding news but soft impact due to analysis/commentary nature rather than confirmed event."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "a9363f6d26b1847e4ac9ca2707bd83b36b395f36",
+  "source": "AlphaStreet",
+  "topic": "holding",
+  "title": "Sandisk Jumps 6.8% After Mizuho Maintains Outperform - AlphaStreet",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0dCeEhLQ1BnS1I1VkVQTDZkWkxjcDBiYTdNbm1rVkFNSjJuZ0RhcW92eElpVEg2Umo4TkdjbGo0X19PUWYwZkRFUnpPTlF5cmlmeTVweUpSR1Zpc1pIZEpDVWc1Qy1BWHZOZ1VCY3dEc2EtRDctQlhGdzFCbERsMHR0bkxKa0dL0gGIAUFVX3lxTE1XR0J4SEtDUGdLUjVWRVBMNmRaTGNwMGJhN01ubWtWQU1KMm5nRGFxb3Z4SWlUSDZSajhOR2NsajRfX09RZjBmREVSek9OUXlyaWZ5NXB5SlJHVmlzWkhkSkNVZzVDLUFYdk5nVUJjd0RzYS1ENy1CWEZ3MUJsRGwwdHRuTEprR0s?oc=5",
+  "published_at": "Thu, 11 Jun 2026 19:37:34 GMT",
+  "published_ts": 1781206654,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0dCeEhLQ1BnS1I1VkVQTDZkWkxjcDBiYTdNbm1rVkFNSjJuZ0RhcW92eElpVEg2Umo4TkdjbGo0X19PUWYwZkRFUnpPTlF5cmlmeTVweUpSR1Zpc1pIZEpDVWc1Qy1BWHZOZ1VCY3dEc2EtRDctQlhGdzFCbERsMHR0bkxKa0dL0gGIAUFVX3lxTE1XR0J4SEtDUGdLUjVWRVBMNmRaTGNwMGJhN01ubWtWQU1KMm5nRGFxb3Z4SWlUSDZSajhOR2NsajRfX09RZjBmREVSek9OUXlyaWZ5NXB5SlJHVmlzWkhkSkNVZzVDLUFYdk5nVUJjd0RzYS1ENy1CWEZ3MUJsRGwwdHRuTEprR0s?oc=5\" target=\"_blank\">Sandisk Jumps 6.8% After Mizuho Maintains Outperform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) rose 6.8% following Mizuho's maintained Outperform rating. This is a stock-price move tied to an analyst action (rating maintenance rather than upgrade), which is soft sentiment rather than a concrete catalyst like earnings or guidance. Classified as impact 3: relevant but analytical/opinion-driven rather than a settled event."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "f94e806be241418d48b5951fe8b62ed98a8c8821",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "Sandisk Stock Jumps As Wall Street Chases AI Memory Upside - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2NVVUVOb2Q4YmdMQU01WHVBbS1rZDZDQlNnX1lLeUh6Y1NMMXpNNFhLNzdwcElWOUtUYmRhMXhsWjJMU2NFQWxFTlI1Ymc5Q0tJSlBJOUpNV0syMndEN2RwaHdEbXNBWDVVMkhaem1PanRqZGxpenh4VzBIUDg2bw?oc=5",
+  "published_at": "Thu, 11 Jun 2026 18:33:00 GMT",
+  "published_ts": 1781202780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxON2NVVUVOb2Q4YmdMQU01WHVBbS1rZDZDQlNnX1lLeUh6Y1NMMXpNNFhLNzdwcElWOUtUYmRhMXhsWjJMU2NFQWxFTlI1Ymc5Q0tJSlBJOUpNV0syMndEN2RwaHdEbXNBWDVVMkhaem1PanRqZGxpenh4VzBIUDg2bw?oc=5\" target=\"_blank\">Sandisk Stock Jumps As Wall Street Chases AI Memory Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock jumping on analyst interest in AI memory upside. This is a price-move story with thematic relevance to memory demand but no disclosed concrete catalyst, earnings result, or official guidance change—typical analyst enthusiasm rather than a settled event."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "ef236a83619953ba16a38aa9602ed93cb083cc4e",
+  "source": "StocksToTrade",
+  "topic": "holding",
+  "title": "SNDK Stock Jumps As Wall Street Backs AI Memory Boom - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42dmVQSkxpNF9BZTlnYmxqSTA0anBxZG1JTVJjempLZ3Vad3oyZlQ3c1VrWE15MC0wLTltbGtqSnVZZ1YyLW5DVlUxR2VuNjhTSGxaYjlYYXlGWWNabkdXdk44UW1rWWVZM19JbVFMUU9OeElKaWZ1MGJiYUg?oc=5",
+  "published_at": "Thu, 11 Jun 2026 18:03:00 GMT",
+  "published_ts": 1781200980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42dmVQSkxpNF9BZTlnYmxqSTA0anBxZG1JTVJjempLZ3Vad3oyZlQ3c1VrWE15MC0wLTltbGtqSnVZZ1YyLW5DVlUxR2VuNjhTSGxaYjlYYXlGWWNabkdXdk44UW1rWWVZM19JbVFMUU9OeElKaWZ1MGJiYUg?oc=5\" target=\"_blank\">SNDK Stock Jumps As Wall Street Backs AI Memory Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock rose on analyst support for AI memory demand trends. Story reports stock movement and positive sentiment but lacks concrete catalyst, earnings data, or specific deal announcement."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "def76015a1a71d476b543fa4a8788135907cc569",
+  "source": "The Motley Fool",
+  "topic": "pricing",
+  "title": "Why Micron Stock Bounced Back Today - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk1vQk9Oai1aRlY0YUNJR3dOaktOLUpsbnZHcGFtSDJJek5pQ3k4b21mdUxyZkR4TlI0TU55ZjFmcFlMNVJhbjNoRWp0aDgza3U0VHdmT1c4Z2JqUnRvNy1nODZyU21Ta3FsNWVEbFFFWksxYVdzX1RhbENPZjVXMjBCSFQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:38:20 GMT",
+  "published_ts": 1781210300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk1vQk9Oai1aRlY0YUNJR3dOaktOLUpsbnZHcGFtSDJJek5pQ3k4b21mdUxyZkR4TlI0TU55ZjFmcFlMNVJhbjNoRWp0aDgza3U0VHdmT1c4Z2JqUnRvNy1nODZyU21Ta3FsNWVEbFFFWksxYVdzX1RhbENPZjVXMjBCSFQ?oc=5\" target=\"_blank\">Why Micron Stock Bounced Back Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analysis of Micron (MU) stock price movement. Without the full article, the headline suggests a price rebound but provides no concrete catalyst or earnings/guidance news—typical of intraday market commentary. Relevant as MU is a core holding, but the impact is soft opinion/analysis rather than a confirmed event."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "1f619e36079f71f2313943fd16783d214946e89e",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "MACOM, Analog Devices, and Seagate Shares Skyrocket, What You Need To Know - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpXM3FzX3F0Z01UOERWLW0zQUVaUWp3VDU0b3BFWVl0QmNFSmdLSzBpWWUwQlo4YXdXZTdudmcwdTlmRGRwQUpTMWZzOFFaUmtFRk1VdmJmalR0UW5jZF9YNGpKSkZUQTgwNXZRSlRUaU1IcTBfWElJZk5lTWEwOGNjODVvZnJkSUZNWFhvSUxOck1vMVlIS1ZjVUU5UExBNUx2dUE3WFVXYUhIOWFKUUZCZzJfYjdkZWJtRnNZVTNjRjBzaWRpTGVjeWM?oc=5",
+  "published_at": "Thu, 11 Jun 2026 19:25:51 GMT",
+  "published_ts": 1781205951,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpXM3FzX3F0Z01UOERWLW0zQUVaUWp3VDU0b3BFWVl0QmNFSmdLSzBpWWUwQlo4YXdXZTdudmcwdTlmRGRwQUpTMWZzOFFaUmtFRk1VdmJmalR0UW5jZF9YNGpKSkZUQTgwNXZRSlRUaU1IcTBfWElJZk5lTWEwOGNjODVvZnJkSUZNWFhvSUxOck1vMVlIS1ZjVUU5UExBNUx2dUE3WFVXYUhIOWFKUUZCZzJfYjdkZWJtRnNZVTNjRjBzaWRpTGVjeWM?oc=5\" target=\"_blank\">MACOM, Analog Devices, and Seagate Shares Skyrocket, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate shares skyrocketed according to TradingView, but no specific catalyst or magnitude provided—a price-move piece without disclosed cause."
+  },
+  "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "48446bd48488326440eb7fc5fd411d7eb7d69aa2",
+  "source": "SEC EDGAR (WDC)",
+  "topic": "holding",
+  "title": "WDC 8-K filed 2026-06-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/106040/000119312526267514/d83915d8k.htm",
+  "published_at": "2026-06-11",
+  "published_ts": 1781136000,
+  "snippet": "8-K",
+  "triage": {
+   "relevant": true,
+   "impact": 1,
+   "category": "holding",
+   "summary": "WDC filed an 8-K on 2026-06-11. Without access to the full filing content, impact cannot be assessed beyond routine filing notification. WDC is a core DRAM ETF holding, but the substance of the 8-K is unknown from the snippet provided."
+  },
+  "buffered_ts": 1781212683.3437588
+ }
+]
