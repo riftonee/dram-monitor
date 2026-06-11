@@ -219,5 +219,158 @@
    "summary": "WDC filed an 8-K on 2026-06-11. Without access to the full filing content, impact cannot be assessed beyond routine filing notification. WDC is a core DRAM ETF holding, but the substance of the 8-K is unknown from the snippet provided."
   },
   "buffered_ts": 1781212683.3437588
+ },
+ {
+  "id": "10fa6d0edb39d92adb207eb194ee003f184847c5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix’s Capacity Plan - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnZvS1hYYjF0bzVxTEFyYnVnQ01LTi1JcWNMcDFHTGNnS2lJMmdRS0o5X29hUkxhRlpwdmNraGJXaldlUkdaUWhONUVPZlVpcE9fcUdnd012MDV5U1hlTGdRZnJaazVmWjg5cDYyNjhtOXFDdEsydWdCVnZ5cVd1bm92NURUY2stQy1oZ0RfaVM2SUFmaENlUEFtWlNYZw?oc=5",
+  "published_at": "Thu, 11 Jun 2026 19:26:18 GMT",
+  "published_ts": 1781205978,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQnZvS1hYYjF0bzVxTEFyYnVnQ01LTi1JcWNMcDFHTGNnS2lJMmdRS0o5X29hUkxhRlpwdmNraGJXaldlUkdaUWhONUVPZlVpcE9fcUdnd012MDV5U1hlTGdRZnJaazVmWjg5cDYyNjhtOXFDdEsydWdCVnZ5cVd1bm92NURUY2stQy1oZ0RfaVM2SUFmaENlUEFtWlNYZw?oc=5\" target=\"_blank\">SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix’s Capacity Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) and Western Digital (WDC) posted significant gains (14% and 6% respectively) following SK hynix's announcement of a capacity plan. This is a concrete market-moving event tied to an actual supply-side development (hynix's capacity decision) that directly affects memory pricing and demand outlook for major fund holdings."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "5b1394f6b405d2c19b58eae1dc40f7cc482b0ac9",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "Seagate moves to wipe out $150.7 million in debt by 2026 - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTE3SDgxVEVHVFRjZkZzMXNYRFhGMmZ4NmR3NUlKdUFrWHZtZVI4UHAyWjVXdGtqMS1Ob2s0SE1KbWpkMlNUV3ljLV9xUk1CWThXUlhUb3hLblZRRGRLOWJVTVRfYzc1dmdWbUs1MWhtNUdYTHV4Z1JMZG9ldlVDSGt4TVc5NEl1SXphWTFPTVZPYTBEdUFUd3ducmUyZmM?oc=5",
+  "published_at": "Thu, 11 Jun 2026 22:22:00 GMT",
+  "published_ts": 1781216520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTE3SDgxVEVHVFRjZkZzMXNYRFhGMmZ4NmR3NUlKdUFrWHZtZVI4UHAyWjVXdGtqMS1Ob2s0SE1KbWpkMlNUV3ljLV9xUk1CWThXUlhUb3hLblZRRGRLOWJVTVRfYzc1dmdWbUs1MWhtNUdYTHV4Z1JMZG9ldlVDSGt4TVc5NEl1SXphWTFPTVZPYTBEdUFUd3ducmUyZmM?oc=5\" target=\"_blank\">Seagate moves to wipe out $150.7 million in debt by 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate announced a plan to eliminate $150.7 million in debt by 2026. This is a concrete financial management action by a DRAM fund holding, but it is a debt-reduction goal rather than an earnings result, production decision, or pricing move that directly impacts memory demand or near-term stock performance. Material for Seagate's financial health but not a demand or supply shock."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "7bd68d933f7729f42ec7efa1c6317ea038527283",
+  "source": "Kalkine Media",
+  "topic": "holding",
+  "title": "Seagate Rides Data Storage Demand As Tech Rotates - Kalkine Media",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR29pcUhvdjJXUmZNYi0yOVZ0MG42MnRWV25TbHplNmhCbzNkMUhnN0xpR05sRVpCWGVPV3dOQWZFUXhNZlhQSC1qeUZseHZyb3ZvMTAwenpVeFZKM0tGWXZWX1Rjamx2aWswZUl2dVdiNFZvZXJSUjIzc0FIbTRJSERNZEk0T1NuU2o1WlhUX2NybHd2SEgydnpGOA?oc=5",
+  "published_at": "Thu, 11 Jun 2026 21:25:00 GMT",
+  "published_ts": 1781213100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR29pcUhvdjJXUmZNYi0yOVZ0MG42MnRWV25TbHplNmhCbzNkMUhnN0xpR05sRVpCWGVPV3dOQWZFUXhNZlhQSC1qeUZseHZyb3ZvMTAwenpVeFZKM0tGWXZWX1Rjamx2aWswZUl2dVdiNFZvZXJSUjIzc0FIbTRJSERNZEk0T1NuU2o1WlhUX2NybHd2SEgydnpGOA?oc=5\" target=\"_blank\">Seagate Rides Data Storage Demand As Tech Rotates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is benefiting from increased data storage demand as technology sector rotates. This is analysis/commentary on the stock's market positioning rather than a concrete event or earnings result, making it soft news on holding performance."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "d749df26153e69408f708851f61a440a2a679700",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Sandisk Skyrockets over 692% YTD, Yet SNDK Stock Still Appears Reasonably Valued - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFlpdWpNeFVjVTUyazFXSnAwQUlBUGZpX0ROVnNYS192ZVJGTjJDVDBiQzVRQ1F0Z2NuQW15MHE0b2IzWUFxcnRGTTNZREZNb2EzU3Q0S2JXTF9VcUoyYS1tTXpNSWlPdk4tYmlUcElUTDZYWDY2LVVZQmpvajI1ZUtLdkNRTHNVYU04R3R0YnV2ZHhiOC03QnZmTjBWUGN4djVacGc1RGJvdm5TSGU1ay1neFg3Q1RpSW1zM0ZFQQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:22:44 GMT",
+  "published_ts": 1781209364,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFlpdWpNeFVjVTUyazFXSnAwQUlBUGZpX0ROVnNYS192ZVJGTjJDVDBiQzVRQ1F0Z2NuQW15MHE0b2IzWUFxcnRGTTNZREZNb2EzU3Q0S2JXTF9VcUoyYS1tTXpNSWlPdk4tYmlUcElUTDZYWDY2LVVZQmpvajI1ZUtLdkNRTHNVYU04R3R0YnV2ZHhiOC03QnZmTjBWUGN4djVacGc1RGJvdm5TSGU1ay1neFg3Q1RpSW1zM0ZFQQ?oc=5\" target=\"_blank\">Sandisk Skyrockets over 692% YTD, Yet SNDK Stock Still Appears Reasonably Valued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock has surged 692% year-to-date; analysis suggests valuation remains reasonable despite the move. Relevant to DRAM fund as a holding, but this is analyst opinion on valuation rather than a concrete catalyst or earnings event."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "202582fe8975e88fbff34541fae3f0a361fce4a3",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Sandisk Jumps to 52-Week High, Gains 14.5% in AI-Fueled Push - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ2xpaGE3d3NKQjlJbzZIYzJuTFNodXJOUnBDcENRd2ZObnA3RFhhZ1JpRF9NajR3dmpsMEZZNlprMm55MnEyV1Jld24waFFuX3JLM1Y2WkZCVFhLOG1XeE5SV251Ulp0aEhBbEdQMUwxanFOUDlvbDhRTGdNa0lwS2UzM1BnQQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 22:37:15 GMT",
+  "published_ts": 1781217435,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ2xpaGE3d3NKQjlJbzZIYzJuTFNodXJOUnBDcENRd2ZObnA3RFhhZ1JpRF9NajR3dmpsMEZZNlprMm55MnEyV1Jld24waFFuX3JLM1Y2WkZCVFhLOG1XeE5SV251Ulp0aEhBbEdQMUwxanFOUDlvbDhRTGdNa0lwS2UzM1BnQQ?oc=5\" target=\"_blank\">Sandisk Jumps to 52-Week High, Gains 14.5% in AI-Fueled Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, gained 14.5% to a 52-week high in an AI-fueled rally. This is a significant stock move, but the snippet does not disclose a concrete catalyst (earnings, guidance, deal, or supply event)—only a price move attributed generically to 'AI momentum.' Without a stated fundamental driver, this rates as relevant but soft news (impact 3)."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "a8429c2d91b659cdd8a8e79ad4ad6e7abe737ff2",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] Lenovo Reportedly Set for July Price Hikes Across Product Portfolio as Memory Costs Pressure PC Market - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXNYX1ViNmJoLVVRM3lJYm5YVTRETERjc1RMY09RWjlsWkY3YktPc0QyUWE2QWtEdWNGWW9pSnU2V2xYQjZzcExub1pVNEtrbVVkRUhYR2FaLV9rbE5OQkl6QzZvSzBVNENZVjJCdlNDbWVhbUducHplX29TZDB6NE5SNGlwTlpFdEJxT0h6bnZwN012ZS01dW44ZHNxVGtnWE1qSmZaQTFjdVdBWnlxTFpWNzc5OFpuVk5WMDdWZTgxeWgzYlViTFZRV3M1dGVjc3llVGZGUktwUXdKdktubHJ2SjRUZw?oc=5",
+  "published_at": "Wed, 10 Jun 2026 08:31:03 GMT",
+  "published_ts": 1781080263,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXNYX1ViNmJoLVVRM3lJYm5YVTRETERjc1RMY09RWjlsWkY3YktPc0QyUWE2QWtEdWNGWW9pSnU2V2xYQjZzcExub1pVNEtrbVVkRUhYR2FaLV9rbE5OQkl6QzZvSzBVNENZVjJCdlNDbWVhbUducHplX29TZDB6NE5SNGlwTlpFdEJxT0h6bnZwN012ZS01dW44ZHNxVGtnWE1qSmZaQTFjdVdBWnlxTFpWNzc5OFpuVk5WMDdWZTgxeWgzYlViTFZRV3M1dGVjc3llVGZGUktwUXdKdktubHJ2SjRUZw?oc=5\" target=\"_blank\">[News] Lenovo Reportedly Set for July Price Hikes Across Product Portfolio as Memory Costs Pressure PC Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo reportedly planning July price increases across its product portfolio due to rising memory costs pressuring the PC market. This is soft reporting on pricing dynamics and cost pressure rather than a confirmed event or concrete price data, but it signals downstream demand pressure and cost pass-through expectations in the memory cycle."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "f44c9d034b8827be7da90c869f2cba60c1a63656",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "IPG Photonics, Western Digital, and Skyworks Solutions Shares Are Falling, What You Need To Know - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVZnajh6eERSdjRQeFF4LVRJMWduWFhObXVZZG9qbVRyYk5JMzVQYVVGdXJNV3ZOLVZWV0dIUVo5X2JwbVczb3RuY21qbEZaX3M5RVlsTFhoWlZ2Q0QxSG9ta1NIbjNuVEpKOHJJVG93d3IzWDNZN2tSSWpDTDJHVGhwVkZ5OWhqM0VYMlJnd1U5MFkxSXV0b1JjVTVod0x1cldWLUtWWWFTMUMxUzBqT0NCNU1FZnpiQWFBWGI1S2NRM0NqcXZFNHdLeUw2ME1lVXQta1lwelhCa3VFbXlVN0RBZkZnaFZlNFE?oc=5",
+  "published_at": "Wed, 10 Jun 2026 19:35:52 GMT",
+  "published_ts": 1781120152,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVZnajh6eERSdjRQeFF4LVRJMWduWFhObXVZZG9qbVRyYk5JMzVQYVVGdXJNV3ZOLVZWV0dIUVo5X2JwbVczb3RuY21qbEZaX3M5RVlsTFhoWlZ2Q0QxSG9ta1NIbjNuVEpKOHJJVG93d3IzWDNZN2tSSWpDTDJHVGhwVkZ5OWhqM0VYMlJnd1U5MFkxSXV0b1JjVTVod0x1cldWLUtWWWFTMUMxUzBqT0NCNU1FZnpiQWFBWGI1S2NRM0NqcXZFNHdLeUw2ME1lVXQta1lwelhCa3VFbXlVN0RBZkZnaFZlNFE?oc=5\" target=\"_blank\">IPG Photonics, Western Digital, and Skyworks Solutions Shares Are Falling, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, mentioned alongside IPG Photonics and Skyworks Solutions in a stock-price-falling roundup. No disclosed catalyst or reason for the decline provided; passing mention in a multi-stock list."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "87dbf43aadcd7dd25bb43379c8db9eba9942ed23",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Top Stock Reports for Mastercard, Seagate & Intuitive Surgical - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUplaWNmZHBTaHFIdHQ1TWNfN1dEYmRvNjl1VTlVLXZ1bjk5eHc5TEE2MTRmN212MmlHREhaNGhsRkUzdUctek1jVjhEM2pIY2hkQ2pjVEJ4el9lZE93MHdxa1FTSkxjRkxpMTJOLUFoMXozbzdlUjE0UDBBTXlRN0R5VEdJMzZlWVRHTUlQNkxQVUxlS3RMM2dQUmoxaHY1REpn?oc=5",
+  "published_at": "Thu, 11 Jun 2026 20:51:00 GMT",
+  "published_ts": 1781211060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUplaWNmZHBTaHFIdHQ1TWNfN1dEYmRvNjl1VTlVLXZ1bjk5eHc5TEE2MTRmN212MmlHREhaNGhsRkUzdUctek1jVjhEM2pIY2hkQ2pjVEJ4el9lZE93MHdxa1FTSkxjRkxpMTJOLUFoMXozbzdlUjE0UDBBTXlRN0R5VEdJMzZlWVRHTUlQNkxQVUxlS3RMM2dQUmoxaHY1REpn?oc=5\" target=\"_blank\">Top Stock Reports for Mastercard, Seagate & Intuitive Surgical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is mentioned in a stock reports roundup alongside unrelated companies. No specific news, catalyst, or material development disclosed—only a generic mention in a list of stocks being covered."
+  },
+  "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "9881cff86f4f98bdc0f85b71bff0fcf05900ed41",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC (STX) Shares Surge 6.4% -- What GF Score of 66 Tells Investors - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT3VMUG8zNGJ2WHl4RWpVYVpDX200emw1WktSQkZybFc4UVpSbGd6Mi04TFVUQ1FuU1p1cnRmSDd4dGMzR3B6MjJfeWpISHBJanZOT1RSM3EyLUY0akNPRHRROTVsZmw2aEpYT09SRTd0UnEzVjVQWjRvMXRRODRhYkdVRkFHNTZyZ3ByYV9JaDF0VmV5REtoa1c1MWRxRGhvV2Z1LWJjanFFRDc3RzVJM2hMOTZReGhrOXNTclo2LWNXaDRE?oc=5",
+  "published_at": "Thu, 11 Jun 2026 23:00:56 GMT",
+  "published_ts": 1781218856,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT3VMUG8zNGJ2WHl4RWpVYVpDX200emw1WktSQkZybFc4UVpSbGd6Mi04TFVUQ1FuU1p1cnRmSDd4dGMzR3B6MjJfeWpISHBJanZOT1RSM3EyLUY0akNPRHRROTVsZmw2aEpYT09SRTd0UnEzVjVQWjRvMXRRODRhYkdVRkFHNTZyZ3ByYV9JaDF0VmV5REtoa1c1MWRxRGhvV2Z1LWJjanFFRDc3RzVJM2hMOTZReGhrOXNTclo2LWNXaDRE?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC (STX) Shares Surge 6.4% -- What GF Score of 66 Tells Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a 6.4% share price surge. The article references a GuruFocus valuation score (GF Score of 66) but provides no disclosed catalyst, fundamental catalyst, or market-moving event to explain the move. This is a pure price-move piece without stated cause."
+  },
+  "buffered_ts": 1781219157.5363917
  }
 ]
