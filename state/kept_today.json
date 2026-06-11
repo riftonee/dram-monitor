@@ -1052,5 +1052,430 @@
    "summary": "SK hynix stock gained over 4% in a session where South Korean equities rebounded. The move appears driven by general market sentiment rather than company-specific memory or semiconductor news."
   },
   "buffered_ts": 1781161193.360628
+ },
+ {
+  "id": "0f14bb900e43bf1cf1edc8dd014696ce7065e8c9",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORG9ydFJWS1Z3azdMQVpiMmlDT0cwYnVLRTJ2Zldzb2Z6UTl6cVNiTW4xOXpyWXYtbGRFMTN4YXBySjZIT2Zfb3VhSE5pTlM5LV91RS1vdnZDMnNKS0E5aG9DS1Y1SnU3MjU5N0VXVEpoRVhuWXVpcHV6SDdtd3NWZkk4YkVCcTEyX1lQblBBb19OQQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:18:01 GMT",
+  "published_ts": 1781165881,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORG9ydFJWS1Z3azdMQVpiMmlDT0cwYnVLRTJ2Zldzb2Z6UTl6cVNiTW4xOXpyWXYtbGRFMTN4YXBySjZIT2Zfb3VhSE5pTlM5LV91RS1vdnZDMnNKS0E5aG9DS1Y1SnU3MjU5N0VXVEpoRVhuWXVpcHV6SDdtd3NWZkk4YkVCcTEyX1lQblBBb19OQQ?oc=5\" target=\"_blank\">MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced plan to triple wafer capacity by 2034, a concrete capacity expansion commitment affecting a major fund holding. Holdings MU, SNDK, WDC, STX also rebounded following geopolitical volatility (Iran tensions), representing a material market move with disclosed catalyst."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "e777f5d618bab4a46275ec4b9dd178e009079ab0",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron Stock Roars Back Even as Rival SK Hynix Pledges to Triple Capacity - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXVPdk9SbzJxdjN3YjA2WFVkaEdKbnB3NUlwTXgwVnJRc1paS2RoOVo4ZGc0NHZRZDNUSmxzMzhKNFZIS1dNbThjUllmWEhSMkZmdzlOX0dSWnNTQ1pnVjBqZWU5NVNWWndXWF9XUXk2M19tSGM0d1V0RF9RZ21FV0xOSFIwcUFFR3c?oc=5",
+  "published_at": "Thu, 11 Jun 2026 09:24:00 GMT",
+  "published_ts": 1781169840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXVPdk9SbzJxdjN3YjA2WFVkaEdKbnB3NUlwTXgwVnJRc1paS2RoOVo4ZGc0NHZRZDNUSmxzMzhKNFZIS1dNbThjUllmWEhSMkZmdzlOX0dSWnNTQ1pnVjBqZWU5NVNWWndXWF9XUXk2M19tSGM0d1V0RF9RZ21FV0xOSFIwcUFFR3c?oc=5\" target=\"_blank\">Micron Stock Roars Back Even as Rival SK Hynix Pledges to Triple Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a major capacity expansion (tripling), while Micron stock showed strength despite this competitive development. This represents a concrete, officially announced strategic move by a key rival that directly affects supply/demand dynamics and competitive positioning in the memory market, with observable stock movement in the fund's largest holding."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "7b91c4ecc878aa072da9b20a10952dfddc297a55",
+  "source": "Nikkei Asia",
+  "topic": "holding",
+  "title": "SK Hynix to triple wafer capacity by 2034: Chairman Chey - Nikkei Asia",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9QNXFrdUdpaENTa0U5X3RJbU92aHVMMHJvWW53eDY3Y0ZLQUpBbGh5MGFFbEhLWDhDNWYweFZDMTllclpmNDZwSXNxb0ZJcGwzX0prbmVNamFFZ0RxdkdyVzBPSGtHNWVIYzZ5OU91S0R6YzZkUF95cGhiZFRCb0pUNHZTa3V3X3R2QjJ4Zm1WeWowSkJDc0tsaVZVVG1la2dQT21PWW0?oc=5",
+  "published_at": "Wed, 10 Jun 2026 20:01:00 GMT",
+  "published_ts": 1781121660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9QNXFrdUdpaENTa0U5X3RJbU92aHVMMHJvWW53eDY3Y0ZLQUpBbGh5MGFFbEhLWDhDNWYweFZDMTllclpmNDZwSXNxb0ZJcGwzX0prbmVNamFFZ0RxdkdyVzBPSGtHNWVIYzZ5OU91S0R6YzZkUF95cGhiZFRCb0pUNHZTa3V3X3R2QjJ4Zm1WeWowSkJDc0tsaVZVVG1la2dQT21PWW0?oc=5\" target=\"_blank\">SK Hynix to triple wafer capacity by 2034: Chairman Chey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix Chairman Chey announced an official plan to triple wafer capacity by 2034, a major long-term supply-side commitment that signals confidence in sustained memory demand and represents concrete capex intent by a core DRAM ETF holding."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "f6ec84cb6ef4b15449364957f71069ea00ec03af",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "MU, SNDK, WDC, STX rebound after Iran jitters: SK Hynix to triple wafer capacity by 2034 - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTzRWQm1lUmU1RDlCbGo2MG9JQVVrdGhtdnFSVVJEQnZoMjEzQzR4R1R0b0hfOFdRZUVJQ2pHRHMzSXdwTFI2cDZqSXdXbGE1Y2tlREV3OC1ZdkF1TVlnLXUyYm10cEVSbWltbmEzaDhqWVFzSjRkM2RNM1B4a1JwZmx4Xzd3YTlRZ0R6TmFaWEpqTVNZcmxnSWZaWG5xbGJsWHBsWGVzTFdreU9rX0NUUVRpSWU1eWJpN29WYTY1ak84ZHpxODJmNmVwR1JsVEdFOHp2dTExTFY5RjdFY1p0WUNmNUZGbzZqTlNEU01lZU55dWZn?oc=5",
+  "published_at": "Thu, 11 Jun 2026 09:00:29 GMT",
+  "published_ts": 1781168429,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTzRWQm1lUmU1RDlCbGo2MG9JQVVrdGhtdnFSVVJEQnZoMjEzQzR4R1R0b0hfOFdRZUVJQ2pHRHMzSXdwTFI2cDZqSXdXbGE1Y2tlREV3OC1ZdkF1TVlnLXUyYm10cEVSbWltbmEzaDhqWVFzSjRkM2RNM1B4a1JwZmx4Xzd3YTlRZ0R6TmFaWEpqTVNZcmxnSWZaWG5xbGJsWHBsWGVzTFdreU9rX0NUUVRpSWU1eWJpN29WYTY1ak84ZHpxODJmNmVwR1JsVEdFOHp2dTExTFY5RjdFY1p0WUNmNUZGbzZqTlNEU01lZU55dWZn?oc=5\" target=\"_blank\">MU, SNDK, WDC, STX rebound after Iran jitters: SK Hynix to triple wafer capacity by 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK Hynix announced plan to triple wafer capacity by 2034, a significant official capacity expansion commitment that signals major production scaling in the memory industry. Holdings (MU, SNDK, WDC, STX) rebounded following the news, indicating market recognition of the strategic importance to the sector."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "f691e49957f0d9a4ac1a019b7baaaa9733d14b84",
+  "source": "Electronics For You BUSINESS",
+  "topic": "holding",
+  "title": "SK hynix Unveils Massive Capacity Push as Memory Market Rebounds - Electronics For You BUSINESS",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDFQYUpwU2h4ZE5Da0NLdWM2bEdHcFozRDd0SW5oWkg0NEJmM0lzbmU0aDktZG9iRmRsQWFGdkVYQUpTUm1VTjNyX2laUGFMRU1kQVpYVUVTODdkVWlPd2lsNDdMVUh2OWM3Q1h5Qm5lb1l5Mmc2aFZ0djJxSHRaWlJfOUhyLTlfUDl2ck5lNzcwSnctZ3NYU0lXT1lzN203VGg0ZFNaR0x5ZWwwRVkzR1k1SQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:24:31 GMT",
+  "published_ts": 1781162671,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDFQYUpwU2h4ZE5Da0NLdWM2bEdHcFozRDd0SW5oWkg0NEJmM0lzbmU0aDktZG9iRmRsQWFGdkVYQUpTUm1VTjNyX2laUGFMRU1kQVpYVUVTODdkVWlPd2lsNDdMVUh2OWM3Q1h5Qm5lb1l5Mmc2aFZ0djJxSHRaWlJfOUhyLTlfUDl2ck5lNzcwSnctZ3NYU0lXT1lzN203VGg0ZFNaR0x5ZWwwRVkzR1k1SQ?oc=5\" target=\"_blank\">SK hynix Unveils Massive Capacity Push as Memory Market Rebounds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics For You BUSINESS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announces a major capacity expansion as the memory market shows signs of recovery. This represents a concrete strategic decision by a key DRAM ETF holding that will affect supply dynamics and the company's competitive position in the memory cycle."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "0e2d03279f8b8d273252a7f5fba41d1543a03ca2",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "SK Builds AI Data Center in Japan with NVIDIA - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFGTEFrVHRCZ1VjMXBMaXNrdnlUT2R0SHBPQ1pBdzNMNGQ0SVR6N3pxTl94azhPRUZ0Wk5NQnAybjNXS0VyZjU4aExCaFVBUzBBOHdrcjRLVE40RGV0TFVUUVVzdUktOXRIOWI1bmdON1JXeVlObjBFZjJrZGt4Zzg2OWhPYlRQX0tvM3QzR1U?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:52:03 GMT",
+  "published_ts": 1781164323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXFGTEFrVHRCZ1VjMXBMaXNrdnlUT2R0SHBPQ1pBdzNMNGQ0SVR6N3pxTl94azhPRUZ0Wk5NQnAybjNXS0VyZjU4aExCaFVBUzBBOHdrcjRLVE40RGV0TFVUUVVzdUktOXRIOWI1bmdON1JXeVlObjBFZjJrZGt4Zzg2OWhPYlRQX0tvM3QzR1U?oc=5\" target=\"_blank\">SK Builds AI Data Center in Japan with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced construction of an AI data center in Japan in partnership with NVIDIA. This represents a concrete, material development—an official capacity investment decision by a major fund holding. AI data centers drive high-bandwidth memory (HBM) and DRAM demand, directly supporting memory-semiconductor demand cycle. The partnership signals expansion into AI infrastructure, a key growth driver for memory chip makers."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "53368c0276d751eb32c0ebc0bf2439f7a29a7d79",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "SK Hynix plans to triple its wafer production capacity by 2034 - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUw1MWRXbWhDR1dTT3ljOTBnVGd2bXNpSTNxUDBQNnJrNndiaGxWMF9fS0lQam4zeVM0bmp3ekQxSm1ZRXJzMXhoOVEwcncwUFlKbE1jM2l6XzFHRm42NW84NmQ3VGNRdHpMc3V1VVBOekt4d2tCLTkxM3lvRjVVOTYtZzhVZHBfRGFIaENfOV9adnpkNFNNNVV3Z21PcldobzNFaERiam4wSTE3RXFoenk5SFM3bkRJakZ4UQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:45:18 GMT",
+  "published_ts": 1781167518,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUw1MWRXbWhDR1dTT3ljOTBnVGd2bXNpSTNxUDBQNnJrNndiaGxWMF9fS0lQam4zeVM0bmp3ekQxSm1ZRXJzMXhoOVEwcncwUFlKbE1jM2l6XzFHRm42NW84NmQ3VGNRdHpMc3V1VVBOekt4d2tCLTkxM3lvRjVVOTYtZzhVZHBfRGFIaENfOV9adnpkNFNNNVV3Z21PcldobzNFaERiam4wSTE3RXFoenk5SFM3bkRJakZ4UQ?oc=5\" target=\"_blank\">SK Hynix plans to triple its wafer production capacity by 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK Hynix announced a concrete plan to triple wafer production capacity by 2034. This is an officially stated capacity expansion decision by a major fund holding that signals significant growth in memory output and reflects confidence in long-term demand, directly impacting the memory cycle and industry supply dynamics."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "0671e87735d34f0a56b0aa4d80db42e5f01a9eb3",
+  "source": "Tom's Hardware",
+  "topic": "pricing",
+  "title": "Crushing shortages force Biwin into $1.86 billion NAND deal for SSDs — multi-year agreement locks in fixed pricing as spot market threatens to dry up - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNN0RhdGxfekJkOUI4bjdvLTNtcklGY1U2VHVwQXA4X0JxYlFWM2dFUlJtd2dCLVo3S2NxVV9peVdPUFd2THpnWlVKMzNXeTB4dndqSGhUYlRKNDlVdXo5anZhQVFXNll2Rzdlay0wcWlpSF9uZFY0VlczVFdVaHhhM0podTJMb01oUEM5VmdPNVpIWlpvSE12anZoZlNZSHMwZTlIVmhSdjJ4RC1SaXhYbVFyZm5JQ2R4NThKUEdNY2lmb0RmZXZXRlMzQnFjQ1BiaktveWZuNktwalhyUE84NlhweGRaNVRjRTRlWWF1bFB4SFRpRXZ0YkRFakJSaHZ4OUlnWjZNQUt0RFRKeExRRERCck5KcHpfT0paaU5FNVZzUXc?oc=5",
+  "published_at": "Thu, 11 Jun 2026 11:00:00 GMT",
+  "published_ts": 1781175600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNN0RhdGxfekJkOUI4bjdvLTNtcklGY1U2VHVwQXA4X0JxYlFWM2dFUlJtd2dCLVo3S2NxVV9peVdPUFd2THpnWlVKMzNXeTB4dndqSGhUYlRKNDlVdXo5anZhQVFXNll2Rzdlay0wcWlpSF9uZFY0VlczVFdVaHhhM0podTJMb01oUEM5VmdPNVpIWlpvSE12anZoZlNZSHMwZTlIVmhSdjJ4RC1SaXhYbVFyZm5JQ2R4NThKUEdNY2lmb0RmZXZXRlMzQnFjQ1BiaktveWZuNktwalhyUE84NlhweGRaNVRjRTRlWWF1bFB4SFRpRXZ0YkRFakJSaHZ4OUlnWjZNQUt0RFRKeExRRERCck5KcHpfT0paaU5FNVZzUXc?oc=5\" target=\"_blank\">Crushing shortages force Biwin into $1.86 billion NAND deal for SSDs — multi-year agreement locks in fixed pricing as spot market threatens to dry up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Biwin secures $1.86 billion multi-year NAND supply agreement with fixed pricing amid tight spot market conditions. Demonstrates concrete supply-chain tension and pricing dynamics in NAND market, directly relevant to memory-semiconductor cycle and potential pricing pressure on fund holdings like WDC and SNDK."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "6a23edb8d32e7350c98095088907d88fcb29fffc",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] South Korea Chip Export Volume Falls Yet Revenue Surges; May DRAM +370%, NAND +207% - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFRJZUNlQ2tRa0IxbHlNWkF0d0tJNFpvdWFtQ3N2eVhOa1BwSWdZeWNjUWIwWW5XUTRaTW5ZZDYwdnEtQ1QtOFFNS0NOZ0ZZMU1ldW5IckVVVTJhTVdESHR6OEdhLWpqTVR6NTRrOWl4X29URTUyNFRBNm9uNGVWeG1aOWZjLXRfcHZfejRLR2dyS2o5SXhnbWJKSW4xbnlzbzJiQ3VDcmUzbzlwNlNOeGlJbHBjMjFsUks4R2JGVmdKWVdU?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:29:16 GMT",
+  "published_ts": 1781166556,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFRJZUNlQ2tRa0IxbHlNWkF0d0tJNFpvdWFtQ3N2eVhOa1BwSWdZeWNjUWIwWW5XUTRaTW5ZZDYwdnEtQ1QtOFFNS0NOZ0ZZMU1ldW5IckVVVTJhTVdESHR6OEdhLWpqTVR6NTRrOWl4X29URTUyNFRBNm9uNGVWeG1aOWZjLXRfcHZfejRLR2dyS2o5SXhnbWJKSW4xbnlzbzJiQ3VDcmUzbzlwNlNOeGlJbHBjMjFsUks4R2JGVmdKWVdU?oc=5\" target=\"_blank\">[News] South Korea Chip Export Volume Falls Yet Revenue Surges; May DRAM +370%, NAND +207%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "South Korea chip exports show significant price increases in May: DRAM revenue up 370%, NAND up 207%, despite declining export volumes. Indicates strong pricing environment for memory semiconductors, directly impacting fund holdings SK hynix and Samsung's memory operations."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "3e05495ddeec8a8ba0cb09c67e0e28b10fbe5cf5",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix ETF Boom Is Becoming a Force in the Stock’s Trading - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMm9UVGx3cmJmSmxKV1hXSXZCOEVRdDFvX3owTFFNVEttRXNMRGZYeFhWTXExYmlqVm9oR29XajNfbV9FRmdWT0plOEU1SUh4aU1PTExrdTBPODJLOGIxaFpqcmRFSnc4T0JwRGZHQWE5RzdzS1dpZ1hCc1FkMDR3SUdrVENaNUJoYTdic1R2c3E4Z1BGeUlXRGNQeUZZc3dfcEIwRU9TYXp2MlJFblhheQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 09:00:59 GMT",
+  "published_ts": 1781168459,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMm9UVGx3cmJmSmxKV1hXSXZCOEVRdDFvX3owTFFNVEttRXNMRGZYeFhWTXExYmlqVm9oR29XajNfbV9FRmdWT0plOEU1SUh4aU1PTExrdTBPODJLOGIxaFpqcmRFSnc4T0JwRGZHQWE5RzdzS1dpZ1hCc1FkMDR3SUdrVENaNUJoYTdic1R2c3E4Z1BGeUlXRGNQeUZZc3dfcEIwRU9TYXp2MlJFblhheQ?oc=5\" target=\"_blank\">SK Hynix ETF Boom Is Becoming a Force in the Stock’s Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ETF flows are influencing the stock's trading dynamics. Story discusses ETF-driven trading patterns affecting SK Hynix (a key DRAM holding) but does not report concrete news on fundamentals, pricing, supply, or earnings—it is market/flow observation rather than a settled event."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "3e0ca4809c863957f72177fd48a38ddc8aa9435b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Air Liquide Deepens SK Hynix Ties And Semiconductor Exposure In Korea - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTViQnJCcC1RQ3UwRFBIbkY1RHhKTURnLWtiTWtIR2tRRk1NbmhGNlVUdFJhdjlVLUJCYTk0VHhDemNEYUVHazcwdHZZYm13TjBxbGdVaUFabFVjTXY0NVQ5ay1uTmJqU0tSTTVfcnlFY241UWM3NWVwclFGcGdmMWlZa2tCSmUzcFhYR0J1T0dHY0o3Z2U0ZA?oc=5",
+  "published_at": "Thu, 11 Jun 2026 10:09:45 GMT",
+  "published_ts": 1781172585,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTViQnJCcC1RQ3UwRFBIbkY1RHhKTURnLWtiTWtIR2tRRk1NbmhGNlVUdFJhdjlVLUJCYTk0VHhDemNEYUVHazcwdHZZYm13TjBxbGdVaUFabFVjTXY0NVQ5ay1uTmJqU0tSTTVfcnlFY241UWM3NWVwclFGcGdmMWlZa2tCSmUzcFhYR0J1T0dHY0o3Z2U0ZA?oc=5\" target=\"_blank\">Air Liquide Deepens SK Hynix Ties And Semiconductor Exposure In Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Air Liquide deepens partnership with SK hynix, a major DRAM ETF holding. The story indicates expanded business ties and investment in Korea's semiconductor ecosystem, supporting SK hynix's operational capacity, but lacks concrete details on deal size, timeline, or material financial impact."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "b6863c6059bb9724b97e4cf47385c984fed706b6",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034 - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWphSXdsdTdtMTZ3UVl0ZFNobG0zeE5FMzJsUmJVSHBaSG93YzdTeXd2VWtyXzVYUzdYWHVWXzRzWjQ5MXdRT19JcV9UTGFXMGpxeW5lMU9GbkNIRHcxZW16UjNQR1hTZk5USkJISHRzdnh4OVRidFh1V0VNaXhyUzdIblh6THpqUVhpLW9oSjJxZDN3RnNLTVpiV3JuS3MwYUNMa1BJZzNJb2hVQl9CU0pKSTE1NlBkVzVwMXY3U1J1VDFlOG1GZVNqcE1saVgtclBkRHhJWHZSb0NVRDdqMVFR?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:18:00 GMT",
+  "published_ts": 1781165880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWphSXdsdTdtMTZ3UVl0ZFNobG0zeE5FMzJsUmJVSHBaSG93YzdTeXd2VWtyXzVYUzdYWHVWXzRzWjQ5MXdRT19JcV9UTGFXMGpxeW5lMU9GbkNIRHcxZW16UjNQR1hTZk5USkJISHRzdnh4OVRidFh1V0VNaXhyUzdIblh6THpqUVhpLW9oSjJxZDN3RnNLTVpiV3JuS3MwYUNMa1BJZzNJb2hVQl9CU0pKSTE1NlBkVzVwMXY3U1J1VDFlOG1GZVNqcE1saVgtclBkRHhJWHZSb0NVRDdqMVFR?oc=5\" target=\"_blank\">MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Multiple DRAM fund holdings (MU, SNDK, WDC, STX) rebounded following geopolitical uncertainty. SK hynix announced plans to triple wafer capacity by 2034—a long-term capacity expansion signal relevant to the memory industry, but framed as future intent rather than a confirmed, near-term concrete event."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "71810c1fb9886b9206d8a79c0191db07a38f8ca8",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Memory 'supercycle' sees equipment makers vying for a share; SK Hynix receives upstream price hike requests - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0lDb002cjlkVXVYS183bTlqTDhBVzNRR2FxakgwY21obmx1b254MnMtVjVpTy1YRkZyZmQ2NHlrbC15WFVUQWliUE9DMndDckRGOWlDX0Njd242ZUp0c0MwdkJGUGw5dEpzQjdNZWsyVERaMm5QckRkZ2QyM1JhdDJPYklTcXl5NS1Nb0pnLUNmTmhSeXpTVHozLTNlNV9ZRVliQg?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:59:25 GMT",
+  "published_ts": 1781164765,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0lDb002cjlkVXVYS183bTlqTDhBVzNRR2FxakgwY21obmx1b254MnMtVjVpTy1YRkZyZmQ2NHlrbC15WFVUQWliUE9DMndDckRGOWlDX0Njd242ZUp0c0MwdkJGUGw5dEpzQjdNZWsyVERaMm5QckRkZ2QyM1JhdDJPYklTcXl5NS1Nb0pnLUNmTmhSeXpTVHozLTNlNV9ZRVliQg?oc=5\" target=\"_blank\">Memory 'supercycle' sees equipment makers vying for a share; SK Hynix receives upstream price hike requests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses a memory 'supercycle' with equipment makers competing for share and reports that SK Hynix is receiving upstream price hike requests. While relevant to the memory cycle and a key holding, this appears to be analysis or discussion of market conditions and pricing requests rather than confirmed price changes or hard numbers. Typical supercycle commentary with soft sourcing on price pressures."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "d857eb6704b3848be6551d7193654465ec24d5b1",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "From tungsten to molybdenum, SK Hynix targets 'lower resistance' for its next-generation NAND - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZyTG1ELTJZcXNlU0dCbVd6RzZJSXVDM2VQb01TNDRSTXNjQXc1RHNLbHJlbG1ObVpLZFFQMmRyZS1IV3lDdXVGQkZCR0VBQWE5OEpxZGFOSEVfS2NMcVk2NmR6eXdIeGZOZWttbG4zblNack1xSS1zOXIzN2o1N1p6N3VnUjRPeDVXaWN1OGJBZ1FkVm9RUVZINDFTT0hlbERqdGNsVzdjZw?oc=5",
+  "published_at": "Thu, 11 Jun 2026 10:15:15 GMT",
+  "published_ts": 1781172915,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZyTG1ELTJZcXNlU0dCbVd6RzZJSXVDM2VQb01TNDRSTXNjQXc1RHNLbHJlbG1ObVpLZFFQMmRyZS1IV3lDdXVGQkZCR0VBQWE5OEpxZGFOSEVfS2NMcVk2NmR6eXdIeGZOZWttbG4zblNack1xSS1zOXIzN2o1N1p6N3VnUjRPeDVXaWN1OGJBZ1FkVm9RUVZINDFTT0hlbERqdGNsVzdjZw?oc=5\" target=\"_blank\">From tungsten to molybdenum, SK Hynix targets 'lower resistance' for its next-generation NAND</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is developing next-generation NAND technology using molybdenum instead of tungsten to reduce resistance in memory cells. This represents a material technology advancement for a major DRAM ETF holding, but is a forward-looking R&D initiative rather than a confirmed, shipped product or earnings impact."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "7a6700879c3fa0b2e23499d9cc5269672becd4c9",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Memory 'supercycle' sees equipment makers vying for a share; SK Hynix receives upstream price hike requests - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3Z3bXJXRjdzVkFONms4eVNzT25FZWNidmNnMDFhTzhxRXlrYXZKMHd6SWFxWDNIb2NDTUxmSUFZNUxNQnZwQmx2WXgxT0tTbFBIZG45RE5oME9zdExxS05xQzJMMUw1OHZJSXdxYm9jeXkwWlQ1OEMtZG1OM1R3RHpCZG1xLXpvV3p5SG0tM1ZnMHhhbHc3VjVKVWFPdF9LZk9J?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:52:27 GMT",
+  "published_ts": 1781164347,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3Z3bXJXRjdzVkFONms4eVNzT25FZWNidmNnMDFhTzhxRXlrYXZKMHd6SWFxWDNIb2NDTUxmSUFZNUxNQnZwQmx2WXgxT0tTbFBIZG45RE5oME9zdExxS05xQzJMMUw1OHZJSXdxYm9jeXkwWlQ1OEMtZG1OM1R3RHpCZG1xLXpvV3p5SG0tM1ZnMHhhbHc3VjVKVWFPdF9LZk9J?oc=5\" target=\"_blank\">Memory 'supercycle' sees equipment makers vying for a share; SK Hynix receives upstream price hike requests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix receiving upstream price hike requests from equipment makers amid memory supercycle dynamics. Reflects competitive positioning and cost pressures in the memory supply chain but lacks concrete pricing or volume impact data."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "f5b6613d3e77e7a643599a0316143dde9c003764",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Memory Supercycle Effect Spreads, SK Hynix Equipment Suppliers Request 3%-4% Price Hikes - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnVidnpYcExiTDBsTEhlYjF5V19JQWVxOHQ2MGsySi12TExqWGh6YVpqNk9Vb1RJXzVqcDBDUUc3NUtqWlo0U1hZQm9qbHFDV0M3ZzRKb2JvQkk1NDhrY1hfSUZ6allxTGd1cnJvdDcxMjJOa1g1ZWNTV2llUXNrcVpBakMxTE1jUGxFSDZKR0VMUnljZ3ZjUk5MRncxdmFN?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:40:38 GMT",
+  "published_ts": 1781167238,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnVidnpYcExiTDBsTEhlYjF5V19JQWVxOHQ2MGsySi12TExqWGh6YVpqNk9Vb1RJXzVqcDBDUUc3NUtqWlo0U1hZQm9qbHFDV0M3ZzRKb2JvQkk1NDhrY1hfSUZ6allxTGd1cnJvdDcxMjJOa1g1ZWNTV2llUXNrcVpBakMxTE1jUGxFSDZKR0VMUnljZ3ZjUk5MRncxdmFN?oc=5\" target=\"_blank\">Memory Supercycle Effect Spreads, SK Hynix Equipment Suppliers Request 3%-4% Price Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix equipment suppliers requesting 3-4% price hikes amid memory supercycle. Indicates rising input costs for a major DRAM fund holding but is not a confirmed event—suppliers requesting price increases is negotiation/discussion rather than a binding commitment or actual cost pass-through."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "bee8fa8ead2eeae7fae84d97648b6871b04181c5",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "SK Hynix shares rebound on report of tripling wafer capacity By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BuLUZPdThnQWpxLWpMNXhiekZoNFlXemJSYl9BZmV6amRvVXFEQmFLT0xhaG5NOVFzbE12cVBLZWE3dFdfS014QlhKMzBzSDBlSldyRk5RWU9DYmEtcU1LUlpVWkdaSXUxTG84a0JSRy1GUGlZOGlidzlTTTFyWUxxMTZWYVp0VGNENzVBLUswazN3WXVWS1JUaUEwZ2tZU0dzbTQ3aWxJSUdxLWhhLXptX09tbVk?oc=5",
+  "published_at": "Thu, 11 Jun 2026 02:51:24 GMT",
+  "published_ts": 1781146284,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BuLUZPdThnQWpxLWpMNXhiekZoNFlXemJSYl9BZmV6amRvVXFEQmFLT0xhaG5NOVFzbE12cVBLZWE3dFdfS014QlhKMzBzSDBlSldyRk5RWU9DYmEtcU1LUlpVWkdaSXUxTG84a0JSRy1GUGlZOGlidzlTTTFyWUxxMTZWYVp0VGNENzVBLUswazN3WXVWS1JUaUEwZ2tZU0dzbTQ3aWxJSUdxLWhhLXptX09tbVk?oc=5\" target=\"_blank\">SK Hynix shares rebound on report of tripling wafer capacity By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares rebounded on a report of tripling wafer capacity. This is relevant as SK Hynix is a major DRAM holding, and capacity expansion is a material industry development. However, the story appears to be based on a report rather than an official announcement, making it analysis/possibility rather than a confirmed event, warranting a 3 rather than 4-5."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "7ef008ece5f99f6d63dbeed7307c62f77bc27041",
+  "source": "Insider Monkey",
+  "topic": "holding",
+  "title": "BofA Raises Seagate (STX) Price Target to $900, Keeps Buy Rating - Insider Monkey",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHZ2dEtlVXowWlpJYTI5aTJqc3pSMGJwd0lTN2I1LVQ0bFppTmUyZmNac3ZzMXZ3UklfNzZiRU5IYkJQUnhKT0Y4UWpBdkJfX2U5TE5Rd25Mei1faWRCRkpRLXdGRlZ3SlZ1UzdJaWEydFduOUNmNzNVUjdkS2lUOXBrSk1yWUgzVTR0M25BenZUWExpcDAtMUNPSUVtVmx0YUhVUi1UVdIBrwFBVV95cUxQcGtYU3VnYzdSVzlPRGhnSUVia1hGNTFwNkN2MlN1LVE1bFZQU0R1SDhCX3NwOXBXZDV4c2RvYWwtaTN5VnpEV3dpYl85cERXZVBDX3pfNTk5WmNMbjQ3WXpfc2xWVFgyVkVfZkJTTFh1RkdodFJvR3hlSmJxdlFGekw4RnkzRWkxTHdMSkJZUnIwbG91S3dlTWFGUlJWTTRTT3N2b05wYXpqYy1lbDNz?oc=5",
+  "published_at": "Thu, 11 Jun 2026 01:35:16 GMT",
+  "published_ts": 1781141716,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHZ2dEtlVXowWlpJYTI5aTJqc3pSMGJwd0lTN2I1LVQ0bFppTmUyZmNac3ZzMXZ3UklfNzZiRU5IYkJQUnhKT0Y4UWpBdkJfX2U5TE5Rd25Mei1faWRCRkpRLXdGRlZ3SlZ1UzdJaWEydFduOUNmNzNVUjdkS2lUOXBrSk1yWUgzVTR0M25BenZUWExpcDAtMUNPSUVtVmx0YUhVUi1UVdIBrwFBVV95cUxQcGtYU3VnYzdSVzlPRGhnSUVia1hGNTFwNkN2MlN1LVE1bFZQU0R1SDhCX3NwOXBXZDV4c2RvYWwtaTN5VnpEV3dpYl85cERXZVBDX3pfNTk5WmNMbjQ3WXpfc2xWVFgyVkVfZkJTTFh1RkdodFJvR3hlSmJxdlFGekw4RnkzRWkxTHdMSkJZUnIwbG91S3dlTWFGUlJWTTRTT3N2b05wYXpqYy1lbDNz?oc=5\" target=\"_blank\">BofA Raises Seagate (STX) Price Target to $900, Keeps Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BofA raised Seagate (STX) price target to $900 and maintained Buy rating. This is an analyst price-target change—a soft signal of confidence but not a concrete market event or earnings result. Seagate is a fund holding, making it relevant; however, analyst upgrades without disclosed fundamental catalysts are opinion-driven and rank as impact 3."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "e9ce02ced18c4e2f38fb2976ea1b6af866bc5eb0",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "JPMorgan Raises Price Target on Seagate Technology to $920 From $775, Maintains Overweight Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNjUzOWhyNmxPZlJ4SGZ2RnBvSnFXdU1DXzc5U2tOMzBoOHRmbkl5amJwaHkxNUdZWlRTN1NuR29xRzRwX0xFUmZqZDF0SktRRkR4bFJvN1pMMktBRGFQcGctamxGMW5YaF9vbWRRUEpORzBUcUl3RV9kVnEyWm9OOTQ0b19rTWRfcDdWQzRyam1IR1B4cExTU0FndkFvMDQxanllUlVEUlhRaE1SeUJnS1lVRlFkNTJ6UmRGTFdtZUxIYndjWXdHeFJlamNCczZCT0NHX0tMT2xFR3JpcklwTA?oc=5",
+  "published_at": "Thu, 11 Jun 2026 11:13:09 GMT",
+  "published_ts": 1781176389,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNjUzOWhyNmxPZlJ4SGZ2RnBvSnFXdU1DXzc5U2tOMzBoOHRmbkl5amJwaHkxNUdZWlRTN1NuR29xRzRwX0xFUmZqZDF0SktRRkR4bFJvN1pMMktBRGFQcGctamxGMW5YaF9vbWRRUEpORzBUcUl3RV9kVnEyWm9OOTQ0b19rTWRfcDdWQzRyam1IR1B4cExTU0FndkFvMDQxanllUlVEUlhRaE1SeUJnS1lVRlFkNTJ6UmRGTFdtZUxIYndjWXdHeFJlamNCczZCT0NHX0tMT2xFR3JpcklwTA?oc=5\" target=\"_blank\">JPMorgan Raises Price Target on Seagate Technology to $920 From $775, Maintains Overweight Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "JPMorgan raised its price target on Seagate (STX), a DRAM ETF holding, from $775 to $920 while maintaining an Overweight rating. This is an analyst price-target change rather than a concrete market event or earnings catalyst, making it material but soft news typical of a 3-impact item."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "206afb7f218cdf6b1d7365c2db60e8b1262dc30c",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Evaluating Sandisk (SNDK) Valuation After A Strong Year And Recent Share Price Pullback - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjFrSVh1VmxSVDdUTklGRVBNMlhzQ3hzN0JFZllHUzE1LUcydHdZQ3E3UnZMYnJuNTBSYTFfc2drb2RjNTRoOFFtemFZSzkyQ3dzcGFRSUdDTm5sYmFQTERZRl9BY0VJZEo0MmpOQmtMaUR0VjlIMjdIX0JOUEFQZkdoVXFnblpPZzdhWWJiQWpkMmVNdGpKQnBNNkowOExtWld6dDlzQm9SVjRDRUV1VVBuR3lBRWtpRWdybkVXQdIBxAFBVV95cUxQRkxPWkE4eTFXWTNIQV8wSURIYjBlVDh0RXk1YW4wWmIwbDJxMnBhSGp6TnZ2T0JDbGpxb2dJOHlZOGwyNUNKZFpJVGtsWjBYV3I5WHVHQktyS2psZzg3V3FFMi10RnNJWmIyMXZMOFc4SkhPQmRXWjA4emxXbXRHQXZ6M0xnOFNsSlFKNURrN1dsZU5CeHdCMThOV2NEWHlWVFptYnI4M1U2Yzh3SDhKNkhXOE1SMFpKR0tYZVFYRjBrRjJP?oc=5",
+  "published_at": "Thu, 11 Jun 2026 10:47:26 GMT",
+  "published_ts": 1781174846,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORjFrSVh1VmxSVDdUTklGRVBNMlhzQ3hzN0JFZllHUzE1LUcydHdZQ3E3UnZMYnJuNTBSYTFfc2drb2RjNTRoOFFtemFZSzkyQ3dzcGFRSUdDTm5sYmFQTERZRl9BY0VJZEo0MmpOQmtMaUR0VjlIMjdIX0JOUEFQZkdoVXFnblpPZzdhWWJiQWpkMmVNdGpKQnBNNkowOExtWld6dDlzQm9SVjRDRUV1VVBuR3lBRWtpRWdybkVXQdIBxAFBVV95cUxQRkxPWkE4eTFXWTNIQV8wSURIYjBlVDh0RXk1YW4wWmIwbDJxMnBhSGp6TnZ2T0JDbGpxb2dJOHlZOGwyNUNKZFpJVGtsWjBYV3I5WHVHQktyS2psZzg3V3FFMi10RnNJWmIyMXZMOFc4SkhPQmRXWjA4emxXbXRHQXZ6M0xnOFNsSlFKNURrN1dsZU5CeHdCMThOV2NEWHlWVFptYnI4M1U2Yzh3SDhKNkhXOE1SMFpKR0tYZVFYRjBrRjJP?oc=5\" target=\"_blank\">Evaluating Sandisk (SNDK) Valuation After A Strong Year And Recent Share Price Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SimplyWall.st valuation analysis of SanDisk (SNDK) following strong performance and recent share pullback. Opinion-based analyst evaluation without new concrete events, earnings data, or stated catalysts for the price move."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "693a3d668798f91c084aa0e70b73e1c841767c47",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "South Korean shares end higher, led by chipmaker SK Hynix, strong exports - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTW0tckcxdU1PNGZjeUd1YVdKS1prd2c5SzhqWmFYVlBNMHowcVFmbmxwV3ZRNTVPd2FuZHR0T2RPMHVIaGFXaUJ0R3Uyakg0M2dnR1p2NFJVNUdQT1dTdVFDRXlaRlllX2dFZ01CYTFpVjVKZTNDQXZKVW5KSjJCMmtfVmpWZlB0N3YyQVY1LU0weDNNMjB1aVRRQ0ZxZjRPVDlqcjFIUzdvRmdCWHd2XzhKaWY4YUtUanVuUmIxcnhOZw?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:16:59 GMT",
+  "published_ts": 1781162219,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTW0tckcxdU1PNGZjeUd1YVdKS1prd2c5SzhqWmFYVlBNMHowcVFmbmxwV3ZRNTVPd2FuZHR0T2RPMHVIaGFXaUJ0R3Uyakg0M2dnR1p2NFJVNUdQT1dTdVFDRXlaRlllX2dFZ01CYTFpVjVKZTNDQXZKVW5KSjJCMmtfVmpWZlB0N3YyQVY1LU0weDNNMjB1aVRRQ0ZxZjRPVDlqcjFIUzdvRmdCWHd2XzhKaWY4YUtUanVuUmIxcnhOZw?oc=5\" target=\"_blank\">South Korean shares end higher, led by chipmaker SK Hynix, strong exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock rose as part of a broader South Korean market rally driven by strong export data. No memory-specific news, production changes, pricing moves, or company-level catalysts disclosed; the move appears attributable to macro sentiment rather than fund-relevant fundamentals."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "6c76b257b3960875ac512e01a3d8f9c6591d634f",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "South Korean shares end higher, led by chipmaker SK Hynix, strong exports - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcGs2M1pQbC1uaW4tVkdOcWdRejJCdHpLbTVuYmUwMVdzMGg0ejJseXpwWWVHVzlvSWxzMFBMbXJJQUgwY3p3ZVd6MWlQaWFHMnBacTlncmlna0xxM3JkRUVoTFRhUHhRZTlodDlXQlp6WFlNVl9tQWo2Qk1fQzdVOVJPdEdQYVpjRE12anZlSHFNS1RjdUNhS1llRENld0lheHFTc2tPVnJTdlZXMlJFMEtoOEZvUndKd0Y1MXhRbGE3VkQxN1p3SjBPMm9aOFZ2aXpwbl9pR0s?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:14:22 GMT",
+  "published_ts": 1781162062,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcGs2M1pQbC1uaW4tVkdOcWdRejJCdHpLbTVuYmUwMVdzMGg0ejJseXpwWWVHVzlvSWxzMFBMbXJJQUgwY3p3ZVd6MWlQaWFHMnBacTlncmlna0xxM3JkRUVoTFRhUHhRZTlodDlXQlp6WFlNVl9tQWo2Qk1fQzdVOVJPdEdQYVpjRE12anZlSHFNS1RjdUNhS1llRENld0lheHFTc2tPVnJTdlZXMlJFMEtoOEZvUndKd0Y1MXhRbGE3VkQxN1p3SjBPMm9aOFZ2aXpwbl9pR0s?oc=5\" target=\"_blank\">South Korean shares end higher, led by chipmaker SK Hynix, strong exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix shares rose as part of a broader South Korean market rally driven by strong export data. No memory-specific news, production changes, or pricing developments disclosed; stock movement attributed to macro/export sentiment rather than company fundamentals or industry conditions."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "02c00247f28b9c4fbeb1591fda5d47ed85b0faa8",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Japan, South Korea Stocks V-Shaped Reversal: SK Hynix Closes Up 2.59%, Kioxia Rises Over 7% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTYwSHlzYVBBSGpFQ211MjVyTl9UcnZRUzNDcWtWV3BhX25sWHBSX0N6R2xuUEdqYlZVbWxZbmJPRzBpbkZhdTVlb05ybjF0NEdvMk5ZdE1iX1dpdEdUSWNzdE1POW5wY2pOZ1ZYMXNwU0pXNVh5dEtTVzNXTHpsWi0xd0p0WTVfdXB4TDd2cmFnaV9JRkNaN05ZYkU?oc=5",
+  "published_at": "Thu, 11 Jun 2026 07:18:45 GMT",
+  "published_ts": 1781162325,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTYwSHlzYVBBSGpFQ211MjVyTl9UcnZRUzNDcWtWV3BhX25sWHBSX0N6R2xuUEdqYlZVbWxZbmJPRzBpbkZhdTVlb05ybjF0NEdvMk5ZdE1iX1dpdEdUSWNzdE1POW5wY2pOZ1ZYMXNwU0pXNVh5dEtTVzNXTHpsWi0xd0p0WTVfdXB4TDd2cmFnaV9JRkNaN05ZYkU?oc=5\" target=\"_blank\">Japan, South Korea Stocks V-Shaped Reversal: SK Hynix Closes Up 2.59%, Kioxia Rises Over 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix and Kioxia (memory-semiconductor holdings) posted modest daily gains in a regional market reversal, but the story reports only intraday price movements without disclosed catalysts or material developments."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "82765c1534751a028813913c2b4bc6c672fa618c",
+  "source": "富途牛牛",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF Options Spot-On: On June 10th, 171.56K Contracts Were Traded, With 1.46 Million Open Interest - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnpnNUJzdy1ta0QxaFV3OE14b3VWdm9iZm8yWGt1Vk50bGZTREt4QTFxb0I0bzFYN2pDczd2cWVKRmREcnlyY0ZUZmJWMzhPNTRRNURuenp0ODNHTURMUkhEMHVvSktHNFhwUzhhMjNvUGtlYS1HME1RaWhqYVZYbmp5d1FndFd5and6THRYSGRlUEVqU3pxcHF3?oc=5",
+  "published_at": "Wed, 10 Jun 2026 21:20:10 GMT",
+  "published_ts": 1781126410,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnpnNUJzdy1ta0QxaFV3OE14b3VWdm9iZm8yWGt1Vk50bGZTREt4QTFxb0I0bzFYN2pDczd2cWVKRmREcnlyY0ZUZmJWMzhPNTRRNURuenp0ODNHTURMUkhEMHVvSktHNFhwUzhhMjNvUGtlYS1HME1RaWhqYVZYbmp5d1FndFd5and6THRYSGRlUEVqU3pxcHF3?oc=5\" target=\"_blank\">Roundhill Memory ETF Options Spot-On: On June 10th, 171.56K Contracts Were Traded, With 1.46 Million Open Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Options activity report on the Roundhill Memory ETF (DRAM) showing 171.56K contracts traded and 1.46M open interest on June 10th. This is a routine fund metrics update with no material market-moving catalyst."
+  },
+  "buffered_ts": 1781177236.1958535
+ },
+ {
+  "id": "5dda351c3e56c59e13c14b70af4efb5c3bba1eff",
+  "source": "富途牛牛",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF Options Spot-On: On June 9th, 298.51K Contracts Were Traded, With 1.35 Million Open Interest - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEltc2dlOG45RjNKVUotTWp3TlMzc0JoTjhWYU0zLW05cmZ4Y2tUakVENkFVZjc5Y0x4TENRTE5USWV4aTFKXzFzanVHNmphVXhDVkJBazc1ekJqWmxQLVM2c1djNjBaaWVVcXA5Q09nTUhSdm1tNVM5NUw1Zm05WjZfTEVnQXZ6eUlYSHJzVmpxVlZ2Ym9SUg?oc=5",
+  "published_at": "Tue, 09 Jun 2026 23:41:59 GMT",
+  "published_ts": 1781048519,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEltc2dlOG45RjNKVUotTWp3TlMzc0JoTjhWYU0zLW05cmZ4Y2tUakVENkFVZjc5Y0x4TENRTE5USWV4aTFKXzFzanVHNmphVXhDVkJBazc1ekJqWmxQLVM2c1djNjBaaWVVcXA5Q09nTUhSdm1tNVM5NUw1Zm05WjZfTEVnQXZ6eUlYSHJzVmpxVlZ2Ym9SUg?oc=5\" target=\"_blank\">Roundhill Memory ETF Options Spot-On: On June 9th, 298.51K Contracts Were Traded, With 1.35 Million Open Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Options trading activity on the Roundhill Memory ETF (DRAM) on June 9th: 298.51K contracts traded with 1.35M open interest. Reflects market activity but lacks material news about the fund's composition, holdings, or strategy."
+  },
+  "buffered_ts": 1781177236.1958535
  }
 ]
