@@ -372,5 +372,243 @@
    "summary": "Seagate (STX), a DRAM ETF holding, experienced a 6.4% share price surge. The article references a GuruFocus valuation score (GF Score of 66) but provides no disclosed catalyst, fundamental catalyst, or market-moving event to explain the move. This is a pure price-move piece without stated cause."
   },
   "buffered_ts": 1781219157.5363917
+ },
+ {
+  "id": "2dc099f1c2930294c057d87630fd42038936c6fa",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObGw0VGc3d3hxX3pzeTVCY3pRN1RReUNScld6M0toZ0R5WGFSdklmSU1ubmNId2hwRGVKUkI5dklwNnBMelQ3RktmWnpPdlJEamFrdkFiUnYtQTdoWHQxUFFzd013VXRZTnY2LUloanlBeUdNVnNMa2gyVnNYdlhucW5xbEtETW8xcE9VNGZfeTZYeXYxYk9nMHhiY0RlN18teVFCdEpCM2xubWlSeXQ3WDZuWUhPYUdfTmRuUWthUUNXc29MaWZlYmVGck1taXd3aDE3ZWkxejlXbmYz?oc=5",
+  "published_at": "Thu, 11 Jun 2026 08:18:01 GMT",
+  "published_ts": 1781165881,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObGw0VGc3d3hxX3pzeTVCY3pRN1RReUNScld6M0toZ0R5WGFSdklmSU1ubmNId2hwRGVKUkI5dklwNnBMelQ3RktmWnpPdlJEamFrdkFiUnYtQTdoWHQxUFFzd013VXRZTnY2LUloanlBeUdNVnNMa2gyVnNYdlhucW5xbEtETW8xcE9VNGZfeTZYeXYxYk9nMHhiY0RlN18teVFCdEpCM2xubWlSeXQ3WDZuWUhPYUdfTmRuUWthUUNXc29MaWZlYmVGck1taXd3aDE3ZWkxejlXbmYz?oc=5\" target=\"_blank\">MU, SNDK, WDC, STX Rebound After Iran Jitters: SK Hynix To Triple Wafer Capacity By 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK hynix announces plan to triple wafer capacity by 2034, a major concrete capital commitment signaling significant production expansion in the memory industry. This is an official capacity decision by a key holding that materially affects long-term memory supply dynamics and HBM/memory-chip availability."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "1e9ca590708dfec1eb11ab666fd106dd314ead2f",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Google Taps Samsung for Next-Gen AI Chip Production - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYy12SFp6alU4TUYyd21aSWE0YWlNcDBraVZRSDFiUW9TazBUSTgzZjlUT3VrWjkzN0VfaGxHNWk4eG40NU5rVzlNUjluVWlSVEluZDlZbzdXX3ZHdENwNERZZF9RbTNMbjJ5YXBlbTk0N3lGazVlQXNJWVdtT09fajdramZfemxN?oc=5",
+  "published_at": "Fri, 12 Jun 2026 01:17:10 GMT",
+  "published_ts": 1781227030,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYy12SFp6alU4TUYyd21aSWE0YWlNcDBraVZRSDFiUW9TazBUSTgzZjlUT3VrWjkzN0VfaGxHNWk4eG40NU5rVzlNUjluVWlSVEluZDlZbzdXX3ZHdENwNERZZF9RbTNMbjJ5YXBlbTk0N3lGazVlQXNJWVdtT09fajdramZfemxN?oc=5\" target=\"_blank\">Google Taps Samsung for Next-Gen AI Chip Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Google officially tapping Samsung for next-gen AI chip production is a concrete, material development. Samsung's memory and semiconductor business benefits from confirmed AI infrastructure capex and large-scale foundry work. This is a signed or officially announced deal with stated demand driver (AI chips), not speculation."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "ff709907a28aa5e1f645b7ce90f92952b4202f3e",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "DDR4 shortage tightens as Nanya capacity fills and prices climb - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2s1WHB0NUFSVnRaQ2J4LW8zN1lLZkdKb0hEY1BxXzNYSldTU2Q1RjRCaUM5ck40SmphUlJCYWY3bExJZ3AzSlFrM3BNcmgxV2tBYkpWMUdqWW40MWhiX1dZekZ3MDZ6aDVmNXJMUnVPTk8ya3lWRWRaYjYzaDlKR01MRWZZdlE1ZWFMTG5DVkJqRFh3VzJyQzZNNWhnUQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 00:30:05 GMT",
+  "published_ts": 1781224205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNd2s1WHB0NUFSVnRaQ2J4LW8zN1lLZkdKb0hEY1BxXzNYSldTU2Q1RjRCaUM5ck40SmphUlJCYWY3bExJZ3AzSlFrM3BNcmgxV2tBYkpWMUdqWW40MWhiX1dZekZ3MDZ6aDVmNXJMUnVPTk8ya3lWRWRaYjYzaDlKR01MRWZZdlE1ZWFMTG5DVkJqRFh3VzJyQzZNNWhnUQ?oc=5\" target=\"_blank\">DDR4 shortage tightens as Nanya capacity fills and prices climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "DDR4 shortage tightens as Nanya's capacity fills and prices climb. A concrete development in memory pricing and supply constraint that directly affects DRAM ETF holdings' pricing power and margins."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "303de1f478678576beec9d3e91a1e6176b106f6c",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Market Chatter: SK Group Eyes AI Data Center in Japan by 2028-2029 - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUVHMlZEQVFwZHI2MlRKVzE2YW51ckg3U01GcXZFZFVHTnMwclVMMk1sdDA4THA1Yk5WNzRvamxLOGk1M0Ewbm1pb1Jpd1BXRVFFVnRZRm8tZU5JbTBUQ2ozbUVLY3NlMGhDcFhOM3hKbVlvOThEX2toMXljRlAxZVJTajVydTdqUl9QV0tlanJ2QUJfcGRNU0NR?oc=5",
+  "published_at": "Fri, 12 Jun 2026 00:12:48 GMT",
+  "published_ts": 1781223168,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUVHMlZEQVFwZHI2MlRKVzE2YW51ckg3U01GcXZFZFVHTnMwclVMMk1sdDA4THA1Yk5WNzRvamxLOGk1M0Ewbm1pb1Jpd1BXRVFFVnRZRm8tZU5JbTBUQ2ozbUVLY3NlMGhDcFhOM3hKbVlvOThEX2toMXljRlAxZVJTajVydTdqUl9QV0tlanJ2QUJfcGRNU0NR?oc=5\" target=\"_blank\">Market Chatter: SK Group Eyes AI Data Center in Japan by 2028-2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Group (parent of SK hynix) is exploring plans for an AI data center in Japan by 2028-2029. This is market chatter and a forward-looking initiative rather than a confirmed, binding commitment, but it signals SK hynix's strategic positioning in AI infrastructure—a key driver of HBM and memory demand. The timeline and execution remain uncertain."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "799cb5b2b203d854f218bbfe6b9bb36b7a5a200b",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix's U.S. Listing Could Narrow Valuation Gap With Micron -- Market Talk - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEdwRE1Ed2dneUp3R2o3Q19DRTRodnFvVHNrUkJsMjJ2eDg2NzNQTjEybGxSbG9RWDhaeVpxNEpXVmtVY08xTFZZWmg4eUZXNG5qVEJfSkVnQ2FrVWo3QjVud0xIYmYxNXljTDU5dHJkamtFRUhUdVpfTVdVVHVaUGR6a1FTeURKZ3REbW80QnBFNWNTT1A5SWNOMA?oc=5",
+  "published_at": "Wed, 10 Jun 2026 09:29:13 GMT",
+  "published_ts": 1781083753,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEdwRE1Ed2dneUp3R2o3Q19DRTRodnFvVHNrUkJsMjJ2eDg2NzNQTjEybGxSbG9RWDhaeVpxNEpXVmtVY08xTFZZWmg4eUZXNG5qVEJfSkVnQ2FrVWo3QjVud0xIYmYxNXljTDU5dHJkamtFRUhUdVpfTVdVVHVaUGR6a1FTeURKZ3REbW80QnBFNWNTT1A5SWNOMA?oc=5\" target=\"_blank\">SK Hynix's U.S. Listing Could Narrow Valuation Gap With Micron -- Market Talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix potential U.S. listing discussed as a possible way to narrow valuation gap with Micron. Speculation on listing outcome and its effect on relative valuations rather than a confirmed event or official announcement."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "90106e10746f77a06b8c9c22c742a69340c84ea9",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Jump 9% Premarket as Trump Cites Imminent Ceasefire - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHdhcTRBaUNtcEtsZzFqSzJnQUJxN1VScm5aWXBDOERkWDNhNzY1ZDVqVVJyWmF4UmhWVVZMNGJtRGVNSlJBSllZanJSdnl2b1lDbXJ4dW9KVS0yNzZ0WGxIRW5xeW9GX2hqaWlyMDA5azByT2hhYmNvWk0yQjQ2ZDd1NzZTSWZYdmN1Vjl6N3Z4TkRCRHAwTDNDWWtJWjQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 23:21:37 GMT",
+  "published_ts": 1781220097,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHdhcTRBaUNtcEtsZzFqSzJnQUJxN1VScm5aWXBDOERkWDNhNzY1ZDVqVVJyWmF4UmhWVVZMNGJtRGVNSlJBSllZanJSdnl2b1lDbXJ4dW9KVS0yNzZ0WGxIRW5xeW9GX2hqaWlyMDA5azByT2hhYmNvWk0yQjQ2ZDd1NzZTSWZYdmN1Vjl6N3Z4TkRCRHAwTDNDWWtJWjQ?oc=5\" target=\"_blank\">Samsung, SK hynix Jump 9% Premarket as Trump Cites Imminent Ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stocks rose ~9% in premarket trading following Trump's remarks on an imminent ceasefire. The move appears driven by geopolitical sentiment rather than a concrete company-specific or memory-market catalyst. Without disclosed fundamental reasons tied to memory demand, pricing, or production, this is a price move story with an external macro trigger—relevant to the holdings but speculative in nature."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "cbcf329120bbd37d449d1937dafee25797c67c41",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Samsung HBM4E Shipments Put AI Memory Growth And Valuation In Focus - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRF9NblJtZm5PRHFGclhoWnJDcUdQTUZRa1BDcGIxb3NkZG9OUTYxQjRmXy1wUGVSaml3M1BqaE9wVmNTVEhRaDgwcHJlY0NTczNaalpaYzBWcjQtVV9RSUJNNG94MEhCRlgycHJCRHgzYk1zSjRSQjNaZmxvWE1EaktvN0tGMXREV1d6RWM4QlNvTEdSeU5abHBVOUM0UjNMWlhIVEpqUTdFQXhSbkpiZ0Nfd3pQVE5yMEM5TnhMT1h1M0VhdGlEeTJkbE9udnVneW43SVBWN053QdIB3wFBVV95cUxQSlVkYTFGazBjOFZSTFBjT3pzTUp2b3JpbzlNb21ZVkdvajVRU2hkN3Rjdy1XdThQRUliLWttbXlGemEtS2xtNE0tNXlBZHpZTUpISjJkaV84SUlyaWk0dmF3ZHJUT3Y5ZWowUHRLeFlBcEgxUm9HdU5IVnNIQnREckZGc3VEWGc4X2Y1OW1fWnphbGwzdzhhSExXclQtSVNCMHBkTS1BVjV1UEZxNGJTM3VQbVVOcFY1RkJ1VGNxcVlMbDB1bTJGZmJqTzRUekotbVVqcGhUc21JOFZKUmk0?oc=5",
+  "published_at": "Fri, 12 Jun 2026 01:11:43 GMT",
+  "published_ts": 1781226703,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRF9NblJtZm5PRHFGclhoWnJDcUdQTUZRa1BDcGIxb3NkZG9OUTYxQjRmXy1wUGVSaml3M1BqaE9wVmNTVEhRaDgwcHJlY0NTczNaalpaYzBWcjQtVV9RSUJNNG94MEhCRlgycHJCRHgzYk1zSjRSQjNaZmxvWE1EaktvN0tGMXREV1d6RWM4QlNvTEdSeU5abHBVOUM0UjNMWlhIVEpqUTdFQXhSbkpiZ0Nfd3pQVE5yMEM5TnhMT1h1M0VhdGlEeTJkbE9udnVneW43SVBWN053QdIB3wFBVV95cUxQSlVkYTFGazBjOFZSTFBjT3pzTUp2b3JpbzlNb21ZVkdvajVRU2hkN3Rjdy1XdThQRUliLWttbXlGemEtS2xtNE0tNXlBZHpZTUpISjJkaV84SUlyaWk0dmF3ZHJUT3Y5ZWowUHRLeFlBcEgxUm9HdU5IVnNIQnREckZGc3VEWGc4X2Y1OW1fWnphbGwzdzhhSExXclQtSVNCMHBkTS1BVjV1UEZxNGJTM3VQbVVOcFY1RkJ1VGNxcVlMbDB1bTJGZmJqTzRUekotbVVqcGhUc21JOFZKUmk0?oc=5\" target=\"_blank\">Samsung HBM4E Shipments Put AI Memory Growth And Valuation In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung HBM4E shipments reported, with analysis of AI memory growth and valuation implications. Concrete shipment activity mentioned but framed as valuation discussion rather than hard production or pricing data."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "eb2bbed13e3947dfa056dbd92dd1b34e81cc4604",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Key facts: Samsung may make Google TPU interface on 2nm; memory bonuses - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTYydy1rcXVxLUJMZG1uNk8yaDdTV1FTd2VUdVlIaExMUzVjU2FjUFZCLXo5RnVWcWVRODJTNURBak1TVTdjdkcxblRENkdKeHNPWHpNeFdXeWVDRk1TeUdaZHo3QmtjcXE4OV9LWThPVFE4RWNNX2QzZ2RhUjd1aWpuR2hkRmhFNW9HUUlXMnB0MEN4M2ZuelA5MDZ0dUpDMXhwaG85NVVVV0QySVdNNnVVMGxjZ01TRzZmSDdKM3ExTVBOQVN5eWpNSQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 00:13:00 GMT",
+  "published_ts": 1781223180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTYydy1rcXVxLUJMZG1uNk8yaDdTV1FTd2VUdVlIaExMUzVjU2FjUFZCLXo5RnVWcWVRODJTNURBak1TVTdjdkcxblRENkdKeHNPWHpNeFdXeWVDRk1TeUdaZHo3QmtjcXE4OV9LWThPVFE4RWNNX2QzZ2RhUjd1aWpuR2hkRmhFNW9HUUlXMnB0MEN4M2ZuelA5MDZ0dUpDMXhwaG85NVVVV0QySVdNNnVVMGxjZ01TRzZmSDdKM3ExTVBOQVN5eWpNSQ?oc=5\" target=\"_blank\">Key facts: Samsung may make Google TPU interface on 2nm; memory bonuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung may manufacture Google TPU interfaces on 2nm process; separate mention of memory bonuses. The TPU work is foundry/logic focused, but the memory bonus component and Samsung's continued advanced-node capacity are relevant to the fund's semiconductor outlook. This is reported as a possibility rather than a confirmed contract."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "6ef1327b8940f1953fadc4992f8531a24022cd6c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "MACOM, Analog Devices, and Seagate Shares Skyrocket, What You Need To Know - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWRYNEVJaVlNQlowXzNBR1VObDVTR3M2Wi04VG1CSVRzVm1iTzRUaGRPQjM4dE9rcnlMLWVWWEhIRmpPRHI3UEY0cjNKNXNiMU5yQXYtLTVLQTNjNGVVUnlrQUdlQ1VXeVJ6NXZrTVVmZDRwellHS0Y1aDF3Z0FvNzlnRkYyeGxWWnRiS245bnpYZzRsb3lxLVhvTEFCaWRqbnc?oc=5",
+  "published_at": "Fri, 12 Jun 2026 00:09:00 GMT",
+  "published_ts": 1781222940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWRYNEVJaVlNQlowXzNBR1VObDVTR3M2Wi04VG1CSVRzVm1iTzRUaGRPQjM4dE9rcnlMLWVWWEhIRmpPRHI3UEY0cjNKNXNiMU5yQXYtLTVLQTNjNGVVUnlrQUdlQ1VXeVJ6NXZrTVVmZDRwellHS0Y1aDF3Z0FvNzlnRkYyeGxWWnRiS245bnpYZzRsb3lxLVhvTEFCaWRqbnc?oc=5\" target=\"_blank\">MACOM, Analog Devices, and Seagate Shares Skyrocket, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a significant share price increase. The article mentions multiple semiconductor/storage companies but provides no disclosed catalyst or concrete event—only reporting that shares 'skyrocketed' without explaining why. Without a stated reason (earnings, guidance, deal, etc.), this is a price move observation rather than actionable news."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "c8fae169e42427b80a0dad4529551b3b84f87b00",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "The Multi-Year Backlog Seagate Stock Skeptics Are Ignoring - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZUZGhLcWF0WU9ZME1lSExobE9QV0hmUEwzM3NtWTdqR0QwZlZrV0hVc1dWWTdJeUNUZDE3SE9Ub05aTUs0S0FaeGZPVXdabS03dzhSM2lEaUVmeUYxMjZZaHlIV2ZjTlg5dHZ4RlR4X2NjTWNob2RYVVF6MU5jblhKY3FjQU4yUWUtWjV2N1gwdFY4dU14OXpCazBsUXBtNUNR?oc=5",
+  "published_at": "Thu, 11 Jun 2026 14:33:33 GMT",
+  "published_ts": 1781188413,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZUZGhLcWF0WU9ZME1lSExobE9QV0hmUEwzM3NtWTdqR0QwZlZrV0hVc1dWWTdJeUNUZDE3SE9Ub05aTUs0S0FaeGZPVXdabS03dzhSM2lEaUVmeUYxMjZZaHlIV2ZjTlg5dHZ4RlR4X2NjTWNob2RYVVF6MU5jblhKY3FjQU4yUWUtWjV2N1gwdFY4dU14OXpCazBsUXBtNUNR?oc=5\" target=\"_blank\">The Multi-Year Backlog Seagate Stock Skeptics Are Ignoring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece on Seagate's multi-year backlog and stock outlook. While Seagate is a DRAM fund holding, this appears to be analyst commentary or opinion rather than reporting a concrete event, earnings data, or guidance change. Relevant to the holding but soft in nature."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "49391ee6f1ce38bdba7fb3d4ec2b5b4729569cd3",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "SK Hynix’s Record Margins Under Siege as Suppliers Demand Higher Prices Amid Market Turmoil - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2ttdFY2dzgwa01ObXJIR3F3bzl5MEM0WWhUaHlHaVhGeEdDQ2JYck01MVMtSmN3RVFsVXBhN1d1RHRLa2NfWkNfN3d4Y1FVSklVMjJnQ1V5dEYtYWhHT1ZnUHE3bXJnQmxsOTF1eTBfWnlRb3dSdmNSTDdUOTFmclJDM090LXY4cHhFZzlZZ2p2dWFjZmFOS2MybEdieVRiSl9pUDRCa2gxV2FFU3lIX1lrVXkxbHV1UGZKVlQ5WllIeEY0OWxySlZ3?oc=5",
+  "published_at": "Fri, 12 Jun 2026 01:34:17 GMT",
+  "published_ts": 1781228057,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2ttdFY2dzgwa01ObXJIR3F3bzl5MEM0WWhUaHlHaVhGeEdDQ2JYck01MVMtSmN3RVFsVXBhN1d1RHRLa2NfWkNfN3d4Y1FVSklVMjJnQ1V5dEYtYWhHT1ZnUHE3bXJnQmxsOTF1eTBfWnlRb3dSdmNSTDdUOTFmclJDM090LXY4cHhFZzlZZ2p2dWFjZmFOS2MybEdieVRiSl9pUDRCa2gxV2FFU3lIX1lrVXkxbHV1UGZKVlQ5WllIeEY0OWxySlZ3?oc=5\" target=\"_blank\">SK Hynix’s Record Margins Under Siege as Suppliers Demand Higher Prices Amid Market Turmoil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix facing pressure from supplier price increases that could erode record margins amid market turmoil. This is a cost-structure and profitability concern for a major DRAM holding, but lacks concrete numbers or confirmed margin guidance changes—characterized as supplier demands rather than settled events."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "3b3f90120085fed6a49ddd57e50348b1357e2087",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Key facts: SK hynix Probes 3–4% Hikes; Profit-Sharing Could Reach $400k - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3Z6R011ME9IVWhMbVhYbDZVSUhKNjFBVktzcjB1Yy14RzlKTlZ0LWVyTDB6RlZrTTdpYWVWQkNfU0h0ODltWFJweUpfZDV4b0I2STFMSFBOUTFjR2xFclYzYmluaURTNHQteTFXQVZpWHVVdDFsOHA2ODRtckxlR1JSU19saUxlQmdHdENQQmlnXy1NM2FQMm5FNlNaUTZsNnRSbU1GN0NkOWJuWmw4aW9LMkpIQjN1SEtQM09kaG9KUjBwbEZyeA?oc=5",
+  "published_at": "Fri, 12 Jun 2026 00:13:00 GMT",
+  "published_ts": 1781223180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3Z6R011ME9IVWhMbVhYbDZVSUhKNjFBVktzcjB1Yy14RzlKTlZ0LWVyTDB6RlZrTTdpYWVWQkNfU0h0ODltWFJweUpfZDV4b0I2STFMSFBOUTFjR2xFclYzYmluaURTNHQteTFXQVZpWHVVdDFsOHA2ODRtckxlR1JSU19saUxlQmdHdENQQmlnXy1NM2FQMm5FNlNaUTZsNnRSbU1GN0NkOWJuWmw4aW9LMkpIQjN1SEtQM09kaG9KUjBwbEZyeA?oc=5\" target=\"_blank\">Key facts: SK hynix Probes 3–4% Hikes; Profit-Sharing Could Reach $400k</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix is exploring wage hikes of 3–4% and profit-sharing bonuses that could reach $400k. This is a labor/compensation matter for the company with no direct bearing on memory demand, pricing, production capacity, or financial performance."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "2128e414081eb7a18272642b40a5f02c72cbdfee",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "Leverage Shares to List '3x Leveraged Samsung Electronics, SK hynix ETPs' on London Exchange on June 12 - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZ3o5ZUpZckItRE1RQzFEeFgtb1RtRjY3OVJUbkpUTVYwT2ozQXQ2UlJ4ckNZeEpZd0hHRGpFUFVkNkVHREtLVzVxenhiMlhLV2pmTXVQTkVkXzRadnBLNTRHY2RaczBQWFlpMlZHYWF0QQ?oc=5",
+  "published_at": "Thu, 11 Jun 2026 23:42:51 GMT",
+  "published_ts": 1781221371,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9pZ3o5ZUpZckItRE1RQzFEeFgtb1RtRjY3OVJUbkpUTVYwT2ozQXQ2UlJ4ckNZeEpZd0hHRGpFUFVkNkVHREtLVzVxenhiMlhLV2pmTXVQTkVkXzRadnBLNTRHY2RaczBQWFlpMlZHYWF0QQ?oc=5\" target=\"_blank\">Leverage Shares to List '3x Leveraged Samsung Electronics, SK hynix ETPs' on London Exchange on June 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Leverage Shares is listing 3x leveraged ETPs tracking Samsung Electronics and SK hynix on the London Exchange on June 12. These are competitor leveraged products, not directly related to DRAM ETF operations, but represent tangential market activity in memory-semiconductor leverage instruments."
+  },
+  "buffered_ts": 1781228705.0001876
+ },
+ {
+  "id": "0e2e7196664962872e54f0865173a9884b6eb3d6",
+  "source": "01net",
+  "topic": "holding",
+  "title": "Seagate Announces Redemption of Exchangeable Notes - 01net",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WS2dCc0lIZG5zYjRMTVU5NU1Wb2hfVkEyclZvTE1hb0U5c1FoQnJzdEp5SlpLbVJ5MXZ5ME1VMUpjWEV6Ykp5RjFGT1l4cHpENzIzZGt6U3ItNnZIcXhpZi1nZTk1VzlWZ01LamRCazV4a18yS3Jhclh6YXY?oc=5",
+  "published_at": "Fri, 12 Jun 2026 01:22:00 GMT",
+  "published_ts": 1781227320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5WS2dCc0lIZG5zYjRMTVU5NU1Wb2hfVkEyclZvTE1hb0U5c1FoQnJzdEp5SlpLbVJ5MXZ5ME1VMUpjWEV6Ykp5RjFGT1l4cHpENzIzZGt6U3ItNnZIcXhpZi1nZTk1VzlWZ01LamRCazV4a18yS3Jhclh6YXY?oc=5\" target=\"_blank\">Seagate Announces Redemption of Exchangeable Notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">01net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate announced redemption of exchangeable notes—a capital structure event. Minor relevance as a holding action but not a material operating or memory-demand driver."
+  },
+  "buffered_ts": 1781228705.0001876
  }
 ]
