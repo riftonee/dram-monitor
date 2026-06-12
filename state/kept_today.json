@@ -1035,5 +1035,294 @@
    "summary": "Legal commentary on a potential Seagate antitrust case revival; passing mention without concrete developments or market-moving details disclosed."
   },
   "buffered_ts": 1781246392.1601017
+ },
+ {
+  "id": "56452df2b2e311295f8f1c97c581cb29b6d8409a",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Second fire in less than two weeks disrupts SK Hynix's Cheongju chip campus - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlhlWV80Y3lsUDlFSDY4NEJQVnpWODdkSjJnQzV3T2dHMVh0OWYxZ0ZjQlVUaXFkU0NqVWFPdEduX2daYXpvR2lOM1V6NGlRemFxcUdJbnJodlFMY1JvYUZpTjVZaXZoMlNpcnk3akJEaVRqMkxhajV1Q19RaU9lRXUxdjNwQk1UWHdvbXctb0M?oc=5",
+  "published_at": "Fri, 12 Jun 2026 07:38:24 GMT",
+  "published_ts": 1781249904,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlhlWV80Y3lsUDlFSDY4NEJQVnpWODdkSjJnQzV3T2dHMVh0OWYxZ0ZjQlVUaXFkU0NqVWFPdEduX2daYXpvR2lOM1V6NGlRemFxcUdJbnJodlFMY1JvYUZpTjVZaXZoMlNpcnk3akJEaVRqMkxhajV1Q19RaU9lRXUxdjNwQk1UWHdvbXctb0M?oc=5\" target=\"_blank\">Second fire in less than two weeks disrupts SK Hynix's Cheongju chip campus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix's Cheongju chip campus has experienced a second fire in less than two weeks, disrupting production at a major DRAM and NAND manufacturing facility. This is a confirmed, material operational disruption at a key holding that directly affects memory supply and the company's output capacity."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "569d42cf560d2117af8e9ba235e8c056bfcec30a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate Locks In Nearline Demand And Lifts Long Term Growth Outlook - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJBVndIbkJtY1BzVk5WUGMxVkJfYkt2TzJOTWlBRWdPbHBfSm5oV3BWZGZESTExZ19Ta25yWmJlSjJ2N1B6aGRrbThvaHk1Y2RDVE1faTFSekdxSDRlYVlwODI2amFiQ3o5aUxVUHNHN2VIUW9Dd1pKRWRSTXRVV05pVDB2VjFoUkM3clU1R3AtRGprX2tMdDZtX1VDVWY4Ymc?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:16:00 GMT",
+  "published_ts": 1781252160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJBVndIbkJtY1BzVk5WUGMxVkJfYkt2TzJOTWlBRWdPbHBfSm5oV3BWZGZESTExZ19Ta25yWmJlSjJ2N1B6aGRrbThvaHk1Y2RDVE1faTFSekdxSDRlYVlwODI2amFiQ3o5aUxVUHNHN2VIUW9Dd1pKRWRSTXRVV05pVDB2VjFoUkM3clU1R3AtRGprX2tMdDZtX1VDVWY4Ymc?oc=5\" target=\"_blank\">Seagate Locks In Nearline Demand And Lifts Long Term Growth Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, has secured nearline demand and raised its long-term growth outlook. This represents a concrete, official development—a material guidance lift—indicating improved HDD market fundamentals and sustained demand in data-center storage, which correlates with memory semiconductor demand cycles."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "20d1bee6151e146e79794ccf58a074f34e89f2f7",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work, media reports - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb054X2w0bDlSLTZ2SlRNMEowaVZuWV9abnkzY3g3ZjhoWGR0RHduZ3JySDdnZDdqZnkzNVNfdTJ5djdWcUZvWk9pY2pxN3lLSHNnWDBtZjRIUDJLLTByd1VIOTdwclQ1QmNLQ0YyaHotZlgteDQyNnFncDVfVzNoSHBRbzN1end2UnBfV1J3WnNNQ19ISURKcFpULUVYbTV6ZTlyU2NB?oc=5",
+  "published_at": "Fri, 12 Jun 2026 03:09:00 GMT",
+  "published_ts": 1781233740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb054X2w0bDlSLTZ2SlRNMEowaVZuWV9abnkzY3g3ZjhoWGR0RHduZ3JySDdnZDdqZnkzNVNfdTJ5djdWcUZvWk9pY2pxN3lLSHNnWDBtZjRIUDJLLTByd1VIOTdwclQ1QmNLQ0YyaHotZlgteDQyNnFncDVfVzNoSHBRbzN1end2UnBfV1J3WnNNQ19ISURKcFpULUVYbTV6ZTlyU2NB?oc=5\" target=\"_blank\">South Korea concrete delivery halt threatens Samsung, SK Hynix chip plant work, media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korean concrete delivery disruptions reported to threaten Samsung and SK Hynix chip plant construction or operations. Media report indicates potential supply-chain impact on fab capacity, but lacks concrete details on magnitude, duration, or actual production impact."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "cee5105ee50c99287c5eae2f59c8bdac85553d86",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Banks Curb Hedge Fund Bets on SK Hynix, Samsung After Rally - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1RvdUs5RVlySDM4LXVHTFAydWltNzVmc3VoSld5WnlndkE0S29VdW84V0x0VWJvYTRjMmVkTDVUVTMzQjRWUm1UOXJyM01OQllrVTBtNklVYkZ2cU9EaC1URF84WHREWEVrVnVySnU2eTJ5OEZWUElhM3pVMUF4a1JZakpNaFFCY0JNRnVWYVhqQkI3MHc?oc=5",
+  "published_at": "Fri, 12 Jun 2026 06:34:00 GMT",
+  "published_ts": 1781246040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1RvdUs5RVlySDM4LXVHTFAydWltNzVmc3VoSld5WnlndkE0S29VdW84V0x0VWJvYTRjMmVkTDVUVTMzQjRWUm1UOXJyM01OQllrVTBtNklVYkZ2cU9EaC1URF84WHREWEVrVnVySnU2eTJ5OEZWUElhM3pVMUF4a1JZakpNaFFCY0JNRnVWYVhqQkI3MHc?oc=5\" target=\"_blank\">Banks Curb Hedge Fund Bets on SK Hynix, Samsung After Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Banks are reducing hedge fund leverage/exposure to SK hynix and Samsung following a recent stock rally. This reflects positioning flows and sentiment rather than a concrete operating event, supply shift, or earnings-driven catalyst."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "5694cd5f8b4c5d955d1df838feff6655b2184cd4",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "Drivers strike disrupts Samsung, SK hynix chip plant work - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFFXVExJMnNnQzhVZndwY2JlNnpJZUtaelNVR1R6dnBsYzdzVHJ5LVJpbm1ISkh1d1FhNDctZ01qTS1pTWtGUGJFRjloRHJOV1F2RUYxeGpnWHZDUWoxZnpIYXV3cWUtOE9MUi1nRTEybGNFNFhpMVE0SThvZW5BcVVoMnNlZWxTazlZekRSYjZKUQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 07:59:00 GMT",
+  "published_ts": 1781251140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFFXVExJMnNnQzhVZndwY2JlNnpJZUtaelNVR1R6dnBsYzdzVHJ5LVJpbm1ISkh1d1FhNDctZ01qTS1pTWtGUGJFRjloRHJOV1F2RUYxeGpnWHZDUWoxZnpIYXV3cWUtOE9MUi1nRTEybGNFNFhpMVE0SThvZW5BcVVoMnNlZWxTazlZekRSYjZKUQ?oc=5\" target=\"_blank\">Drivers strike disrupts Samsung, SK hynix chip plant work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "A drivers' strike is disrupting work at Samsung and SK hynix chip plants. This is a supply-side disruption affecting two major fund holdings, but the story reports an ongoing labor action without confirmed impact on production, output, or shipments—making it material but speculative rather than a concrete event with quantified consequences."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "5947d5e8f6b6fdb249f40d7b992c6f848681be16",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "Banks Reportedly Curb Hedge Fund Leverage on SK Hynix and Samsung; XL2CSOPHYNIX (07709.HK) Gains Narrow to 6.5% - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNm85Q2xkcWE2b1M3M1k0WW13UWRnTXNxVkRoWnQxYmhlMG5sYjFZN3BBSE9Ma29JdXBJVldGc3huUXl5Z2NoUVNvTmlQeTd1ZTNDUmFwQVJwTWVfRHkzanU5RFdmQ01HREFlVEJfWV9XRmtUcjV4eldKREloREVMMlJKMzBvZw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 06:07:00 GMT",
+  "published_ts": 1781244420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNm85Q2xkcWE2b1M3M1k0WW13UWRnTXNxVkRoWnQxYmhlMG5sYjFZN3BBSE9Ma29JdXBJVldGc3huUXl5Z2NoUVNvTmlQeTd1ZTNDUmFwQVJwTWVfRHkzanU5RFdmQ01HREFlVEJfWV9XRmtUcjV4eldKREloREVMMlJKMzBvZw?oc=5\" target=\"_blank\">Banks Reportedly Curb Hedge Fund Leverage on SK Hynix and Samsung; XL2CSOPHYNIX (07709.HK) Gains Narrow to 6.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Banks are reportedly reducing leverage available to hedge funds for SK Hynix and Samsung positions, which may constrain speculative buying and influence stock movements. This is a soft development based on reported actions rather than a confirmed market-moving event."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "183d2d6b25a54639f05660cae32b2516472a0ac5",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Triple-Leveraged Bets on Samsung, SK hynix Set to Launch in London - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0V0WWduRzE4ZlJyVzBWcVYyUVBBdE4waENILVpHQ2dTYzR2ZGl5RjRuS3BWX2ZKaGhVb0lTSmhla0sxcnNjR0pHNDdKdHMwLU04ZTQ0czBGTWNmSUxLMU8zRFh4cmdCamJSY2c3TGlwalhaXzZ4WFJsSUdac2YtU0thZF9qZ3VKR2hVRG56MWJFTjZsQzBNdmYyS1BvQ3JNV2c?oc=5",
+  "published_at": "Fri, 12 Jun 2026 09:06:44 GMT",
+  "published_ts": 1781255204,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0V0WWduRzE4ZlJyVzBWcVYyUVBBdE4waENILVpHQ2dTYzR2ZGl5RjRuS3BWX2ZKaGhVb0lTSmhla0sxcnNjR0pHNDdKdHMwLU04ZTQ0czBGTWNmSUxLMU8zRFh4cmdCamJSY2c3TGlwalhaXzZ4WFJsSUdac2YtU0thZF9qZ3VKR2hVRG56MWJFTjZsQzBNdmYyS1BvQ3JNV2c?oc=5\" target=\"_blank\">Triple-Leveraged Bets on Samsung, SK hynix Set to Launch in London</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Triple-leveraged ETF products tracking Samsung and SK hynix are launching on London exchanges. This reflects growing institutional interest in memory semiconductor exposures but represents a fund/product development rather than a concrete event affecting the holdings or memory cycle itself."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "71969e080cabca2dbc5116688f29d779a4c2e36b",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Wall Street Banks Said to Tighten Leverage, South Korean Stocks Plunge Intraday. Samsung, SK Hynix Gains Pull Back Significantly - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnRjcUZmbDg3TmNOQWRWS3ZTUUFsSVAyUUtocUpNV3A5WENBMFZJcUxhbkFxZTVyOGh0R1Z0VDVIMGg2UU5tejFMUUdURjN5R2YyOGxkMFlXSUg1RE51M1doaXNaWWJDQjFWOWFOWkhwM0xqeE0yd2wxSTFUTEVpeEFNYXlESWhLSkZWdV82Ukc4Z3V0X0tMdExIeUw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 06:38:41 GMT",
+  "published_ts": 1781246321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWnRjcUZmbDg3TmNOQWRWS3ZTUUFsSVAyUUtocUpNV3A5WENBMFZJcUxhbkFxZTVyOGh0R1Z0VDVIMGg2UU5tejFMUUdURjN5R2YyOGxkMFlXSUg1RE51M1doaXNaWWJDQjFWOWFOWkhwM0xqeE0yd2wxSTFUTEVpeEFNYXlESWhLSkZWdV82Ukc4Z3V0X0tMdExIeUw?oc=5\" target=\"_blank\">Wall Street Banks Said to Tighten Leverage, South Korean Stocks Plunge Intraday. Samsung, SK Hynix Gains Pull Back Significantly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "South Korean stocks including Samsung and SK hynix experienced intraday pullbacks amid reports of Wall Street banks tightening leverage. This is macro-driven selling pressure on memory holdings rather than memory-specific news; the price action lacks a disclosed memory-industry catalyst and appears driven by broader financial market dynamics."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "be7b04439a37c1f0ece6053c7d18e0eca0062b88",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung Builds Early Lead in 'Dream Memory,' Achieves World-First 5nm MRAM Cell - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWxWXzFvOWtSVHpyZGJLTnl6bF94MkxRT1FVYVlKTDM0bk9hS1d4ZndFUzNmQ0pfT2lxZWRqeHBUWlVRV2NsSjRhbVJnLTNnX1NIVVVFOGdzN0NzeTdrcVhveXVpRDhiTFhTemRRSE90QjZwbXFjWFN1b3A5Nks3ZmJyYjMxWXVUMERsZ0pZM004UDBXeVU0T3ZjVW01Z0k?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:08:21 GMT",
+  "published_ts": 1781251701,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWxWXzFvOWtSVHpyZGJLTnl6bF94MkxRT1FVYVlKTDM0bk9hS1d4ZndFUzNmQ0pfT2lxZWRqeHBUWlVRV2NsSjRhbVJnLTNnX1NIVVVFOGdzN0NzeTdrcVhveXVpRDhiTFhTemRRSE90QjZwbXFjWFN1b3A5Nks3ZmJyYjMxWXVUMERsZ0pZM004UDBXeVU0T3ZjVW01Z0k?oc=5\" target=\"_blank\">Samsung Builds Early Lead in 'Dream Memory,' Achieves World-First 5nm MRAM Cell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung has achieved a world-first 5nm MRAM (magnetoresistive random-access memory) cell, positioning itself as an early leader in this emerging memory technology. MRAM is positioned as a potential next-generation memory type but remains in development; this is a technical milestone rather than a confirmed commercial or production event affecting current memory demand or pricing."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "849752f3e988daef4bc35af87f6fdee30c555f75",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Google Seeks Samsung Capacity for Next-Gen TPU - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDdfVEZMZ0ltX2RqcEhsQlFzWXJubkktellnN05iSzkzd093c2FqSnF1YUZDQzE4ZlBSOEtnV3pmaHlMNVhqQ0l0dUV2aU1SWjdPUTYtMUF3QXlIRWlHbnh1ZHlGaWNFZV93S0dERE41aGRqQTFPN2Rzd0djODJULWJtWUxIVFJqeVRjOGFiRVE3QQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 01:54:30 GMT",
+  "published_ts": 1781229270,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDdfVEZMZ0ltX2RqcEhsQlFzWXJubkktellnN05iSzkzd093c2FqSnF1YUZDQzE4ZlBSOEtnV3pmaHlMNVhqQ0l0dUV2aU1SWjdPUTYtMUF3QXlIRWlHbnh1ZHlGaWNFZV93S0dERE41aGRqQTFPN2Rzd0djODJULWJtWUxIVFJqeVRjOGFiRVE3QQ?oc=5\" target=\"_blank\">Google Seeks Samsung Capacity for Next-Gen TPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Google is seeking Samsung manufacturing capacity for next-generation TPUs. This is relevant as Samsung is a holding in DRAM and increased foundry demand signals potential memory/semiconductor capacity pull, but the story lacks concrete details on volume, timing, or confirmed allocation—it reads as a pursuit or discussion rather than a closed deal."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "c2373f3a92387d11e812668da599ddd197b0a536",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk, Seagate and Western Digital see bullish views at Mizuho on AI-driven memory demand - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWW1hQjhUZWx3cnRiSFJkS3V5eEoxazltRHJKNTVGY3R4VEhhenYxMV9raG5uT3hrYUdsT2hFQmpPX0p5bzlRZ2hGaXpYX0xxellvSnFNbGQzYTBiUWYxNl9BTV9XWnZHc3NZY3NibEdfRm1QVVhiY2FFS3ItRHR3aUU0RmhJcU9iUDBVSF9qOWNnUkk1c1phVEZ3ZHNuTWIwXzBrRjgwUFNERmNxeUN3QW9maGg0MlF2NEczcUxTYU1ETlphM3hkcUFEM3pyT25uNVlqZ0VYZ1VkbU91?oc=5",
+  "published_at": "Fri, 12 Jun 2026 09:03:11 GMT",
+  "published_ts": 1781254991,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWW1hQjhUZWx3cnRiSFJkS3V5eEoxazltRHJKNTVGY3R4VEhhenYxMV9raG5uT3hrYUdsT2hFQmpPX0p5bzlRZ2hGaXpYX0xxellvSnFNbGQzYTBiUWYxNl9BTV9XWnZHc3NZY3NibEdfRm1QVVhiY2FFS3ItRHR3aUU0RmhJcU9iUDBVSF9qOWNnUkk1c1phVEZ3ZHNuTWIwXzBrRjgwUFNERmNxeUN3QW9maGg0MlF2NEczcUxTYU1ETlphM3hkcUFEM3pyT25uNVlqZ0VYZ1VkbU91?oc=5\" target=\"_blank\">SanDisk, Seagate and Western Digital see bullish views at Mizuho on AI-driven memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Mizuho Securities issues bullish analyst views on three DRAM ETF holdings (SanDisk, Seagate, Western Digital) citing AI-driven memory demand. This is analyst opinion and price-target positioning rather than a confirmed event or hard catalyst, making it a soft positive signal."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "1246beef2b492cd74bb0aa71afea1824dbd6c1f9",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Seagate Capacity Lock In Resets Growth Outlook And Valuation Debate - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWXdOUUVOT0c1MlhGOGgyZWVBQ0RwOHRCQ24yU0duS1lTSG51b2VVS3pXaHdvY2RaRGdnUlRmczlqTGVsYXk5eFJ4a2RWYWFxclctcVJtQzllc1RFYjQ5TWJKVmdKVkJjN0VtMi1Pd1dOTDV6UHlfY3diZHd3X0o1c3J1Y1V0dEF4dlFBVG84U2M3ZGtST1JyaU9BaXFlaGhJUDl1eC1sSURmUGJxNDA4V2RkU19ySXJLTV9xbWtISUhnZ1BlQ2pSY0x2MWMyaGVuY2JRU2k3QXZMenBSTUHSAd4BQVVfeXFMT1l3TlFFTk9HNTJYRjhoMmVlQUNEcDh0QkNuMlNHbktZU0hudW9lVUt6V2h3b2NkWkRnZ1JUZnM5akxlbGF5OXhSeGtkVmFhcXJXLXFSbUM5ZXNURWI0OU1iSlZnSlZCYzdFbTItT3dXTkw1elB5X2N3YmR3d19KNXNydWNVdHRBeHZRQVRvOFNjN2RrUk9ScmlPQWlxZWhoSVA5dXgtbElEZlBicTQwOFdkZFNfcklyS01fcW1rSElIZ2dQZUNqUmNMdjFjMmhlbmNiUVNpN0F2THpwUk1B?oc=5",
+  "published_at": "Fri, 12 Jun 2026 10:10:24 GMT",
+  "published_ts": 1781259024,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWXdOUUVOT0c1MlhGOGgyZWVBQ0RwOHRCQ24yU0duS1lTSG51b2VVS3pXaHdvY2RaRGdnUlRmczlqTGVsYXk5eFJ4a2RWYWFxclctcVJtQzllc1RFYjQ5TWJKVmdKVkJjN0VtMi1Pd1dOTDV6UHlfY3diZHd3X0o1c3J1Y1V0dEF4dlFBVG84U2M3ZGtST1JyaU9BaXFlaGhJUDl1eC1sSURmUGJxNDA4V2RkU19ySXJLTV9xbWtISUhnZ1BlQ2pSY0x2MWMyaGVuY2JRU2k3QXZMenBSTUHSAd4BQVVfeXFMT1l3TlFFTk9HNTJYRjhoMmVlQUNEcDh0QkNuMlNHbktZU0hudW9lVUt6V2h3b2NkWkRnZ1JUZnM5akxlbGF5OXhSeGtkVmFhcXJXLXFSbUM5ZXNURWI0OU1iSlZnSlZCYzdFbTItT3dXTkw1elB5X2N3YmR3d19KNXNydWNVdHRBeHZRQVRvOFNjN2RrUk9ScmlPQWlxZWhoSVA5dXgtbElEZlBicTQwOFdkZFNfcklyS01fcW1rSElIZ2dQZUNqUmNMdjFjMmhlbmNiUVNpN0F2THpwUk1B?oc=5\" target=\"_blank\">Seagate Capacity Lock In Resets Growth Outlook And Valuation Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate's capacity-locking strategy is resetting growth outlook and sparking valuation debate. This is analyst commentary and discussion of strategic positioning rather than a confirmed event or earnings result, making it relevant but soft on impact."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "b2145ed45edefd4ef6a284596e175ecb8d463fb8",
+  "source": "Storyboard18",
+  "topic": "industry",
+  "title": "Smartphone prices rise as memory chip shortage pushes up costs, says Nothing CEO Carl Pei - Storyboard18",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeDdaS2NXY3oxTmRRSktsSzJ2UEZkRlVVazI4QW5Ja2RqaHBoczFvYzJXSm5rYVk2SHNLaVRUY0g4c1c2NnZLcU0yYVFDMTRBUUcxUWx3SGE2aWpYa2ZHS1VqRmVLcEptVXNuV0xpN2dfUmhmcmtCYUhQX0pjTjlvelVZM2dTMkVIaFVlNzV5cTJKMEltaFFuM3h2bnAzTWtBMFp2bzJIRHJRQzdMOHRaa0xYZGYxUGNzZml2ckV1LXNWdHdFZGZvMWw5RGVaRm5XaWZISnV1NmHSAd4BQVVfeXFMTlhhMVR3NTQybjRMTWZPQ3p0REZCMDJFWDI0V282WXZjOC1xaVR0bXZ1djhiazJoZmNka19KUjByQVJWWnlyaWkzOThpbHhGVklFdVZETlMyanJwdHNzU1AxRnE1WmNhaGRvTmZRcy14TzM2Yl9lT0VFN0dhQmxRV0xCVzJOVHB0TWp5d1Q0WmgzQmFFQnRJMFJsT0YwMS1FSTlHVWFBOFNiUWRUZ3c5WmtGdlNKMXVLMjhhRTlVMmJuZ2xSNFFHampJd1V1d0hIUDd0MUdyX3B4eDdLc3Vn?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:14:07 GMT",
+  "published_ts": 1781252047,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeDdaS2NXY3oxTmRRSktsSzJ2UEZkRlVVazI4QW5Ja2RqaHBoczFvYzJXSm5rYVk2SHNLaVRUY0g4c1c2NnZLcU0yYVFDMTRBUUcxUWx3SGE2aWpYa2ZHS1VqRmVLcEptVXNuV0xpN2dfUmhmcmtCYUhQX0pjTjlvelVZM2dTMkVIaFVlNzV5cTJKMEltaFFuM3h2bnAzTWtBMFp2bzJIRHJRQzdMOHRaa0xYZGYxUGNzZml2ckV1LXNWdHdFZGZvMWw5RGVaRm5XaWZISnV1NmHSAd4BQVVfeXFMTlhhMVR3NTQybjRMTWZPQ3p0REZCMDJFWDI0V282WXZjOC1xaVR0bXZ1djhiazJoZmNka19KUjByQVJWWnlyaWkzOThpbHhGVklFdVZETlMyanJwdHNzU1AxRnE1WmNhaGRvTmZRcy14TzM2Yl9lT0VFN0dhQmxRV0xCVzJOVHB0TWp5d1Q0WmgzQmFFQnRJMFJsT0YwMS1FSTlHVWFBOFNiUWRUZ3c5WmtGdlNKMXVLMjhhRTlVMmJuZ2xSNFFHampJd1V1d0hIUDd0MUdyX3B4eDdLc3Vn?oc=5\" target=\"_blank\">Smartphone prices rise as memory chip shortage pushes up costs, says Nothing CEO Carl Pei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Storyboard18</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Nothing CEO reports smartphone prices rising due to memory chip shortage pushing up costs. Confirms demand-side pressure on memory pricing and market tightness, but is executive commentary/opinion rather than a concrete price or supply data point."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "46ccb49b6d436062cc89aa6129fcc8da5b678df7",
+  "source": "Moneycontrol.com",
+  "topic": "industry",
+  "title": "Nothing CEO Carl Pei warns of costlier smartphones as memory chip prices soar - Moneycontrol.com",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEFpRkdZOUE2V2tiQlVIRnFOZFZzTnNwb3NwZnBwWVNqd2dFWE9NZmJjLVVFNnE0YkVvR1U1djAyUVFFdW9qZ0dwUkRMVG15el9ocXgyYy1OWjZaTXdid0Y0TWVHdFJjd01tb3RaYldzUk5XOWlBT1d4OTQzUzdiRER0LUk3X010dW90VnItQTdfR05zUHZxZldZcUVtZEhhZDJiRzgxUUlBV0puRmsxNzFfM1JfUUZETmFsS1VkS1pQT2ZVV0RHOU83TjlxZWlRNWowOGh30gHbAUFVX3lxTFB3OElZRDBUamlwQ045YloxcGxNVWptaDFONnZZeTFTTy1RNFdmdEZyenZoWHRCYWh5MExkWmswR1ZPU3hQNTNtdURLVnVLaGxhTW1NWGc2QjlMVkhsQ0VoZ0VDTGFmd0xJSE9ldWluV09rWmV3Mkw3akdRODVocGVOa0Y0eDZvWWxLZy1QNnA0LUdqeE11Ukt2S2EtS2ZheFRUckJZMm54S0t4NUlpOWJBd2EybFhqMENfLWVMWl9qeVpNLUZORVp6cGdxSG5iSHV4X3Z1QWpKbXotOA?oc=5",
+  "published_at": "Fri, 12 Jun 2026 07:04:19 GMT",
+  "published_ts": 1781247859,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEFpRkdZOUE2V2tiQlVIRnFOZFZzTnNwb3NwZnBwWVNqd2dFWE9NZmJjLVVFNnE0YkVvR1U1djAyUVFFdW9qZ0dwUkRMVG15el9ocXgyYy1OWjZaTXdid0Y0TWVHdFJjd01tb3RaYldzUk5XOWlBT1d4OTQzUzdiRER0LUk3X010dW90VnItQTdfR05zUHZxZldZcUVtZEhhZDJiRzgxUUlBV0puRmsxNzFfM1JfUUZETmFsS1VkS1pQT2ZVV0RHOU83TjlxZWlRNWowOGh30gHbAUFVX3lxTFB3OElZRDBUamlwQ045YloxcGxNVWptaDFONnZZeTFTTy1RNFdmdEZyenZoWHRCYWh5MExkWmswR1ZPU3hQNTNtdURLVnVLaGxhTW1NWGc2QjlMVkhsQ0VoZ0VDTGFmd0xJSE9ldWluV09rWmV3Mkw3akdRODVocGVOa0Y0eDZvWWxLZy1QNnA0LUdqeE11Ukt2S2EtS2ZheFRUckJZMm54S0t4NUlpOWJBd2EybFhqMENfLWVMWl9qeVpNLUZORVp6cGdxSG5iSHV4X3Z1QWpKbXotOA?oc=5\" target=\"_blank\">Nothing CEO Carl Pei warns of costlier smartphones as memory chip prices soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Nothing CEO Carl Pei warns that rising memory chip prices will lead to costlier smartphones. This reflects actual pricing pressure in the market, but it is forward-looking commentary rather than a confirmed price change or earnings impact. The statement signals demand strength and pricing power for memory suppliers, relevant to the fund's holdings, but remains speculative about future smartphone costs."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "8c0e9ffa34e75f099c016e2febb9fdba86e52287",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK hynix gain on U.S. chip rally - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYS1ER0lMaTF1ZG02SnI3XzVzUVZEZldtNkd0Ym45UkJYenhwY2pXeXVTMjdFUDRESG11LVg3SElWZkwwZXkwQnJKSGlEVXNIMVNNT2dmSQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 02:05:18 GMT",
+  "published_ts": 1781229918,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYS1ER0lMaTF1ZG02SnI3XzVzUVZEZldtNkd0Ym45UkJYenhwY2pXeXVTMjdFUDRESG11LVg3SElWZkwwZXkwQnJKSGlEVXNIMVNNT2dmSQ?oc=5\" target=\"_blank\">Samsung Electronics, SK hynix gain on U.S. chip rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK hynix stocks rose alongside a U.S. chip sector rally. No specific catalyst, concrete event, or material news disclosed—purely a price-move story with holdings mentioned."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "f732f5f5cd7b9aa1f3570ef642fba20419062371",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Retail Investors Pile Into SK hynix, 29% Bought Within Past Month - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEJhYjMyVkVlVkJTVlQtOU5KZVZaS2pBdXBtSzU0bGozdWl2ZjJDRDl3SHRxdk12ZFhmSHd2ZkU0R2w4bmdCeE02Y1FCRjY4bEFtakUzZWg1LWZjV2xvd2JhNlpZME8xczFvdE1JNUM5Q2loWHc1eGtzU1BDR1hJMjhZR2pYc3dNc21CcGo1UExZZHJMY0U4UlRNbE0?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:51:57 GMT",
+  "published_ts": 1781254317,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEJhYjMyVkVlVkJTVlQtOU5KZVZaS2pBdXBtSzU0bGozdWl2ZjJDRDl3SHRxdk12ZFhmSHd2ZkU0R2w4bmdCeE02Y1FCRjY4bEFtakUzZWg1LWZjV2xvd2JhNlpZME8xczFvdE1JNUM5Q2loWHc1eGtzU1BDR1hJMjhZR2pYc3dNc21CcGo1UExZZHJMY0U4UlRNbE0?oc=5\" target=\"_blank\">Retail Investors Pile Into SK hynix, 29% Bought Within Past Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Retail investor buying activity in SK hynix has increased, with 29% of purchases occurring within the past month. While SK hynix is a fund holding, this is primarily a behavioral/sentiment story about investor flows rather than a fundamental development affecting the memory cycle, pricing, or company operations."
+  },
+  "buffered_ts": 1781262029.6652677
+ },
+ {
+  "id": "5631e933826fde21cf35edff62de88f94df86d50",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Seagate plans redemption of 3.50% exchangeable notes, expects to eliminate ~$150.7M debt - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDF6NVNFbzhJQTVzQm45VTB0RTB4RDFjTk5ENHhSbXVGSy1fdXQtcWZ4OUVKTkw4RGxlLXpqUTM5bWw5dExaR3k3N0EwaXg2dlBhVmx1QXhPN3FsVlBoWkU0M0dPMW1ZNDk1RTB3OEtEd1U0TUdHckRmYmVPOWs2Y1RmaTFPbkxfYzhhQlpLOS1sVVdfLWxYeDRyZUVCcTBrRXZZTUh2eUxzcENSM3RyTjdSVXdqSk9WbUFrVnQxVmR3ZHdyUGk4REFRdU1sSmVvdERnamJ4bWRUTzVqRjBZ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 10:03:01 GMT",
+  "published_ts": 1781258581,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDF6NVNFbzhJQTVzQm45VTB0RTB4RDFjTk5ENHhSbXVGSy1fdXQtcWZ4OUVKTkw4RGxlLXpqUTM5bWw5dExaR3k3N0EwaXg2dlBhVmx1QXhPN3FsVlBoWkU0M0dPMW1ZNDk1RTB3OEtEd1U0TUdHckRmYmVPOWs2Y1RmaTFPbkxfYzhhQlpLOS1sVVdfLWxYeDRyZUVCcTBrRXZZTUh2eUxzcENSM3RyTjdSVXdqSk9WbUFrVnQxVmR3ZHdyUGk4REFRdU1sSmVvdERnamJ4bWRUTzVqRjBZ?oc=5\" target=\"_blank\">Seagate plans redemption of 3.50% exchangeable notes, expects to eliminate ~$150.7M debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate announced plans to redeem $150.7M in exchangeable notes. While Seagate is a DRAM ETF holding, debt redemption is routine corporate finance activity with no direct bearing on memory demand, pricing, or production capacity. Minor positive signal on balance sheet but immaterial to fund thesis."
+  },
+  "buffered_ts": 1781262029.6652677
  }
 ]
