@@ -168,5 +168,362 @@
    "summary": "Seagate (STX), a fund holding, mentioned as moving higher on Friday. No specific catalyst or concrete event disclosed—pure price-move roundup with no material driver stated."
   },
   "buffered_ts": 1781273606.9809303
+ },
+ {
+  "id": "3c051e28f41dfedab05031bdd2f44e268c4c56a8",
+  "source": "Yahoo Finance Singapore",
+  "topic": "holding",
+  "title": "SK Hynix to opt for Nasdaq for planned US listing, sources say - Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNandaSXJDS1RQS1ZrVThMT1gtaUpXc24zTi03YzI0UDZucEZ2YlJ6TUliM1lJMmZ5cGpVZ2JpYzlCM1Z4d0VFMUZ2eHozYW9UTGRXTm1HU2h6Y0dSMVFvbS1vRDB1VGktdnliM0RqRHdaVmF0V3dvemJ6cjFkX284aXoxZw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 14:03:58 GMT",
+  "published_ts": 1781273038,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNandaSXJDS1RQS1ZrVThMT1gtaUpXc24zTi03YzI0UDZucEZ2YlJ6TUliM1lJMmZ5cGpVZ2JpYzlCM1Z4d0VFMUZ2eHozYW9UTGRXTm1HU2h6Y0dSMVFvbS1vRDB1VGktdnliM0RqRHdaVmF0V3dvemJ6cjFkX284aXoxZw?oc=5\" target=\"_blank\">SK Hynix to opt for Nasdaq for planned US listing, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM/NAND producer and key DRAM ETF holding, is planning a US listing on Nasdaq according to sources. This is a concrete corporate development that increases the holding's accessibility to US investors and signals management confidence, though the listing itself has not yet occurred."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "3a3a373fd852884b98822ef924317e5d8a1432e2",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix to opt for Nasdaq for planned US listing, sources say - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2xFdjdKNkZxdmFiR0UtQ0lKUnZLVU1ha2txSkpBeGNaTnR3REdFbWhmbXd2anlkS3hMTmc1eHhkSTlISGJGZGdpZTdwUEE2Yml6aWZ1TVVvMFZWRVowZE92dF9qQTN0YWw2ejFWOHBoUnJKQ3MyZ2xHbVRGWjQyZFVkN0k3YWpBdm9aTTBGZy05QVJ2a3B4YUFNMFREZWFON3p3b0hhaEhVTEZkZ0MwZE5LcVk?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:16:00 GMT",
+  "published_ts": 1781277360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2xFdjdKNkZxdmFiR0UtQ0lKUnZLVU1ha2txSkpBeGNaTnR3REdFbWhmbXd2anlkS3hMTmc1eHhkSTlISGJGZGdpZTdwUEE2Yml6aWZ1TVVvMFZWRVowZE92dF9qQTN0YWw2ejFWOHBoUnJKQ3MyZ2xHbVRGWjQyZFVkN0k3YWpBdm9aTTBGZy05QVJ2a3B4YUFNMFREZWFON3p3b0hhaEhVTEZkZ0MwZE5LcVk?oc=5\" target=\"_blank\">SK Hynix to opt for Nasdaq for planned US listing, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is planning a US listing on Nasdaq according to sources. This is a significant corporate development for a major DRAM fund holding, but remains sourced reporting of an intention rather than a confirmed, binding announcement. The listing would increase US market accessibility and liquidity for the stock, but the impact is speculative until officially announced."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "d192ff7f6351c832a6142c8db23a8386e90f1333",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "SK Hynix to opt for Nasdaq for planned US listing, sources say - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wYVNTNk8wY1AzdkVFWmxFY0RjNFVNZnFrdms5akIzUnBodzIyajVXQUpsRW9xTVNwckltQUJKczY5d2NYaUtiaVBYMjlNSC1Lekp0d1lhSFMtOThpSzR5UXhES3djcTQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 14:27:44 GMT",
+  "published_ts": 1781274464,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wYVNTNk8wY1AzdkVFWmxFY0RjNFVNZnFrdms5akIzUnBodzIyajVXQUpsRW9xTVNwckltQUJKczY5d2NYaUtiaVBYMjlNSC1Lekp0d1lhSFMtOThpSzR5UXhES3djcTQ?oc=5\" target=\"_blank\">SK Hynix to opt for Nasdaq for planned US listing, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is planning a US listing on Nasdaq according to sources. This is a significant corporate development for a major fund holding, but the story reports sourced information about plans rather than an official announcement or confirmed event, making it forward-looking speculation rather than a settled fact."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "3f2e90802844924e4d5b06fa0b435c52124c2364",
+  "source": "Startup Fortune",
+  "topic": "holding",
+  "title": "Prime brokers tightened SK Hynix leverage while the AI memory thesis held firm - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTZaUEJ5Zk1VQmlmUHdoY1JXbjlCX2VfZDNNNHVTRmtOcUxZUVlCTWpSR3cxSVlLX0NkdDlndHJPbTNvNDNpTE1ibi1zQldNSUlmWnhyYXFHWjU5TGgzVEhsRkVXWno0MElDRnBqTG1rRzY2VGh1WWZGRGdObFk4YXRiSFpFY3AwT0ctenhIbGg2dVRPelI2SUR6bm9RYWZvYTBPUXV6YjNFZw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:36:13 GMT",
+  "published_ts": 1781253373,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTZaUEJ5Zk1VQmlmUHdoY1JXbjlCX2VfZDNNNHVTRmtOcUxZUVlCTWpSR3cxSVlLX0NkdDlndHJPbTNvNDNpTE1ibi1zQldNSUlmWnhyYXFHWjU5TGgzVEhsRkVXWno0MElDRnBqTG1rRzY2VGh1WWZGRGdObFk4YXRiSFpFY3AwT0ctenhIbGg2dVRPelI2SUR6bm9RYWZvYTBPUXV6YjNFZw?oc=5\" target=\"_blank\">Prime brokers tightened SK Hynix leverage while the AI memory thesis held firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Prime brokers tightened leverage on SK Hynix, a major DRAM ETF holding, though the AI memory thesis remained intact. This is a material development affecting the holding's financing conditions and trading dynamics, but the tightening is a regulatory/broker-driven constraint rather than a confirmed market shock, and the thesis itself held firm—making it material but not a concrete, immediate catalyst."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "16eaada12e3ec64c9e550cab2967aedf5e759599",
+  "source": "LiveTube",
+  "topic": "holding",
+  "title": "Video: SK Hynix to opt for Nasdaq for planned US listing, sources say - LiveTube",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUd5MjhVNnpFcnRnOUVZX2NvVGFjZ0cwdVFDX3ZscGJuX25QVzJXbjEzVmkySXN5THFodzZIeUM5REMtU0Jyei1mM1laWm1TUjZ6cllIQ0R4Z1E2WHVyRDkxS2R5cjR2aFY2UjlRRGFZWHlwSmhrS0VDbjVISndubXlRRHhQVm9PMEczR2Q2NXE5MUMzcUxBeXBIX1I?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:09:32 GMT",
+  "published_ts": 1781276972,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUd5MjhVNnpFcnRnOUVZX2NvVGFjZ0cwdVFDX3ZscGJuX25QVzJXbjEzVmkySXN5THFodzZIeUM5REMtU0Jyei1mM1laWm1TUjZ6cllIQ0R4Z1E2WHVyRDkxS2R5cjR2aFY2UjlRRGFZWHlwSmhrS0VDbjVISndubXlRRHhQVm9PMEczR2Q2NXE5MUMzcUxBeXBIX1I?oc=5\" target=\"_blank\">Video: SK Hynix to opt for Nasdaq for planned US listing, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveTube</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly planning to list on Nasdaq. This is a corporate development for a major DRAM fund holding, but the story is sourced on 'sources say' (unconfirmed), making it speculative rather than an official announcement. Impact is 3 because it's a material possibility but lacks concrete confirmation."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "16e614f839ab938f273a763bb93b6021775751b0",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "Banks Reportedly Curb Hedge Fund Leverage on SK Hynix and Samsung; XL2CSOPHYNIX (07709.HK) Gains Narrow to 6.5% - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjhpazJNY3FWUXVUSk5UUWgxQjFtMjFsQVU4VTBfejJtYVVFS1RSWnpmam8xenFzdlNNTGlMQzFGZzJ2N1dadXV1RDIzUERKbVpFamlDQml6TXg2S3FNaFFfYnViaDN3cDBlZjBYVVhTUmJWcE45UVJTanBoaDI1QjJSRGhkZWNDWno2ZmxjTGpIUEkxeXc?oc=5",
+  "published_at": "Fri, 12 Jun 2026 06:07:00 GMT",
+  "published_ts": 1781244420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjhpazJNY3FWUXVUSk5UUWgxQjFtMjFsQVU4VTBfejJtYVVFS1RSWnpmam8xenFzdlNNTGlMQzFGZzJ2N1dadXV1RDIzUERKbVpFamlDQml6TXg2S3FNaFFfYnViaDN3cDBlZjBYVVhTUmJWcE45UVJTanBoaDI1QjJSRGhkZWNDWno2ZmxjTGpIUEkxeXc?oc=5\" target=\"_blank\">Banks Reportedly Curb Hedge Fund Leverage on SK Hynix and Samsung; XL2CSOPHYNIX (07709.HK) Gains Narrow to 6.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Banks are reportedly reducing leverage available to hedge funds for SK Hynix and Samsung positions, which may constrain demand-side flows into these memory holdings. This is market commentary on financing conditions rather than a concrete operational or financial event, suggesting a soft constraint on speculative positioning."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "5276421d78f7933540194b7d8a56aa33b7c73943",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Chip Supercycle Is Just Beginning, Nomura Says; Targets Samsung at $427 and SK Hynix at $3,623 - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jeWVWdEI1OXBWWjBmOENCbkEyQ2twV0Z1V2lhaFJYLUhEVmtwaEhWUGJkVFhEUHlIUWVpY2QyMzZqMDRyRmpGTEtyOGx1dEc3ajZfbw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 09:56:36 GMT",
+  "published_ts": 1781258196,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jeWVWdEI1OXBWWjBmOENCbkEyQ2twV0Z1V2lhaFJYLUhEVmtwaEhWUGJkVFhEUHlIUWVpY2QyMzZqMDRyRmpGTEtyOGx1dEc3ajZfbw?oc=5\" target=\"_blank\">Chip Supercycle Is Just Beginning, Nomura Says; Targets Samsung at $427 and SK Hynix at $3,623</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Nomura analyst targets Samsung at $427 and SK Hynix at $3,623, characterizing the chip cycle as just beginning. Opinion-based price targets and cyclical analysis without concrete catalysts or confirmed events."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "75b0a7253ca5e10fb1d7adac53edbb5c4b1a32c9",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "SK Hynix Weighs Advanced Chip Packaging Plant in Gwangju or Muan - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aeVJ2cEdUbm8zb1lQSjlQellGX281eTM3U0xTMjVmSkc4cUFQZHRuYW55bTRhM1pMSWFXSGV5MXQ4dVh2N2VwS1dRUVJYYjM2REl4dQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 11:52:27 GMT",
+  "published_ts": 1781265147,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aeVJ2cEdUbm8zb1lQSjlQellGX281eTM3U0xTMjVmSkc4cUFQZHRuYW55bTRhM1pMSWFXSGV5MXQ4dVh2N2VwS1dRUVJYYjM2REl4dQ?oc=5\" target=\"_blank\">SK Hynix Weighs Advanced Chip Packaging Plant in Gwangju or Muan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is evaluating locations (Gwangju or Muan) for an advanced chip packaging plant. This represents a potential capacity/investment decision by a key DRAM holding, but remains in the exploration phase rather than a confirmed commitment, making it soft news pending official announcement."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "99a6235600d0ac8685c8a98cae4857dd3319f481",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung Foundry Eyes Google AI Chip Production Deal - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajJRckJBRlVTdklBOFFYdzVOZThYenZMOGVjQmI0QjRyTHNDcEM3WE1zZWJRbU1TMXNwVm82V2g4U3lXdmNJd2xuU2lpd2ZkMkxxejVqQUdQSzJ1MmZaYXBxVF9udTRFOVRaN01tTHphTDZuWDdRSEhoQ3lvUnFnOG1MMVc0cHkx?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:46:28 GMT",
+  "published_ts": 1781279188,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajJRckJBRlVTdklBOFFYdzVOZThYenZMOGVjQmI0QjRyTHNDcEM3WE1zZWJRbU1TMXNwVm82V2g4U3lXdmNJd2xuU2lpd2ZkMkxxejVqQUdQSzJ1MmZaYXBxVF9udTRFOVRaN01tTHphTDZuWDdRSEhoQ3lvUnFnOG1MMVc0cHkx?oc=5\" target=\"_blank\">Samsung Foundry Eyes Google AI Chip Production Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung foundry is exploring a potential production deal with Google for AI chips. This is a business development opportunity for Samsung's semiconductor arm, but it remains in discussion/exploration stage rather than a confirmed contract. While relevant to a major holding, the speculative nature and lack of concrete terms or commitment limit impact to 3."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "ec88ee413345ce544e48d6feffce79c89e0e772e",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SanDisk and Western Digital Jump 6% as Traders Battle Over the AI Storage Stock Melt-Up - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3V0aUxjUXZrd3pwLUd4NF9IcnVvYnV4Qlk1a05TQy13YjZGc0hBaGYtbHRKTEtRdnpoQjFiNFBXM1hzWkF0OXJ0ZnlkODlBXzlha3NYUU1IcVVrSWNyMGZnODBhWVVFUlcwbGpVaDhPbERrMEJEb09NakI3cTFNRXJSWEVpTFpuRjlVVWpCQm9rcVV1UVc5ZDNOa3l2SjlybXRDZU1uaWxJLURyQktNdmJ3NFBsVEhmaEhBLUxadVRLMVphZUczdldB?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:35:41 GMT",
+  "published_ts": 1781278541,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3V0aUxjUXZrd3pwLUd4NF9IcnVvYnV4Qlk1a05TQy13YjZGc0hBaGYtbHRKTEtRdnpoQjFiNFBXM1hzWkF0OXJ0ZnlkODlBXzlha3NYUU1IcVVrSWNyMGZnODBhWVVFUlcwbGpVaDhPbERrMEJEb09NakI3cTFNRXJSWEVpTFpuRjlVVWpCQm9rcVV1UVc5ZDNOa3l2SjlybXRDZU1uaWxJLURyQktNdmJ3NFBsVEhmaEhBLUxadVRLMVphZUczdldB?oc=5\" target=\"_blank\">SanDisk and Western Digital Jump 6% as Traders Battle Over the AI Storage Stock Melt-Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital stocks rose 6% amid trader activity and discussion of AI-driven storage demand, but the article appears to focus on trading dynamics and sentiment rather than disclosing a specific concrete catalyst or event driving the move."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "a31923048cc653e621c58192688221ff24d38288",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Why Is Seagate (STX) Stock Rocketing Higher Today - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzVSeDF3Q0VOOVg4bWVYYjlNdlFfdEM3MkItMTYyUXB1WFN6dUhPY3lzZWlFRHdrSnFDQndEYnU1Vmhldmc5WnBIdXo2NjczU0IyRGI1bTBjTjRzRmNBeGxfM3FCZ3VIUHFBN3cwelItWVlOcnZYaEpsOTJXTUpDeXRjRmQ1TWZrbzFSaUhRRTJiYmFyUFpZM3ZqT3ZubXA3VVZuQjZuT3MzUExz?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:45:49 GMT",
+  "published_ts": 1781279149,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzVSeDF3Q0VOOVg4bWVYYjlNdlFfdEM3MkItMTYyUXB1WFN6dUhPY3lzZWlFRHdrSnFDQndEYnU1Vmhldmc5WnBIdXo2NjczU0IyRGI1bTBjTjRzRmNBeGxfM3FCZ3VIUHFBN3cwelItWVlOcnZYaEpsOTJXTUpDeXRjRmQ1TWZrbzFSaUhRRTJiYmFyUFpZM3ZqT3ZubXA3VVZuQjZuT3MzUExz?oc=5\" target=\"_blank\">Why Is Seagate (STX) Stock Rocketing Higher Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX) stock experiencing a significant intraday price move. The headline indicates a notable rally but does not disclose a specific catalyst or confirmed event driving the movement. Without disclosed news, guidance changes, earnings results, or other concrete catalysts, this is characterized as price movement without stated cause."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "d3e4e25def2d20a7aa4451130e4ab54951e06978",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "WDC Powers AI Infrastructure Play With Storage Innovation at Computex - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVElQdzlkSFE2bW5QeDN1Z1NKakxjcjBTLW54RWVrNnc4OTJadzItMkkwSlVHQ0ZIeEpXeDU4Zl9BYjdXMTkzT3ItMlUtczlvX2hXeDZRYW1EcXZCVlhmcWNjV1RvTGpVMDF2cFJpQlowbTkyaUNsU2JKX183MGNuNlVVMXlja2xjRVh6R25rc0QxckVpdHc5MVJ5MEhiR1BEWjRaMUVWaUdsRjVyZHp3OTJCT0VMcEp4NG9wcHFFRFFsb3c?oc=5",
+  "published_at": "Fri, 12 Jun 2026 13:25:00 GMT",
+  "published_ts": 1781270700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVElQdzlkSFE2bW5QeDN1Z1NKakxjcjBTLW54RWVrNnc4OTJadzItMkkwSlVHQ0ZIeEpXeDU4Zl9BYjdXMTkzT3ItMlUtczlvX2hXeDZRYW1EcXZCVlhmcWNjV1RvTGpVMDF2cFJpQlowbTkyaUNsU2JKX183MGNuNlVVMXlja2xjRVh6R25rc0QxckVpdHc5MVJ5MEhiR1BEWjRaMUVWaUdsRjVyZHp3OTJCT0VMcEp4NG9wcHFFRFFsb3c?oc=5\" target=\"_blank\">WDC Powers AI Infrastructure Play With Storage Innovation at Computex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) announced storage innovations at Computex aimed at AI infrastructure. The story describes WDC's positioning in the AI storage market but lacks concrete details on new products, partnerships, or financial guidance that would constitute a confirmed market-moving event."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "233a385f79ad2f0e9fc55bb7f61d85b59ff7f458",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Better AI Memory Stock: Seagate or Western Digital? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVKWHVrVFA4VUU0ZklMc2R4YzZhN1B6aHRyMnVxT3dwMjR4aXhRampQbDlucjhaZzRMaHk3SWIzMkw1YU5IRlBRWnl0eWFFQ1pTM1VJSDVNZ0JaT1AxRmFyZUM5RmRQVjZPZFVxd2hyRmJweGFhRTcxVC1yOFppVm5vNFFvNG9DdkRSYmRmeklHOXp6WVhqOFdRaXpRbEx6YVptVmdhYmttV0w1cVZkNXM3ekFLeFRnUWFuVEhJQmtQS0JoalZfZ0U5cjZfdw?oc=5",
+  "published_at": "Thu, 11 Jun 2026 15:00:00 GMT",
+  "published_ts": 1781190000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVKWHVrVFA4VUU0ZklMc2R4YzZhN1B6aHRyMnVxT3dwMjR4aXhRampQbDlucjhaZzRMaHk3SWIzMkw1YU5IRlBRWnl0eWFFQ1pTM1VJSDVNZ0JaT1AxRmFyZUM5RmRQVjZPZFVxd2hyRmJweGFhRTcxVC1yOFppVm5vNFFvNG9DdkRSYmRmeklHOXp6WVhqOFdRaXpRbEx6YVptVmdhYmttV0w1cVZkNXM3ekFLeFRnUWFuVEhJQmtQS0JoalZfZ0U5cjZfdw?oc=5\" target=\"_blank\">Better AI Memory Stock: Seagate or Western Digital?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis comparing Seagate (STX) and Western Digital (WDC) as AI memory stock picks. This is investor commentary and opinion rather than a concrete event, deal announcement, or earnings result, making it a soft-impact relevant story about two fund holdings."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "e97f82af1f3dbf1dd11feb6927b637fd19d37611",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Did Sandisk Stock Pop Today? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNmk1Ykw5MGJtS2xQRVJUeFBWNmFpelhsVVRmZHcyMDc5S3plYlJrVjhNQWNoUU9QZDVnd25ZNTNmWmZBa25DbWVPajJfNjlfSHpSLWRua1I1aGZKVVhoQUJraDJxcUFhM3M4VDJEMXlERHQyZHFTMnRDUC05Ujg?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:00:32 GMT",
+  "published_ts": 1781276432,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNmk1Ykw5MGJtS2xQRVJUeFBWNmFpelhsVVRmZHcyMDc5S3plYlJrVjhNQWNoUU9QZDVnd25ZNTNmWmZBa25DbWVPajJfNjlfSHpSLWRua1I1aGZKVVhoQUJraDJxcUFhM3M4VDJEMXlERHQyZHFTMnRDUC05Ujg?oc=5\" target=\"_blank\">Why Did Sandisk Stock Pop Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock moved notably, but article appears to lack a disclosed concrete catalyst. Stock price movements without a stated fundamental cause (earnings, guidance, deal announcement, production news) are classified as soft/speculative analysis rather than confirmed events."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "1a193a60e08c2c275e0b4d2dc20c9bf5ad26335d",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "SanDisk Stock Has Surged 40% This Month. Here’s What’s Driving It Higher - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzZHdVRFeUpZdnZaNzFYenR6UWNxTjJ3a1NTY3locFRQTWQwOHc3eno2UjRjRVlXSEtWMzNodW45dmFyUGVrVWMwaWo1bnNic29nUGlFa213N00wdVZaRklma1p6elF6dmRSclFYVEIxcFM0b0l5dzB3c2JYbjIyOGtyWmZPa0Z0TUJ5eV9BczhKQ0pNREFlQ0F3?oc=5",
+  "published_at": "Fri, 12 Jun 2026 12:12:06 GMT",
+  "published_ts": 1781266326,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzZHdVRFeUpZdnZaNzFYenR6UWNxTjJ3a1NTY3locFRQTWQwOHc3eno2UjRjRVlXSEtWMzNodW45dmFyUGVrVWMwaWo1bnNic29nUGlFa213N00wdVZaRklma1p6elF6dmRSclFYVEIxcFM0b0l5dzB3c2JYbjIyOGtyWmZPa0Z0TUJ5eV9BczhKQ0pNREFlQ0F3?oc=5\" target=\"_blank\">SanDisk Stock Has Surged 40% This Month. Here’s What’s Driving It Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM fund holding) has surged 40% this month. The article promises to explain the drivers but does not disclose the concrete catalyst in the snippet. A significant stock move on a named holding warrants coverage, but without a stated cause (earnings, guidance, deal, supply news, etc.), the impact is soft—likely reflecting analyst opinion or market sentiment rather than a confirmed event."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "15495e1ec3965dcbf1ca0271ba171abc77ebc658",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Did Sandisk Stock Pop Today? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVdjUVVMZ2tpM2FuOFR5S191QXItV0M5amlYWXRNdmxDWGtQazM5UkdMVEJCS0JkVGdLTDlGOEdLX3J2VGRROURnZTN2Q1JNcXUwMFpLa0pVNjJCc21ZY2wwVmRVa3RkaUdEd1owU29pRThScHBhSGhDMTRmZGExZ2F5bEU1eWpjdHlHSUFpeFZUQnFnbmhVOUtxNjFjTXcyZmNkaUNxYjRNTXdXNDZIYUJXRHVjZw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 16:39:36 GMT",
+  "published_ts": 1781282376,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVdjUVVMZ2tpM2FuOFR5S191QXItV0M5amlYWXRNdmxDWGtQazM5UkdMVEJCS0JkVGdLTDlGOEdLX3J2VGRROURnZTN2Q1JNcXUwMFpLa0pVNjJCc21ZY2wwVmRVa3RkaUdEd1owU29pRThScHBhSGhDMTRmZGExZ2F5bEU1eWpjdHlHSUFpeFZUQnFnbmhVOUtxNjFjTXcyZmNkaUNxYjRNTXdXNDZIYUJXRHVjZw?oc=5\" target=\"_blank\">Why Did Sandisk Stock Pop Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock experienced a notable price move. The story addresses the stock movement but lacks disclosure of a specific concrete catalyst (earnings, guidance, deal announcement, or supply news), making it soft commentary on price action rather than a reported event."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "6838281bb225386bea3d1fdd6abd5211a4fcd7e8",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Nvidia Vera Rubin Ramp-Up Triggers Global Memory Shortage, SanDisk Nears $2,000 Mark. Mizuho Sees $2,200 - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ2VKaWV4SVNfUVd4b19tY1ZlVTFhZ1FjNjBkSDV0ajg5NzAxcmN3RmhvcjdzT3pjajVvUFlHb3BmbGsxVEVJN1RvV1BwUEk3N1lpZXczaXgzV1VhOG96cmtfMEpGVy1CU2xaQlNKbTYtbkltQlktSV9jS3B2Sk5Lb3RBMkRCdzk0dkl1eFRUZWFYaHUwQUNQSHlnWXRmTHNIZWR3VDNOUlFGdmN2ajlRS1FjMWJvS2JIWmV5YTVSdnFzcG5teEJhN1pB?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:11:15 GMT",
+  "published_ts": 1781277075,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ2VKaWV4SVNfUVd4b19tY1ZlVTFhZ1FjNjBkSDV0ajg5NzAxcmN3RmhvcjdzT3pjajVvUFlHb3BmbGsxVEVJN1RvV1BwUEk3N1lpZXczaXgzV1VhOG96cmtfMEpGVy1CU2xaQlNKbTYtbkltQlktSV9jS3B2Sk5Lb3RBMkRCdzk0dkl1eFRUZWFYaHUwQUNQSHlnWXRmTHNIZWR3VDNOUlFGdmN2ajlRS1FjMWJvS2JIWmV5YTVSdnFzcG5teEJhN1pB?oc=5\" target=\"_blank\">Nvidia Vera Rubin Ramp-Up Triggers Global Memory Shortage, SanDisk Nears $2,000 Mark. Mizuho Sees $2,200</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Nvidia Vera Rubin ramp-up said to trigger global memory shortage; SanDisk stock price movement noted with analyst price target. Story references demand catalyst and a holding (SanDisk) but lacks confirmed concrete events—relies on analyst forecasts rather than hard supply data or official guidance changes."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "fec58a166dca8ed46419ff89b18ab951222e652c",
+  "source": "TechInsights",
+  "topic": "industry",
+  "title": "Wafer Demand Forecast – Q3 2025 Update - TechInsights",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04RlBLVnpMN3lsdU54dEM0LXNPX19VajJQS1dmUnpjYzN5M2E3dHk0emNldUcxRGtERElfbFhYZGtWTHhZM2FRTzJHZG4wR0IzX0FuTzFyMEJSZUhpM1ZCTG1mVXVkNVhxUE4yUTFBT0gtNVJBYlIzYjdR?oc=5",
+  "published_at": "Thu, 11 Jun 2026 15:46:36 GMT",
+  "published_ts": 1781192796,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE04RlBLVnpMN3lsdU54dEM0LXNPX19VajJQS1dmUnpjYzN5M2E3dHk0emNldUcxRGtERElfbFhYZGtWTHhZM2FRTzJHZG4wR0IzX0FuTzFyMEJSZUhpM1ZCTG1mVXVkNVhxUE4yUTFBT0gtNVJBYlIzYjdR?oc=5\" target=\"_blank\">Wafer Demand Forecast – Q3 2025 Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechInsights</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "TechInsights releases a Q3 2025 wafer demand forecast update. This is relevant to DRAM as wafer demand and fab capacity directly affect memory production and the memory cycle, but forecast/analysis pieces without specific hard numbers or confirmed events are soft intelligence (impact 3) rather than concrete developments."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "f160a76b90da0019634e90a892809301adc43309",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Retail Investors Pile Into SK hynix, 29% Bought Within Past Month - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMV9FWnMzbGtpNVRXQ19zdWROcFB5TzVOaTFJNWxCeTRsSzBwdjQ3TzNoUWtsTFlNZnVQN1l6Q2pnTjVLTFh2QTBGZExtcjZXV25PU2F6MkpvS1MyRkROaUpYRHRSVEVXbFRDaHNtYlBMcC1Rc2E4WUhjbDZGZnNacDAzSkY5TFRpenRMM053ellTZlNKbFRkQmtXUQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 08:51:57 GMT",
+  "published_ts": 1781254317,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMV9FWnMzbGtpNVRXQ19zdWROcFB5TzVOaTFJNWxCeTRsSzBwdjQ3TzNoUWtsTFlNZnVQN1l6Q2pnTjVLTFh2QTBGZExtcjZXV25PU2F6MkpvS1MyRkROaUpYRHRSVEVXbFRDaHNtYlBMcC1Rc2E4WUhjbDZGZnNacDAzSkY5TFRpenRMM053ellTZlNKbFRkQmtXUQ?oc=5\" target=\"_blank\">Retail Investors Pile Into SK hynix, 29% Bought Within Past Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Retail investors have accumulated a significant position in SK hynix, with 29% of recent buying occurring within the past month. This reflects investor sentiment toward the holding but lacks concrete news about the company's operations, guidance, pricing, or financials."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "930753483fe7bbb65e42228e06febb45f49af573",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Stocks making the biggest moves midday: SpaceX, EchoStar, Adobe, Seagate Technology, Charles Schwab & more - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXhfTUZ6MkpMcEoyYTZ1VXl2QmFTN3VlcHNSeEIwZC1xdzRIRUJnWXBZWkp3M0tKa0Jfd19ZNWxqMlo0TmZIUC1IcFREdDE4WjJJMWRtMDgtcFRkRXNFaUJ5aXc1TEtid2ZDcGtvSm5SSkw1dVh6R082TzJsRlQtUkJuWmJVWWFvd0M0c095X0hfUzBJZVd6OUZfYUpHRVhK?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:58:10 GMT",
+  "published_ts": 1781279890,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXhfTUZ6MkpMcEoyYTZ1VXl2QmFTN3VlcHNSeEIwZC1xdzRIRUJnWXBZWkp3M0tKa0Jfd19ZNWxqMlo0TmZIUC1IcFREdDE4WjJJMWRtMDgtcFRkRXNFaUJ5aXc1TEtid2ZDcGtvSm5SSkw1dVh6R082TzJsRlQtUkJuWmJVWWFvd0M0c095X0hfUzBJZVd6OUZfYUpHRVhK?oc=5\" target=\"_blank\">Stocks making the biggest moves midday: SpaceX, EchoStar, Adobe, Seagate Technology, Charles Schwab & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate Technology (STX), a DRAM fund holding, is mentioned as making significant midday moves, but the snippet provides no detail on the cause, magnitude, or direction of the move."
+  },
+  "buffered_ts": 1781284950.9954352
+ },
+ {
+  "id": "9f55e271476e522c71281ec4d7953e10724c2a72",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SanDisk and Western Digital Jump 6% as Traders Battle Over the AI Storage Stock Melt-Up - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDlETWZKS24tcWdFUTdpbG96NGJ5Ui1XdXFYX0p4RVBWQ2t1MklKS0FfWXJ0cVVpcHdlXzNVa3UxNUtIS1RCdWthTTJiZlFWVG8xX20xX3ZGVlR1QmRjbU5mMlpJalJEQUV5b1FJRDR3aXlPUWNHVXMxX01DZ2ZuVHEyZDBDTnd6dzdCRnFGN21YLWJwUENGUVFXbw?oc=5",
+  "published_at": "Fri, 12 Jun 2026 15:35:41 GMT",
+  "published_ts": 1781278541,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDlETWZKS24tcWdFUTdpbG96NGJ5Ui1XdXFYX0p4RVBWQ2t1MklKS0FfWXJ0cVVpcHdlXzNVa3UxNUtIS1RCdWthTTJiZlFWVG8xX20xX3ZGVlR1QmRjbU5mMlpJalJEQUV5b1FJRDR3aXlPUWNHVXMxX01DZ2ZuVHEyZDBDTnd6dzdCRnFGN21YLWJwUENGUVFXbw?oc=5\" target=\"_blank\">SanDisk and Western Digital Jump 6% as Traders Battle Over the AI Storage Stock Melt-Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital stocks rose 6%, but the article describes trader speculation and a price move with no disclosed fundamental catalyst or event."
+  },
+  "buffered_ts": 1781284950.9954352
  }
 ]
