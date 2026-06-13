@@ -1222,5 +1222,39 @@
    "summary": "On June 11th, 256.02K options contracts on the Roundhill Memory ETF (DRAM) were traded with 1.48 million open interest. This is a routine options market activity report with no material news about the fund, holdings, or memory cycle."
   },
   "buffered_ts": 1781339379.5430346
+ },
+ {
+  "id": "b136b80ab6c28f9e57924b0ca12292072ee0d230",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "SK Hynix: To Complete an ADR Listing on NASDAQ in August? - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmhyZXRkYkxORlZfUVlWSUdZanNUSE11dkFpMVhJU0FEZDVEdEl2TGV2SGRBRmVNS180LUl0bkFYcXBqc2JKbUVpcGdKQVFGZ3VuR1hjMEJnMXNCc1hPbTh5OVN0d0FKQ3praGpCOUlYd0NGZWVleEJXMVlDb1hDODVnQmFLd0NZeWJ2Q0JCRzdUaThZRnc?oc=5",
+  "published_at": "Sat, 13 Jun 2026 10:07:52 GMT",
+  "published_ts": 1781345272,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmhyZXRkYkxORlZfUVlWSUdZanNUSE11dkFpMVhJU0FEZDVEdEl2TGV2SGRBRmVNS180LUl0bkFYcXBqc2JKbUVpcGdKQVFGZ3VuR1hjMEJnMXNCc1hPbTh5OVN0d0FKQ3praGpCOUlYd0NGZWVleEJXMVlDb1hDODVnQmFLd0NZeWJ2Q0JCRzdUaThZRnc?oc=5\" target=\"_blank\">SK Hynix: To Complete an ADR Listing on NASDAQ in August?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is expected to complete its ADR (American Depositary Receipt) listing on NASDAQ in August. This is a concrete, officially announced corporate action that will improve the company's US market accessibility and is material to a fund holding SK Hynix as a major position."
+  },
+  "buffered_ts": 1781348325.2822602
+ },
+ {
+  "id": "28d7ccd36330e0d06527ef3cb106c208dec33db6",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "Informed sources: SK Hynix prefers to choose a listing on NASDAQ - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0VpZzE2ZDluYUl5UkZscFZ4Z0NoYlZrVzN2Ujl6UmJzMzJwa0lpLWw4eThJN00xS3ZvdkZ0a2JzZXpKTFZiLVBuVjc5RU1DVmNMcE9SN3RpNVBya1I1WHQ1WEhfdURZWmt5YUw4SXRDc1Y2WVA4R0w2Vm5ONnNkMlYwVUVwdGxMOFN0aUtZZkp5cjdibE11YUxHQmstV0VsN0xDVnc0OUhOX2FkcU1kczd5eGhxYkF1Ul9sLW5R?oc=5",
+  "published_at": "Sat, 13 Jun 2026 09:45:50 GMT",
+  "published_ts": 1781343950,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0VpZzE2ZDluYUl5UkZscFZ4Z0NoYlZrVzN2Ujl6UmJzMzJwa0lpLWw4eThJN00xS3ZvdkZ0a2JzZXpKTFZiLVBuVjc5RU1DVmNMcE9SN3RpNVBya1I1WHQ1WEhfdURZWmt5YUw4SXRDc1Y2WVA4R0w2Vm5ONnNkMlYwVUVwdGxMOFN0aUtZZkp5cjdibE11YUxHQmstV0VsN0xDVnc0OUhOX2FkcU1kczd5eGhxYkF1Ul9sLW5R?oc=5\" target=\"_blank\">Informed sources: SK Hynix prefers to choose a listing on NASDAQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is reported by informed sources to prefer a NASDAQ listing. This is a significant corporate development for the company but remains at the rumor/preference stage rather than a confirmed announcement, making it material but not yet a concrete event."
+  },
+  "buffered_ts": 1781348325.2822602
  }
 ]
