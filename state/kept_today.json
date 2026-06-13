@@ -100,5 +100,22 @@
    "summary": "Seagate (STX), a DRAM ETF holding, saw its stock rise as analysts raised AI-driven price targets. While the stock move is real, the story attributes it to analyst target changes (opinion/forecast) rather than a concrete business event, earnings beat, or official guidance change. This is analyst sentiment and prediction, not a settled market catalyst."
   },
   "buffered_ts": 1781367363.821098
+ },
+ {
+  "id": "85a5dddafa246a8510ca3ce8f6ac227efc8f1f19",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix to list on Nasdaq in August in $14B push - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDZQYzJTbngzd01qeER3TVF5STItaTd4eTFEaVpIallIWk90d3FJSWlRc21HTW55LWpUMWxOU1pEUDZrOVNEbWdmV05rcmhmcTB5elRFeVl3c2oxU09WeWJJNE1CaUtBc0hFTVNsdWJMLTVJaVlQUzFkS0d0eHVoUHBnYXlKYTJuWFByX01EZUZFWkpjTDFJWjZwX3A2UXNLQlVWUlFRcjFwNE1DblJ6bkRONFhaOTd4UWlCOHVmN3RCSFJ1WjlhOGNGVXZxOG84VlRjMkxma3dyNEppU0tRZzU5cXg?oc=5",
+  "published_at": "Fri, 12 Jun 2026 12:15:34 GMT",
+  "published_ts": 1781266534,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDZQYzJTbngzd01qeER3TVF5STItaTd4eTFEaVpIallIWk90d3FJSWlRc21HTW55LWpUMWxOU1pEUDZrOVNEbWdmV05rcmhmcTB5elRFeVl3c2oxU09WeWJJNE1CaUtBc0hFTVNsdWJMLTVJaVlQUzFkS0d0eHVoUHBnYXlKYTJuWFByX01EZUZFWkpjTDFJWjZwX3A2UXNLQlVWUlFRcjFwNE1DblJ6bkRONFhaOTd4UWlCOHVmN3RCSFJ1WjlhOGNGVXZxOG84VlRjMkxma3dyNEppU0tRZzU5cXg?oc=5\" target=\"_blank\">SK Hynix to list on Nasdaq in August in $14B push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a Nasdaq listing in August as part of a $14B capital push. This is a concrete, officially announced corporate action by a major DRAM ETF holding that will materially affect its liquidity, trading profile, and capital structure."
+  },
+  "buffered_ts": 1781373165.4916368
  }
 ]
