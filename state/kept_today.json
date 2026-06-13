@@ -1,1 +1,19 @@
-[]
+[
+ {
+  "id": "a86ad471855f3a90e008d03b12e76caca6828209",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "AMD Upgrade, SK Hynix Nasdaq Plan Push AI Chip Makers Higher - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ254VkZNQ2hzWTNiaHlQUmlIcnI0YVBTV3Nqa3hYV1hveXlieTZ3S29JV0xCS0xoUzhfelB6ZjlpeUVJTlByXzhFblp2RlFiUk93WU83c3NSQmU3TElCVnUtNWJPZzc4VUpLMTdSYnVRZk1kemF4bFl5YVhOcnZzVTV6ekJYQVk?oc=5",
+  "published_at": "Sat, 13 Jun 2026 12:08:40 GMT",
+  "published_ts": 1781352520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ254VkZNQ2hzWTNiaHlQUmlIcnI0YVBTV3Nqa3hYV1hveXlieTZ3S29JV0xCS0xoUzhfelB6ZjlpeUVJTlByXzhFblp2RlFiUk93WU83c3NSQmU3TElCVnUtNWJPZzc4VUpLMTdSYnVRZk1kemF4bFl5YVhOcnZzVTV6ekJYQVk?oc=5\" target=\"_blank\">AMD Upgrade, SK Hynix Nasdaq Plan Push AI Chip Makers Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Story mentions SK Hynix (a DRAM ETF holding) in context of AI chip makers and a Nasdaq listing plan, but lacks concrete details on the plan's status, timing, or material impact. Appears to be analysis/commentary rather than a confirmed event."
+  },
+  "buffered_ts": 1781355197.4209092
+ }
+]
