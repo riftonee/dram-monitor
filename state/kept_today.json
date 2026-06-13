@@ -15,5 +15,39 @@
    "summary": "Story mentions SK Hynix (a DRAM ETF holding) in context of AI chip makers and a Nasdaq listing plan, but lacks concrete details on the plan's status, timing, or material impact. Appears to be analysis/commentary rather than a confirmed event."
   },
   "buffered_ts": 1781355197.4209092
+ },
+ {
+  "id": "5644a65807491e05ed63fa822db448a5d43946ab",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Seagate Tech Shares Jump on Debt Deal and Outlook - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLYkFQMzRxVWF0ZG1fdVNWM2RHWnQ5UGZiLXdkYjU0TFY2eHd1SzRrWHQ0bmwySUxJb0hLaDgwY19JdFl5Ujl3Yk5mUjJxajNLbUFHZ01CX05ZeElIeXk5amNIYTNRUWltQkNLVUlpc3hKLW4xbUdpZmlLY3Rob0U1OHdOWlk4N054RjFlbHE1UQ?oc=5",
+  "published_at": "Fri, 12 Jun 2026 14:50:15 GMT",
+  "published_ts": 1781275815,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLYkFQMzRxVWF0ZG1fdVNWM2RHWnQ5UGZiLXdkYjU0TFY2eHd1SzRrWHQ0bmwySUxJb0hLaDgwY19JdFl5Ujl3Yk5mUjJxajNLbUFHZ01CX05ZeElIeXk5amNIYTNRUWltQkNLVUlpc3hKLW4xbUdpZmlLY3Rob0U1OHdOWlk4N054RjFlbHE1UQ?oc=5\" target=\"_blank\">Seagate Tech Shares Jump on Debt Deal and Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, shares jumped on a debt deal and updated outlook. The concrete announcement of debt restructuring and revised guidance constitutes a material, officially disclosed development affecting the holding."
+  },
+  "buffered_ts": 1781362681.4307258
+ },
+ {
+  "id": "7776ca5b9e9b0701550d8e5f5262276f8741d28c",
+  "source": "Samsung",
+  "topic": "holding",
+  "title": "Samsung Electronics Unveils Far-Reaching, Next-Generation Memory Solutions at Flash Memory Summit 2022 - Samsung",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ReFEwN1pMeTVvVUw5OGJlM3JpVVJjQ1dfeWtNdHkzTXlUZEdWTkZ4X0dtWTUwMlNhaER1NC1ncmV1eDFSQlpCVmNrMVdTN3JfREcyYk9RUHVOYW5xS3lsNlY0eUVYSEZoZFpDaFU5bTdWWDFH?oc=5",
+  "published_at": "Thu, 11 Jun 2026 19:39:41 GMT",
+  "published_ts": 1781206781,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ReFEwN1pMeTVvVUw5OGJlM3JpVVJjQ1dfeWtNdHkzTXlUZEdWTkZ4X0dtWTUwMlNhaER1NC1ncmV1eDFSQlpCVmNrMVdTN3JfREcyYk9RUHVOYW5xS3lsNlY0eUVYSEZoZFpDaFU5bTdWWDFH?oc=5\" target=\"_blank\">Samsung Electronics Unveils Far-Reaching, Next-Generation Memory Solutions at Flash Memory Summit 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung announced next-generation memory solutions at Flash Memory Summit 2022. While Samsung is a major DRAM/NAND holding, this is a product announcement without concrete specifications, timelines, pricing, or shipment details. Product roadmap announcements are industry-relevant but typically represent forward-looking statements rather than immediate market-moving events."
+  },
+  "buffered_ts": 1781362681.4307258
  }
 ]
