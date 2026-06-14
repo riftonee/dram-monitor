@@ -13,12 +13,44 @@ from __future__ import annotations
 import html as html_lib
 import json
 import os
+import re
+import sys
 import time
 import urllib.error
 import urllib.request
 
 RESEND_ENDPOINT = "https://api.resend.com/emails"
 _MAX_SEND_RETRIES = 3
+
+# Resend accepts "email@example.com" or "Name <email@example.com>". Validate the
+# bare address (or the part inside <...>) before sending — one malformed entry in
+# EMAIL_TO must never 422 the whole send and take down the daily brief.
+_EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
+_ANGLE_RE = re.compile(r"<([^>]+)>")
+
+
+def parse_recipients(to: str) -> list[str]:
+    """Split EMAIL_TO into a list of valid Resend recipients.
+
+    EMAIL_TO is meant to be comma-separated, but humans reach for semicolons and
+    newlines too, so accept all three as separators. Each resulting address is
+    validated; invalid entries are dropped with a warning rather than failing the
+    send — the brief must still reach the valid recipients (BRIEF.md: always send
+    the brief). Raises ValueError only if NOTHING valid remains."""
+    valid: list[str] = []
+    for raw in re.split(r"[,;\n]+", to):
+        addr = raw.strip()
+        if not addr:
+            continue
+        inner = _ANGLE_RE.search(addr)
+        check = inner.group(1).strip() if inner else addr
+        if _EMAIL_RE.match(check):
+            valid.append(addr)
+        else:
+            print(f"  ! skipping invalid EMAIL_TO recipient: {addr!r}", file=sys.stderr)
+    if not valid:
+        raise ValueError(f"no valid recipients in EMAIL_TO ({to!r})")
+    return valid
 
 
 def _wrap_html(inner: str) -> str:
@@ -48,9 +80,9 @@ def send_email(subject: str, body_html: str, *, to: str | None = None, sender: s
     to = to or os.environ["EMAIL_TO"]
     sender = sender or os.environ["EMAIL_FROM"]
 
-    # EMAIL_TO may be a single address or a comma-separated list; Resend's "to"
-    # field takes an array, so split and trim. A lone address yields a 1-item list.
-    recipients = [addr.strip() for addr in to.split(",") if addr.strip()]
+    # EMAIL_TO may be a single address or a separated list; Resend's "to" field
+    # takes an array. Validate here so one malformed entry can't 422 the brief.
+    recipients = parse_recipients(to)
 
     payload = json.dumps(
         {"from": sender, "to": recipients, "subject": subject, "html": _wrap_html(body_html)}
