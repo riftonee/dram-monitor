@@ -287,5 +287,90 @@
    "summary": "SK hynix added 2,152 employees, maintaining workforce above 100,000. Indicates company headcount investment and potentially capacity/expansion plans, but lacks concrete details on production targets, fab investments, or earnings impact."
   },
   "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "4410ce1314867bea973a98d9cb603c3b51c305c0",
+  "source": "Notebookcheck",
+  "topic": "holding",
+  "title": "SK Hynix: DRAM production capacity to triple by 2034, memory crunch still in play - Notebookcheck",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjRNNUM0WTZpWDBFUldISl81NmJPVEZyb1JobTdwaE9kM3V0VlE3b0x6dUstQms2S0NQZHNRYW1KTUJMSllua2ZGbDZwc1JiYnBZWW44VG9VN2JVcXRPS2hkMU1hWjVFbTlXNXUxdy10UElORFM2N2RwTmVTTUx2VWdCVmJoY211ODhBY2pseXU4UEJRRE94TkZhZW9ibzFlWEZadmRianBlV20wOGo0Smc2N21vNTBQSkFTNU5FSnR6UQ?oc=5",
+  "published_at": "Sun, 14 Jun 2026 08:50:00 GMT",
+  "published_ts": 1781427000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjRNNUM0WTZpWDBFUldISl81NmJPVEZyb1JobTdwaE9kM3V0VlE3b0x6dUstQms2S0NQZHNRYW1KTUJMSllua2ZGbDZwc1JiYnBZWW44VG9VN2JVcXRPS2hkMU1hWjVFbTlXNXUxdy10UElORFM2N2RwTmVTTUx2VWdCVmJoY211ODhBY2pseXU4UEJRRE94TkZhZW9ibzFlWEZadmRianBlV20wOGo0Smc2N21vNTBQSkFTNU5FSnR6UQ?oc=5\" target=\"_blank\">SK Hynix: DRAM production capacity to triple by 2034, memory crunch still in play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced plans to triple DRAM production capacity by 2034, a major official capacity expansion commitment that addresses the industry memory shortage. This is a concrete capital investment decision by a key fund holding with material implications for future supply and competitive positioning."
+  },
+  "buffered_ts": 1781432603.7661438
+ },
+ {
+  "id": "9fd468d3b57729005482e61d2622720954674183",
+  "source": "Pandaily",
+  "topic": "pricing",
+  "title": "Memory Price Surge Forces Smartphone Makers to Downgrade Entry-Level Specs - Pandaily",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjN2UGdrcHhhNmp5Q1hINzFpQjZMRTBwdkR0dnpfS3RFQVVGNUU3NWV2dzF5Sk02UXRGNkVLVWFDamI1MzRUMGlDMnpZZUZadzVTNlVLYkoyN2NOUVJnMGg1YVJmWU1XZ1lUTDZRV0VUbVEzUC1OSjVLRHJyWGpnMkg1UWo?oc=5",
+  "published_at": "Sun, 14 Jun 2026 08:25:17 GMT",
+  "published_ts": 1781425517,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjN2UGdrcHhhNmp5Q1hINzFpQjZMRTBwdkR0dnpfS3RFQVVGNUU3NWV2dzF5Sk02UXRGNkVLVWFDamI1MzRUMGlDMnpZZUZadzVTNlVLYkoyN2NOUVJnMGg1YVJmWU1XZ1lUTDZRV0VUbVEzUC1OSjVLRHJyWGpnMkg1UWo?oc=5\" target=\"_blank\">Memory Price Surge Forces Smartphone Makers to Downgrade Entry-Level Specs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pandaily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Memory price surge is forcing smartphone manufacturers to downgrade entry-level device specifications, indicating a concrete pricing impact on end-market demand and OEM purchasing decisions."
+  },
+  "buffered_ts": 1781432603.7661438
+ },
+ {
+  "id": "afa8701d9c3645af770da1e41717f3f2832067ea",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix, and Micron Are Fighting for AI Memory Dominance. Here's How You Can Buy All Three for About $65. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHhXTUVMSEVMN1dOTkh5Smt6YTEyc2E0WExCc3hwX2VfVWtYVXBfajI2cm5MSDZaMHFSRDNDc205eldGRHN1YVBoWXI1VTQ0R3NiT2k1WUN3LWk2ZE8yQ292YWE3Ti1xVkJzX3I1NGhpSlMtd0YxVjJIUkpUSUlSZzBMajhiX1Btb0RSc2xwZGxHeG9HMzdUbA?oc=5",
+  "published_at": "Sun, 14 Jun 2026 09:39:26 GMT",
+  "published_ts": 1781429966,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHhXTUVMSEVMN1dOTkh5Smt6YTEyc2E0WExCc3hwX2VfVWtYVXBfajI2cm5MSDZaMHFSRDNDc205eldGRHN1YVBoWXI1VTQ0R3NiT2k1WUN3LWk2ZE8yQ292YWE3Ti1xVkJzX3I1NGhpSlMtd0YxVjJIUkpUSUlSZzBMajhiX1Btb0RSc2xwZGxHeG9HMzdUbA?oc=5\" target=\"_blank\">Samsung, SK Hynix, and Micron Are Fighting for AI Memory Dominance. Here's How You Can Buy All Three for About $65.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool article discussing Samsung, SK Hynix, and Micron's competition in AI memory and presenting them as investment opportunities. Mentions all three major DRAM fund holdings but is investment commentary and valuation analysis rather than reporting a concrete event or hard data point affecting the memory cycle."
+  },
+  "buffered_ts": 1781432603.7661438
+ },
+ {
+  "id": "b54ca088e7519bb498498d43ab9c91942b8ccfdc",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Up 600% in 2026, Is Sandisk Stock Still a Buy? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmhMc1p0ci1yVzc2ZWUzbmUyTTBXR1dKcnptQ1psYUYySjNZSkc5ckwtUVFNMk95dTVkeXhpWmdJOGNOTmd4NGV5U1A0cW0wb29BLXp2ZVlXMFN3dzRxMWlrekhGb3lIZVhvZzByN21kWGN2em0zNXdTUjlPeGJQNkZzMHdad291MS0xYmRpSQ?oc=5",
+  "published_at": "Sun, 14 Jun 2026 08:34:35 GMT",
+  "published_ts": 1781426075,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmhMc1p0ci1yVzc2ZWUzbmUyTTBXR1dKcnptQ1psYUYySjNZSkc5ckwtUVFNMk95dTVkeXhpWmdJOGNOTmd4NGV5U1A0cW0wb29BLXp2ZVlXMFN3dzRxMWlrekhGb3lIZVhvZzByN21kWGN2em0zNXdTUjlPeGJQNkZzMHdad291MS0xYmRpSQ?oc=5\" target=\"_blank\">Up 600% in 2026, Is Sandisk Stock Still a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "The Motley Fool offers investment analysis and opinion on SanDisk (SNDK), a memory-semiconductor holding in DRAM ETF, discussing whether the stock remains a buy after a significant 2026 rally. This is analyst commentary and valuation opinion rather than a concrete event or disclosed catalyst."
+  },
+  "buffered_ts": 1781432603.7661438
+ },
+ {
+  "id": "0b99dfac54aca23217bb698ca764b08d5c2c6b44",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix, and Micron Are Fighting for AI Memory Dominance. Here's How You Can Buy All Three for About $65. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDNPN0hhWXBHcGNkUkY0M3NIN1BvQmpza3NNLWxPLXFFaHNsRlZxakVhQ05mS0Y5cGJyMFZTVEFCMUE5b0Z4QUlrSUxSSXUyMGYwZ3BHMnhKVHpFMURHbGhYN0djb2o4aDBZSXZKb0QxNnYtN2E4dDlvSVZqYWd5VkQtQmNBRGM4VW43dy1HajFrbERYbF9ZZkNIOWhDdw?oc=5",
+  "published_at": "Sun, 14 Jun 2026 09:55:00 GMT",
+  "published_ts": 1781430900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdDNPN0hhWXBHcGNkUkY0M3NIN1BvQmpza3NNLWxPLXFFaHNsRlZxakVhQ05mS0Y5cGJyMFZTVEFCMUE5b0Z4QUlrSUxSSXUyMGYwZ3BHMnhKVHpFMURHbGhYN0djb2o4aDBZSXZKb0QxNnYtN2E4dDlvSVZqYWd5VkQtQmNBRGM4VW43dy1HajFrbERYbF9ZZkNIOWhDdw?oc=5\" target=\"_blank\">Samsung, SK Hynix, and Micron Are Fighting for AI Memory Dominance. Here's How You Can Buy All Three for About $65.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance article discussing Samsung, SK hynix, and Micron competing in AI memory markets and providing a buying guide for investors. While it mentions all three major DRAM fund holdings, it appears to be a general investment piece rather than reporting concrete developments in the memory cycle, production capacity, or pricing."
+  },
+  "buffered_ts": 1781432603.7661438
  }
 ]
