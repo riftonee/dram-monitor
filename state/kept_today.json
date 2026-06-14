@@ -15,5 +15,22 @@
    "summary": "SanDisk stock rising with analyst commentary dismissing supply concerns. Stock price movement reported without disclosed catalyst; analyst opinion on supply outlook is soft rather than a confirmed event or hard number."
   },
   "buffered_ts": 1781470098.457397
+ },
+ {
+  "id": "df40936071905cdbeeb638cfc027ca543aebdcea",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK hynix Consider First Packaging Plants in Honam - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qZ25Vd2hRcnYyakZHdjdUb1d5Q1RDTU5TbGVILTZxckVUVkp2N1h6ZDR1aVZjYVVZOGVXTUgxZEEyRHJaX3VMT2ZOV2haZ0JtVUljYXBZZk44b3dOZk5fQnYzcEZ3ZGM?oc=5",
+  "published_at": "Sun, 14 Jun 2026 22:10:28 GMT",
+  "published_ts": 1781475028,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qZ25Vd2hRcnYyakZHdjdUb1d5Q1RDTU5TbGVILTZxckVUVkp2N1h6ZDR1aVZjYVVZOGVXTUgxZEEyRHJaX3VMT2ZOV2haZ0JtVUljYXBZZk44b3dOZk5fQnYzcEZ3ZGM?oc=5\" target=\"_blank\">Samsung Electronics, SK hynix Consider First Packaging Plants in Honam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK hynix are considering establishing their first semiconductor packaging plants in South Korea's Honam region. This is exploratory discussion of a potential capacity expansion that could support memory production, but no concrete decision, timeline, or investment commitment has been announced yet."
+  },
+  "buffered_ts": 1781480730.1220715
  }
 ]
