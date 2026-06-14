@@ -168,5 +168,124 @@
    "summary": "Foreign investors sold approximately 20 trillion won (~$15B) in Korean chip stocks. While the headline mentions leverage trading products being traded both directions, the core story is a significant outflow from Korean semiconductor holdings, likely including SK hynix and Samsung's memory division—both key DRAM holdings. This reflects investor sentiment shifts but lacks a concrete catalyst (earnings, guidance, supply shock) and is primarily a price/flow observation rather than a fundamental event. Impact is 3 rather than 4 because the story reports flows and sentiment without disclosed operational or supply-side news driving the move."
   },
   "buffered_ts": 1781401355.8447495
+ },
+ {
+  "id": "42625dc1e818651ab8c0a48f277d09913181bebc",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "The race to deliver HBM4E samples has begun, with SK hynix potentially moving ahead to June, while Samsung has already taken the lead. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR20zLWtTQnpaUWRobVlidUFEcGhvdTJ3V09SZXVsQTM5OTFHZ04zR1E3b1J3MmtfczRXV0phdS1wNkdpdW5TZWM2QWtTTWNVcEUyS1dPMk5yaHdlZkhVR1RxSndtd1piYlBtM09UX192S09ESHNlenNtc1hranVrNVpFdkczYXh0R3ZmV241QU5WOGJVcVA0?oc=5",
+  "published_at": "Sun, 14 Jun 2026 04:05:55 GMT",
+  "published_ts": 1781409955,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQR20zLWtTQnpaUWRobVlidUFEcGhvdTJ3V09SZXVsQTM5OTFHZ04zR1E3b1J3MmtfczRXV0phdS1wNkdpdW5TZWM2QWtTTWNVcEUyS1dPMk5yaHdlZkhVR1RxSndtd1piYlBtM09UX192S09ESHNlenNtc1hranVrNVpFdkczYXh0R3ZmV241QU5WOGJVcVA0?oc=5\" target=\"_blank\">The race to deliver HBM4E samples has begun, with SK hynix potentially moving ahead to June, while Samsung has already taken the lead.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung are competing to deliver HBM4E samples, with Samsung reportedly ahead and SK hynix targeting June. This is relevant development in high-bandwidth memory competition among fund holdings, but lacks concrete confirmation of actual sample shipments or customer wins."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "1216a11989a8664f928eb24094de7eeb6497d55b",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Daily Brief ECM: SK Hynix: To Complete an ADR Listing on NASDAQ in August? and more - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFZrT25sekZGaUEtWFRvbnB5b0RBMFloWGQ0OERKX3VBdFlpbE9NYk1xNmp0QzMzY1VIbXFuVlJJTXR4VVJLejl6U3VXY3VESTdMM1Z2bGJvRnh4T1AyZUhsYXoyVjRkbkJYbS12WmZsMUlpQ1JhZHVXVkxsMmFFaERsQ3prVkRwM2txTEFxMVVYcGZTRmZXNTA1aWY1VElYSjNLdHRlZWJEdmNaXzdfTzJrZzM3SzVoY1hLYjFJbm9yZExW?oc=5",
+  "published_at": "Sun, 14 Jun 2026 02:00:17 GMT",
+  "published_ts": 1781402417,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFZrT25sekZGaUEtWFRvbnB5b0RBMFloWGQ0OERKX3VBdFlpbE9NYk1xNmp0QzMzY1VIbXFuVlJJTXR4VVJLejl6U3VXY3VESTdMM1Z2bGJvRnh4T1AyZUhsYXoyVjRkbkJYbS12WmZsMUlpQ1JhZHVXVkxsMmFFaERsQ3prVkRwM2txTEFxMVVYcGZTRmZXNTA1aWY1VElYSjNLdHRlZWJEdmNaXzdfTzJrZzM3SzVoY1hLYjFJbm9yZExW?oc=5\" target=\"_blank\">Daily Brief ECM: SK Hynix: To Complete an ADR Listing on NASDAQ in August? and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly planning to complete an ADR (American Depositary Receipt) listing on NASDAQ in August. This is a significant corporate development for a major DRAM ETF holding, but the headline indicates uncertainty ('To Complete... in August?') rather than a confirmed event, making it soft news—analysis or reported plan rather than an official announcement."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "0649c954f9d5e03d518d77e3e0e83394d7c42f8f",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Foreign investors dump Samsung, SK hynix shares, chase leveraged trades in Korea - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmlrZ25yTm84RHJFaDZFcEVxWXlFbk9yRUJ0cDI1UjZjeThMa2IzTUFmajl3N0M4ZGVKNWtRakRUS2k1dzhpSThKLVhqWk41T0dsMG94XzduTWJNYUFkd0d0QmVaX1ZxbFFkNXpWbFZ4aE91MkpieEVEWEF5ZHVxStIBlAFBVV95cUxPaEp4S25hYmkzTXhEZEV5YXFCbXprZGJScnBPVlNVcFJOU2VhNHhsNWhkZW1NOVp6TWNGR2ZnX3E2NW9USTV1TmNGalE3MHlleGdZQ2RzSXUxc3ZlVm5BT25aRTFrWXo1c1ZvSEFfclN1SEtlcVRHazVUbnFqMFp2a2hjZnZUUTFraF81REJyU0wwYUlN?oc=5",
+  "published_at": "Sun, 14 Jun 2026 01:56:00 GMT",
+  "published_ts": 1781402160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxORmlrZ25yTm84RHJFaDZFcEVxWXlFbk9yRUJ0cDI1UjZjeThMa2IzTUFmajl3N0M4ZGVKNWtRakRUS2k1dzhpSThKLVhqWk41T0dsMG94XzduTWJNYUFkd0d0QmVaX1ZxbFFkNXpWbFZ4aE91MkpieEVEWEF5ZHVxStIBlAFBVV95cUxPaEp4S25hYmkzTXhEZEV5YXFCbXprZGJScnBPVlNVcFJOU2VhNHhsNWhkZW1NOVp6TWNGR2ZnX3E2NW9USTV1TmNGalE3MHlleGdZQ2RzSXUxc3ZlVm5BT25aRTFrWXo1c1ZvSEFfclN1SEtlcVRHazVUbnFqMFp2a2hjZnZUUTFraF81REJyU0wwYUlN?oc=5\" target=\"_blank\">Foreign investors dump Samsung, SK hynix shares, chase leveraged trades in Korea - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Foreign investors are selling Samsung and SK hynix shares and moving into leveraged trades in Korea. This represents actual portfolio activity affecting two major DRAM fund holdings, but lacks hard numbers on the scale of selling or concrete catalysts beyond market sentiment and strategy shifts."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "7802ae2100688f8b451994c44e565e82df23ce50",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Boom May Lift South Korea’s Tax Windfall to $14.5 Billion - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SzhFYWVuaEJSNTRZbEJsd1RQeV95NmxZY0NwYm5vU0NaWnJ0eXJRZFdTdkZMRGZkRkZlOUVYNmlWZVFhUkF6aEpPZmt0TzY1TW9hWQ?oc=5",
+  "published_at": "Sun, 14 Jun 2026 06:23:16 GMT",
+  "published_ts": 1781418196,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SzhFYWVuaEJSNTRZbEJsd1RQeV95NmxZY0NwYm5vU0NaWnJ0eXJRZFdTdkZMRGZkRkZlOUVYNmlWZVFhUkF6aEpPZmt0TzY1TW9hWQ?oc=5\" target=\"_blank\">Samsung, SK Hynix Boom May Lift South Korea’s Tax Windfall to $14.5 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix profitability surge may increase South Korean tax revenue to $14.5B. Reflects positive earnings outlook for two major DRAM fund holdings, but the story is tax-focused speculation rather than a concrete earnings announcement or guidance change from the companies themselves."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "21813b2d72604a630ccb906a1f31ed829140f917",
+  "source": "KED Global",
+  "topic": "holding",
+  "title": "Samsung mulls chip packing plant on Saemangeum, following moves by Hyundai Motor, SK, LG - KED Global",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUdldMY0NxTVR6RDJkeUJIcTE2WHdsQVJFWnlRRVBfVUJxUXV0aXJoT2lpY3NodDg4MUZWaHU2N3RxeDdkZDl2enRhcEYtUUh2MWV4Qmh0THpuRUtWSFlVRDRZYm44bnAycUd1alM3T293MTBxZTk4?oc=5",
+  "published_at": "Sun, 14 Jun 2026 06:32:47 GMT",
+  "published_ts": 1781418767,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBUdldMY0NxTVR6RDJkeUJIcTE2WHdsQVJFWnlRRVBfVUJxUXV0aXJoT2lpY3NodDg4MUZWaHU2N3RxeDdkZDl2enRhcEYtUUh2MWV4Qmh0THpuRUtWSFlVRDRZYm44bnAycUd1alM3T293MTBxZTk4?oc=5\" target=\"_blank\">Samsung mulls chip packing plant on Saemangeum, following moves by Hyundai Motor, SK, LG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is considering building a chip packing plant at Saemangeum in South Korea, following similar infrastructure moves by competitors SK and LG. This represents exploratory planning rather than a confirmed investment decision, making it material to the holding but speculative in nature."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "d3175ce143632f750843b643bb84dbab95d3c9c7",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "SK hynix pursues August ADR to cut Korea discount and boost valuation - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYbDdOUGpTeVZQRWJfaVJtNXNaYUtrMEZPOXpFVGMwRzBfaVc0UVhiRWZfX24yQXdxdkNMbGRrUXJZdWxzam9uYmN0R1ZBSFBZTzJrazNMLUR6UVBLZ1dxdnRTVk56QVVtd3BGMC16dm9kWnNVOGlBbVln0gGOAUFVX3lxTFBZYTZ5YXFlX1UxUFV0S1QweVhaeFQ1eDRQSm5VRkhiaVdrZ25CMlVQMDRycnpmcW9GcWNYcjRjZDNGUnZUVnpvZzNNUWY0eEdoR0kzeHpOcDVfSGxmQjQ3NFZBQm41ZHBsUjVTSGlXMkpaekNUWHQ2VjFtNXRiVUlPU3laOFVEdldiLUs3VFE?oc=5",
+  "published_at": "Sun, 14 Jun 2026 06:16:00 GMT",
+  "published_ts": 1781417760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYbDdOUGpTeVZQRWJfaVJtNXNaYUtrMEZPOXpFVGMwRzBfaVc0UVhiRWZfX24yQXdxdkNMbGRrUXJZdWxzam9uYmN0R1ZBSFBZTzJrazNMLUR6UVBLZ1dxdnRTVk56QVVtd3BGMC16dm9kWnNVOGlBbVln0gGOAUFVX3lxTFBZYTZ5YXFlX1UxUFV0S1QweVhaeFQ1eDRQSm5VRkhiaVdrZ25CMlVQMDRycnpmcW9GcWNYcjRjZDNGUnZUVnpvZzNNUWY0eEdoR0kzeHpOcDVfSGxmQjQ3NFZBQm41ZHBsUjVTSGlXMkpaekNUWHQ2VjFtNXRiVUlPU3laOFVEdldiLUs3VFE?oc=5\" target=\"_blank\">SK hynix pursues August ADR to cut Korea discount and boost valuation - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is pursuing an American Depositary Receipt (ADR) listing in August to reduce the Korea-discount valuation gap and boost its stock valuation. This is a strategic corporate action by a major fund holding, but it remains in pursuit/planning stage rather than a confirmed, executed event."
+  },
+  "buffered_ts": 1781419045.4281259
+ },
+ {
+  "id": "915b201b6d52f8d7f35a000932247d28e9cd7380",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Adds 2,152 Employees as Chip Workforce Holds Above 100,000 - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDcwS0c5am9NeFBTMnpDUmYzNEpjaVdVWE5FWG8xUlo1M0FRdFRjWDNZQWVSdFN2TS1Ia3RYZWtVd0ktbGt3aEV2bThWVDJvZkVsWDVUY0JfM2RLeGF4NWd5VFlodjh2Vmhqdzk5ZjVJYzlaRGN0eEFQZldyb3VmU1d3bjZLZGpXNEQ1WmJqV2plNTkyX3kwQVAtTHoyNzFNNkE?oc=5",
+  "published_at": "Sun, 14 Jun 2026 01:43:25 GMT",
+  "published_ts": 1781401405,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDcwS0c5am9NeFBTMnpDUmYzNEpjaVdVWE5FWG8xUlo1M0FRdFRjWDNZQWVSdFN2TS1Ia3RYZWtVd0ktbGt3aEV2bThWVDJvZkVsWDVUY0JfM2RLeGF4NWd5VFlodjh2Vmhqdzk5ZjVJYzlaRGN0eEFQZldyb3VmU1d3bjZLZGpXNEQ1WmJqV2plNTkyX3kwQVAtTHoyNzFNNkE?oc=5\" target=\"_blank\">SK hynix Adds 2,152 Employees as Chip Workforce Holds Above 100,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix added 2,152 employees, maintaining workforce above 100,000. Indicates company headcount investment and potentially capacity/expansion plans, but lacks concrete details on production targets, fab investments, or earnings impact."
+  },
+  "buffered_ts": 1781419045.4281259
  }
 ]
