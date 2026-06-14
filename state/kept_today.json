@@ -389,5 +389,90 @@
    "summary": "SK hynix expanded its workforce by 2,152 employees, maintaining a total chip workforce above 100,000. This signals continued investment in production capacity and operational expansion, though without concrete details on specific facility investments or production targets, it represents a soft development rather than a confirmed event."
   },
   "buffered_ts": 1781447981.1539943
+ },
+ {
+  "id": "51b4d08d12ed80427ee3adbad284a40b86205670",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung HBM4E Rollout Highlights AI Memory Push And Investor Watchpoints - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaG1JVUVKZDhnVlhTUjhhSHBmNGh2UWstWk1BR205LTk2OTVuNGtBSGpGOUdGRUc0MEZ5dFlidHprbHlwbHFhaV83Nkp5WVZydjZTdDZYRGFVNm5BZzg3LXJhMVlHeUlJbEVVX3dhYS1GbWJOMUpyUzh3cjR4azl4dWdBd2J3c09lb0JIUS1kOHRTTm05OWJlQWlqOEhObnNaaFE?oc=5",
+  "published_at": "Sun, 14 Jun 2026 14:11:34 GMT",
+  "published_ts": 1781446294,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaG1JVUVKZDhnVlhTUjhhSHBmNGh2UWstWk1BR205LTk2OTVuNGtBSGpGOUdGRUc0MEZ5dFlidHprbHlwbHFhaV83Nkp5WVZydjZTdDZYRGFVNm5BZzg3LXJhMVlHeUlJbEVVX3dhYS1GbWJOMUpyUzh3cjR4azl4dWdBd2J3c09lb0JIUS1kOHRTTm05OWJlQWlqOEhObnNaaFE?oc=5\" target=\"_blank\">Samsung HBM4E Rollout Highlights AI Memory Push And Investor Watchpoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis of Samsung's HBM4E rollout and its role in AI memory adoption. Covers Samsung's strategic positioning in high-bandwidth memory but appears to be market analysis and investor commentary rather than reporting a confirmed product launch or shipment event."
+  },
+  "buffered_ts": 1781453987.597437
+ },
+ {
+  "id": "90d2d219b11b84f1d3299418876c3281a2bb3c23",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Google Engages Samsung for Icefish TPU Component - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSm1LSmx4aWFQRE16WjFib3JEMERWREVUR1JSRHl0MmV4eGtZcWpJbk5tNnlkMFgySnd4VERvdXdCTXQtbE15OVQzeDBsT0c4MHFNLU9hLU1VaWdOM0F1bzdjT0R0R0FESTVEYTJTWlZVajc1QTZEZ0pqMmVTTkhubG1aTThHM1pYNkZPVzltb0hRRG5f?oc=5",
+  "published_at": "Sun, 14 Jun 2026 14:44:58 GMT",
+  "published_ts": 1781448298,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSm1LSmx4aWFQRE16WjFib3JEMERWREVUR1JSRHl0MmV4eGtZcWpJbk5tNnlkMFgySnd4VERvdXdCTXQtbE15OVQzeDBsT0c4MHFNLU9hLU1VaWdOM0F1bzdjT0R0R0FESTVEYTJTWlZVajc1QTZEZ0pqMmVTTkhubG1aTThHM1pYNkZPVzltb0hRRG5f?oc=5\" target=\"_blank\">Google Engages Samsung for Icefish TPU Component</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Google has engaged Samsung for an Icefish TPU component. This suggests Samsung's semiconductor division may be supplying custom chips for Google's AI infrastructure, which could drive memory demand. However, the report lacks concrete details on production volumes, timing, or financial impact, and the exact nature of Samsung's role (packaging, memory supply, or other component) is unclear from the headline alone."
+  },
+  "buffered_ts": 1781453987.597437
+ },
+ {
+  "id": "22c23b84963e9f1ef0b08558868ceb7ce2f4ac13",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why Is Seagate (STX) Stock Rocketing Higher Today - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2xnYVNldEdBeHFlWDMyUnZfYlp2c29qNDN0UWhSWXAyYzJzWGhfSkdpQkRHUzRiU25QNGV6UWtvMThhSVdVRVJULS1HRXl0ZFZKUXZjWHRpZWgxUGpzLU1WaDB6eDJ5Y2ozc0RRNTVONXdtcEdMS1FhR0twYm00LVpjc01JSjRwYnhmQnd2ZGg5cFNUeU1zc2Jaa3M?oc=5",
+  "published_at": "Fri, 12 Jun 2026 21:09:20 GMT",
+  "published_ts": 1781298560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2xnYVNldEdBeHFlWDMyUnZfYlp2c29qNDN0UWhSWXAyYzJzWGhfSkdpQkRHUzRiU25QNGV6UWtvMThhSVdVRVJULS1HRXl0ZFZKUXZjWHRpZWgxUGpzLU1WaDB6eDJ5Y2ozc0RRNTVONXdtcEdMS1FhR0twYm00LVpjc01JSjRwYnhmQnd2ZGg5cFNUeU1zc2Jaa3M?oc=5\" target=\"_blank\">Why Is Seagate (STX) Stock Rocketing Higher Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX) stock experienced a significant intraday price movement. The headline indicates a stock move but the snippet does not provide a disclosed catalyst or concrete event explanation, making this a price-move story without a stated cause."
+  },
+  "buffered_ts": 1781453987.597437
+ },
+ {
+  "id": "a8b0c464707071b01f9f8f3a1fdf24ad10823677",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "Micron’s Scarcity Premium Faces Its First Real Test on June 24: Are 81% Margins Sustainable? - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzdNS1ZwS00xV2hUS0NHRmcyeDFSUmJYXzdscTM3Tk91b1BEVm5GNE5vSG91dUF6MEFPVDZROGgxX3Z0eW1EOEJaMlloRi1wc0pDemV1ZHRmSnFRejNYeF92UkgzUzRYU2hDZkxsdnBlaWpud1ByT29WeFZYNFFJSkwta0FpcUlxOHRway11LXpxbkVLN3NSQ3VjcW9YNG1vblBjSkI4YUZoQUdCUXhBSVFsN0JwNVV3WERTdlpKTGFTUzUxZF84?oc=5",
+  "published_at": "Sun, 14 Jun 2026 08:05:43 GMT",
+  "published_ts": 1781424343,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzdNS1ZwS00xV2hUS0NHRmcyeDFSUmJYXzdscTM3Tk91b1BEVm5GNE5vSG91dUF6MEFPVDZROGgxX3Z0eW1EOEJaMlloRi1wc0pDemV1ZHRmSnFRejNYeF92UkgzUzRYU2hDZkxsdnBlaWpud1ByT29WeFZYNFFJSkwta0FpcUlxOHRway11LXpxbkVLN3NSQ3VjcW9YNG1vblBjSkI4YUZoQUdCUXhBSVFsN0JwNVV3WERTdlpKTGFTUzUxZF84?oc=5\" target=\"_blank\">Micron’s Scarcity Premium Faces Its First Real Test on June 24: Are 81% Margins Sustainable?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis of Micron's gross margins (81%) ahead of June 24 earnings, questioning sustainability of scarcity premium in memory markets. Opinion-driven outlook rather than confirmed event or hard data."
+  },
+  "buffered_ts": 1781453987.597437
+ },
+ {
+  "id": "9b17acbc1d768c2e48987569febc901167962ea0",
+  "source": "The Eastern Herald",
+  "topic": "industry",
+  "title": "Micron’s Real Risk Isn’t the Stock Price. It’s the Number No One Is Watching. - The Eastern Herald",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUg3SDZFWTBFOXctSUM5eVhyVVBCT2ZXV2V4NHI4Qm5sbkRNX05ja1pkUGhZUWl5WWZiU1hTSVdsUko3Ny0za19kVFdyRlp5TnpEZENwU0FPVDF5NGVNcnBYdkZESlcxcHdlU2YwQ2dxdjhXc0NIVk5KWGFpVVVscThvbkgxVUVxSEl0RnRrV3pMUmxULXdn?oc=5",
+  "published_at": "Sun, 14 Jun 2026 11:55:07 GMT",
+  "published_ts": 1781438107,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUg3SDZFWTBFOXctSUM5eVhyVVBCT2ZXV2V4NHI4Qm5sbkRNX05ja1pkUGhZUWl5WWZiU1hTSVdsUko3Ny0za19kVFdyRlp5TnpEZENwU0FPVDF5NGVNcnBYdkZESlcxcHdlU2YwQ2dxdjhXc0NIVk5KWGFpVVVscThvbkgxVUVxSEl0RnRrV3pMUmxULXdn?oc=5\" target=\"_blank\">Micron’s Real Risk Isn’t the Stock Price. It’s the Number No One Is Watching.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Eastern Herald</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece on Micron discussing an unnamed key metric beyond stock price that represents a purported risk to the company. The vague framing and lack of concrete details suggest this is analysis or commentary rather than reporting a specific event or hard number."
+  },
+  "buffered_ts": 1781453987.597437
  }
 ]
