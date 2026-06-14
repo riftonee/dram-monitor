@@ -134,5 +134,39 @@
    "summary": "Sea gate (STX), a DRAM fund hold ing, raised AI stor age grow th tar get s and redeemed deb t, driv ing a 9.9% stock price incre ase. Thi s is a concr ete, offi cia lly ann ounce d guid anc e chan ge with an actual, stab le d stock move ."
   },
   "buffered_ts": 1781378440.4692032
+ },
+ {
+  "id": "6cdd0618b813c1b7980f8fbdb17962c954efd837",
+  "source": "Samsung",
+  "topic": "holding",
+  "title": "Samsung Develops Industry’s First 3rd-generation 10nm-Class DRAM for Premium Memory Applications - Samsung",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2dDREZUFjc2pZMGN5Z1k1OXZKb2RVMGZWbGNvR2VfWXBqZ1VVMlI2eEMtYVlCYV9SSEZYeWJuTENOYnBlUWEtSDBEaWNyTHZ0dUhLQzh4b3hXa0dPdjdTemJuVXBVOHFjd2lBOThzR1BpLURa?oc=5",
+  "published_at": "Fri, 12 Jun 2026 09:50:59 GMT",
+  "published_ts": 1781257859,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB2dDREZUFjc2pZMGN5Z1k1OXZKb2RVMGZWbGNvR2VfWXBqZ1VVMlI2eEMtYVlCYV9SSEZYeWJuTENOYnBlUWEtSDBEaWNyTHZ0dUhLQzh4b3hXa0dPdjdTemJuVXBVOHFjd2lBOThzR1BpLURa?oc=5\" target=\"_blank\">Samsung Develops Industry’s First 3rd-generation 10nm-Class DRAM for Premium Memory Applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung has developed the industry's first 3rd-generation 10nm-class DRAM for premium memory applications, representing a concrete technological advancement in memory node progression that strengthens its competitive position and manufacturing capabilities in the memory cycle."
+  },
+  "buffered_ts": 1781401355.8447495
+ },
+ {
+  "id": "b0d22330fabd352678234ca2d65aa79ee40de1ab",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Foreigners Dump 20 Trillion Won in Chip Stocks but Trade Leverage Products Both Ways - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2VzenctaEpFbEszOThoMEF2dzZPMEVWT1ItRTl0VlpKaGZEZmJXSlRGaDFINEE1Q1NEQ2xucTI4cV9nTzBLV1JlWnZoX3hPRmttbDRuV3ZHcm1QTi1aS0VpdlNDQ01GQjZYRDRfSE5rSHhtWE4tdzVlMEM2ekIyUTVydXJidm9iZ2hhMHh6VTdsYWxtakYyRERDLW1XUXM?oc=5",
+  "published_at": "Sun, 14 Jun 2026 00:02:29 GMT",
+  "published_ts": 1781395349,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2VzenctaEpFbEszOThoMEF2dzZPMEVWT1ItRTl0VlpKaGZEZmJXSlRGaDFINEE1Q1NEQ2xucTI4cV9nTzBLV1JlWnZoX3hPRmttbDRuV3ZHcm1QTi1aS0VpdlNDQ01GQjZYRDRfSE5rSHhtWE4tdzVlMEM2ekIyUTVydXJidm9iZ2hhMHh6VTdsYWxtakYyRERDLW1XUXM?oc=5\" target=\"_blank\">Foreigners Dump 20 Trillion Won in Chip Stocks but Trade Leverage Products Both Ways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Foreign investors sold approximately 20 trillion won (~$15B) in Korean chip stocks. While the headline mentions leverage trading products being traded both directions, the core story is a significant outflow from Korean semiconductor holdings, likely including SK hynix and Samsung's memory division—both key DRAM holdings. This reflects investor sentiment shifts but lacks a concrete catalyst (earnings, guidance, supply shock) and is primarily a price/flow observation rather than a fundamental event. Impact is 3 rather than 4 because the story reports flows and sentiment without disclosed operational or supply-side news driving the move."
+  },
+  "buffered_ts": 1781401355.8447495
  }
 ]
