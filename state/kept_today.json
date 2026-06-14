@@ -372,5 +372,22 @@
    "summary": "Yahoo Finance article discussing Samsung, SK hynix, and Micron competing in AI memory markets and providing a buying guide for investors. While it mentions all three major DRAM fund holdings, it appears to be a general investment piece rather than reporting concrete developments in the memory cycle, production capacity, or pricing."
   },
   "buffered_ts": 1781432603.7661438
+ },
+ {
+  "id": "b0474ecb9dc51f70e975de1c2f969a118ce9ef7d",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Adds 2,152 Employees as Chip Workforce Holds Above 100,000 - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUw0d1ZkRWtHbUlqMGNOVkhXOExibjNxLWdFSEFiTGlzNWp3WnJSaXBVRGFpR0o3S3VLekVUODRiQ0oxN21iX1Ezd0dvMGRXMFAtYzJwOHFlTWdLSS1JWldNeWh2MVZoZjJJcFJ4cGpsRkI4UEtyQ1VvTE5LQS1UYUF0M21VLXRDS0pGcUwwZDU4aFpKUXNDNXVpd3M2dw?oc=5",
+  "published_at": "Sun, 14 Jun 2026 01:43:25 GMT",
+  "published_ts": 1781401405,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUUw0d1ZkRWtHbUlqMGNOVkhXOExibjNxLWdFSEFiTGlzNWp3WnJSaXBVRGFpR0o3S3VLekVUODRiQ0oxN21iX1Ezd0dvMGRXMFAtYzJwOHFlTWdLSS1JWldNeWh2MVZoZjJJcFJ4cGpsRkI4UEtyQ1VvTE5LQS1UYUF0M21VLXRDS0pGcUwwZDU4aFpKUXNDNXVpd3M2dw?oc=5\" target=\"_blank\">SK hynix Adds 2,152 Employees as Chip Workforce Holds Above 100,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix expanded its workforce by 2,152 employees, maintaining a total chip workforce above 100,000. This signals continued investment in production capacity and operational expansion, though without concrete details on specific facility investments or production targets, it represents a soft development rather than a confirmed event."
+  },
+  "buffered_ts": 1781447981.1539943
  }
 ]
