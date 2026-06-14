@@ -474,5 +474,39 @@
    "summary": "Opinion piece on Micron discussing an unnamed key metric beyond stock price that represents a purported risk to the company. The vague framing and lack of concrete details suggest this is analysis or commentary rather than reporting a specific event or hard number."
   },
   "buffered_ts": 1781453987.597437
+ },
+ {
+  "id": "ec8f0ce06650f9ec53812700ba5d8d8ccbd53d33",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Dear Future SK Hynix Stock Investors, Mark Your Calendars for June 22 - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVV2T3B1c0tvMzM5NEJtNVdUTmlqUzRnNWlWeC1tcTM5Q2FRdXNaOUkyUFk5YzdKakRLUUNhRGxWVEFUVE9BcWF1dWtOdXd0MHBYallzUDY1bWVDM2NIQjBuTENjMlh1a3VqSWVRZjF3VzZ5U2NGOHZzTjRpcU1PRnVJS251cGYzZ1Y4emNxRGk4cWxhbE81T2lidkNXTnhYSjc3WVkxLWYzdlBvaGdHdWNR?oc=5",
+  "published_at": "Sun, 14 Jun 2026 18:00:02 GMT",
+  "published_ts": 1781460002,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVV2T3B1c0tvMzM5NEJtNVdUTmlqUzRnNWlWeC1tcTM5Q2FRdXNaOUkyUFk5YzdKakRLUUNhRGxWVEFUVE9BcWF1dWtOdXd0MHBYallzUDY1bWVDM2NIQjBuTENjMlh1a3VqSWVRZjF3VzZ5U2NGOHZzTjRpcU1PRnVJS251cGYzZ1Y4emNxRGk4cWxhbE81T2lidkNXTnhYSjc3WVkxLWYzdlBvaGdHdWNR?oc=5\" target=\"_blank\">Dear Future SK Hynix Stock Investors, Mark Your Calendars for June 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Barchart reminds investors of an upcoming SK Hynix event on June 22, likely earnings or guidance related. Too vague and far-forward to assess concrete impact; no details on what the event entails or market catalysts."
+  },
+  "buffered_ts": 1781465227.4788332
+ },
+ {
+  "id": "747cea324097b26ea8838754e0357322e9258282",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "DRAM doubles since launch; here are the top holdings - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHljZ3JOWXh2amk1bGxkVFg3cjJfVHNOSmtoZEV5LTZUbHVqQ29nVlRFa0VCME1oYm1CcnhleHdoeG9KbGU4NERRbTdZTFRhWGYzbGplOENFaTV0NXhLNXcwTnI4Mjk5TkxwSjVkdXQwR2dTWTZsT1lhdHdNQ2gyR2lscmx2Y2hWRmpNU2Z3TDhOdkVabTVfSmdvVndDQnlVaWg5VVBta01GeXdLYUNyYjN6VDBLRTVMOEpMVEFPOGhMUG02WXdEZnZaRQ?oc=5",
+  "published_at": "Sun, 14 Jun 2026 10:34:52 GMT",
+  "published_ts": 1781433292,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHljZ3JOWXh2amk1bGxkVFg3cjJfVHNOSmtoZEV5LTZUbHVqQ29nVlRFa0VCME1oYm1CcnhleHdoeG9KbGU4NERRbTdZTFRhWGYzbGplOENFaTV0NXhLNXcwTnI4Mjk5TkxwSjVkdXQwR2dTWTZsT1lhdHdNQ2gyR2lscmx2Y2hWRmpNU2Z3TDhOdkVabTVfSmdvVndDQnlVaWg5VVBta01GeXdLYUNyYjN6VDBLRTVMOEpMVEFPOGhMUG02WXdEZnZaRQ?oc=5\" target=\"_blank\">DRAM doubles since launch; here are the top holdings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "MSN article noting that the DRAM ETF has doubled in value since launch and listing its top holdings. A routine fund performance recap with no new catalyst, concrete development, or material market-moving information."
+  },
+  "buffered_ts": 1781465227.4788332
  }
 ]
