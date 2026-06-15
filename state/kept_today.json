@@ -117,5 +117,294 @@
    "summary": "SanDisk (SNDK) mentioned alongside other stocks hitting 52-week highs. Article lacks specifics on memory-sector catalysts or SNDK-specific drivers; appears to be a general market observation of price movement without disclosed cause."
   },
   "buffered_ts": 1781495672.1238523
+ },
+ {
+  "id": "2ba655ca8b8657c567ce4bb5a6ab675e7289fe94",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix readies HBM4 packaging push as Nvidia demand grows - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzFHM0xVZVlsZzBJYWc4aW1PbnUwQWVaTTZrWUk3eThJc3NzajBpTURYaUJGNFNsVXhHQlV5VWRmOUptR1ZLdWo5OEdqaXdEclk2TnBKRjc1ZjcxRThCY3NiS0pSazJVcTI1QWlZYm41emdrR2c2WEJXS2NlTUV2ZHloRW9GeFlka0lnVHpzY284NjZYeDBMVk9qMGQxWGM?oc=5",
+  "published_at": "Mon, 15 Jun 2026 04:10:14 GMT",
+  "published_ts": 1781496614,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzFHM0xVZVlsZzBJYWc4aW1PbnUwQWVaTTZrWUk3eThJc3NzajBpTURYaUJGNFNsVXhHQlV5VWRmOUptR1ZLdWo5OEdqaXdEclk2TnBKRjc1ZjcxRThCY3NiS0pSazJVcTI1QWlZYm41emdrR2c2WEJXS2NlTUV2ZHloRW9GeFlka0lnVHpzY284NjZYeDBMVk9qMGQxWGM?oc=5\" target=\"_blank\">SK Hynix readies HBM4 packaging push as Nvidia demand grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is ramping HBM4 (high-bandwidth memory generation 4) packaging production in response to confirmed Nvidia demand growth. This represents a concrete capacity/production decision by a key holding addressing the HBM cycle that drives memory demand."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "24449c119c57a5df2feaeaad462c6dc9d0525cce",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SK Hynix Said to Send HBM4E Samples Early, Shipping as Soon as This Month; Shares Surge 7% to Lead Korean Stocks - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm4tXzdPeUpJZWZrX0JyeUZrclhiNWtCemhyeXhVS0VRWnRtRnczZXF1MWtfRXBJRUxLREkxRjl5SlhoTnBLZ1NiT0xMWDVLVlR3TVdKVXVYNmZXbk1FYWZfU0pfeC1Ua2pKRzdXa2FEcTVGZURqeVZya2ljWjgydVh1aFVfYVpWV2xzcFdKQ3NtUmgwMGRWdDJnMWRiNzA?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:58:56 GMT",
+  "published_ts": 1781495936,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm4tXzdPeUpJZWZrX0JyeUZrclhiNWtCemhyeXhVS0VRWnRtRnczZXF1MWtfRXBJRUxLREkxRjl5SlhoTnBLZ1NiT0xMWDVLVlR3TVdKVXVYNmZXbk1FYWZfU0pfeC1Ua2pKRzdXa2FEcTVGZURqeVZya2ljWjgydVh1aFVfYVpWV2xzcFdKQ3NtUmgwMGRWdDJnMWRiNzA?oc=5\" target=\"_blank\">SK Hynix Said to Send HBM4E Samples Early, Shipping as Soon as This Month; Shares Surge 7% to Lead Korean Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix reported to be shipping HBM4E samples this month, ahead of schedule. Stock surged 7% on the news, signaling market confidence in the company's HBM capacity and timeline—a concrete development in memory supply for AI infrastructure."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "1636ad7e8d2f0e1652ea33a03ed0e1bfc1aff843",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Concrete strike ends, semiconductor sites resume construction - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkdkaUVTc0FWdFhRV1ltX2tTU05Cak5ra2hfcXZ2X3RLNEFORDl3dFd3OWFLbVZSSVJSMlQ4Wmt5VjhxbVZETjhyREgtN0VZY0RldzlBVzZScDRiV0syeG9oWVJsbThUa2ZYZ3drUlNjX05samJEYVNyMk9ZOUZjZzQxN0tRdUhx?oc=5",
+  "published_at": "Mon, 15 Jun 2026 09:03:47 GMT",
+  "published_ts": 1781514227,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkdkaUVTc0FWdFhRV1ltX2tTU05Cak5ra2hfcXZ2X3RLNEFORDl3dFd3OWFLbVZSSVJSMlQ4Wmt5VjhxbVZETjhyREgtN0VZY0RldzlBVzZScDRiV0syeG9oWVJsbThUa2ZYZ3drUlNjX05samJEYVNyMk9ZOUZjZzQxN0tRdUhx?oc=5\" target=\"_blank\">Concrete strike ends, semiconductor sites resume construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Concrete strike in South Korea ends, allowing semiconductor manufacturing sites to resume construction. This directly affects SK hynix and Samsung's fab operations and capacity expansion timelines, both major DRAM fund holdings."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "7841975e8e879210f1183b3ef24735ce08530641",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "Micron’s HBM Production Is Sold Out Through 2026, but the Stock’s Next Move Hinges on June 24 Ea - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0dyUTVKV3AzQWZDTXg1NDdHek5lSjV0cGgtcXFnUjltb2wxeVlCcmlYb25Pam1LYzk1dENXSDl0eWNJTGxNT25LWHd0bWVKWTFjeGw5RGlyVG45REpMRXRhdUxTM3pvZEh1MmVNblI4ZHhmcFA4SWx4Zjg4Zk9vZnpWcGlYQjBUMGcwSThCYk4zSE5KZzJZT2libFA0T3Q3aE9mclZGYmhUM1hfc3BrNDRmUnBHYURqS3ZxeTNISVJ4aFhEQzhZ?oc=5",
+  "published_at": "Mon, 15 Jun 2026 07:31:26 GMT",
+  "published_ts": 1781508686,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0dyUTVKV3AzQWZDTXg1NDdHek5lSjV0cGgtcXFnUjltb2wxeVlCcmlYb25Pam1LYzk1dENXSDl0eWNJTGxNT25LWHd0bWVKWTFjeGw5RGlyVG45REpMRXRhdUxTM3pvZEh1MmVNblI4ZHhmcFA4SWx4Zjg4Zk9vZnpWcGlYQjBUMGcwSThCYk4zSE5KZzJZT2libFA0T3Q3aE9mclZGYmhUM1hfc3BrNDRmUnBHYURqS3ZxeTNISVJ4aFhEQzhZ?oc=5\" target=\"_blank\">Micron’s HBM Production Is Sold Out Through 2026, but the Stock’s Next Move Hinges on June 24 Ea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Micron's HBM (high-bandwidth memory) production is sold out through 2026, confirming strong AI-infrastructure demand and tight supply. Stock movement contingent on June 24 earnings; concrete supply commitment is material to memory cycle."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "dac46142f13146686b70cdac69ff8bbe2e7dbe8c",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "South Korea's chip equipment players ride the HBM4 wave - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzVLX2pqMG5qMzlNZ3NBSnRFNll2ZWNSUGRMaVhpc1VSaEVWMmRNTHZTZnBDZFFGYU05UWpHTWg0TEhnYzhZanlxRmZmMWwwbXV0NWp6cUhBbGFsUDJDaTRxMDRtbHMyX1Mzck56d21iM3NtdWFianRNZG5UTVNiV3ZFVTE0eXVRWmxaOQ?oc=5",
+  "published_at": "Mon, 15 Jun 2026 07:03:04 GMT",
+  "published_ts": 1781506984,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzVLX2pqMG5qMzlNZ3NBSnRFNll2ZWNSUGRMaVhpc1VSaEVWMmRNTHZTZnBDZFFGYU05UWpHTWg0TEhnYzhZanlxRmZmMWwwbXV0NWp6cUhBbGFsUDJDaTRxMDRtbHMyX1Mzck56d21iM3NtdWFianRNZG5UTVNiV3ZFVTE0eXVRWmxaOQ?oc=5\" target=\"_blank\">South Korea's chip equipment players ride the HBM4 wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korean chip equipment makers are positioned to benefit from HBM4 (high-bandwidth memory generation 4) demand, indicating ongoing memory technology advancement and infrastructure investment. This reflects growing HBM capacity expansion but the story is analysis/outlook rather than a confirmed production event or concrete supply commitment."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "62cdbcfc4a32ec109a07035769ee20370e3b21f1",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZxQjA0T2IxM1RvUXI4TEtGRURraDcwdmgtQXpSaW1LdkNqc3J0ajQ2YnE5Ql9IbGNtbEo0OGFIMTVINldhV2M0cHFiVlk1cEFiQmRlZHlOMnVObUxnWmYyREhyb0V0bE9VdkktRXFlSWxNQ2FUWEprTXlRSGkxem5odHZDUXA5LUtYRXd6RXdaYXZiNWc?oc=5",
+  "published_at": "Mon, 15 Jun 2026 09:24:57 GMT",
+  "published_ts": 1781515497,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZxQjA0T2IxM1RvUXI4TEtGRURraDcwdmgtQXpSaW1LdkNqc3J0ajQ2YnE5Ql9IbGNtbEo0OGFIMTVINldhV2M0cHFiVlk1cEFiQmRlZHlOMnVObUxnWmYyREhyb0V0bE9VdkktRXFlSWxNQ2FUWEprTXlRSGkxem5odHZDUXA5LUtYRXd6RXdaYXZiNWc?oc=5\" target=\"_blank\">MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), SK hynix, and Samsung stocks rallied amid broader market relief; DRAM ETF gained 6%. Story reports stock movement but lacks a disclosed concrete catalyst beyond general 'Iran relief' sentiment—no earnings, guidance change, pricing data, or supply announcement provided."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "5310a42432c37a6258531ef838abbe1acea3baf4",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK hynix Reportedly Pulls Forward HBM4E Sample Timeline, Eyeing June–July Shipments to Key Customers - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMlNsWEx5WXVoT1dKVEl3MXZZRE9MenJYZ0FoSDRqaGdDRG5Xdnc5ZDFoQTlrMGdNeVdKTlB5ZUVnSm9sUmNhd1I4R3dPMEZBZ19mdnJZMVpiTW9QRWxUWVJvN1Rsa2dKSllMM0NmSWxxMHNhQngxbF9MZWNJcUlXU1NSdlgxX2wwZF9uU3BrandxOFdRVlcyWkRhSFREV2Z5dUVRZ3YyR19Sc2ZGa3NQb2xpYVYtRnBMWE82aG5sWVhYb3Q1MFBCZFNTSF9SVTY4WVpnc1pGcXJUc3VoVXhEVkdn?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:53:56 GMT",
+  "published_ts": 1781495636,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMlNsWEx5WXVoT1dKVEl3MXZZRE9MenJYZ0FoSDRqaGdDRG5Xdnc5ZDFoQTlrMGdNeVdKTlB5ZUVnSm9sUmNhd1I4R3dPMEZBZ19mdnJZMVpiTW9QRWxUWVJvN1Rsa2dKSllMM0NmSWxxMHNhQngxbF9MZWNJcUlXU1NSdlgxX2wwZF9uU3BrandxOFdRVlcyWkRhSFREV2Z5dUVRZ3YyR19Sc2ZGa3NQb2xpYVYtRnBMWE82aG5sWVhYb3Q1MFBCZFNTSF9SVTY4WVpnc1pGcXJUc3VoVXhEVkdn?oc=5\" target=\"_blank\">[News] SK hynix Reportedly Pulls Forward HBM4E Sample Timeline, Eyeing June–July Shipments to Key Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix reportedly advancing HBM4E sample shipments to June–July timeline targeting key customers. A concrete development in HBM4 capacity/timeline, but reported rather than officially confirmed, limiting impact to 3."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "20fd3c3f0d10c413c443ea24a99bcee237913eaa",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXBtTE9uNjRBaDcxVkNjYWw0UmlKYWlpODY4Y0N1eTFKenVZX2xSSVlKTUt4RWhUNjRoTnQtOThvd1VQc3B2eXRIRlVPVmpJM3ZOc3RJaU5ka1VZNlRPeHhnVUVyYU9za3RseVFSeGlCcnVpWUhnYzBzNy1tTlJiN0szTEs1NC1vRkxsVGl6b09yaFRZS0hZU3ByR3pMWmdVcDF5OGUzZXczZDNMVWZXMUlKVWE5Y2o4WlR1Q1BsNkt2RnVSUHdyZjV4WWRJYU01N1FQTzdRSEs2Z2NYNE5oYUQ1SWNSV2s?oc=5",
+  "published_at": "Mon, 15 Jun 2026 09:29:32 GMT",
+  "published_ts": 1781515772,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXBtTE9uNjRBaDcxVkNjYWw0UmlKYWlpODY4Y0N1eTFKenVZX2xSSVlKTUt4RWhUNjRoTnQtOThvd1VQc3B2eXRIRlVPVmpJM3ZOc3RJaU5ka1VZNlRPeHhnVUVyYU9za3RseVFSeGlCcnVpWUhnYzBzNy1tTlJiN0szTEs1NC1vRkxsVGl6b09yaFRZS0hZU3ByR3pMWmdVcDF5OGUzZXczZDNMVWZXMUlKVWE5Y2o4WlR1Q1BsNkt2RnVSUHdyZjV4WWRJYU01N1FQTzdRSEs2Z2NYNE5oYUQ1SWNSV2s?oc=5\" target=\"_blank\">MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), SK hynix, and Samsung stocks rallied amid reported Iran-related relief; DRAM ETF up 6%. Price movement story with no disclosed fundamental catalyst or earnings driver; likely geopolitical sentiment shift rather than memory-cycle specific news."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "dcb36b67b81131bf6b549b22e686d73a70d809a8",
+  "source": "Data Centre Magazine",
+  "topic": "holding",
+  "title": "How NVIDIA is Planning Gigawatt AI Capacity in South Korea - Data Centre Magazine",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU9xT1BvV0doMkRYNGQyTkVGX0NxZm9wTjdQYUhRWVBsNkdQSldmTUNwNTlsNzI4dGU3M1ZwRXlJTjgzR3FEZkFDbGx4ZjRaTjhYVmtaU1FmalA2VTVZRGVxbTdWaGxOUzl4VEx1QVdwdnc2bWFNZG9yNXQ0eXpPUmhGSVM0bWZRSVFqR21Qc2N3a294WDE4eGlzYw?oc=5",
+  "published_at": "Mon, 15 Jun 2026 08:58:03 GMT",
+  "published_ts": 1781513883,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORU9xT1BvV0doMkRYNGQyTkVGX0NxZm9wTjdQYUhRWVBsNkdQSldmTUNwNTlsNzI4dGU3M1ZwRXlJTjgzR3FEZkFDbGx4ZjRaTjhYVmtaU1FmalA2VTVZRGVxbTdWaGxOUzl4VEx1QVdwdnc2bWFNZG9yNXQ0eXpPUmhGSVM0bWZRSVFqR21Qc2N3a294WDE4eGlzYw?oc=5\" target=\"_blank\">How NVIDIA is Planning Gigawatt AI Capacity in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Centre Magazine</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "NVIDIA is planning gigawatt-scale AI capacity investments in South Korea. While relevant to memory demand tailwinds from AI infrastructure capex, this is a forward-looking plan without confirmed concrete production cuts, capacity commitments, or announced facility details that would materially move memory pricing or supply dynamics. DRAM/NAND demand could benefit from increased AI infrastructure, but the story lacks specific numbers or timelines to confirm material near-term impact."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "339ff1e00ed1fd53642b3e9da075baa5661c2647",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXNxUWVoZzVURkk2UnNJQkdraHRrdDdBQl8tRU5fZHVpTVRTRDlPbXhPWDhacV8wTnozV1ZzcVNiQjZHWUROZXhsTFdBLV9UWV9rWm53TFRES29Bam9lczBsTkpYdDE0THI1azVhMDZ1VmFJRUVPYmlub2FUR3A5WlpJMV9aRFFrZjcyNzh0WWtBSVU2cjZId2RFTG1FWUlUd2VEWWQwaWlxMDFYZ1hsak51NmZJLU5rQVJidTFsMXNRNmpaZTROdGxZNmlTaFZPMkZXUmpLNklRaTdmU2lsOVRrSQ?oc=5",
+  "published_at": "Mon, 15 Jun 2026 09:24:57 GMT",
+  "published_ts": 1781515497,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXNxUWVoZzVURkk2UnNJQkdraHRrdDdBQl8tRU5fZHVpTVRTRDlPbXhPWDhacV8wTnozV1ZzcVNiQjZHWUROZXhsTFdBLV9UWV9rWm53TFRES29Bam9lczBsTkpYdDE0THI1azVhMDZ1VmFJRUVPYmlub2FUR3A5WlpJMV9aRFFrZjcyNzh0WWtBSVU2cjZId2RFTG1FWUlUd2VEWWQwaWlxMDFYZ1hsak51NmZJLU5rQVJidTFsMXNRNmpaZTROdGxZNmlTaFZPMkZXUmpLNklRaTdmU2lsOVRrSQ?oc=5\" target=\"_blank\">MU Stock Leads Memory Chip Rally Amid Iran Relief – DRAM Surges 6% As SK Hynix, Samsung Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), SK hynix, and Samsung stocks rallied on Iran-related relief, with the DRAM ETF up 6%. The story reports a price move but does not disclose a concrete catalyst tied to memory fundamentals, earnings, or supply/demand. The rally appears driven by macro sentiment rather than industry-specific news."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "e675ae4faeed71ad8188a5fabdf14f1860f19b09",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK Hynix jumped 240% in a year, raising its head that it resembles the HMM surge during the COVID-19.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uRVprYmVrRDZsci1WOW9DV1RaYTA1OHhjTG9RaUZKNXFOT3pKcER3Mk1lN2JkbU85TWxGc0FVSHdsWUg4ZzBxTzM5SW5xaEk?oc=5",
+  "published_at": "Mon, 15 Jun 2026 04:38:06 GMT",
+  "published_ts": 1781498286,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uRVprYmVrRDZsci1WOW9DV1RaYTA1OHhjTG9RaUZKNXFOT3pKcER3Mk1lN2JkbU85TWxGc0FVSHdsWUg4ZzBxTzM5SW5xaEk?oc=5\" target=\"_blank\">SK Hynix jumped 240% in a year, raising its head that it resembles the HMM surge during the COVID-19..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock has risen 240% over the past year, with commentary comparing the surge to the memory boom during COVID-19. This is a significant stock move for a major DRAM fund holding, but the story appears to be market observation and analysis (comparing to past cycles) rather than reporting a new concrete catalyst or earnings-driven event."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "1ee3584f54ec79a0c6068f395ec5b60768ae914a",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "Semiconductor Revenue Hits Record High In Q1 - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xbnk0bmZwRXRHOFg0LXdGTTJURURnUU55bFRiQkdNWE1PQUhxNThwMkVUdnNadFFXeU1fUy1wZVBxejIyam9BLTdMNWdSSmR5Ri0tUEkwc2pSU1VOWGtHeDBzRWtZd1otUUhRTVRjRXh5cWFu?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:02:28 GMT",
+  "published_ts": 1781492548,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9xbnk0bmZwRXRHOFg0LXdGTTJURURnUU55bFRiQkdNWE1PQUhxNThwMkVUdnNadFFXeU1fUy1wZVBxejIyam9BLTdMNWdSSmR5Ri0tUEkwc2pSU1VOWGtHeDBzRWtZd1otUUhRTVRjRXh5cWFu?oc=5\" target=\"_blank\">Semiconductor Revenue Hits Record High In Q1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Semiconductor industry achieved record Q1 revenue. Generic industry health metric; lacks specifics on memory segment, DRAM/NAND pricing, or individual holding performance needed to assess direct fund impact."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "5b604b1d3d2cc04bfeb59e2f86d406372b773458",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVhMOWs5REt0V0R6NWVGVEhtZmhNWHJtRVdWYWh1bUlZLXJLMGhFVlE1ZEJWbUY1dnE1Y1otdUg2M1dWalVPWk1sZktGaF8wbUFlX1BrSnZPM043Z2ZLa21lUnQtbzFqUFVLUGVESHgySU4wMmxsLTdhaDdCbkFMYVpTTzlidw?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:35:00 GMT",
+  "published_ts": 1781494500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVhMOWs5REt0V0R6NWVGVEhtZmhNWHJtRVdWYWh1bUlZLXJLMGhFVlE1ZEJWbUY1dnE1Y1otdUg2M1dWalVPWk1sZktGaF8wbUFlX1BrSnZPM043Z2ZLa21lUnQtbzFqUFVLUGVESHgySU4wMmxsLTdhaDdCbkFMYVpTTzlidw?oc=5\" target=\"_blank\">Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Daiwa Securities raised SK Hynix target price to KRW 3.6M with Buy rating. Analyst price-target change on a core DRAM holding; indicates positive sentiment but represents opinion rather than a confirmed market event."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "3e1756153195a6301a00ce6e25295706c159b8bf",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "MU stock leads memory chip rally amid Iran relief – DRAM surges 6% as SK Hynix, Samsung gain - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcURxOVRzdXMyTGVnSFVPQkFpZUVHd0J3S0ZteW54RHIwWXdSbFRVcXcyejZlR3JIb3QzSGxmY3RnWkg0ZDJ6ZWs3WTFOYUp5RndVS0I1emJUQ3pQamxvcVhabERIVEZfLWNFMDIwZUFWcXNvLW82Q1U3ai1jdTM5MGxUd2tHckZuT3Nibzl0VV94SGZDUVltLXVHVHRURTBGdkZxNDJ1VzBkVmJXWHhrRkY4aUtBdFhSV3NXZDluYzlUUFJhdHFzX3dub21BUHpSb0RqQm12b0NIMW1sQndhYS1lM0RzMmdNMk9abGtXRlNKQ25JUkdlV1B3?oc=5",
+  "published_at": "Mon, 15 Jun 2026 10:08:55 GMT",
+  "published_ts": 1781518135,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcURxOVRzdXMyTGVnSFVPQkFpZUVHd0J3S0ZteW54RHIwWXdSbFRVcXcyejZlR3JIb3QzSGxmY3RnWkg0ZDJ6ZWs3WTFOYUp5RndVS0I1emJUQ3pQamxvcVhabERIVEZfLWNFMDIwZUFWcXNvLW82Q1U3ai1jdTM5MGxUd2tHckZuT3Nibzl0VV94SGZDUVltLXVHVHRURTBGdkZxNDJ1VzBkVmJXWHhrRkY4aUtBdFhSV3NXZDluYzlUUFJhdHFzX3dub21BUHpSb0RqQm12b0NIMW1sQndhYS1lM0RzMmdNMk9abGtXRlNKQ25JUkdlV1B3?oc=5\" target=\"_blank\">MU stock leads memory chip rally amid Iran relief – DRAM surges 6% as SK Hynix, Samsung gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "MU, SK Hynix, and Samsung stocks rose amid Iran-related geopolitical relief, with DRAM sector up 6%. However, this appears to be a macro/geopolitical tailwind rather than a memory-specific catalyst—no concrete event, production change, pricing shift, or fund-specific development disclosed. Price movement without stated fundamental cause in memory or holdings."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "27c33c57102d2f84ad6d0f43975e65d57b8af79a",
+  "source": "Astute Group",
+  "topic": "industry",
+  "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
+  "published_at": "Mon, 15 Jun 2026 07:00:00 GMT",
+  "published_ts": 1781506800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5\" target=\"_blank\">AI-driven HBM demand continues to distort global memory allocation and server supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Astute Group</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis from Astute Group on how AI-driven HBM (high-bandwidth memory) demand is distorting global memory allocation and server supply chains. This is relevant industry commentary on a key demand driver for memory semiconductors, but represents analytical perspective rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "77916ab260efaf40572a684f36570b39b0546b01",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Dear Future SK Hynix Stock Investors, Mark Your Calendars for June 22 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE50Vk1lLTRXWWkwUk5Dc19XUVNhWTJ2TmZKNVQ3ckFTRjU0MEo1N2tOSmZubEhRWjctejUzQW1QWjY1NUZCZmZkMG5nS2I4bmNOUnRPOUVBRGtSRkctc1V3TTdFNXpvZmMtazJUNm5BY3lEYzZvNFd5bTZaUVpvR2FpVW94WjRORlZtejdQR2gxWXg1Smc?oc=5",
+  "published_at": "Sun, 14 Jun 2026 18:00:02 GMT",
+  "published_ts": 1781460002,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE50Vk1lLTRXWWkwUk5Dc19XUVNhWTJ2TmZKNVQ3ckFTRjU0MEo1N2tOSmZubEhRWjctejUzQW1QWjY1NUZCZmZkMG5nS2I4bmNOUnRPOUVBRGtSRkctc1V3TTdFNXpvZmMtazJUNm5BY3lEYzZvNFd5bTZaUVpvR2FpVW94WjRORlZtejdQR2gxWXg1Smc?oc=5\" target=\"_blank\">Dear Future SK Hynix Stock Investors, Mark Your Calendars for June 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix investor reminder about June 22 date, likely an earnings or corporate event announcement. No concrete detail provided in snippet."
+  },
+  "buffered_ts": 1781518976.3886592
+ },
+ {
+  "id": "405f08da29be0aa46d67f62b1ca3d4b05e572d8c",
+  "source": "Huawei Central",
+  "topic": "holding",
+  "title": "Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory - Huawei Central",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWS1ZZWYxbXdUNlF2SjE3QWhNWi10aWFhcVNYZkNZVlgxUlJZNFhYU0g2VGZNWDd2aElMdS1oSjA0bC1XeW0xeHB3M2htRElLeDBzVENqdC1NVEF5V1IwYW5JRXd3UE41aWd5R3hWSlZoWUh1cVpHREVTaVpGSnRTekRLcms1NTFhb0FISFVR0gGTAUFVX3lxTE9rSzFTOGFsMjZlc250WnRlTE1RMHNGUXhsOTVNNlNFWHhwZkpCWTJfUm41OGtpMDhCUGFLR0RqTm5CR18xdy1FeU9Jc2hUcFlJMjlpcy1remNjeE9uM1lqd0UwTWxaSHlXcWZMMXZaT0xyNEIxVGl6YTFkcVFubVZma2FWaHdsSVl4MXl1X3ZPVEs4Yw?oc=5",
+  "published_at": "Mon, 15 Jun 2026 08:55:58 GMT",
+  "published_ts": 1781513758,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWS1ZZWYxbXdUNlF2SjE3QWhNWi10aWFhcVNYZkNZVlgxUlJZNFhYU0g2VGZNWDd2aElMdS1oSjA0bC1XeW0xeHB3M2htRElLeDBzVENqdC1NVEF5V1IwYW5JRXd3UE41aWd5R3hWSlZoWUh1cVpHREVTaVpGSnRTekRLcms1NTFhb0FISFVR0gGTAUFVX3lxTE9rSzFTOGFsMjZlc250WnRlTE1RMHNGUXhsOTVNNlNFWHhwZkpCWTJfUm41OGtpMDhCUGFLR0RqTm5CR18xdy1FeU9Jc2hUcFlJMjlpcy1remNjeE9uM1lqd0UwTWxaSHlXcWZMMXZaT0xyNEIxVGl6YTFkcVFubVZma2FWaHdsSVl4MXl1X3ZPVEs4Yw?oc=5\" target=\"_blank\">Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei Central</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Huawei's Mate 80 smartphone uses Samsung memory in its Kirin 9030 processor. Minor confirmation of Samsung's memory placement in a specific device; no volume, pricing, or material demand signal disclosed."
+  },
+  "buffered_ts": 1781518976.3886592
  }
 ]
