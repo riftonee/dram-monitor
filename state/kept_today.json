@@ -32,5 +32,90 @@
    "summary": "Samsung Electronics and SK hynix are considering establishing their first semiconductor packaging plants in South Korea's Honam region. This is exploratory discussion of a potential capacity expansion that could support memory production, but no concrete decision, timeline, or investment commitment has been announced yet."
   },
   "buffered_ts": 1781480730.1220715
+ },
+ {
+  "id": "110fb0803cd285c34d33aa4b347a60e1a609da54",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix Eyes Listing on Tech-Heavy Nasdaq in August; Shares Jump 7% - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXRKZUtzaEQ4a05xdEFaRGhrRGZTS3FZVDNiLUVaX1RzSHMwN0cyRHlaWF9RcElIdkVUenhmMGE2LVlEeXdBOVNlT1ExQjhWbTJ6VDN4QjdPNXRNa0RGMWZkWXhwanM0TjlLSVN2ajczZFk0QnhCMVZZa1BvQWlhTl9LSG1vbE9WX19FNmh5aDlrb2x1aVRNRDVjSkdvbmZLeGVlalFoLVdWLXh6WXdEaWU2SGQyUFlhNktr?oc=5",
+  "published_at": "Mon, 15 Jun 2026 01:39:14 GMT",
+  "published_ts": 1781487554,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXRKZUtzaEQ4a05xdEFaRGhrRGZTS3FZVDNiLUVaX1RzSHMwN0cyRHlaWF9RcElIdkVUenhmMGE2LVlEeXdBOVNlT1ExQjhWbTJ6VDN4QjdPNXRNa0RGMWZkWXhwanM0TjlLSVN2ajczZFk0QnhCMVZZa1BvQWlhTl9LSG1vbE9WX19FNmh5aDlrb2x1aVRNRDVjSkdvbmZLeGVlalFoLVdWLXh6WXdEaWU2SGQyUFlhNktr?oc=5\" target=\"_blank\">SK Hynix Eyes Listing on Tech-Heavy Nasdaq in August; Shares Jump 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM/NAND memory semiconductor holding in the fund, announced plans to list on Nasdaq in August with shares jumping 7% on the news. A confirmed, officially announced corporate action affecting a core fund holding."
+  },
+  "buffered_ts": 1781495672.1238523
+ },
+ {
+  "id": "499225fd27c39f14e805bdc88d1300ff1c843a30",
+  "source": "Koreabizwire",
+  "topic": "holding",
+  "title": "Foreign Investors Cash Out of Samsung, SK Hynix While Chasing Gains Through Leverage - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODUxclltY052bFdIVUI4TENIdFB1QjhuMDdYMGhxLUdaMjdDNjlfV3lPUWM5T3Vvdjh5eHQ4NWZRZVNvcFpjbElhMkVLZFhIQjk3SmV0NVpMVXRLMmNxdFZWNk9hSG1pRk9zZk90R1dpWXIyci05MEEyZlVLWDU5N05WZkxaNjFjTGk0S2RWMEI1b21IVG1Qdk45VDFYYnRzVVRHYkRYeGVsVWlfVFhnS0tfX3I?oc=5",
+  "published_at": "Mon, 15 Jun 2026 01:02:03 GMT",
+  "published_ts": 1781485323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQODUxclltY052bFdIVUI4TENIdFB1QjhuMDdYMGhxLUdaMjdDNjlfV3lPUWM5T3Vvdjh5eHQ4NWZRZVNvcFpjbElhMkVLZFhIQjk3SmV0NVpMVXRLMmNxdFZWNk9hSG1pRk9zZk90R1dpWXIyci05MEEyZlVLWDU5N05WZkxaNjFjTGk0S2RWMEI1b21IVG1Qdk45VDFYYnRzVVRHYkRYeGVsVWlfVFhnS0tfX3I?oc=5\" target=\"_blank\">Foreign Investors Cash Out of Samsung, SK Hynix While Chasing Gains Through Leverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Foreign investors are reportedly cashing out of Samsung and SK Hynix while pursuing leveraged gains elsewhere. This reflects investor sentiment and positioning changes toward two major DRAM/memory holdings, but the story appears to be analysis of trading behavior and flows rather than a concrete event with disclosed volumes or confirmed catalysts."
+  },
+  "buffered_ts": 1781495672.1238523
+ },
+ {
+  "id": "7c32e6b067456b1cd6b520aa588eebdad0521a75",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUhyUHJTQUtoSVZ6OGJUWkdvX29IX2NKSk9TWTNRLWhGWVQ3T0t6dFJBRklCZ2l6ZUNfVFB5dXRtQlN3a3pucnktdGhUdGhzd3UtZ3BJMDI2T3drcjlCX0JpZ1kwT1FuX2JuX1RneHVTZHlBVGVuRzB4ZGpROEhNd3ZBZlI2UFlMajlHMHBVV3VfVG1v?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:35:00 GMT",
+  "published_ts": 1781494500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUhyUHJTQUtoSVZ6OGJUWkdvX29IX2NKSk9TWTNRLWhGWVQ3T0t6dFJBRklCZ2l6ZUNfVFB5dXRtQlN3a3pucnktdGhUdGhzd3UtZ3BJMDI2T3drcjlCX0JpZ1kwT1FuX2JuX1RneHVTZHlBVGVuRzB4ZGpROEhNd3ZBZlI2UFlMajlHMHBVV3VfVG1v?oc=5\" target=\"_blank\">Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Daiwa Securities raised SK Hynix target price to KRW3.6M with Buy rating. Analyst rating upgrade is relevant to a core holding but represents opinion/forecast rather than a concrete market event."
+  },
+  "buffered_ts": 1781495672.1238523
+ },
+ {
+  "id": "6e75ad31c41501927abc3d35cf1305978070e29f",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung Up 6%, SK hynix 5% as War's End Lifts Premarket 4% - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzVXcmdCRUFBdVRUUnUxRUJ6VlVOODdsMlE3OXRTMk5SNnd1YU1EY2pWUXhidEQ3MEJuMmZrS3dkc1BacnZ3aTdzbHdtWjVnQUxvc0ZiZ2NudVBHWFhuamxxZWtiRjVvbEZfUzVFdXRsOW5Xc2s5OU5XUk5PZF9rbGRrQ29iOEQtSHZfQlJ2dEg4cHJ4RFZuSDBQZEpmVnhH?oc=5",
+  "published_at": "Sun, 14 Jun 2026 23:25:41 GMT",
+  "published_ts": 1781479541,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzVXcmdCRUFBdVRUUnUxRUJ6VlVOODdsMlE3OXRTMk5SNnd1YU1EY2pWUXhidEQ3MEJuMmZrS3dkc1BacnZ3aTdzbHdtWjVnQUxvc0ZiZ2NudVBHWFhuamxxZWtiRjVvbEZfUzVFdXRsOW5Xc2s5OU5XUk5PZF9rbGRrQ29iOEQtSHZfQlJ2dEg4cHJ4RFZuSDBQZEpmVnhH?oc=5\" target=\"_blank\">Samsung Up 6%, SK hynix 5% as War's End Lifts Premarket 4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stocks rose 6% and 5% respectively in premarket trading following geopolitical developments (likely war-related peace developments). The headline reports stock price movements tied to a macro event rather than memory-specific fundamentals or confirmed business developments. Without clarity on the underlying catalyst or direct memory-industry impact, this is a soft price-move story."
+  },
+  "buffered_ts": 1781495672.1238523
+ },
+ {
+  "id": "9520b3b59f397cc6494038f0a47f2dba11d2aa64",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:25:00 GMT",
+  "published_ts": 1781493900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5\" target=\"_blank\">Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) mentioned alongside other stocks hitting 52-week highs. Article lacks specifics on memory-sector catalysts or SNDK-specific drivers; appears to be a general market observation of price movement without disclosed cause."
+  },
+  "buffered_ts": 1781495672.1238523
  }
 ]
