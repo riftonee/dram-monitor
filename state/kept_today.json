@@ -542,5 +542,226 @@
    "summary": "SanDisk (SNDK), a DRAM fund holding, rose 6.49% on Jun 15. The article reports the price move without disclosing a specific catalyst or news driver, making it a minor technical/price observation rather than a material event."
   },
   "buffered_ts": 1781553747.4770327
+ },
+ {
+  "id": "798ac0470536cfb49191f515d62415371cd59a61",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Fires recur at SK hynix Cheongju gas rooms, spotlighting process flaws - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14eF9FbzZmNnVEWnFTaXNhNURHeVlvLXVEODdsSnlXOW1zdXduVjdwMzRLNFZWVjhMU2lDcUowNEZ0bUJwLVM3enliNkZ2ZzZhdERGQ3o4a1BNYjcxY1J2V1R5ZFdkelN2NlJUVVJwOUxnZFAyOE5JZFV30gGOAUFVX3lxTFBEMEpUY1VmMXhRU1FtQW9rbGVHQnRFeHRGLTFiOVZPUERpTVdlMUNOQm9Nc0RIUTlnM1RpNTN0Z1BSYTF0a2tMMV9JZ3BxWGxqTnU3ejNpTlRLZ1Vtb2dxekVwN3hVR3dtYlVONk43VXNCWk44Z2dKaWFJOUhqN1d0VFVRTWp2M1o0VnoxR1E?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:01:00 GMT",
+  "published_ts": 1781557260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE14eF9FbzZmNnVEWnFTaXNhNURHeVlvLXVEODdsSnlXOW1zdXduVjdwMzRLNFZWVjhMU2lDcUowNEZ0bUJwLVM3enliNkZ2ZzZhdERGQ3o4a1BNYjcxY1J2V1R5ZFdkelN2NlJUVVJwOUxnZFAyOE5JZFV30gGOAUFVX3lxTFBEMEpUY1VmMXhRU1FtQW9rbGVHQnRFeHRGLTFiOVZPUERpTVdlMUNOQm9Nc0RIUTlnM1RpNTN0Z1BSYTF0a2tMMV9JZ3BxWGxqTnU3ejNpTlRLZ1Vtb2dxekVwN3hVR3dtYlVONk43VXNCWk44Z2dKaWFJOUhqN1d0VFVRTWp2M1o0VnoxR1E?oc=5\" target=\"_blank\">Fires recur at SK hynix Cheongju gas rooms, spotlighting process flaws - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix Cheongju fab experiencing recurring fires in gas rooms, indicating potential process control issues that could impact production capacity and operational safety at a major DRAM manufacturing facility."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "bceba4653d534f72cf615a20e87345c9aaec6aec",
+  "source": "SMM Metal",
+  "topic": "pricing",
+  "title": "Institution: Xi'an blockade disrupts DRAM/NAND production price drop reduced to 8% - SMM Metal",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWwxV25qcThpemJQRG4yQktYMHgtcVdhUmJCNHdXOEoyNFBTQXBsb0RlYUxtS3A5OU5td3JpU1RjallzUnN2a0ZSSXcwVTNTTy1FLXBXTVZGNW4zMmRkM1NPekJqSzBaN1FrSnhjQVJHYTFzSEM2UzJoaXNBNVVPOEFoRmRpQVk5cmgybDFMUXJ2clNHc0lpZDVHMVdFU1h1aGdvekE2bWx6ak5TZGdGNktqLW9lc0tIeGItLXpRd3NieE9kckE?oc=5",
+  "published_at": "Sun, 14 Jun 2026 06:46:49 GMT",
+  "published_ts": 1781419609,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWwxV25qcThpemJQRG4yQktYMHgtcVdhUmJCNHdXOEoyNFBTQXBsb0RlYUxtS3A5OU5td3JpU1RjallzUnN2a0ZSSXcwVTNTTy1FLXBXTVZGNW4zMmRkM1NPekJqSzBaN1FrSnhjQVJHYTFzSEM2UzJoaXNBNVVPOEFoRmRpQVk5cmgybDFMUXJ2clNHc0lpZDVHMVdFU1h1aGdvekE2bWx6ak5TZGdGNktqLW9lc0tIeGItLXpRd3NieE9kckE?oc=5\" target=\"_blank\">Institution: Xi'an blockade disrupts DRAM/NAND production price drop reduced to 8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SMM Metal</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Xi'an blockade disrupts DRAM/NAND production; price declines moderated to 8% from expected larger drops. Concrete supply disruption affecting memory semiconductor production and pricing dynamics."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "33dd723bfd7d6afaa1248af8ab6205aef3eb5bbd",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix reportedly readies HBM4E samples for Nvidia as Samsung pulls ahead - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2tmMVYydVppQ3Z5VXdMM2RjeWNOQTNzRmlkd1QzS2ZJTEpLZjYxV3p3WVN0cFR2YlBVQjJ1RmN2dWRaNlgza1NJa3dWWE5lSWVjMGV0bjV4elJBWW1rdDZwX2lPdTRvdFg5SjhicXlyTXIzYjhScUdtblBVSUE5LWcxQkRPREJWeGtJc0R1NGVpUzd0TXc?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:54:54 GMT",
+  "published_ts": 1781560494,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2tmMVYydVppQ3Z5VXdMM2RjeWNOQTNzRmlkd1QzS2ZJTEpLZjYxV3p3WVN0cFR2YlBVQjJ1RmN2dWRaNlgza1NJa3dWWE5lSWVjMGV0bjV4elJBWW1rdDZwX2lPdTRvdFg5SjhicXlyTXIzYjhScUdtblBVSUE5LWcxQkRPREJWeGtJc0R1NGVpUzd0TXc?oc=5\" target=\"_blank\">SK Hynix reportedly readies HBM4E samples for Nvidia as Samsung pulls ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly preparing HBM4E samples for Nvidia while Samsung gains competitive ground in high-bandwidth memory. This is soft intelligence (reported, not officially confirmed) but material to both holdings' positioning in the critical HBM supply chain feeding AI infrastructure demand."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "bcb6738b8f2a4a47c00514599dbd1bb3881d23bc",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "KC Tech Breaks Into SK hynix Supply Chain for Supercritical Cleaning Equipment - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44WmJDYnJjMlhzbktmdllJVjB1NjBYcXdOMDBKaDByOGo3dXBQMlBHMnA1REoyOHFTdWNlcWNBOERpQnJZVDhGTjNvMmQ0cXhxdHlVazNSR0h6TVFGanVpd2hqeXFRcDQ?oc=5",
+  "published_at": "Mon, 15 Jun 2026 22:20:13 GMT",
+  "published_ts": 1781562013,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44WmJDYnJjMlhzbktmdllJVjB1NjBYcXdOMDBKaDByOGo3dXBQMlBHMnA1REoyOHFTdWNlcWNBOERpQnJZVDhGTjNvMmQ0cXhxdHlVazNSR0h6TVFGanVpd2hqeXFRcDQ?oc=5\" target=\"_blank\">KC Tech Breaks Into SK hynix Supply Chain for Supercritical Cleaning Equipment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "KC Tech secured a supply contract with SK hynix for supercritical cleaning equipment used in semiconductor manufacturing. This is a concrete business development for a holding (SK hynix) but represents a supplier relationship rather than a direct operational, capacity, or financial event that would immediately move the stock or memory cycle pricing."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "038556f652da1b2d8f2df1ddb6dcc2b46bda5ec1",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "'Samsung-SK hynix Leverage' Investors Need 10%+ Rebound to Break Even - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGJQdEZoLWw3emViUUw0SzE4Z3c0Uzh2RjZCQTIyQVRmVTlPMlA2SXlQcjBCOVB1OEZFbk9tWDNNQ00yamxUOV9iSGFyQ3JWSnZRbkhOelEyZGFOVExicUxBZWZublgwbnctN3RrZncxYzJ1VFBwNzNLS1RXYmR0cTdjU3lJOGJQT0drdm5TdmlVS1hFVnZNX2lybDRuSzF4eGlF?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:00:05 GMT",
+  "published_ts": 1781557205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGJQdEZoLWw3emViUUw0SzE4Z3c0Uzh2RjZCQTIyQVRmVTlPMlA2SXlQcjBCOVB1OEZFbk9tWDNNQ00yamxUOV9iSGFyQ3JWSnZRbkhOelEyZGFOVExicUxBZWZublgwbnctN3RrZncxYzJ1VFBwNzNLS1RXYmR0cTdjU3lJOGJQT0drdm5TdmlVS1hFVnZNX2lybDRuSzF4eGlF?oc=5\" target=\"_blank\">'Samsung-SK hynix Leverage' Investors Need 10%+ Rebound to Break Even</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece reporting that Samsung and SK hynix investors need a 10%+ stock rebound to break even on their positions. This is sentiment/analysis commentary on the two major holdings rather than a concrete market event or earnings result, placing it at impact 3."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "7512b5d72fb8307cd4eacd98a23717bf306ffdac",
+  "source": "More Than Moore",
+  "topic": "holding",
+  "title": "LPDDR6: Samsung/SK Hynix at ISSCC 2026 - More Than Moore",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSTBsaFlTamdDWmVvWEY5RTViWHMwQV9XZV8wX0RNZWo2ZnRDb2dhckduLXJicExibzEwbURkcmNqQ0NvUFBsb1NBbVVyTkxZdWh0WEc1RENBSkRwXzVlLUVzYV9FR2U1ZTVXZXlwUjlvQlAwX1lNbVJXb1pBaWRubnlqTmxTMFNZWWJPX3ViWTc0SmIyNElnVVVhcTZHdWFodFFtZHNCQjd2ZkpTSDF0UzJ2TFVuUnM1QzBsOW9IMXJOX3VDNUIyRFdlVjB5aGMxejJvU0xxYWM?oc=5",
+  "published_at": "Mon, 15 Jun 2026 12:05:30 GMT",
+  "published_ts": 1781525130,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSTBsaFlTamdDWmVvWEY5RTViWHMwQV9XZV8wX0RNZWo2ZnRDb2dhckduLXJicExibzEwbURkcmNqQ0NvUFBsb1NBbVVyTkxZdWh0WEc1RENBSkRwXzVlLUVzYV9FR2U1ZTVXZXlwUjlvQlAwX1lNbVJXb1pBaWRubnlqTmxTMFNZWWJPX3ViWTc0SmIyNElnVVVhcTZHdWFodFFtZHNCQjd2ZkpTSDF0UzJ2TFVuUnM1QzBsOW9IMXJOX3VDNUIyRFdlVjB5aGMxejJvU0xxYWM?oc=5\" target=\"_blank\">LPDDR6: Samsung/SK Hynix at ISSCC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">More Than Moore</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix presenting LPDDR6 technology at ISSCC 2026 conference. Technical presentation of next-generation low-power DRAM; relevant to fund holdings but is a forward-looking conference talk rather than a confirmed product launch, capacity commitment, or concrete business event."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "74101dfbb30827b1efaa925cfc207a76a4d13765",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "AI and big tech reshape Korea memory cycle, easing busts but raising risk - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MR2tTaW9PLXJiQjFfU05VWXg4OHhUSU8tZE1PX0U0VzVEUnhNc3FVenZyWHN6S2NJQ0JQV0F6b2J6V0pYbE5tYWs5Z1hDS0J3TXJmM0E3TUdjYlFWekV0Q01uM3lzVEszUVBHM0o1ckozc0lqR205cGhB0gGOAUFVX3lxTE41TXRXc1g1d0JsMDIzOE9FeG42Q0FjNHRsT3o2SENlWVFxZ2NMSTE2dVdENDJaSlR5LU5YcXB0bGp1MFVPN051Nm9KOWhLVG9USnpBSW14a09abEViX25RQ1JRRldmUmpuV29pMFhwMFNZSFVmVWNqQk4yRVI2VUcxNnVTX1A1cDVNdXFYSmc?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:01:00 GMT",
+  "published_ts": 1781557260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5MR2tTaW9PLXJiQjFfU05VWXg4OHhUSU8tZE1PX0U0VzVEUnhNc3FVenZyWHN6S2NJQ0JQV0F6b2J6V0pYbE5tYWs5Z1hDS0J3TXJmM0E3TUdjYlFWekV0Q01uM3lzVEszUVBHM0o1ckozc0lqR205cGhB0gGOAUFVX3lxTE41TXRXc1g1d0JsMDIzOE9FeG42Q0FjNHRsT3o2SENlWVFxZ2NMSTE2dVdENDJaSlR5LU5YcXB0bGp1MFVPN051Nm9KOWhLVG9USnpBSW14a09abEViX25RQ1JRRldmUmpuV29pMFhwMFNZSFVmVWNqQk4yRVI2VUcxNnVTX1A1cDVNdXFYSmc?oc=5\" target=\"_blank\">AI and big tech reshape Korea memory cycle, easing busts but raising risk - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece on how AI and big tech demand are reshaping the memory cycle in Korea, with implications for SK hynix and Samsung's memory businesses. Discusses structural changes to the traditional boom-bust pattern but appears to be forward-looking commentary rather than reporting a concrete event or hard number."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "6bd37f0e130cb9f2037d7f5c61ca87d26ca42176",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Seagate (STX) Stock Trades Up, Here Is Why - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRElEWUZQNWhmQnY3NEc4SjVwQThrMHU2anBxak84dEJndUtzS2p5S3lIbGxEUU1UX1NqdVZpbThrVzNjcHMzQktUR3RIaGlDZUt1a1pfMUVoVGRGTzRCVjJ2QTdZOUZmLWRzaG1mOHZmZ3ZQQmJscThZckd1OGdWWFVrbU52LTF3TXlRUnhBYnNIb2p2emMyLURBb0pBN3MyMDM4Tw?oc=5",
+  "published_at": "Mon, 15 Jun 2026 20:43:34 GMT",
+  "published_ts": 1781556214,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRElEWUZQNWhmQnY3NEc4SjVwQThrMHU2anBxak84dEJndUtzS2p5S3lIbGxEUU1UX1NqdVZpbThrVzNjcHMzQktUR3RIaGlDZUt1a1pfMUVoVGRGTzRCVjJ2QTdZOUZmLWRzaG1mOHZmZ3ZQQmJscThZckd1OGdWWFVrbU52LTF3TXlRUnhBYnNIb2p2emMyLURBb0pBN3MyMDM4Tw?oc=5\" target=\"_blank\">Seagate (STX) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a stock price increase. The article attributes the move to an undisclosed reason ('Here Is Why'), typical of price-movement roundups that lack a confirmed catalyst or concrete news event."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "50d29c38647c7abbfb479f1c37c52fefb2e6b75a",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is Seagate Technology stock surging today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW1nclhKMEpJd1lWUUJPUEV1a0ZSLXVOZ2V3djliSDIxbW9RNUtzT0VobG5sdmdyMEt2ZFA4MTFPWUk3c3RYY05rSUFhMXNMaWlpUlFOa3VTVy1sbFYtVGpqZUxDTko2a29wUUVhWEttRmswb2d1LTlkYkdBczhUb24xYm5SdzJzd1FkVG9venVDY3JJUlJhaVR1REhKV1VZS0NBeVBscXFaR2s?oc=5",
+  "published_at": "Mon, 15 Jun 2026 15:23:30 GMT",
+  "published_ts": 1781537010,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW1nclhKMEpJd1lWUUJPUEV1a0ZSLXVOZ2V3djliSDIxbW9RNUtzT0VobG5sdmdyMEt2ZFA4MTFPWUk3c3RYY05rSUFhMXNMaWlpUlFOa3VTVy1sbFYtVGpqZUxDTko2a29wUUVhWEttRmswb2d1LTlkYkdBczhUb24xYm5SdzJzd1FkVG9venVDY3JJUlJhaVR1REhKV1VZS0NBeVBscXFaR2s?oc=5\" target=\"_blank\">Why is Seagate Technology stock surging today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is reported to be surging. The headline indicates a stock price move but provides no disclosed catalyst or concrete event to explain it—typical of price-move coverage without stated cause. Without details on the reason for the surge, this rates as relevant but soft news."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "22118571c9ff3772602acb94cda86232ac1610e9",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: The Supercycle Won't Last As Long As Investors Hope (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZJbTVaR2psZHVzOVpBZHlYVVR3d0RRc1UtZngtSFRYNDJpeVNFWG9OVlhKSWZwMFczUmlpODFnbTZudmN1dlRIZ2Ezd2ZibkxSTW5VTURTdjdaQlIzREtWclR2WWNqQlVpYTFjX2ozYy1IMGx5Nmp2amdtZ1hzN2dYSFk5RlM4bTBPdlN5dmF2dTltVmZLZXQ4c1IxeDg5?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:49:34 GMT",
+  "published_ts": 1781560174,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZJbTVaR2psZHVzOVpBZHlYVVR3d0RRc1UtZngtSFRYNDJpeVNFWG9OVlhKSWZwMFczUmlpODFnbTZudmN1dlRIZ2Ezd2ZibkxSTW5VTURTdjdaQlIzREtWclR2WWNqQlVpYTFjX2ozYy1IMGx5Nmp2amdtZ1hzN2dYSFk5RlM4bTBPdlN5dmF2dTltVmZLZXQ4c1IxeDg5?oc=5\" target=\"_blank\">Sandisk: The Supercycle Won't Last As Long As Investors Hope (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece arguing that SanDisk (a DRAM ETF holding) will not enjoy as prolonged a supercycle as some investors expect. This is analyst commentary and speculation about future duration rather than a concrete event or hard number, warranting impact 3."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "cd05753e1103bcfc7832d4e6e32f6bc7a12ded4c",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGQtV2h3ZzdnWHVES3hfd3ZGbjRTWFBMZ1hoZ2Y3UGJMWFhyZkVKOTBFbkVxX0NYV0Y3a0JNNHBBMVZJNlhrN2oteTlfWFdMbEdjMWVIaVdTZ2ptLWtkOG1uOGpHR3dSV2tBOVNvbkQxUV9pZ3ZLa0tCTjk2NW5walA0NXFuSG13ejQ0ZlRWQzJCeS1sd2hhVUYzVHNQUWstaGpLallzT3V3LS1UZTJ2TFZfbGZBU3JzTmI2WGVhMkV3aWFMOTAxdg?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:31:00 GMT",
+  "published_ts": 1781559060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGQtV2h3ZzdnWHVES3hfd3ZGbjRTWFBMZ1hoZ2Y3UGJMWFhyZkVKOTBFbkVxX0NYV0Y3a0JNNHBBMVZJNlhrN2oteTlfWFdMbEdjMWVIaVdTZ2ptLWtkOG1uOGpHR3dSV2tBOVNvbkQxUV9pZ3ZLa0tCTjk2NW5walA0NXFuSG13ejQ0ZlRWQzJCeS1sd2hhVUYzVHNQUWstaGpLallzT3V3LS1UZTJ2TFZfbGZBU3JzTmI2WGVhMkV3aWFMOTAxdg?oc=5\" target=\"_blank\">Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Stock market surge attributed to Trump and Iran deal news; Micron and SanDisk (both DRAM ETF holdings) named as big winners in the rally. However, the story attributes gains to broad market sentiment rather than memory-specific fundamentals or concrete events for these holdings."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "75fd807342dbd9a91f7692b57056deb9b8ef07dd",
+  "source": "Sourceability",
+  "topic": "industry",
+  "title": "AI growth is lengthening the memory shortage - Sourceability",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVJzc1dld2l0WmRpR2gwbXNhaFI0OV9WYmJfcGJScXFPZXJqX3dzSHhtM3ZQVGZDejNuTHVRVG0ybWJqZ1N2ZnJ4OFotaUoxU2hRenU1WTRWSEdLVFZMYlNPTi12b0xpYV9JNEZfR0MxN3dwX0JoY0JBSWJ0WGtwMVpwUjhKbmlsVVFvZlAzaU5SUjg3d2RKYWo2WUs?oc=5",
+  "published_at": "Mon, 15 Jun 2026 22:28:21 GMT",
+  "published_ts": 1781562501,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVJzc1dld2l0WmRpR2gwbXNhaFI0OV9WYmJfcGJScXFPZXJqX3dzSHhtM3ZQVGZDejNuTHVRVG0ybWJqZ1N2ZnJ4OFotaUoxU2hRenU1WTRWSEdLVFZMYlNPTi12b0xpYV9JNEZfR0MxN3dwX0JoY0JBSWJ0WGtwMVpwUjhKbmlsVVFvZlAzaU5SUjg3d2RKYWo2WUs?oc=5\" target=\"_blank\">AI growth is lengthening the memory shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sourceability</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis that AI growth is extending the memory shortage. This is a soft forecast/opinion piece rather than a concrete event or hard data point, but it addresses a core demand driver for DRAM and memory capacity that directly affects the fund's holdings and the memory cycle."
+  },
+  "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "fbbf376ad9cee290b69b61ab6b00eb214c92911c",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Seagate Technology Insiders Sold Shares Worth Over $2.3M - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM0JrbkY4ejJVdW9VUEtnSnEzTGJ2bHBHUXFFamRkLXE3R1NSa1BITEp1VUNRd1BxUnRudllXMTBlZks0Q0xMUHBHOThUZzNyMXgwZEczZ25IMmZPSHQ0MXVSUWpUYnY2MEgtdlEtelgwRWZvVWh4TkpjQVN4ZkRpcTV4eTZiQUJUTk9JVE9hNElXTnAtU2xYeHhET205dkVwSEJzd2JJdTFPWDZ4MWItLWREMkZ4amYt?oc=5",
+  "published_at": "Mon, 15 Jun 2026 21:50:01 GMT",
+  "published_ts": 1781560201,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM0JrbkY4ejJVdW9VUEtnSnEzTGJ2bHBHUXFFamRkLXE3R1NSa1BITEp1VUNRd1BxUnRudllXMTBlZks0Q0xMUHBHOThUZzNyMXgwZEczZ25IMmZPSHQ0MXVSUWpUYnY2MEgtdlEtelgwRWZvVWh4TkpjQVN4ZkRpcTV4eTZiQUJUTk9JVE9hNElXTnAtU2xYeHhET205dkVwSEJzd2JJdTFPWDZ4MWItLWREMkZ4amYt?oc=5\" target=\"_blank\">Seagate Technology Insiders Sold Shares Worth Over $2.3M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, saw insiders sell approximately $2.3M in shares. Insider selling alone, without context of broader market conditions or company guidance changes, is a minor signal and does not indicate a material catalyst for the fund."
+  },
+  "buffered_ts": 1781562859.593921
  }
 ]
