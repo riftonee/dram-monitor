@@ -814,5 +814,260 @@
    "summary": "Samsung and SK hynix shares rose over 2% in pre-market trading on US AI sentiment and ceasefire news. The move is attributed to market sentiment rather than company-specific memory or semiconductor fundamentals; holdings mentioned but no concrete memory-cycle or earnings catalyst disclosed."
   },
   "buffered_ts": 1781569711.6465929
+ },
+ {
+  "id": "3ea584a47c498821c1260b816a7a9534c0cd79f9",
+  "source": "Evertiq",
+  "topic": "holding",
+  "title": "Air Liquide invests €200M in Korea to back SK hynix’s AI chip project - Evertiq",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVaRGRDUWVmZmlBd3RMQnotZkhCeUJ3Q2d2YkJHTkRaQXpzNG9yWVBCV3JBY0N0OHJqV3I1MU1SOHFhUU0zQTYzdTJMdzJBakR6S1pCU2pFVjhhMWt6a2U2ZFk3cGN3ZmNralVkZDF2WTlpOE1PZTFkYnpWOXgzZDZoNC0wOTZHNjFKdDA1MjVHYkczOXRrelFkeHltR3IwU01HS0dn?oc=5",
+  "published_at": "Tue, 16 Jun 2026 04:03:50 GMT",
+  "published_ts": 1781582630,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVaRGRDUWVmZmlBd3RMQnotZkhCeUJ3Q2d2YkJHTkRaQXpzNG9yWVBCV3JBY0N0OHJqV3I1MU1SOHFhUU0zQTYzdTJMdzJBakR6S1pCU2pFVjhhMWt6a2U2ZFk3cGN3ZmNralVkZDF2WTlpOE1PZTFkYnpWOXgzZDZoNC0wOTZHNjFKdDA1MjVHYkczOXRrelFkeHltR3IwU01HS0dn?oc=5\" target=\"_blank\">Air Liquide invests €200M in Korea to back SK hynix’s AI chip project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Evertiq</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide announced a €200M investment in Korea to support SK hynix's AI chip project. This is a concrete, officially announced infrastructure investment backing a major memory producer's AI-focused expansion, signaling material capacity growth for a fund holding."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "b047074dfa7a0a1273a2bc93998af97752d48840",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Genesem jumps as SK hynix awards 7.37 billion won equipment deal - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWdjLWlteHVhMWRXSTg5SnlaTzJhOFRLckVmOWRxZF8yV3paNDh3a3NiQmdPbEdGNUVwU290VnhKRWd4VVgzT0pHeDN3cGl3d29KNUtaLWpQd1hNR2o5SXBpMlFpeDZSVlprX1RjaDBIa2kyamVYT1VReXhxMTlBONIBlAFBVV95cUxQOE04amJoSEptMWFmajcwaEYtS0c5eW1VV1FqQXVvMG56N1JsVWd2NnJrZnh1bGdaSDEzWkQ3QV9zMzg5bEUxNFBTTDNETXZxUVdla2xYbVNtUlNtQmJiME9jS1JoRkZlLWpJSDh6ZzRwMlZGeDdhR21XQlRQbkNrVF9maG9scXpQMUh3blppMlc3ak1i?oc=5",
+  "published_at": "Tue, 16 Jun 2026 00:28:00 GMT",
+  "published_ts": 1781569680,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWdjLWlteHVhMWRXSTg5SnlaTzJhOFRLckVmOWRxZF8yV3paNDh3a3NiQmdPbEdGNUVwU290VnhKRWd4VVgzT0pHeDN3cGl3d29KNUtaLWpQd1hNR2o5SXBpMlFpeDZSVlprX1RjaDBIa2kyamVYT1VReXhxMTlBONIBlAFBVV95cUxQOE04amJoSEptMWFmajcwaEYtS0c5eW1VV1FqQXVvMG56N1JsVWd2NnJrZnh1bGdaSDEzWkQ3QV9zMzg5bEUxNFBTTDNETXZxUVdla2xYbVNtUlNtQmJiME9jS1JoRkZlLWpJSDh6ZzRwMlZGeDdhR21XQlRQbkNrVF9maG9scXpQMUh3blppMlc3ak1i?oc=5\" target=\"_blank\">Genesem jumps as SK hynix awards 7.37 billion won equipment deal - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix awards a 7.37 billion won (approximately $5.5M USD) equipment deal to Genesem, a supplier. This represents a concrete, officially announced contract award to a key memory-semiconductor supply-chain partner of SK hynix, one of the fund's major holdings, indicating continued capex and production activity."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "2983850768f2932be8faeac1b77e1374c9fc331c",
+  "source": "Let's Data Science",
+  "topic": "industry",
+  "title": "Micron's Sold-Out HBM Capacity Creates June 24 Catalyst - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUVuMjltQ0NKUDZxbkVLUVg4MGZLQTVlRThYNXktVEJEdjRXdVdGUEQzckpIMlV0aDVPOHh5MHU5WndRUWlpRUlZRWtmUmJ6NEtyYzYzOXNjd0tYcVdGS2hvT0FUQTdlTkk5MDFUNklQSjRwbUswb2t2cHRWVXlHZXJYWEFHWVZnZEREZUtEeWtoY2ZnSzE4aGlaRlo?oc=5",
+  "published_at": "Mon, 15 Jun 2026 18:35:00 GMT",
+  "published_ts": 1781548500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUVuMjltQ0NKUDZxbkVLUVg4MGZLQTVlRThYNXktVEJEdjRXdVdGUEQzckpIMlV0aDVPOHh5MHU5WndRUWlpRUlZRWtmUmJ6NEtyYzYzOXNjd0tYcVdGS2hvT0FUQTdlTkk5MDFUNklQSjRwbUswb2t2cHRWVXlHZXJYWEFHWVZnZEREZUtEeWtoY2ZnSzE4aGlaRlo?oc=5\" target=\"_blank\">Micron's Sold-Out HBM Capacity Creates June 24 Catalyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Micron's HBM (high-bandwidth memory) capacity is sold out, creating a near-term catalyst tied to an upcoming June 24 date. Sold-out HBM inventory is a concrete indicator of strong AI-driven demand and supply constraints, materially relevant to the memory cycle and DRAM fund holdings."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "f8308f50e567c267533771aeff0f468cd590adc5",
+  "source": "digitimes",
+  "topic": "pricing",
+  "title": "AI chip race sends WF6 prices soaring after Japan supply shock - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzdtanFaVWU4MVpfTTJLUFZwdnhvdUFSbUhLbDhWWVVhcU81SWdkQmNmd2huTHVIN090eDEzaXVITFpXQTJ6WkZZNXlKaXlRLTVlakpXek9EcnJqdEFUQWh5WGxGT0cyNkNfZmpiQzZPaXh1Tk1PMkNEMXpteHUtQjdPX2ZpMzFDR3FjVlRMLTg0UkpWMmc?oc=5",
+  "published_at": "Tue, 16 Jun 2026 01:51:23 GMT",
+  "published_ts": 1781574683,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzdtanFaVWU4MVpfTTJLUFZwdnhvdUFSbUhLbDhWWVVhcU81SWdkQmNmd2huTHVIN090eDEzaXVITFpXQTJ6WkZZNXlKaXlRLTVlakpXek9EcnJqdEFUQWh5WGxGT0cyNkNfZmpiQzZPaXh1Tk1PMkNEMXpteHUtQjdPX2ZpMzFDR3FjVlRMLTg0UkpWMmc?oc=5\" target=\"_blank\">AI chip race sends WF6 prices soaring after Japan supply shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Japan supply shock drives WF6 (tungsten hexafluoride) prices significantly higher, a critical material for semiconductor fab equipment. This directly affects memory-chip production capacity and costs, moving a leading indicator for DRAM/NAND pricing and margin dynamics across fund holdings."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "2259cd0f11ca15df75287f50545f2b3a6e31296b",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Apple's Siri AI push drives 12GB DRAM demand for Samsung and SK Hynix - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0ZSUTVSZTFMY1E5VjdBRnJTUGZQa3NORXFTblFITE5mWjRDbWlDUFRMRGdKcDhNSzhNZmQ0MkEtYkZnX0xFRnoxMFBXaXBISjhndGh1LVI1QjUzZEJXaVFyTnNodmxQN0dKdzBfSmxoSUVYN25PSmIySFBzak16TGNoeFJPVGRM?oc=5",
+  "published_at": "Tue, 16 Jun 2026 04:47:23 GMT",
+  "published_ts": 1781585243,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0ZSUTVSZTFMY1E5VjdBRnJTUGZQa3NORXFTblFITE5mWjRDbWlDUFRMRGdKcDhNSzhNZmQ0MkEtYkZnX0xFRnoxMFBXaXBISjhndGh1LVI1QjUzZEJXaVFyTnNodmxQN0dKdzBfSmxoSUVYN25PSmIySFBzak16TGNoeFJPVGRM?oc=5\" target=\"_blank\">Apple's Siri AI push drives 12GB DRAM demand for Samsung and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Apple's AI initiative for Siri is reported to drive 12GB DRAM demand from Samsung and SK Hynix. This names two key holdings and references concrete demand drivers (AI, specific capacity), but lacks hard numbers on volume, confirmed orders, or timing—it appears to be supply-chain analysis rather than an announced deal or earnings result."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "d7dfcfac9e6de28dd13511400f9da608285b3753",
+  "source": "igor´sLAB",
+  "topic": "holding",
+  "title": "NVIDIA Deepens South Korea Alliances: SK hynix, SK Telecom, NAVER, LG and Hyundai Move into the AI Factory Plan - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hRTJXejhuR0JURWdVa3pEYi1aUFU4aUh6TFEtQjk5V1NBMG4tZFBfSVoxSFRJVlE2SGFlcjY1bENtZzlLRXJqRGdGSUdNYnF0a0JxYjJNdHBXVlM4c2o3TWlwN1I2OXJkZ3c0a1k2aW9YQ29nVjhQclBSSU4?oc=5",
+  "published_at": "Tue, 16 Jun 2026 04:00:00 GMT",
+  "published_ts": 1781582400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9hRTJXejhuR0JURWdVa3pEYi1aUFU4aUh6TFEtQjk5V1NBMG4tZFBfSVoxSFRJVlE2SGFlcjY1bENtZzlLRXJqRGdGSUdNYnF0a0JxYjJNdHBXVlM4c2o3TWlwN1I2OXJkZ3c0a1k2aW9YQ29nVjhQclBSSU4?oc=5\" target=\"_blank\">NVIDIA Deepens South Korea Alliances: SK hynix, SK Telecom, NAVER, LG and Hyundai Move into the AI Factory Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "NVIDIA is deepening partnerships with SK hynix and other South Korean companies on AI infrastructure initiatives. SK hynix, a major DRAM holding, is involved in collaborative discussions around an 'AI Factory Plan,' but the announcement describes partnerships and plans being pursued rather than a concrete, finalized deal or official capacity commitment with hard numbers."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "cbc9c8c95cc06eabe5d87614d9c29b8666410dc6",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Morgan Stanley Adjusts PT on Seagate Technology to $1,035 From $767, Maintains Overweight Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHBDcWk4cjA4a0lXWWs2X0tBUkcyYkhMc3R5d3VIZjMxWHB3cTY1UllRbHRDSjlEZGwzLW1XLXpJVU94UEF3RXJwZkNZN09BallYMXJ3VEViX0xrU3I0cktQQllRX0RBYkxVZjJRaWI2WnNkcG1LQlptb1RiSU51X0ViTEpILUV0RzJnZU5lWVRyd0YtSVZ5Ri1qQWRpREV5bUdvLWVyWE1ETXdkLUhvOVJSSlAzcFN6OGdrWjNEZXBTLXdmRndkUkRMWFBCTlNEN09lQ3hyU3V0dFVReEI4?oc=5",
+  "published_at": "Mon, 15 Jun 2026 10:48:36 GMT",
+  "published_ts": 1781520516,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHBDcWk4cjA4a0lXWWs2X0tBUkcyYkhMc3R5d3VIZjMxWHB3cTY1UllRbHRDSjlEZGwzLW1XLXpJVU94UEF3RXJwZkNZN09BallYMXJ3VEViX0xrU3I0cktQQllRX0RBYkxVZjJRaWI2WnNkcG1LQlptb1RiSU51X0ViTEpILUV0RzJnZU5lWVRyd0YtSVZ5Ri1qQWRpREV5bUdvLWVyWE1ETXdkLUhvOVJSSlAzcFN6OGdrWjNEZXBTLXdmRndkUkRMWFBCTlNEN09lQ3hyU3V0dFVReEI4?oc=5\" target=\"_blank\">Morgan Stanley Adjusts PT on Seagate Technology to $1,035 From $767, Maintains Overweight Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morgan Stanley raised its price target on Seagate (STX), a fund holding, from $767 to $1,035 while maintaining an Overweight rating. This is analyst-driven guidance rather than a concrete company event, making it a soft signal of positive sentiment."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "ad118c64214c66affad27d588bd952cf7e990a02",
+  "source": "FXLeaders",
+  "topic": "holding",
+  "title": "SanDisk Surges 620% YTD as AI Memory Boom Drives Record Profits, but Valuation Debate Intensifies - FXLeaders",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnBSbEJRN0ttWUpFd21XZTgtY2dTWjY3Q1Z1MVhKbEFlMExVYTA2S0E3eG1POGVoSkpLUGFkRDRROXhmWUQ5V2I4MmFtT25hM3lmby1iWVNKYkE3eTl5N0RWaDBYeFRMWV9NRFFjb01BZVhyaWJadm90dnFuOUpoVWhxNF9OdnZLbXlZcmx5cjB5QzBDSXl0ejhUeWc2OTJNVVZRVjVtbWZaY25KSTYwQnlLaElsdGhXWDEwOGJoMGtaN2pBTWFXWm4wbUVxZDFSejFjag?oc=5",
+  "published_at": "Tue, 16 Jun 2026 02:41:11 GMT",
+  "published_ts": 1781577671,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnBSbEJRN0ttWUpFd21XZTgtY2dTWjY3Q1Z1MVhKbEFlMExVYTA2S0E3eG1POGVoSkpLUGFkRDRROXhmWUQ5V2I4MmFtT25hM3lmby1iWVNKYkE3eTl5N0RWaDBYeFRMWV9NRFFjb01BZVhyaWJadm90dnFuOUpoVWhxNF9OdnZLbXlZcmx5cjB5QzBDSXl0ejhUeWc2OTJNVVZRVjVtbWZaY25KSTYwQnlLaElsdGhXWDEwOGJoMGtaN2pBTWFXWm4wbUVxZDFSejFjag?oc=5\" target=\"_blank\">SanDisk Surges 620% YTD as AI Memory Boom Drives Record Profits, but Valuation Debate Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXLeaders</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (holding in DRAM ETF) has surged 620% YTD driven by AI memory demand and record profits. The article discusses valuation debate around the stock move but does not disclose a specific concrete catalyst, earnings result, or guidance change—it is primarily analysis of the stock performance and valuation implications rather than a new market event."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "ca3d55749037bdc703fcfd15bc5aa914ee843fcf",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "New AI demand puts Micron HBM3E chips in the spotlight - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3JjUU1sRDEyQmJQbndyUklkZFo4Y2JzallhV21PMndOQ1JwVDBGbG1fMHdKcnNCVmxWUlRZVnF1aEJyWmJKa20yMThPdkJRNW9ERVkxVTNMTUMyY242V2FjMnRtNWNCbjg1VlBDMFdmUENUU1BfUTNGM2Q1V0FWMzNtelF5bFhiSjZzTW1ybDhRYlNnd0VzX3Q2c19DZDc0VGdvR2prYTZlTVJKVy1mS1NZNA?oc=5",
+  "published_at": "Tue, 16 Jun 2026 01:15:50 GMT",
+  "published_ts": 1781572550,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3JjUU1sRDEyQmJQbndyUklkZFo4Y2JzallhV21PMndOQ1JwVDBGbG1fMHdKcnNCVmxWUlRZVnF1aEJyWmJKa20yMThPdkJRNW9ERVkxVTNMTUMyY242V2FjMnRtNWNCbjg1VlBDMFdmUENUU1BfUTNGM2Q1V0FWMzNtelF5bFhiSjZzTW1ybDhRYlNnd0VzX3Q2c19DZDc0VGdvR2prYTZlTVJKVy1mS1NZNA?oc=5\" target=\"_blank\">New AI demand puts Micron HBM3E chips in the spotlight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron's HBM3E chips are receiving attention due to increased AI demand. This is a positive signal for Micron's high-bandwidth memory business, a key growth driver, though the article appears to be analysis/commentary rather than reporting a concrete event or official guidance."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "61965314b272e058ed35453626b00c1875c0f410",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "AI servers drive demand, SK Hynix HBM3E Turbo pushes high-bandwidth memory harder - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3hYNEdObHdtT05KdlhaZWplSGtzaEU5ODNrLXdacUF0X3hwXzJrQ1c3TkRpdHg3U3l3SzNmdEp3TkFkams5S2FOOUd0SFVJYzRLQVd0QUFCWXJsc1JSTWgxRnhocjQ0b1IyWFlka0pCUkVqUU9kVkktWFFfdUVmeUtkT3hfanFHb1ktb3M2TmZSWDVjOTA0S2JMTGdnN240c2dEd1huT3R5QmpWYjVrZ2FBbDdzREs4bnZUT1ROazExN3BFbjhnbENCa00?oc=5",
+  "published_at": "Tue, 16 Jun 2026 04:34:10 GMT",
+  "published_ts": 1781584450,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3hYNEdObHdtT05KdlhaZWplSGtzaEU5ODNrLXdacUF0X3hwXzJrQ1c3TkRpdHg3U3l3SzNmdEp3TkFkams5S2FOOUd0SFVJYzRLQVd0QUFCWXJsc1JSTWgxRnhocjQ0b1IyWFlka0pCUkVqUU9kVkktWFFfdUVmeUtkT3hfanFHb1ktb3M2TmZSWDVjOTA0S2JMTGdnN240c2dEd1huT3R5QmpWYjVrZ2FBbDdzREs4bnZUT1ROazExN3BFbjhnbENCa00?oc=5\" target=\"_blank\">AI servers drive demand, SK Hynix HBM3E Turbo pushes high-bandwidth memory harder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix launches HBM3E Turbo product in response to AI server demand for high-bandwidth memory. Reports product availability and capability but no confirmed volume commitments, pricing, or binding customer orders disclosed."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "e139fffe2cb55a0443689f0df0b249ad05811306",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron hits $1T in record time amid AI chip shortage - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdW5QWDdsQm1UTmt1TTBOblhzdEU0QlhaZmlzWF9DQnBFTmlOUXVqdzVPdHBMSVpucTNQRlctM0NhWTAxRU9lRE9KZ2ZmMUpiMzN1S3dOTFFqV1gtX2FKekZ3clRnOWZteU5nSjQ2azFDemRRWHFGWjhOcUJ1TENoOHZzMndyTXBVamVvMWdLUldMcnpQRXVHWFNxNWF1bV94ZUNDSWlCTFcyUk1tOTQ3OG9fYlNoV096YTcyYmlNekhackZOZ0IteA?oc=5",
+  "published_at": "Tue, 16 Jun 2026 00:40:49 GMT",
+  "published_ts": 1781570449,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdW5QWDdsQm1UTmt1TTBOblhzdEU0QlhaZmlzWF9DQnBFTmlOUXVqdzVPdHBMSVpucTNQRlctM0NhWTAxRU9lRE9KZ2ZmMUpiMzN1S3dOTFFqV1gtX2FKekZ3clRnOWZteU5nSjQ2azFDemRRWHFGWjhOcUJ1TENoOHZzMndyTXBVamVvMWdLUldMcnpQRXVHWFNxNWF1bV94ZUNDSWlCTFcyUk1tOTQ3OG9fYlNoV096YTcyYmlNekhackZOZ0IteA?oc=5\" target=\"_blank\">Micron hits $1T in record time amid AI chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron reaches $1T market cap amid AI chip demand. While Micron is a core DRAM holding and AI infrastructure is a key driver of memory demand, this headline appears to focus on the stock milestone and market sentiment rather than reporting a concrete operational event (earnings, guidance, production decision, or pricing move). Treat as relevant but soft sentiment/analysis."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "f2e9034dcf3fb9393d0f95d098e152d9c704ee74",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "US AI Rally on Ceasefire Lifts Samsung, SK hynix Over 2% in Pre-Market - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVG5YOTAzQVJTNm9VRlcxT2NPNm5xVS1ZNDhSTlZaSVQzT2x1bDJkWS1Tb0VIVnRxUU4xQ1NNaWNlQzhTMnFPek56YVFaTWdveDZZU05ydWZlcDhDeWdIdm9XeVhmZ0dNZ0tGM0RUc0x0Y280UXZ5Q2FhbGZWc3BXMnFNMnJlczRCV0s3dFhmdTlzV0lpdmRtbmllWl8?oc=5",
+  "published_at": "Mon, 15 Jun 2026 23:28:56 GMT",
+  "published_ts": 1781566136,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVG5YOTAzQVJTNm9VRlcxT2NPNm5xVS1ZNDhSTlZaSVQzT2x1bDJkWS1Tb0VIVnRxUU4xQ1NNaWNlQzhTMnFPek56YVFaTWdveDZZU05ydWZlcDhDeWdIdm9XeVhmZ0dNZ0tGM0RUc0x0Y280UXZ5Q2FhbGZWc3BXMnFNMnJlczRCV0s3dFhmdTlzV0lpdmRtbmllWl8?oc=5\" target=\"_blank\">US AI Rally on Ceasefire Lifts Samsung, SK hynix Over 2% in Pre-Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stocks rose over 2% in pre-market trading following a US AI rally linked to ceasefire news. The movement is attributed to broad market sentiment rather than memory-specific fundamentals or company-specific developments."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "901efd95c1381870ebd0139c2cb00fe1d2d0559f",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Nikkei Opens Slightly Lower, Korean Stocks Rise Near 2%, BOJ Rate Hike Imminent, SK Hynix Rises Over 4% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm56Y054cW1CT3ZXZUpfYWNjektvS0IzYjk0RC1uUWpBUUlmQmRFeGF1WnRaaHp0Z2hJaGJ2YnNyU0lHLUhhRjJFU0tkLUFmWnBwQTN0aUJqVnliUmFTT0tvdG5zajNYMlpHbGVWVXVTTS1SRnVEUFRTcEJIb2Vqa3ltS2xqMDhTRHoxekdpQTkxaWZzbzNPVTRCdWo?oc=5",
+  "published_at": "Tue, 16 Jun 2026 00:34:57 GMT",
+  "published_ts": 1781570097,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONm56Y054cW1CT3ZXZUpfYWNjektvS0IzYjk0RC1uUWpBUUlmQmRFeGF1WnRaaHp0Z2hJaGJ2YnNyU0lHLUhhRjJFU0tkLUFmWnBwQTN0aUJqVnliUmFTT0tvdG5zajNYMlpHbGVWVXVTTS1SRnVEUFRTcEJIb2Vqa3ltS2xqMDhTRHoxekdpQTkxaWZzbzNPVTRCdWo?oc=5\" target=\"_blank\">Nikkei Opens Slightly Lower, Korean Stocks Rise Near 2%, BOJ Rate Hike Imminent, SK Hynix Rises Over 4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock rose over 4% in a session where Korean equities broadly gained. No specific catalyst or news event disclosed—appears to be part of a general market move following BOJ rate-hike signals."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "c1c7d78e5c29fc99394e1b8ede18246a2f8e6aef",
+  "source": "mkbn.mk.co.kr",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK hynix gain on strong U.S. market after Middle East truce - mkbn.mk.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdE1WUXJjQWF2R2NyUzBsbENjR1VONVRlSS01OWNpQkRRemlkaVdISkZUQ0VNOVltTnFsY2lZbHpNbVdOZGdXZGpNLVNDWWxRV0ZVLU93?oc=5",
+  "published_at": "Tue, 16 Jun 2026 05:20:40 GMT",
+  "published_ts": 1781587240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdE1WUXJjQWF2R2NyUzBsbENjR1VONVRlSS01OWNpQkRRemlkaVdISkZUQ0VNOVltTnFsY2lZbHpNbVdOZGdXZGpNLVNDWWxRV0ZVLU93?oc=5\" target=\"_blank\">Samsung Electronics, SK hynix gain on strong U.S. market after Middle East truce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mkbn.mk.co.kr</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "macro",
+   "summary": "Samsung Electronics and SK hynix stocks rose following a Middle East ceasefire announcement, which improved broader U.S. market sentiment. This is a passing macro-driven price move with no memory-semiconductor-specific catalyst or company-disclosed news."
+  },
+  "buffered_ts": 1781590126.5377438
+ },
+ {
+  "id": "0c57e85f1eecc80c42eb1dfaacc00dfcf6193dbf",
+  "source": "Investopedia",
+  "topic": "industry",
+  "title": "The AI Trade Starts Holiday-Shortened Week Strong as Chip and Memory Stocks Surge - Investopedia",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmpONTZKLXIxdmJwb1lGQk03U2MxTGwwVXhpZVpPQzVjVFpOYU9Pc1ZmX2xSYVNEUDlUU09iNklDWHhZSnBlYzQ2MW5Wbms4eFdLQXV6YmxBLWNNZlJiUGpXMEFfanNwYm05Wk9nRjRUZU81eU14SnlCZHl4UFNneW5qcWNZRjFQRHZEb2xCLTd2djFwMGtXQ2d2cmhGTjBubXlCVjVWeGl0R3lvU2owWGVWSFMzYllUaW9J?oc=5",
+  "published_at": "Mon, 15 Jun 2026 15:01:57 GMT",
+  "published_ts": 1781535717,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmpONTZKLXIxdmJwb1lGQk03U2MxTGwwVXhpZVpPQzVjVFpOYU9Pc1ZmX2xSYVNEUDlUU09iNklDWHhZSnBlYzQ2MW5Wbms4eFdLQXV6YmxBLWNNZlJiUGpXMEFfanNwYm05Wk9nRjRUZU81eU14SnlCZHl4UFNneW5qcWNZRjFQRHZEb2xCLTd2djFwMGtXQ2d2cmhGTjBubXlCVjVWeGl0R3lvU2owWGVWSFMzYllUaW9J?oc=5\" target=\"_blank\">The AI Trade Starts Holiday-Shortened Week Strong as Chip and Memory Stocks Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Market commentary noting strong performance in chip and memory stocks during a holiday-shortened trading week, attributed to broader AI-trade momentum. No concrete catalyst or specific holdings impact disclosed; this is general market sentiment coverage."
+  },
+  "buffered_ts": 1781590126.5377438
  }
 ]
