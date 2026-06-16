@@ -525,5 +525,39 @@
    "summary": "Moomoo community post on DRAM ETF implied volatility at 94.80%. Forum commentary without material news or concrete developments; mentions fund metric but lacks actionable information or market-moving catalyst."
   },
   "buffered_ts": 1781640771.7698095
+ },
+ {
+  "id": "9946642a35cab9dd581a97d98ccf049b6076be0d",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Hankyung Business Daily Mentions SK Hynix ADR Amount Could Be Nearly 40 Trillion Won - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMEJZZm9LdnB5WHl1UzhmTkFDSjFoX0RQSk1VdXhVRlhnRE54WmpRdTVvRDltdUhNOHBCSVEwQlc2TlZvdWZjX2ZXZkxIc1JFOVhsSW95bk5iSS1SQ3ZhWWpNMF9SR0VOdnFfYXdYYkdXM0U4WEZaelV3WFZPck0yNm1uc0E2T1BVR1RVWDJtTnVXQUdwZ28tUHpUMkJESGNneGJVNzQwajRfcFFDSF9HMkpYN09yXzJnemZzZw?oc=5",
+  "published_at": "Tue, 16 Jun 2026 20:01:13 GMT",
+  "published_ts": 1781640073,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMEJZZm9LdnB5WHl1UzhmTkFDSjFoX0RQSk1VdXhVRlhnRE54WmpRdTVvRDltdUhNOHBCSVEwQlc2TlZvdWZjX2ZXZkxIc1JFOVhsSW95bk5iSS1SQ3ZhWWpNMF9SR0VOdnFfYXdYYkdXM0U4WEZaelV3WFZPck0yNm1uc0E2T1BVR1RVWDJtTnVXQUdwZ28tUHpUMkJESGNneGJVNzQwajRfcFFDSF9HMkpYN09yXzJnemZzZw?oc=5\" target=\"_blank\">Hankyung Business Daily Mentions SK Hynix ADR Amount Could Be Nearly 40 Trillion Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix ADR (American Depositary Receipt) valuation reported at nearly 40 trillion won. This is a valuation estimate or market commentary rather than a concrete event or official announcement, making it analytical rather than news-driven. Relevant as SK hynix is a key holding, but soft on impact."
+  },
+  "buffered_ts": 1781648978.258069
+ },
+ {
+  "id": "15c4e75d773aabf2211c98efeb0e7d37ec7cfd9f",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron stock surges as memory-chip shortage bites - MSN",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjMtUkluR2hsa0UybkhpbG9NNmwwaXJBVlBGU214T3BJRnBWVFFfWHlvVXpWX1ViUXVQeVdJaG9NSzV6VTBhYlFMM1RROE5GV1BPb21ad1gycGo1V2VWYVRxUFZzc2dPOENrYVZBYW1seUk4Njk2TmZXTjVTendBRmNFQnZFWW9GeC1uZDhjUUN0aGo3dGlqU0NUazVfaVJ2?oc=5",
+  "published_at": "Mon, 15 Jun 2026 12:01:13 GMT",
+  "published_ts": 1781524873,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjMtUkluR2hsa0UybkhpbG9NNmwwaXJBVlBGU214T3BJRnBWVFFfWHlvVXpWX1ViUXVQeVdJaG9NSzV6VTBhYlFMM1RROE5GV1BPb21ad1gycGo1V2VWYVRxUFZzc2dPOENrYVZBYW1seUk4Njk2TmZXTjVTendBRmNFQnZFWW9GeC1uZDhjUUN0aGo3dGlqU0NUazVfaVJ2?oc=5\" target=\"_blank\">Micron stock surges as memory-chip shortage bites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock surges reported in connection with memory-chip shortage. Story mentions a price move but provides no disclosed catalyst, concrete event, or substantive detail—typical of market-price-action coverage without underlying newsworthy driver."
+  },
+  "buffered_ts": 1781648978.258069
  }
 ]
