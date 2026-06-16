@@ -559,5 +559,90 @@
    "summary": "Micron stock surges reported in connection with memory-chip shortage. Story mentions a price move but provides no disclosed catalyst, concrete event, or substantive detail—typical of market-price-action coverage without underlying newsworthy driver."
   },
   "buffered_ts": 1781648978.258069
+ },
+ {
+  "id": "9dc6f5e22a2ddf427f8bea009c8858884a330970",
+  "source": "더커넥트머니",
+  "topic": "holding",
+  "title": "Foreign investors load up on SK Hynix with 3.1tn won in four days…Will Samsung Electronics’ top spot by market cap be shaken? - 더커넥트머니",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Z2F3QlY5VkZFcEVNVmppTTBVaUNaUFNLMnN6aXBVSHludWhOczg0MXNlQWVaeTFKRHZNZG52MzR2VDVWY0FqakVwRXk0aHg2SGtvaGIwZU45c3lpN2dNRA?oc=5",
+  "published_at": "Tue, 16 Jun 2026 21:14:00 GMT",
+  "published_ts": 1781644440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Z2F3QlY5VkZFcEVNVmppTTBVaUNaUFNLMnN6aXBVSHludWhOczg0MXNlQWVaeTFKRHZNZG52MzR2VDVWY0FqakVwRXk0aHg2SGtvaGIwZU45c3lpN2dNRA?oc=5\" target=\"_blank\">Foreign investors load up on SK Hynix with 3.1tn won in four days…Will Samsung Electronics’ top spot by market cap be shaken?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더커넥트머니</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Foreign investors purchased 3.1 trillion won of SK Hynix shares over four days, raising questions about potential market-cap leadership shifts with Samsung Electronics. This represents investor sentiment and capital flows into a major DRAM fund holding, but lacks concrete event details (no announced catalyst, earnings, or guidance change) and appears analysis-focused rather than fact-driven."
+  },
+  "buffered_ts": 1781654329.9115195
+ },
+ {
+  "id": "332f0a9853c7fb3c21b0f1415b0c7fff318970ad",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Western Digital, Micron, and Sandisk hit all-time highs as AI storage demand rewrites the playbook - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2NyZE1senljTW1yNVljdVJYRkVOaV9tV1lOVFliYlFhMGFCZVoyMHZ6R1JHWWIxNjJKcUdIZE1ORHB0ekdVbFQxN29yWmRHT0FDbkZjb3FTWE43UTBldi1ESndMZk9tOVp6ck05VG4wR0pVdUlBQzY0RGVtdnNFbjBB?oc=5",
+  "published_at": "Tue, 16 Jun 2026 15:37:15 GMT",
+  "published_ts": 1781624235,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2NyZE1senljTW1yNVljdVJYRkVOaV9tV1lOVFliYlFhMGFCZVoyMHZ6R1JHWWIxNjJKcUdIZE1ORHB0ekdVbFQxN29yWmRHT0FDbkZjb3FTWE43UTBldi1ESndMZk9tOVp6ck05VG4wR0pVdUlBQzY0RGVtdnNFbjBB?oc=5\" target=\"_blank\">Western Digital, Micron, and Sandisk hit all-time highs as AI storage demand rewrites the playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital, Micron, and SanDisk reached all-time highs amid AI storage demand growth. Story reports stock price moves without disclosed concrete catalyst or earnings confirmation; characterized as analysis of market trend rather than a specific event triggering the moves."
+  },
+  "buffered_ts": 1781654329.9115195
+ },
+ {
+  "id": "54fac598ed79ca7ec942a050b50af0a6a42748a0",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX0xUd1cycGNRamhwTW9Rc1JDNVN6WFJXdmFhbUhaYUgybVdPUno5Z3hKR2xVTk9MajhvMXNtbE1CYlpGYktfMzlXZzBFcnZSVmJPN0VoXzQ5Sm9JYkFvMlROcm9iR3NHT21sQklpeXZDb0NOYzNnY0NXT1N6UjhfRjIyZDBEazVuSFBydDlhTzRBeUhaM09wZU5YckJRZ01neXBJNjR5UEZrdjJCNXY3Y01vQ19kYWk3VU9hMW5Qdlg5WXQ0Z3dBMDZPa0Y1Y3RqRzZtYm8za2VyMktwdUtqbm9nWnNUeUxEaU5raHp2X2hENk9CdFQ5VFpKanRRUQ?oc=5",
+  "published_at": "Tue, 16 Jun 2026 23:48:07 GMT",
+  "published_ts": 1781653687,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX0xUd1cycGNRamhwTW9Rc1JDNVN6WFJXdmFhbUhaYUgybVdPUno5Z3hKR2xVTk9MajhvMXNtbE1CYlpGYktfMzlXZzBFcnZSVmJPN0VoXzQ5Sm9JYkFvMlROcm9iR3NHT21sQklpeXZDb0NOYzNnY0NXT1N6UjhfRjIyZDBEazVuSFBydDlhTzRBeUhaM09wZU5YckJRZ01neXBJNjR5UEZrdjJCNXY3Y01vQ19kYWk3VU9hMW5Qdlg5WXQ0Z3dBMDZPa0Y1Y3RqRzZtYm8za2VyMktwdUtqbm9nWnNUeUxEaU5raHp2X2hENk9CdFQ5VFpKanRRUQ?oc=5\" target=\"_blank\">Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Investment analysis comparing SanDisk and Micron as AI memory stocks following recent stock gains. This is analyst opinion and price-target discussion rather than a concrete market event or disclosed catalyst, making it a soft relevance story about two key fund holdings."
+  },
+  "buffered_ts": 1781654329.9115195
+ },
+ {
+  "id": "15a283faf5f8adbb625c549565edc9ce6426af54",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelU0TGtoLVNkdXBiTHloOFYyOGJ4X1RQLVNhamtveXI1aTQ3WmwyRG5XWVNEQ3hMc1UzeURTTnF4TTN2Z1lOSjVUaGM1N3JNRE52cHJtQnNjRTdCSklpOWl6ZzVENHZsUmdhU09TVlBkaDlacjFSeV8zYkdnYU9vU1lBT1Q0ZnNsWWlHUUZPZ0c3em9PWGs5cg?oc=5",
+  "published_at": "Tue, 16 Jun 2026 23:54:33 GMT",
+  "published_ts": 1781654073,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOelU0TGtoLVNkdXBiTHloOFYyOGJ4X1RQLVNhamtveXI1aTQ3WmwyRG5XWVNEQ3hMc1UzeURTTnF4TTN2Z1lOSjVUaGM1N3JNRE52cHJtQnNjRTdCSklpOWl6ZzVENHZsUmdhU09TVlBkaDlacjFSeV8zYkdnYU9vU1lBT1Q0ZnNsWWlHUUZPZ0c3em9PWGs5cg?oc=5\" target=\"_blank\">Sandisk vs. Micron: Which AI Memory Stock Is the Better Buy After Their Monster Runs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst comparison of SanDisk and Micron as AI memory stocks following recent price appreciation. This is opinion-based analysis rather than reporting a concrete event, earnings result, or material development."
+  },
+  "buffered_ts": 1781654329.9115195
+ },
+ {
+  "id": "ad019d8210979e5344847276f5d771914938f99e",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "The AI memory shortage is just getting started and these 3 ETFs own every layer of the supply chain - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa2dvdU1VVVc1S3NUeGN6QnBmSXhObTN0dHowZlZ4RHQxaGJ6cm5wSTZ5TXM3Tlp0U2hfQzlOWS0yNTZRajFlcHg5VFFkN3NjZzZORjNpU3dhZzRkWlhGTm5WSnN6YkJoQ0pQVVdRZjJ1WDJraFdiY1hzR3BhZVptV2F6bHlrX3JGelhMRUFrWG9mQjZOd084eTlDR1BJU2R3V2RtOVBQTEJ2cDZsMDc0QjVrQWJIYnpLWFU1YUViTFNJbjBJTmlhcnpWbDZ4OGpCVV9vdUJLUkhJbGpUOUkxSWZIYw?oc=5",
+  "published_at": "Tue, 16 Jun 2026 15:34:40 GMT",
+  "published_ts": 1781624080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa2dvdU1VVVc1S3NUeGN6QnBmSXhObTN0dHowZlZ4RHQxaGJ6cm5wSTZ5TXM3Tlp0U2hfQzlOWS0yNTZRajFlcHg5VFFkN3NjZzZORjNpU3dhZzRkWlhGTm5WSnN6YkJoQ0pQVVdRZjJ1WDJraFdiY1hzR3BhZVptV2F6bHlrX3JGelhMRUFrWG9mQjZOd084eTlDR1BJU2R3V2RtOVBQTEJ2cDZsMDc0QjVrQWJIYnpLWFU1YUViTFNJbjBJTmlhcnpWbDZ4OGpCVV9vdUJLUkhJbGpUOUkxSWZIYw?oc=5\" target=\"_blank\">The AI memory shortage is just getting started and these 3 ETFs own every layer of the supply chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "MSN article discusses AI memory shortage and identifies ETFs (likely including DRAM) that own memory semiconductor supply chain companies. This is fund-focused commentary on industry tailwinds but lacks concrete events, hard numbers, or confirmed developments—it is analysis/opinion rather than a market-moving announcement."
+  },
+  "buffered_ts": 1781654329.9115195
  }
 ]
