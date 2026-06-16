@@ -763,5 +763,56 @@
    "summary": "Seagate (STX), a DRAM ETF holding, saw insiders sell approximately $2.3M in shares. Insider selling alone, without context of broader market conditions or company guidance changes, is a minor signal and does not indicate a material catalyst for the fund."
   },
   "buffered_ts": 1781562859.593921
+ },
+ {
+  "id": "b13a3dc112803cca987f65044ef498173217d3c3",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzRrdWFIT3hjQkxWZlZ6MklDMWlSUmtoT1MxRVA0a0JfcURlU3ljQmpybWlzeWNCMUJ5NXNqaFFvZ0d3Sm04X09MeFhPcVRMQXdIaVhUT3R4ZXFWMFo0b0xla0JtSUVqUmMxZDI4SU1YREF4ZGNUN3JXaXdRV2FQc3FPOGc?oc=5",
+  "published_at": "Mon, 15 Jun 2026 03:35:00 GMT",
+  "published_ts": 1781494500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzRrdWFIT3hjQkxWZlZ6MklDMWlSUmtoT1MxRVA0a0JfcURlU3ljQmpybWlzeWNCMUJ5NXNqaFFvZ0d3Sm04X09MeFhPcVRMQXdIaVhUT3R4ZXFWMFo0b0xla0JtSUVqUmMxZDI4SU1YREF4ZGNUN3JXaXdRV2FQc3FPOGc?oc=5\" target=\"_blank\">Daiwa Raises SK Hynix (000660.KS) TP to KRW3.6M, Rating Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Daiwa Securities raised SK Hynix's target price to KRW3.6M with a Buy rating. This is analyst commentary on a major fund holding, but represents opinion/forecast rather than a concrete market event or earnings result."
+  },
+  "buffered_ts": 1781569711.6465929
+ },
+ {
+  "id": "677fa11537ce07cf06d40f0ee833334bac9c0877",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Western Digital stock surges as Morgan Stanley lifts target to $650 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzRTUHdJSHF1M1ZvcG84MjFUTHBETWl6TVZYWkRYOFh5OUtKTlFJTElPeHIzdE1KdC13ODJiZmVIemRRY09YcGJkWDNBZTlzdVdzYnk3R1J1M0tvdWFxNXhTcV9CcUNtVzZldEV0VUVsWG54YWJuZjBlbmJYd0dqUFVIV3A5UzliZGxnU094Vm15cGQ1UUdTUEdQcWw4LXZucjFyLVNud3Rab0Q0Tk9MUnoyb01KS3dwOVhfYml2NFk?oc=5",
+  "published_at": "Mon, 15 Jun 2026 17:23:13 GMT",
+  "published_ts": 1781544193,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzRTUHdJSHF1M1ZvcG84MjFUTHBETWl6TVZYWkRYOFh5OUtKTlFJTElPeHIzdE1KdC13ODJiZmVIemRRY09YcGJkWDNBZTlzdVdzYnk3R1J1M0tvdWFxNXhTcV9CcUNtVzZldEV0VUVsWG54YWJuZjBlbmJYd0dqUFVIV3A5UzliZGxnU094Vm15cGQ1UUdTUEdQcWw4LXZucjFyLVNud3Rab0Q0Tk9MUnoyb01KS3dwOVhfYml2NFk?oc=5\" target=\"_blank\">Western Digital stock surges as Morgan Stanley lifts target to $650</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morgan Stanley raised its price target on Western Digital (WDC) to $650, citing positive analyst view. WDC is a key DRAM ETF holding in memory and storage semiconductors. However, this is an analyst target change rather than a concrete corporate event or confirmed earnings/guidance revision, so impact is moderate opinion-driven sentiment rather than hard catalyst."
+  },
+  "buffered_ts": 1781569711.6465929
+ },
+ {
+  "id": "34e245b437aed1e1c03a09952fa4319805735870",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "US AI Rally on Ceasefire Lifts Samsung, SK hynix Over 2% in Pre-Market - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSU5GUnNtd2NDVEhjQXYxcG1QUFVQbDVxUFpDWldPcktkbmhmQmFiU3QzT2J2WnlkTmFacTRiNHZmVEU1Ym5xNjBNYjhYTktFV1BoOGh6RHdBeHdqaW1Ob05fYW1NNnBEM0ZBYnIxeTlxY25YekU3NUVaRUtfTVdGWDBLanNaODViRTNSWmpnTmZOMFgxSnNlQ0RhRWI?oc=5",
+  "published_at": "Mon, 15 Jun 2026 23:28:56 GMT",
+  "published_ts": 1781566136,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSU5GUnNtd2NDVEhjQXYxcG1QUFVQbDVxUFpDWldPcktkbmhmQmFiU3QzT2J2WnlkTmFacTRiNHZmVEU1Ym5xNjBNYjhYTktFV1BoOGh6RHdBeHdqaW1Ob05fYW1NNnBEM0ZBYnIxeTlxY25YekU3NUVaRUtfTVdGWDBLanNaODViRTNSWmpnTmZOMFgxSnNlQ0RhRWI?oc=5\" target=\"_blank\">US AI Rally on Ceasefire Lifts Samsung, SK hynix Over 2% in Pre-Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK hynix shares rose over 2% in pre-market trading on US AI sentiment and ceasefire news. The move is attributed to market sentiment rather than company-specific memory or semiconductor fundamentals; holdings mentioned but no concrete memory-cycle or earnings catalyst disclosed."
+  },
+  "buffered_ts": 1781569711.6465929
  }
 ]
