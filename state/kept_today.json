@@ -270,5 +270,107 @@
    "summary": "Western Digital (WDC), a key DRAM ETF holding, rose over 6% and led gains among memory/storage stocks. No disclosed catalyst or concrete event is mentioned—this appears to be a pure price-move report without stated fundamental news, making it a soft 3."
   },
   "buffered_ts": 1781724238.3354156
+ },
+ {
+  "id": "5f12be854d82d86da8620543a10201cbb779cd24",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "\"SK hynix Expected to Post 61 Trillion Won Operating Profit in Q2... ADR Listing Seen as Short-term Momentum\" [Click e-Stock] - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CckZuNzRyTDNfNkZQTHdkVW5yaGdqdGdFMnpBdEZpdHRJNlNOakV5Z0lJVHl2eUgtd2lyTGxCU1dpUHBlWEtCaUFOMF9tN25GQUc5UDQ2SEdrOURWS1d6NGRSQXViSzNzY095UjZGMFI0VHc5UUNNbk03Zw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:00:00 GMT",
+  "published_ts": 1781730000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5CckZuNzRyTDNfNkZQTHdkVW5yaGdqdGdFMnpBdEZpdHRJNlNOakV5Z0lJVHl2eUgtd2lyTGxCU1dpUHBlWEtCaUFOMF9tN25GQUc5UDQ2SEdrOURWS1d6NGRSQXViSzNzY095UjZGMFI0VHc5UUNNbk03Zw?oc=5\" target=\"_blank\">\"SK hynix Expected to Post 61 Trillion Won Operating Profit in Q2... ADR Listing Seen as Short-term Momentum\" [Click e-Stock]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix forecast to post 61 trillion won (~$47B USD) operating profit in Q2 2024, with ADR listing noted as short-term momentum driver. Expectation-based analysis rather than confirmed earnings; material as a major holding but sentiment/forecast rather than hard event."
+  },
+  "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "dd4bb1b64a2fe297bcabf4f8bc79acbcffc1d7b3",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Micron & Another AI Memory Stock to Buy Now for Big Upside - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJreDcxa2VZTGtWMFgzbDRSNnJjZWt0RUZobUhKdTlrSzdYai1kdGttblJTZUtVWnpZZDl1T0R1Mk9mSFZtRFhlbXhGQzlLMG1BRlROZjZ0Nk9idjhORE5hX01lMEh1c2dueGRKejJ0eTA0OFktNzRmLXVDeGJNdjZkQ21mYnpkNjBwQ0VkZGgzZWM4ZElDcWtnTHd1Qk9PNEhyU3FUU0J2enp2bUVJMjN3?oc=5",
+  "published_at": "Wed, 17 Jun 2026 19:00:00 GMT",
+  "published_ts": 1781722800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJreDcxa2VZTGtWMFgzbDRSNnJjZWt0RUZobUhKdTlrSzdYai1kdGttblJTZUtVWnpZZDl1T0R1Mk9mSFZtRFhlbXhGQzlLMG1BRlROZjZ0Nk9idjhORE5hX01lMEh1c2dueGRKejJ0eTA0OFktNzRmLXVDeGJNdjZkQ21mYnpkNjBwQ0VkZGgzZWM4ZElDcWtnTHd1Qk9PNEhyU3FUU0J2enp2bUVJMjN3?oc=5\" target=\"_blank\">Micron & Another AI Memory Stock to Buy Now for Big Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TradingView analyst opinion piece recommending Micron and another AI memory stock as buy candidates for upside. Micron is a DRAM ETF holding, but the article is analyst commentary and price-target speculation rather than a concrete event or confirmed catalyst."
+  },
+  "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "b2e6b84558311bfa7379e986d125f04070ca94ff",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Faces A June 22 Share Swap And AI Memory Test - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkxnNUMyRnAzV0xuWTdSRGJwNDZQX3UwNkJvR3BBSFVQYzBpZ2ttTnhWUUJyTk5hWWEyMF9iTUVkYUowVHB0eDd3VHZTcVBfMjNES2k4aVl0TlYyNUNxZzFzWGMzVERlZjFod1hnZHp4ekhqc3JXRzU4cy11bHlRam1nUUctMXJNZ0JuOUlzZ1Z0a2R4Q29XZWFB?oc=5",
+  "published_at": "Wed, 17 Jun 2026 19:10:35 GMT",
+  "published_ts": 1781723435,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkxnNUMyRnAzV0xuWTdSRGJwNDZQX3UwNkJvR3BBSFVQYzBpZ2ttTnhWUUJyTk5hWWEyMF9iTUVkYUowVHB0eDd3VHZTcVBfMjNES2k4aVl0TlYyNUNxZzFzWGMzVERlZjFod1hnZHp4ekhqc3JXRzU4cy11bHlRam1nUUctMXJNZ0JuOUlzZ1Z0a2R4Q29XZWFB?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Faces A June 22 Share Swap And AI Memory Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, faces a June 22 share swap and AI memory test. The headline indicates a corporate action and market test but lacks concrete details on outcomes or financial impact; presented as forward-looking analysis rather than a confirmed event."
+  },
+  "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "d8a4809800e6288593753495384ae8b16e7cdab0",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "This Memory Stock Has Doubled in 2026. Here's Why It Can Skyrocket Higher (Hint: It's Not Micron or Sandisk) - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1I1MkYzdDhKQ1plQU1heV93a1ZSWjJYNUlwT2JuMVJJQkhaNHV3bjJtNFdKOEFVcnFQSGpIa0daZi05akUybWF3Y2w2cVlsYlQxSWxmR0NsTDZZVTJqV3p6enl0SjlrVGx2ejZIN3BMeGI5VUxoVUlGbWVaTTJSbTZuelJlaVE0R3Y2dTZ3OWNQakJpZk1XaA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:03:45 GMT",
+  "published_ts": 1781730225,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1I1MkYzdDhKQ1plQU1heV93a1ZSWjJYNUlwT2JuMVJJQkhaNHV3bjJtNFdKOEFVcnFQSGpIa0daZi05akUybWF3Y2w2cVlsYlQxSWxmR0NsTDZZVTJqV3p6enl0SjlrVGx2ejZIN3BMeGI5VUxoVUlGbWVaTTJSbTZuelJlaVE0R3Y2dTZ3OWNQakJpZk1XaA?oc=5\" target=\"_blank\">This Memory Stock Has Doubled in 2026. Here's Why It Can Skyrocket Higher (Hint: It's Not Micron or Sandisk)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "The Motley Fool speculates that a memory-semiconductor holding (likely SK hynix or Samsung) has doubled in 2026 and could rally further. The article is analyst opinion/speculation rather than reporting a concrete catalyst, earnings result, or hard news event."
+  },
+  "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "d70f6da8bf2965220f836d6e9543571a4f155b4b",
+  "source": "marketscreener.com",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmRzZjNZRUEzODh4WGxuQURRbGRqa3NiQUV5VnhQTVd2TzhLNV82NktIRURPQTdLQ2pRX25PQzQ3WnhlZnBhVm5pXzdPejdQa3JJc2V2Q3Z6TGVOZlFnRHlpOXhkVG5va0NRY2VpcUNpeU5iQlJZc3EtRU5mb2RxdUpyQ1hPaEtjaFhXcE5uaW1uVjhlbnk3MnJ2ZlVFczJLcnBWa3l3c1RUbVdMLXYxY3UtT0dBOEU?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:22:15 GMT",
+  "published_ts": 1781731335,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmRzZjNZRUEzODh4WGxuQURRbGRqa3NiQUV5VnhQTVd2TzhLNV82NktIRURPQTdLQ2pRX25PQzQ3WnhlZnBhVm5pXzdPejdQa3JJc2V2Q3Z6TGVOZlFnRHlpOXhkVG5va0NRY2VpcUNpeU5iQlJZc3EtRU5mb2RxdUpyQ1hPaEtjaFhXcE5uaW1uVjhlbnk3MnJ2ZlVFczJLcnBWa3l3c1RUbVdMLXYxY3UtT0dBOEU?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO reportedly told WSJ that the company plans to raise prices due to a memory chip shortage. This indicates demand pressure on memory chips and potential pricing power, but the report is an attributed statement rather than a confirmed concrete event or official announcement, making it analytical/forward-looking rather than a settled development."
+  },
+  "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "2a5d9a77560d7fa4e41023b284b27a2c9241ae84",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Single-stock futures overtake index in South Korea as bets crowd Samsung, SK hynix - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlZkREstX1hDLWFKbUpPbTRJdDhSV3QxWFJYRjNLelAzN2Q3NGpRUEVEM0syMktzM2diTk5RbmZtUl81MWhpaV94RXplQ0FsSEdGVV9EUjVWeTNRQjNud0pHT2V2RzIzb0NwUTNSTHMtenJvUC1Oc2VncDBUYzBfSdIBlAFBVV95cUxPSGpfRWZvelRzM043cWpIMFZUVUY5MUthYjNWYjVCMHNac19Wbl9BemQwak4yOERGdXVLY0ZneUQzWkdjRE9QV1dtakZNcFZBc21qS3ljUG5vcHJtR1E5Q19NMkItRV94aGRqREpYU24xcDU1RGo0RXR2RENpaHh1MlhwM2txNXNHTmgwUnIzS3VDZTA4?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:01:00 GMT",
+  "published_ts": 1781730060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlZkREstX1hDLWFKbUpPbTRJdDhSV3QxWFJYRjNLelAzN2Q3NGpRUEVEM0syMktzM2diTk5RbmZtUl81MWhpaV94RXplQ0FsSEdGVV9EUjVWeTNRQjNud0pHT2V2RzIzb0NwUTNSTHMtenJvUC1Oc2VncDBUYzBfSdIBlAFBVV95cUxPSGpfRWZvelRzM043cWpIMFZUVUY5MUthYjNWYjVCMHNac19Wbl9BemQwak4yOERGdXVLY0ZneUQzWkdjRE9QV1dtakZNcFZBc21qS3ljUG5vcHJtR1E5Q19NMkItRV94aGRqREpYU24xcDU1RGo0RXR2RENpaHh1MlhwM2txNXNHTmgwUnIzS3VDZTA4?oc=5\" target=\"_blank\">Single-stock futures overtake index in South Korea as bets crowd Samsung, SK hynix - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korean single-stock futures volume has surpassed index futures, with Samsung and SK hynix among the stocks drawing speculative bets. This indicates retail trading activity in the stocks but does not constitute a material development in memory demand, supply, pricing, or company fundamentals."
+  },
+  "buffered_ts": 1781731733.6709716
  }
 ]
