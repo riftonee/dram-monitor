@@ -219,5 +219,56 @@
    "summary": "Motley Fool publishes a bullish price prediction for SanDisk stock reaching $5,000 in 2 years. This is pure speculation and analyst opinion with no concrete catalyst, event, or fundamental development disclosed."
   },
   "buffered_ts": 1781714797.7314925
+ },
+ {
+  "id": "18ccd6c80455e91ab9117f23bc8463613dd056ac",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Samsung targets late 2027 for 1d DRAM mass production, racing to power next-gen HBM5 AI memory - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNamdYRXJzV3MtUlRGU1otNVJnYlhkZUxYR3NRSjBJYWVnVlRjd2tYVk9fNjU2X0dmcm1SVnZJeXZOSHBSMzYwbVh3MmFTbWFQX2pzdmZrT2NHR3p1U3hUSTJ2Q0dIRnFTcG1oc0lMWWlzTENxa1FoZzhwalByRWpYQVV0elpDdktzc1d6NzlPQWF1WXhjWjBIdjUtM2prNE0tOWlra0ppZXZ3SG9uSTA2c1FHV1NPQdIBuwFBVV95cUxOYWlkeWVrOEZnQm1vUnpkLVRrZVZBUWJCLXZBWXV3TmsxUFRfVVpXZHJqY1dpbGNaUXNPSkVPeEt3ZHNJWS1PT0lscnUwWUMyZDZZQ05rU2tpR19sdlp4bU53QWxKSGNUREhYVjBGdFdvT3NBNWRwSHJDZ1JkbW5rUnJUNEVvMlg4V2tnU0ZWdldlaklqSzJYMm1xWTV0d3lKOVhwTXdSUmczZXFlUDNab0txSnJzR183WU1B?oc=5",
+  "published_at": "Wed, 17 Jun 2026 16:43:00 GMT",
+  "published_ts": 1781714580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNamdYRXJzV3MtUlRGU1otNVJnYlhkZUxYR3NRSjBJYWVnVlRjd2tYVk9fNjU2X0dmcm1SVnZJeXZOSHBSMzYwbVh3MmFTbWFQX2pzdmZrT2NHR3p1U3hUSTJ2Q0dIRnFTcG1oc0lMWWlzTENxa1FoZzhwalByRWpYQVV0elpDdktzc1d6NzlPQWF1WXhjWjBIdjUtM2prNE0tOWlra0ppZXZ3SG9uSTA2c1FHV1NPQdIBuwFBVV95cUxOYWlkeWVrOEZnQm1vUnpkLVRrZVZBUWJCLXZBWXV3TmsxUFRfVVpXZHJqY1dpbGNaUXNPSkVPeEt3ZHNJWS1PT0lscnUwWUMyZDZZQ05rU2tpR19sdlp4bU53QWxKSGNUREhYVjBGdFdvT3NBNWRwSHJDZ1JkbW5rUnJUNEVvMlg4V2tnU0ZWdldlaklqSzJYMm1xWTV0d3lKOVhwTXdSUmczZXFlUDNab0txSnJzR183WU1B?oc=5\" target=\"_blank\">Samsung targets late 2027 for 1d DRAM mass production, racing to power next-gen HBM5 AI memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced a late 2027 target for 1d DRAM mass production to support next-gen HBM5 AI memory. This is a concrete, officially announced capacity/production timeline for a key DRAM holding with direct relevance to AI infrastructure demand."
+  },
+  "buffered_ts": 1781724238.3354156
+ },
+ {
+  "id": "868889dd7c8d2072194085628c75cafadba76a6e",
+  "source": "Pluang",
+  "topic": "holding",
+  "title": "Micron to report FY Q3 earnings with strong memory sales growth expected on June 24, 2026 - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG5JcTQ3a0lqNTJ4M1c4WVhjRGZIR2pyOE5sVkpsX2hlWWpoQ050UElVaXVNU0hzcUgyM3hjTFpPbFZONHdUdXVtU1pJQU8xSjk4WUtBRE4walgyX1pCSnFHVGczT1FTdXBpNUZsSWNZZV9lQlRndDc5ZUNMcmVMTTRXWUZ2anZW?oc=5",
+  "published_at": "Wed, 17 Jun 2026 14:43:15 GMT",
+  "published_ts": 1781707395,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG5JcTQ3a0lqNTJ4M1c4WVhjRGZIR2pyOE5sVkpsX2hlWWpoQ050UElVaXVNU0hzcUgyM3hjTFpPbFZONHdUdXVtU1pJQU8xSjk4WUtBRE4walgyX1pCSnFHVGczT1FTdXBpNUZsSWNZZV9lQlRndDc5ZUNMcmVMTTRXWUZ2anZW?oc=5\" target=\"_blank\">Micron to report FY Q3 earnings with strong memory sales growth expected on June 24, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron scheduled to report FY Q3 earnings on June 24, 2026 with expectations of strong memory sales growth. This is a forward-looking statement about an upcoming earnings event; actual impact will depend on reported results and guidance changes."
+  },
+  "buffered_ts": 1781724238.3354156
+ },
+ {
+  "id": "b30aadbeb57b44934e43acdf2d9e284bb5bf9f33",
+  "source": "Bitget",
+  "topic": "holding",
+  "title": "US Stocks Move: Western Digital rises over 6%, leading gains among memory storage stocks - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeUNpUkRvQndSbi1xdEtLcGNOUTRSdDFTNWZ6VVhodDktZHZpMU5TNDYyLUpRS3dfeGhoQnNTTGZTVjFDb0R1cXk1ZG1xdFdKQloyWGpEaEtQeEZzSE9OS1ktMNIBY0FVX3lxTE5xeUNpUkRvQndSbi1xdEtLcGNOUTRSdDFTNWZ6VVhodDktZHZpMU5TNDYyLUpRS3dfeGhoQnNTTGZTVjFDb0R1cXk1ZG1xdFdKQloyWGpEaEtQeEZzSE9OS1ktMA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 15:53:10 GMT",
+  "published_ts": 1781711590,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeUNpUkRvQndSbi1xdEtLcGNOUTRSdDFTNWZ6VVhodDktZHZpMU5TNDYyLUpRS3dfeGhoQnNTTGZTVjFDb0R1cXk1ZG1xdFdKQloyWGpEaEtQeEZzSE9OS1ktMNIBY0FVX3lxTE5xeUNpUkRvQndSbi1xdEtLcGNOUTRSdDFTNWZ6VVhodDktZHZpMU5TNDYyLUpRS3dfeGhoQnNTTGZTVjFDb0R1cXk1ZG1xdFdKQloyWGpEaEtQeEZzSE9OS1ktMA?oc=5\" target=\"_blank\">US Stocks Move: Western Digital rises over 6%, leading gains among memory storage stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a key DRAM ETF holding, rose over 6% and led gains among memory/storage stocks. No disclosed catalyst or concrete event is mentioned—this appears to be a pure price-move report without stated fundamental news, making it a soft 3."
+  },
+  "buffered_ts": 1781724238.3354156
  }
 ]
