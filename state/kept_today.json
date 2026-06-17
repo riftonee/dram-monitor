@@ -372,5 +372,175 @@
    "summary": "South Korean single-stock futures volume has surpassed index futures, with Samsung and SK hynix among the stocks drawing speculative bets. This indicates retail trading activity in the stocks but does not constitute a material development in memory demand, supply, pricing, or company fundamentals."
   },
   "buffered_ts": 1781731733.6709716
+ },
+ {
+  "id": "bd20c9e0cca3fd2fadd6d621d0100bffd8e5bded",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Techwing Wins First SK hynix Order for HBM Cube Prober - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JOTF0TTl2WGtRMERPZmx6LXZzeFJJVDJSREc3Q1A4LTRYUWdSTVk3azNpTzNqaXo3M1dmQVZ2QVFObXlvMlU2M2dnWlM3VkJnMVZJdlh2dDdyamE4ektsNTBoaExxbmc?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:22:53 GMT",
+  "published_ts": 1781734973,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JOTF0TTl2WGtRMERPZmx6LXZzeFJJVDJSREc3Q1A4LTRYUWdSTVk3azNpTzNqaXo3M1dmQVZ2QVFObXlvMlU2M2dnWlM3VkJnMVZJdlh2dDdyamE4ektsNTBoaExxbmc?oc=5\" target=\"_blank\">Techwing Wins First SK hynix Order for HBM Cube Prober</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Techwing secured its first order from SK hynix for HBM Cube Prober equipment. This indicates SK hynix is investing in HBM production capacity and testing infrastructure, supporting the firm's HBM strategy, but the announcement lacks concrete details on order size, timing, or financial impact."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "06824f90cf2f6ead7f0e28377813beeddf0778d3",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "ISTE Wins Samsung Electronics Order for HBM FOUP Cleaner - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RYzVHTHFlR2I0LUk5SGZubFk2QzY0VW5DTHZLcmhUUVV5MGxmaXFGS1prcDJZckRBeWNCS0RnTV9sVnZCLVVEMHgyVVc5NlUtMWQ2UzBMYWtYUUUwdk9uZEZYZ1pGMHM?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:22:49 GMT",
+  "published_ts": 1781734969,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RYzVHTHFlR2I0LUk5SGZubFk2QzY0VW5DTHZLcmhUUVV5MGxmaXFGS1prcDJZckRBeWNCS0RnTV9sVnZCLVVEMHgyVVc5NlUtMWQ2UzBMYWtYUUUwdk9uZEZYZ1pGMHM?oc=5\" target=\"_blank\">ISTE Wins Samsung Electronics Order for HBM FOUP Cleaner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "ISTE has won an order from Samsung Electronics for HBM FOUP (Front Opening Unified Pod) cleaning equipment. This indicates Samsung's continued investment in HBM production infrastructure and capacity, a key driver of memory demand for DRAM fund holdings. However, the news is a supplier win rather than a direct production capacity or shipment announcement, making it a confirmatory signal rather than a concrete event."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "ba8e7e12ee945e25d0ed06567c0a73d27cac1023",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Hana Securities lifts Samsung Electronics target as AI fuels memory rally - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaU1UMHl0TTdvTzhUamJNMVV5b0ZtSmFXNThZRHdycHpyWE5ObThOZ3k4cy02NVYta0NYX0FfTDl5UzF0eGpubG9EWVJKU0R0Y1daZWpQcXhzZFZtNHFGR00zS0lCbTRtZGEtOHVXRDRsSjk1MUxLaW1UU24xbGp4VNIBlAFBVV95cUxNUmJ1aTZOQ095bTJtZFVHX3lxZlhMOW5oY05DamRaRDJHUTF6N0l3YzJjSHN2QVgwZld2VjNPUGp2bUZIR2s5engxcmQzMXM1M1AtMy1taEJsS1dDbk1aaU40cF96S0lyRGduTExjMTVIRnNYM01CYUl3dm9VY1BMeWFXSlEyQzdYVUw1WEdYWEZEb29n?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:22:00 GMT",
+  "published_ts": 1781734920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaU1UMHl0TTdvTzhUamJNMVV5b0ZtSmFXNThZRHdycHpyWE5ObThOZ3k4cy02NVYta0NYX0FfTDl5UzF0eGpubG9EWVJKU0R0Y1daZWpQcXhzZFZtNHFGR00zS0lCbTRtZGEtOHVXRDRsSjk1MUxLaW1UU24xbGp4VNIBlAFBVV95cUxNUmJ1aTZOQ095bTJtZFVHX3lxZlhMOW5oY05DamRaRDJHUTF6N0l3YzJjSHN2QVgwZld2VjNPUGp2bUZIR2s5engxcmQzMXM1M1AtMy1taEJsS1dDbk1aaU40cF96S0lyRGduTExjMTVIRnNYM01CYUl3dm9VY1BMeWFXSlEyQzdYVUw1WEdYWEZEb29n?oc=5\" target=\"_blank\">Hana Securities lifts Samsung Electronics target as AI fuels memory rally - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Hana Securities raised its Samsung Electronics price target, citing AI-driven memory demand as a tailwind. This is analyst sentiment and a target-price change rather than a confirmed event or hard number, making it a soft signal of positive momentum in the memory cycle."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "e264dff80d32331cb00dcc974c7d4a05fd2ef41c",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "Western Digital Stock - chart picture after sharp AI-driven rally - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkp0TGxPY0ZPaUUyUUQwcU93d3hqdmtEeFBteENNNlYtdUtJOVFHYzJOclp4U2pRTGplcldha00yLUpheUpqU0NEc2tyblhiS18wZnN1S0FJOUE4VFczenhpbnBZVU84NDljaTVoQWlEV0c0Vkplb2ZUblVSMGdxaWt2ckJ4ZGtPeUtFVDJJOGpQM1JYUzhMT1dwaHpQdDZiaDV3LUJ0dU5NUnRac2d6MFJHRTgxanNSdFdDcGdXUQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 16:31:02 GMT",
+  "published_ts": 1781713862,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkp0TGxPY0ZPaUUyUUQwcU93d3hqdmtEeFBteENNNlYtdUtJOVFHYzJOclp4U2pRTGplcldha00yLUpheUpqU0NEc2tyblhiS18wZnN1S0FJOUE4VFczenhpbnBZVU84NDljaTVoQWlEV0c0Vkplb2ZUblVSMGdxaWt2ckJ4ZGtPeUtFVDJJOGpQM1JYUzhMT1dwaHpQdDZiaDV3LUJ0dU5NUnRac2d6MFJHRTgxanNSdFdDcGdXUQ?oc=5\" target=\"_blank\">Western Digital Stock - chart picture after sharp AI-driven rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) stock rallied sharply on AI-driven demand; article provides chart analysis of the move but does not cite a specific catalyst, earnings result, or confirmed event—appears to be technical/price-movement commentary without disclosed news driver."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "c1576ae44c8c0b4bdb41f2dda8789b4c2875885a",
+  "source": "Reuters",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:43:10 GMT",
+  "published_ts": 1781732590,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple CEO reports memory chip shortage prompting price increases. This signals tight supply conditions and pricing power in the memory market, but lacks concrete data on actual price moves, shortage scope, or timeline—relying on executive commentary rather than market prices or confirmed capacity cuts."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "d0f81490768b124a58dba2977651a59108e63948",
+  "source": "Seeking Alpha",
+  "topic": "industry",
+  "title": "Tim Cook says Apple to hike prices amid memory chip shortage - report - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWlKN1gzZWpfYXQ5RkItQndORTlNcm16R3g2ZEVWZy1qUlViMWpEXzlMTTJjZGNlaE1JdHN5LU9uRGs4eWMyeVVpUlAtRmVLb3NHSUxCUjcyN2pURklyTTRKd2RhaTF4WGFGeE1sNzczX3dFMnVRVFBoYWZzQWhBY01CRThhbl9wQTBNcnBScXJyNWF1cl95RkJSN2lMZVp5dkFObEowcWp3NjA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:20:04 GMT",
+  "published_ts": 1781734804,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWlKN1gzZWpfYXQ5RkItQndORTlNcm16R3g2ZEVWZy1qUlViMWpEXzlMTTJjZGNlaE1JdHN5LU9uRGs4eWMyeVVpUlAtRmVLb3NHSUxCUjcyN2pURklyTTRKd2RhaTF4WGFGeE1sNzczX3dFMnVRVFBoYWZzQWhBY01CRThhbl9wQTBNcnBScXJyNWF1cl95RkJSN2lMZVp5dkFObEowcWp3NjA?oc=5\" target=\"_blank\">Tim Cook says Apple to hike prices amid memory chip shortage - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report citing Tim Cook saying Apple will raise prices due to memory chip shortage. This indicates demand pressure on memory chips and potential pricing power in the supply chain, but the story is a reported statement rather than a confirmed earnings announcement or official guidance change, and Apple is not a fund holding."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "1cc7614abf7f4357dde16b619c85a68f874398d8",
+  "source": "TradingView",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xvUFZFNThiY1U2U000b3ZyQi1jUEdlRmhEVmxiZTNmbU43N2FiaDY5WlJGS0xBVDVMWUxJTG9IUmVBYy1tNnowcElQbnVpWEpFdTZYaWFBeVZzc1o2d2xvSGhvQnlQOEc5Snp6ekhWZ25ReDRNNFR3UEFacERXSGhGT3F6LTZiMEZtTEJqQ0FzbW9Pb25MUkR4VW9HWGxFRWhiTmM5eEhkaXlmZ1c3Njg4TS1rVHl1Vl9PQzN0cDJ0alYtMDViMi1tbXgtUQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:21:09 GMT",
+  "published_ts": 1781731269,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xvUFZFNThiY1U2U000b3ZyQi1jUEdlRmhEVmxiZTNmbU43N2FiaDY5WlJGS0xBVDVMWUxJTG9IUmVBYy1tNnowcElQbnVpWEpFdTZYaWFBeVZzc1o2d2xvSGhvQnlQOEc5Snp6ekhWZ25ReDRNNFR3UEFacERXSGhGT3F6LTZiMEZtTEJqQ0FzbW9Pb25MUkR4VW9HWGxFRWhiTmM5eEhkaXlmZ1c3Njg4TS1rVHl1Vl9PQzN0cDJ0alYtMDViMi1tbXgtUQ?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO reports memory chip shortage driving price increases. This indicates tight memory supply conditions affecting major OEMs, supporting near-term demand strength for DRAM holdings, but the story is based on CEO commentary rather than a concrete shortage announcement or supply data."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "d1821786065d411459195edcab7307af5425c658",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Apple to raise prices as chip costs surge - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjJlSkNQaHZudWIwQlo5allJelFXT1ZDTWxoZzFMbmpUN09RenFteFlwMnowY0NHRGdqOGNOZ2cyM0NSY1plZDBhOXF6UHI0MWNxSUE3cEF6dUlhNnlOVE1vd0dkUE9DLXlCOU95Z3hfcDNES1AyUzB4MDRwdkd0eUZQOHlwa2cwa0taZUNybFlpaXBfcFpyMXZ3WGlXX0RwMGE4N0FpVDdYRFBjMks4TWFfZjBCVU9ScG9RSmlXX1Jsdw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:42:47 GMT",
+  "published_ts": 1781736167,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjJlSkNQaHZudWIwQlo5allJelFXT1ZDTWxoZzFMbmpUN09RenFteFlwMnowY0NHRGdqOGNOZ2cyM0NSY1plZDBhOXF6UHI0MWNxSUE3cEF6dUlhNnlOVE1vd0dkUE9DLXlCOU95Z3hfcDNES1AyUzB4MDRwdkd0eUZQOHlwa2cwa0taZUNybFlpaXBfcFpyMXZ3WGlXX0RwMGE4N0FpVDdYRFBjMks4TWFfZjBCVU9ScG9RSmlXX1Jsdw?oc=5\" target=\"_blank\">Apple to raise prices as chip costs surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "Apple reportedly plans to raise prices citing rising chip costs. While relevant to industry dynamics and potential demand effects, this is macro-level commentary on pricing strategy rather than a concrete event affecting memory-semiconductor fundamentals, capacity decisions, or DRAM/NAND pricing directly. No specific memory-company impacts disclosed."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "839c8c6ab1a84f3adfa2b55d6fca093443bc6a1b",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Closes In on Samsung as Market Cap Gap Narrows to 11% - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHZCa3llajFudnlvaTU3UXFzR1JrcWtjb3JSd3dJV3JWTmxfNl9PZ2VGTWRUUlZma1JTdmIxeDB1dU1tN3RIZ3ZpZDI5Yi01VHo1TXBKeGlHUm9tRmVadEpmLXlvTDl5T0JVdE1TRHdzbmZwejdVSkQ5MkZ6cmVXSUxYQzFsbGRtSmFPTFlVQkNHN2VHSTVMSE9LZlNfTVRNTWc?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:00:05 GMT",
+  "published_ts": 1781730005,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHZCa3llajFudnlvaTU3UXFzR1JrcWtjb3JSd3dJV3JWTmxfNl9PZ2VGTWRUUlZma1JTdmIxeDB1dU1tN3RIZ3ZpZDI5Yi01VHo1TXBKeGlHUm9tRmVadEpmLXlvTDl5T0JVdE1TRHdzbmZwejdVSkQ5MkZ6cmVXSUxYQzFsbGRtSmFPTFlVQkNHN2VHSTVMSE9LZlNfTVRNTWc?oc=5\" target=\"_blank\">SK hynix Closes In on Samsung as Market Cap Gap Narrows to 11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix's market cap is narrowing relative to Samsung's, closing the gap to 11%. This is a valuation/market-price observation on two fund holdings but lacks concrete operational or financial catalyst—it reflects stock-price movements without disclosed news driving the change."
+  },
+  "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "619f0c67f082d4a0b47b6429499885cfa862503f",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SanDisk’s 700% Surge Turns the Fed Dot Plot Into a Major Risk - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVk1vSFgwbTQtUDZ2YXZsbFFQVXZ6d01oNUZJSUVMQkZQTUJWNW5PRW1RTXdnR012REtuQXY0azFTeGJ1ZFRQNG1pbktNWGtQV2ZBMDAwdTd2bFphTk81aTFDQUZKRnVDUEhIQkhXRkxvVmdUSEltc0pHblBiaUZUNnl4b1hMZE4xOV9XY1lIOTJCUmxVNkhkVk1maEpJSjVKQlNCb05IUQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 19:44:49 GMT",
+  "published_ts": 1781725489,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVk1vSFgwbTQtUDZ2YXZsbFFQVXZ6d01oNUZJSUVMQkZQTUJWNW5PRW1RTXdnR012REtuQXY0azFTeGJ1ZFRQNG1pbktNWGtQV2ZBMDAwdTd2bFphTk81aTFDQUZKRnVDUEhIQkhXRkxvVmdUSEltc0pHblBiaUZUNnl4b1hMZE4xOV9XY1lIOTJCUmxVNkhkVk1maEpJSjVKQlNCb05IUQ?oc=5\" target=\"_blank\">SanDisk’s 700% Surge Turns the Fed Dot Plot Into a Major Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk mentioned in a macroeconomic commentary about Fed policy and stock valuations; no memory-specific news or concrete developments affecting SanDisk's business reported."
+  },
+  "buffered_ts": 1781737424.4171035
  }
 ]
