@@ -950,5 +950,328 @@
    "summary": "SanDisk launched an 8TB PlayStation 5 storage drive at ~$3K. Minor product news for a holding; no market-moving data on volumes, pricing trends, or demand signals."
   },
   "buffered_ts": 1781671465.364878
+ },
+ {
+  "id": "2e83b7c98707ac1b9bd804916b43d581ffc2743a",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Key facts: AMD buys MEXT for AI memory; Samsung to fab AMD CPUs - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0VPb1htNk5LQ0FNTXFkN2paQlpSbVg1OVpyS2M0aWdJbG1PY3Y3RGpIV25EX05fNjNGVDcxS0VzeUdXRkUxOEpIckJWQmhuUVlnaGdZOWxBWlh5cHR2amJwOGplR2otWXFNSmloOGY3a3dPd19PempDcDlrSjBnUDdiQVZVTWJBRUhlZ1Q0ZVhGOV9wNzBwWUl1SjhObk9SdE44eUZWQXVCSHVSSDhuMEJ5OEFsd3lWU0tYUXJaRVY?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:13:31 GMT",
+  "published_ts": 1781680411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0VPb1htNk5LQ0FNTXFkN2paQlpSbVg1OVpyS2M0aWdJbG1PY3Y3RGpIV25EX05fNjNGVDcxS0VzeUdXRkUxOEpIckJWQmhuUVlnaGdZOWxBWlh5cHR2amJwOGplR2otWXFNSmloOGY3a3dPd19PempDcDlrSjBnUDdiQVZVTWJBRUhlZ1Q0ZVhGOV9wNzBwWUl1SjhObk9SdE44eUZWQXVCSHVSSDhuMEJ5OEFsd3lWU0tYUXJaRVY?oc=5\" target=\"_blank\">Key facts: AMD buys MEXT for AI memory; Samsung to fab AMD CPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "AMD announced acquisition of MEXT for AI memory capabilities, and Samsung secured contract to manufacture AMD CPUs. Samsung's involvement in advanced CPU fabrication is a concrete development affecting a major DRAM fund holding, while the MEXT acquisition signals AMD's strategic push into memory—material for the memory semiconductor ecosystem."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "6bb6ded0abda6000e8305e5eafbc5dfb1ce41a9d",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix suppliers seek war-cost payback after US-Iran shock drains chip materials inventory - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNmYlRxclJLTVJZd3AxUTg4d1JFM0syVy1Hbm9vOS1jWTctMUJyLTBBZW80eG1zOGZYVFI2dHZVYVJtVFJKcnZ0eUdBcmFvXy1pY0E5UzU0MVEwVXFGQUtNeVV5WjlQdWItTWRPV3FoMERvXzVndVBYRHFjNHpKeFplMV8xd28zUzdXWkw1N1JkRDRUTVE?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:49:24 GMT",
+  "published_ts": 1781682564,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNmYlRxclJLTVJZd3AxUTg4d1JFM0syVy1Hbm9vOS1jWTctMUJyLTBBZW80eG1zOGZYVFI2dHZVYVJtVFJKcnZ0eUdBcmFvXy1pY0E5UzU0MVEwVXFGQUtNeVV5WjlQdWItTWRPV3FoMERvXzVndVBYRHFjNHpKeFplMV8xd28zUzdXWkw1N1JkRDRUTVE?oc=5\" target=\"_blank\">Samsung, SK Hynix suppliers seek war-cost payback after US-Iran shock drains chip materials inventory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix suppliers are seeking compensation after geopolitical tensions (US-Iran) disrupted chip materials inventory. This reflects supply-chain stress affecting two major DRAM fund holdings, but the story is primarily about supplier negotiations and cost recovery rather than a concrete production or capacity change."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "ac65dcd76f40baff0707c3e555e6e76ad3c699cc",
+  "source": "36 Kr",
+  "topic": "holding",
+  "title": "LPDDR6: The Battle Has Commenced - 36 Kr",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFckw0dndJT3RGUWEzSmFmd18tQU9PWjlKclpjTlFVcU1PZHpZVkRUcGtJazZzUUJRTE9FYVJqajB3bmFqamt3cWlIemcxTDd6ZmFn?oc=5",
+  "published_at": "Wed, 17 Jun 2026 06:04:54 GMT",
+  "published_ts": 1781676294,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFckw0dndJT3RGUWEzSmFmd18tQU9PWjlKclpjTlFVcU1PZHpZVkRUcGtJazZzUUJRTE9FYVJqajB3bmFqamt3cWlIemcxTDd6ZmFn?oc=5\" target=\"_blank\">LPDDR6: The Battle Has Commenced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Chinese tech publication reports on LPDDR6 memory standard adoption and competition among manufacturers. LPDDR6 is a relevant memory technology for the industry, but the article appears to be analysis or commentary on the competitive landscape rather than reporting a concrete event, official announcement, or hard market data. Classified as soft industry news reflecting emerging technology trends."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "938215dd7a6f9812a3f2563914a7fef4ab383b77",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "KOSPI hits record closing high as SK hynix extends rally - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZV9kZEctTVUxZDVYZUZha0M4a29PblpyeHFReGdnSFJPMUtDT1ktMVZ5Z0pSeWxmZXR0d0tSd3V1Sml3eTA2UzFyT2dsdUZjNVE2QnU1WC0yLUJvTlViTkp4X1psZGtldGFMVHpuZG1GMFFyMU9zQVpuMHZsRnIzV1ZZR21GQWJQN3c3OW9RcWlueXV3Qm1yZENRaVYxclZKWURSZdIBqgFBVV95cUxPLTJFMFJia0lBN1V3eVV3UUYxb3NGQ19CZGZ0VDJLMGdsTFh6S3J3REZ5Nm5IbUxlU2FYbnhGRzlFWlpXcnl3eVVCRXROTnBWT0lHNmh5NHpnOVdHOTFmbXE2Xy1waHllX0VpQ1cwYi1FSzd1MTMxT0ZHQlR1ZlpKNmJkYzdtOHp2NmVuT0dPbnczbHdHelpzWnh1dnlnNUlubG8wX1VNWlQ3QQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:28:03 GMT",
+  "published_ts": 1781681283,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZV9kZEctTVUxZDVYZUZha0M4a29PblpyeHFReGdnSFJPMUtDT1ktMVZ5Z0pSeWxmZXR0d0tSd3V1Sml3eTA2UzFyT2dsdUZjNVE2QnU1WC0yLUJvTlViTkp4X1psZGtldGFMVHpuZG1GMFFyMU9zQVpuMHZsRnIzV1ZZR21GQWJQN3c3OW9RcWlueXV3Qm1yZENRaVYxclZKWURSZdIBqgFBVV95cUxPLTJFMFJia0lBN1V3eVV3UUYxb3NGQ19CZGZ0VDJLMGdsTFh6S3J3REZ5Nm5IbUxlU2FYbnhGRzlFWlpXcnl3eVVCRXROTnBWT0lHNmh5NHpnOVdHOTFmbXE2Xy1waHllX0VpQ1cwYi1FSzd1MTMxT0ZHQlR1ZlpKNmJkYzdtOHp2NmVuT0dPbnczbHdHelpzWnh1dnlnNUlubG8wX1VNWlQ3QQ?oc=5\" target=\"_blank\">KOSPI hits record closing high as SK hynix extends rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix extends rally as KOSPI hits record closing high. Stock price movement reported but no specific catalyst or earnings/guidance disclosed; market rally context only."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "11ad7b8bb1a8ccdb31b6b969c77b0784988246b7",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Why did SK Hynix surge to a record high? By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkwxOENvSmJaUXpXY0dSTHhGUExob2RuUVlCMzhLaW90QWxuOEhIX1ZjZXd1SkVtQXZwdUl6QTlDSVdiOUJXSjNBTmxlNzFIeVhLdllHWlZMOEFUd0hNbVd1MExrZ2pLUTVLUkROTVhmNUF6LUQwcGVIX1g4YjRSb01pUmR4RDI3SEdQdDlIVVlWbWg5V01IOWo3Y1RhTTFaeVE?oc=5",
+  "published_at": "Wed, 17 Jun 2026 06:43:04 GMT",
+  "published_ts": 1781678584,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkwxOENvSmJaUXpXY0dSTHhGUExob2RuUVlCMzhLaW90QWxuOEhIX1ZjZXd1SkVtQXZwdUl6QTlDSVdiOUJXSjNBTmxlNzFIeVhLdllHWlZMOEFUd0hNbVd1MExrZ2pLUTVLUkROTVhmNUF6LUQwcGVIX1g4YjRSb01pUmR4RDI3SEdQdDlIVVlWbWg5V01IOWo3Y1RhTTFaeVE?oc=5\" target=\"_blank\">Why did SK Hynix surge to a record high? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix reached a record high price level. The headline poses the question of why but the snippet does not contain the actual explanation or catalyst for the surge, making this analysis-oriented rather than event-driven."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "fd026c3fa364e69c899e5a647e5c2a5c2d7e58fc",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "While SK Hynix recorded new high prices amid expectations for memory demand in the artificial intell.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTHR6OEd0Nk93LVR4bE5yT0xCazRHM0wxYkJyYk41TVVvczltMkNlLVpSbEVUTU1wUU8xOC0xOVd2Q2JyLXdqMjZGU0QxczQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:23:07 GMT",
+  "published_ts": 1781680987,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTHR6OEd0Nk93LVR4bE5yT0xCazRHM0wxYkJyYk41TVVvczltMkNlLVpSbEVUTU1wUU8xOC0xOVd2Q2JyLXdqMjZGU0QxczQ?oc=5\" target=\"_blank\">While SK Hynix recorded new high prices amid expectations for memory demand in the artificial intell..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix reached new highs on expectations for memory demand driven by AI. This reflects market sentiment about future demand rather than a concrete event or confirmed guidance change."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "6fd3b362bb1e13812164eec0aa094c38ae437816",
+  "source": "AASTOCKS.com",
+  "topic": "holding",
+  "title": "SK Hynix Exploring Various Options to Enhance Shareholder Value, Has Not Discussed Specific Details Such as 100T Won Shareholder Return Scale - AASTOCKS.com",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzJpeERlcHAybG1GVERMQWdHb25tYjJFUi01UTFSYjBpMmdBY04wUU95UXpaMzBKQUM0Uy1QVkNvOGpvMEdjNFZoRkxCWHZ3TkdlVEd6bHFjQU9nTXBhMndmbjlyenhuWDlnTzZ4MTVoZUdONWo1Yk1ZcFlOeDVDcFlQdTJqdw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 02:37:00 GMT",
+  "published_ts": 1781663820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzJpeERlcHAybG1GVERMQWdHb25tYjJFUi01UTFSYjBpMmdBY04wUU95UXpaMzBKQUM0Uy1QVkNvOGpvMEdjNFZoRkxCWHZ3TkdlVEd6bHFjQU9nTXBhMndmbjlyenhuWDlnTzZ4MTVoZUdONWo1Yk1ZcFlOeDVDcFlQdTJqdw?oc=5\" target=\"_blank\">SK Hynix Exploring Various Options to Enhance Shareholder Value, Has Not Discussed Specific Details Such as 100T Won Shareholder Return Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is exploring options to enhance shareholder value but has not yet disclosed specific details or committed to a 100T Won return scale. This is forward-looking commentary on potential shareholder returns rather than a confirmed action or concrete event."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "d13f73a03fd89ea759c9618481442833c225fefc",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Profit Forecasts Soar as Memory Supercycle Builds - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE5MMmlDRWpjM1M4dmQwVmwyYW4zejFzSTdZS2xXR2JwYU4zWlpYNy1YZHhzTXV5cW9XSWljR1hMNFpnYjVfbHc0bTdZMkFHYVROSlJodGNnUDVOcFBERTdIQjhMZHp5MW03NHBfd3RJWDFIRm1VeFUtUXpEWTQ1WUFGVkJtcTVTYjlRaERIQ2QyWTU2WWZfS2V6VDJWWnJGdmdN?oc=5",
+  "published_at": "Wed, 17 Jun 2026 08:03:13 GMT",
+  "published_ts": 1781683393,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE5MMmlDRWpjM1M4dmQwVmwyYW4zejFzSTdZS2xXR2JwYU4zWlpYNy1YZHhzTXV5cW9XSWljR1hMNFpnYjVfbHc0bTdZMkFHYVROSlJodGNnUDVOcFBERTdIQjhMZHp5MW03NHBfd3RJWDFIRm1VeFUtUXpEWTQ1WUFGVkJtcTVTYjlRaERIQ2QyWTU2WWZfS2V6VDJWWnJGdmdN?oc=5\" target=\"_blank\">Samsung, SK hynix Profit Forecasts Soar as Memory Supercycle Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix profit forecasts are rising amid expectations of a memory supercycle buildup. This is analyst/forecast-driven commentary on positive sentiment rather than a confirmed event, earnings result, or concrete guidance change, making it soft on impact."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "4855c4ab2fbe61e844d5e7d06fca76866c6f97f8",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "HBM4E Race Heats Up Across Chipmakers - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENjU1azFkSlVIOWZBeWpSdFNJb0RFaFE3RGRLcjJ4ZFhNV1FGUXBZdlFrV1hzS1FnUGJUUFI1OGh5TXlDVDVoblBSYmFNQ1EzbUZDNDh6b1N4cjgxcklITXZqVUUwOW45Q0o1bTB5MG81SmlS?oc=5",
+  "published_at": "Wed, 17 Jun 2026 08:34:03 GMT",
+  "published_ts": 1781685243,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENjU1azFkSlVIOWZBeWpSdFNJb0RFaFE3RGRLcjJ4ZFhNV1FGUXBZdlFrV1hzS1FnUGJUUFI1OGh5TXlDVDVoblBSYmFNQ1EzbUZDNDh6b1N4cjgxcklITXZqVUUwOW45Q0o1bTB5MG81SmlS?oc=5\" target=\"_blank\">HBM4E Race Heats Up Across Chipmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Competing chipmakers are racing to develop and release HBM4E (high-bandwidth memory generation 4E) products. This is soft industry coverage reflecting competitive positioning and technology roadmaps rather than a confirmed production milestone, capacity announcement, or binding customer order."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "cc0e7f045ae1559d50c59965e1f64606389158a0",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "KOSPI Closes at Record High of 8,864... SK hynix Sets New All-Time High - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fOE1FQW1yS3ZrMFBoaXpJanAxeVI5ZlZ4VjNLR0RsNDR6Q1F2MDRJLUpYelhueklRTzBNV0JVOHE4NFRwbXdzbmhvZ0ZnbkhKd3Myc2M5UVRZWkNtS3NRblg4a2g?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:09:45 GMT",
+  "published_ts": 1781680185,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fOE1FQW1yS3ZrMFBoaXpJanAxeVI5ZlZ4VjNLR0RsNDR6Q1F2MDRJLUpYelhueklRTzBNV0JVOHE4NFRwbXdzbmhvZ0ZnbkhKd3Myc2M5UVRZWkNtS3NRblg4a2g?oc=5\" target=\"_blank\">KOSPI Closes at Record High of 8,864... SK hynix Sets New All-Time High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix reached a new all-time high as the KOSPI index closed at a record level of 8,864. The stock move is confirmed but lacks a disclosed fundamental catalyst or earnings/guidance driver, making it a price-action story rather than a concrete event."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "edbcba29df28abd9c61375f03fa6fec030d2cb91",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "KOSPI Rallies to Record Close as SK hynix Tops 2.5 Million Won - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ21Za09LY18xUUMwc2pOLURURjBNOTJPS0I2eHp3aWk5M2lXNXZSWXBuczlRRDAzSnNsa2dBbzloUkEzTWdXWlIxME04dDdJdGNkQjhTMEJMd3FUdE8zeGVsWnMzR1ZQWUk4WXZkUlRTRTBfa0d1TEFmdGtqcEZRUHlaYmR4ZkFfeHRWN25CSEI1TlRuUm5MZFpRWDUtdExZ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:12:34 GMT",
+  "published_ts": 1781680354,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ21Za09LY18xUUMwc2pOLURURjBNOTJPS0I2eHp3aWk5M2lXNXZSWXBuczlRRDAzSnNsa2dBbzloUkEzTWdXWlIxME04dDdJdGNkQjhTMEJMd3FUdE8zeGVsWnMzR1ZQWUk4WXZkUlRTRTBfa0d1TEFmdGtqcEZRUHlaYmR4ZkFfeHRWN25CSEI1TlRuUm5MZFpRWDUtdExZ?oc=5\" target=\"_blank\">KOSPI Rallies to Record Close as SK hynix Tops 2.5 Million Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock reached 2.5 million won amid KOSPI rally to record close. Price movement reported without disclosed fundamental catalyst or earnings driver; soft market sentiment piece rather than concrete event."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "586b5e0182b2706aac7692e3101bbbabb29849d6",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "SK Hynix Breaks 2,000 Trillion Won Market Cap, Denies $100 Trillion Buyback Rumour - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWF91NEdfbnhQLVBZR1VhQjJNRW4tYkFDVnVhUzRCN0htRkkxOElWRm51U0ZTZm5GZ0tfSmQ5UmRvVlNsZXpFQm00Ml92d0REdWFlLVZTVWxNM2o1ZVVkVnppSlVTYW5sam0yalNNQ0JFQmpHeFJxRGI3ZG4zekhYaDJaQ3cweTEyUF8taVlqNWxmZzNzWGkxWXhMMUZ5RF81STNvSWxmRlJpRGwwcktNTVpLZ0VHcmJaRkgyREIwekVmdw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 06:13:06 GMT",
+  "published_ts": 1781676786,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWF91NEdfbnhQLVBZR1VhQjJNRW4tYkFDVnVhUzRCN0htRkkxOElWRm51U0ZTZm5GZ0tfSmQ5UmRvVlNsZXpFQm00Ml92d0REdWFlLVZTVWxNM2o1ZVVkVnppSlVTYW5sam0yalNNQ0JFQmpHeFJxRGI3ZG4zekhYaDJaQ3cweTEyUF8taVlqNWxmZzNzWGkxWXhMMUZ5RF81STNvSWxmRlJpRGwwcktNTVpLZ0VHcmJaRkgyREIwekVmdw?oc=5\" target=\"_blank\">SK Hynix Breaks 2,000 Trillion Won Market Cap, Denies $100 Trillion Buyback Rumour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has reached a 2,000 trillion won market cap milestone. The company denied rumors of a 100 trillion won buyback program. The market cap milestone is a soft indicator of investor sentiment, while the buyback denial removes a potential capital allocation story but is itself reactive commentary rather than a concrete new development."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "d2e86f3ede885d50d3fa4dee816329b5b456219e",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Seagate Stock Hit $1,085 After Morgan Stanley’s $1,035 Target. Here’s Where the Stock Could Go - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVJSRW1jM21aaGdtZUdFYWNTTmJYUHdMeDBka3hscDdLNWVpUmZwQl9oMXRHTFFteWtmNEJVRUtMZENzRXljWUtrdjlpZVUyc21BSVBlS2tjR1J0THBSOHZlYm8tVzU5N3NWemZsRjUyTkIyczFFS09UN18yTmJ5anI0aERtdkFidVhIWW5Ub0xRb0x1QWJpQzNXVkJvMWgtanl5amZQZktQWXV1OFE3RGg5Zw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 08:52:03 GMT",
+  "published_ts": 1781686323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVJSRW1jM21aaGdtZUdFYWNTTmJYUHdMeDBka3hscDdLNWVpUmZwQl9oMXRHTFFteWtmNEJVRUtMZENzRXljWUtrdjlpZVUyc21BSVBlS2tjR1J0THBSOHZlYm8tVzU5N3NWemZsRjUyTkIyczFFS09UN18yTmJ5anI0aERtdkFidVhIWW5Ub0xRb0x1QWJpQzNXVkJvMWgtanl5amZQZktQWXV1OFE3RGg5Zw?oc=5\" target=\"_blank\">Seagate Stock Hit $1,085 After Morgan Stanley’s $1,035 Target. Here’s Where the Stock Could Go</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, traded near Morgan Stanley's $1,035 price target. The story discusses analyst opinion and price levels but lacks a concrete catalyst, earnings miss/beat, or fundamental development driving the move."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "ad8bf30a57cdbae4403973b4bf5d9bd66b3ff513",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk most overbought stock warning emerges after hitting an all-time high - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdDlGLVBzN0g1VHpHSkxNVGZuNjJuRExER1lNb25Ya19zLUxBUXlaWUpHOTBmdkJYNmxqRVg1Y2p4VU0yVHh0cW82SUJWWHBKbDhUMzc3dlRYYlBNN29vT01Ydm50OGRWYUxXSUUzUWltc3BZYW9JV3NSTzNHVWJST1Q3LTUwWjlBV2Z1aThnUDdlT1gyVXJpRkhCZ3lHc0huWDFUeEZoUW9qVE9pRC00TUV0MVhnWVpPNnFvSGQ0SmNwRWxFRkNaTWxnVFVrTFhRdXZBaDlmYkNrVjlPM0JrZUx0RzVoTFF3UDVsLQ?oc=5",
+  "published_at": "Tue, 16 Jun 2026 17:45:01 GMT",
+  "published_ts": 1781631901,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdDlGLVBzN0g1VHpHSkxNVGZuNjJuRExER1lNb25Ya19zLUxBUXlaWUpHOTBmdkJYNmxqRVg1Y2p4VU0yVHh0cW82SUJWWHBKbDhUMzc3dlRYYlBNN29vT01Ydm50OGRWYUxXSUUzUWltc3BZYW9JV3NSTzNHVWJST1Q3LTUwWjlBV2Z1aThnUDdlT1gyVXJpRkhCZ3lHc0huWDFUeEZoUW9qVE9pRC00TUV0MVhnWVpPNnFvSGQ0SmNwRWxFRkNaTWxnVFVrTFhRdXZBaDlmYkNrVjlPM0JrZUx0RzVoTFF3UDVsLQ?oc=5\" target=\"_blank\">SanDisk most overbought stock warning emerges after hitting an all-time high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) has hit an all-time high and triggered technical overbought warnings. While the stock move is noteworthy for a fund holding, the article appears to be a technical analysis piece without a disclosed fundamental catalyst or concrete business event driving the move."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "a47c5a5fc784bede142102ca877a1e7440eff32b",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "South Korean shares track losses in US tech; SK Hynix hits record high - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSm44RFhZQXVUX1pIdGZnRkJOUGFXa2RVQ0x2bnByS0pjVkVDVzFqV19ORm9TRjRnQjhVcE1JXzhwNDRTb0VaRmFyV1IycnpBYndBUTFLMDllek82ODV4QWxnUWp2b2l1aHU2VTBZUzRGeHU1WGxkWHd2MmdjZUo1SU1fYS0wY0RNbUJCbUFIYnllM05vRWU4UnJnMWZkMVh0ZndZcVZQQmpJRGI4cEljZmV1alRYVldyVUVVZ29nLVpVb2VxcFhiSlJ0ZGdRRExadVpZUjNn?oc=5",
+  "published_at": "Wed, 17 Jun 2026 02:06:00 GMT",
+  "published_ts": 1781661960,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSm44RFhZQXVUX1pIdGZnRkJOUGFXa2RVQ0x2bnByS0pjVkVDVzFqV19ORm9TRjRnQjhVcE1JXzhwNDRTb0VaRmFyV1IycnpBYndBUTFLMDllek82ODV4QWxnUWp2b2l1aHU2VTBZUzRGeHU1WGxkWHd2MmdjZUo1SU1fYS0wY0RNbUJCbUFIYnllM05vRWU4UnJnMWZkMVh0ZndZcVZQQmpJRGI4cEljZmV1alRYVldyVUVVZ29nLVpVb2VxcFhiSlJ0ZGdRRExadVpZUjNn?oc=5\" target=\"_blank\">South Korean shares track losses in US tech; SK Hynix hits record high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix reached a record high while South Korean shares tracked US tech losses. The report notes a price move but provides no disclosed catalyst or fundamental catalyst for the stock performance."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "9006009fa8cdebed45e89080b6d3009805782da1",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "[PHOTO] KOSPI, SK hynix shares hit all-time high - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNekY0YVBQbUNiU3gzX254ZUhrVzhESUdKMVJ2UGRuenIxTXJ0ajNuXzBaRHlJYlJaeVY3VTRtRlFSZEFhZEhabDZoRmNqYldVSUw0VmxfUUMtalRVRVlwRVBwT1J2c2tnbmdKaUZjbld5a010VWFCYmIxOERjZzVNRFM1NFNHclg4bjlYc1I2MnhUSGJtdXfSAZsBQVVfeXFMT2luZ0VMN25PZ2VxTmZGMHZRdDZFY0xNaWRIYkUxb2l1QzBFalhqMnJqVjJLT0tHTS1odFd6emNwc01uTHczMVhPLTFHYzlpbVRST2d2aVZRaGNkdWpaVUtCbUgzckJCdDJJdDczRzdoYmMwMkRPcGxSSlZFa3VZdUhpQVFZTGZSNExKNjRfVDBxdkVrVFdwSDJsbDg?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:48:03 GMT",
+  "published_ts": 1781682483,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNekY0YVBQbUNiU3gzX254ZUhrVzhESUdKMVJ2UGRuenIxTXJ0ajNuXzBaRHlJYlJaeVY3VTRtRlFSZEFhZEhabDZoRmNqYldVSUw0VmxfUUMtalRVRVlwRVBwT1J2c2tnbmdKaUZjbld5a010VWFCYmIxOERjZzVNRFM1NFNHclg4bjlYc1I2MnhUSGJtdXfSAZsBQVVfeXFMT2luZ0VMN25PZ2VxTmZGMHZRdDZFY0xNaWRIYkUxb2l1QzBFalhqMnJqVjJLT0tHTS1odFd6emNwc01uTHczMVhPLTFHYzlpbVRST2d2aVZRaGNkdWpaVUtCbUgzckJCdDJJdDczRzdoYmMwMkRPcGxSSlZFa3VZdUhpQVFZTGZSNExKNjRfVDBxdkVrVFdwSDJsbDg?oc=5\" target=\"_blank\">[PHOTO] KOSPI, SK hynix shares hit all-time high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix shares hit all-time high alongside broader KOSPI index. Market-moving catalyst not specified in snippet; appears to be a general market report rather than company-specific news."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "bb656b201f76fd2b8c605d67a1b4c70a82744b28",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "KOSPI Turns Upward During Session... SK hynix Hits Record High at 2.47 Million Won - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRDJEYmxXaDhySlBuVFpvSjdrSV95c1JRVkdCZ0Y0eHVDeXZmYjkwYkVwbE1UeG9FNXQ1Z1VBWHg5VGNtdk1YUF93ZWM0SkpOWXllaGdoZGVlNk0tbzhpeUR2RzE?oc=5",
+  "published_at": "Wed, 17 Jun 2026 04:54:48 GMT",
+  "published_ts": 1781672088,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRDJEYmxXaDhySlBuVFpvSjdrSV95c1JRVkdCZ0Y0eHVDeXZmYjkwYkVwbE1UeG9FNXQ1Z1VBWHg5VGNtdk1YUF93ZWM0SkpOWXllaGdoZGVlNk0tbzhpeUR2RzE?oc=5\" target=\"_blank\">KOSPI Turns Upward During Session... SK hynix Hits Record High at 2.47 Million Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock hit a record high of 2.47 million won during a KOSPI session upturn. This is a price movement without an identified catalyst or fundamental driver—a routine market data point."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "4df4ca73e3a840ec1a335b121b3f1fac9d3f51cc",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Japan, South Korea Stocks Open Lower and Rise, Nikkei Continues to Hit New Highs, Kospi Rises Over 1.5%, SK Hynix Gains Nearly 6% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlNuVmV5YlJDN3RCSkM4am9NWGdBSzl1bDlMaWE4Y1hsNkQtdVRaWFllS1Zlb09raW9QdC1aNGo4VGt5b09zWm9nT3IyeU1YRTM5N0tjSkdfNDlwYXVLWVpfQ2picklhUTJORmo2eGFLRWYtOUZ1eTB1ZHFhdC1yT3hZV2JDa21wdWxJRmw3aEtIMnQ3bGxtcG0xVQ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 07:23:57 GMT",
+  "published_ts": 1781681037,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlNuVmV5YlJDN3RCSkM4am9NWGdBSzl1bDlMaWE4Y1hsNkQtdVRaWFllS1Zlb09raW9QdC1aNGo4VGt5b09zWm9nT3IyeU1YRTM5N0tjSkdfNDlwYXVLWVpfQ2picklhUTJORmo2eGFLRWYtOUZ1eTB1ZHFhdC1yT3hZV2JDa21wdWxJRmw3aEtIMnQ3bGxtcG0xVQ?oc=5\" target=\"_blank\">Japan, South Korea Stocks Open Lower and Rise, Nikkei Continues to Hit New Highs, Kospi Rises Over 1.5%, SK Hynix Gains Nearly 6%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock gained nearly 6% amid broader South Korean market strength (Kospi up 1.5%). This is a price move in a key DRAM holding but lacks a disclosed catalyst or confirmed news event driving the gain."
+  },
+  "buffered_ts": 1781688553.276126
+ },
+ {
+  "id": "ce81e8710c9074921df2b8e94bf097ef5aeadab5",
+  "source": "ETF Stream",
+  "topic": "fund",
+  "title": "Defiance lines up memory and photonics ETFs in Europe - ETF Stream",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbG0xZ3NnU21iT0xPRDMyVlVqSkFFV2pfYTZfUGxjem14VGo4c0hoZFpUVmEtX1pCSUdQMllrYmtmeXNNd2FZSWpva1JzQmc3S2hWejdTbm94eGtsQkxMd3YtdkxDMUxTXzhQVEh0WEdNUjJfeXpVbHVhQ05hNm1uNFJVRWRaUUNVWHphT3JjMVI1Zw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 06:03:57 GMT",
+  "published_ts": 1781676237,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbG0xZ3NnU21iT0xPRDMyVlVqSkFFV2pfYTZfUGxjem14VGo4c0hoZFpUVmEtX1pCSUdQMllrYmtmeXNNd2FZSWpva1JzQmc3S2hWejdTbm94eGtsQkxMd3YtdkxDMUxTXzhQVEh0WEdNUjJfeXpVbHVhQ05hNm1uNFJVRWRaUUNVWHphT3JjMVI1Zw?oc=5\" target=\"_blank\">Defiance lines up memory and photonics ETFs in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF Stream</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Defiance is launching memory and photonics ETFs in Europe. This is fund news but represents a competitive product launch rather than a material event affecting the DRAM ETF itself (flows, NAV, performance, or holdings)."
+  },
+  "buffered_ts": 1781688553.276126
  }
 ]
