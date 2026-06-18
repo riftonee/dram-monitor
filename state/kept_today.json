@@ -644,5 +644,175 @@
    "summary": "Analysis piece warning that memory chip shortages and AI demand are pushing DRAM/NAND prices higher, which could force Apple to raise product prices. Reflects industry pricing pressure on memory but lacks concrete pricing data or confirmed supply constraints; reads as forward-looking commentary rather than a reported price move or official shortage announcement."
   },
   "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "75800e00ee7574dcde316966c8afb4d1dab90249",
+  "source": "Bitget",
+  "topic": "holding",
+  "title": "VistaShares: Micron's gross margin guidance approaches 81%, a significant increase from 37% year-on-year - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SWlJendDZl9hUjhWQzFadWpLOFM4bWZyd0JSVURYUEx0TGE2WjgwT0dlbl8yaEtqelFBNkVFb0JFRkFiMmhRU1JCWlEtaEU4ZEszZXoyMWVjLUNvN1BXU0ZvSdIBY0FVX3lxTE14SWlJendDZl9hUjhWQzFadWpLOFM4bWZyd0JSVURYUEx0TGE2WjgwT0dlbl8yaEtqelFBNkVFb0JFRkFiMmhRU1JCWlEtaEU4ZEszZXoyMWVjLUNvN1BXU0ZvSQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:59:28 GMT",
+  "published_ts": 1781794768,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SWlJendDZl9hUjhWQzFadWpLOFM4bWZyd0JSVURYUEx0TGE2WjgwT0dlbl8yaEtqelFBNkVFb0JFRkFiMmhRU1JCWlEtaEU4ZEszZXoyMWVjLUNvN1BXU0ZvSdIBY0FVX3lxTE14SWlJendDZl9hUjhWQzFadWpLOFM4bWZyd0JSVURYUEx0TGE2WjgwT0dlbl8yaEtqelFBNkVFb0JFRkFiMmhRU1JCWlEtaEU4ZEszZXoyMWVjLUNvN1BXU0ZvSQ?oc=5\" target=\"_blank\">VistaShares: Micron's gross margin guidance approaches 81%, a significant increase from 37% year-on-year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron's gross margin guidance has increased significantly to approximately 81%, up from 37% year-on-year—a concrete and material development indicating a substantial improvement in profitability that directly impacts the company's financial health and the fund's largest holding."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "d7da52b5cd09a078a73181d75e29e387fe39962d",
+  "source": "Investing.com South Africa",
+  "topic": "pricing",
+  "title": "SanDisk and Micron surge as Apple confirms memory price pass-through By Investing.com - Investing.com South Africa",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVNUckZDLXZJMU9Bb3R3REZuYm9hc0EwcGFnM0htQzcxLVRzdlpZakV0WlIzajNNcWpiMmhPZXlwNDVJQUtGeXJiLVYzYkhoWU5DeFJYakdxcklVTUVXLVpZdXVOZEZYOE9RMkdUMTdvdEg1ckFleTFpUkJlZDJkX2pMSzNXNjRMWW1WZE1XNmprTkRhUjM1cThwSDdzdjJNdFRST2RSVldhS3Jkc3NPRXdUS0paZldKQVREby1uZ2N5S2tJakx0MkZZVENPS3lu?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:21:50 GMT",
+  "published_ts": 1781792510,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVNUckZDLXZJMU9Bb3R3REZuYm9hc0EwcGFnM0htQzcxLVRzdlpZakV0WlIzajNNcWpiMmhPZXlwNDVJQUtGeXJiLVYzYkhoWU5DeFJYakdxcklVTUVXLVpZdXVOZEZYOE9RMkdUMTdvdEg1ckFleTFpUkJlZDJkX2pMSzNXNjRMWW1WZE1XNmprTkRhUjM1cThwSDdzdjJNdFRST2RSVldhS3Jkc3NPRXdUS0paZldKQVREby1uZ2N5S2tJakx0MkZZVENPS3lu?oc=5\" target=\"_blank\">SanDisk and Micron surge as Apple confirms memory price pass-through By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple has confirmed memory price pass-through to customers, driving gains in SanDisk and Micron stocks. This is a concrete, material development indicating successful pricing power in the memory market and potential margin improvement for fund holdings."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "7adae41c86ab5280f483f897e7db42a6d295b58e",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Western Digital (WDC) Is Up 45.3% After AI Storage Momentum and Rising Memory Prices - Has The Bull Case Changed? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWZKUmJKQ21LVnFtSlRKdURQa3o2dDNYSXUybDNNeFNkU1Y4OWZuYUk5UGNzWERPekNHSDZkS3VPYU9lM25YaFFLUzRLSjhBcmRSSkozbGtmTHVtWTJrNlZkejNldm1SZUpTYktFT29QN3B4eTNpNEFRSE9KeE1Lci14VmJNbG1vQ2VUU1YxRDVWSnM?oc=5",
+  "published_at": "Thu, 18 Jun 2026 20:15:08 GMT",
+  "published_ts": 1781813708,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWZKUmJKQ21LVnFtSlRKdURQa3o2dDNYSXUybDNNeFNkU1Y4OWZuYUk5UGNzWERPekNHSDZkS3VPYU9lM25YaFFLUzRLSjhBcmRSSkozbGtmTHVtWTJrNlZkejNldm1SZUpTYktFT29QN3B4eTNpNEFRSE9KeE1Lci14VmJNbG1vQ2VUU1YxRDVWSnM?oc=5\" target=\"_blank\">Western Digital (WDC) Is Up 45.3% After AI Storage Momentum and Rising Memory Prices - Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, has risen 45.3%; the piece attributes gains to AI storage momentum and rising memory prices but appears to be analysis/discussion of the bull case rather than reporting a concrete catalyst or earnings event."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "99e783c4c19992245f4b8b52883d0ef949b503e0",
+  "source": "Yahoo Finance Australia",
+  "topic": "holding",
+  "title": "AI's Data Explosion Creates a Multi-Year Growth Runway for Seagate - Yahoo Finance Australia",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVotTV9zcVQ4UHZ0QVZ6ZHVFMmhmMFFhYjZqbkc2SGxyczhGZzBMMjBmUG5NaWdlZlgybDVOQWZpWXZfVDYxRk1EaXBuZHphaEtVVmtEVmZzT0JuY1ZtUWxLdFhjdXNOdFdURUVTTF9XamdON3dzOU1UMTBqOTBYakhqT0hZUjZG?oc=5",
+  "published_at": "Thu, 18 Jun 2026 13:19:00 GMT",
+  "published_ts": 1781788740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVotTV9zcVQ4UHZ0QVZ6ZHVFMmhmMFFhYjZqbkc2SGxyczhGZzBMMjBmUG5NaWdlZlgybDVOQWZpWXZfVDYxRk1EaXBuZHphaEtVVmtEVmZzT0JuY1ZtUWxLdFhjdXNOdFdURUVTTF9XamdON3dzOU1UMTBqOTBYakhqT0hZUjZG?oc=5\" target=\"_blank\">AI's Data Explosion Creates a Multi-Year Growth Runway for Seagate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing how AI-driven data growth could create multi-year growth opportunities for Seagate (STX), a DRAM ETF holding. This is opinion/outlook rather than a concrete event, earnings result, or guidance change."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "1807f4775696e64a92574098745e9ca0a163dc0a",
+  "source": "The Economic Times",
+  "topic": "holding",
+  "title": "AI Memory Battle: Micron vs SanDisk - Who wins the AI race? - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUVhCbnVjel9uMHJ6YklQa2dtU2dGRnJZMUh4QWV6cVJKYV9GOVo3LWk0WHZkdGlua0w1Q2s4bktfeTFGLXIwaDNNeS1nNjh6ZktUWU1BNVo3bGVvZkFQb1hYZE5MSVlmbU1tcUJuNk56SzRBeFphLVlQU0JyRnZ5UWdXZ3NnRFdlLXg2OElQWHE5TFBnMXV1MFQ5MGFSdHR1dDBoTHVweHlidTUxVWcxLWlTTnR5NUE3Q0pGcGd3N0U3YXUyRS01b3U0WjhfZWE5M3VEVElFVlB0bW5BS0xtUUVXRE1Ja1E4TXlV?oc=5",
+  "published_at": "Wed, 17 Jun 2026 08:20:11 GMT",
+  "published_ts": 1781684411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUVhCbnVjel9uMHJ6YklQa2dtU2dGRnJZMUh4QWV6cVJKYV9GOVo3LWk0WHZkdGlua0w1Q2s4bktfeTFGLXIwaDNNeS1nNjh6ZktUWU1BNVo3bGVvZkFQb1hYZE5MSVlmbU1tcUJuNk56SzRBeFphLVlQU0JyRnZ5UWdXZ3NnRFdlLXg2OElQWHE5TFBnMXV1MFQ5MGFSdHR1dDBoTHVweHlidTUxVWcxLWlTTnR5NUE3Q0pGcGd3N0U3YXUyRS01b3U0WjhfZWE5M3VEVElFVlB0bW5BS0xtUUVXRE1Ja1E4TXlV?oc=5\" target=\"_blank\">AI Memory Battle: Micron vs SanDisk - Who wins the AI race?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion/analysis piece comparing Micron and SanDisk on AI memory competition. No concrete events, earnings data, or confirmed developments reported—typical speculative analysis on AI demand prospects."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "1822bb6d271a143d2f61b37a307b48bb97b4d861",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Why Is SanDisk Stock (SNDK) Rising Today, 6/17/2026? - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVFtVkg5bHd1YkdCcFlTOHV3aUtZbF9ET2JUdy1jeERiT2hWN1E0OE1GbUpEUGwzY0hsSUR4bzV4bVMwUnIwbVR0RjhxaWhfbmRzZExJaG13aVR0NURMNkFjNGdyN0t1eWdqYzV1c2xUN1BGNjJ2MkJlOW5tRXBpem80d3M?oc=5",
+  "published_at": "Wed, 17 Jun 2026 11:20:22 GMT",
+  "published_ts": 1781695222,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVFtVkg5bHd1YkdCcFlTOHV3aUtZbF9ET2JUdy1jeERiT2hWN1E0OE1GbUpEUGwzY0hsSUR4bzV4bVMwUnIwbVR0RjhxaWhfbmRzZExJaG13aVR0NURMNkFjNGdyN0t1eWdqYzV1c2xUN1BGNjJ2MkJlOW5tRXBpem80d3M?oc=5\" target=\"_blank\">Why Is SanDisk Stock (SNDK) Rising Today, 6/17/2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock rising on an unspecified date; TipRanks article title indicates a price move but snippet does not disclose a concrete catalyst. Without a stated reason (earnings, guidance, deal, production news, or pricing event), this is a soft relevance story—relevant because it names a core holding but lacking the hard event or disclosed cause needed for impact 4+."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "f70d8c49a96f8226814179fdce688189a75f478b",
+  "source": "Complex",
+  "topic": "holding",
+  "title": "PlayStation 5 SSD Prices Soar as SanDisk Storage Costs Explode - Complex",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlloSUdrQXVQWXhjd1EwUUdzZGpYOXJZeVlSOUxyMEZWcF9VT3Y3MzFzZFZpVlAxLWRNZjVWVEhOYi1MakprNkhEamtnaTc2YUc4SnpwNXA2RXFXaHoteXMxdW1YOThyTy1TLUNqNnNlekp3WHVTdlUza3hlRFFVa29pcXdTamFCSF9xX0FpUGpseEE?oc=5",
+  "published_at": "Thu, 18 Jun 2026 19:56:03 GMT",
+  "published_ts": 1781812563,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlloSUdrQXVQWXhjd1EwUUdzZGpYOXJZeVlSOUxyMEZWcF9VT3Y3MzFzZFZpVlAxLWRNZjVWVEhOYi1MakprNkhEamtnaTc2YUc4SnpwNXA2RXFXaHoteXMxdW1YOThyTy1TLUNqNnNlekp3WHVTdlUza3hlRFFVa29pcXdTamFCSF9xX0FpUGpseEE?oc=5\" target=\"_blank\">PlayStation 5 SSD Prices Soar as SanDisk Storage Costs Explode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Complex</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SanDisk storage costs rising, affecting PlayStation 5 SSD prices. This reflects NAND pricing dynamics relevant to the holding, though the article appears to be analysis/commentary on market trends rather than a concrete pricing announcement or earnings data."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "10288c15e31248dcc7ba23d2f2258955c6bc2a54",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Apple to raise prices to offset memory chip shortage, Cook says - MSN",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlRQb3VsZjFKb28wamVsbzNZejNMS2Eya1ZBUEthbUU0YXN4TGNWRUVJaU1aOGR5S0dQVDhxVFJLNTREaHYwcF9OUldCaUY5MU5ZWkZUdXlXcEdxNTNlLWdEeU9FSlBxRFlaWWY0d0p5dzFQMS0tTlVpVnFHcW45VVdoVEZSZU1jaENFeERfREF2eDRNWE1JQ0ZINmxJRjhyWUNkX2p2UkFVVFlWUUtCMA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:17:41 GMT",
+  "published_ts": 1781792261,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlRQb3VsZjFKb28wamVsbzNZejNMS2Eya1ZBUEthbUU0YXN4TGNWRUVJaU1aOGR5S0dQVDhxVFJLNTREaHYwcF9OUldCaUY5MU5ZWkZUdXlXcEdxNTNlLWdEeU9FSlBxRFlaWWY0d0p5dzFQMS0tTlVpVnFHcW45VVdoVEZSZU1jaENFeERfREF2eDRNWE1JQ0ZINmxJRjhyWUNkX2p2UkFVVFlWUUtCMA?oc=5\" target=\"_blank\">Apple to raise prices to offset memory chip shortage, Cook says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO Cook signals price increases in response to memory chip shortage, indicating tightening supply conditions and potential demand pressure on DRAM/NAND producers, though no concrete supply shock or production cut details are disclosed."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "ce6cc056ff94007eefcd75929cd0b55e9f1d8e47",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "Sandisk Stock Extends AI-Fueled Rally As WallStreetBets Piles In - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTZ5amdZX2s3MmRQcDZiRnE1Q0gxcWdBQlBUVVdKWnJGVms2TDI4bUF2c3JPVmlQNWRuZng3eWtYQ05iTEZmTDZ1TFpldUFLa3BnNmd0SVN0Mldsb3J3d3NnQWdscXJjS0IxSmV6Qktra1pCS2J6S011cWdoUU1peA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 19:14:00 GMT",
+  "published_ts": 1781810040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTZ5amdZX2s3MmRQcDZiRnE1Q0gxcWdBQlBUVVdKWnJGVms2TDI4bUF2c3JPVmlQNWRuZng3eWtYQ05iTEZmTDZ1TFpldUFLa3BnNmd0SVN0Mldsb3J3d3NnQWdscXJjS0IxSmV6Qktra1pCS2J6S011cWdoUU1peA?oc=5\" target=\"_blank\">Sandisk Stock Extends AI-Fueled Rally As WallStreetBets Piles In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock mentioned as rallying on AI theme with retail investor interest (WallStreetBets). No concrete catalyst, earnings data, or material company-specific news disclosed—primarily a price-move narrative without stated fundamental driver."
+  },
+  "buffered_ts": 1781815469.104731
+ },
+ {
+  "id": "56933f861ea9605dda7b3069bf2cebcd2b4d91e0",
+  "source": "Rising Kashmir",
+  "topic": "industry",
+  "title": "Apple may hike prices as it grapples with memory chip shortage - Rising Kashmir",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjlONElsZEZpZFZjcXM4dHZVajg1WHNRMDZQTTcyREd1RDhvbjV3NERBM0FxY0hJX3Y3ZU1EVVJYa1Y4ck5Lc1J4c3hmMU5zcHpuUHBXRmNKWFV6Q3NEMFEzMHI4WE9kOGJhWlFjTjZVM2k0Q0NzZ0RaWGc0M3Q2UXkxSjl6NXgtZ2xuNERmUzl0blRQTFpKVkpVVHFkaVRRMHdLSVFveHZRTzQt?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:28:49 GMT",
+  "published_ts": 1781792929,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjlONElsZEZpZFZjcXM4dHZVajg1WHNRMDZQTTcyREd1RDhvbjV3NERBM0FxY0hJX3Y3ZU1EVVJYa1Y4ck5Lc1J4c3hmMU5zcHpuUHBXRmNKWFV6Q3NEMFEzMHI4WE9kOGJhWlFjTjZVM2k0Q0NzZ0RaWGc0M3Q2UXkxSjl6NXgtZ2xuNERmUzl0blRQTFpKVkpVVHFkaVRRMHdLSVFveHZRTzQt?oc=5\" target=\"_blank\">Apple may hike prices as it grapples with memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rising Kashmir</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Apple may raise prices due to memory chip shortage. This is speculative language ('may') with no concrete shortage confirmation, pricing action, or supply data specific to DRAM/NAND makers. Generic price-hike talk without confirmed demand impact on memory supply or holdings."
+  },
+  "buffered_ts": 1781815469.104731
  }
 ]
