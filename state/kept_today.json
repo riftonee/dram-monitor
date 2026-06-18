@@ -542,5 +542,515 @@
    "summary": "SanDisk mentioned in a macroeconomic commentary about Fed policy and stock valuations; no memory-specific news or concrete developments affecting SanDisk's business reported."
   },
   "buffered_ts": 1781737424.4171035
+ },
+ {
+  "id": "c9ad45c856b6190f2651066faa544007f47501bc",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix says ships samples of 12-layer next-gen HBM4E chips to major customers - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JtTWp5Qkg2MWhxc1FYOXZNMHNMbHZyRENRZVVaNC1pMjVzbmJtR3Q1M3ZJTFNjWUg4ekJFZ2t6blp5MVp5T3Q5Q2syTkh3a3NUS0l0Zm1xRlhOdzRiSVVqb2llQXBMOUtzajk0LVY3elJ5cnp2Qzdyckl1ckxZU29YTmFha3RWUEMyTDZIYlR1eHlST1E?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:33:41 GMT",
+  "published_ts": 1781739221,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JtTWp5Qkg2MWhxc1FYOXZNMHNMbHZyRENRZVVaNC1pMjVzbmJtR3Q1M3ZJTFNjWUg4ekJFZ2t6blp5MVp5T3Q5Q2syTkh3a3NUS0l0Zm1xRlhOdzRiSVVqb2llQXBMOUtzajk0LVY3elJ5cnp2Qzdyckl1ckxZU29YTmFha3RWUEMyTDZIYlR1eHlST1E?oc=5\" target=\"_blank\">SK Hynix says ships samples of 12-layer next-gen HBM4E chips to major customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has shipped samples of 12-layer HBM4E chips to major customers, representing a concrete advancement in next-generation high-bandwidth memory production and validation. This is a material development for a key DRAM ETF holding showing progress on a cutting-edge product line critical to AI infrastructure demand."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "9a34850ae36e8d7afd105652b8fbfea66677723d",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXlVdU03T1c5aXI0R1hUWW1EQmFNYm9kZ1d2dkxoSldlOHk3QnktcHlNWk44V0dEQVAxU0FQeExhWlc4Z3NmcXdZcVd4cVpnODZSTEE2Y0JuSHMzTmxwY0tVYmxVWF9lRjlXMVlndXlqWDlKOFlXc1ZuZDFfdGNzcUJkMWRMU2FRaWU5Um9lNXlxUjgyb2FTc1hKR0RadTNaVWZGU3QzN0EtVTZxMUk1Q2dXVU02cmxwWUVXR0ZJNTAxRDlKMmFJ?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:49:48 GMT",
+  "published_ts": 1781740188,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXlVdU03T1c5aXI0R1hUWW1EQmFNYm9kZ1d2dkxoSldlOHk3QnktcHlNWk44V0dEQVAxU0FQeExhWlc4Z3NmcXdZcVd4cVpnODZSTEE2Y0JuSHMzTmxwY0tVYmxVWF9lRjlXMVlndXlqWDlKOFlXc1ZuZDFfdGNzcUJkMWRMU2FRaWU5Um9lNXlxUjgyb2FTc1hKR0RadTNaVWZGU3QzN0EtVTZxMUk1Q2dXVU02cmxwWUVXR0ZJNTAxRDlKMmFJ?oc=5\" target=\"_blank\">Nvidia supplier SK Hynix ships samples of next-generation chips to major customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, has shipped samples of next-generation memory chips to key customers including Nvidia. This represents a concrete, material development in the memory supply cycle and HBM (high-bandwidth memory) production ramp, directly impacting the fund's largest exposure."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "fcb7a10ed7d6d14fc985702772933a5c82970970",
+  "source": "PR Newswire",
+  "topic": "holding",
+  "title": "SK hynix Ships Samples of 12-Layer Next-Gen 'HBM4E' - PR Newswire",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWh2dFJ4VGt3bk5oSkZHWHhYV2JrSUZvM3NYd1ZvdExrb21ZNlJZWW5FT1luNTFQaExqeUo3WDlZQ2dsa1FGMnFQdk92UDljVUdDdzk3ZVdZdy0xcWtDRjZBUGJJdURTOE9PUFRJdW93RlN0cDRqN3dsTlhPazhYX2QtSGlvanBpME9CWktkRk1hMS0wVlc5OS1ZZ0ltSU5QWXpmVVVJYTI?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:35:00 GMT",
+  "published_ts": 1781739300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWh2dFJ4VGt3bk5oSkZHWHhYV2JrSUZvM3NYd1ZvdExrb21ZNlJZWW5FT1luNTFQaExqeUo3WDlZQ2dsa1FGMnFQdk92UDljVUdDdzk3ZVdZdy0xcWtDRjZBUGJJdURTOE9PUFRJdW93RlN0cDRqN3dsTlhPazhYX2QtSGlvanBpME9CWktkRk1hMS0wVlc5OS1ZZ0ltSU5QWXpmVVVJYTI?oc=5\" target=\"_blank\">SK hynix Ships Samples of 12-Layer Next-Gen 'HBM4E'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK hynix has shipped samples of 12-layer HBM4E (next-generation high-bandwidth memory), a concrete product milestone. HBM is critical to AI infrastructure demand and a key growth driver for memory semiconductor holdings. Sample shipments represent official progress toward commercial availability of next-gen capacity."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "c3f2fc1783d18267893c97ddad3180010c0c5fa3",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "SK hynix ships HBM4E samples, joining Samsung in next-gen AI memory race - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRG9UZFdKbEN2QUVpbjZsdGxpZ2NRR1hKYnktM1E1bFlldkhlYktub25rU09jU1BadlMzb0d6NWVYYzFHalYxdm5qYzl3WDRtS1M2aldkYw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:16:18 GMT",
+  "published_ts": 1781741778,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRG9UZFdKbEN2QUVpbjZsdGxpZ2NRR1hKYnktM1E1bFlldkhlYktub25rU09jU1BadlMzb0d6NWVYYzFHalYxdm5qYzl3WDRtS1M2aldkYw?oc=5\" target=\"_blank\">SK hynix ships HBM4E samples, joining Samsung in next-gen AI memory race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped HBM4E samples, competing with Samsung in next-generation AI memory. This is a concrete development showing progress in high-bandwidth memory capacity and production, directly relevant to both the HBM demand cycle and a major fund holding."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "b0af024ee3e5b1ba0b581f3e0f6c8291aa391b26",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "SK Hynix Samples HBM4E With 48 GB Capacity and 16 Gbps as AI Chip Demand Forces DRAM Makers Into Overdrive - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0pybnZfNUwwNmlWLVc4S2gtUlczMUdEOVk4UmZDanBtbXVPNV9Sc0EwMUhuamUxWXVTUXhWRFJBVTNpZm9mVXp1S3E5TUdLYjFMY2FDMHVDZkJWVTZkNVFtR19sRFVyLVEzWUE0cU0zTnRlZ2lrWnpLVV9velF3c1pwNVRfeWdv0gGOAUFVX3lxTE9WR2hGQUphMnhGTU9wQW96aGZTc1l1ZFhPRi10YWtEcThfdlFSalFBWTM0dUhOcTZsMFJodTlneEh4bDVpWVVwXzJzX0dhb1phYlpfTjl1Z256TndMSzNRVzNjMzJ2VGg1dzVrVUdGa2M3MXBoejJlZ0g2OU5QVENEejRYZ2lOa1RBUkxnVFE?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:35:00 GMT",
+  "published_ts": 1781746500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0pybnZfNUwwNmlWLVc4S2gtUlczMUdEOVk4UmZDanBtbXVPNV9Sc0EwMUhuamUxWXVTUXhWRFJBVTNpZm9mVXp1S3E5TUdLYjFMY2FDMHVDZkJWVTZkNVFtR19sRFVyLVEzWUE0cU0zTnRlZ2lrWnpLVV9velF3c1pwNVRfeWdv0gGOAUFVX3lxTE9WR2hGQUphMnhGTU9wQW96aGZTc1l1ZFhPRi10YWtEcThfdlFSalFBWTM0dUhOcTZsMFJodTlneEh4bDVpWVVwXzJzX0dhb1phYlpfTjl1Z256TndMSzNRVzNjMzJ2VGg1dzVrVUdGa2M3MXBoejJlZ0g2OU5QVENEejRYZ2lOa1RBUkxnVFE?oc=5\" target=\"_blank\">SK Hynix Samples HBM4E With 48 GB Capacity and 16 Gbps as AI Chip Demand Forces DRAM Makers Into Overdrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun sampling HBM4E memory with 48 GB capacity and 16 Gbps performance. This is a concrete product development milestone from a fund holding in the high-bandwidth memory segment, which is a key growth driver for memory demand in AI infrastructure."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "bdd9b4bf1684206d7cbe077e5f7d7facd75306b2",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix Supplies 12-Layer HBM4E Samples to Key Clients - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVU0yQkZla3dXb1M0QzE2M0I1SnVHTzNtR3ctbjdIOWpYbW9HbExaS0l3WTJHOTUwSS1scVZBSURaZDYtTkVXdUlsa1ZwUHpvaXBlaGNlSU9PR2RXLVRoT1lMeWV6QUFxbG1vQ3FuRXBCbDlTQnhoc0RCSmlPU200MUJrdzJZcW9X?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:22:40 GMT",
+  "published_ts": 1781742160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVU0yQkZla3dXb1M0QzE2M0I1SnVHTzNtR3ctbjdIOWpYbW9HbExaS0l3WTJHOTUwSS1scVZBSURaZDYtTkVXdUlsa1ZwUHpvaXBlaGNlSU9PR2RXLVRoT1lMeWV6QUFxbG1vQ3FuRXBCbDlTQnhoc0RCSmlPU200MUJrdzJZcW9X?oc=5\" target=\"_blank\">SK Hynix Supplies 12-Layer HBM4E Samples to Key Clients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has supplied samples of 12-layer HBM4E (high-bandwidth memory) to key clients. This is a concrete development showing progress on next-generation HBM technology by a major DRAM ETF holding, with direct implications for the memory cycle and competitive positioning in the high-value HBM segment driving AI-infrastructure demand."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "91bb6453a15a3f0c90d620d2a2f68a484bc08274",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix ships samples of next-gen memory; shares surge to record high - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1pxT1hMakNobmtLLU4xM0NOVDFSNEYwdDMtOUU4Q0RRVkpKZkIyaGpzUXNacFYxVWhfc2NNb0pqdFJPcU45ZnhHLTQ5Z2JxMkNnQm1TRFVTSEoySEExU1VnUHVBUTBHSUl2eVdjcW1RU2xyRktxcUlOSTJlLVp3cGw4QTBPVUxSeVNCYVU4SWhTWWJDTGQ3YlJfeDNLMWNCVVZEbzc3REM1VzhOdUJtLTNTcnk5ZDZwdHFhQUFMXy1vVGs?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:26:47 GMT",
+  "published_ts": 1781746007,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1pxT1hMakNobmtLLU4xM0NOVDFSNEYwdDMtOUU4Q0RRVkpKZkIyaGpzUXNacFYxVWhfc2NNb0pqdFJPcU45ZnhHLTQ5Z2JxMkNnQm1TRFVTSEoySEExU1VnUHVBUTBHSUl2eVdjcW1RU2xyRktxcUlOSTJlLVp3cGw4QTBPVUxSeVNCYVU4SWhTWWJDTGQ3YlJfeDNLMWNCVVZEbzc3REM1VzhOdUJtLTNTcnk5ZDZwdHFhQUFMXy1vVGs?oc=5\" target=\"_blank\">SK Hynix ships samples of next-gen memory; shares surge to record high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has shipped samples of next-generation memory and its shares have surged to a record high. This represents a concrete product milestone and confirmed stock move for a major DRAM ETF holding."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "da2d74e5d625ff00da77cfb927fb05b2ccd242f8",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix ships HBM4E samples to customers - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHIyRnRGUzNHLWZqS1pIWXdNQ2R0S0kxb1ZaTndSUWRzWDl1OW9ZOTR0N1lOY0dlMEd5Ri0xeGFZb293QUhLaExnT0REdmZiNlFkY3hlZWZTLTFibExjRE4zNWdRanlNSVV1dElnR0RBbUFoQzZodi10RW9ZeFpqV3NYZFFreHJpZjE0QWlnM2UzUHM?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:06:38 GMT",
+  "published_ts": 1781744798,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHIyRnRGUzNHLWZqS1pIWXdNQ2R0S0kxb1ZaTndSUWRzWDl1OW9ZOTR0N1lOY0dlMEd5Ri0xeGFZb293QUhLaExnT0REdmZiNlFkY3hlZWZTLTFibExjRE4zNWdRanlNSVV1dElnR0RBbUFoQzZodi10RW9ZeFpqV3NYZFFreHJpZjE0QWlnM2UzUHM?oc=5\" target=\"_blank\">SK Hynix ships HBM4E samples to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun shipping HBM4E (high-bandwidth memory 4E) samples to customers, a concrete product milestone in the high-demand HBM market. This represents a material development for a key DRAM fund holding advancing next-generation memory technology."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "341ef56a1b5b3b7d8ed19bdfc8a890b330469c7d",
+  "source": "Investing.com Nigeria",
+  "topic": "holding",
+  "title": "SK hynix ships HBM4E memory samples to major customers By Investing.com - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYld2a1pEWThDcjlhYi1wYmRQMVJHWUpQM1hVYnNORWE2cGVuQXhpazFvTzMydGVock83c0YtQXk0MHlYR2k4VjUzTFNYZndhTDEzOW9EQlBYWTJoZklWa3J1RkhCUG1sQ09UeTJEMXJqZTdQR0tBeTFrZFF1WUk4UUF2aURSNXJWVURqODdDNnU2RHRKejliVHBjU0I5MXlTUTdueVFzdjNrcFJ5b05Udm1STHZ6dw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:52:30 GMT",
+  "published_ts": 1781747550,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYld2a1pEWThDcjlhYi1wYmRQMVJHWUpQM1hVYnNORWE2cGVuQXhpazFvTzMydGVock83c0YtQXk0MHlYR2k4VjUzTFNYZndhTDEzOW9EQlBYWTJoZklWa3J1RkhCUG1sQ09UeTJEMXJqZTdQR0tBeTFrZFF1WUk4UUF2aURSNXJWVURqODdDNnU2RHRKejliVHBjU0I5MXlTUTdueVFzdjNrcFJ5b05Udm1STHZ6dw?oc=5\" target=\"_blank\">SK hynix ships HBM4E memory samples to major customers By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK hynix has begun shipping HBM4E memory samples to major customers. This is a concrete, officially announced development representing a material milestone in the HBM supply cycle—HBM4E is next-generation high-bandwidth memory critical to AI-infrastructure demand. Sample shipments signal progress toward volume production and validate customer qualification, directly affecting the timing and magnitude of HBM revenue ramp for a major DRAM fund holding."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "3cafc38635f625692e3418ba65a647a17cabdada",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix says ships samples of 12-layer next-gen HBM4E chips to major customers - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenRmUVBCa3lFZ3lwNmZMQzZ0WEFVVE5RM3BicXRZd2J5eHVoamN6M2lMZFBKd3o2cVdrUFNwUmV4TTllZGhkTFVic294MUM0TGhLaDhUYW5MTkc0TlpNN2dJZnhWalNSelhYVmRwM3VPQmxzX1JSOWJiLWdYclNxNmRxMVBnRmo4eHlHVjdIV2lzcUR4OVZlbXFWWW05VVNQOHJVWHNTMzczNzEybnJoYjZzX0dtTjJoemVleldNUDg5ZW10bmc1WEM3SWI?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:32:19 GMT",
+  "published_ts": 1781739139,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNenRmUVBCa3lFZ3lwNmZMQzZ0WEFVVE5RM3BicXRZd2J5eHVoamN6M2lMZFBKd3o2cVdrUFNwUmV4TTllZGhkTFVic294MUM0TGhLaDhUYW5MTkc0TlpNN2dJZnhWalNSelhYVmRwM3VPQmxzX1JSOWJiLWdYclNxNmRxMVBnRmo4eHlHVjdIV2lzcUR4OVZlbXFWWW05VVNQOHJVWHNTMzczNzEybnJoYjZzX0dtTjJoemVleldNUDg5ZW10bmc1WEM3SWI?oc=5\" target=\"_blank\">SK Hynix says ships samples of 12-layer next-gen HBM4E chips to major customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has shipped samples of 12-layer HBM4E chips to major customers, representing a concrete advancement in next-generation HBM production and a material development for this key memory holding."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "7694f4ed76fb709491528e9adfa3b0ad6ca3eb97",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "SK hynix Ships 12-Layer HBM4E Samples to Customers - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjdYWllBZVpCamxRRFdoenpIS2hfdzAxakphUERCaWNfekQ0Y2NxRm1zNElxSVNOaWtOeW9sRmJIS0lTalFwWWRMNDR1Q19kUmFJMkZUZWwzMFd0Y25tQVVYRWF1eTJpMnZ3UEI4ZkFOWm5Nc1dOb1NMcWNkamJidWNob3NTNWlXT3d1WTRjWEI0d2FzUjdN?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:53:10 GMT",
+  "published_ts": 1781740390,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjdYWllBZVpCamxRRFdoenpIS2hfdzAxakphUERCaWNfekQ0Y2NxRm1zNElxSVNOaWtOeW9sRmJIS0lTalFwWWRMNDR1Q19kUmFJMkZUZWwzMFd0Y25tQVVYRWF1eTJpMnZ3UEI4ZkFOWm5Nc1dOb1NMcWNkamJidWNob3NTNWlXT3d1WTRjWEI0d2FzUjdN?oc=5\" target=\"_blank\">SK hynix Ships 12-Layer HBM4E Samples to Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped 12-layer HBM4E (high-bandwidth memory) samples to customers, representing a concrete product advancement and milestone in next-generation HBM development. This is a material event for the holding and signals progress in the high-value HBM segment that drives memory demand."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "e7e19d256763cdb10be658c2c79be419c5d09326",
+  "source": "Yonhap News Agency",
+  "topic": "holding",
+  "title": "SK hynix ships HBM4E chip samples to global customers - Yonhap News Agency",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRkJpTUY4endscmdZNGx5OHp2cllVRzQxdXV4Z2xGU0JuSmRhVnlrVG90OUVRRF94aWxfSWUzTGRicjFjbmxLNW10ajZydDZ4c0VZY1JHWWxodw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:21:53 GMT",
+  "published_ts": 1781742113,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRkJpTUY4endscmdZNGx5OHp2cllVRzQxdXV4Z2xGU0JuSmRhVnlrVG90OUVRRF94aWxfSWUzTGRicjFjbmxLNW10ajZydDZ4c0VZY1JHWWxodw?oc=5\" target=\"_blank\">SK hynix ships HBM4E chip samples to global customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yonhap News Agency</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped HBM4E chip samples to global customers, a concrete development in advanced HBM supply. HBM4E is next-generation high-bandwidth memory critical to AI infrastructure; sample shipments indicate progress toward production qualification and customer adoption, materially relevant to the fund's memory cycle thesis and SK hynix's competitive position."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "a55f390ee686cc2756be436306fd0bd3a8d90f14",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "SK hynix ships HBM4E samples to customers - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyNnFlYmNRYTYzOGhOSnBTNHE3d2JrQzZ4OU9Wb0dJOG00N0JJZ1J2WkVteWFrVE02S2ZKbV90ZDdidjRKaERIZVRVZDdLTzg4ZkFtZy1FM1N4NGVaU0Y3cEt5a2UxVmZkQ05uUzg0T2hRNjRVNnd4UjNDNEhPQQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:06:00 GMT",
+  "published_ts": 1781741160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAyNnFlYmNRYTYzOGhOSnBTNHE3d2JrQzZ4OU9Wb0dJOG00N0JJZ1J2WkVteWFrVE02S2ZKbV90ZDdidjRKaERIZVRVZDdLTzg4ZkFtZy1FM1N4NGVaU0Y3cEt5a2UxVmZkQ05uUzg0T2hRNjRVNnd4UjNDNEhPQQ?oc=5\" target=\"_blank\">SK hynix ships HBM4E samples to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has begun shipping HBM4E (high-bandwidth memory generation 4E) samples to customers. This is a concrete, material development for a major DRAM fund holding, signaling progress in next-generation HBM production and capacity that directly supports AI-infrastructure demand and competitive positioning."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "1d22fd86b0c790df32b4ead32c11cb694ea2cff1",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "SK Hynix ships samples of next-gen memory; shares surge to record high - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnVHNkN2b0FJX2lWUGhTNVZmWldFYkVINi1vWF8yZlRfQ3BMSjRQNU1Tc1VqQVlSUXRmcDEzVnQxSkNmU3NKQzdaNTNBSnlzX0JjazZfUnJwQVBFU1IxclZvS25DOHlIR2xXYjlMM3lkTXd5SDZaVkdyNGFZNlFqREZMVFhGUnBXUmlfSUYxZUVsa3dwdDI1QlhRNFRMRlYwSmFLZGlJQzBfdHRBejZVVDFvNWVxdTR2STU1MHF5bVlsdw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:27:42 GMT",
+  "published_ts": 1781746062,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnVHNkN2b0FJX2lWUGhTNVZmWldFYkVINi1vWF8yZlRfQ3BMSjRQNU1Tc1VqQVlSUXRmcDEzVnQxSkNmU3NKQzdaNTNBSnlzX0JjazZfUnJwQVBFU1IxclZvS25DOHlIR2xXYjlMM3lkTXd5SDZaVkdyNGFZNlFqREZMVFhGUnBXUmlfSUYxZUVsa3dwdDI1QlhRNFRMRlYwSmFLZGlJQzBfdHRBejZVVDFvNWVxdTR2STU1MHF5bVlsdw?oc=5\" target=\"_blank\">SK Hynix ships samples of next-gen memory; shares surge to record high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has shipped samples of next-generation memory and its shares have surged to record highs, indicating concrete progress in advanced memory technology development and positive market reception of the company's product roadmap."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "e014ac0d21aec82af72d49daaab9564b4c0fdb75",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Ships HBM4E Samples, Intensifies Rivalry With Samsung - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWlWNXNaNWVXOHFENE1KVGs2dmRSMWExYWlkTll2VFljcWJfLVJmZFZJazVUcld3N256QmNqbk93QjlqaGU3cTltX2RCRnBfc29UV2R3cVVlaXZsWGFzUWd0bWFqUmtZTk00VS1xMnF4bi12dUo0YVJZSGhxcjVrdHUyV1AyTU1IZ1ctS1huUGNPVG1zLXhjY216OA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:46:45 GMT",
+  "published_ts": 1781740005,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWlWNXNaNWVXOHFENE1KVGs2dmRSMWExYWlkTll2VFljcWJfLVJmZFZJazVUcld3N256QmNqbk93QjlqaGU3cTltX2RCRnBfc29UV2R3cVVlaXZsWGFzUWd0bWFqUmtZTk00VS1xMnF4bi12dUo0YVJZSGhxcjVrdHUyV1AyTU1IZ1ctS1huUGNPVG1zLXhjY216OA?oc=5\" target=\"_blank\">SK hynix Ships HBM4E Samples, Intensifies Rivalry With Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped HBM4E samples, advancing its high-bandwidth memory product roadmap and intensifying competition with Samsung in the critical HBM segment that drives AI-infrastructure memory demand. This represents a concrete product development milestone for a fund holding."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "f98e6f4e4646f0e3e4550faaea3690478e17fcdf",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, KOSPI Both Thank Tim Cook as Apple Flags Memory Price Hikes - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRThzTmEtWW56dE9Yc1hDVmNQakZHTzZJNzFqUG1oVzlIcERCUlVERzRNaHRBM2c4Ukp5SGNDeEROSUN5cDFtLV9GMWJXa0M4WVl0bVRzbFNGMmU1UHNqV1ZjN2lLbHh5dDRuTFFlOFpiTlNVLWZlZWRPdkxLWUtydGFyYXIzc0NWTncza2VyVDhEcG5YSk5CZjZLQXBJdw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:17:57 GMT",
+  "published_ts": 1781741877,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRThzTmEtWW56dE9Yc1hDVmNQakZHTzZJNzFqUG1oVzlIcERCUlVERzRNaHRBM2c4Ukp5SGNDeEROSUN5cDFtLV9GMWJXa0M4WVl0bVRzbFNGMmU1UHNqV1ZjN2lLbHh5dDRuTFFlOFpiTlNVLWZlZWRPdkxLWUtydGFyYXIzc0NWTncza2VyVDhEcG5YSk5CZjZLQXBJdw?oc=5\" target=\"_blank\">Samsung, KOSPI Both Thank Tim Cook as Apple Flags Memory Price Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple's flagged memory price increases signal tightening supply conditions and rising DRAM/NAND pricing power, directly benefiting Samsung and other memory suppliers like those held in the DRAM fund. This is a concrete pricing development with market impact on memory chipmakers."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "4895bc9ac12ee1e9b0435e5120394dca8f265054",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT2tydkxYcVJWcVpVaUFHRENVUWtEVHFjd19oanVDb0hMWUl4dEhiMXRhQTQzQmNoYThadkdUUGlodUFWZDN4Y1BxYXZxOUJMcWlrWndReHpsQm5ZVDRMOE96QjBabW1IbFFXZEdVX0tBWnhMVHNHeVNjSkQ5T096UEE1eEo0ZFFtN0VtSnZXWmpNR1JzbkNjbTZnTmdJSjFLSWc3d2g1LV9SbWVmUVZ1bGRSTFZjNTVXM3FWbDBZQXQ4U0hlTXdwNlVZUE5TSzNJbE5nM3ZPRmlvZEYy?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:42:55 GMT",
+  "published_ts": 1781732575,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT2tydkxYcVJWcVpVaUFHRENVUWtEVHFjd19oanVDb0hMWUl4dEhiMXRhQTQzQmNoYThadkdUUGlodUFWZDN4Y1BxYXZxOUJMcWlrWndReHpsQm5ZVDRMOE96QjBabW1IbFFXZEdVX0tBWnhMVHNHeVNjSkQ5T096UEE1eEo0ZFFtN0VtSnZXWmpNR1JzbkNjbTZnTmdJSjFLSWc3d2g1LV9SbWVmUVZ1bGRSTFZjNTVXM3FWbDBZQXQ4U0hlTXdwNlVZUE5TSzNJbE5nM3ZPRmlvZEYy?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple CEO announces price increases attributed to memory chip shortage, indicating constrained supply conditions and potential pricing power for memory suppliers in the near term."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "17970f6c871c2a977b3688912c8a45bd34ba18e4",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock surging to a record high today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTFkNThXVDJnckVveEZVek1pRldMNGROTE55SFpHaXRfNWlvcjluUkZETmhjdHpjdmxpd0k5ZkJ6N21iaVZxc2VKZ2pEaU1rRGQxNDJfWm0wRThOZ2RtRUxMLXRqN21VUmJuX3lVdVJiRkRabWU3TDZ5VEFhRG5rX3BRM0xsNHpoNTUwbkVXd1ltcm5ZZkNtTmlOY0ZRMFNEV3dtNFZodlA0Q0lNTmdvbnNlZHU?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:49:30 GMT",
+  "published_ts": 1781747370,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTFkNThXVDJnckVveEZVek1pRldMNGROTE55SFpHaXRfNWlvcjluUkZETmhjdHpjdmxpd0k5ZkJ6N21iaVZxc2VKZ2pEaU1rRGQxNDJfWm0wRThOZ2RtRUxMLXRqN21VUmJuX3lVdVJiRkRabWU3TDZ5VEFhRG5rX3BRM0xsNHpoNTUwbkVXd1ltcm5ZZkNtTmlOY0ZRMFNEV3dtNFZodlA0Q0lNTmdvbnNlZHU?oc=5\" target=\"_blank\">Why is SK Hynix stock surging to a record high today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock surging to record high. The headline indicates a significant stock move but the snippet does not disclose a specific catalyst or concrete event driving the surge—it is asking why rather than reporting a stated cause. Without a disclosed reason (earnings beat, guidance raise, deal announcement, or supply event), this is a price-move story lacking a fundamental driver, typical of impact 3."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "7962bde85003c39dcc13e3aeb3dec7d409f22bac",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Key facts: SK hynix GDR up 9.7% from low; drops degree requirement - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmhhU2JURzk2ZDB5VzlsYU9peGliU3pMcVpUd0F4cFByQTdHeUVQcTRsX3RuVmpreGdlTF83WkhGSy1MVnR4WnN6dmtLOFNRc3Q2RllHNm0zekM0ZVJCRm9ZckIzbmV1WWpQdGUtM1ByN0taZW0tZzdySjlxU0FaNTFWV1dRTWt2b1JuTVI3TTFRSU55UG1aXzZrdktpbVFvSFZUc205SFFwa2FTLWw3ck1EV25zSmJZUmJDUGtDYWxoX1E?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:13:00 GMT",
+  "published_ts": 1781741580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmhhU2JURzk2ZDB5VzlsYU9peGliU3pMcVpUd0F4cFByQTdHeUVQcTRsX3RuVmpreGdlTF83WkhGSy1MVnR4WnN6dmtLOFNRc3Q2RllHNm0zekM0ZVJCRm9ZckIzbmV1WWpQdGUtM1ByN0taZW0tZzdySjlxU0FaNTFWV1dRTWt2b1JuTVI3TTFRSU55UG1aXzZrdktpbVFvSFZUc205SFFwa2FTLWw3ck1EV25zSmJZUmJDUGtDYWxoX1E?oc=5\" target=\"_blank\">Key facts: SK hynix GDR up 9.7% from low; drops degree requirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix GDR (Global Depositary Receipt) trading up 9.7% from recent low; company has dropped a degree requirement (likely for hiring/HR policy). The stock price movement is noted but no disclosed catalyst provided; the degree requirement change is a minor corporate policy adjustment unrelated to memory demand or production. Impact is soft—a price move without stated cause plus a non-material HR policy shift."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "6b110c85bde019133749903fb809ac05138e7abd",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix scraps degree rules to court AI chip talent - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXMxMGM3NDR2d2RKcWNuajZwMEpCTDVkcGYyODlHSVBNRTM3M2Jldm9pZ1czT3dPdGVMVUM1RGktZ1pIUHQ0SERiWDJoLW51NTNnMDJScUhMVDJMcENhSXFXdGNNQjhueWdmWGZCZ2M3RnBtM2s5TGNuQ2VNYmE4czNqdTJCMFhnQ1E0eEpHcVJSZzl6Q3ZZSA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:52:43 GMT",
+  "published_ts": 1781740363,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXMxMGM3NDR2d2RKcWNuajZwMEpCTDVkcGYyODlHSVBNRTM3M2Jldm9pZ1czT3dPdGVMVUM1RGktZ1pIUHQ0SERiWDJoLW51NTNnMDJScUhMVDJMcENhSXFXdGNNQjhueWdmWGZCZ2M3RnBtM2s5TGNuQ2VNYmE4czNqdTJCMFhnQ1E0eEpHcVJSZzl6Q3ZZSA?oc=5\" target=\"_blank\">SK Hynix scraps degree rules to court AI chip talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix removes degree requirements for hiring to attract AI chip talent. A strategic HR move reflecting competitive pressure for specialized workforce in memory/AI chip space, but no concrete business impact disclosed."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "455c1e6c25c7a34f2ac3eadb03da22ae2e1f9e7a",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Group tops KRW2,000 trillion as AI memory demand and Nvidia visit lift valuation - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BBcFFfXzJiT3d0dlBZbGVxQWMwUnlfTk1RTlBQcE9HcUJleWs1N2lfcjlPLXpJU1N2aGVTd1M4dDl0OV9qRkd5d1lXU0tvR2wzRE03WDRsX0xObUw2NlBCSS1QU0loQ2JENmEzbGNsVDVUQm5lRXdmdVZtRnBjdk9LVnJkUUNFMVl3aXpVUzlkVlU?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:51:55 GMT",
+  "published_ts": 1781740315,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BBcFFfXzJiT3d0dlBZbGVxQWMwUnlfTk1RTlBQcE9HcUJleWs1N2lfcjlPLXpJU1N2aGVTd1M4dDl0OV9qRkd5d1lXU0tvR2wzRE03WDRsX0xObUw2NlBCSS1QU0loQ2JENmEzbGNsVDVUQm5lRXdmdVZtRnBjdk9LVnJkUUNFMVl3aXpVUzlkVlU?oc=5\" target=\"_blank\">SK Group tops KRW2,000 trillion as AI memory demand and Nvidia visit lift valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Group's valuation exceeded KRW2,000 trillion, attributed to AI memory demand and a Nvidia visit. While relevant to SK hynix (a fund holding), the story lacks concrete earnings, guidance, pricing data, or confirmed capacity announcements—it reflects market sentiment and valuation movement rather than a hard event."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "fe1452b257fa92215d59d62e48536538fab32124",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK Hynix surged more than 4% in early trading on the 18th, touching 2.6 million Knicks for the first.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MUVZZQ2pyWTQ1eGNuNURWX1JKbjFfSDZVOU5LM1RUaHJBblNENTVzUTdBbVhDUXlNQl9rX0dwbU9OZFpqSUxTNVlPd0c5NEE?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:03:15 GMT",
+  "published_ts": 1781744595,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MUVZZQ2pyWTQ1eGNuNURWX1JKbjFfSDZVOU5LM1RUaHJBblNENTVzUTdBbVhDUXlNQl9rX0dwbU9OZFpqSUxTNVlPd0c5NEE?oc=5\" target=\"_blank\">SK Hynix surged more than 4% in early trading on the 18th, touching 2.6 million Knicks for the first..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock surged more than 4% in early trading, reaching 2.6 million Korean won. This is a material price move in a core DRAM fund holding, but without a disclosed catalyst (earnings, guidance, deal, or supply news), it rates as soft momentum rather than a confirmed event."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "298b00b5c74e2fc768f9bc6b4b6778b6bb9ec2e7",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "SK Hynix, a supplier to NVIDIA, has shipped samples of its next-generation chips to major customers. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3Z2TklxYVNtUmtsVjRGMU0xNFBtOVdVZjFTcHd0UkVDNUQxOXBWTGFudzEySGsyVWd3SEFkWWhld1JuX01idDRkOTBpcjI3VldsTGdpMWJpTmlxYlNsdG9JMlJwbTFVQVNyeEhXU3dycXBSVDVSSVhEX0xCQ1ZNejVnVGJzVTR1YmVPZW1feHdzM3hnZUFrZA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:17:20 GMT",
+  "published_ts": 1781741840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3Z2TklxYVNtUmtsVjRGMU0xNFBtOVdVZjFTcHd0UkVDNUQxOXBWTGFudzEySGsyVWd3SEFkWWhld1JuX01idDRkOTBpcjI3VldsTGdpMWJpTmlxYlNsdG9JMlJwbTFVQVNyeEhXU3dycXBSVDVSSVhEX0xCQ1ZNejVnVGJzVTR1YmVPZW1feHdzM3hnZUFrZA?oc=5\" target=\"_blank\">SK Hynix, a supplier to NVIDIA, has shipped samples of its next-generation chips to major customers.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has shipped samples of next-generation chips to major customers including NVIDIA. This indicates progress on new product development and capacity, but remains at the sample stage rather than a confirmed production ramp or order."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "658dae09939abebd97fcdaffe906b74184997a78",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Daishin lifts SK Square target as SK hynix gains drive valuation in South Korea - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjAxamdITGwyc3VwX2o0UVIwYVFnMl9CYnBvd2hLU216TkRicWhCVkZNQWJDSlZvaUp2bHVZX2g5SlBwYkpBeHRLMXEtS3haTXJKNkZhVU5xY1RQNG42ZVRKS1JQQkc3V1BCdGN6YUo3UE8zejBvbGVYZWs0cWlpc9IBlAFBVV95cUxPaWw1SFhqOE5EWmNKWUppaTJCbDNYMmdwdEhFMklHQnJneTg2OEowRG05OWdIek5BQnlnQTJzNmJzWENVcXJzc09fWDAxY21qSUQ4VFBzUnpTQjlGUzRhLWlRc3FuMW4wYk05OTlESklPNW9uSTZNRG90c0FSMW1vQ3pvZm1qYkx1bkU4WHFSN0ZmcTBt?oc=5",
+  "published_at": "Wed, 17 Jun 2026 23:32:00 GMT",
+  "published_ts": 1781739120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjAxamdITGwyc3VwX2o0UVIwYVFnMl9CYnBvd2hLU216TkRicWhCVkZNQWJDSlZvaUp2bHVZX2g5SlBwYkpBeHRLMXEtS3haTXJKNkZhVU5xY1RQNG42ZVRKS1JQQkc3V1BCdGN6YUo3UE8zejBvbGVYZWs0cWlpc9IBlAFBVV95cUxPaWw1SFhqOE5EWmNKWUppaTJCbDNYMmdwdEhFMklHQnJneTg2OEowRG05OWdIek5BQnlnQTJzNmJzWENVcXJzc09fWDAxY21qSUQ4VFBzUnpTQjlGUzRhLWlRc3FuMW4wYk05OTlESklPNW9uSTZNRG90c0FSMW1vQ3pvZm1qYkx1bkU4WHFSN0ZmcTBt?oc=5\" target=\"_blank\">Daishin lifts SK Square target as SK hynix gains drive valuation in South Korea - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst Daishin raises price target on SK Square (SK hynix's parent company) following recent gains in SK hynix stock, reflecting improved valuation sentiment. Opinion-based analyst action rather than a confirmed event or hard catalyst."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "d70f35c9d1ac86038bb351ef5026948f24630697",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "NETLIST EXPANDS LEGAL ACTION AGAINST SAMSUNG AND GOOGLE FOR INFRINGEMENT OF NEW AI MEMORY PATENTS - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlVoYlhKeTUzeW5yaURwTXZsR3hnTjU5WWNNMi04c05uU2lMLVo4bDBFY2VsRVhRb2R2LVJmOW9VRDBHVHRHX0RMTWcwTWFERjFDbEtpVlU2d3p2QWlYRGs0a0ZubVRWTlFBZWVmbTJQa29iWWNNTlhaSHNuRTlhME5TTFp3OVlkbW1RQ205VWphREE1V3hET0ExT1NQVm0zVTBnTHVsSWpRODZwc1VEM3B0ZkM?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:58:39 GMT",
+  "published_ts": 1781747919,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlVoYlhKeTUzeW5yaURwTXZsR3hnTjU5WWNNMi04c05uU2lMLVo4bDBFY2VsRVhRb2R2LVJmOW9VRDBHVHRHX0RMTWcwTWFERjFDbEtpVlU2d3p2QWlYRGs0a0ZubVRWTlFBZWVmbTJQa29iWWNNTlhaSHNuRTlhME5TTFp3OVlkbW1RQ205VWphREE1V3hET0ExT1NQVm0zVTBnTHVsSWpRODZwc1VEM3B0ZkM?oc=5\" target=\"_blank\">NETLIST EXPANDS LEGAL ACTION AGAINST SAMSUNG AND GOOGLE FOR INFRINGEMENT OF NEW AI MEMORY PATENTS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Netlist has expanded legal action against Samsung and Google over AI memory patents. While Samsung is a DRAM fund holding, this is a patent dispute rather than a concrete market event affecting memory supply, pricing, or demand. Litigation outcomes are uncertain and typically move stock prices only upon settlement or verdict. Classified as relevant but soft (opinion/possibility level)."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "c28bfd4b5612fac21c4f3877c85f541414ff1192",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings (STX) Price Target Raised by $268 at Morgan Stanley - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnI4YXdwSTZjN0xhal91RzlWRkV2b2sydjZrXzBXb3hCQkRrVldUN0lEd2VYcDVfN01oWWRQcmRrS1ZuYnJQb1lfdGFpd0dQRFdab3lpSzFUNFdHSFdDenVYODdfYlgzU1M5MXhIYXN2YTJnSmNKZmtzU1lxRkU0SjR1T3hCZVkxc200QzFoWTVWZ3preHVCcThCdTUyUTlQMHg3Qg?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:12:00 GMT",
+  "published_ts": 1781745120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnI4YXdwSTZjN0xhal91RzlWRkV2b2sydjZrXzBXb3hCQkRrVldUN0lEd2VYcDVfN01oWWRQcmRrS1ZuYnJQb1lfdGFpd0dQRFdab3lpSzFUNFdHSFdDenVYODdfYlgzU1M5MXhIYXN2YTJnSmNKZmtzU1lxRkU0SjR1T3hCZVkxc200QzFoWTVWZ3preHVCcThCdTUyUTlQMHg3Qg?oc=5\" target=\"_blank\">Seagate Technology Holdings (STX) Price Target Raised by $268 at Morgan Stanley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morgan Stanley raised Seagate (STX) price target by $2.68. Analyst price-target changes are opinion-based forecasts rather than concrete events; they reflect analyst sentiment but lack the weight of actual earnings, guidance, or production announcements that would move the memory cycle."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "1bfc47949120d42ea7d438edb397a190df054f20",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "SanDisk Is ‘the Most Overbought Stock in History,’ Says Polymarket - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOURyNC1DeGR5dTJmUkxBOXN6aEs1SndNTGlBMjU5X2x5c2IxcmJUVW1VVjB5WkFIbHdsOEZZQUJxY2RrbmYzendQUGVkajZvSkFuSUZaVExfaF9DZmRIMUFlQXhkUDlnWk81ejlGcENKbTVyNVV3RG9VT1RYV242N014N29CV0hYalNNdjZnUkZwS3hWaHp6MA?oc=5",
+  "published_at": "Tue, 16 Jun 2026 19:11:59 GMT",
+  "published_ts": 1781637119,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOURyNC1DeGR5dTJmUkxBOXN6aEs1SndNTGlBMjU5X2x5c2IxcmJUVW1VVjB5WkFIbHdsOEZZQUJxY2RrbmYzendQUGVkajZvSkFuSUZaVExfaF9DZmRIMUFlQXhkUDlnWk81ejlGcENKbTVyNVV3RG9VT1RYV242N014N29CV0hYalNNdjZnUkZwS3hWaHp6MA?oc=5\" target=\"_blank\">SanDisk Is ‘the Most Overbought Stock in History,’ Says Polymarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TipRanks reports that Polymarket traders consider SanDisk the most overbought stock in history. This is market sentiment/analysis rather than a concrete event (no earnings, guidance change, or disclosed catalyst), making it opinion-based commentary on price technicals rather than fundamental news."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "000442b80a4c448cdb1f5f567d8c25bc1c42c860",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Stock Is the Most Overbought Stock in History - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmtzQ0xoZUVGaEsxWmdIME8wVkhESF9NRlN2N3NYbTdSamRpTU5LQjg0VWxEcms0RHJfNVZISHlTLU9aMGxzVzFTT2FpTWh5Qk92YWlzVW1PNG50eVkwaHpTREtGSTFrUjJrRkxhYnJmZGROOUNfekNZOGJmdXo1SXRiRTRSUEZuMWVZaGg5d2RwY3Z4SDNtdVloQ20zeWJUN1E?oc=5",
+  "published_at": "Wed, 17 Jun 2026 15:38:13 GMT",
+  "published_ts": 1781710693,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmtzQ0xoZUVGaEsxWmdIME8wVkhESF9NRlN2N3NYbTdSamRpTU5LQjg0VWxEcms0RHJfNVZISHlTLU9aMGxzVzFTT2FpTWh5Qk92YWlzVW1PNG50eVkwaHpTREtGSTFrUjJrRkxhYnJmZGROOUNfekNZOGJmdXo1SXRiRTRSUEZuMWVZaGg5d2RwY3Z4SDNtdVloQ20zeWJUN1E?oc=5\" target=\"_blank\">Sandisk Stock Is the Most Overbought Stock in History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis claims SanDisk stock is at extreme overbought levels historically. This is technical/valuation commentary rather than a concrete event (earnings, production news, or stated catalyst for the price move), so it rates as soft analysis—relevant to the holding but not a confirmed catalyst."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "703f947e223ac4550996c3158223b19f4ec215dd",
+  "source": "MacRumors",
+  "topic": "industry",
+  "title": "Tim Cook Says Apple Price Increases Are 'Unavoidable' Due to Memory Costs - MacRumors",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XNm1jZWZhQXBnaS1qMlpqUm9tRzd6czgtMVJ5VFRqeHJ3bnY5LWVLMXE0X2ZhX0lEN3JiVzUzYTk1cEI5OFZqaWZCakw4ZkhjNmxnMlMyNnA2OXJKWExCWDBiRENVY29iSkZfdHln?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:08:32 GMT",
+  "published_ts": 1781730512,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5XNm1jZWZhQXBnaS1qMlpqUm9tRzd6czgtMVJ5VFRqeHJ3bnY5LWVLMXE0X2ZhX0lEN3JiVzUzYTk1cEI5OFZqaWZCakw4ZkhjNmxnMlMyNnA2OXJKWExCWDBiRENVY29iSkZfdHln?oc=5\" target=\"_blank\">Tim Cook Says Apple Price Increases Are 'Unavoidable' Due to Memory Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple CEO Tim Cook states that price increases are unavoidable due to memory costs, signaling downstream pricing pressure from elevated memory expenses. This reflects demand/pricing dynamics relevant to DRAM but is commentary/forward guidance rather than a concrete pricing event or earnings result."
+  },
+  "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "668473543b6d0e97d71219dd1c904de6d51c8116",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Japan, South Korea Stocks Open Slightly Higher; SoftBank Rises Nearly 5%, SK Hynix Up Over 3% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWxLUTAyM3hoM21RbFBDbUd1OFF5b05kNHd4THk3S3ZPZmRQQ0l0U04tMDZ1MlU1YldhYjlqM1E3TmhjVnZXd09lVTZNcU0xYVhaWEU2Q1BMUlBGNjZSOEIyYUc4N0JCNFJVS0hsTzVGUnJaTzM5SjRKeHZ0cHpqUnVUMzF3dVJSekN4aVdQSjhtMFZoak1Vblp3cHZfMWZiNW03bmNESQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:44:42 GMT",
+  "published_ts": 1781743482,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWxLUTAyM3hoM21RbFBDbUd1OFF5b05kNHd4THk3S3ZPZmRQQ0l0U04tMDZ1MlU1YldhYjlqM1E3TmhjVnZXd09lVTZNcU0xYVhaWEU2Q1BMUlBGNjZSOEIyYUc4N0JCNFJVS0hsTzVGUnJaTzM5SjRKeHZ0cHpqUnVUMzF3dVJSekN4aVdQSjhtMFZoak1Vblp3cHZfMWZiNW03bmNESQ?oc=5\" target=\"_blank\">Japan, South Korea Stocks Open Slightly Higher; SoftBank Rises Nearly 5%, SK Hynix Up Over 3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock rose over 3% in a broader market opening. No stated catalyst or fundamental news provided—a generic price-move report with a holding mentioned in passing."
+  },
+  "buffered_ts": 1781748116.862544
  }
 ]
