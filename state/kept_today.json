@@ -1052,5 +1052,634 @@
    "summary": "SK Hynix stock rose over 3% in a broader market opening. No stated catalyst or fundamental news provided—a generic price-move report with a holding mentioned in passing."
   },
   "buffered_ts": 1781748116.862544
+ },
+ {
+  "id": "cbb3d9647dd7d85bd2952cf6472fc2ee790079cb",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SK Hynix Officially Ships 12-Layer HBM4E Samples, Shares Rise Nearly 5% to Hit Record High - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDgtbFNfbmN4blAzQ0twSmdGc2oyZkJORTBRN1lYY2pCeHJLcmJRSE9GUGp6N2JpbHhUY0ROeG9hWmlWRTFwempCNUpsLUNITWhtX3hvNnI3N2Y1cm1vdUttcWN0b0VVRWdHNDBwQUQ4c2NBend2QnJMUFhDT2VSNDYxM3pIM2wyaG42U0xXbUJUVHBSX3VxcGtzQVZHSjJiaVFEb1RR?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:12:01 GMT",
+  "published_ts": 1781752321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDgtbFNfbmN4blAzQ0twSmdGc2oyZkJORTBRN1lYY2pCeHJLcmJRSE9GUGp6N2JpbHhUY0ROeG9hWmlWRTFwempCNUpsLUNITWhtX3hvNnI3N2Y1cm1vdUttcWN0b0VVRWdHNDBwQUQ4c2NBend2QnJMUFhDT2VSNDYxM3pIM2wyaG42U0xXbUJUVHBSX3VxcGtzQVZHSjJiaVFEb1RR?oc=5\" target=\"_blank\">SK Hynix Officially Ships 12-Layer HBM4E Samples, Shares Rise Nearly 5% to Hit Record High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "industry",
+   "summary": "SK Hynix officially shipped 12-layer HBM4E samples, with shares rising nearly 5% to a record high. This is a confirmed, concrete product milestone in high-bandwidth memory—a key demand driver for the DRAM fund's holdings—and the stock reaction validates its material significance."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "cd774fc5c922f85e02ea9281f0b120fdd4774194",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix Supplies HBM4E Samples, Escalating AI Memory War - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeElGbk9ZRlVrZHZOZkQzYTZnTTM0ZmlrZDRqVUcyYWNuajhJbHI3SmxrTG1pdVNzMjNZNTVYQUFXT2EyanZia3Ntc0JjZTN6OTZnbjlQWU9KNGFoWUJqTmJUcmVNczRxYS1CcDcyQWZBUGdkUmxoSnh6OVdHMTRtQTRDbEFYNnpK?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:33:43 GMT",
+  "published_ts": 1781764423,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeElGbk9ZRlVrZHZOZkQzYTZnTTM0ZmlrZDRqVUcyYWNuajhJbHI3SmxrTG1pdVNzMjNZNTVYQUFXT2EyanZia3Ntc0JjZTN6OTZnbjlQWU9KNGFoWUJqTmJUcmVNczRxYS1CcDcyQWZBUGdkUmxoSnh6OVdHMTRtQTRDbEFYNnpK?oc=5\" target=\"_blank\">SK Hynix Supplies HBM4E Samples, Escalating AI Memory War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun supplying HBM4E samples, advancing its high-bandwidth memory product roadmap and positioning in the competitive AI memory market. This represents a concrete product milestone and escalation in HBM competition among key players."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "db8ff5ec97dd84e572daf59ca004ee0f427e2805",
+  "source": "TechPowerUp",
+  "topic": "holding",
+  "title": "SK hynix Ships Samples of 12-Layer Next-Gen HBM4E - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUlFOXRLYVF2Ynp2anJKTThhbE9ETW5Ddnh1S0hHczhMc3hhRWpfM3Y0ZnZBdXYzbU10MDBGVjNrcmVqcGQ2MlAtd1Nscll3VUpPQUQtUUVQTlBMMEJwY016NGRiTWNPaGJUS2VLTGZIUURaRElMSjBSbDFwRThUM3dZOFN6YTJNV0tFR9IBkgFBVV95cUxQaTR1blV6QU1QREM0bWY3SkVHS0xtZ2dPVGVMR012cW9QR0tsSzdlZ2hvSDhtU3ZwSmlpY2h4amZNQjlyUGNNX3BmczlqalhVSDNtSmRJVG03UzFrLXp2Vi04dW1rd1ZDamRTMjU4ODZYM3pXaUJZLXU5T05yYVl3dVNvUkZBVWRtUGNxLXhvYTdNdw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:21:13 GMT",
+  "published_ts": 1781763673,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUlFOXRLYVF2Ynp2anJKTThhbE9ETW5Ddnh1S0hHczhMc3hhRWpfM3Y0ZnZBdXYzbU10MDBGVjNrcmVqcGQ2MlAtd1Nscll3VUpPQUQtUUVQTlBMMEJwY016NGRiTWNPaGJUS2VLTGZIUURaRElMSjBSbDFwRThUM3dZOFN6YTJNV0tFR9IBkgFBVV95cUxQaTR1blV6QU1QREM0bWY3SkVHS0xtZ2dPVGVMR012cW9QR0tsSzdlZ2hvSDhtU3ZwSmlpY2h4amZNQjlyUGNNX3BmczlqalhVSDNtSmRJVG03UzFrLXp2Vi04dW1rd1ZDamRTMjU4ODZYM3pXaUJZLXU5T05yYVl3dVNvUkZBVWRtUGNxLXhvYTdNdw?oc=5\" target=\"_blank\">SK hynix Ships Samples of 12-Layer Next-Gen HBM4E</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped samples of 12-layer next-generation HBM4E memory, a concrete development in high-bandwidth memory production that represents material progress toward commercialization of advanced HBM technology demanded by AI infrastructure."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "05f6174f742b457314355228938f20c1f5a68629",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "SK hynix ships 12-high HBM4E samples to customers - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHpaSDZES0hPU3RfWjBfN0drZHJVdUllandWbWJRb1NpakZNNUN5YjlPRlpCcnlNdVk3LWEyZHY1NEhDMjZ1ZXhSTzNLanFTX0E0WG0xMThhSDljX254THBlZ3R3T0o3NW5mUk5KVFI2UTZuNDUyYUNqTlU0RHY0cW1DR0dMbnRDU2VBSlluR09kS0Zvd0JnNmN3SWFneVcwSzRtU19UUkc2M1JTX0FZQWdIMNIBswFBVV95cUxOVHpaSDZES0hPU3RfWjBfN0drZHJVdUllandWbWJRb1NpakZNNUN5YjlPRlpCcnlNdVk3LWEyZHY1NEhDMjZ1ZXhSTzNLanFTX0E0WG0xMThhSDljX254THBlZ3R3T0o3NW5mUk5KVFI2UTZuNDUyYUNqTlU0RHY0cW1DR0dMbnRDU2VBSlluR09kS0Zvd0JnNmN3SWFneVcwSzRtU19UUkc2M1JTX0FZQWdIMA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:59:00 GMT",
+  "published_ts": 1781747940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHpaSDZES0hPU3RfWjBfN0drZHJVdUllandWbWJRb1NpakZNNUN5YjlPRlpCcnlNdVk3LWEyZHY1NEhDMjZ1ZXhSTzNLanFTX0E0WG0xMThhSDljX254THBlZ3R3T0o3NW5mUk5KVFI2UTZuNDUyYUNqTlU0RHY0cW1DR0dMbnRDU2VBSlluR09kS0Zvd0JnNmN3SWFneVcwSzRtU19UUkc2M1JTX0FZQWdIMNIBswFBVV95cUxOVHpaSDZES0hPU3RfWjBfN0drZHJVdUllandWbWJRb1NpakZNNUN5YjlPRlpCcnlNdVk3LWEyZHY1NEhDMjZ1ZXhSTzNLanFTX0E0WG0xMThhSDljX254THBlZ3R3T0o3NW5mUk5KVFI2UTZuNDUyYUNqTlU0RHY0cW1DR0dMbnRDU2VBSlluR09kS0Zvd0JnNmN3SWFneVcwSzRtU19UUkc2M1JTX0FZQWdIMA?oc=5\" target=\"_blank\">SK hynix ships 12-high HBM4E samples to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has begun shipping 12-high HBM4E (High-Bandwidth Memory 4E) samples to customers, representing a concrete advancement in next-generation HBM production capability and addressing high-demand AI infrastructure requirements."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "fd0d599472fa2a78bf76f77a490eb4f4f202552b",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK Hynix Begins Supplying HBM4E Samples - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ad0lvci1COGloQjZKQjZFZTJYZVRndWwtZkdqUVBENVlpWFJuenVZQVRyblhTYlRSZUFkaHJlQVYwRG4tN1Rmdl9sTmdRZTRpQlM2UFR3Q2FHQm5oYUZrWThpSXhELXAyNDcxWlFvTk1FRUZT?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:12:33 GMT",
+  "published_ts": 1781752353,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ad0lvci1COGloQjZKQjZFZTJYZVRndWwtZkdqUVBENVlpWFJuenVZQVRyblhTYlRSZUFkaHJlQVYwRG4tN1Rmdl9sTmdRZTRpQlM2UFR3Q2FHQm5oYUZrWThpSXhELXAyNDcxWlFvTk1FRUZT?oc=5\" target=\"_blank\">SK Hynix Begins Supplying HBM4E Samples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun supplying HBM4E (high-bandwidth memory 4E) samples. This is a concrete development in next-generation HBM technology, a key growth driver for memory demand in AI infrastructure. SK Hynix is a major DRAM ETF holding, and HBM4E sampling signals meaningful progress in the high-margin HBM product cycle that directly impacts the fund's holdings."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "a028bc549b9d3d8be227d2667d26a023e9b51743",
+  "source": "mezha.net",
+  "topic": "holding",
+  "title": "SK Hynix ships HBM4E samples to customers, bolstering AI memory lead - mezha.net",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45TVRIbzd2R1lRTHZXQnpMTnlUZE9zU2tPMDFheHlzdEI5U2haOTFzaEhnWC11OFlqOFQtbktFd21jYTdQOWM0WTlXdzl4cWQ3M3hFUW9IQzRpeXpMZm5NazVn?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:39:19 GMT",
+  "published_ts": 1781753959,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE45TVRIbzd2R1lRTHZXQnpMTnlUZE9zU2tPMDFheHlzdEI5U2haOTFzaEhnWC11OFlqOFQtbktFd21jYTdQOWM0WTlXdzl4cWQ3M3hFUW9IQzRpeXpMZm5NazVn?oc=5\" target=\"_blank\">SK Hynix ships HBM4E samples to customers, bolstering AI memory lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun shipping HBM4E samples to customers, strengthening its position in high-bandwidth memory for AI applications. This is a concrete product milestone that advances a key holding's competitive standing in the high-demand HBM segment."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "91ea7cf85e9d692711c1ea2d8a107a3235164975",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Shares Rally on Memory Price Surge - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iOGdzY05DWTM2TUpGZGlGb2FaakVNX25WSE5uU19ybVctZEFaanpnQ1dQVlNzYUN1aWNjSHFCWUNpS0YxWHhnX3JPWHZ4TXBldmFSX0RVWkRkeE95QzItZ2lDM1oydXpTMTAzbDZ0OVNvZzcx?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:23:06 GMT",
+  "published_ts": 1781752986,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9iOGdzY05DWTM2TUpGZGlGb2FaakVNX25WSE5uU19ybVctZEFaanpnQ1dQVlNzYUN1aWNjSHFCWUNpS0YxWHhnX3JPWHZ4TXBldmFSX0RVWkRkeE95QzItZ2lDM1oydXpTMTAzbDZ0OVNvZzcx?oc=5\" target=\"_blank\">Samsung, SK Hynix Shares Rally on Memory Price Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung and SK Hynix shares rallied following a surge in memory prices. This is a concrete market reaction to confirmed pricing movement, a leading indicator that typically precedes earnings and moves the stocks materially."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "b2f9ee13133dc072926b44d772038f529129857b",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "AI memory capacity reaches new breakthrough! SK hynix announces delivery of 12-layer HBM4E samples - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHVTdjRmanJGV1JvTG5YNGNCZms1MURSS1NUaGtSdUU3SzYyaGIyRS1PQWpGVEE5WkpVVnlPbnpGdnJVRk02YlJhdGNwdFc0cDJkLTVzOThHSVllVDFhVVVCZG11STlVcnIwTUhqQjVZaTBzeUEyREF3ZldBZXAzN0M1cTdhY2MxcHgyRTR6MzFFdE1jY1B1NW8zME5oSHZnV1AyZE02Y2pNek5zT1NUb3VB?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:33:52 GMT",
+  "published_ts": 1781757232,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHVTdjRmanJGV1JvTG5YNGNCZms1MURSS1NUaGtSdUU3SzYyaGIyRS1PQWpGVEE5WkpVVnlPbnpGdnJVRk02YlJhdGNwdFc0cDJkLTVzOThHSVllVDFhVVVCZG11STlVcnIwTUhqQjVZaTBzeUEyREF3ZldBZXAzN0M1cTdhY2MxcHgyRTR6MzFFdE1jY1B1NW8zME5oSHZnV1AyZE02Y2pNek5zT1NUb3VB?oc=5\" target=\"_blank\">AI memory capacity reaches new breakthrough! SK hynix announces delivery of 12-layer HBM4E samples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced delivery of 12-layer HBM4E samples, a concrete advancement in high-bandwidth memory production that addresses critical AI infrastructure demand. HBM4E is next-generation technology; sample delivery is a material milestone signaling production readiness and competitive positioning in the HBM market that drives memory demand and pricing."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "cc7a29264dac2e6fa44ff8ddb9249503f897b78a",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK Hynix Starts Supplying 12-Layer HBM4E Samples - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sbG90QVVnc1Z4QXVPeEViZ3U2ZENNWE14YjRFTUFyaE5GMWVMcTMzaUlYSlpMaHhGTkhpUHozcWpSTkw4bFg5X21CYS1qOVA2T2EwcmZZSlRzeWhmdGZTZ1JDSV9BbU9kbG9neWRjbUJmeHNl?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:40:36 GMT",
+  "published_ts": 1781750436,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5sbG90QVVnc1Z4QXVPeEViZ3U2ZENNWE14YjRFTUFyaE5GMWVMcTMzaUlYSlpMaHhGTkhpUHozcWpSTkw4bFg5X21CYS1qOVA2T2EwcmZZSlRzeWhmdGZTZ1JDSV9BbU9kbG9neWRjbUJmeHNl?oc=5\" target=\"_blank\">SK Hynix Starts Supplying 12-Layer HBM4E Samples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun supplying samples of 12-layer HBM4E (high-bandwidth memory), a next-generation memory product critical for AI and data-center infrastructure. This represents a concrete development in HBM capacity and production progress by a major fund holding."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "8971eac7ddc44320cfaaa741c4b3d8bc32a94f03",
+  "source": "The Korea News Plus",
+  "topic": "holding",
+  "title": "SK hynix ships samples of next-generation HBM4E AI memory - The Korea News Plus",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CaEhZLWJYWk44ZXdJa1hNS0VkUXFRUUhJdWFZZjVYVUtPQU90TzZnZDFXU2wtVXN3NEhzSHNJeXZDWHJDLTRJREpCNXB3LUdrWEowdHVRbVRtUTJqeHVoamEzNWppSlBiUWEwaE9FMnlJR2RydnBv?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:47:21 GMT",
+  "published_ts": 1781758041,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5CaEhZLWJYWk44ZXdJa1hNS0VkUXFRUUhJdWFZZjVYVUtPQU90TzZnZDFXU2wtVXN3NEhzSHNJeXZDWHJDLTRJREpCNXB3LUdrWEowdHVRbVRtUTJqeHVoamEzNWppSlBiUWEwaE9FMnlJR2RydnBv?oc=5\" target=\"_blank\">SK hynix ships samples of next-generation HBM4E AI memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea News Plus</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped samples of HBM4E, its next-generation high-bandwidth memory for AI applications. This is a concrete product milestone from a major fund holding, signaling advancement in the critical HBM supply chain that underpins AI infrastructure demand."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "fb13f4b1f87a1debd71fc3cd8eab71b88b091aa1",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK hynix Supplies HBM4E 12-High Samples, Intensifying Next-Generation HBM Competition - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tT2lUZ19TRlltTXZ3UTlsR1BsSWdyZUtZeXN2UTE2amZvZ1p1V0IxN0t2TlZuVDF5eF92YWR2WVdWYWtnUjlpNS13dUlEUlFYc2E0?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:04:58 GMT",
+  "published_ts": 1781748298,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tT2lUZ19TRlltTXZ3UTlsR1BsSWdyZUtZeXN2UTE2amZvZ1p1V0IxN0t2TlZuVDF5eF92YWR2WVdWYWtnUjlpNS13dUlEUlFYc2E0?oc=5\" target=\"_blank\">SK hynix Supplies HBM4E 12-High Samples, Intensifying Next-Generation HBM Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has supplied HBM4E 12-High sample chips, advancing next-generation HBM technology and intensifying competitive dynamics in the high-bandwidth memory market, a key growth driver for memory semiconductor demand."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "f6ac0df5c5ed65ab82ce8ee4c6fa7e858dc00c81",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung advances 1d DRAM roadmap; pilot production eyed by end-2027 - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2ZZMVJWTENFUndnVHd1ZGx0VDdabzdVc0hxbXlLZ0ZBLUJEOVlBVExpOEZNTmszZl9sYnEzOW14NDlaZElJRVRTRW82SDBFWE5mcThSb2xUeko2NWdFR1JJMGxXV3hiN3REa2pwRVl3Ql9CTFRaMDJwc19kaFVzakQxNnNDU2ZuRUZqRTFza3c?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:48:51 GMT",
+  "published_ts": 1781747331,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2ZZMVJWTENFUndnVHd1ZGx0VDdabzdVc0hxbXlLZ0ZBLUJEOVlBVExpOEZNTmszZl9sYnEzOW14NDlaZElJRVRTRW82SDBFWE5mcThSb2xUeko2NWdFR1JJMGxXV3hiN3REa2pwRVl3Ql9CTFRaMDJwc19kaFVzakQxNnNDU2ZuRUZqRTFza3c?oc=5\" target=\"_blank\">Samsung advances 1d DRAM roadmap; pilot production eyed by end-2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced advancement of its 1d (one-dimensional) DRAM roadmap with pilot production targeted by end-2027. This represents a concrete, officially announced technology milestone for a major DRAM ETF holding, indicating Samsung's continued progress in next-generation memory development and competitive positioning."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "20d840d862f37fdf4a505110d45108d85317bfb9",
+  "source": "WSJ",
+  "topic": "industry",
+  "title": "Exclusive | Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MeGFxMm9OUVN6SGxGaWZTSWFwblJ1QU5xRXN3WktXMkVmSVVuaGRldGlpYVVKbFVxR2Zqc09maHFaaTZ3WlJYc3otUENlZXMtcG1aNklCcFVkVVVGZWVBNVFKcTl3TGtGWUl5V0ZzUzFaRlpRY0R2bw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:00:22 GMT",
+  "published_ts": 1781730022,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1MeGFxMm9OUVN6SGxGaWZTSWFwblJ1QU5xRXN3WktXMkVmSVVuaGRldGlpYVVKbFVxR2Zqc09maHFaaTZ3WlJYc3otUENlZXMtcG1aNklCcFVkVVVGZWVBNVFKcTl3TGtGWUl5V0ZzUzFaRlpRY0R2bw?oc=5\" target=\"_blank\">Exclusive | Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Apple CEO Tim Cook confirmed the company will raise prices due to a memory chip crunch, a concrete statement indicating tightened memory supply conditions that would drive demand and pricing for DRAM and NAND products from fund holdings like Micron, SK hynix, and Samsung."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "178487db7a806029d5407f8c6c65ad4d98665a87",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Micron Reports Bull Case From Agentic AI Demand - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxnOS1qNlJlcmkweGhpMHg4ZWZKbVVyTlNvb00yVkpTQ1BSX2NBTlpHOVVjNVdYQkRqVDFiY2RkeDRmLUNycUlNc25hUEY0S0NCWURIWWhNOG40LVZ0TzQ0YnJmR3U1dnNvS3dsZEQ1eUFNNjB2SEgyRFUzdlNLXzJPa19NekZobFhxOFQzekVEaDg?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:50:43 GMT",
+  "published_ts": 1781743843,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmxnOS1qNlJlcmkweGhpMHg4ZWZKbVVyTlNvb00yVkpTQ1BSX2NBTlpHOVVjNVdYQkRqVDFiY2RkeDRmLUNycUlNc25hUEY0S0NCWURIWWhNOG40LVZ0TzQ0YnJmR3U1dnNvS3dsZEQ1eUFNNjB2SEgyRFUzdlNLXzJPa19NekZobFhxOFQzekVEaDg?oc=5\" target=\"_blank\">Micron Reports Bull Case From Agentic AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's bull case driven by agentic AI demand. This is opinion/analysis rather than a reported earnings result or confirmed guidance change, placing it at impact 3. Relevant to DRAM as it discusses a key holding (Micron) and a major demand driver (AI infrastructure), but lacks the concrete event or hard number needed for impact 4+."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "af309d79347e5ff79b49f00b49c7dd94030db7e9",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "SK Hynix Stock Hits Record High, Impresses with HBM4E Memory Dev - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjZ2UG4tek5zRElqM0N0MkZaUzJMZ3U5XzJqSTlaYTR6eVZKWWMzRUlLRnMtdHZ1VzE0T3prMGZSNkxPRzFoTzYtcldGT2Z3bGRNejZhODFaVC1tbnFNTUx0V2RCZVhGZDZhdHBBU2lUdzVpX0lfeHktcTBOdmkzVjA3YjROc3dIY1NLMUptU1R2MURtZS1BMlJwaGhDa0xyQmZhSzZhVlpTQlBPeHlR?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:59:37 GMT",
+  "published_ts": 1781765977,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjZ2UG4tek5zRElqM0N0MkZaUzJMZ3U5XzJqSTlaYTR6eVZKWWMzRUlLRnMtdHZ1VzE0T3prMGZSNkxPRzFoTzYtcldGT2Z3bGRNejZhODFaVC1tbnFNTUx0V2RCZVhGZDZhdHBBU2lUdzVpX0lfeHktcTBOdmkzVjA3YjROc3dIY1NLMUptU1R2MURtZS1BMlJwaGhDa0xyQmZhSzZhVlpTQlBPeHlR?oc=5\" target=\"_blank\">SK Hynix Stock Hits Record High, Impresses with HBM4E Memory Dev</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock reached record highs amid positive reception of its HBM4E memory development. The story reports a stock price move and technology progress, but lacks concrete details on production timelines, capacity, or confirmed orders that would constitute a market-moving event."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "2e20f112df4de3eeb8f87b827625c1cc76f20c3b",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "KOSPI Enters '9,000-Point Era': SK Hynix HBM4E Supply Sparks Rally, CSOP ETF Debuts on HKEX on Same Day - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0pKVEhCV1dVZ041RGNET1E4ZkswVUxyaHlJbnJZSWZDV2lhQ3BJN2RQYUtDQ2tXVElfZUg0TE5IY0l2MW9udHQ0VElPTmNuOGR5YWtCd25JTVJUM0twWGxlaXNJcm1fVFR4SFU5ZERUcXpnWVNQeHdla1M1MGtiQkRzOWNpNm96elAxUHBOUzlTYnd1aTZPZERvdUJMQnVNWUxrLU1oRQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:22:15 GMT",
+  "published_ts": 1781756535,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0pKVEhCV1dVZ041RGNET1E4ZkswVUxyaHlJbnJZSWZDV2lhQ3BJN2RQYUtDQ2tXVElfZUg0TE5IY0l2MW9udHQ0VElPTmNuOGR5YWtCd25JTVJUM0twWGxlaXNJcm1fVFR4SFU5ZERUcXpnWVNQeHdla1M1MGtiQkRzOWNpNm96elAxUHBOUzlTYnd1aTZPZERvdUJMQnVNWUxrLU1oRQ?oc=5\" target=\"_blank\">KOSPI Enters '9,000-Point Era': SK Hynix HBM4E Supply Sparks Rally, CSOP ETF Debuts on HKEX on Same Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix HBM4E supply developments cited as driver of KOSPI rally. While HBM supply is material to the fund's thesis, this is market commentary and analysis rather than a confirmed concrete event or official supply/guidance announcement from SK Hynix."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "d0ca8a75549ea12aafc4b3a55d6c80c92060720b",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Nikkei 225 Breaks 71,000 for First Time, Kospi Tops 9,000, SK Hynix Rises More Than 7% to Record High - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1NhVkthNzZuNWdzZk4zRVl6ZFd3d2pRempRVUx5ekpVTFphQUp4RTF6YmFGWS13QVRDYjI5NXNKTGs2VDU3NkUyTHhpb0dtVUtJRzBQTzJwNkx4UWcwS04zYmtwQVpUa043b1pqNEdzeUNuR3o4N1FweTlfVllPTXFvWlV1NnFNWWlaZVZLek1VUExCRkRpSm1SVEQ5ZFFmenNRYUFPZw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:55:06 GMT",
+  "published_ts": 1781765706,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1NhVkthNzZuNWdzZk4zRVl6ZFd3d2pRempRVUx5ekpVTFphQUp4RTF6YmFGWS13QVRDYjI5NXNKTGs2VDU3NkUyTHhpb0dtVUtJRzBQTzJwNkx4UWcwS04zYmtwQVpUa043b1pqNEdzeUNuR3o4N1FweTlfVllPTXFvWlV1NnFNWWlaZVZLek1VUExCRkRpSm1SVEQ5ZFFmenNRYUFPZw?oc=5\" target=\"_blank\">Nikkei 225 Breaks 71,000 for First Time, Kospi Tops 9,000, SK Hynix Rises More Than 7% to Record High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rose more than 7% to a record high as broader Asian indices rallied (Nikkei 225 and Kospi). While this is a significant move for a fund holding, the story attributes the rise to general market momentum rather than memory-specific fundamentals or company news, making it a soft catalyst without disclosed holding-specific drivers."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "70816b92ec42ee72391df7f675be290709832adc",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Netlist broadens lawsuit against Samsung, Google over AI memory patents - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekxzdFJMWkpwZlMxSHpMTDYtZ3d4OHB4VTk3Z1FSYzVPZS1rc0JBRDJCWURCQ2ZrckVUZFhWcm42ZUZRU0FpalpjUFRWd0IwQWNfeFljOVhUX2lTcGJ5al9EM3g1VTBGQWNXYk5KQ0ZQcWRYejJ5a2JEbWNPb3ZxUU13?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:10:50 GMT",
+  "published_ts": 1781748650,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOekxzdFJMWkpwZlMxSHpMTDYtZ3d4OHB4VTk3Z1FSYzVPZS1rc0JBRDJCWURCQ2ZrckVUZFhWcm42ZUZRU0FpalpjUFRWd0IwQWNfeFljOVhUX2lTcGJ5al9EM3g1VTBGQWNXYk5KQ0ZQcWRYejJ5a2JEbWNPb3ZxUU13?oc=5\" target=\"_blank\">Netlist broadens lawsuit against Samsung, Google over AI memory patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Netlist has expanded its patent litigation against Samsung and Google regarding AI memory technology. While Samsung is a significant DRAM/memory holding and patent disputes can affect operations and licensing costs, this is a legal development in progress rather than a confirmed market-moving event. Impact remains speculative until there is a ruling or settlement."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "0d51a68df26c144c1fe118d5d92ebf027b212458",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk's Rally May Be Far From Over (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZU9PeWhleGFuOEZMMUtIakZVcEc3TUJ6UGU2T3lyeDNMY0xZZ0lUbHRZb0RFNGR0ZEdIaktOMGZtV2FkUGJMejNtb1VUN2xlV2xaNzhsWXg1LVg3WVU1enhVVEVyVTZlNXhuRF9LN1BadWZoU2FVa3RPSTN0U0gtbFJB?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:13:30 GMT",
+  "published_ts": 1781763210,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZU9PeWhleGFuOEZMMUtIakZVcEc3TUJ6UGU2T3lyeDNMY0xZZ0lUbHRZb0RFNGR0ZEdIaktOMGZtV2FkUGJMejNtb1VUN2xlV2xaNzhsWXg1LVg3WVU1enhVVEVyVTZlNXhuRF9LN1BadWZoU2FVa3RPSTN0U0gtbFJB?oc=5\" target=\"_blank\">Sandisk's Rally May Be Far From Over (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst opinion piece discussing SanDisk's stock momentum and potential for further gains. No concrete event, earnings, guidance change, or price catalyst disclosed—purely speculative analysis and outlook."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "e151cfe82d3b48fd36259b6207498dd50e4d6235",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Can AI Inference Workloads Accelerate NAND Demand for Sandisk? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmhXWWZlNUhRdGJtQ2pxaTYzN2hxZndzR3h1b3EycF81YzlkeHJYRlVHM0FUMTJqaXl1ZW9hbW0yckR5a0o5NkZadnN0MWN6dGlLQnI2MDQ4RGgxMFpwelB1dGJ1Y3NGSEkwRllHenV0VGhRaVJzMk9Eek14a0Z0eHVSd2EteVNXR0VKWXRkMzVHNGU2d0pSLVV0MHFMMXZ4TGhESg?oc=5",
+  "published_at": "Tue, 16 Jun 2026 13:02:00 GMT",
+  "published_ts": 1781614920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmhXWWZlNUhRdGJtQ2pxaTYzN2hxZndzR3h1b3EycF81YzlkeHJYRlVHM0FUMTJqaXl1ZW9hbW0yckR5a0o5NkZadnN0MWN6dGlLQnI2MDQ4RGgxMFpwelB1dGJ1Y3NGSEkwRllHenV0VGhRaVJzMk9Eek14a0Z0eHVSd2EteVNXR0VKWXRkMzVHNGU2d0pSLVV0MHFMMXZ4TGhESg?oc=5\" target=\"_blank\">Can AI Inference Workloads Accelerate NAND Demand for Sandisk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece exploring whether AI inference workloads could drive increased NAND demand for SanDisk (a fund holding). This is opinion/possibility rather than a confirmed demand shift or concrete development, making it relevant but soft impact."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "774a91f51c9f6300fdca11500dc7f2c5a346d816",
+  "source": "Investing.com",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ By Reuters - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzZwTDgyVDRzc1FrR2VOekJ2NEI5QzhkNkF6UDQ2eXZtaE5UR2lpTFd0MEZOWXpqOEVGS3NRMGRVeHo3MnVJRHZ1NUZNSzdDNEhscFlGdkE2bGJoZF9TSkV0RHZYM3ZYTW5udFRCMktKQV84NlRDdEc1MDYxcEpKZVB1OG9kc05oQnQwQXl6QS1JQVZ5NVcxWDd0My11M2pHMVZMdV9wWTFHczlyTjdTV2NObkMwNEs1TUkwUA?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:41:01 GMT",
+  "published_ts": 1781732461,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzZwTDgyVDRzc1FrR2VOekJ2NEI5QzhkNkF6UDQ2eXZtaE5UR2lpTFd0MEZOWXpqOEVGS3NRMGRVeHo3MnVJRHZ1NUZNSzdDNEhscFlGdkE2bGJoZF9TSkV0RHZYM3ZYTW5udFRCMktKQV84NlRDdEc1MDYxcEpKZVB1OG9kc05oQnQwQXl6QS1JQVZ5NVcxWDd0My11M2pHMVZMdV9wWTFHczlyTjdTV2NObkMwNEs1TUkwUA?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple CEO states the company will raise prices due to memory chip shortage. This indicates potential demand pressure on DRAM/memory pricing, but the report is a CEO statement rather than a confirmed price increase or concrete market data. Relevant to the memory cycle as it reflects downstream demand dynamics, but lacks a specific pricing number or hard market evidence."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "90019da60dc5f68c3ea62f631096f391d468197b",
+  "source": "NDTV Profit",
+  "topic": "industry",
+  "title": "iPhones To Get Costlier? Apple Mulls Price Hikes Amid Memory Chip Shortage, Says CEO Tim Cook - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGtEd0dSM3lZc2Z0VlZadWhKVHZRcXVqQUU0NmNwakRkQ25lalFyLU5XNjY5WUtlYS1MT2UzRldraTVYMWZ6NHhBa1dJdW9JclJXTVozZktYZ0pMT1dNZExDLWtmelA1WWxaQ0dGekpmTEg5SkhUNF95b0s3VjRwOGRseXlweXBEVlRtM0lKQVMzS0x5RjBDY2VWT1doRDJYNmpXTWE5bWkzMXBCZXhJbU1vckZ6VEN5X2hsT0ZsQnJ1WDY5UHIydXRKS2h2TlpnNGhDOdIB3AFBVV95cUxPVi1uQTJOVWRGYjhPbjBkNjRqeXAxbTZoc1VydWlDTl9xZ3RQcGtTMkQ5Tzh5Rk9Mc2kxdHRnN1llcFhveER4NjhsemVzZU00TnJKWTFPUFVHYTZzWlc4YjVYb3dkX1kzeFBaVHJoZ0JNQ1ZZdGRuTjJrTGh6dmpMTUtQRmlHTHJySVFYNVd3eFNiN3NuMF9JOElmWlRXcVNLLVl5Uk45S3FUTkpZY0VMU1JXUGpFSUFHeG1EWWNXOEtnLXBObWs5WnYzMW01WlpsWGxEcFJBVkgtS2pn?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:53:22 GMT",
+  "published_ts": 1781751202,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGtEd0dSM3lZc2Z0VlZadWhKVHZRcXVqQUU0NmNwakRkQ25lalFyLU5XNjY5WUtlYS1MT2UzRldraTVYMWZ6NHhBa1dJdW9JclJXTVozZktYZ0pMT1dNZExDLWtmelA1WWxaQ0dGekpmTEg5SkhUNF95b0s3VjRwOGRseXlweXBEVlRtM0lKQVMzS0x5RjBDY2VWT1doRDJYNmpXTWE5bWkzMXBCZXhJbU1vckZ6VEN5X2hsT0ZsQnJ1WDY5UHIydXRKS2h2TlpnNGhDOdIB3AFBVV95cUxPVi1uQTJOVWRGYjhPbjBkNjRqeXAxbTZoc1VydWlDTl9xZ3RQcGtTMkQ5Tzh5Rk9Mc2kxdHRnN1llcFhveER4NjhsemVzZU00TnJKWTFPUFVHYTZzWlc4YjVYb3dkX1kzeFBaVHJoZ0JNQ1ZZdGRuTjJrTGh6dmpMTUtQRmlHTHJySVFYNVd3eFNiN3NuMF9JOElmWlRXcVNLLVl5Uk45S3FUTkpZY0VMU1JXUGpFSUFHeG1EWWNXOEtnLXBObWs5WnYzMW01WlpsWGxEcFJBVkgtS2pn?oc=5\" target=\"_blank\">iPhones To Get Costlier? Apple Mulls Price Hikes Amid Memory Chip Shortage, Says CEO Tim Cook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO Tim Cook signals potential iPhone price increases amid memory chip shortage, indicating tightening DRAM/NAND supply conditions that could affect memory semiconductor demand and pricing dynamics; however, this is forward-looking commentary and possibility rather than a confirmed shortage event or concrete supply constraint."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "d96f126cb01b967337fb66fa667083ea8d2a924a",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Tim Cook says Apple to hike prices amid memory chip shortage - report - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUtRMWNVMjhoS05NZEFtQ2ZHTUdJbWF2YnNpeUZFOVJFZTNIUF9lbm1vbGxJY19XOHBkc2tpcWlrYTQyUEZYenNKdGYyQWNLZ0FObGswOElnbzJsNm15OG9NM2l5YWJpeHhYOW5kRGFzVHdpRnp0T0IwQ2cxbC1UVVE2TlN5NlRQS0t4clhoUjVkSVAtQkZfS21LS2xCLUFabG1oOGdZYV9YekVka2lxX3JUdG5jcURRa3NHRGxTUXpiTklEMjZLYU9PeUlsZ2tSdXpJdXBjb1hoWlE?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:46:17 GMT",
+  "published_ts": 1781750777,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUtRMWNVMjhoS05NZEFtQ2ZHTUdJbWF2YnNpeUZFOVJFZTNIUF9lbm1vbGxJY19XOHBkc2tpcWlrYTQyUEZYenNKdGYyQWNLZ0FObGswOElnbzJsNm15OG9NM2l5YWJpeHhYOW5kRGFzVHdpRnp0T0IwQ2cxbC1UVVE2TlN5NlRQS0t4clhoUjVkSVAtQkZfS21LS2xCLUFabG1oOGdZYV9YekVka2lxX3JUdG5jcURRa3NHRGxTUXpiTklEMjZLYU9PeUlsZ2tSdXpJdXBjb1hoWlE?oc=5\" target=\"_blank\">Tim Cook says Apple to hike prices amid memory chip shortage - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO Tim Cook reports plans to raise prices due to a memory chip shortage. While this confirms memory-chip supply constraints are affecting major OEMs and could support pricing dynamics, the story is a report of executive commentary rather than a concrete capacity cut, production halt, or confirmed price movement in DRAM/NAND spot markets. It signals demand pressure and pricing power but lacks the hard data (contract prices, shipment volumes, or official supply cuts) needed for a 4+."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "6ef0c8e063b521fab785448b5c9dac8a3a4eceff",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "AAPL Stock In Focus: Tim Cook Reportedly Confirms Hike In Apple Products Due To Memory Chip Crunch - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc09tT1hFZ1BnZUFDbVE0MFBqYzhzM2hkNk1HY1N3NU9adG84OTBkb3NKZWtkR1RNc05zNmgzNjAzRkNzTHZ1SmwzUmcyMFhZeEhaQXNlZHJVT0FUZW80QmowWWZra3FzRE45c3RjSmwwWjJITEJGMGNBX1lkd2EtRWVhaHpJRXJxS3lqSVEzeUxTbEdy?oc=5",
+  "published_at": "Wed, 17 Jun 2026 22:16:03 GMT",
+  "published_ts": 1781734563,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc09tT1hFZ1BnZUFDbVE0MFBqYzhzM2hkNk1HY1N3NU9adG84OTBkb3NKZWtkR1RNc05zNmgzNjAzRkNzTHZ1SmwzUmcyMFhZeEhaQXNlZHJVT0FUZW80QmowWWZra3FzRE45c3RjSmwwWjJITEJGMGNBX1lkd2EtRWVhaHpJRXJxS3lqSVEzeUxTbEdy?oc=5\" target=\"_blank\">AAPL Stock In Focus: Tim Cook Reportedly Confirms Hike In Apple Products Due To Memory Chip Crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Tim Cook reportedly confirms Apple will raise product prices due to memory chip shortage. This reflects demand-side pressure on memory semiconductors and validates industry supply constraints, but is unconfirmed (reported, not officially stated) and lacks hard numbers on pricing or production impact."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "05e81ed45457eebeee14c4d0daacc45a3c44e9a6",
+  "source": "Gadgets 360",
+  "topic": "industry",
+  "title": "Apple May Reportedly Raise iPhone, Mac Prices Amid Memory Chip Shortage, Tim Cook Says - Gadgets 360",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFU3UzNtZXl4SDFGbjJBQ1ZpY0pTdVZ2RG52Z3dJZU5pX1dBUTdyYy1mNEVrNVVXOWxnQlBEX2F3bDNnX3NVYVdvd0pvOTRHRnZjRlNlZVJtVE5iZk5tVEw3TVB6akQwY2I1VzhGdkVEeHdZY1c5X0NEYlZCQVhQN015ZVROMVMta3RGcTN3MkxiOWU1cjQ0c3prRV9yMGJ5SGI4a2lidTBucWhOcldlLUJ30gG3AUFVX3lxTFBBVnBZRERxMDVoY244QmhzdFE1Y2NwWWxrLUpqZFNBNlExUWxFdzh2MmNaam4zUkt1bG9ZU0JLb2ZFV2RwdThCeTcyaWJkMlQ0LW1rT0hKWGYxVFpRZ2R3WURiNmZrY2xLRDQtZDl0eTUyVVMyTW1JaXZKNG9xOURjTEtCc3FfUVpqekxzUjZzaXR4TzZVUExaZnJsYXJVMkRGWUgxLW5mTUdyWjliTGsyWTJINDVucw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:35:10 GMT",
+  "published_ts": 1781753710,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFU3UzNtZXl4SDFGbjJBQ1ZpY0pTdVZ2RG52Z3dJZU5pX1dBUTdyYy1mNEVrNVVXOWxnQlBEX2F3bDNnX3NVYVdvd0pvOTRHRnZjRlNlZVJtVE5iZk5tVEw3TVB6akQwY2I1VzhGdkVEeHdZY1c5X0NEYlZCQVhQN015ZVROMVMta3RGcTN3MkxiOWU1cjQ0c3prRV9yMGJ5SGI4a2lidTBucWhOcldlLUJ30gG3AUFVX3lxTFBBVnBZRERxMDVoY244QmhzdFE1Y2NwWWxrLUpqZFNBNlExUWxFdzh2MmNaam4zUkt1bG9ZU0JLb2ZFV2RwdThCeTcyaWJkMlQ0LW1rT0hKWGYxVFpRZ2R3WURiNmZrY2xLRDQtZDl0eTUyVVMyTW1JaXZKNG9xOURjTEtCc3FfUVpqekxzUjZzaXR4TzZVUExaZnJsYXJVMkRGWUgxLW5mTUdyWjliTGsyWTJINDVucw?oc=5\" target=\"_blank\">Apple May Reportedly Raise iPhone, Mac Prices Amid Memory Chip Shortage, Tim Cook Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadgets 360</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple may raise iPhone and Mac prices amid memory chip shortage, per Tim Cook comments. Relevant as potential demand-side signal for DRAM pricing and memory chip utilization, but story is speculative ('may reportedly') rather than a confirmed event or concrete capacity/shortage announcement. Pricing pressure on end-products can indicate upstream memory tightness, warranting monitoring as a soft indicator."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "202c86b4172e8e1278a7c5c24ca631f2e93eb668",
+  "source": "The Economic Times",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO Tim Cook says: Report - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSkVYaTlwN3FHbU1SS2h6aXZJZjdjcWNsTjFnTzg3aWtuREZTdWtnX3VMQ3VqN1Nra3JlNkVQVzBrUjk5N3pnQTB5TUFyeXp2QzJqVWVnN05PYy1SQXRoT2hpQTlEU0JjTGRBMEFfLXREMENsenhHbTVmYTU1V2JCUzhjY0NjdFhWbHh3eXFjWkcxQnNnTDFWd0JJdzRHQnc1T0p4cUJ2QlpTSFBXRmd1a0tQZm5peGZocHVNSFRVcmc4Vjl6Yzk5LU80SGYwQ05mdUxibm5LVGFnMzkzaWhlU183VzRHUi1yWjJaTHE4c0d2TmlTbmh6azhNc9IB-wFBVV95cUxPSkVYaTlwN3FHbU1SS2h6aXZJZjdjcWNsTjFnTzg3aWtuREZTdWtnX3VMQ3VqN1Nra3JlNkVQVzBrUjk5N3pnQTB5TUFyeXp2QzJqVWVnN05PYy1SQXRoT2hpQTlEU0JjTGRBMEFfLXREMENsenhHbTVmYTU1V2JCUzhjY0NjdFhWbHh3eXFjWkcxQnNnTDFWd0JJdzRHQnc1T0p4cUJ2QlpTSFBXRmd1a0tQZm5peGZocHVNSFRVcmc4Vjl6Yzk5LU80SGYwQ05mdUxibm5LVGFnMzkzaWhlU183VzRHUi1yWjJaTHE4c0d2TmlTbmh6azhNcw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 00:49:00 GMT",
+  "published_ts": 1781743740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSkVYaTlwN3FHbU1SS2h6aXZJZjdjcWNsTjFnTzg3aWtuREZTdWtnX3VMQ3VqN1Nra3JlNkVQVzBrUjk5N3pnQTB5TUFyeXp2QzJqVWVnN05PYy1SQXRoT2hpQTlEU0JjTGRBMEFfLXREMENsenhHbTVmYTU1V2JCUzhjY0NjdFhWbHh3eXFjWkcxQnNnTDFWd0JJdzRHQnc1T0p4cUJ2QlpTSFBXRmd1a0tQZm5peGZocHVNSFRVcmc4Vjl6Yzk5LU80SGYwQ05mdUxibm5LVGFnMzkzaWhlU183VzRHUi1yWjJaTHE4c0d2TmlTbmh6azhNc9IB-wFBVV95cUxPSkVYaTlwN3FHbU1SS2h6aXZJZjdjcWNsTjFnTzg3aWtuREZTdWtnX3VMQ3VqN1Nra3JlNkVQVzBrUjk5N3pnQTB5TUFyeXp2QzJqVWVnN05PYy1SQXRoT2hpQTlEU0JjTGRBMEFfLXREMENsenhHbTVmYTU1V2JCUzhjY0NjdFhWbHh3eXFjWkcxQnNnTDFWd0JJdzRHQnc1T0p4cUJ2QlpTSFBXRmd1a0tQZm5peGZocHVNSFRVcmc4Vjl6Yzk5LU80SGYwQ05mdUxibm5LVGFnMzkzaWhlU183VzRHUi1yWjJaTHE4c0d2TmlTbmh6azhNcw?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO Tim Cook says: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO Tim Cook reports a memory chip shortage and indicates the company will raise prices in response. This signals demand pressure on memory chips and potential pricing dynamics, but is based on a reported statement rather than a confirmed earnings result or official guidance change, and lacks specifics on timing or magnitude."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "bc107e74de2eeeffe924e589e39ca7c82ec34bc4",
+  "source": "digitimes",
+  "topic": "pricing",
+  "title": "Tim Cook says Apple price hikes are unavoidable as AI squeezes memory supply - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFhFcElNTWlFVkxBODBmakV0bXV4S1kxNlhVcWpqb29Wak9sbmFNaG5aSktlMkNIVmtxMlVEeGZJMjA3S3dVRW1ZM1JyS2l3RjYycXhyR0p2YnNoRTR1MEswREhsSmVVMVN3M3NkSXBOTzhROHpBTVM4WnNUOXFLdWs1UFBtUExq?oc=5",
+  "published_at": "Thu, 18 Jun 2026 07:00:34 GMT",
+  "published_ts": 1781766034,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFhFcElNTWlFVkxBODBmakV0bXV4S1kxNlhVcWpqb29Wak9sbmFNaG5aSktlMkNIVmtxMlVEeGZJMjA3S3dVRW1ZM1JyS2l3RjYycXhyR0p2YnNoRTR1MEswREhsSmVVMVN3M3NkSXBOTzhROHpBTVM4WnNUOXFLdWs1UFBtUExq?oc=5\" target=\"_blank\">Tim Cook says Apple price hikes are unavoidable as AI squeezes memory supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple CEO Tim Cook attributes potential price increases to AI-driven memory supply constraints. While this reflects tightening memory conditions, the statement is forward-looking commentary on pricing pressure rather than a confirmed supply cut or actual price move, and Apple is not a fund holding. Signals demand-side pressure on memory but lacks concrete data on supply/inventory."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "5c28e8da1df2737e0ca5d2db9d6eb26ce29db32c",
+  "source": "odaily.news",
+  "topic": "pricing",
+  "title": "Storage is still rising, but smart money is starting to position in this \"flash memory chain\". - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16aTY3WGViYW5kYzJ6MG81dGNQN1kzcDZRYkdHdlU3MTBNd0Jzd0ZMQ0p6V1dyWkVrV0t3NVNKT2JKUGRDZ0paZGlIQWJnbWI1?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:34:50 GMT",
+  "published_ts": 1781757290,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE16aTY3WGViYW5kYzJ6MG81dGNQN1kzcDZRYkdHdlU3MTBNd0Jzd0ZMQ0p6V1dyWkVrV0t3NVNKT2JKUGRDZ0paZGlIQWJnbWI1?oc=5\" target=\"_blank\">Storage is still rising, but smart money is starting to position in this \"flash memory chain\".</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report on storage/flash memory pricing trends and market positioning. Discusses flash memory chain positioning as prices rise, reflecting analyst or market sentiment rather than a confirmed concrete event or official guidance."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "40f2308ef49c86b5665e02ed4225813ace2ca98d",
+  "source": "매일경제",
+  "topic": "pricing",
+  "title": "Will iPhone prices rise too? Apple says a price hike is unavoidable amid a memory crunch - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nWExTVXgzbGh6bm5FSHc1RW1VVE5QcW5sazl5NnJfMkFsQ3ExZUFOejhKY0E5TzUtd1o5TS1uMnd1STdMVVA3Z0U4YkhiQzhYdV9V?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:53:08 GMT",
+  "published_ts": 1781754788,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nWExTVXgzbGh6bm5FSHc1RW1VVE5QcW5sazl5NnJfMkFsQ3ExZUFOejhKY0E5TzUtd1o5TS1uMnd1STdMVVA3Z0U4YkhiQzhYdV9V?oc=5\" target=\"_blank\">Will iPhone prices rise too? Apple says a price hike is unavoidable amid a memory crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple signals potential iPhone price increases due to a memory crunch. This indicates tightening memory supply/demand conditions and potential upward pressure on DRAM and NAND pricing, but the story is Apple's forward commentary rather than a confirmed price move or supply constraint announcement from memory makers themselves."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "556ca3d12e5619c80042cefbd928cfdc8633e9ac",
+  "source": "odaily.news",
+  "topic": "pricing",
+  "title": "Storage continues to rise, but smart money is starting to position in this \"flash memory chain\" - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rNGYxbkN0bzZ3SkczTFEyV0ZoOW5RVi1EckRWVWdJdGNjWEN1ZzMwb2pMZERfWnFKTDVjMFlhZmM5VTRFZzRLcUtpby1ka3c?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:27:08 GMT",
+  "published_ts": 1781756828,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rNGYxbkN0bzZ3SkczTFEyV0ZoOW5RVi1EckRWVWdJdGNjWEN1ZzMwb2pMZERfWnFKTDVjMFlhZmM5VTRFZzRLcUtpby1ka3c?oc=5\" target=\"_blank\">Storage continues to rise, but smart money is starting to position in this \"flash memory chain\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece noting storage prices rising and investors positioning in flash memory chain companies. Lacks concrete pricing data, specific holdings identification, or confirmed market moves; represents market commentary and positioning discussion rather than hard numbers or confirmed events."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "719b1e7a0de1800008874c46df6e7b46f59d41b9",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "Cascading Shortages in Consumer DRAM: How Capacity Pivots Fuel Legacy Node Adoption - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwNGRFUV80d3RybjRGQjZCamxtUEZqaTNOWXJwWjJFb28zZVpuTTI1bkQ1Nzh1SXE3NS1DaVFBT1V5bGtWVFNnU2pjS3V5ZENTVktjSm9CU0RIaDRNVFk0NFFRTHNXdw?oc=5",
+  "published_at": "Wed, 17 Jun 2026 09:00:22 GMT",
+  "published_ts": 1781686822,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwNGRFUV80d3RybjRGQjZCamxtUEZqaTNOWXJwWjJFb28zZVpuTTI1bkQ1Nzh1SXE3NS1DaVFBT1V5bGtWVFNnU2pjS3V5ZENTVktjSm9CU0RIaDRNVFk0NFFRTHNXdw?oc=5\" target=\"_blank\">Cascading Shortages in Consumer DRAM: How Capacity Pivots Fuel Legacy Node Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce analysis on consumer DRAM shortages and how capacity reallocation is driving adoption of legacy node production. Relevant to fund's focus on memory pricing and industry dynamics, but appears to be analysis/outlook rather than reporting a concrete event or hard price data."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "ac35205767f9dfcdb72b3ca33bf493a67bee0163",
+  "source": "Koreabizwire",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix Bonuses Seen Creating Broader Inflationary Pressure - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDJWazhlRDE3VDRIQWd3YWQ0QTJzNUdEMjQ5ckpBVXJyUk5DanFaUEhwY1BycFV4RW93eVdvY3BVdW9JTnZUc3drLW9XaUdtQVQzNTdkZ1oxX05qLUJrUXFkRWN0Z1ZaLUU5WVJicU9kY3l5elNkSzdkUFMwbTZXcHAxVW5vU1E5X2ZkZzZCVzVNNFl6cTVWX08tNF9CQ0hRNkdVNE9n?oc=5",
+  "published_at": "Thu, 18 Jun 2026 07:00:05 GMT",
+  "published_ts": 1781766005,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDJWazhlRDE3VDRIQWd3YWQ0QTJzNUdEMjQ5ckpBVXJyUk5DanFaUEhwY1BycFV4RW93eVdvY3BVdW9JTnZUc3drLW9XaUdtQVQzNTdkZ1oxX05qLUJrUXFkRWN0Z1ZaLUU5WVJicU9kY3l5elNkSzdkUFMwbTZXcHAxVW5vU1E5X2ZkZzZCVzVNNFl6cTVWX08tNF9CQ0hRNkdVNE9n?oc=5\" target=\"_blank\">Samsung and SK Hynix Bonuses Seen Creating Broader Inflationary Pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix (both DRAM/memory holdings) are giving bonuses to workers. While it mentions two key holdings, the story is about labor cost/inflation effects rather than memory demand, pricing, capacity, or earnings—a passing reference to holdings without memory-specific business impact."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "42575b71b705ccd524c5d3284a7f75baac2d3d63",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Semiconductor rally lifts KOSPI near 8,930 as SK hynix, SK Square hit records - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmhHR2s1M3VDQ01GeDJHSEgyUlAwS3B2eE1kQTRoZFBPd1kxNmh0YWxjSkM4ejdKd3YwRFhwbjAzMDgwSEhlYnVoRExYWFkteHhTTjJfbFhheExyTG5pRG83eTBQeDVWRXNkWG5EZEotUWN2UUNMWjB3dDdWeW12WNIBlAFBVV95cUxNZ0p2cENuT1BpUVp5NmlMM015VDgtYkhRQzJBMnhCWFMyX0VMU1E1MUJjRE4zVUR6c2pGRGM4UUQwUXprVmdUSVg4QWVIUFhoQklkTEs1YjBNZWxLbUVDVzg0NEhYckRfSGh6WEhGODhUdWZndldnZkZsYk9MX0w4MzAtRU96c0hzX0R0d1NQZTVzdThG?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:46:00 GMT",
+  "published_ts": 1781750760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmhHR2s1M3VDQ01GeDJHSEgyUlAwS3B2eE1kQTRoZFBPd1kxNmh0YWxjSkM4ejdKd3YwRFhwbjAzMDgwSEhlYnVoRExYWFkteHhTTjJfbFhheExyTG5pRG83eTBQeDVWRXNkWG5EZEotUWN2UUNMWjB3dDdWeW12WNIBlAFBVV95cUxNZ0p2cENuT1BpUVp5NmlMM015VDgtYkhRQzJBMnhCWFMyX0VMU1E1MUJjRE4zVUR6c2pGRGM4UUQwUXprVmdUSVg4QWVIUFhoQklkTEs1YjBNZWxLbUVDVzg0NEhYckRfSGh6WEhGODhUdWZndldnZkZsYk9MX0w4MzAtRU96c0hzX0R0d1NQZTVzdThG?oc=5\" target=\"_blank\">Semiconductor rally lifts KOSPI near 8,930 as SK hynix, SK Square hit records - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix and SK Square stocks hit record highs as part of a broader semiconductor rally on the Korean KOSPI index. The story notes the stock movement but provides no disclosed catalyst, specific financial event, or concrete development affecting memory demand or the fund's holdings."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "a93200b1a1c55ec69c08b1c820ca816e822047c4",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "\"Because of Samsung Electronics and SK Hynix's incentives, there is a great sense of deprivation....” - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOE5LUmhnVFhWN0taV1dfRUx2VkhFZkh2aEgzWmRIcUxoenFVdXdBMGJMa1ZTb1FaSnFGUHhob0IteUE4Q2dSal8tVUtGWE90UWc?oc=5",
+  "published_at": "Thu, 18 Jun 2026 05:08:07 GMT",
+  "published_ts": 1781759287,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOE5LUmhnVFhWN0taV1dfRUx2VkhFZkh2aEgzWmRIcUxoenFVdXdBMGJMa1ZTb1FaSnFGUHhob0IteUE4Q2dSal8tVUtGWE90UWc?oc=5\" target=\"_blank\">\"Because of Samsung Electronics and SK Hynix's incentives, there is a great sense of deprivation....”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Korean media coverage of Samsung Electronics and SK Hynix incentive programs. Snippet suggests workplace or competitive concerns but lacks material detail on memory business, production, pricing, or fund-relevant developments. Minimal concrete information available."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "99178bfd56eecbba8088b9a478d5df280e447175",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Netlist Expands Legal Action Against Samsung And Google For Infringement Of New AI Memory Patents - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWXhHNkpvSEVFTHdkbURPZGhVV3RPcjF6NC1EOW1OZlR4Yi1hV2lUSUFNZEplbE9ybE5VM1N4OHlQQ2lPN290OXhEZ3A3ZE9Ka19HTy13a0NrVVRETldjamZjOEtJYlN5M3luZW5CQk9yV2MyVUg0d1NUQ1h0MGNzSFVwNWRqQnlxckFveUpFZXJteFozRGdTRmhQR19IYzJoQ3JjZFBmYUlvN1N2ZFV2ZW1wX2x2c3I0Vi1BWUxfTmwzMHdnbzRVbTAyWFZBbFF0VG1hQzNOZVdWUWpUSld5MGprdXRTSUx6NXU3emlVQ1hZemVYQTJUX0ZGQQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 01:59:00 GMT",
+  "published_ts": 1781747940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWXhHNkpvSEVFTHdkbURPZGhVV3RPcjF6NC1EOW1OZlR4Yi1hV2lUSUFNZEplbE9ybE5VM1N4OHlQQ2lPN290OXhEZ3A3ZE9Ka19HTy13a0NrVVRETldjamZjOEtJYlN5M3luZW5CQk9yV2MyVUg0d1NUQ1h0MGNzSFVwNWRqQnlxckFveUpFZXJteFozRGdTRmhQR19IYzJoQ3JjZFBmYUlvN1N2ZFV2ZW1wX2x2c3I0Vi1BWUxfTmwzMHdnbzRVbTAyWFZBbFF0VG1hQzNOZVdWUWpUSld5MGprdXRTSUx6NXU3emlVQ1hZemVYQTJUX0ZGQQ?oc=5\" target=\"_blank\">Netlist Expands Legal Action Against Samsung And Google For Infringement Of New AI Memory Patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Netlist, a memory-technology company, has expanded patent litigation against Samsung and Google over AI memory patents. While Samsung is a major memory producer and DRAM holding, this is a patent dispute between non-core holdings (Netlist) and Samsung—not a concrete event affecting Samsung's memory business, capacity, or earnings guidance. Patent suits are routine in semiconductors and do not materially move the memory cycle or fund performance absent a major settlement or injunction."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "d0c579fb64dd7b44ecb675655124072d87023f73",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Seagate’s C-Suite Just Sold Stock. It’s Not the Signal You Think. - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHhqVTVtUVdaeHMyczlJbFpNdTlxU2NaM2lzbWFYMjhsUGNEci1PcXpvdlU1NEVOUUk4NkY3SmZ5cUdWd1puQV9oRFBqeEREOHMyd3lfaGFadkFjbUVyNGNULVBPdkthcERPajB0Z0JJTnlMTHI2V040Y1ZwbHpEMC16UjRBTXZO?oc=5",
+  "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
+  "published_ts": 1781766000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHhqVTVtUVdaeHMyczlJbFpNdTlxU2NaM2lzbWFYMjhsUGNEci1PcXpvdlU1NEVOUUk4NkY3SmZ5cUdWd1puQV9oRFBqeEREOHMyd3lfaGFadkFjbUVyNGNULVBPdkthcERPajB0Z0JJTnlMTHI2V040Y1ZwbHpEMC16UjRBTXZO?oc=5\" target=\"_blank\">Seagate’s C-Suite Just Sold Stock. It’s Not the Signal You Think.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Barron's reports on insider stock sales by Seagate executives. While Seagate (STX) is a fund holding, insider selling alone without a disclosed catalyst or substantial context is a minor signal and does not indicate a material development in the memory cycle or the company's fundamentals."
+  },
+  "buffered_ts": 1781767043.7647412
+ },
+ {
+  "id": "a95f5c63bc204240edf4def41e6474f1dcd23df6",
+  "source": "Mezha",
+  "topic": "holding",
+  "title": "SanDisk launches new SSDs for PlayStation 5 priced at up to US$3,000 - Mezha",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DT01veHB4OGlDZWg2SldQeFAybER0UG9aQ3lOWUwzOHVwT1p2NEdLZkNBYnZKNks0djVmYnVKa01McTlndXMweVowWk9DX2R3UWtVUzNJdnVSWENLMnNiY2Q4bThpaXUwTlFoVm9GejdRcHdhX1HSAXtBVV95cUxOMXpWdzBEQlplc0p2aXFVV1VfQVpTRWF0ZTZ5akhPNU5PZi1yblg5c0tDd1RsQ19WYnlCdXFaZXo1TFJmVVFXZHJRNVk0Vk5hQUdPY25FT1J3bW84T21PRTlVYUFKeGJxbE5hT3EtSi1yWERKX0J0Ti03U1k?oc=5",
+  "published_at": "Wed, 17 Jun 2026 13:21:00 GMT",
+  "published_ts": 1781702460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DT01veHB4OGlDZWg2SldQeFAybER0UG9aQ3lOWUwzOHVwT1p2NEdLZkNBYnZKNks0djVmYnVKa01McTlndXMweVowWk9DX2R3UWtVUzNJdnVSWENLMnNiY2Q4bThpaXUwTlFoVm9GejdRcHdhX1HSAXtBVV95cUxOMXpWdzBEQlplc0p2aXFVV1VfQVpTRWF0ZTZ5akhPNU5PZi1yblg5c0tDd1RsQ19WYnlCdXFaZXo1TFJmVVFXZHJRNVk0Vk5hQUdPY25FT1J3bW84T21PRTlVYUFKeGJxbE5hT3EtSi1yWERKX0J0Ti03U1k?oc=5\" target=\"_blank\">SanDisk launches new SSDs for PlayStation 5 priced at up to US$3,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk launched premium SSDs for PlayStation 5 gaming consoles. While SanDisk is a DRAM fund holding, this is a consumer/gaming-focused product launch with no indication of volume, market share impact, or implications for the memory cycle or the broader semiconductor industry relevant to DRAM pricing and demand."
+  },
+  "buffered_ts": 1781767043.7647412
  }
 ]
