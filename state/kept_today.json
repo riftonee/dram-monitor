@@ -389,5 +389,260 @@
    "summary": "TipRanks article discussing investor interest in the Roundhill Memory ETF (DRAM) for AI chip exposure. This is a fund-focused piece with no concrete developments, earnings data, or material events—purely commentary on why investors are considering the fund."
   },
   "buffered_ts": 1781795875.315167
+ },
+ {
+  "id": "636fe195035100df0a5e7596bf94101ee6fd9811",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix Supplies 12-Layer HBM4E Samples to Clients - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQy1xQ3d3MTRZZG5LT1NCVlhBVl9zdVV3bUFkTkk5aEdBdGN6U1dQY1l5d0tobThaSklmQlF4RlNOWFN3SWFXbkV4Q0dMUWhPVFptSVNPVEwxSmRZdXRkZW5ycGJ5OHhpWmRKdlc2MVBJMjBxdEFhYzZ4NWFjNDFla21scXJoS0lL?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:33:38 GMT",
+  "published_ts": 1781796818,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQy1xQ3d3MTRZZG5LT1NCVlhBVl9zdVV3bUFkTkk5aEdBdGN6U1dQY1l5d0tobThaSklmQlF4RlNOWFN3SWFXbkV4Q0dMUWhPVFptSVNPVEwxSmRZdXRkZW5ycGJ5OHhpWmRKdlc2MVBJMjBxdEFhYzZ4NWFjNDFla21scXJoS0lL?oc=5\" target=\"_blank\">SK Hynix Supplies 12-Layer HBM4E Samples to Clients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has supplied 12-layer HBM4E samples to clients, representing concrete progress on next-generation high-bandwidth memory product development and a material capability milestone for a key DRAM ETF holding."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "1efdde685ab841c05a10f3ab6ce06a13f4e7a0d4",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK hynix begins supply of HBM4E memory samples - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKT0pKNXAxdXpVbXJoXy13U1BsU0ZnOXJUVU0zZUdRYVpubWREa0ZuaktmczV4OEhKbmM2LWloOUtQUWtyTmJrV3hwNFR6N1Q2TTZFOFdFSQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 04:34:49 GMT",
+  "published_ts": 1781757289,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKT0pKNXAxdXpVbXJoXy13U1BsU0ZnOXJUVU0zZUdRYVpubWREa0ZuaktmczV4OEhKbmM2LWloOUtQUWtyTmJrV3hwNFR6N1Q2TTZFOFdFSQ?oc=5\" target=\"_blank\">SK hynix begins supply of HBM4E memory samples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has begun supplying HBM4E memory samples. This is a concrete development for a key holding in the DRAM ETF, demonstrating progress in next-generation high-bandwidth memory production and capacity, which directly impacts the memory semiconductor cycle."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "a94b2e16b742f9af409911415a4e6bb7a08a5e95",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SanDisk Jumps 11%, Western Digital Rises 7% After Apple Flags \"Unavoidable\" Memory Price Hikes - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ1FJMzZ5cjJPZWp4NUZibDVlbXlUWEYyWWVJMDBvMVJPcTV0cTFZOTFNTGNyYzAtRzR4OUJNUjVtdkY4ZXVWM0NDR0FuMnloWThoSmhVeWs1NlU5cmhtbFlSOGtqMEhUeXhUQlZueGlrMXljNWN3ejJWSThVQjdURE1JeG9Zdk9waUtzbGpCcmx1UjM0bUZYNndOa1k0T0VKYURsNktPZnViamdHX1dnQ2g0MFFjS1o5VjhrLUZqMVE3cHpVQUR6cFVNaHBEQQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:59:42 GMT",
+  "published_ts": 1781798382,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ1FJMzZ5cjJPZWp4NUZibDVlbXlUWEYyWWVJMDBvMVJPcTV0cTFZOTFNTGNyYzAtRzR4OUJNUjVtdkY4ZXVWM0NDR0FuMnloWThoSmhVeWs1NlU5cmhtbFlSOGtqMEhUeXhUQlZueGlrMXljNWN3ejJWSThVQjdURE1JeG9Zdk9waUtzbGpCcmx1UjM0bUZYNndOa1k0T0VKYURsNktPZnViamdHX1dnQ2g0MFFjS1o5VjhrLUZqMVE3cHpVQUR6cFVNaHBEQQ?oc=5\" target=\"_blank\">SanDisk Jumps 11%, Western Digital Rises 7% After Apple Flags \"Unavoidable\" Memory Price Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple flagged unavoidable memory price hikes, triggering concrete stock moves: SanDisk +11%, Western Digital +7%. This confirms actual pricing power and margin recovery signals in the memory cycle, directly impacting two major DRAM/NAND holdings."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "5688f2d7a2442326b9ef406afee33c754b448c69",
+  "source": "Crypto Briefing",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF $DRAM crosses $20B in assets under management - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YMm1nMlJqdGtvbkF0d3RmZ0I2VFo5SkRFeXBPODFKem9UQTlhRHNHaUt0c2VNTTNPMmxGVVBpS1FVcVV0SHlMbVY2MWhwWGJsRHJkM3hKUXJuSkloT1BHM3puc2ZYVnlnOTY3NDVR?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:20:25 GMT",
+  "published_ts": 1781796025,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1YMm1nMlJqdGtvbkF0d3RmZ0I2VFo5SkRFeXBPODFKem9UQTlhRHNHaUt0c2VNTTNPMmxGVVBpS1FVcVV0SHlMbVY2MWhwWGJsRHJkM3hKUXJuSkloT1BHM3puc2ZYVnlnOTY3NDVR?oc=5\" target=\"_blank\">Roundhill Memory ETF $DRAM crosses $20B in assets under management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) has crossed $20B in assets under management, a significant milestone for the fund that reflects strong investor interest in memory semiconductors."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "07d641995f055017cb8a92a138879435d958ff2c",
+  "source": "Bitget",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF (DRAM) assets under management have exceeded 20 billion dollars. - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NDFWVzl5NjdfUUwtcWJuZkNlbktyZFk5d0FqZW5yanFUUHljUFFmX0dwYlloOWE3OFRuUjVkTTk2U3ktaHdOZHJ1OUt4bzdteDNHMmZGc2lxUHVjZ2fSAWNBVV95cUxOZDVBREc0WUI1dnNNR0hXc1ZaaURiRDd6M2lONC1TNi1mV2xPS25BcUlXNjJTbDYtaXdUU0lQQUtzMTFKLWRMTm41eDdWQ2FCclY4aUxEbU1JSnRHcFFFVHpvMVk?oc=5",
+  "published_at": "Thu, 18 Jun 2026 06:58:21 GMT",
+  "published_ts": 1781765901,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NDFWVzl5NjdfUUwtcWJuZkNlbktyZFk5d0FqZW5yanFUUHljUFFmX0dwYlloOWE3OFRuUjVkTTk2U3ktaHdOZHJ1OUt4bzdteDNHMmZGc2lxUHVjZ2fSAWNBVV95cUxOZDVBREc0WUI1dnNNR0hXc1ZaaURiRDd6M2lONC1TNi1mV2xPS25BcUlXNjJTbDYtaXdUU0lQQUtzMTFKLWRMTm41eDdWQ2FCclY4aUxEbU1JSnRHcFFFVHpvMVk?oc=5\" target=\"_blank\">Roundhill Memory ETF (DRAM) assets under management have exceeded 20 billion dollars.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) assets under management have exceeded $20 billion, a concrete milestone indicating significant fund growth and inflow."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "d001ce0472e358e9990a3673a2ab4e2fc9574896",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Stock After 300% Run On AI Memory Demand Concerns - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON1k5VXI0bkJGN01ibGVQMjdxLUxXTElWemZqY1pkT2VBYnpEaFltRG9QQ19SNzdZTFpKQ1oyZzBuNHdYaUtaQUkxc2tOM1dIbjBwM01FQXVfUElhcVhPdG1hbXBETldHRDZTd2JjX0FQZVdSUllOSHBmcHE0elFxQjRaVVNuSVViWWJncm1xYk9zb1RvZ1Nj?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:12:43 GMT",
+  "published_ts": 1781795563,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxON1k5VXI0bkJGN01ibGVQMjdxLUxXTElWemZqY1pkT2VBYnpEaFltRG9QQ19SNzdZTFpKQ1oyZzBuNHdYaUtaQUkxc2tOM1dIbjBwM01FQXVfUElhcVhPdG1hbXBETldHRDZTd2JjX0FQZVdSUllOSHBmcHE0elFxQjRaVVNuSVViWWJncm1xYk9zb1RvZ1Nj?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Stock After 300% Run On AI Memory Demand Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock has experienced a 300% run attributed to AI memory demand, but the headline frames this as a concern rather than reporting a concrete event or earnings result. The piece appears to be analysis or commentary on the stock's valuation and momentum rather than a specific announcement or confirmed development."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "7cbd33422cb654a8315e4f0e7cb8baffd3ae9722",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1JfaGhRYWFsU3JIQkoxOU4yZXFkUmo5aHQ1bUJib2F0SVRacGI5ZkNjd2tmVnpqY0dHb0tDNjFmZm9jVUFTMnAyQTB6ZERKYjRHSjdMdHRrdmFHcGxvODNaelZqMjg0UGRNX1NBbVNlS2dhazRpYnIwaTZKY0dDOU5QNFNLYS1KeUpsYU5neWFkYVZnVWQtRUt1Zw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 03:52:49 GMT",
+  "published_ts": 1781754769,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1JfaGhRYWFsU3JIQkoxOU4yZXFkUmo5aHQ1bUJib2F0SVRacGI5ZkNjd2tmVnpqY0dHb0tDNjFmZm9jVUFTMnAyQTB6ZERKYjRHSjdMdHRrdmFHcGxvODNaelZqMjg0UGRNX1NBbVNlS2dhazRpYnIwaTZKY0dDOU5QNFNLYS1KeUpsYU5neWFkYVZnVWQtRUt1Zw?oc=5\" target=\"_blank\">Samsung, SK Hynix weigh first chip packaging plants in South Korea's Honam region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix are evaluating the establishment of chip packaging plants in South Korea's Honam region. This represents a potential capacity investment in advanced packaging (likely relevant to memory-chip production infrastructure), but the story reports only that the companies are 'weighing' or considering the move—no confirmed decision or timeline has been announced. Such exploratory facility planning is strategically relevant to the memory industry but falls short of a concrete, market-moving event."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "30b9ce70a1e8567ecb3929790c6a3fc93779e6dc",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK hynix hits $1,705 for first time on robust retail, institutional buying - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwWUtKYUNvc3pDeEVrajB0WjdfMmJwNEdFa2sybzdGX1d0M2xpbDhCMnp4Wi1SZnVTQU1yUk9VLUxvaHBSWjVlbVRvWlU3cDhBYTN4R1RENA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 05:01:38 GMT",
+  "published_ts": 1781758898,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwWUtKYUNvc3pDeEVrajB0WjdfMmJwNEdFa2sybzdGX1d0M2xpbDhCMnp4Wi1SZnVTQU1yUk9VLUxvaHBSWjVlbVRvWlU3cDhBYTN4R1RENA?oc=5\" target=\"_blank\">SK hynix hits $1,705 for first time on robust retail, institutional buying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock reached $1,705 for the first time, driven by retail and institutional buying. While a positive price milestone for a key DRAM fund holding, the story reports the price move itself without disclosing a material catalyst (earnings, guidance, deal, or supply news), making it a price observation rather than a concrete event."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "2ed26641c44ac6a41b5c33c1ad2a53fa33e6ec9a",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1Q2OE5nZzJDNFRMUWlfeGprVG1fOV9PWjJrQy1YV1J3N0ttbFlFcEYxeHpTUEpIcjhUWUlNeWYxZFBjNzllSV9LdF9wY2FuN2ZUTFJwR0tGeEFJRkVJcHRjMVJkbE9nbTRpN01oWWZxanU5bnh3VTF1WGNfd1dyeG16MGtVZmpvQ2ZiZTNSdWd6TVl2emRjQ2ZIUXhWcWt6VUQzcHhkbzhNR1dWNm5IbGs0VjlqY3pmeXBFakxwMEVvbUgyVkV4QzYyQzVQeVhwdGo4NWhqcGNsRTlHZGVyd3doNnUwWmts?oc=5",
+  "published_at": "Thu, 18 Jun 2026 17:57:20 GMT",
+  "published_ts": 1781805440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1Q2OE5nZzJDNFRMUWlfeGprVG1fOV9PWjJrQy1YV1J3N0ttbFlFcEYxeHpTUEpIcjhUWUlNeWYxZFBjNzllSV9LdF9wY2FuN2ZUTFJwR0tGeEFJRkVJcHRjMVJkbE9nbTRpN01oWWZxanU5bnh3VTF1WGNfd1dyeG16MGtVZmpvQ2ZiZTNSdWd6TVl2emRjQ2ZIUXhWcWt6VUQzcHhkbzhNR1dWNm5IbGs0VjlqY3pmeXBFakxwMEVvbUgyVkV4QzYyQzVQeVhwdGo4NWhqcGNsRTlHZGVyd3doNnUwWmts?oc=5\" target=\"_blank\">Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a fund holding, experienced a notable share price increase. The story reports the stock move but provides no disclosed catalyst or concrete news event explaining the rally."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "b6ba391193d65d5bc538176d94590420b993e508",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Just Jumped - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82ZVNUQllPVGJYS2NfR0dEN0NuaDc3RDh1bnVsLVI1ajBLMDRIODBVWmhZMFljV29la2ZNMDd3enlWa1YzbDdtcGZyVTFqWHlKVDFBSVhCTjd5ZHZsNHZNRTczOTdaTzdyclBWbHB0X21VMTdWU0ZMeHZpbXk?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:56:49 GMT",
+  "published_ts": 1781798209,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE82ZVNUQllPVGJYS2NfR0dEN0NuaDc3RDh1bnVsLVI1ajBLMDRIODBVWmhZMFljV29la2ZNMDd3enlWa1YzbDdtcGZyVTFqWHlKVDFBSVhCTjd5ZHZsNHZNRTczOTdaTzdyclBWbHB0X21VMTdWU0ZMeHZpbXk?oc=5\" target=\"_blank\">Why Sandisk Stock Just Jumped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock moved materially, but the snippet does not disclose the specific catalyst. Without a stated cause (earnings, guidance, deal announcement, or industry event), a price move alone qualifies as opinion-based analysis rather than a confirmed event. Further details would be needed to assess true impact."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "d1055523ff183590a892577bddadba5c2d971850",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is SanDisk Stock Surging On Thursday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1NnVy03STFMN3l2OTljb2FMSmZXYmVpdUR1eGtyblhyWjdwdThQWVFoSWktS2xiSkV3TlY5Um94Y0UxQTh3MUpqdDM4MFRycnhIOENKc1FCYkE5X1F2WlBlWWI3ZTZZblBkUTdNSk9UZDZQQU9wbjlKVjhMX3RHc0Q4MXRMZUtiLUszeDRWQU43NjBkVXQyNlA4dkRMNDRuSUZLaW5R?oc=5",
+  "published_at": "Thu, 18 Jun 2026 16:48:56 GMT",
+  "published_ts": 1781801336,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1NnVy03STFMN3l2OTljb2FMSmZXYmVpdUR1eGtyblhyWjdwdThQWVFoSWktS2xiSkV3TlY5Um94Y0UxQTh3MUpqdDM4MFRycnhIOENKc1FCYkE5X1F2WlBlWWI3ZTZZblBkUTdNSk9UZDZQQU9wbjlKVjhMX3RHc0Q4MXRMZUtiLUszeDRWQU43NjBkVXQyNlA4dkRMNDRuSUZLaW5R?oc=5\" target=\"_blank\">Why Is SanDisk Stock Surging On Thursday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock surging on Thursday; Benzinga reports on the move but snippet does not disclose the underlying catalyst or cause for the price movement, making this a price-move story without a stated concrete event."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "b94099b861fd59c8ccb3adc05d5404ca43cb217a",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: Momentum With A Capital M (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zdkZ6Y09tUk9aMWFldnVrX1RIcnlxckNzeWVNOGk5NzJjYU1uNXhwYUo1Y1FON2ZockZoaHVuSVZqdUhYbnlzZFJhRGpnbXNYWUxuc2g5emlwbFA5R1VwakNwbUpabGdRa2pYWGhjd2d2QzBBdmRlU1RLVFlvZ2s?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:45:10 GMT",
+  "published_ts": 1781797510,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9zdkZ6Y09tUk9aMWFldnVrX1RIcnlxckNzeWVNOGk5NzJjYU1uNXhwYUo1Y1FON2ZockZoaHVuSVZqdUhYbnlzZFJhRGpnbXNYWUxuc2g5emlwbFA5R1VwakNwbUpabGdRa2pYWGhjd2d2QzBBdmRlU1RLVFlvZ2s?oc=5\" target=\"_blank\">Sandisk: Momentum With A Capital M (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SanDisk (SNDK) momentum. Analysis and commentary rather than a concrete event, earnings result, or market-moving announcement. Relevant as a holding but soft impact—analyst perspective rather than hard data."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "3c5e91c986b425eef9146c3bd9816f95ce1937b3",
+  "source": "moneywise.com",
+  "topic": "industry",
+  "title": "The cost of personal computers declined steadily for 40 years — until AI came along. Why getting your hands on a new device could cost you - moneywise.com",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Id1ZmZTdZdjIxUUVBUldTc3lMZkZDckw1RFlTWm5FZmt3Ymd1R2lKcURJRHV3ZE0ya1gxOVM2blZQWGdSbHdRdWwwbnVmZzNxYWtoTmhrQUo0SFlGeVd0WVl1NlNEc1FOWE1FV0NkSW1jclR0MGFjcHRIV1lqUQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 18:06:28 GMT",
+  "published_ts": 1781805988,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5Id1ZmZTdZdjIxUUVBUldTc3lMZkZDckw1RFlTWm5FZmt3Ymd1R2lKcURJRHV3ZE0ya1gxOVM2blZQWGdSbHdRdWwwbnVmZzNxYWtoTmhrQUo0SFlGeVd0WVl1NlNEc1FOWE1FV0NkSW1jclR0MGFjcHRIV1lqUQ?oc=5\" target=\"_blank\">The cost of personal computers declined steadily for 40 years — until AI came along. Why getting your hands on a new device could cost you</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">moneywise.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses how AI demand is driving up PC costs due to increased memory and semiconductor requirements, reversing 40 years of declining hardware prices. Relevant to memory cycle dynamics but presents opinion/analysis rather than confirmed pricing data or production changes."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "cdf7af57b09aa7cf8acf59c85f276d8f1640ba8c",
+  "source": "Newswire",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, says CEO Tim Cook - Newswire",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS25seDV1VEc5RWt0UkpwLXJBUGYxYVdmaFdtTmhZRHUwUi15cFp0aUJ6SjEyWkxxV1dqQzJPNm43eGY3clNmNlJfcWJJNmp0YWc0Tnd5ZnlQRWVLelhYVVhpSlpveWlDdlJUUEhYd2ZBenVwS0RQRjh4Mk8yRFpnX1ZjUEtIMUdma25xajVkNHAzdklzYzB6UmtzLXRXcGowYVQwckh3?oc=5",
+  "published_at": "Thu, 18 Jun 2026 16:02:08 GMT",
+  "published_ts": 1781798528,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNS25seDV1VEc5RWt0UkpwLXJBUGYxYVdmaFdtTmhZRHUwUi15cFp0aUJ6SjEyWkxxV1dqQzJPNm43eGY3clNmNlJfcWJJNmp0YWc0Tnd5ZnlQRWVLelhYVVhpSlpveWlDdlJUUEhYd2ZBenVwS0RQRjh4Mk8yRFpnX1ZjUEtIMUdma25xajVkNHAzdklzYzB6UmtzLXRXcGowYVQwckh3?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, says CEO Tim Cook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO Tim Cook states company will raise prices due to memory chip shortage. This indicates strong demand for memory chips and potential pricing power in the market, supporting higher memory costs. However, without specifics on magnitude, timing, or confirmation of the shortage's severity, this is a forward-looking statement rather than a hard event."
+  },
+  "buffered_ts": 1781806507.0254595
+ },
+ {
+  "id": "acb7a80bf02b5137861cec434819e6a424259686",
+  "source": "3News",
+  "topic": "industry",
+  "title": "Apple products set to cost more as memory chip shortage and AI demand push prices to breaking point - 3News",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6SnQ2X1E2UXdQLU1uWTV0NlpudXNRWUQ0WWRLd1BWRENSMUJraUJ4dkVDU3hTUTExMlU2Sy05MUlfSWRsc0hKa1RXUXM4T1FySE1IMlNQZFFleDNFd0dTOGVnSWY5M1plM1pLLXJwSWFTZElleDdJ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 16:36:07 GMT",
+  "published_ts": 1781800567,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6SnQ2X1E2UXdQLU1uWTV0NlpudXNRWUQ0WWRLd1BWRENSMUJraUJ4dkVDU3hTUTExMlU2Sy05MUlfSWRsc0hKa1RXUXM4T1FySE1IMlNQZFFleDNFd0dTOGVnSWY5M1plM1pLLXJwSWFTZElleDdJ?oc=5\" target=\"_blank\">Apple products set to cost more as memory chip shortage and AI demand push prices to breaking point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3News</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece warning that memory chip shortages and AI demand are pushing DRAM/NAND prices higher, which could force Apple to raise product prices. Reflects industry pricing pressure on memory but lacks concrete pricing data or confirmed supply constraints; reads as forward-looking commentary rather than a reported price move or official shortage announcement."
+  },
+  "buffered_ts": 1781806507.0254595
  }
 ]
