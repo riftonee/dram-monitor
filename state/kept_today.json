@@ -984,5 +984,90 @@
    "summary": "SanDisk's PlayStation 5 SSD product announcement highlighting a consumer retail pricing story; mentions the holding but lacks material relevance to the memory cycle, DRAM/NAND spot pricing, or fund fundamentals."
   },
   "buffered_ts": 1781823321.3437634
+ },
+ {
+  "id": "f68eac6a3a3ded5c3c34509de7f43a1d8f0f1371",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Hit Record Highs in Pre-Market on US Chip Rally - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzctMXMzV2hFbUtqcmdBdkh0WVZqeTA0YkpfZVZsSUtDdFFJZ21vV29KQ1VzWmYxeHdmUWVNNERwR1FCZk53U1Jna3pmc0RqRUhtRThFa3ZpcnJmQThnMGZmb1dpaG5iUjBsWGd1VWlHaEpmLTY0LXUzNEU5RHRFQ0s4VlVBMnVSSG9qQzJMb3puN3pVTWlwZ1AyZDd3eDFYbGc?oc=5",
+  "published_at": "Thu, 18 Jun 2026 23:17:44 GMT",
+  "published_ts": 1781824664,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzctMXMzV2hFbUtqcmdBdkh0WVZqeTA0YkpfZVZsSUtDdFFJZ21vV29KQ1VzWmYxeHdmUWVNNERwR1FCZk53U1Jna3pmc0RqRUhtRThFa3ZpcnJmQThnMGZmb1dpaG5iUjBsWGd1VWlHaEpmLTY0LXUzNEU5RHRFQ0s4VlVBMnVSSG9qQzJMb3puN3pVTWlwZ1AyZDd3eDFYbGc?oc=5\" target=\"_blank\">Samsung, SK hynix Hit Record Highs in Pre-Market on US Chip Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stock prices reached record highs in pre-market trading amid a broader US chip rally. The story reports a price move without disclosing a specific catalyst or concrete event driving the gains, making it a soft market-reaction piece rather than news of a substantive development."
+  },
+  "buffered_ts": 1781828644.720822
+ },
+ {
+  "id": "5e12d217a705fdacf612e14bf5de525d7e28a6bd",
+  "source": "FinancialContent",
+  "topic": "holding",
+  "title": "Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know - FinancialContent",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdWhCaHB6a0lEUlY4bmNlYTRQTGRFaGtWYXRPZS1RdU1zekdyMDQtLTlIUnUzM3pIQmhIYWsyMHlVYUt5UHI1ZDZyeDlPc0VreUZ5Y3A3MnB0eGlUQW5ldmpmc2NPNjhvRUc4ZFBLbExORmRXV3pxeTFFT1RpcllkZ3U0bDFOTndwUEo0S09pYklKMlJqdngtWDRlSmQxaU8zaHB2R1QtVmMxYnZDVTJ2eFVJZkltaTFVUWs1bE1kOWNKWE9BeWFIbGYyLVNQR3NtXzNsV1hCYkVrbDlLWDJVUzlKU0s5bFJFTHc?oc=5",
+  "published_at": "Thu, 18 Jun 2026 17:10:00 GMT",
+  "published_ts": 1781802600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdWhCaHB6a0lEUlY4bmNlYTRQTGRFaGtWYXRPZS1RdU1zekdyMDQtLTlIUnUzM3pIQmhIYWsyMHlVYUt5UHI1ZDZyeDlPc0VreUZ5Y3A3MnB0eGlUQW5ldmpmc2NPNjhvRUc4ZFBLbExORmRXV3pxeTFFT1RpcllkZ3U0bDFOTndwUEo0S09pYklKMlJqdngtWDRlSmQxaU8zaHB2R1QtVmMxYnZDVTJ2eFVJZkltaTFVUWs1bE1kOWNKWE9BeWFIbGYyLVNQR3NtXzNsV1hCYkVrbDlLWDJVUzlKU0s5bFJFTHc?oc=5\" target=\"_blank\">Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, experienced a significant share price increase. The headline reports a stock move but provides no disclosed catalyst or concrete event explaining the surge, making this a price-movement story without stated fundamental cause."
+  },
+  "buffered_ts": 1781828644.720822
+ },
+ {
+  "id": "d82370b352bb95a6ba7b8cd95c53e38ea1f1aa5b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Prediction: These Will Be Micron's and Sandisk's Stock Prices by the End of 2027 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanNYZURvYzZmazNCLVl3ajZDa0NSelptdzkzMTcxay1md0xKb2lzbHF5eVVscXItMTRkTTBwTEhyRmZJMElxVXBrRG84NnhydGZ5SzZHazMxZ3BuOGFMTVl2Ylo5QXAzZF9KemtVcTJVUk5rZnVPNF9EWHRiWDVRN1V2czdyY2hOZXpNVXF1RzRsV0xRMGtxU0RCMHdkTWJ6SDVQbjFxVnQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 21:42:00 GMT",
+  "published_ts": 1781818920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanNYZURvYzZmazNCLVl3ajZDa0NSelptdzkzMTcxay1md0xKb2lzbHF5eVVscXItMTRkTTBwTEhyRmZJMElxVXBrRG84NnhydGZ5SzZHazMxZ3BuOGFMTVl2Ylo5QXAzZF9KemtVcTJVUk5rZnVPNF9EWHRiWDVRN1V2czdyY2hOZXpNVXF1RzRsV0xRMGtxU0RCMHdkTWJ6SDVQbjFxVnQ?oc=5\" target=\"_blank\">Prediction: These Will Be Micron's and Sandisk's Stock Prices by the End of 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance publishes analyst price predictions for Micron and SanDisk through end of 2027. Prediction/forecast content; no concrete event or earnings trigger."
+  },
+  "buffered_ts": 1781828644.720822
+ },
+ {
+  "id": "dac5f663f8ff24d7ece6128207bc1944e0e23e55",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Micron reports earnings on June 24, expects record revenue growth driven by AI memory demand - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZHB0RUNwb2pFZkhNZWlERXgtODVuaFNPY3BVWWswcDVuVVMxS3N6blphZ3FTdHV2UWJmaDc1UHBsVlhYMXFucnV6MDVuUTctUW5USk9tSDF1X1ZXSTZFNDg3QVVCazZzWll3RUVPbTZybTdGakJTYVp0MWdKUQ?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:35:48 GMT",
+  "published_ts": 1781793348,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZHB0RUNwb2pFZkhNZWlERXgtODVuaFNPY3BVWWswcDVuVVMxS3N6blphZ3FTdHV2UWJmaDc1UHBsVlhYMXFucnV6MDVuUTctUW5USk9tSDF1X1ZXSTZFNDg3QVVCazZzWll3RUVPbTZybTdGakJTYVp0MWdKUQ?oc=5\" target=\"_blank\">Micron reports earnings on June 24, expects record revenue growth driven by AI memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), a key DRAM ETF holding, is scheduled to report earnings on June 24 and expects record revenue growth driven by AI memory demand. This is forward-looking guidance/expectation rather than a confirmed result, making it a soft signal of strong AI-driven memory tailwinds."
+  },
+  "buffered_ts": 1781828644.720822
+ },
+ {
+  "id": "2862c8408bfee84194ff09e59fee084a795a2190",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk’s $2,960 PS5 SSD sparks backlash over steep pricing - MSN",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmx5ZUU4MS1ycDdSNC1uclRQVURKNTZQVGtYcTYxcW04WE43NnpuTzNKR18tNDlRcjd4cmhISjVFOGZQRjI5N0JoQVhFR2pvenh2TGJBRnM0MzJWejNUbS1JSmd0Uk1NUkNYZy14QTBZNjVWa3RDY2doRHdmVUlVMHFKcDZiNlhvd25vVFVucG9SQU5UOWJxQlRGQXQ3WWZvWGt0V1R5NVlyMFQzR0FsaFl0bkRHZw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 17:25:58 GMT",
+  "published_ts": 1781803558,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmx5ZUU4MS1ycDdSNC1uclRQVURKNTZQVGtYcTYxcW04WE43NnpuTzNKR18tNDlRcjd4cmhISjVFOGZQRjI5N0JoQVhFR2pvenh2TGJBRnM0MzJWejNUbS1JSmd0Uk1NUkNYZy14QTBZNjVWa3RDY2doRHdmVUlVMHFKcDZiNlhvd25vVFVucG9SQU5UOWJxQlRGQXQ3WWZvWGt0V1R5NVlyMFQzR0FsaFl0bkRHZw?oc=5\" target=\"_blank\">SanDisk’s $2,960 PS5 SSD sparks backlash over steep pricing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk released a premium PS5 SSD at $2,960, drawing consumer backlash over pricing. While SanDisk is a fund holding, this story focuses on consumer reaction to a specific product's high price point rather than memory market conditions, demand signals, pricing trends, or financial impact to the company."
+  },
+  "buffered_ts": 1781828644.720822
  }
 ]
