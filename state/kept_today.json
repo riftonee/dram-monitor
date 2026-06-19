@@ -1460,5 +1460,328 @@
    "summary": "SK hynix stock surging with social media commentary about the stock's strong performance. While hynix is a fund holding and stock movement is noted, the headline is primarily driven by meme commentary and sentiment rather than a disclosed fundamental catalyst or concrete business event."
   },
   "buffered_ts": 1781847251.020279
+ },
+ {
+  "id": "168d5385cc33a7794d88437f127b24f217498b5b",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Intel Hires SK Hynix CEO for Foundry Revival - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGpoWVdTRVIwQ2VCc3l1RWc2STk5QlJkaDNzRGozWE5qbXZpRXJpS3E0Z0VRZ2VRS3Y1STdydFFERktHLUdHU0VBZm5iSnZlMFVLQmVsTHhzempRb21lUU9QRG5ycjBUWDZUd2dwODF4eHJMaHpBaG9WRWpCdlQ1WlBaa1dlbjM3?oc=5",
+  "published_at": "Fri, 19 Jun 2026 09:32:51 GMT",
+  "published_ts": 1781861571,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGpoWVdTRVIwQ2VCc3l1RWc2STk5QlJkaDNzRGozWE5qbXZpRXJpS3E0Z0VRZ2VRS3Y1STdydFFERktHLUdHU0VBZm5iSnZlMFVLQmVsTHhzempRb21lUU9QRG5ycjBUWDZUd2dwODF4eHJMaHpBaG9WRWpCdlQ1WlBaa1dlbjM3?oc=5\" target=\"_blank\">Intel Hires SK Hynix CEO for Foundry Revival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Intel has hired SK Hynix CEO for its foundry division revival—a concrete executive move signaling strategic focus on memory/semiconductor manufacturing capacity and a major personnel shift at a key DRAM fund holding."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "865ff4807c7676b341bd4b38e7c7b95591f6d417",
+  "source": "Investing.com Nigeria",
+  "topic": "holding",
+  "title": "SanDisk and Micron surge as Apple confirms memory price pass-through - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXQwQ3pUVGlOUmhxSE1IU0lwNHFFSmU5NWFRcEU0N0kzRUxHand2aEdvNllsQlFfdEgzcDJyZEkwUGVOalF0OGhJYWhERVBtWWpvdUo4VkhwU1NiMGdOU3B1YXhxOEVYNE9yWVMxaVU2UVltWVVqZ1RUWXdtUmJHS25jWGF2SmRkOXQ4WW13cThGQ0hJcklHdGRiZVI4YkFzMFlOaTZQamdJX0t6RmVpdzAwR1Rlcnl6ek42MkxqM3I?oc=5",
+  "published_at": "Thu, 18 Jun 2026 20:10:11 GMT",
+  "published_ts": 1781813411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXQwQ3pUVGlOUmhxSE1IU0lwNHFFSmU5NWFRcEU0N0kzRUxHand2aEdvNllsQlFfdEgzcDJyZEkwUGVOalF0OGhJYWhERVBtWWpvdUo4VkhwU1NiMGdOU3B1YXhxOEVYNE9yWVMxaVU2UVltWVVqZ1RUWXdtUmJHS25jWGF2SmRkOXQ4WW13cThGQ0hJcklHdGRiZVI4YkFzMFlOaTZQamdJX0t6RmVpdzAwR1Rlcnl6ek42MkxqM3I?oc=5\" target=\"_blank\">SanDisk and Micron surge as Apple confirms memory price pass-through</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple has confirmed passing through memory price increases to customers, driving gains in SanDisk and Micron stocks. This represents a concrete pricing development with confirmed market impact on two major fund holdings."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "542ec49dd40748d16cecd71b194a82f9ab49b221",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "Margin debt hits record as retail investors pile into Samsung Electronics, SK hynix - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zbW8tdkc4dnJZbFRBNGRrd1haNlZFRHNocS1pWkx3d2lTZnlSSHJyT0VtU0JvTkRNZE1rbGxENDdoa3pZTHZ3emRrN2RBQVpScW9pSGN1bw?oc=5",
+  "published_at": "Fri, 19 Jun 2026 09:19:57 GMT",
+  "published_ts": 1781860797,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zbW8tdkc4dnJZbFRBNGRrd1haNlZFRHNocS1pWkx3d2lTZnlSSHJyT0VtU0JvTkRNZE1rbGxENDdoa3pZTHZ3emRrN2RBQVpScW9pSGN1bw?oc=5\" target=\"_blank\">Margin debt hits record as retail investors pile into Samsung Electronics, SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Retail investors are increasing margin debt to buy Samsung Electronics and SK hynix, pushing margin debt to record levels. This reflects increased investor interest in the memory stocks but is primarily a behavioral/market observation rather than a concrete company event or earnings-driven catalyst."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "3ebb0b5d1c0dee8c7dda594ff26c90d805a0f5b7",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Intel Recruits Former SK hynix CEO Lee Seok-hee to Lead Advanced Foundry Packaging - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcUZWVlNNd0FkZEtxeFozblV6ZGpjYTNnTFdnRFJJSDU5NDF6b1VQNXpoQkx3bmJxanl0ZmUtdTJEVGU1OVEtWHlzOTl6Qy1HVU5OZVdPY3hqcnVtMG5Lb2gyNDk0dDQ?oc=5",
+  "published_at": "Fri, 19 Jun 2026 09:45:56 GMT",
+  "published_ts": 1781862356,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcUZWVlNNd0FkZEtxeFozblV6ZGpjYTNnTFdnRFJJSDU5NDF6b1VQNXpoQkx3bmJxanl0ZmUtdTJEVGU1OVEtWHlzOTl6Qy1HVU5OZVdPY3hqcnVtMG5Lb2gyNDk0dDQ?oc=5\" target=\"_blank\">Intel Recruits Former SK hynix CEO Lee Seok-hee to Lead Advanced Foundry Packaging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Intel recruits former SK hynix CEO Lee Seok-hee to lead advanced foundry packaging operations. This signals Intel's strategic focus on packaging technology and advanced manufacturing, relevant to the memory-semiconductor industry cycle. However, it is a personnel/organizational move without disclosed financial impact or confirmed production/capacity changes, making it material context rather than a concrete market event."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "142597aa4fb652afa65e2cc28ef8a9c1bc9c8e09",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "SK Hynix shares gain 7% as AI chip demand sends stock to record high - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGelVsZGlnU2JQTVJoVnR3RW1uQ1hRTjQ5bGZISjZzb3NXMHRMaFJ5dm15NkNxNEctTUJydG1lcWlNWWg0Vk00TWpGQkNHTGJwZ3hqZ3I0eUtHTVUweTU0dE5fQWdPM1ZOWHRTZFNSVzlRMnVKNlln?oc=5",
+  "published_at": "Fri, 19 Jun 2026 05:10:23 GMT",
+  "published_ts": 1781845823,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGelVsZGlnU2JQTVJoVnR3RW1uQ1hRTjQ5bGZISjZzb3NXMHRMaFJ5dm15NkNxNEctTUJydG1lcWlNWWg0Vk00TWpGQkNHTGJwZ3hqZ3I0eUtHTVUweTU0dE5fQWdPM1ZOWHRTZFNSVzlRMnVKNlln?oc=5\" target=\"_blank\">SK Hynix shares gain 7% as AI chip demand sends stock to record high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares rose 7% to record highs, attributed to AI chip demand. The story reports a stock price move with a stated driver (AI demand) but lacks concrete quantified events or official announcements to warrant impact 4+."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "27c7c346beb562b6d211454b66e087437311982c",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "SK hynix's Massive Chip Designer Hiring Drive Rattles Fabless Sector - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Mnlfd2tSU0VlVFNKWlZ1c1lvZ09NelVPcWZXam9zZTB4OHBycFpKeU9SUXdNRXpOYzNPWVVZaXp0NS00ME50Y3NnYm93MThieGQ5eDZfdXNQSm1yYjNDa0pHY2dPWEU?oc=5",
+  "published_at": "Fri, 19 Jun 2026 09:46:02 GMT",
+  "published_ts": 1781862362,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Mnlfd2tSU0VlVFNKWlZ1c1lvZ09NelVPcWZXam9zZTB4OHBycFpKeU9SUXdNRXpOYzNPWVVZaXp0NS00ME50Y3NnYm93MThieGQ5eDZfdXNQSm1yYjNDa0pHY2dPWEU?oc=5\" target=\"_blank\">SK hynix's Massive Chip Designer Hiring Drive Rattles Fabless Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is undertaking a significant hiring expansion in chip design, which signals investment in R&D and product development capability. This is relevant to the holding but represents a strategic/operational move rather than a concrete near-term market event; hiring initiatives are typically soft signals of future direction rather than immediate earnings or cycle drivers."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "88546237e4083cf4601bb0bd3136c1def43288ee",
+  "source": "Electronics For You BUSINESS",
+  "topic": "holding",
+  "title": "Intel Taps Former SK Hynix CEO Seok-Hee Lee for Key Foundry Role - Electronics For You BUSINESS",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVpRX2JObDd3dlB0MmNJbGlKRXctaUpoVWVab3M0SW4wbkxNNW5RVXAzM2VwTERYS2dTcG1WbTVhcEJtRF83cGstaVJyVjdpZ3ZnZnUzQWExaVVxa2hLWEp3NHhfOVdOQkt4VERaTVlDaWYwNjJIM3l1WkhjUkJPSTFKeTZOMXNaMU5vUTVsVm4zd081VktlSjAtcUljX1duWFQ5WW1zTkVPMDh6UTJNYXRMNA?oc=5",
+  "published_at": "Fri, 19 Jun 2026 07:57:13 GMT",
+  "published_ts": 1781855833,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVpRX2JObDd3dlB0MmNJbGlKRXctaUpoVWVab3M0SW4wbkxNNW5RVXAzM2VwTERYS2dTcG1WbTVhcEJtRF83cGstaVJyVjdpZ3ZnZnUzQWExaVVxa2hLWEp3NHhfOVdOQkt4VERaTVlDaWYwNjJIM3l1WkhjUkJPSTFKeTZOMXNaMU5vUTVsVm4zd081VktlSjAtcUljX1duWFQ5WW1zTkVPMDh6UTJNYXRMNA?oc=5\" target=\"_blank\">Intel Taps Former SK Hynix CEO Seok-Hee Lee for Key Foundry Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics For You BUSINESS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel appoints former SK Hynix CEO Seok-Hee Lee to a key foundry role. While this involves SK Hynix (a DRAM ETF holding) in personnel terms, the move itself is speculative regarding its impact on memory supply/demand dynamics. The appointment signals potential industry shifts but lacks concrete operational or financial consequences announced at this time."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "65fc5b4ae2bba14c2c7976cafd499ee6bb011ec4",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Former CEO of SK Hynix Lee Seok-hee… as vice president of Intel Foundry - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hVG9JdVBfT0tCODI3NTdicDVVOW0tWl9iNzVNNUlULWRwblpmbWdzSXZDTUNJV3NRYzBOU2xMOXlDSWRGWk9tSzZGQlptTWozdUxB?oc=5",
+  "published_at": "Fri, 19 Jun 2026 08:44:29 GMT",
+  "published_ts": 1781858669,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hVG9JdVBfT0tCODI3NTdicDVVOW0tWl9iNzVNNUlULWRwblpmbWdzSXZDTUNJV3NRYzBOU2xMOXlDSWRGWk9tSzZGQlptTWozdUxB?oc=5\" target=\"_blank\">Former CEO of SK Hynix Lee Seok-hee… as vice president of Intel Foundry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Former SK Hynix CEO Lee Seok-hee appointed as vice president of Intel Foundry Services. This is a personnel move involving a key holding (SK Hynix) executive transitioning to Intel; notable for potential strategic implications but lacks concrete operational impact on SK Hynix's memory production, pricing, or guidance."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "cd0db866309226c2423c44e6bed637e313407eb9",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "Seagate Technology Stock Surges 31%, With A 5-Day Winning Spree - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZE9YcW5EV3FoeFM4TW44R2xmWUsxZno0RHo1T0YyVXZIYTdGZ2lsS1lPblBraENoQVZhRXpDcmFXUjZVU1Q2VEthTVVqOFF0SUtXZWswUGhwUGl0S3NIeElJNWY5WG9fVW94OFYwZ2NNbFJ6T2JDVU1OTUV1OUtCbjlJcmdiS0ZzdWl0UmdyNExlZTZtT09Bc2pxc1k2V3NtMG10QnV1dW1JSVRqTzUzOA?oc=5",
+  "published_at": "Thu, 18 Jun 2026 12:27:10 GMT",
+  "published_ts": 1781785630,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZE9YcW5EV3FoeFM4TW44R2xmWUsxZno0RHo1T0YyVXZIYTdGZ2lsS1lPblBraENoQVZhRXpDcmFXUjZVU1Q2VEthTVVqOFF0SUtXZWswUGhwUGl0S3NIeElJNWY5WG9fVW94OFYwZ2NNbFJ6T2JDVU1OTUV1OUtCbjlJcmdiS0ZzdWl0UmdyNExlZTZtT09Bc2pxc1k2V3NtMG10QnV1dW1JSVRqTzUzOA?oc=5\" target=\"_blank\">Seagate Technology Stock Surges 31%, With A 5-Day Winning Spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, has surged 31% over a 5-day period. However, the article provides no stated catalyst or disclosed reason for the stock move—it is a pure price-action report without explanation of what drove the gains. Without a concrete event, earnings result, or announced development, this registers as a soft relevance (impact 3) rather than a market-moving catalyst."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "1905934ddc18ee3cb029c6529a34e49ff29a7cc5",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Sandisk Jumped 11% Near a Record. Can the Rally Survive the June 22 Western Digital Swap? - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGZHbGRpbXYwLS1XbkhReE5kbjE2am16bVFsV2YzVjlFU3dzbDFBd1dwbndhVFFMaHJ4REJYcUdhWnlBeVNIdnRscEs3UmxmeHg1YmR4amVnbzlpNHZVOEN3ek1XTDB2SmFXVVdyQl9pM2llWHJoUzZYRllob0pqdFZ0TzlIUVpyaUJ1cFJ3eU1TeXF4TE1qU3VEOGsxTm5xeFhsazU1ZjhReDRRN2lObkdR?oc=5",
+  "published_at": "Fri, 19 Jun 2026 06:58:43 GMT",
+  "published_ts": 1781852323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGZHbGRpbXYwLS1XbkhReE5kbjE2am16bVFsV2YzVjlFU3dzbDFBd1dwbndhVFFMaHJ4REJYcUdhWnlBeVNIdnRscEs3UmxmeHg1YmR4amVnbzlpNHZVOEN3ek1XTDB2SmFXVVdyQl9pM2llWHJoUzZYRllob0pqdFZ0TzlIUVpyaUJ1cFJ3eU1TeXF4TE1qU3VEOGsxTm5xeFhsazU1ZjhReDRRN2lObkdR?oc=5\" target=\"_blank\">Sandisk Jumped 11% Near a Record. Can the Rally Survive the June 22 Western Digital Swap?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock jumped 11% near record highs, with analysis questioning whether the rally can sustain through Western Digital's June 22 swap event. This reflects price movement and investor sentiment around a holding but lacks disclosed fundamental catalyst or confirmed event details."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "3d34f3cfb6ce2f92bcdaaddb5f68786d223ca4b5",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Just Jumped - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmUxN1JLMnhybzBsV2lIYjVjRWJQcmhqMVRlU1hybnA5ZjdkbVNWWVBtc2lselBRUDY4LUZHV2Z5bmt6TEYyMmpBdWJBQXRNc3dYX0NocEJ6dEZyZDhXLTdITEI5TlQyWGw2NWFpelJDcER1bnd4RllEdkhzbkc1MXBuYW5CQmI5eFUyWlMwYkhpdzV1RWQxdUstWUJFS3h3eDdkQW90SEZWX2Fqd25YLWFXNmg?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:47:00 GMT",
+  "published_ts": 1781797620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmUxN1JLMnhybzBsV2lIYjVjRWJQcmhqMVRlU1hybnA5ZjdkbVNWWVBtc2lselBRUDY4LUZHV2Z5bmt6TEYyMmpBdWJBQXRNc3dYX0NocEJ6dEZyZDhXLTdITEI5TlQyWGw2NWFpelJDcER1bnd4RllEdkhzbkc1MXBuYW5CQmI5eFUyWlMwYkhpdzV1RWQxdUstWUJFS3h3eDdkQW90SEZWX2Fqd25YLWFXNmg?oc=5\" target=\"_blank\">Why Sandisk Stock Just Jumped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock experienced a notable jump, but the headline does not provide a disclosed catalyst or confirmed event. Without details on the specific reason for the move, this appears to be price-action reporting rather than a concrete triggering event. Pending the article body for confirmation of a material catalyst (such as earnings, guidance, or supply news)."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "162e4c81a849c0b15d7040781d3ac1a32249cd3b",
+  "source": "Tech Wire Asia",
+  "topic": "industry",
+  "title": "Apple’s price hikes trace the memory chip shortage straight back to Asia - Tech Wire Asia",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BNjVRblJwMzdYYzQ5LWRCcWRJZmxDWmdXc0Q2NFQzbXpTYWFWSkw4WWNNaFVMVnBoeXV4b0xuY1ItZkZXNkk2aFFzTi1MWVA1MFVpbjlvME1GNUlrSm9wLTBtZzhRNm1yekJZX0ZBUm93bDA?oc=5",
+  "published_at": "Fri, 19 Jun 2026 00:03:59 GMT",
+  "published_ts": 1781827439,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1BNjVRblJwMzdYYzQ5LWRCcWRJZmxDWmdXc0Q2NFQzbXpTYWFWSkw4WWNNaFVMVnBoeXV4b0xuY1ItZkZXNkk2aFFzTi1MWVA1MFVpbjlvME1GNUlrSm9wLTBtZzhRNm1yekJZX0ZBUm93bDA?oc=5\" target=\"_blank\">Apple’s price hikes trace the memory chip shortage straight back to Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Wire Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article connects Apple's price increases to memory chip shortages originating in Asia, suggesting supply-chain tightness affecting memory availability. This is a soft indicator of demand/supply dynamics in the memory sector, but lacks concrete data on production cuts, pricing levels, or specific capacity impacts on holdings."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "22c4489f50b9b9a453b1e072ddfd9110ff9ff1a8",
+  "source": "Let's Data Science",
+  "topic": "pricing",
+  "title": "Global Memory Chip Market Grows Fourfold in 2026 - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakJac2VGbkI4THl5Y012NHJfaEhsSEVwMjhNUHpSeV84WFBGWHBXY0VJQ1pOT2VlWGFLZ1N2OGpxVFRwVFREV3lSWUpGb2hDMEZrMG5abWhJT2VqTmkzNU1uWjlZTHNjdU52RlhvSHJZSk1hQmYxc2JMdVRybW9ELUJJMU5oTGFKOHNFUkRzN1hvM09E?oc=5",
+  "published_at": "Fri, 19 Jun 2026 05:22:03 GMT",
+  "published_ts": 1781846523,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOakJac2VGbkI4THl5Y012NHJfaEhsSEVwMjhNUHpSeV84WFBGWHBXY0VJQ1pOT2VlWGFLZ1N2OGpxVFRwVFREV3lSWUpGb2hDMEZrMG5abWhJT2VqTmkzNU1uWjlZTHNjdU52RlhvSHJZSk1hQmYxc2JMdVRybW9ELUJJMU5oTGFKOHNFUkRzN1hvM09E?oc=5\" target=\"_blank\">Global Memory Chip Market Grows Fourfold in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report forecasts global memory chip market will grow fourfold by 2026. This is analyst/research projection rather than a confirmed event, price, or production announcement, making it a soft indicator of industry tailwinds relevant to DRAM holdings but not a concrete catalyst."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "d25b64bec60f7ef28ad09948351238693ccf5a27",
+  "source": "theinvestor.co.kr",
+  "topic": "holding",
+  "title": "SK hynix hits W2,000tr milestone, but Kospi ends lower - theinvestor.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DN3Z4LVU0WGpnZFd1aEk4TUlLQTJXOFBpWC1UY1RENVlVVWxoYXNEMEY1RF9LcVdmcjBydlFwbTN0c1l3MEJRTGVLVVYyUXl0d1ZRR0ZJUTdFZw?oc=5",
+  "published_at": "Fri, 19 Jun 2026 08:38:18 GMT",
+  "published_ts": 1781858298,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DN3Z4LVU0WGpnZFd1aEk4TUlLQTJXOFBpWC1UY1RENVlVVWxoYXNEMEY1RF9LcVdmcjBydlFwbTN0c1l3MEJRTGVLVVYyUXl0d1ZRR0ZJUTdFZw?oc=5\" target=\"_blank\">SK hynix hits W2,000tr milestone, but Kospi ends lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinvestor.co.kr</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix reached a W2 trillion (Korean won) market cap milestone. The headline notes the Kospi index closed lower on the day, but provides no specific catalyst, earnings data, or memory-market-relevant detail about the holding itself. A notable milestone for the company but lacking concrete operational or financial news that would move the fund."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "d058c87b0511df066fc60b46fd588d32beb5816a",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "SK hynix hits $1t valuation as KOSPI reaches record - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM255UmlEQURCc2dzakdhRWNZSmFJMUFVdnlyY0ZnQ2JuczdFQXNCV1FuRUVOYm9hRkNGSmFzZjhYZ2oybVVicGNYWXZvQzF2UDA2bWZWdV90THYwQ1RISU8xQWk0RGtMOGdyWW1WSDRnRk9sdHZzbVJFYkZzM2tLMExEU2RZNC1zeEE?oc=5",
+  "published_at": "Fri, 19 Jun 2026 03:52:00 GMT",
+  "published_ts": 1781841120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQM255UmlEQURCc2dzakdhRWNZSmFJMUFVdnlyY0ZnQ2JuczdFQXNCV1FuRUVOYm9hRkNGSmFzZjhYZ2oybVVicGNYWXZvQzF2UDA2bWZWdV90THYwQ1RISU8xQWk0RGtMOGdyWW1WSDRnRk9sdHZzbVJFYkZzM2tLMExEU2RZNC1zeEE?oc=5\" target=\"_blank\">SK hynix hits $1t valuation as KOSPI reaches record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix market valuation reached $1 trillion as the KOSPI index hit a record. This is a price-movement story with no disclosed catalyst or material event—a passing milestone announcement rather than a concrete development affecting the memory cycle or fund holdings."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "acb19d94b9bca5bd68fc9f1d84d4a772fa70b0b3",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Draw Half of KOSPI Buying as Concentration Triples - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUV2Zm1GY3RBTHpIVndUQ0VJdlZ5YzktYkFBOG9iam5veVR6QVJDWnN4aVhnNXU3b21IcmhoWWZyejdLcG90SlhpdUlpaUUyYlg0NmtVZ05yc2dvUmtyS3RsUE5PUjA4dTNFUEpzNDJDVmtVT216SndYS1I2a3J3OXZWMU1QT2pXUUNOOGhqNEpBcUZ4SkY3bFdWRHh4dEk?oc=5",
+  "published_at": "Fri, 19 Jun 2026 08:48:19 GMT",
+  "published_ts": 1781858899,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUV2Zm1GY3RBTHpIVndUQ0VJdlZ5YzktYkFBOG9iam5veVR6QVJDWnN4aVhnNXU3b21IcmhoWWZyejdLcG90SlhpdUlpaUUyYlg0NmtVZ05yc2dvUmtyS3RsUE5PUjA4dTNFUEpzNDJDVmtVT216SndYS1I2a3J3OXZWMU1QT2pXUUNOOGhqNEpBcUZ4SkY3bFdWRHh4dEk?oc=5\" target=\"_blank\">Samsung, SK hynix Draw Half of KOSPI Buying as Concentration Triples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK hynix account for half of KOSPI buying activity, with market concentration tripling. This is a stock-market structure observation about two major holdings but lacks concrete memory-cycle or earnings-specific news."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "d2ecc4b3e0d85f6b10072249d5e555f335b3c43f",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Market Cap Tops 2,000 Trillion Won Intraday, Nears Samsung's - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONnlhQWQtbTNsbWV5SWJXWmpoSWtkRGJnblRjQXpXQklOWC1sWkpKTjgwenFfZTBJRjNpUWEtWEhBVi1sdGxRTDE5M0tJOUJCVVlRR1RTYkt6Yk41dVBQQUJvY29Tck5teGpleWJHYVAwSEt1RENGSWhaTHVWSERhMEowWkI5bTFISHhHV3Y3d05fc2liNjhENG9HQ1FXOFpy?oc=5",
+  "published_at": "Fri, 19 Jun 2026 08:01:09 GMT",
+  "published_ts": 1781856069,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONnlhQWQtbTNsbWV5SWJXWmpoSWtkRGJnblRjQXpXQklOWC1sWkpKTjgwenFfZTBJRjNpUWEtWEhBVi1sdGxRTDE5M0tJOUJCVVlRR1RTYkt6Yk41dVBQQUJvY29Tck5teGpleWJHYVAwSEt1RENGSWhaTHVWSERhMEowWkI5bTFISHhHV3Y3d05fc2liNjhENG9HQ1FXOFpy?oc=5\" target=\"_blank\">SK hynix Market Cap Tops 2,000 Trillion Won Intraday, Nears Samsung's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix market capitalization briefly topped 2 trillion won intraday, approaching Samsung's level. A stock-price milestone with no disclosed fundamental catalyst or production/demand news; purely a valuation movement reflecting investor sentiment."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "28e0e71875ad0157d2184f3bb7c888f1e3eb3973",
+  "source": "PCMag Middle East",
+  "topic": "holding",
+  "title": "SanDisk's New 8TB PlayStation 5 SSD Costs 3 Times More Than the Console - PCMag Middle East",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjg1bmZsQm9yRm5YWUhBVWh5RjdaWHAtaF9fVVl4OU9fYl8wSEVSZjk0R3BfZG4xTzlHMmNUMHlHNEg0UzhCRnc4MlRxc29GMjFha2JGRThZdzUwRkdzaUZrS3oxU3VMQ0daNnJuMGNKUGdTYl9hQjdLWWM3XzBWX0ZmcGhxRFozZjZsUjFXQ3NfcUVXSEJSXzNJYXF6RzY0Unl5VHFrb3g?oc=5",
+  "published_at": "Fri, 19 Jun 2026 07:58:57 GMT",
+  "published_ts": 1781855937,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjg1bmZsQm9yRm5YWUhBVWh5RjdaWHAtaF9fVVl4OU9fYl8wSEVSZjk0R3BfZG4xTzlHMmNUMHlHNEg0UzhCRnc4MlRxc29GMjFha2JGRThZdzUwRkdzaUZrS3oxU3VMQ0daNnJuMGNKUGdTYl9hQjdLWWM3XzBWX0ZmcGhxRFozZjZsUjFXQ3NfcUVXSEJSXzNJYXF6RzY0Unl5VHFrb3g?oc=5\" target=\"_blank\">SanDisk's New 8TB PlayStation 5 SSD Costs 3 Times More Than the Console</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag Middle East</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk released an 8TB PlayStation 5 SSD at a premium price point. While SanDisk is a DRAM fund holding, this is a consumer storage product announcement with no disclosed impact on memory pricing, capacity utilization, or the fund's financial outlook."
+  },
+  "buffered_ts": 1781864551.8609107
+ },
+ {
+  "id": "0d23d68e08ac4d1185e5076a03876800bbcd346f",
+  "source": "Stocktwits",
+  "topic": "fund",
+  "title": "SNDK Stock Hit Record Highs Amid Optimism Around DRAM ETF’s $1B AUM - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFOTGdla205eURCWDZkVThvTTl6SGVHSUhpaUFBNEU1OExKdWVQNWFmWEV4TlBFa1dvbnhpcTZ2Z0tHVDRoVUZVUFdTRUxrUm9TRFVJeUlYSUpSQXh4Z0J2eHFsUnBfZ1dMM3g1OE9BSUVSVWUyLXhwcTlLUm1JbzVjQ2ZsY3pSVXBxXzVmQ0RSRnI5YjdIWWJxQXdtV0VPVFlGeS15VEdPLXR3aklyUkU5dkxUSmRKMlRNbjc3dXp6WnM?oc=5",
+  "published_at": "Wed, 17 Jun 2026 21:53:10 GMT",
+  "published_ts": 1781733190,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFOTGdla205eURCWDZkVThvTTl6SGVHSUhpaUFBNEU1OExKdWVQNWFmWEV4TlBFa1dvbnhpcTZ2Z0tHVDRoVUZVUFdTRUxrUm9TRFVJeUlYSUpSQXh4Z0J2eHFsUnBfZ1dMM3g1OE9BSUVSVWUyLXhwcTlLUm1JbzVjQ2ZsY3pSVXBxXzVmQ0RSRnI5YjdIWWJxQXdtV0VPVFlGeS15VEdPLXR3aklyUkU5dkxUSmRKMlRNbjc3dXp6WnM?oc=5\" target=\"_blank\">SNDK Stock Hit Record Highs Amid Optimism Around DRAM ETF’s $1B AUM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "SanDisk (SNDK) stock mentioned in context of DRAM ETF reaching $1B in assets under management. The connection is tangential—stock performance is attributed broadly to 'optimism' around the fund milestone rather than to a concrete holding-specific catalyst or fund development."
+  },
+  "buffered_ts": 1781864551.8609107
  }
 ]
