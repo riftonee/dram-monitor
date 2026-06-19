@@ -100,5 +100,141 @@
    "summary": "Memory stocks MU and SNDK rally sharply; article asks what's behind the move but does not disclose a specific catalyst or concrete event—appears to be price-movement analysis rather than reporting a confirmed driver."
   },
   "buffered_ts": 1781877271.1582265
+ },
+ {
+  "id": "e344b99f3d05482a837cc8a0924c538e0badca40",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "SK hynix Ships 12-Layer HBM4E Samples Ahead of Schedule, Tightening the Race With Samsung - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQV93amJUTFVuUVJ3MHlIdXUyMXlnQUtkRWRmWUlZaWdSTHFtc1RaYTFtYW1NN1JrOTZmMXNveV9seGctc3B1U2ZxZjc5Y2pWM3l4RG8tUFlZVGhJdnYwMVJsSkhhZlU4MnZ0ckF5cGo0WG9BaWlHODJKVnFDU0cwX19oME5GbFpJelZDMnN1Z0J3SFlqSmc4RVhrVmFQbERkOGE1Yk1iQ0hMQl9QRWdaTHNCS3lTdnBCWnZJWHpQMkZwYzJfNWZTd05USQ?oc=5",
+  "published_at": "Fri, 19 Jun 2026 14:08:05 GMT",
+  "published_ts": 1781878085,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOQV93amJUTFVuUVJ3MHlIdXUyMXlnQUtkRWRmWUlZaWdSTHFtc1RaYTFtYW1NN1JrOTZmMXNveV9seGctc3B1U2ZxZjc5Y2pWM3l4RG8tUFlZVGhJdnYwMVJsSkhhZlU4MnZ0ckF5cGo0WG9BaWlHODJKVnFDU0cwX19oME5GbFpJelZDMnN1Z0J3SFlqSmc4RVhrVmFQbERkOGE1Yk1iQ0hMQl9QRWdaTHNCS3lTdnBCWnZJWHpQMkZwYzJfNWZTd05USQ?oc=5\" target=\"_blank\">SK hynix Ships 12-Layer HBM4E Samples Ahead of Schedule, Tightening the Race With Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK hynix has shipped 12-layer HBM4E samples ahead of schedule, advancing its high-bandwidth memory product roadmap and intensifying competition with Samsung in the critical HBM market for AI infrastructure."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "facf87bd9613ec4a8d037cdc4721eb25b1c634fc",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Why Intel Hired the Former CEO of Micron’s Big Rival SK Hynix - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjJBNWNPOGVIV2JuX2Z0X2s1VWhaUHdqUDgzcHVuX0x2N1R1a2Q3TFhUdm9kWFQyTE1PRVZ5ZkZNUVZTNHN5ZUFQa011OWdmRDctR0c0WXcxZk5tZDBWdDhSa0t4emdlaGJKYmFwcUZZdS1KMzBBejg3eXo1REhtTw?oc=5",
+  "published_at": "Fri, 19 Jun 2026 14:17:00 GMT",
+  "published_ts": 1781878620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjJBNWNPOGVIV2JuX2Z0X2s1VWhaUHdqUDgzcHVuX0x2N1R1a2Q3TFhUdm9kWFQyTE1PRVZ5ZkZNUVZTNHN5ZUFQa011OWdmRDctR0c0WXcxZk5tZDBWdDhSa0t4emdlaGJKYmFwcUZZdS1KMzBBejg3eXo1REhtTw?oc=5\" target=\"_blank\">Why Intel Hired the Former CEO of Micron’s Big Rival SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel hired the former CEO of SK Hynix, a major rival to Micron (a DRAM ETF holding). The move is strategically significant for memory-semiconductor leadership but represents personnel/organizational change rather than a concrete market event or earnings impact."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "8291d6b340f8fe659e5c076bdead8a186fc4cb96",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Dow Jones Top Company Headlines at 11 AM ET: Why Intel Hired the Former CEO of Micron's Big Rival SK Hynix - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmRQLUE2MkkzOW5wSlNFUUVlb01mX2t3UmhfSmxSWk4zVENWYkE1bWo2ZHRhWlNhSzNMNHRyUmd6UHR0WmlOQjJDX25WX1pWMGQ0T01UVFN0SGg0RkQzUVpaV1BnZE5yWEhnY1JqY1dZNmh5TzZ6ZmJ2Z2lNUGY5MHAxVVg2cjZkQk1OaFpScVZEZw?oc=5",
+  "published_at": "Fri, 19 Jun 2026 15:07:02 GMT",
+  "published_ts": 1781881622,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmRQLUE2MkkzOW5wSlNFUUVlb01mX2t3UmhfSmxSWk4zVENWYkE1bWo2ZHRhWlNhSzNMNHRyUmd6UHR0WmlOQjJDX25WX1pWMGQ0T01UVFN0SGg0RkQzUVpaV1BnZE5yWEhnY1JqY1dZNmh5TzZ6ZmJ2Z2lNUGY5MHAxVVg2cjZkQk1OaFpScVZEZw?oc=5\" target=\"_blank\">Dow Jones Top Company Headlines at 11 AM ET: Why Intel Hired the Former CEO of Micron's Big Rival SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel hired the former CEO of SK hynix, a major competitor to Micron. This represents a notable personnel move at a rival firm but lacks concrete details on impact to memory production, pricing, or Micron's business position. Relevant to DRAM holdings but speculative on actual market implications."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "edc5af560ed9f82e93bbd96157e1c5ce77dec4c6",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Intel Hires Former SK hynix CEO Seok-Hee Lee to Lead Its Foundry Packaging Push - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzVadk5UYy1SOVJVbmY5aEFHLWx5YS1jV3lsWldKMV9id1JEQ2w5ZnljNlBHZllsU2J3N3g2czVWN1NWRkJSX2xiX1B3ejhYSHd0R3p2dUlqYzd4dUpaU1dCSVN5WG8zSkZLTnRpYTE3Sm1kU3J6S0dmeVB1WENBeDZkYVNndWs3ZjR4c0ZQN3NVbTVORjBmZldfaTNiN2o0aENNbldNeHA3aTFFaERHckdqSTdwT1dSSlI3c3VaN0ppc0w0b0IxZS1lVQ?oc=5",
+  "published_at": "Fri, 19 Jun 2026 15:20:38 GMT",
+  "published_ts": 1781882438,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzVadk5UYy1SOVJVbmY5aEFHLWx5YS1jV3lsWldKMV9id1JEQ2w5ZnljNlBHZllsU2J3N3g2czVWN1NWRkJSX2xiX1B3ejhYSHd0R3p2dUlqYzd4dUpaU1dCSVN5WG8zSkZLTnRpYTE3Sm1kU3J6S0dmeVB1WENBeDZkYVNndWs3ZjR4c0ZQN3NVbTVORjBmZldfaTNiN2o0aENNbldNeHA3aTFFaERHckdqSTdwT1dSSlI3c3VaN0ppc0w0b0IxZS1lVQ?oc=5\" target=\"_blank\">Intel Hires Former SK hynix CEO Seok-Hee Lee to Lead Its Foundry Packaging Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Intel hires former SK hynix CEO Seok-Hee Lee to lead foundry packaging operations. While this involves a memory-industry veteran and signals Intel's strategic push into advanced packaging (relevant to the semiconductor supply chain), the announcement is about hiring and organizational structure rather than a concrete change in memory production, capacity, or pricing that would directly move DRAM holdings."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "d88f0ee25202149bb21ed503dec01b44bfbe9e42",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "SK hynix Shows Its Full AI-Server Memory Stack and CXL 3.2 Modules at HPE Discover - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczU4ZlNuUXBrbVc3OTBhUmhOTHRuZHFVcWxNaWd3UF9STHZkaUFCeUdlUGRISHVOVEZqNXpObkI1eGlrMjMzTFIyb2RjOWViQXV4eDR5WmxHR3hsX1lHc1p0bXRBYTd3SG1wVkZ1bm56UnRiUW5NWV9zNWo4R2ZYa3pxRndyejEtaC1Rd0FOT0ZObkVsNExJSkNTYXN6V245Z3k0dEhSVDJ6REpNbG1WZGRhLWxJRnhscEZNaC1hc0F4cGdLWUtjeg?oc=5",
+  "published_at": "Fri, 19 Jun 2026 16:01:48 GMT",
+  "published_ts": 1781884908,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczU4ZlNuUXBrbVc3OTBhUmhOTHRuZHFVcWxNaWd3UF9STHZkaUFCeUdlUGRISHVOVEZqNXpObkI1eGlrMjMzTFIyb2RjOWViQXV4eDR5WmxHR3hsX1lHc1p0bXRBYTd3SG1wVkZ1bm56UnRiUW5NWV9zNWo4R2ZYa3pxRndyejEtaC1Rd0FOT0ZObkVsNExJSkNTYXN6V245Z3k0dEhSVDJ6REpNbG1WZGRhLWxJRnhscEZNaC1hc0F4cGdLWUtjeg?oc=5\" target=\"_blank\">SK hynix Shows Its Full AI-Server Memory Stack and CXL 3.2 Modules at HPE Discover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix (a DRAM fund holding) has showcased its complete AI-server memory portfolio and CXL 3.2 modules at HPE Discover. This is a product demonstration and strategic positioning in high-bandwidth memory for AI infrastructure, but lacks concrete sales, capacity, or pricing data. It is relevant positioning but represents soft industry news rather than a confirmed market-moving event."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "e0416728f2792eb6648d9c32d2efe6526cb3d87a",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "Western Digital Stock - Friday sector check after strong AI tailwind - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkNOUGNCdGxfd2V3aEh6aDdZNEk5aDRlSzdVRVZnUzRMbUsxN0I1Yi00cVJTWUpSUU5iTE1Uc3dTcEhsNnRzNzhUQ3IyelRieGN5Y3JwMk9mWUFqdV96b2o2cXlkTkoyMG03cE94elFaMW5PdWNBVFBxcWdONXpVLUZnMGJtOWhHU3ItVlc0Z3NJWnMxUkhrdHRDT1hLSVNVMExkM3Z3QVVCUklwdHA1ZEg4bEJPZmU1TXE0SGRvcy1zaG8?oc=5",
+  "published_at": "Fri, 19 Jun 2026 15:25:25 GMT",
+  "published_ts": 1781882725,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkNOUGNCdGxfd2V3aEh6aDdZNEk5aDRlSzdVRVZnUzRMbUsxN0I1Yi00cVJTWUpSUU5iTE1Uc3dTcEhsNnRzNzhUQ3IyelRieGN5Y3JwMk9mWUFqdV96b2o2cXlkTkoyMG03cE94elFaMW5PdWNBVFBxcWdONXpVLUZnMGJtOWhHU3ItVlc0Z3NJWnMxUkhrdHRDT1hLSVNVMExkM3Z3QVVCUklwdHA1ZEg4bEJPZmU1TXE0SGRvcy1zaG8?oc=5\" target=\"_blank\">Western Digital Stock - Friday sector check after strong AI tailwind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, discussed in sector check noting strong AI tailwind. No concrete event, earnings, or guidance disclosed—this appears to be analyst commentary or a price-action piece on sector momentum rather than a material development."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "13c847528dd5cebc0664918171c794a99f380939",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "How SanDisk (SNDK) Is Tackling AI Storage Bottlenecks With Faster SSD Qualification - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2lLOXJVNlFHQlM1cFdvc3BVWWZUb1VZOTlkeXFTV25SMy00SUhYTEN0ZWpnUl9yelRhcVFQSjNnM3k0Q0ZsYWhuS3NiamxNSDVuUldvMHZMV0I0X1o2T0hZbWhXb0xmOVdoT3dQOV9YeGtRazFpUVZpeTl6SmtnOUE2bGEwMVExcDZ1VTlhbnlQNk9aTmxWaEdPbjk?oc=5",
+  "published_at": "Fri, 19 Jun 2026 14:33:14 GMT",
+  "published_ts": 1781879594,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2lLOXJVNlFHQlM1cFdvc3BVWWZUb1VZOTlkeXFTV25SMy00SUhYTEN0ZWpnUl9yelRhcVFQSjNnM3k0Q0ZsYWhuS3NiamxNSDVuUldvMHZMV0I0X1o2T0hZbWhXb0xmOVdoT3dQOV9YeGtRazFpUVZpeTl6SmtnOUE2bGEwMVExcDZ1VTlhbnlQNk9aTmxWaEdPbjk?oc=5\" target=\"_blank\">How SanDisk (SNDK) Is Tackling AI Storage Bottlenecks With Faster SSD Qualification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) is addressing AI storage bottlenecks through accelerated SSD qualification processes. This is a positive development for a key DRAM ETF holding, but it is product/strategy commentary rather than a confirmed market-moving event, earnings result, or hard financial impact."
+  },
+  "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "9f8ebd5d7f9a2c4b0257922ddb0721cb06b3070b",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "A Bloomberg Columnist Warns SpaceX, Samsung, and SK hynix Are Acting Like Meme Stocks - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVZPVjBIWDNxQ2tUSmFYV2ozdVRlS2cyQ1NVVk90RFlTSllCbEd4ZGRzY21SUm1hM3JISHlOeUZYaUVma0pjR1dsQjd0LTNjMjNFdkJhWGZNc1Znakw1TjFweEMtdFNFLUpUMEhudjJpN2d4c1BqQXpWMUR3a3pESTFGZndpUkpnTi1xNS02Skx2T2xjbEdIZEFrQzVpM1o2R3BDUjI4UmVnQXVtUTVWRW1NRVdLVjUxSmx2Vkx6Rk84bDRuTXdkazNBUEc?oc=5",
+  "published_at": "Fri, 19 Jun 2026 15:23:24 GMT",
+  "published_ts": 1781882604,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVZPVjBIWDNxQ2tUSmFYV2ozdVRlS2cyQ1NVVk90RFlTSllCbEd4ZGRzY21SUm1hM3JISHlOeUZYaUVma0pjR1dsQjd0LTNjMjNFdkJhWGZNc1Znakw1TjFweEMtdFNFLUpUMEhudjJpN2d4c1BqQXpWMUR3a3pESTFGZndpUkpnTi1xNS02Skx2T2xjbEdIZEFrQzVpM1o2R3BDUjI4UmVnQXVtUTVWRW1NRVdLVjUxSmx2Vkx6Rk84bDRuTXdkazNBUEc?oc=5\" target=\"_blank\">A Bloomberg Columnist Warns SpaceX, Samsung, and SK hynix Are Acting Like Meme Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "A Bloomberg columnist opines that Samsung and SK hynix (both DRAM ETF holdings) are behaving like meme stocks. This is opinion/analysis rather than a concrete event, and does not report actual price moves, earnings results, or business developments affecting the memory cycle."
+  },
+  "buffered_ts": 1781886697.0673335
  }
 ]
