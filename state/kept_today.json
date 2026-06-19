@@ -236,5 +236,107 @@
    "summary": "A Bloomberg columnist opines that Samsung and SK hynix (both DRAM ETF holdings) are behaving like meme stocks. This is opinion/analysis rather than a concrete event, and does not report actual price moves, earnings results, or business developments affecting the memory cycle."
   },
   "buffered_ts": 1781886697.0673335
+ },
+ {
+  "id": "bde9d18be448ef2203c44440a2ef9d2176ed02f4",
+  "source": "BBC",
+  "topic": "industry",
+  "title": "Apple boss Tim Cook says prices to rise due to memory chip costs - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHMUFiLVBVQVhqRlhQSW5qRFU3aTFTcEt3YXBIaG5vejVBNmlvNVBqc2ZoMHppUEU0Wk1yTllLQl9OSDNTeTZJUlAwU3RHTHpfaWVqUWp4d1dWdw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 14:03:27 GMT",
+  "published_ts": 1781791407,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHMUFiLVBVQVhqRlhQSW5qRFU3aTFTcEt3YXBIaG5vejVBNmlvNVBqc2ZoMHppUEU0Wk1yTllLQl9OSDNTeTZJUlAwU3RHTHpfaWVqUWp4d1dWdw?oc=5\" target=\"_blank\">Apple boss Tim Cook says prices to rise due to memory chip costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Apple CEO Tim Cook announced that consumer prices will rise due to elevated memory chip costs, signaling strong demand pressure and pricing power in the memory market that should benefit DRAM fund holdings like Micron, SK hynix, and Samsung."
+  },
+  "buffered_ts": 1781895161.6300552
+ },
+ {
+  "id": "f28acd442dde4ef6d1f0fc298174ea97af398eb1",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Sandisk Rose 12% Today on Apple’s Memory Warning. Here’s What Comes Next in 2026 - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkw2MVM2aUFmcVNTS18wZ28yT1hQT1k5MHRBVnlRaVVXNXJfYzhGWVVmcVB3NzV6b3MxQ1JOcHE3RHY3ZGY2WE1zNHBLc0tTMzZ2cXQ2RDNkNU9IZ3lnZFBocWJRY3pVZ1RIYzd2Zm85TGRXVUFNMnJ2MnZVbDhtU2pGdnRiNHRhazdsN0xVU0R3bXZOS2ZEeE91S3MxS3M3aFh1dw?oc=5",
+  "published_at": "Fri, 19 Jun 2026 13:25:21 GMT",
+  "published_ts": 1781875521,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkw2MVM2aUFmcVNTS18wZ28yT1hQT1k5MHRBVnlRaVVXNXJfYzhGWVVmcVB3NzV6b3MxQ1JOcHE3RHY3ZGY2WE1zNHBLc0tTMzZ2cXQ2RDNkNU9IZ3lnZFBocWJRY3pVZ1RIYzd2Zm85TGRXVUFNMnJ2MnZVbDhtU2pGdnRiNHRhazdsN0xVU0R3bXZOS2ZEeE91S3MxS3M3aFh1dw?oc=5\" target=\"_blank\">Sandisk Rose 12% Today on Apple’s Memory Warning. Here’s What Comes Next in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) rose 12% on Apple's memory warning. The article discusses Apple's semiconductor outlook and its implications for memory demand in 2026. While SNDK is a fund holding and memory-demand signals are relevant, a stock price move without a concrete catalyst (earnings, guidance, or deal announcement) and forward-looking analysis rather than a confirmed event warrants a 3 rating."
+  },
+  "buffered_ts": 1781895161.6300552
+ },
+ {
+  "id": "c3a657ccea81d17bdcbfb05cbaadd6ce489c54c1",
+  "source": "CNBC",
+  "topic": "industry",
+  "title": "Memory crisis hits such extremes that 'even Apple can't be safe' - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHhLdl9EZlk5dU14NktSbnNNdlZZcHdQd0sxYjM0QkpYMkRkRWl1NTc2V0ZjM2FjRjdrLUZ4SXpaMHVjUGlmNkxkWk00MFdLUnA1RUs1c3JoTVJTaUNlMVhVVWNMSTBBSmh5emtEbnZCMEdYeHBGSzd4Z3JIUzhTX2pUVmFPaVhqd2dHdWU5dlBYUlFWSVRjSnI3UGNJcWRl0gGmAUFVX3lxTE9UbF9EcWl1bmt1QmtRT2Jjd3VrNUpNSGJkSjN6UVd1UGFaVVhtRGx3ZDZkcmpnd2VULVE2ZVNUV3ZnM2M0WVZmMmJrRC1JNlV2aExfcGFBR3F6U25nYzRKbjVnejhaejRLTWtxZG1GWHczcWNMRk5RdGw4aUxYT1RJSXRDd0lETkFRamhEaEFHN09oaWZYSmk5cjRxTjZvbGtFeGQyM1E?oc=5",
+  "published_at": "Fri, 19 Jun 2026 12:00:02 GMT",
+  "published_ts": 1781870402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHhLdl9EZlk5dU14NktSbnNNdlZZcHdQd0sxYjM0QkpYMkRkRWl1NTc2V0ZjM2FjRjdrLUZ4SXpaMHVjUGlmNkxkWk00MFdLUnA1RUs1c3JoTVJTaUNlMVhVVWNMSTBBSmh5emtEbnZCMEdYeHBGSzd4Z3JIUzhTX2pUVmFPaVhqd2dHdWU5dlBYUlFWSVRjSnI3UGNJcWRl0gGmAUFVX3lxTE9UbF9EcWl1bmt1QmtRT2Jjd3VrNUpNSGJkSjN6UVd1UGFaVVhtRGx3ZDZkcmpnd2VULVE2ZVNUV3ZnM2M0WVZmMmJrRC1JNlV2aExfcGFBR3F6U25nYzRKbjVnejhaejRLTWtxZG1GWHczcWNMRk5RdGw4aUxYT1RJSXRDd0lETkFRamhEaEFHN09oaWZYSmk5cjRxTjZvbGtFeGQyM1E?oc=5\" target=\"_blank\">Memory crisis hits such extremes that 'even Apple can't be safe'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "CNBC reports on memory supply crisis severity, noting even major consumers like Apple face constraints. Analysis of tight memory market conditions affecting demand across the industry."
+  },
+  "buffered_ts": 1781895161.6300552
+ },
+ {
+  "id": "c2e2c8c276956f746402dad1b116aa75b5dd6617",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Tim Cook says Apple to hike prices amid memory chip shortage - report - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNeDd4ekFpQkh0cE55UmZUVktRRG81cF9qeGJRZmUxaDJFYjlzbjBMWEdxdUZQM3YtWDY1MWtLc0ZVTEF6RVZFamVMQ2tLamRmb2hpRmJuNWNvTzJZbnplMFpIN3NKVnZ6dzBmZXdCUERLSEVRN1Z3VG00aHVta3RzSThDSDNmZ2Y4T1JNek1IaWNRSU1VTEtKc1NUdkl2TlQ4NnREVm8ydjlRQTVEZ2JvQnQybmphbXdRNzBmSlEzT0UwbEJDZDhYMldBYXg2QmNvWUk0U1ZscE5uUlg4UVFlaldMRm9mNDVPanJrXzVZTHdrS21hcWNYRThfRElhY2tXVk1MQzdYdWhiN1BWV0VHaHNadUpOd0hLVG5HR3JJaFNfWWdjSUFzTm04MXIyNVBfS2ozQzFLNEZsMTNTVnMzYTJQaFprQ3FxbGlYWDA3cFZNdHhKRTBUTjRXUUJ1ZEt2Nzl0QkRGcVh2NS1XanJBXzN3?oc=5",
+  "published_at": "Thu, 18 Jun 2026 11:19:45 GMT",
+  "published_ts": 1781781585,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gJBVV95cUxNeDd4ekFpQkh0cE55UmZUVktRRG81cF9qeGJRZmUxaDJFYjlzbjBMWEdxdUZQM3YtWDY1MWtLc0ZVTEF6RVZFamVMQ2tLamRmb2hpRmJuNWNvTzJZbnplMFpIN3NKVnZ6dzBmZXdCUERLSEVRN1Z3VG00aHVta3RzSThDSDNmZ2Y4T1JNek1IaWNRSU1VTEtKc1NUdkl2TlQ4NnREVm8ydjlRQTVEZ2JvQnQybmphbXdRNzBmSlEzT0UwbEJDZDhYMldBYXg2QmNvWUk0U1ZscE5uUlg4UVFlaldMRm9mNDVPanJrXzVZTHdrS21hcWNYRThfRElhY2tXVk1MQzdYdWhiN1BWV0VHaHNadUpOd0hLVG5HR3JJaFNfWWdjSUFzTm04MXIyNVBfS2ozQzFLNEZsMTNTVnMzYTJQaFprQ3FxbGlYWDA3cFZNdHhKRTBUTjRXUUJ1ZEt2Nzl0QkRGcVh2NS1XanJBXzN3?oc=5\" target=\"_blank\">Tim Cook says Apple to hike prices amid memory chip shortage - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Tim Cook reports Apple will raise prices due to memory chip shortage, indicating tightened supply conditions and pricing pressure in the memory market that could affect DRAM ETF holdings, though the report is attributed and lacks concrete supply/pricing specifics."
+  },
+  "buffered_ts": 1781895161.6300552
+ },
+ {
+  "id": "5c98e57175afb60c2d4e7f61474dd30193e23348",
+  "source": "ThePrint",
+  "topic": "industry",
+  "title": "Apple to raise prices amid memory chip shortage, CEO Tim Cook tells WSJ - ThePrint",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0t1R2NNLTcxQkJ4YUkyYzNoRVJSV1JQV2NmU1o1Z2NwM29Tdkk1WlZXQkVXdjNqdmNCQ0otWGM1b2d3X2lTamN1cy1VSHo5bXVqOUhQRFZvTmtSMVdyNUQ3Z2lQRTUxVWFUZ3RLWTRUSF9rUnN0RHJrS0ZSWjdhQ2MyZk9XZVgydFRRcHFhZnN4cVBxUGJ2TVFMclM0V0s4emdkejdrb9IBrAFBVV95cUxPaldmb1BsYlEwMzN0amNBUThnaTZac3Q4QkJ2R0ZZLXo2cFVIbUEzanZXdTE5b1c1N1dOazBsdU5MU3dBOHFVRmV2Rkd3U2FJVGdtcHcyd1dsNnZCT2FaaHNCdDhjNzJ0bEgzODdJeTFDZGVYcHpVaTMzeURwdXVIbk5uQzB0MXlXLV9UdV9nWkpPTDE5clk1clQtUlN5ZWkwTmw2dDEwTl9RZFNK?oc=5",
+  "published_at": "Thu, 18 Jun 2026 02:30:00 GMT",
+  "published_ts": 1781749800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0t1R2NNLTcxQkJ4YUkyYzNoRVJSV1JQV2NmU1o1Z2NwM29Tdkk1WlZXQkVXdjNqdmNCQ0otWGM1b2d3X2lTamN1cy1VSHo5bXVqOUhQRFZvTmtSMVdyNUQ3Z2lQRTUxVWFUZ3RLWTRUSF9rUnN0RHJrS0ZSWjdhQ2MyZk9XZVgydFRRcHFhZnN4cVBxUGJ2TVFMclM0V0s4emdkejdrb9IBrAFBVV95cUxPaldmb1BsYlEwMzN0amNBUThnaTZac3Q4QkJ2R0ZZLXo2cFVIbUEzanZXdTE5b1c1N1dOazBsdU5MU3dBOHFVRmV2Rkd3U2FJVGdtcHcyd1dsNnZCT2FaaHNCdDhjNzJ0bEgzODdJeTFDZGVYcHpVaTMzeURwdXVIbk5uQzB0MXlXLV9UdV9nWkpPTDE5clk1clQtUlN5ZWkwTmw2dDEwTl9RZFNK?oc=5\" target=\"_blank\">Apple to raise prices amid memory chip shortage, CEO Tim Cook tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "Apple CEO Tim Cook tells WSJ the company will raise prices amid memory chip shortage. This is forward-looking commentary on pricing pressure and demand dynamics that could affect memory chip pricing and demand, but it is a statement of intent/possibility rather than a confirmed price increase or a binding supply agreement. Relevant to industry conditions but soft on concrete impact."
+  },
+  "buffered_ts": 1781895161.6300552
+ },
+ {
+  "id": "9f213955cc30249ae3919c9e263156e6a687f757",
+  "source": "TechStock²",
+  "topic": "pricing",
+  "title": "Apple’s price changes draw attention to AI memory issues; Micron stock climbs - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnVjcC1iMHNnUmVFcy1NR0JOaDdzOThhZ3cwcEd5dHRDZjZweFFQOUVVYUJSQm5OV0c0eENKd3g2dFhGTVljbzJPTlhtNm9EV1JVR3hNYlMxSGRTNzdIUlVBOXFuLU9sdlVWbVo2aDVWQnhjZVJMQlBvNEJPZERTMkd2U0x4S2d6LWVLY3AzeUpsZlZoVzB4M2haOVk?oc=5",
+  "published_at": "Fri, 19 Jun 2026 10:05:42 GMT",
+  "published_ts": 1781863542,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnVjcC1iMHNnUmVFcy1NR0JOaDdzOThhZ3cwcEd5dHRDZjZweFFQOUVVYUJSQm5OV0c0eENKd3g2dFhGTVljbzJPTlhtNm9EV1JVR3hNYlMxSGRTNzdIUlVBOXFuLU9sdlVWbVo2aDVWQnhjZVJMQlBvNEJPZERTMkd2U0x4S2d6LWVLY3AzeUpsZlZoVzB4M2haOVk?oc=5\" target=\"_blank\">Apple’s price changes draw attention to AI memory issues; Micron stock climbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple's pricing moves highlight AI memory demand concerns; Micron stock rose on the report. The story connects Apple's strategy to underlying memory market dynamics and notes a stock move, but provides no concrete pricing data, guidance change, or disclosed catalyst for Micron's climb—making it analysis-driven rather than event-based."
+  },
+  "buffered_ts": 1781895161.6300552
  }
 ]
