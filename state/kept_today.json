@@ -238,5 +238,77 @@
    "summary": "Yahoo Finance analysis questioning whether Seagate's 7x stock rally reflects fair valuation given AI storage demand. This is a valuation/opinion piece rather than a concrete event or confirmed catalyst, making it analysis-driven commentary on the holding's recent performance."
   },
   "buffered_ts": 1781983232.107515
+ },
+ {
+  "id": "d261f2cffc72b41a05eafc2d97f9da1cceb1b5d4",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SanDisk Stock Looks Wildly Overbought, But SNDK’s Chart and Fundamentals Say It Can Keep Climbing - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNektVMWE5aTdRV3h4OU5uTkFjYlg0MUQ2QWxrZ0dOS3dISzlKSGFGZlZKWmIyb0pZZ3FWZHp0cFFmNEFkZThjQy1FZ0Rxdm1zSXBzczhDbjRQWm9Id2lqd251emltSlJuMHdXNEduUk1PWUI2eVd2SUswdTRQSWc0aDJDRWZCZGRqOEMxNmVJdkIwYnd3cEVmYlNral84RGJ5eTFpTg?oc=5",
+  "published_at": "Sat, 20 Jun 2026 14:00:02 GMT",
+  "published_ts": 1781964002,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNektVMWE5aTdRV3h4OU5uTkFjYlg0MUQ2QWxrZ0dOS3dISzlKSGFGZlZKWmIyb0pZZ3FWZHp0cFFmNEFkZThjQy1FZ0Rxdm1zSXBzczhDbjRQWm9Id2lqd251emltSlJuMHdXNEduUk1PWUI2eVd2SUswdTRQSWc0aDJDRWZCZGRqOEMxNmVJdkIwYnd3cEVmYlNral84RGJ5eTFpTg?oc=5\" target=\"_blank\">SanDisk Stock Looks Wildly Overbought, But SNDK’s Chart and Fundamentals Say It Can Keep Climbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Technical analysis article on SanDisk (SNDK) suggesting the stock appears overbought but charts and fundamentals support further upside. This is analyst opinion/technical commentary rather than a concrete event or earnings-driven catalyst."
+  },
+  "buffered_ts": 1781988576.392189
+ },
+ {
+  "id": "7a6b9f8f322f3ec548547fbe48c7cbaa9629e5b7",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Top BofA Analyst Explains Why Sandisk Has More Upside After 4,755% Surge - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczk0anNVdEc5MlZGM3BIM3lRVi1WMF9wS0JKV2ZlbzRyblk4aHFYTDFodjRRVV9hSGZRS2JLY3dyLTdPYmNoX0x5bzNqZXVKNDhXazZxNS1nMXBsSG5aSUE5M1VrU2l5anZuanpDU3d2WGloUzNCNm5GcmJfRWhpUG1fMXRhRll6UExIU3d2OU9xY3dkS3Fad3ZrM3RJUWYzczlkcHN6ZnFESzNkLUJZNXkzT0tOV3hwajJiazNzc3dscFdGOHc?oc=5",
+  "published_at": "Sat, 20 Jun 2026 20:14:35 GMT",
+  "published_ts": 1781986475,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQczk0anNVdEc5MlZGM3BIM3lRVi1WMF9wS0JKV2ZlbzRyblk4aHFYTDFodjRRVV9hSGZRS2JLY3dyLTdPYmNoX0x5bzNqZXVKNDhXazZxNS1nMXBsSG5aSUE5M1VrU2l5anZuanpDU3d2WGloUzNCNm5GcmJfRWhpUG1fMXRhRll6UExIU3d2OU9xY3dkS3Fad3ZrM3RJUWYzczlkcHN6ZnFESzNkLUJZNXkzT0tOV3hwajJiazNzc3dscFdGOHc?oc=5\" target=\"_blank\">Top BofA Analyst Explains Why Sandisk Has More Upside After 4,755% Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BofA analyst commentary on SanDisk upside potential following a substantial stock price surge. While SanDisk is a direct fund holding, analyst opinion and price-target commentary without a concrete catalyst or earnings/guidance trigger is soft analysis rather than a market-moving event."
+  },
+  "buffered_ts": 1781988576.392189
+ },
+ {
+  "id": "c16ab49f7990293be3f31ea2da3f4a1497ab4e7b",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEhBYlZRWXpKemtrTjZxTWFCZGFVZGhPOFFEcHFFc3QwUjNMc1NDUm51UFdFcjhYTDg1YlczcTRoNnlLSHMtU21UNWRNRE1HbTlWaGV2TDZMbU9hV3kxMkR6cGFHcXIyNzYzeUNHMkItZFhCT0l4YnlFRWdycHFEdDZLOUM5REUzNnJzOUZHTEczWUJIYWpLdExlTUxDYzh0Mm1OTWVQaXBQbExBY2hBdFRaMlBNLVl3eHlPV1B5M0tRU1V5QV9nUg?oc=5",
+  "published_at": "Sat, 20 Jun 2026 18:01:06 GMT",
+  "published_ts": 1781978466,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEhBYlZRWXpKemtrTjZxTWFCZGFVZGhPOFFEcHFFc3QwUjNMc1NDUm51UFdFcjhYTDg1YlczcTRoNnlLSHMtU21UNWRNRE1HbTlWaGV2TDZMbU9hV3kxMkR6cGFHcXIyNzYzeUNHMkItZFhCT0l4YnlFRWdycHFEdDZLOUM5REUzNnJzOUZHTEczWUJIYWpLdExlTUxDYzh0Mm1OTWVQaXBQbExBY2hBdFRaMlBNLVl3eHlPV1B5M0tRU1V5QV9nUg?oc=5\" target=\"_blank\">Apple to raise prices due to memory chip shortage, CEO tells WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple CEO reports to WSJ that the company plans to raise prices in response to a memory chip shortage. This indicates sustained demand pressure and pricing power in the memory market, relevant to DRAM holdings, but the statement is a forward-looking intention rather than a confirmed price change or quantified shortage metric."
+  },
+  "buffered_ts": 1781988576.392189
  }
 ]
