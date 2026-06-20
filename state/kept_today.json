@@ -712,5 +712,101 @@
    "summary": "SanDisk stock reportedly jumped 11% on claims that Apple has confirmed unavoidable memory price hikes. However, the headline and snippet lack concrete details about the actual price move driver, Apple's formal announcement, or verified price increases. This reads as market analysis or speculation about pricing trends rather than a confirmed event with disclosed hard numbers or official guidance."
   },
   "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "c8a04b9c5a802185145bba8ea4bcb055c8e7001a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SanDisk Jumps 11%, Western Digital Rises 7% After Apple Flags “Unavoidable” Memory Price Hikes - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEw2eG5YQnlpQzlvZnpNY29yXzI0WDl4R0xfRHdaTXdsU012bmplbW1tazZvQmRkNDJoVktHakRsS3FnZ3hBeUdfSFFhVmo4aXVaN0Q5VFhMVmlGOUR3emZOUko0MVdtQjI0UTZNZVdFRkhzc0lCcWVmVkpraXpNQmJOZUFuTUh6MjF6MklucDZORGhZT0JyenhaNlJLdw?oc=5",
+  "published_at": "Thu, 18 Jun 2026 15:59:42 GMT",
+  "published_ts": 1781798382,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeEw2eG5YQnlpQzlvZnpNY29yXzI0WDl4R0xfRHdaTXdsU012bmplbW1tazZvQmRkNDJoVktHakRsS3FnZ3hBeUdfSFFhVmo4aXVaN0Q5VFhMVmlGOUR3emZOUko0MVdtQjI0UTZNZVdFRkhzc0lCcWVmVkpraXpNQmJOZUFuTUh6MjF6MklucDZORGhZT0JyenhaNlJLdw?oc=5\" target=\"_blank\">SanDisk Jumps 11%, Western Digital Rises 7% After Apple Flags “Unavoidable” Memory Price Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "SanDisk and Western Digital stocks rose sharply (11% and 7% respectively) following Apple's public acknowledgment of unavoidable memory price increases. This represents a concrete, market-moving event confirming pricing power in the memory cycle and directly impacting two fund holdings."
+  },
+  "buffered_ts": 1781943620.5568812
+ },
+ {
+  "id": "b33e40f8f6dcde9908b5a7def6823e1e4f0b8a70",
+  "source": "TechStock²",
+  "topic": "pricing",
+  "title": "Kioxia Holdings hits all-time high on Tokyo market with AI NAND buying - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWTJjMUQ1aHhGdHlQdlRXd0pyRHRhVnEzS21YbmxNWkNrOXE0QVo2c2NYN3pqOWl4ejQ0akp3ck5UVVduV3lMMDZvZnotUUFXbUNhdU13MzhqQlpUa3hFQTQzTHJJTGIyZXJFMFZDdGlnc1JSNEdLV2l6dUlpbnp2QktDRTJzN2haMlc2Uy04T1kxT2NvcVE?oc=5",
+  "published_at": "Fri, 19 Jun 2026 13:55:50 GMT",
+  "published_ts": 1781877350,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWTJjMUQ1aHhGdHlQdlRXd0pyRHRhVnEzS21YbmxNWkNrOXE0QVo2c2NYN3pqOWl4ejQ0akp3ck5UVVduV3lMMDZvZnotUUFXbUNhdU13MzhqQlpUa3hFQTQzTHJJTGIyZXJFMFZDdGlnc1JSNEdLV2l6dUlpbnp2QktDRTJzN2haMlc2Uy04T1kxT2NvcVE?oc=5\" target=\"_blank\">Kioxia Holdings hits all-time high on Tokyo market with AI NAND buying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Kioxia hits all-time high driven by AI-driven NAND buying demand. Concrete market event (stock at record high) with stated cause (AI NAND demand), indicating pricing strength in memory sector that affects fund holdings like SanDisk and Western Digital."
+  },
+  "buffered_ts": 1781943620.5568812
+ },
+ {
+  "id": "413b7da865e2dc9845413199a74e01c09b43487a",
+  "source": "igor´sLAB",
+  "topic": "holding",
+  "title": "Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGRS1IZWR4TVExazREallkVV9FOGR0NkU5Ti1WeENTTXdFVmppVGZEX3N0eVdyY1FYdE8yam9hWGx6dXNMSkQza1ExNGg?oc=5",
+  "published_at": "Sat, 20 Jun 2026 04:00:00 GMT",
+  "published_ts": 1781928000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGRS1IZWR4TVExazREallkVV9FOGR0NkU5Ti1WeENTTXdFVmppVGZEX3N0eVdyY1FYdE8yam9hWGx6dXNMSkQza1ExNGg?oc=5\" target=\"_blank\">Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "igor´sLAB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Intel hires former SK hynix chief to lead advanced packaging (EMIB-T and HBI) as a foundry focus. While this signals Intel's strategic pivot toward packaging-intensive chip designs and could affect memory-interface demand, the announcement is organizational/strategic positioning rather than a concrete capacity, production, or pricing event. SK hynix is a DRAM fund holding, but this story concerns Intel's internal packaging strategy, not hynix's memory operations directly."
+  },
+  "buffered_ts": 1781943620.5568812
+ },
+ {
+  "id": "9752fbfa6857fc4517c17fcc3077bafb06be8666",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Buying Share Hits 45%, Triples in a Year - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVVEQklDUUczU0d6NV9yY2ZXYV9tSkJtTGdFZTBGV3B4REEyQUtYcW1LUjdzZ1VlUFFDSEVoVHhKejVUaHFPZE42LWUtSkJma1owdVEwYmo0MTBnVENaaWxabXhxWjRfOUdQeUlrZ1NFTlVxdXNMTTVmQ2NsMy0xLS0wbGJ5V21KRjNOM0F2UG9OOEd0WHBLenF4M3NtWWdFLUE?oc=5",
+  "published_at": "Sat, 20 Jun 2026 01:06:05 GMT",
+  "published_ts": 1781917565,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVVEQklDUUczU0d6NV9yY2ZXYV9tSkJtTGdFZTBGV3B4REEyQUtYcW1LUjdzZ1VlUFFDSEVoVHhKejVUaHFPZE42LWUtSkJma1owdVEwYmo0MTBnVENaaWxabXhxWjRfOUdQeUlrZ1NFTlVxdXNMTTVmQ2NsMy0xLS0wbGJ5V21KRjNOM0F2UG9OOEd0WHBLenF4M3NtWWdFLUE?oc=5\" target=\"_blank\">Samsung, SK hynix Buying Share Hits 45%, Triples in a Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix combined buyback share reached 45% and tripled over the past year according to Seoul Economic Daily. Buyback activity signals management confidence and can support valuations, but this is a reported observation of past activity rather than a new announced program or concrete near-term catalyst. Relevant to both holdings but soft impact."
+  },
+  "buffered_ts": 1781943620.5568812
  }
 ]
