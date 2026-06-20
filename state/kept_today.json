@@ -559,5 +559,56 @@
    "summary": "Yahoo Finance analysis comparing Micron and SanDisk valuations and upside potential, suggesting SanDisk may offer better risk-reward. This is analyst opinion/commentary on holdings rather than a concrete event or confirmed catalyst."
   },
   "buffered_ts": 1781909618.1345186
+ },
+ {
+  "id": "77a648bf9ce4ad675a67b9c0f614fd0743e0ca65",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Dow Jones Top Company Headlines at 7 PM ET: Why Intel Hired the Former CEO of Micron's Big Rival SK Hynix | Charles ... - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXNBcWplYVphdlJLdm9udjVLd1FFM3FXdkNSZ0k3OHg1ZmZRTkM1akhHOFpRWmJoc1U4UVJmNEZsWWJZQmIwQ2h3R01NWk5KSl91RTR6eURYZllMSjhiWlNMVmlrSlFfWUo2VUFpU1hkWEctTjdkT2lDakNNNDlTcWpqNDJmRE9vTGsxa0doQ0s?oc=5",
+  "published_at": "Fri, 19 Jun 2026 23:03:19 GMT",
+  "published_ts": 1781910199,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXNBcWplYVphdlJLdm9udjVLd1FFM3FXdkNSZ0k3OHg1ZmZRTkM1akhHOFpRWmJoc1U4UVJmNEZsWWJZQmIwQ2h3R01NWk5KSl91RTR6eURYZllMSjhiWlNMVmlrSlFfWUo2VUFpU1hkWEctTjdkT2lDakNNNDlTcWpqNDJmRE9vTGsxa0doQ0s?oc=5\" target=\"_blank\">Dow Jones Top Company Headlines at 7 PM ET: Why Intel Hired the Former CEO of Micron's Big Rival SK Hynix | Charles ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel hired the former CEO of SK Hynix (a major memory competitor and DRAM ETF holding). While this signals potential strategic shifts at Intel in memory/semiconductor leadership, the news is framed as analysis/commentary ('Why Intel hired...') rather than a confirmed concrete event with disclosed market implications. Relevant to holdings but lacks hard specifics on execution or impact."
+  },
+  "buffered_ts": 1781913998.8578334
+ },
+ {
+  "id": "fcb8d49a7237c19efd400e524629c69cb4849f26",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Samsung, Micron, SK Hynix squeeze consumer tech amid chip shortage - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fa0kxZ09HRTNLeEFoTHZKXzhyVGdaWnpVM05Lc1V6MllrSXZwUWVxa3ZwZ01IdW9NNlV6eW1Gb2JjeWNfOG5ocDZHdWtEQ05MTG1JWFBZZ3FWNmpWekN4S2ZMV1ZLbThhR2F0VTRramhyRUU?oc=5",
+  "published_at": "Fri, 19 Jun 2026 23:09:49 GMT",
+  "published_ts": 1781910589,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9fa0kxZ09HRTNLeEFoTHZKXzhyVGdaWnpVM05Lc1V6MllrSXZwUWVxa3ZwZ01IdW9NNlV6eW1Gb2JjeWNfOG5ocDZHdWtEQ05MTG1JWFBZZ3FWNmpWekN4S2ZMV1ZLbThhR2F0VTRramhyRUU?oc=5\" target=\"_blank\">Samsung, Micron, SK Hynix squeeze consumer tech amid chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung, Micron, and SK Hynix mentioned in context of chip shortage affecting consumer tech. Generic industry commentary on supply dynamics and competitive positioning without concrete pricing data, production cut announcements, or earnings impacts. Soft analysis rather than a confirmed event."
+  },
+  "buffered_ts": 1781913998.8578334
+ },
+ {
+  "id": "0828c7d1d852659ae9f663ba2060acab93eee366",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Tim Cook says Apple to hike prices amid memory chip shortage - report - MSN",
+  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQcEt4bFpTMlFJXy1YZnJiLWQyck9lbGpxbDhRVkh3akFTaTVDWm90QnJzMmxUWnRmZWpVR2NXeVZ5Wnlsb2NSbDVxbEx5MEFOd2s1aktQZXNNTkpYSDE4WWpwQ1lyTl9ZTmZlVF9XMnVNRW9oLXZ0MVFxdmxGdHBjTXZ3RFg0RmRjMk1xM0FjalFOOFAyV1JwUHNSSHIzVDlPc3RoNUlCaW9GemFJbElmampldHlSdTc4NFB5QmZGdjIxZ2lsVU9rdWstMXpWS012TWVpbHh2M0JSN2FsR28tNmVpT1YyVXBELVhXR2E3T05BUDl5U1dXZFhCbjUwTVFYZEEwRkJpN3ZuTHV5UG8wdkxtMXlPY0FybFVmS0JscDZIM0JRYjNobFpEVnBydllJVVpyUGFKUFF3RUtNZmFXaG9GWjJUWElSSXl6a3d6MA?oc=5",
+  "published_at": "Fri, 19 Jun 2026 18:06:51 GMT",
+  "published_ts": 1781892411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxQcEt4bFpTMlFJXy1YZnJiLWQyck9lbGpxbDhRVkh3akFTaTVDWm90QnJzMmxUWnRmZWpVR2NXeVZ5Wnlsb2NSbDVxbEx5MEFOd2s1aktQZXNNTkpYSDE4WWpwQ1lyTl9ZTmZlVF9XMnVNRW9oLXZ0MVFxdmxGdHBjTXZ3RFg0RmRjMk1xM0FjalFOOFAyV1JwUHNSSHIzVDlPc3RoNUlCaW9GemFJbElmampldHlSdTc4NFB5QmZGdjIxZ2lsVU9rdWstMXpWS012TWVpbHh2M0JSN2FsR28tNmVpT1YyVXBELVhXR2E3T05BUDl5U1dXZFhCbjUwTVFYZEEwRkJpN3ZuTHV5UG8wdkxtMXlPY0FybFVmS0JscDZIM0JRYjNobFpEVnBydllJVVpyUGFKUFF3RUtNZmFXaG9GWjJUWElSSXl6a3d6MA?oc=5\" target=\"_blank\">Tim Cook says Apple to hike prices amid memory chip shortage - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple reportedly considering price increases due to memory chip shortage. While relevant to memory demand dynamics, this is a report of Apple's strategic response rather than a concrete supply/capacity event or confirmed pricing shift. Represents forward-looking commentary rather than a settled market development."
+  },
+  "buffered_ts": 1781913998.8578334
  }
 ]
