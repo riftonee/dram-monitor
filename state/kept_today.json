@@ -610,5 +610,107 @@
    "summary": "Apple reportedly considering price increases due to memory chip shortage. While relevant to memory demand dynamics, this is a report of Apple's strategic response rather than a concrete supply/capacity event or confirmed pricing shift. Represents forward-looking commentary rather than a settled market development."
   },
   "buffered_ts": 1781913998.8578334
+ },
+ {
+  "id": "3716244e03eb6f2bef4222eec7545db5427b326f",
+  "source": "igor´sLAB",
+  "topic": "holding",
+  "title": "SK hynix ships 48 GB HBM4E samples: 16 Gbit/s per pin and improved thermals for upcoming AI chips - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjBoQlJFMzZpLXNsTlJfeVF5WmpTcVFXdW1hcWV6NmFRWkhmNGpBSzRSZy1CREFEY2RQYmV3enF3THMzaTR2RGVGNEZDWHZfS0E4b3hqUGMwSC0tcHFfR193cjVubVNueW5rb3d5Q3ZYY1ZIeFZENFJELXdMWEJqNU9SZHZTZThacVFGSjNhV1FuZw?oc=5",
+  "published_at": "Sat, 20 Jun 2026 04:00:00 GMT",
+  "published_ts": 1781928000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjBoQlJFMzZpLXNsTlJfeVF5WmpTcVFXdW1hcWV6NmFRWkhmNGpBSzRSZy1CREFEY2RQYmV3enF3THMzaTR2RGVGNEZDWHZfS0E4b3hqUGMwSC0tcHFfR193cjVubVNueW5rb3d5Q3ZYY1ZIeFZENFJELXdMWEJqNU9SZHZTZThacVFGSjNhV1FuZw?oc=5\" target=\"_blank\">SK hynix ships 48 GB HBM4E samples: 16 Gbit/s per pin and improved thermals for upcoming AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has shipped 48 GB HBM4E samples with 16 Gbit/s per pin and improved thermal performance for AI chips. This is a concrete product milestone demonstrating progress in high-bandwidth memory production and capability, directly material to a key holding's HBM competitiveness and AI infrastructure demand cycle."
+  },
+  "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "f6b48c6033ee47a35cfcc0afb6f7589988cf41cd",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Buying Share Hits 45%, Triples in a Year - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3BoVlRPcWpGaFRoZWh2R2Z5T2NlVWZDNkVpSXpCNlEyY2FUaUZfZzc0VllrS0F5X3ZnNktPUUlYOXJubDRUel9FbW5hOWRodGFpMVNuVkJ1ZnFXLXc3NG1zbmVob3pMYWlueUViU3NlVzNsQmJ4T1ozTnRRV3dMWFhwanN0VFA2SUx0Yzlhbnk0d3gyYm1YTkJHY1NFOFFoSHc?oc=5",
+  "published_at": "Sat, 20 Jun 2026 01:06:05 GMT",
+  "published_ts": 1781917565,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3BoVlRPcWpGaFRoZWh2R2Z5T2NlVWZDNkVpSXpCNlEyY2FUaUZfZzc0VllrS0F5X3ZnNktPUUlYOXJubDRUel9FbW5hOWRodGFpMVNuVkJ1ZnFXLXc3NG1zbmVob3pMYWlueUViU3NlVzNsQmJ4T1ozTnRRV3dMWFhwanN0VFA2SUx0Yzlhbnk0d3gyYm1YTkJHY1NFOFFoSHc?oc=5\" target=\"_blank\">Samsung, SK hynix Buying Share Hits 45%, Triples in a Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK hynix combined buyback activity has reached 45% of total market buybacks, tripling year-over-year. This signals strong capital return to shareholders and reflects confidence in the memory cycle recovery at two major DRAM/NAND holdings."
+  },
+  "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "1a6c9dbd55f9c267bb7ae2ad1cc179bf09c3b4a7",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Intel Hires Former SK hynix CEO Lee Seok-hee to Lead Foundry - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjFEdXZfUXNGU1lQNjlGaldZN015VXU4ZkN4d3NHU1Y2dDhJX2M2T0FpSFRDUlhCUFM4MGVFVmR2U1dETFRyME1UYktzWFBWTndWN09FdkZHN2tyRE1mYjJkZER1Tm5XZTIwYi0wSXdPY3NadlRUTFVpdWk2WGJfNXpvRVpuVFA0SXFSc21IOEdCbjJWb19RSUxLQmo5SmE1MjNiNQ?oc=5",
+  "published_at": "Sat, 20 Jun 2026 01:05:05 GMT",
+  "published_ts": 1781917505,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjFEdXZfUXNGU1lQNjlGaldZN015VXU4ZkN4d3NHU1Y2dDhJX2M2T0FpSFRDUlhCUFM4MGVFVmR2U1dETFRyME1UYktzWFBWTndWN09FdkZHN2tyRE1mYjJkZER1Tm5XZTIwYi0wSXdPY3NadlRUTFVpdWk2WGJfNXpvRVpuVFA0SXFSc21IOEdCbjJWb19RSUxLQmo5SmE1MjNiNQ?oc=5\" target=\"_blank\">Intel Hires Former SK hynix CEO Lee Seok-hee to Lead Foundry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Intel has hired Lee Seok-hee, former SK hynix CEO, to lead its foundry operations. This is a concrete, material executive appointment that signals Intel's strategic shift toward foundry services and brings memory-industry expertise to a major semiconductor player. SK hynix is a core DRAM holding, and this move affects competitive dynamics and industry structure."
+  },
+  "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "e1742ba070c3c6448d3a1e7219acde4acf24b906",
+  "source": "igor´sLAB",
+  "topic": "holding",
+  "title": "Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpoNElJTUpTYnBGSjR2eXZZbHhsOWFjWVZUYVdQb05XbzhCNnNXNVQyOWJwcjg3dExvcG9aeTZvcnJ0YVk5U3RLSlhVQVNnZm5IZl9UeU5QRkktVjROUW54a3NKR0wwSTRJX1JBR09pQ3FPcDFjaGdqX091ZWYzQmNEaw?oc=5",
+  "published_at": "Sat, 20 Jun 2026 04:00:00 GMT",
+  "published_ts": 1781928000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpoNElJTUpTYnBGSjR2eXZZbHhsOWFjWVZUYVdQb05XbzhCNnNXNVQyOWJwcjg3dExvcG9aeTZvcnJ0YVk5U3RLSlhVQVNnZm5IZl9UeU5QRkktVjROUW54a3NKR0wwSTRJX1JBR09pQ3FPcDFjaGdqX091ZWYzQmNEaw?oc=5\" target=\"_blank\">Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel appoints former SK hynix chief to lead advanced packaging (EMIB-T and HBI) as a foundry focus. While this involves a holding (SK hynix personnel move) and touches on packaging technology relevant to memory systems, the story reports an organizational/personnel change rather than a concrete event affecting memory supply, pricing, or demand. No production targets, capacity announcements, or commercial deals are disclosed."
+  },
+  "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "5f39c1ca55e1de21c7d4d2e9812aa0abd1151afe",
+  "source": "techi.com",
+  "topic": "pricing",
+  "title": "The AI Memory Crunch Reached Your iPhone. Sandisk and Micron Cashed In. - techi.com",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3VE4yMGJYTmx0bXpCLUNVTmdJNVF4YkRpb2MyclJKOTd0WmhfeU9lb3o2VjloMFVpdDBlQXYxSG5vcVpNdzRzcmNrLWV6VTY4TFBiVmd4bnJVUWxNYldtVDRubDAzV3F3Q2prSVBkM1NWNmFneURV?oc=5",
+  "published_at": "Fri, 19 Jun 2026 12:18:48 GMT",
+  "published_ts": 1781871528,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB3VE4yMGJYTmx0bXpCLUNVTmdJNVF4YkRpb2MyclJKOTd0WmhfeU9lb3o2VjloMFVpdDBlQXYxSG5vcVpNdzRzcmNrLWV6VTY4TFBiVmd4bnJVUWxNYldtVDRubDAzV3F3Q2prSVBkM1NWNmFneURV?oc=5\" target=\"_blank\">The AI Memory Crunch Reached Your iPhone. Sandisk and Micron Cashed In.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techi.com</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Article reports that AI-driven memory demand extended to consumer devices like iPhones, benefiting SanDisk and Micron. While it names both holdings and addresses memory pricing/demand dynamics relevant to the fund, the piece appears to be analysis or commentary rather than reporting a concrete event, earnings result, or confirmed price move with a stated catalyst."
+  },
+  "buffered_ts": 1781931037.4601808
+ },
+ {
+  "id": "1419bac69dfacea4e797bd8bbcd65af02f4305df",
+  "source": "Analytics Insight",
+  "topic": "pricing",
+  "title": "Sandisk Stock Jumps 11% as Apple Confirms Unavoidable Memory Price Hikes - Analytics Insight",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlBsSkhHemVYalhpeTA3VFlaVXR2aG9UOFpYWXdOQm5QaTVFQ3lmcm4taXNRZHZmelFOenNBc0FoUjg3b3hSSHZWenZfVTlfdE9ReWFCdlVicXAyMUE0UllHQnVJem9LUFEzbmVacVJUSXk0NVo0VERKQkhUMnAwWWEwazRaWkRpbHBEaUlMNVc5QWhEeTdSNWFkM0FoeXBBWnZOYy1QQ1o2WXpia0HSAbsBQVVfeXFMUFl3WjFrNURwTHRSYnVJZFJ6LThoNFdMRjNxWk4yOVRHdDlfR1lOR2Z1Y3A5aUFmQkV3TGU1Z2U4bDFma19ZaWttNWxWLS0zZkFXQVpfb05wWEh3WW5VQTRvSlpmUHprMjlPUEczZ0FxY2REV1hsZkRkUW9DS3IzWWQ2Y3FnTDV5bktQc0VnR1g1T1VVb21qdnYxMmJuMlY2eEZ2V0RZSDc1UndlYmozTEcxVDlzREtua0FROA?oc=5",
+  "published_at": "Fri, 19 Jun 2026 14:30:00 GMT",
+  "published_ts": 1781879400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORlBsSkhHemVYalhpeTA3VFlaVXR2aG9UOFpYWXdOQm5QaTVFQ3lmcm4taXNRZHZmelFOenNBc0FoUjg3b3hSSHZWenZfVTlfdE9ReWFCdlVicXAyMUE0UllHQnVJem9LUFEzbmVacVJUSXk0NVo0VERKQkhUMnAwWWEwazRaWkRpbHBEaUlMNVc5QWhEeTdSNWFkM0FoeXBBWnZOYy1QQ1o2WXpia0HSAbsBQVVfeXFMUFl3WjFrNURwTHRSYnVJZFJ6LThoNFdMRjNxWk4yOVRHdDlfR1lOR2Z1Y3A5aUFmQkV3TGU1Z2U4bDFma19ZaWttNWxWLS0zZkFXQVpfb05wWEh3WW5VQTRvSlpmUHprMjlPUEczZ0FxY2REV1hsZkRkUW9DS3IzWWQ2Y3FnTDV5bktQc0VnR1g1T1VVb21qdnYxMmJuMlY2eEZ2V0RZSDc1UndlYmozTEcxVDlzREtua0FROA?oc=5\" target=\"_blank\">Sandisk Stock Jumps 11% as Apple Confirms Unavoidable Memory Price Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SanDisk stock reportedly jumped 11% on claims that Apple has confirmed unavoidable memory price hikes. However, the headline and snippet lack concrete details about the actual price move driver, Apple's formal announcement, or verified price increases. This reads as market analysis or speculation about pricing trends rather than a confirmed event with disclosed hard numbers or official guidance."
+  },
+  "buffered_ts": 1781931037.4601808
  }
 ]
