@@ -22,5 +22,77 @@
    "summary": "Samsung and SK hynix combined market share in memory semiconductors has reached 45%, tripling over the past year. This reflects significant consolidation and competitive positioning among two major fund holdings, indicating material shifts in the memory market structure."
   },
   "buffered_ts": 1781958385.014812
+ },
+ {
+  "id": "da87e3603ab0eadd0d0adc4ec442bc27535c548d",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Micron Q3 Earnings Preview: Gross Margin Expected to Break the 80% Mark? Wall Street Is Unanimously Bullish, Sold-Out HBM Capacity Becomes Greatest Backing - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkZUbVJaVWpPWnRSTWhfR3FzQzZ1ZE1vTTgtZ0hkUDZxS1d0LURsbEtGNzE4bmhEc1NIbzVEVGw0cDlTQTNVZ2NLdEFDdVlmNUQyeGZUNnYzS3Y5eEIxbnZERU44MldkS0F6ZnVRS2FKVmZ2dlNJWHUtQkY2S3A5V2ZsRXJneS1XRFFlbVVaT3RubENOUDJIcHhFX2pwc0JodmM1amJkcGtFRElvTmtfblRNeFlobUs3U2ZDb09HMzd0T2lLNkd2OU9kZWIxaVBxRGc?oc=5",
+  "published_at": "Sat, 20 Jun 2026 16:04:54 GMT",
+  "published_ts": 1781971494,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkZUbVJaVWpPWnRSTWhfR3FzQzZ1ZE1vTTgtZ0hkUDZxS1d0LURsbEtGNzE4bmhEc1NIbzVEVGw0cDlTQTNVZ2NLdEFDdVlmNUQyeGZUNnYzS3Y5eEIxbnZERU44MldkS0F6ZnVRS2FKVmZ2dlNJWHUtQkY2S3A5V2ZsRXJneS1XRFFlbVVaT3RubENOUDJIcHhFX2pwc0JodmM1amJkcGtFRElvTmtfblRNeFlobUs3U2ZDb09HMzd0T2lLNkd2OU9kZWIxaVBxRGc?oc=5\" target=\"_blank\">Micron Q3 Earnings Preview: Gross Margin Expected to Break the 80% Mark? Wall Street Is Unanimously Bullish, Sold-Out HBM Capacity Becomes Greatest Backing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron Q3 earnings preview highlighting expected gross margin above 80%, Wall Street unanimity on bullish outlook, and sold-out HBM capacity. This is pre-earnings analysis and market sentiment rather than confirmed results or official guidance, warranting a 3 rather than 4-5."
+  },
+  "buffered_ts": 1781972117.8116663
+ },
+ {
+  "id": "235cfe924d71060aa7fea3a1960b1dc033c6b56b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Has a Major Warning for Micron Technology Stock Investors - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTQtV1BOZEFEZV91UTFrWnlYb054ZjZHVFQ5S1AzMmluRzd0anpVTXFUcDBsXzVvNXRQWTJORXE4VHFFNjZ0eGlBRTg4U29uRUpPMmp2d2FGNThvRnRQU2tuMkItSXlvOFoxM3kwZVpXLUV5LVVPQk1GZUVEcXVVXzZOTlh3NVo3WHliUDRSNDZmQldGZzBFOWd3?oc=5",
+  "published_at": "Fri, 19 Jun 2026 12:43:00 GMT",
+  "published_ts": 1781872980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTQtV1BOZEFEZV91UTFrWnlYb054ZjZHVFQ5S1AzMmluRzd0anpVTXFUcDBsXzVvNXRQWTJORXE4VHFFNjZ0eGlBRTg4U29uRUpPMmp2d2FGNThvRnRQU2tuMkItSXlvOFoxM3kwZVpXLUV5LVVPQk1GZUVEcXVVXzZOTlh3NVo3WHliUDRSNDZmQldGZzBFOWd3?oc=5\" target=\"_blank\">SK Hynix Has a Major Warning for Micron Technology Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has issued a warning directed at Micron Technology investors. The headline suggests commentary or analysis from SK Hynix management about Micron's outlook or competitive position, but without access to the full article content, the specific nature and materiality of the warning cannot be confirmed. This appears to be executive commentary or analysis rather than a confirmed market event or earnings result."
+  },
+  "buffered_ts": 1781972117.8116663
+ },
+ {
+  "id": "a6bcf376127b9b3543d85784289e8789038af319",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Synopsys, Reddit, Autodesk, Credo, Seagate: Insider Shakeup - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpkWWZOd05PVjNoYlRlNnMwN3JSZjhFa0JTMzdxZ0FjVFR2Tnc3WWJlS3c1MEVVeXRnWWgxNEJMSGV1dkpHLXhBQWRJM0JEbzczTXExUDBSNVlPTUxFcXlKa1RFWXNVVWxKMVNFdkV2VG55RlNNYnZTRlZISllUaVhBU2VVcnFZMVNZd0FyNVNlZVg4ZXFvN0JXei14TFFrbkE?oc=5",
+  "published_at": "Sat, 20 Jun 2026 13:08:35 GMT",
+  "published_ts": 1781960915,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpkWWZOd05PVjNoYlRlNnMwN3JSZjhFa0JTMzdxZ0FjVFR2Tnc3WWJlS3c1MEVVeXRnWWgxNEJMSGV1dkpHLXhBQWRJM0JEbzczTXExUDBSNVlPTUxFcXlKa1RFWXNVVWxKMVNFdkV2VG55RlNNYnZTRlZISllUaVhBU2VVcnFZMVNZd0FyNVNlZVg4ZXFvN0JXei14TFFrbkE?oc=5\" target=\"_blank\">Synopsys, Reddit, Autodesk, Credo, Seagate: Insider Shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "TipRanks reports insider trading activity at Seagate (STX), a DRAM ETF holding. Insider shakeup stories are minor unless they signal a material corporate event or loss of confidence; this appears to be a routine insider-activity roundup with no disclosed specific transactions, valuations, or strategic implications."
+  },
+  "buffered_ts": 1781972117.8116663
  }
 ]
