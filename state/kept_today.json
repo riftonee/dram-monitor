@@ -808,5 +808,125 @@
    "summary": "Samsung and SK hynix combined buyback share reached 45% and tripled over the past year according to Seoul Economic Daily. Buyback activity signals management confidence and can support valuations, but this is a reported observation of past activity rather than a new announced program or concrete near-term catalyst. Relevant to both holdings but soft impact."
   },
   "buffered_ts": 1781943620.5568812
+ },
+ {
+  "id": "1378364a882cc72e953781afdfc3275bb981eab6",
+  "source": "TradingView",
+  "topic": "industry",
+  "title": "Key facts: Micron Q2 highs on AI demand; margin ~81%; shares +8.4%, 6/24 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVhVURJZWgyRGhSM0pvTHY3cExabDQ4d0M4WnNTeVBWSDRUQ3NlanlyMGhBa1NWeC00bEFoNk10ckNuQmJyb1VRbWR5LVJtdlMyc3BlaVNLNERqMVlnbWE1QmVVeTlZWUEyX0Vtb3pWd1JSNHcwT0F0SmVhWnRsTkxCZFl0MlpwS2pfdkhoMWJHdS1DclVuVVFBUE5Gc0FiNFdqME5HSkZlZUJNcGdsS0Z3aG5INU5qVzIzM3JTQ3ZnbzZN?oc=5",
+  "published_at": "Fri, 19 Jun 2026 07:13:31 GMT",
+  "published_ts": 1781853211,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVhVURJZWgyRGhSM0pvTHY3cExabDQ4d0M4WnNTeVBWSDRUQ3NlanlyMGhBa1NWeC00bEFoNk10ckNuQmJyb1VRbWR5LVJtdlMyc3BlaVNLNERqMVlnbWE1QmVVeTlZWUEyX0Vtb3pWd1JSNHcwT0F0SmVhWnRsTkxCZFl0MlpwS2pfdkhoMWJHdS1DclVuVVFBUE5Gc0FiNFdqME5HSkZlZUJNcGdsS0Z3aG5INU5qVzIzM3JTQ3ZnbzZN?oc=5\" target=\"_blank\">Key facts: Micron Q2 highs on AI demand; margin ~81%; shares +8.4%, 6/24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron (MU) Q2 earnings beat with strong AI demand driving results, gross margins ~81%, stock up 8.4% on 6/24. Concrete earnings event with material margin expansion and positive guidance implications for a core DRAM fund holding."
+  },
+  "buffered_ts": 1781953020.454869
+ },
+ {
+  "id": "ec792b9a321ba34c9954dc5b87f4a0cd04ab1215",
+  "source": "TechRadar",
+  "topic": "industry",
+  "title": "Chinese chip makers won't rescue us from the RAM crisis after all, SSD expert hints — their memory chip strategy 'is not the same as that of foreign memory suppliers' - TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeWg0UXE2YjBxelFzVVktd19GV1gwVHF6RnBYUlpHRXp1bXNPcHdyZ3VsZWw5NzRWSzFvaFlTYnlCSDZEcGxUdHZvN2ZFc2JRUUwxbTc1LVZwSHlmVF9CYWlGX2hhcEQzXzhYanRXUDVwd3A3eXhESUs0MW5EQUlwYTVRTzNmeVNnTThBMEtvUlQ0TTNDajVFQlNsdy1NazVvcVg0YjVyUlFLb2hBdE1EQ0Z0UU1rdmJWeW9Rd2VsN3ZDR2JwUC0tclRoSDQ0ejJpczhCdzlvdDVmVWJ3N2U2RnNIU1k2MVRlYVh3TmYwenRYdDkyZ1FYWDhn?oc=5",
+  "published_at": "Fri, 19 Jun 2026 11:57:50 GMT",
+  "published_ts": 1781870270,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeWg0UXE2YjBxelFzVVktd19GV1gwVHF6RnBYUlpHRXp1bXNPcHdyZ3VsZWw5NzRWSzFvaFlTYnlCSDZEcGxUdHZvN2ZFc2JRUUwxbTc1LVZwSHlmVF9CYWlGX2hhcEQzXzhYanRXUDVwd3A3eXhESUs0MW5EQUlwYTVRTzNmeVNnTThBMEtvUlQ0TTNDajVFQlNsdy1NazVvcVg0YjVyUlFLb2hBdE1EQ0Z0UU1rdmJWeW9Rd2VsN3ZDR2JwUC0tclRoSDQ0ejJpczhCdzlvdDVmVWJ3N2U2RnNIU1k2MVRlYVh3TmYwenRYdDkyZ1FYWDhn?oc=5\" target=\"_blank\">Chinese chip makers won't rescue us from the RAM crisis after all, SSD expert hints — their memory chip strategy 'is not the same as that of foreign memory suppliers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechRadar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "An SSD expert suggests Chinese chip makers will not significantly alleviate global RAM shortage, indicating their memory strategy differs from Western competitors. This is soft commentary and analysis rather than a concrete event, but relevant to memory supply dynamics and industry capacity outlook."
+  },
+  "buffered_ts": 1781953020.454869
+ },
+ {
+  "id": "e94e53eef31651c80008a12ef954f20efab06e5f",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "2026 Global Top Seven Memory Giants Ranking: Kioxia, SanDisk Lead Growth, Who Is Strongest in the AI Memory Supercycle? - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbElxTEtyRVJKeGtuQjFmb2p2V0c5TEo5XzVXbEcySExfb2dmeG4zRkpEUVpuMkhjcHh4azAxTlVSQUxYc1pMemlvcjhWMHhDeGRqajFUSUNLc3U5QlNYVVFCdnZPMWZzSV9XcHp5WnIwbDZDN3lpWkFMT1p6bGtvUGs2aTFEMHFyb3lPU1ZYQkZ1WjNJdGt6aTNxcFRrMzZHNGxydEdFY2VNQ2lHM1dr?oc=5",
+  "published_at": "Sat, 20 Jun 2026 09:05:12 GMT",
+  "published_ts": 1781946312,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbElxTEtyRVJKeGtuQjFmb2p2V0c5TEo5XzVXbEcySExfb2dmeG4zRkpEUVpuMkhjcHh4azAxTlVSQUxYc1pMemlvcjhWMHhDeGRqajFUSUNLc3U5QlNYVVFCdnZPMWZzSV9XcHp5WnIwbDZDN3lpWkFMT1p6bGtvUGs2aTFEMHFyb3lPU1ZYQkZ1WjNJdGt6aTNxcFRrMzZHNGxydEdFY2VNQ2lHM1dr?oc=5\" target=\"_blank\">2026 Global Top Seven Memory Giants Ranking: Kioxia, SanDisk Lead Growth, Who Is Strongest in the AI Memory Supercycle?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece ranking global memory giants for 2026, highlighting Kioxia and SanDisk as growth leaders in the AI memory cycle. Includes fund holdings but presents forecasts and rankings rather than concrete events or hard numbers."
+  },
+  "buffered_ts": 1781953020.454869
+ },
+ {
+  "id": "9e952fae14d161959a48ae1a486088e6005643ad",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "How Long Will the 'Samsung Electronics and SK hynix Concentration' Last on the KOSPI?[Weekend Money] - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRGczTzJBRnpWeVNuN0w5N1gwSlpobGRnZDNqbGRoTDNvVzE5ck9KVnRuRUZqUjdVaUQ2dVVuaDF4V2QzMEZGbWc4YTVNMXdoRlNGSWFjNTd0X0JoTGlfQTVrYnZRVEZIbVZ2ZW9yTHg2d2hXM1EtVFB3?oc=5",
+  "published_at": "Sat, 20 Jun 2026 08:49:00 GMT",
+  "published_ts": 1781945340,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRGczTzJBRnpWeVNuN0w5N1gwSlpobGRnZDNqbGRoTDNvVzE5ck9KVnRuRUZqUjdVaUQ2dVVuaDF4V2QzMEZGbWc4YTVNMXdoRlNGSWFjNTd0X0JoTGlfQTVrYnZRVEZIbVZ2ZW9yTHg2d2hXM1EtVFB3?oc=5\" target=\"_blank\">How Long Will the 'Samsung Electronics and SK hynix Concentration' Last on the KOSPI?[Weekend Money]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Analysis piece discussing the concentration of Samsung Electronics and SK hynix on the KOSPI index. No concrete developments, earnings, guidance changes, or market-moving events disclosed—this is opinion/commentary on market structure rather than news of a material business event affecting the fund's holdings."
+  },
+  "buffered_ts": 1781953020.454869
+ },
+ {
+  "id": "2cf59425d8d245fef8e097a8643ca3f4b17e3131",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVI2MVhwTzJvWEVXTUdXWlF1Q3dlbjBYNU14YVI0MEhrbUUzYkp4NTRfZi1Yd3hvQ3RxMGNURTRGZXpLbXhlaUpNcVpQMHQ0LUJoRzBXNk5NMnpiYXVQc1o3N2VONHlidUZfSnFqUjZWdHZTRjFmdUlJck5CNTloN2g4OEc3amdGQ01SNVg0eHViTTlO0gGaAUFVX3lxTE9aVlk0U2hDNER1amp4ZmJYYnNjMV9OSXZYaDQzeERlUkJ1My1zQjBXNHctR1R4bVFMT05TNTFXc3RyRTNZTlU3Z0NCMWhBUVNtRjNaMlRfOVlGdDdLOHkzdVV0V3I0NEgySUhIU1I1SlBuUGQ5UHhQZkd1T3lGa2VuTWVlUms2VjY3OFhsenIwU19jS1N4UGs1bmc?oc=5",
+  "published_at": "Sat, 20 Jun 2026 08:59:40 GMT",
+  "published_ts": 1781945980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVI2MVhwTzJvWEVXTUdXWlF1Q3dlbjBYNU14YVI0MEhrbUUzYkp4NTRfZi1Yd3hvQ3RxMGNURTRGZXpLbXhlaUpNcVpQMHQ0LUJoRzBXNk5NMnpiYXVQc1o3N2VONHlidUZfSnFqUjZWdHZTRjFmdUlJck5CNTloN2g4OEc3amdGQ01SNVg0eHViTTlO0gGaAUFVX3lxTE9aVlk0U2hDNER1amp4ZmJYYnNjMV9OSXZYaDQzeERlUkJ1My1zQjBXNHctR1R4bVFMT05TNTFXc3RyRTNZTlU3Z0NCMWhBUVNtRjNaMlRfOVlGdDdLOHkzdVV0V3I0NEgySUhIU1I1SlBuUGQ5UHhQZkd1T3lGa2VuTWVlUms2VjY3OFhsenIwU19jS1N4UGs1bmc?oc=5\" target=\"_blank\">Massive bonuses for South Korea's chip workers puts central bank on inflation alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "macro",
+   "summary": "South Korea's chip-sector wage bonuses are rising inflation concerns at the central bank. While SK hynix and Samsung are major memory producers, this is a macro/labor-cost story with no concrete impact on memory demand, pricing, or near-term production—a passing mention relevant to fund holdings' operating environment but not a material market mover."
+  },
+  "buffered_ts": 1781953020.454869
  }
 ]
