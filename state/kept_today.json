@@ -361,5 +361,77 @@
    "summary": "Globe and Mail article recommending an AI memory ETF as a buy opportunity. Generic promotional coverage with no new concrete developments, earnings data, or fund-specific news (flows, NAV, holdings changes) to report—minimal impact."
   },
   "buffered_ts": 1781993016.8966649
+ },
+ {
+  "id": "b1531ea9ca03c94ad71e4ab3ef768c348a69a753",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "SK hynix Showcases CXL 3.2 Memory and AI Portfolio at HPE Discover Las Vegas 2026 - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NHVPMThCSlF2WW9sS1lRcm15RXVwMm0zWk5SemZaRUE4MTJFMmtzc2gxNEE0eXg2QVRfS3gwbGlrSjdVUlNoUkdzeVFzVTFTREZiT21qMVhVVGR1UE9vMnhuQUg1d2M?oc=5",
+  "published_at": "Sat, 20 Jun 2026 23:32:41 GMT",
+  "published_ts": 1781998361,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NHVPMThCSlF2WW9sS1lRcm15RXVwMm0zWk5SemZaRUE4MTJFMmtzc2gxNEE0eXg2QVRfS3gwbGlrSjdVUlNoUkdzeVFzVTFTREZiT21qMVhVVGR1UE9vMnhuQUg1d2M?oc=5\" target=\"_blank\">SK hynix Showcases CXL 3.2 Memory and AI Portfolio at HPE Discover Las Vegas 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix showcased CXL 3.2 memory and AI portfolio at HPE Discover Las Vegas 2026. This is a product demonstration and industry event appearance by a key DRAM fund holding, indicating active participation in the AI and advanced memory segments, but lacks concrete sales figures, orders, or official announcements of market impact."
+  },
+  "buffered_ts": 1781999042.566368
+ },
+ {
+  "id": "06439e899f0023bc7f0a225ac51d5c734926b8b7",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Seagate shares finish week close to 52-week high as AI storage gains hold - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGN0NHFyM0FLWlQ5S3ZHMEJmalQtcmd3S2ZrRTdUYlZNTl83NkRQTXgtdFljM1kyMjA1N0pQVW1rY3FnZDJaa25qWXFXbGJLNHN3aWFFbE5VRVVZU2IzRUdYRU0wa1RfU0Jkc0ItM3h4eEZoWjJseEpuTUNxQ1puMEh0d3JKMWxjMTBzSER2QXpCR2xYOVRkMENn?oc=5",
+  "published_at": "Sat, 20 Jun 2026 19:20:45 GMT",
+  "published_ts": 1781983245,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGN0NHFyM0FLWlQ5S3ZHMEJmalQtcmd3S2ZrRTdUYlZNTl83NkRQTXgtdFljM1kyMjA1N0pQVW1rY3FnZDJaa25qWXFXbGJLNHN3aWFFbE5VRVVZU2IzRUdYRU0wa1RfU0Jkc0ItM3h4eEZoWjJseEpuTUNxQ1puMEh0d3JKMWxjMTBzSER2QXpCR2xYOVRkMENn?oc=5\" target=\"_blank\">Seagate shares finish week close to 52-week high as AI storage gains hold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, finished the week near its 52-week high driven by AI storage demand. The report cites AI storage gains as the driver but lacks concrete new developments, earnings, or guidance changes—it is a price-move observation with context rather than a confirmed catalyst event."
+  },
+  "buffered_ts": 1781999042.566368
+ },
+ {
+  "id": "dbd98235a4579b39da0c1db1d382e3d65e39f66e",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Apple, Google Eye Chinese Memory; Samsung, SK Unfazed - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkRVRXFwSGVjQVZ3OThmd1FidXJCaUZrWU80azB1THl5UGc0Nl9NZmFTeFZteC1sdlowVXh4dkV5SEVtZjVhRlpUM3VXal9OVjhMUUZBRTNEUXk5U3VhLV85WVdVVG1zQUFQYkpfZFpMcjJMQmVsLVctVVFJbmZxZzdUQ2RRTXhuYjJ6TURJZ2V6R0lFY2g4?oc=5",
+  "published_at": "Sat, 20 Jun 2026 23:00:05 GMT",
+  "published_ts": 1781996405,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkRVRXFwSGVjQVZ3OThmd1FidXJCaUZrWU80azB1THl5UGc0Nl9NZmFTeFZteC1sdlowVXh4dkV5SEVtZjVhRlpUM3VXal9OVjhMUUZBRTNEUXk5U3VhLV85WVdVVG1zQUFQYkpfZFpMcjJMQmVsLVctVVFJbmZxZzdUQ2RRTXhuYjJ6TURJZ2V6R0lFY2g4?oc=5\" target=\"_blank\">Apple, Google Eye Chinese Memory; Samsung, SK Unfazed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Report that Apple and Google are evaluating Chinese memory suppliers while Samsung and SK hynix remain confident in their market positions. This is analysis/commentary on competitive dynamics rather than a confirmed event, deal, or concrete supply shift, making it soft news that warrants monitoring but lacks a specific catalyst."
+  },
+  "buffered_ts": 1781999042.566368
  }
 ]
