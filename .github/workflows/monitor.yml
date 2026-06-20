@@ -44,7 +44,11 @@ jobs:
 
       - name: Run monitor
         env:
+          # LLM backend: leave unset for Anthropic (default), or set the
+          # LLM_PROVIDER repo Variable to "gemini" and add the GEMINI_API_KEY Secret.
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}

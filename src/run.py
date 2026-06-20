@@ -33,7 +33,7 @@ except ImportError:
     pass
 
 import config
-from src import notify, state, synthesize, triage
+from src import dedupe, notify, state, synthesize, triage
 from src.collect import collect_all
 
 
@@ -63,17 +63,24 @@ def gather_new_items(include_rate_limited: bool = False, now: float | None = Non
 
 def run(mode: str, dry: bool) -> None:
     new, n_collected, n_recent = gather_new_items(include_rate_limited=(mode == "brief"))
-    kept = triage.triage_items(new)  # relevant only, sorted by impact desc
+    # Collapse near-identical items about the same event (one Micron earnings report
+    # -> many outlets) BEFORE triage, so one event costs one triage call instead of
+    # one per outlet. Deterministic — no AI cost. (See dedupe.py / CLAUDE.md.)
+    stories = dedupe.collapse_stories(new)
+    kept = triage.triage_items(stories)  # relevant only, sorted by impact desc
     instant = [i for i in kept if i["triage"]["impact"] >= config.INSTANT_ALERT_IMPACT]
     buffer = state.append_buffer(kept)
 
     for item in kept:
         v = item["triage"]
-        print(f"[{v['impact']}/5 {v['category']:>8}] {item['title']}")
+        outlets = item.get("corroboration", {}).get("count", 1)
+        tag = f" (+{outlets - 1} more)" if outlets > 1 else ""
+        print(f"[{v['impact']}/5 {v['category']:>8}] {item['title']}{tag}")
         print(f"           {v['summary']}")
     print(
         f"--- [{mode}] collected {n_collected} -> {n_recent} recent -> {len(new)} new "
-        f"-> {len(kept)} relevant ({len(instant)} alert); buffer={len(buffer)} ---"
+        f"-> {len(stories)} stories (triaged) -> {len(kept)} relevant "
+        f"({len(instant)} alert); buffer={len(buffer)} ---"
     )
 
     # Instant alerts: one batched email per run (not one-per-item — that both
@@ -92,11 +99,15 @@ def run(mode: str, dry: bool) -> None:
 
     if mode == "brief":
         # Synthesize the whole day's buffer, send, then flush. Always sends —
-        # even on a quiet day — so a silent failure is distinguishable.
-        subject = f"DRAM brief — {len(buffer)} item(s) today, {len(instant)} alert(s) this run"
-        body = synthesize.synthesize(buffer)
+        # even on a quiet day — so a silent failure is distinguishable. Re-collapse
+        # across the full buffer first: near-duplicates that arrived in different
+        # alert runs (different ids, so the per-run pass never saw them together)
+        # only meet here. corroboration counts merge across runs (dedupe.py).
+        brief_items = dedupe.collapse_stories(buffer)
+        subject = f"DRAM brief — {len(brief_items)} story(ies) today, {len(instant)} alert(s) this run"
+        body = synthesize.synthesize(brief_items)
         if dry:
-            print(f"    [dry] would send brief ({len(buffer)} items)\n{body[:500]}")
+            print(f"    [dry] would send brief ({len(brief_items)} stories)\n{body[:500]}")
         else:
             result = notify.send_email(subject, body)
             state.clear_buffer()

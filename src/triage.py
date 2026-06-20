@@ -5,20 +5,22 @@ so the response is guaranteed schema-valid — no defensive parsing needed). Ite
 with relevant=false are dropped before they ever reach the daily synthesis, and
 impact drives routing (instant alert vs. held for the brief).
 
-The watchlist context lives in the system prompt so Haiku knows what "relevant"
+The watchlist context lives in the system prompt so the model knows what "relevant"
 means for THIS fund. Per BRIEF.md: the bare word "DRAM" is noise — relevance is
 scoped to the holdings, the memory industry, pricing, and the fund itself.
 
-Needs ANTHROPIC_API_KEY in the environment.
+The actual model call goes through src/llm.py, which dispatches to Anthropic
+(Haiku) or Gemini Flash based on config.LLM_PROVIDER. Needs the active provider's
+API key in the environment (ANTHROPIC_API_KEY or GEMINI_API_KEY).
 """
 
 from __future__ import annotations
 
-import json
+from typing import Literal
 
-import anthropic
+from pydantic import BaseModel
 
-MODEL = "claude-haiku-4-5"
+from src import llm
 
 SYSTEM_PROMPT = """\
 You triage news for a monitor of the Roundhill Memory ETF (ticker DRAM), a fund \
@@ -60,31 +62,15 @@ a 3. Category is the dominant theme.
 
 Translate non-English (e.g. Korean SK hynix/Samsung) coverage as needed."""
 
-# Forced structured output — the response's first text block is guaranteed to be
-# JSON matching this schema. (Haiku 4.5 supports structured outputs.)
-SCHEMA = {
-    "type": "object",
-    "properties": {
-        "relevant": {"type": "boolean"},
-        "impact": {"type": "integer", "enum": [1, 2, 3, 4, 5]},
-        "category": {
-            "type": "string",
-            "enum": ["holding", "industry", "pricing", "macro", "fund"],
-        },
-        "summary": {"type": "string"},
-    },
-    "required": ["relevant", "impact", "category", "summary"],
-    "additionalProperties": False,
-}
-
-_client: anthropic.Anthropic | None = None
-
-
-def _get_client() -> anthropic.Anthropic:
-    global _client
-    if _client is None:
-        _client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
-    return _client
+# Forced structured-output schema — the single source of truth for both backends.
+# llm.py renders this to Anthropic's strict JSON schema and passes it straight to
+# the Gemini SDK, so the verdict is guaranteed schema-valid either way (no
+# defensive parsing needed downstream).
+class TriageVerdict(BaseModel):
+    relevant: bool
+    impact: Literal[1, 2, 3, 4, 5]
+    category: Literal["holding", "industry", "pricing", "macro", "fund"]
+    summary: str
 
 
 def triage_item(item: dict) -> dict:
@@ -96,20 +82,9 @@ def triage_item(item: dict) -> dict:
         f"Matched query topic: {item['topic']}\n"
         f"Snippet: {snippet}"
     )
-    response = _get_client().messages.create(
-        model=MODEL,
-        max_tokens=512,
-        system=[
-            # cache_control marks the stable prefix; our prompt is below Haiku's
-            # 4096-token cache minimum so this likely won't cache yet — harmless,
-            # and it starts paying off if the watchlist context grows.
-            {"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}
-        ],
-        messages=[{"role": "user", "content": user}],
-        output_config={"format": {"type": "json_schema", "schema": SCHEMA}},
+    return llm.generate_json(
+        "triage", SYSTEM_PROMPT, user, schema=TriageVerdict, max_tokens=512
     )
-    text = next(b.text for b in response.content if b.type == "text")
-    return json.loads(text)
 
 
 def triage_items(items: list[dict]) -> list[dict]:
