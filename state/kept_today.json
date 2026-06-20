@@ -190,5 +190,53 @@
    "summary": "The Motley Fool recommends an AI-focused memory ETF as an investment, likely referring to DRAM. This is generic investment commentary and a price-target/buy-rating style piece with no concrete event, fund flow data, or material development."
   },
   "buffered_ts": 1781978050.3575878
+ },
+ {
+  "id": "c0c70b036d1c78a0ffec23d5e07ddad7b6d590fc",
+  "source": "HotHardware",
+  "topic": "holding",
+  "title": "SK Hynix Fires Back In The AI Memory Race With Next Gen 48GB HBM4E - HotHardware",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TbFZ6X0JGU2c4UUFJLTJJM1JSZlI2RGh0MnhjZ19SZEtqMlNaMXlpT0pWWmU2OU9QNjhPczlsVTJjWmpqVlotVmlhbVEzSDZvRl9NWnRPMnU0b0RCOERWWmZ4cGo4MF8xRXdjMXpYUEFqWGVGQ0NILXN3?oc=5",
+  "published_at": "Sat, 20 Jun 2026 18:28:00 GMT",
+  "published_ts": 1781980080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9TbFZ6X0JGU2c4UUFJLTJJM1JSZlI2RGh0MnhjZ19SZEtqMlNaMXlpT0pWWmU2OU9QNjhPczlsVTJjWmpqVlotVmlhbVEzSDZvRl9NWnRPMnU0b0RCOERWWmZ4cGo4MF8xRXdjMXpYUEFqWGVGQ0NILXN3?oc=5\" target=\"_blank\">SK Hynix Fires Back In The AI Memory Race With Next Gen 48GB HBM4E</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HotHardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "HotHardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced next-generation 48GB HBM4E chips, a concrete product advancement in the high-bandwidth memory market that directly addresses AI infrastructure demand—a key growth driver for memory semiconductors and a material development for this major fund holding."
+  },
+  "buffered_ts": 1781983232.107515
+ },
+ {
+  "id": "84907c9723380fb6b73084f2186523d49417099d",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate (STX) Stock After 7x Rally Is The AI Storage Story Priced In? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0cxMTNibkt0RW5MY3Bkblp1YnNtV0FrS1NRd3VCRVVhalZIRldjdXZSSUhHT2QwalRKUU04OXdyajZXckdjdnUyaUdLZ0t6Q3dpaGFpbWpQNEh3dHQyRUlXWlBpQWYxWFlJVkVHUEtiVFBfV0MwQzdubTcyNTZETDcwSHZwQ3U3MWIwU3k3Q3lxTDk0NEE?oc=5",
+  "published_at": "Sat, 20 Jun 2026 18:09:06 GMT",
+  "published_ts": 1781978946,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0cxMTNibkt0RW5MY3Bkblp1YnNtV0FrS1NRd3VCRVVhalZIRldjdXZSSUhHT2QwalRKUU04OXdyajZXckdjdnUyaUdLZ0t6Q3dpaGFpbWpQNEh3dHQyRUlXWlBpQWYxWFlJVkVHUEtiVFBfV0MwQzdubTcyNTZETDcwSHZwQ3U3MWIwU3k3Q3lxTDk0NEE?oc=5\" target=\"_blank\">Seagate (STX) Stock After 7x Rally Is The AI Storage Story Priced In?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis questioning whether Seagate's 7x stock rally reflects fair valuation given AI storage demand. This is a valuation/opinion piece rather than a concrete event or confirmed catalyst, making it analysis-driven commentary on the holding's recent performance."
+  },
+  "buffered_ts": 1781983232.107515
  }
 ]
