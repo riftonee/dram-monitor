@@ -94,5 +94,101 @@
    "summary": "TipRanks reports insider trading activity at Seagate (STX), a DRAM ETF holding. Insider shakeup stories are minor unless they signal a material corporate event or loss of confidence; this appears to be a routine insider-activity roundup with no disclosed specific transactions, valuations, or strategic implications."
   },
   "buffered_ts": 1781972117.8116663
+ },
+ {
+  "id": "08873ce4c003e54bda726f652f7d51bf7a0cba98",
+  "source": "ABC News - Breaking News, Latest News and Videos",
+  "topic": "industry",
+  "title": "Tim Cook says prices of Apple devices will jump amid memory chip shortage - ABC News - Breaking News, Latest News and Videos",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTRtU0NJYkRtS0hicmFMVVExUEtQM0NrLXU2bk1YYXdUUnA3UmNDX0lkMnZzUkVBMDNKc25uTkh3ZElLbDRERG1RU3B3cU5sRXVWdUFDRzI0OXA2NFdUSEJWdVZzd2syUmdOaEtOV2hWSVgweGtRbVNac3NTYjg4RGJIYlZuTVFzaXN5ek05VFBZS2FJN285UUx3?oc=5",
+  "published_at": "Fri, 19 Jun 2026 01:54:54 GMT",
+  "published_ts": 1781834094,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTRtU0NJYkRtS0hicmFMVVExUEtQM0NrLXU2bk1YYXdUUnA3UmNDX0lkMnZzUkVBMDNKc25uTkh3ZElLbDRERG1RU3B3cU5sRXVWdUFDRzI0OXA2NFdUSEJWdVZzd2syUmdOaEtOV2hWSVgweGtRbVNac3NTYjg4RGJIYlZuTVFzaXN5ek05VFBZS2FJN285UUx3?oc=5\" target=\"_blank\">Tim Cook says prices of Apple devices will jump amid memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ABC News - Breaking News, Latest News and Videos"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Tim Cook announces Apple device prices will increase due to memory chip shortage. This signals sustained memory demand pressure and pricing power, relevant to the memory cycle, but is a statement/forecast rather than a confirmed event with hard numbers or actual price data."
+  },
+  "buffered_ts": 1781978050.3575878
+ },
+ {
+  "id": "1d6f77b7baa0c630830f66eb1669d245ca5c269d",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "SanDisk Stock Looks Wildly Overbought, But SNDK’s Chart and Fundamentals Say It Can Keep Climbing - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDFuMWV5ZHBKTGZWb2wyVnFHX3RnZDVmSENrOWtYV0RyN1dQMFJreGN2a1gxelpGblBTNXEtMEZ0MUdiX2lXYVpyY0hIZG1CV25DdlZ4WlpyX05nWkdqYjgxbkk3SkZPSFhJZlF4ckZ3ZWpJdm9BZTlMRDNzdkk2MHQ1OXRtMXZ3N0pEYW9uVENnLVVJVUlZNjFqU21lMDNfTEdyRkRxVnRpLWZMcEUxeXFtakxMLWtteUc3bTJBNDF4dzNDdGhCXzhVZWVNbjRZVkk5R2hn?oc=5",
+  "published_at": "Sat, 20 Jun 2026 14:00:02 GMT",
+  "published_ts": 1781964002,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDFuMWV5ZHBKTGZWb2wyVnFHX3RnZDVmSENrOWtYV0RyN1dQMFJreGN2a1gxelpGblBTNXEtMEZ0MUdiX2lXYVpyY0hIZG1CV25DdlZ4WlpyX05nWkdqYjgxbkk3SkZPSFhJZlF4ckZ3ZWpJdm9BZTlMRDNzdkk2MHQ1OXRtMXZ3N0pEYW9uVENnLVVJVUlZNjFqU21lMDNfTEdyRkRxVnRpLWZMcEUxeXFtakxMLWtteUc3bTJBNDF4dzNDdGhCXzhVZWVNbjRZVkk5R2hn?oc=5\" target=\"_blank\">SanDisk Stock Looks Wildly Overbought, But SNDK’s Chart and Fundamentals Say It Can Keep Climbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barchart technical and fundamental analysis suggests SanDisk (SNDK), a DRAM ETF holding, may continue climbing despite appearing overbought. This is analyst opinion and chart interpretation rather than a concrete event or catalyst."
+  },
+  "buffered_ts": 1781978050.3575878
+ },
+ {
+  "id": "9edf4dbf22b66ecd538dab9b1b012d7a900b5aaf",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Sandisk stock hits record as AI memory rally faces long weekend and Micron test - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTVaNWRpNUY1M1JvZEZHM0VybEYtS3ktUDVGQzVjTEdITVZtR0ZLdl9Db2JSWll6NVpRdzh4VTlGNmJfMVVXMlhTYjhBRThZN0dVTE5NMVk5VnBNYnQweG1yWXplTHFqaV9heUMzbDM2dm81emMyX1dVYVlHWW51ZVJzMl9qUThNd0lvUEp0TzNrdEp6Qkx1Ynd1SHRtQ0k1WlE?oc=5",
+  "published_at": "Sat, 20 Jun 2026 16:48:05 GMT",
+  "published_ts": 1781974085,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTVaNWRpNUY1M1JvZEZHM0VybEYtS3ktUDVGQzVjTEdITVZtR0ZLdl9Db2JSWll6NVpRdzh4VTlGNmJfMVVXMlhTYjhBRThZN0dVTE5NMVk5VnBNYnQweG1yWXplTHFqaV9heUMzbDM2dm81emMyX1dVYVlHWW51ZVJzMl9qUThNd0lvUEp0TzNrdEp6Qkx1Ynd1SHRtQ0k1WlE?oc=5\" target=\"_blank\">Sandisk stock hits record as AI memory rally faces long weekend and Micron test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock reaches record high amid AI memory rally momentum, though the article appears to focus on near-term price action and weekend trading dynamics rather than reporting a concrete fundamental development or catalyst. Mentions Micron as a forthcoming test but lacks specific news on either company."
+  },
+  "buffered_ts": 1781978050.3575878
+ },
+ {
+  "id": "c34be9cb182ef8b37dd1f00b5aacee09071109b8",
+  "source": "The Motley Fool",
+  "topic": "fund",
+  "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlh2MHVlZDhwNUNKLUtneW10OWRpSEUzbTlYWjU4bzV1c0Z0cGZ6RWhocFNjdXBrM2FvdDJScV9hdmU1RnhEYWtyT3hZLVNGVEk0bXVUeFkwV1lGZ3d5eFJXZmUySnlOYmxmXzB2OUp2ZVM4TkVXbEVFZXBONW9td2l3Zk5ZUlRzLWdPNkNZa0N6eGxWbFE0Vw?oc=5",
+  "published_at": "Sat, 20 Jun 2026 17:53:18 GMT",
+  "published_ts": 1781977998,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlh2MHVlZDhwNUNKLUtneW10OWRpSEUzbTlYWjU4bzV1c0Z0cGZ6RWhocFNjdXBrM2FvdDJScV9hdmU1RnhEYWtyT3hZLVNGVEk0bXVUeFkwV1lGZ3d5eFJXZmUySnlOYmxmXzB2OUp2ZVM4TkVXbEVFZXBONW9td2l3Zk5ZUlRzLWdPNkNZa0N6eGxWbFE0Vw?oc=5\" target=\"_blank\">Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 1,
+   "category": "fund",
+   "summary": "The Motley Fool recommends an AI-focused memory ETF as an investment, likely referring to DRAM. This is generic investment commentary and a price-target/buy-rating style piece with no concrete event, fund flow data, or material development."
+  },
+  "buffered_ts": 1781978050.3575878
  }
 ]
