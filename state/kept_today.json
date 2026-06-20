@@ -310,5 +310,56 @@
    "summary": "Apple CEO reports to WSJ that the company plans to raise prices in response to a memory chip shortage. This indicates sustained demand pressure and pricing power in the memory market, relevant to DRAM holdings, but the statement is a forward-looking intention rather than a confirmed price change or quantified shortage metric."
   },
   "buffered_ts": 1781988576.392189
+ },
+ {
+  "id": "60d3ad4ed7d1aa4306cc9b991ae906749854610e",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Semiconductor stocks leading the domestic stock market will be tested ahead of U.S. memory chip comp.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByVFRTWWhLV04xcHVpS2lXc1U0RFUzUHoyLTF4UG1xWlVlMHhqa3A0WlpOYmtmczNvdVgzSTIwcXBsd05ic1Uyalk4eWM5NTA?oc=5",
+  "published_at": "Sat, 20 Jun 2026 21:10:22 GMT",
+  "published_ts": 1781989822,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFByVFRTWWhLV04xcHVpS2lXc1U0RFUzUHoyLTF4UG1xWlVlMHhqa3A0WlpOYmtmczNvdVgzSTIwcXBsd05ic1Uyalk4eWM5NTA?oc=5\" target=\"_blank\">Semiconductor stocks leading the domestic stock market will be tested ahead of U.S. memory chip comp..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korean media analysis of semiconductor stocks ahead of U.S. memory chip comparisons. Discusses competitive dynamics in memory semiconductors but lacks concrete events or hard numbers; appears to be forward-looking analysis rather than reported fact."
+  },
+  "buffered_ts": 1781993016.8966649
+ },
+ {
+  "id": "3bd22228437569786b2b8c8fec0b615e6e0fed8a",
+  "source": "The Globe and Mail",
+  "topic": "fund",
+  "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzdDV1lBTU43WExWUGpxVy1RdTNPcTkzVVcySlg1bkRrUjVCR3Z4a2VZUXF5NGxGVUxiNUdsREZUY2h4c1lDZlNLX0duclAzRUZBZGg3OUFIWWhKVnRSLXJNYUYwdzlvT1QwekZ5cGZvclVVeERNV0ZyNHQ1eFJaVGVYbGNsaDVOSVFqVkNxb0V4eUFydGp4a0dNWGEtcEdtNXJkS0JfeDhJOFFHeTFrdkpwZFdfemlLQzliaHVoZ1VrUTl5azlNQ1dpaW1qQjc5SVN3TEVYU3htYXVfaW9OQnlxZThERk1ucXhTbg?oc=5",
+  "published_at": "Sat, 20 Jun 2026 17:50:18 GMT",
+  "published_ts": 1781977818,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzdDV1lBTU43WExWUGpxVy1RdTNPcTkzVVcySlg1bkRrUjVCR3Z4a2VZUXF5NGxGVUxiNUdsREZUY2h4c1lDZlNLX0duclAzRUZBZGg3OUFIWWhKVnRSLXJNYUYwdzlvT1QwekZ5cGZvclVVeERNV0ZyNHQ1eFJaVGVYbGNsaDVOSVFqVkNxb0V4eUFydGp4a0dNWGEtcEdtNXJkS0JfeDhJOFFHeTFrdkpwZFdfemlLQzliaHVoZ1VrUTl5azlNQ1dpaW1qQjc5SVN3TEVYU3htYXVfaW9OQnlxZThERk1ucXhTbg?oc=5\" target=\"_blank\">Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Globe and Mail",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Globe and Mail article recommending an AI memory ETF as a buy opportunity. Generic promotional coverage with no new concrete developments, earnings data, or fund-specific news (flows, NAV, holdings changes) to report—minimal impact."
+  },
+  "buffered_ts": 1781993016.8966649
  }
 ]
