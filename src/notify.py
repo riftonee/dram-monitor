@@ -161,9 +161,12 @@ def render_digest_html(items: list[dict]) -> str:
             url = html_lib.escape(item["url"], quote=True)
             source = html_lib.escape(item["source"])
             summary = html_lib.escape(item["triage"]["summary"])
+            # Same-story dedupe may have collapsed several outlets into this item.
+            outlets = item.get("corroboration", {}).get("count", 1)
+            also = f" <small>(+{outlets - 1} more outlet(s))</small>" if outlets > 1 else ""
             parts.append(
                 f'<li><strong>[{impact}/5]</strong> '
-                f'<a href="{url}">{title}</a> — <em>{source}</em>'
+                f'<a href="{url}">{title}</a> — <em>{source}</em>{also}'
                 f"<br><small>{summary}</small></li>"
             )
         parts.append("</ul>")

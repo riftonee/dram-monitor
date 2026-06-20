@@ -1,3 +1,5 @@
 feedparser>=6.0
 python-dotenv>=1.0
-anthropic>=0.92
+pydantic>=2          # triage schema source-of-truth (already pulled in by anthropic)
+anthropic>=0.92      # used when LLM_PROVIDER=anthropic (default)
+google-genai>=1.0    # used when LLM_PROVIDER=gemini

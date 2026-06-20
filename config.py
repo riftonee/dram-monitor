@@ -5,6 +5,26 @@ behind each list. Golden rule: never search the bare word "DRAM" — scope by ti
 or by a curated topic query, or you flood with memory-technology trivia.
 """
 
+import os
+
+# --- LLM provider selection -------------------------------------------------
+# Which backend powers the triage + synthesis AI calls (src/llm.py dispatches on
+# this). "anthropic" (default) or "gemini". Gemini Flash has a generous free tier
+# and is far cheaper for the high-frequency every-30-min triage pass; Anthropic
+# gives the strongest daily-brief writing. Override with the LLM_PROVIDER env var,
+# and per-task model ids with the *_MODEL env vars below.
+# (`or "anthropic"` also covers an env var that is set but empty — e.g. an unset
+# GitHub Actions Variable expands to "", which would otherwise bypass the default.)
+LLM_PROVIDER = (os.environ.get("LLM_PROVIDER", "").strip().lower() or "anthropic")
+
+# Model ids per provider, per task. Triage is the high-volume call; brief is once
+# a day. (Anthropic strings are current as written; Haiku rejects the `effort`
+# param. Gemini 2.5 Flash is the free-tier workhorse.)
+ANTHROPIC_TRIAGE_MODEL = os.environ.get("ANTHROPIC_TRIAGE_MODEL", "claude-haiku-4-5")
+ANTHROPIC_BRIEF_MODEL = os.environ.get("ANTHROPIC_BRIEF_MODEL", "claude-sonnet-4-6")
+GEMINI_TRIAGE_MODEL = os.environ.get("GEMINI_TRIAGE_MODEL", "gemini-2.5-flash")
+GEMINI_BRIEF_MODEL = os.environ.get("GEMINI_BRIEF_MODEL", "gemini-2.5-flash")
+
 # US-listed holdings that appear cleanly in ticker news APIs (used from Milestone 6).
 US_TICKERS = ["MU", "SNDK", "STX", "WDC"]
 
@@ -75,3 +95,9 @@ BUFFER_RETENTION_HOURS = 36
 # Only impact-5 (confirmed, market-moving events) trigger an instant alert; impact
 # 4 and below are held for the daily brief. Keeps alerts rare by design.
 INSTANT_ALERT_IMPACT = 5  # impact >= this triggers an instant alert email
+
+# Same-story dedupe (src/dedupe.py): two items whose title similarity (0-1) is at
+# or above this are treated as the same event and collapsed to one representative.
+# Deliberately conservative — a missed merge only shows a duplicate, whereas a
+# false merge hides a distinct story. Raise toward 1.0 to merge less.
+STORY_DEDUPE_SIMILARITY = 0.7

@@ -1,4 +1,4 @@
-"""Synthesize: the once-daily morning briefing, written by Claude Sonnet.
+"""Synthesize: the once-daily morning briefing.
 
 Runs once per day over the already-triaged, already-filtered set (so it's cheap
 despite the stronger model). Produces a short HTML briefing — what moved the
@@ -8,16 +8,16 @@ the highest-impact items, grouped by category.
 Per BRIEF.md this is awareness, not a trade signal: the prompt is steered to
 explain and contextualize, never to advise buying or selling.
 
-Needs ANTHROPIC_API_KEY in the environment.
+The model call goes through src/llm.py, which dispatches to Anthropic (Sonnet) or
+Gemini Flash based on config.LLM_PROVIDER. Needs the active provider's API key in
+the environment (ANTHROPIC_API_KEY or GEMINI_API_KEY).
 """
 
 from __future__ import annotations
 
 import json
 
-import anthropic
-
-MODEL = "claude-sonnet-4-6"
+from src import llm
 
 SYSTEM_PROMPT = """\
 You write a friendly morning briefing about the Roundhill Memory ETF (DRAM) for a \
@@ -61,24 +61,21 @@ good, bad, or mixed for the fund. Link the most useful source per point with \
 3. If the day is quiet, say so warmly and keep it short. If there is genuinely \
 nothing material, say "Nothing material in the memory market today — all quiet."
 
+Some items carry "corroborating_outlets": N — that one event was reported by N \
+outlets (already de-duplicated to a single item for you). Treat a high N as a sign \
+the event is widely covered and likely significant; you may note it briefly (e.g. \
+"widely reported"), but never list the same event more than once.
+
 Be warm, clear, and concrete. No preamble like "Here is your briefing." Prefer \
 short paragraphs and bullet points over dense blocks. It is fine to be thorough — \
 clarity matters more than brevity."""
 
-_client: anthropic.Anthropic | None = None
-
-
-def _get_client() -> anthropic.Anthropic:
-    global _client
-    if _client is None:
-        _client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
-    return _client
-
 
 def _format_items(items: list[dict]) -> str:
     """Compact JSON lines of the triaged items for the model to synthesize."""
-    rows = [
-        {
+    rows = []
+    for i in items:
+        row = {
             "impact": i["triage"]["impact"],
             "category": i["triage"]["category"],
             "title": i["title"],
@@ -86,8 +83,12 @@ def _format_items(items: list[dict]) -> str:
             "url": i["url"],
             "summary": i["triage"]["summary"],
         }
-        for i in items
-    ]
+        # How many outlets ran the same story (from same-story dedupe). >1 means the
+        # event is widely corroborated — a signal the model can use for emphasis.
+        outlets = i.get("corroboration", {}).get("count", 1)
+        if outlets > 1:
+            row["corroborating_outlets"] = outlets
+        rows.append(row)
     return json.dumps(rows, ensure_ascii=False, indent=1)
 
 
@@ -96,17 +97,12 @@ def synthesize(items: list[dict]) -> str:
     if not items:
         return "<p>Nothing material in the memory cycle today.</p>"
 
-    response = _get_client().messages.create(
-        model=MODEL,
+    user = f"Today's filtered memory news ({len(items)} items):\n{_format_items(items)}"
+    return llm.generate_text(
+        "brief",
+        SYSTEM_PROMPT,
+        user,
         # Generous ceiling so a busy day's briefing is never truncated mid-sentence.
         max_tokens=8000,
-        system=SYSTEM_PROMPT,
-        output_config={"effort": "medium"},  # short writing task; medium balances cost/quality
-        messages=[
-            {
-                "role": "user",
-                "content": f"Today's filtered memory news ({len(items)} items):\n{_format_items(items)}",
-            }
-        ],
+        effort="medium",  # short writing task; medium balances cost/quality (Anthropic only)
     )
-    return next(b.text for b in response.content if b.type == "text")
