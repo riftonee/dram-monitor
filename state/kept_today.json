@@ -529,5 +529,149 @@
    "summary": "SK Hynix issues a warning regarding Micron Technology stock. This is analyst/commentary opinion on a holding company rather than a concrete event (earnings, guidance, or price move with disclosed cause), making it soft news that warrants monitoring but not an immediate alert."
   },
   "buffered_ts": 1782013589.080904
+ },
+ {
+  "id": "b7ab8a0edf573851fa89de0c06641d58f3a28bf9",
+  "source": "Koreabizwire",
+  "topic": "industry",
+  "title": "Samsung Focuses on HBM Expansion as AI Demand Reshapes Chip Market - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalZQcGZ2Z0JyaWhHeVlKNGZ6dXVkVHBGM1l2VmNEZkpzVzVXZ1oxREpzVV8xR1NQLWFQSVdDalZUdklPS0pDZ0hnTmxkUV9SQ3J3NzdtRHphSXktei1ZR3RmcGhWUUVBQjBjV2pXZHBvQWFzSGNPOS1rSWZNQkRfSFBDWUhKbFZQbFlwTjVkREF6OEZtWnRWYWVtUUxWUQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 07:13:12 GMT",
+  "published_ts": 1782025992,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQalZQcGZ2Z0JyaWhHeVlKNGZ6dXVkVHBGM1l2VmNEZkpzVzVXZ1oxREpzVV8xR1NQLWFQSVdDalZUdklPS0pDZ0hnTmxkUV9SQ3J3NzdtRHphSXktei1ZR3RmcGhWUUVBQjBjV2pXZHBvQWFzSGNPOS1rSWZNQkRfSFBDWUhKbFZQbFlwTjVkREF6OEZtWnRWYWVtUUxWUQ?oc=5\" target=\"_blank\">Samsung Focuses on HBM Expansion as AI Demand Reshapes Chip Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Koreabizwire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung is expanding HBM (high-bandwidth memory) production in response to AI demand growth. This is a strategic investment decision by a major holding, signaling confidence in HBM as a key growth driver, but the article appears to report on Samsung's stated strategy/focus rather than a concrete capacity announcement or production commitment with specific numbers or timelines."
+  },
+  "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "d726b286b17bee76233d474adde25e80a9cd9983",
+  "source": "aju press",
+  "topic": "industry",
+  "title": "Investors Shift Focus to Post-HBM Stocks Ahead of Micron Earnings - aju press",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwT1ZxRlNyaWhYT1RmanhXeHJQVDN5YnprRGVMN0tEQXlLaTVpd2ZWQ2hGM1RBTXRPVDVQRW5TVkgzaG1GWWJPdHdyaWZoUmVkUml5WHRjWdIBV0FVX3lxTFAwT1ZxRlNyaWhYT1RmanhXeHJQVDN5YnprRGVMN0tEQXlLaTVpd2ZWQ2hGM1RBTXRPVDVQRW5TVkgzaG1GWWJPdHdyaWZoUmVkUml5WHRjWQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 05:40:00 GMT",
+  "published_ts": 1782020400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwT1ZxRlNyaWhYT1RmanhXeHJQVDN5YnprRGVMN0tEQXlLaTVpd2ZWQ2hGM1RBTXRPVDVQRW5TVkgzaG1GWWJPdHdyaWZoUmVkUml5WHRjWdIBV0FVX3lxTFAwT1ZxRlNyaWhYT1RmanhXeHJQVDN5YnprRGVMN0tEQXlLaTVpd2ZWQ2hGM1RBTXRPVDVQRW5TVkgzaG1GWWJPdHdyaWZoUmVkUml5WHRjWQ?oc=5\" target=\"_blank\">Investors Shift Focus to Post-HBM Stocks Ahead of Micron Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aju press</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "aju press"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Investors are shifting focus to post-HBM (high-bandwidth memory) stocks ahead of Micron earnings, suggesting evolving sentiment around memory demand drivers and industry cycle dynamics. This is analysis/commentary on investor positioning rather than a concrete event, making it opinion-level rather than a hard catalyst."
+  },
+  "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "f642e48ee92779fec2deea73f9042222607c17d7",
+  "source": "theinvestor.co.kr",
+  "topic": "holding",
+  "title": "Samsung sharpens HBM strategy at global meeting - theinvestor.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZLWgyZ2dSWDAtc2xNZzlzVXNsRGJJTTFCekV2MEZjbzVlWEJoV1piX1dwNUFwNmozX2ZvWVNYTnNoS0VtZ1dwbm41RUVOa2lvYU1XSUNvMWNCZw?oc=5",
+  "published_at": "Sun, 21 Jun 2026 07:50:08 GMT",
+  "published_ts": 1782028208,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZLWgyZ2dSWDAtc2xNZzlzVXNsRGJJTTFCekV2MEZjbzVlWEJoV1piX1dwNUFwNmozX2ZvWVNYTnNoS0VtZ1dwbm41RUVOa2lvYU1XSUNvMWNCZw?oc=5\" target=\"_blank\">Samsung sharpens HBM strategy at global meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinvestor.co.kr</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "theinvestor.co.kr"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is refining its high-bandwidth memory (HBM) strategy at a global meeting. This indicates strategic positioning in a key growth segment for memory semiconductors, but the report lacks concrete details on specific decisions, investments, or timeline; it reads as strategic discussion rather than a confirmed announcement."
+  },
+  "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "eeaa1563b58dd241b0e52764d142d406e5cd74ec",
+  "source": "Borneo Bulletin",
+  "topic": "holding",
+  "title": "AI demand drives Samsung’s HBM expansion - Borneo Bulletin",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2cXRMNTltLWd5LXpLcjFVR0o5VXlnLWtqX2VaVUR6NG41SFN3TmxOZUhLMzM5S1pxSHRhTHZnci1vX0ZWUTZqNHFoMXRMOUFnUk1odDFmY0VMZGgydGIxQkRiSFdmQWctQUVDR0pmbU5xazZzRlJiZ0VB?oc=5",
+  "published_at": "Sun, 21 Jun 2026 07:00:35 GMT",
+  "published_ts": 1782025235,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA2cXRMNTltLWd5LXpLcjFVR0o5VXlnLWtqX2VaVUR6NG41SFN3TmxOZUhLMzM5S1pxSHRhTHZnci1vX0ZWUTZqNHFoMXRMOUFnUk1odDFmY0VMZGgydGIxQkRiSFdmQWctQUVDR0pmbU5xazZzRlJiZ0VB?oc=5\" target=\"_blank\">AI demand drives Samsung’s HBM expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Borneo Bulletin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Borneo Bulletin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is expanding HBM (high-bandwidth memory) production in response to AI demand. This is a relevant development for a holding company, but the snippet does not provide concrete details such as specific capacity increases, timeline, or confirmed investment amounts—it reads as a strategic response rather than a hard announcement. Without more specifics, it is positioned as an opportunity/plan rather than a settled event."
+  },
+  "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "0310e59c50e612475cee22c20f2c0af72a55f217",
+  "source": "WSJ",
+  "topic": "industry",
+  "title": "Why the Memory Crunch Is Almost Impossible to Solve - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThQeV94MTMydkN2ZWpNMzhRUGRwTjFWS2h6ejZxcFNyVHk0QmVlUmg1eDRlNF9XMnNFUjdSZ2xTTUhqUVEwcmVScTlpcnV5NEc3XzVjb3EwS25SRENRa3NXMGp1Wk5sWnFmTDgyXzJEVnh2WGtIOUJ5UmFSQVVKMUJIbEY3bDBQTjh5T2VB?oc=5",
+  "published_at": "Fri, 19 Jun 2026 23:00:00 GMT",
+  "published_ts": 1781910000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThQeV94MTMydkN2ZWpNMzhRUGRwTjFWS2h6ejZxcFNyVHk0QmVlUmg1eDRlNF9XMnNFUjdSZ2xTTUhqUVEwcmVScTlpcnV5NEc3XzVjb3EwS25SRENRa3NXMGp1Wk5sWnFmTDgyXzJEVnh2WGtIOUJ5UmFSQVVKMUJIbEY3bDBQTjh5T2VB?oc=5\" target=\"_blank\">Why the Memory Crunch Is Almost Impossible to Solve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "WSJ analysis piece on structural challenges in resolving the memory supply crunch. Addresses industry capacity and production constraints affecting DRAM/NAND supply dynamics, but likely contains opinion and forward-looking commentary rather than concrete events or hard numbers."
+  },
+  "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "15b85255ab05f3c21ea8f4280915a8d5c9c45167",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Semiconductor giants drive Korea market concentration as ETFs surge - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUV95b0Y4UE5BbGJmTGI4cjBVa2NsbnhESVVrUXM1cEVER2hqbHl4ZjBWT0t2RlU2V3h2a2hLNTFnZWlRVVY3WFdxZWJqMXVDWWJrb0lZRlVkZXFCa0JfWklacV83dVkzREVUcGhKOGxBNTlLUmdOV2k5cVJPMExaU9IBlAFBVV95cUxOYnFfQUdnakZRdF9Qb2NvdWtJaFBDaDMxcHpIZ201MGl5bi1ld0pCbk9ycm5LMWFpTjBNaEFHREU2aFFLdHlkaC1DenE4c1k0MzZQWmJINWwxU2cyeVlNWUFJVUZXdkJ3Q2lJa2trMjJNdWhvS3FBeElGM2FmNS13NWtHUjAtdm1NeDUwQ3M2U3lXcVJm?oc=5",
+  "published_at": "Sun, 21 Jun 2026 04:47:00 GMT",
+  "published_ts": 1782017220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUV95b0Y4UE5BbGJmTGI4cjBVa2NsbnhESVVrUXM1cEVER2hqbHl4ZjBWT0t2RlU2V3h2a2hLNTFnZWlRVVY3WFdxZWJqMXVDWWJrb0lZRlVkZXFCa0JfWklacV83dVkzREVUcGhKOGxBNTlLUmdOV2k5cVJPMExaU9IBlAFBVV95cUxOYnFfQUdnakZRdF9Qb2NvdWtJaFBDaDMxcHpIZ201MGl5bi1ld0pCbk9ycm5LMWFpTjBNaEFHREU2aFFLdHlkaC1DenE4c1k0MzZQWmJINWwxU2cyeVlNWUFJVUZXdkJ3Q2lJa2trMjJNdWhvS3FBeElGM2FmNS13NWtHUjAtdm1NeDUwQ3M2U3lXcVJm?oc=5\" target=\"_blank\">Semiconductor giants drive Korea market concentration as ETFs surge - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Korea market concentration story mentioning semiconductor giants (likely SK hynix and Samsung) and ETF activity. Generic market structure piece with no concrete event, earnings, price move catalyst, or material news affecting memory demand/supply or fund holdings."
+  },
+  "buffered_ts": 1782030455.8226628
  }
 ]
