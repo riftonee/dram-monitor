@@ -313,5 +313,29 @@
    "summary": "Wall Street analysts have raised price targets for Samsung and SK hynix, two major fund holdings in memory semiconductors. This represents analyst sentiment and revised outlooks, but lacks a concrete catalyst or confirmed event beyond the target changes themselves."
   },
   "buffered_ts": 1782078779.371441
+ },
+ {
+  "id": "451f1e689dd9607e042aa6168bda3993ae052a13",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Semiconductors Become 'Supply Black Hole' as ETF Concentration Intensifies - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGdESUM0aFJGbXVMeTVfNk1rQ25BWDlfNFpnNHlvRFhjZW5FX0VkOFJETWtRUDhlcUtVSlFVWEJyQ3luLWRCbUFsalN0MElQMjRSY0JLNkNISG5qQWVJMWFhOEdWbWVyXzBVckIxOWViT3dIOV9OR2VqaUlISDlRcGFKYVZEdXVuTXBXcjB4SXJJdw?oc=5",
+  "published_at": "Sun, 21 Jun 2026 22:00:05 GMT",
+  "published_ts": 1782079205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGdESUM0aFJGbXVMeTVfNk1rQ25BWDlfNFpnNHlvRFhjZW5FX0VkOFJETWtRUDhlcUtVSlFVWEJyQ3luLWRCbUFsalN0MElQMjRSY0JLNkNISG5qQWVJMWFhOEdWbWVyXzBVckIxOWViT3dIOV9OR2VqaUlISDlRcGFKYVZEdXVuTXBXcjB4SXJJdw?oc=5\" target=\"_blank\">Semiconductors Become 'Supply Black Hole' as ETF Concentration Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Seoul Economic Daily reports that semiconductors are becoming a 'supply black hole' as ETF concentration intensifies. This suggests discussion of supply-chain dynamics and ETF capital flows into the semiconductor sector, likely including memory chips. The framing indicates analysis of concentration risk and supply pressures rather than a specific concrete event, making it a soft but relevant industry assessment."
+  },
+  "buffered_ts": 1782083364.790314
  }
 ]
