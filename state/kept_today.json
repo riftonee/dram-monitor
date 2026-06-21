@@ -433,5 +433,101 @@
    "summary": "Report that Apple and Google are evaluating Chinese memory suppliers while Samsung and SK hynix remain confident in their market positions. This is analysis/commentary on competitive dynamics rather than a confirmed event, deal, or concrete supply shift, making it soft news that warrants monitoring but lacks a specific catalyst."
   },
   "buffered_ts": 1781999042.566368
+ },
+ {
+  "id": "9ad2e059e81a2dc0518af1e32b4d79c900eaf3c5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Ships HBM4E DRAM To AI Customers - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFVJa2tZSE1EcFhMN3NzdVRscmlnWmN0X2tTT1VMNExfeEl2WDQxQjNLVUpGd1FleENRNnYzRG00eUxzeUpnVmdkeHk3SS05UzZndWJzRGtoeVhxbXhNODlZVXc1M25Rck56ZExEZG5EdnZyVFZCYjJUVlNMLTh0ZDMyQlFDbkRDdHVQVElRUHJvTjZxZFE?oc=5",
+  "published_at": "Sun, 21 Jun 2026 03:13:00 GMT",
+  "published_ts": 1782011580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFVJa2tZSE1EcFhMN3NzdVRscmlnWmN0X2tTT1VMNExfeEl2WDQxQjNLVUpGd1FleENRNnYzRG00eUxzeUpnVmdkeHk3SS05UzZndWJzRGtoeVhxbXhNODlZVXc1M25Rck56ZExEZG5EdnZyVFZCYjJUVlNMLTh0ZDMyQlFDbkRDdHVQVElRUHJvTjZxZFE?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Ships HBM4E DRAM To AI Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has begun shipping HBM4E DRAM to AI customers. This is a concrete, material development: HBM4E represents the next-generation high-bandwidth memory product, and actual shipments to customers constitute a real operational milestone and competitive win in the high-demand AI infrastructure memory market. This directly impacts a major fund holding and signals revenue-generating capacity in a key growth segment."
+  },
+  "buffered_ts": 1782013589.080904
+ },
+ {
+  "id": "e54a4e3f969fee30b875ae0aaf06316be6460e96",
+  "source": "zeera wireless",
+  "topic": "pricing",
+  "title": "Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing - zeera wireless",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wS2M1NklxSWY0bUpCemNGLWlMSzIyR2JGZjI0bXFBR1RLTkNpMVE3dlA5Z0ItR2Q1WUg2ZVo3SUVObFpzcl9rX2s4MEExNXJONmRiZTdkRHNNX3piNnhFclFUOHdVQlgzMC01QU56VWFzWjZ1VnZ6Yw?oc=5",
+  "published_at": "Sun, 21 Jun 2026 01:15:16 GMT",
+  "published_ts": 1782004516,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0wS2M1NklxSWY0bUpCemNGLWlMSzIyR2JGZjI0bXFBR1RLTkNpMVE3dlA5Z0ItR2Q1WUg2ZVo3SUVObFpzcl9rX2s4MEExNXJONmRiZTdkRHNNX3piNnhFclFUOHdVQlgzMC01QU56VWFzWjZ1VnZ6Yw?oc=5\" target=\"_blank\">Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zeera wireless</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "zeera wireless"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece discussing how rising memory prices and increased RAM (12GB) in iPhone 18 Pro could drive Apple's pricing higher. This is speculative commentary on future memory cost impact on consumer pricing rather than a confirmed price movement or actual memory price data, making it opinion-based analysis rather than a hard market signal."
+  },
+  "buffered_ts": 1782013589.080904
+ },
+ {
+  "id": "11accaefb194f587be7c0ecff4714fef9c383e88",
+  "source": "Yonhap News Agency",
+  "topic": "holding",
+  "title": "Samsung reviews HBM sales strategy, long-term agreements with key customers - Yonhap News Agency",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ual9YMkwwQWhBY2twTWc4Y0FsQ1VpeThEaHV2UXRkV0JSVXppaEdyeC1PQkNzSUE2cGk4X2RPZ0NZVzAxX1pTX204ME03Yk04a2FuOVBZR0xDQQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 01:29:10 GMT",
+  "published_ts": 1782005350,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ual9YMkwwQWhBY2twTWc4Y0FsQ1VpeThEaHV2UXRkV0JSVXppaEdyeC1PQkNzSUE2cGk4X2RPZ0NZVzAxX1pTX204ME03Yk04a2FuOVBZR0xDQQ?oc=5\" target=\"_blank\">Samsung reviews HBM sales strategy, long-term agreements with key customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yonhap News Agency</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yonhap News Agency"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is reviewing its HBM (high-bandwidth memory) sales strategy and long-term customer agreements. This signals potential shifts in Samsung's memory business positioning and customer contracts, but the story reports Samsung is reviewing/exploring options rather than announcing a concrete change, making it analysis-level rather than a confirmed event."
+  },
+  "buffered_ts": 1782013589.080904
+ },
+ {
+  "id": "d8c23c307f0e9bcaffbb525bb2d19bc5d8a9869c",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "SK Hynix Has a Major Warning for Micron Technology Stock Investors - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTTB6a3R6cE5idWpwVGotaFlTbFFXMWdsbFJKcGZmWmp4QjVnMUtlQjZ6S1hBV2R5RXJxeGJld082UDlqelQtQzFKb1d0YkZRRXlfRVRvMTQtamdDcGdxMGI5M0FOd25jbkQ0eXlaUjl1Wmx0Xy1YZVhpU1AybTllY3NHTllXa21DYnN1QWNsc3lTZXZRY2pUV0hXS21hc1VWRlFvUjdva09RN2swYVk0VjFPNm1DT3hRWkVLY3VqQmcxbktrU0hDY0RLU2pORl9kbXZmd01EUGJwMEhGeDk3SWxxOA?oc=5",
+  "published_at": "Fri, 19 Jun 2026 12:43:00 GMT",
+  "published_ts": 1781872980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTTB6a3R6cE5idWpwVGotaFlTbFFXMWdsbFJKcGZmWmp4QjVnMUtlQjZ6S1hBV2R5RXJxeGJld082UDlqelQtQzFKb1d0YkZRRXlfRVRvMTQtamdDcGdxMGI5M0FOd25jbkQ0eXlaUjl1Wmx0Xy1YZVhpU1AybTllY3NHTllXa21DYnN1QWNsc3lTZXZRY2pUV0hXS21hc1VWRlFvUjdva09RN2swYVk0VjFPNm1DT3hRWkVLY3VqQmcxbktrU0hDY0RLU2pORl9kbXZmd01EUGJwMEhGeDk3SWxxOA?oc=5\" target=\"_blank\">SK Hynix Has a Major Warning for Micron Technology Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix issues a warning regarding Micron Technology stock. This is analyst/commentary opinion on a holding company rather than a concrete event (earnings, guidance, or price move with disclosed cause), making it soft news that warrants monitoring but not an immediate alert."
+  },
+  "buffered_ts": 1782013589.080904
  }
 ]
