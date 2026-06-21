@@ -673,5 +673,125 @@
    "summary": "Korea market concentration story mentioning semiconductor giants (likely SK hynix and Samsung) and ETF activity. Generic market structure piece with no concrete event, earnings, price move catalyst, or material news affecting memory demand/supply or fund holdings."
   },
   "buffered_ts": 1782030455.8226628
+ },
+ {
+  "id": "5cb49c8bacb27912ff68c95dc220d7344c5b1da7",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "Micron Earnings: A Rare $2 Billion Gap Between Guidance and Street Hopes Puts HBM Scarcity in the Sp - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUno5Rm1MRkNYX3lGRjV2M25tSG93NjZDY05zSkxXdFM0SDZJeUt4UndwdlFWWGR0d0t6SUotWFVBcGtrMFBwOFU5YW50RmZNZnBZandFcEtHSGFwdnI2X0F1SjlsN2JNQkpiYVRDZF9xdnhjVmNUa0ZGbmxRS3FqRlNKa0xyVldMVzF1aGVHelNYc29xR3h0YVhJcEplRC1wNmdlSDB1NURyVTcwNTRubzBvSGRGRGNrR21GTFpjR3ptR2RVSXUyQw?oc=5",
+  "published_at": "Sun, 21 Jun 2026 10:45:00 GMT",
+  "published_ts": 1782038700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUno5Rm1MRkNYX3lGRjV2M25tSG93NjZDY05zSkxXdFM0SDZJeUt4UndwdlFWWGR0d0t6SUotWFVBcGtrMFBwOFU5YW50RmZNZnBZandFcEtHSGFwdnI2X0F1SjlsN2JNQkpiYVRDZF9xdnhjVmNUa0ZGbmxRS3FqRlNKa0xyVldMVzF1aGVHelNYc29xR3h0YVhJcEplRC1wNmdlSDB1NURyVTcwNTRubzBvSGRGRGNrR21GTFpjR3ptR2RVSXUyQw?oc=5\" target=\"_blank\">Micron Earnings: A Rare $2 Billion Gap Between Guidance and Street Hopes Puts HBM Scarcity in the Sp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported earnings with a significant $2 billion gap between guidance and Street expectations, with HBM (high-bandwidth memory) scarcity cited as a key factor. This is a concrete earnings development directly impacting a major fund holding."
+  },
+  "buffered_ts": 1782041450.9432988
+ },
+ {
+  "id": "5b937536a97230fde1f40c5f82096f88f0af5c6e",
+  "source": "Latest news from Azerbaijan",
+  "topic": "holding",
+  "title": "Samsung targets Nvidia and Google with new long-term HBM deals - Latest news from Azerbaijan",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0ZwV3B0ZnpBcVl0dUJUUTZUQzduc1dEakdEV1lWRXBzQmZaMFU0bDBEOTlCMk5DSy1KZWpzd0tsTUlsZnRlcXFYaEVfUTZlLXlMXzd2WXJCdkpSRVkzb3R3YjgzOW40aF9SR1oxSlE0bXI1X2JvTGxWNUNrdW9PcmlQX0ZubW9VTzM0?oc=5",
+  "published_at": "Sun, 21 Jun 2026 11:13:05 GMT",
+  "published_ts": 1782040385,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0ZwV3B0ZnpBcVl0dUJUUTZUQzduc1dEakdEV1lWRXBzQmZaMFU0bDBEOTlCMk5DSy1KZWpzd0tsTUlsZnRlcXFYaEVfUTZlLXlMXzd2WXJCdkpSRVkzb3R3YjgzOW40aF9SR1oxSlE0bXI1X2JvTGxWNUNrdW9PcmlQX0ZubW9VTzM0?oc=5\" target=\"_blank\">Samsung targets Nvidia and Google with new long-term HBM deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latest news from Azerbaijan</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Latest news from Azerbaijan"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung has announced new long-term HBM (high-bandwidth memory) supply agreements with Nvidia and Google. This is a concrete, officially announced deal involving a major fund holding (Samsung's semiconductor arm) securing significant HBM contracts with key AI-infrastructure customers, directly validating HBM demand and Samsung's competitive positioning in this critical growth market."
+  },
+  "buffered_ts": 1782041450.9432988
+ },
+ {
+  "id": "96a2e9bc984a95b39abef376fe1daff8747e24cb",
+  "source": "zeera wireless",
+  "topic": "pricing",
+  "title": "Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing - zeera wireless",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5obXJwdTdfbm9NZjJBdm8yNGlzMDdwUWJoTTF4TjhYd0FxTWFTZF8xbHZjYktfbVBtSEREV24zaWVDNXVyRTlpTlZ6NnN5Y0VaSUdkbnpiZkRseDFQeEpIZ1NHYkdhUno2Q3pkQzFLSF9PTkRYNkhiVnlPbmQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 04:12:02 GMT",
+  "published_ts": 1782015122,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5obXJwdTdfbm9NZjJBdm8yNGlzMDdwUWJoTTF4TjhYd0FxTWFTZF8xbHZjYktfbVBtSEREV24zaWVDNXVyRTlpTlZ6NnN5Y0VaSUdkbnpiZkRseDFQeEpIZ1NHYkdhUno2Q3pkQzFLSF9PTkRYNkhiVnlPbmQ?oc=5\" target=\"_blank\">Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zeera wireless</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "zeera wireless"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece speculating that iPhone 18 Pro pricing could increase due to 12GB RAM adoption and rising memory prices. While it touches on memory pricing dynamics relevant to DRAM, it is forward-looking speculation about Apple's future pricing strategy rather than a confirmed price movement or concrete pricing data from memory suppliers."
+  },
+  "buffered_ts": 1782041450.9432988
+ },
+ {
+  "id": "a989bbd7bd60930c6a4fd12258b3bb7bb3bea1a8",
+  "source": "SoyaCincau",
+  "topic": "pricing",
+  "title": "Report: iPhone 18 Pro could cost over RM6,300 as Apple faces soaring memory prices - SoyaCincau",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFVnLXV2Q0ZGSHpJelJHS19DUkcxRzBDMkg5Z2UyQlJqNDUwbkhUVGZTSXZLYjA4MkYxZ1h2Wml2emF0aUFseGRJTk1sUzZwWjE5QmNndGtXUkZZV0FpOEJuTFdYMzduanYwbnFiblk0OEpRNmtJOVd6WGRqUEpDM09KaUxXQzZXVHZESC02cGk1XzVxUjBnc3VB?oc=5",
+  "published_at": "Fri, 19 Jun 2026 11:44:06 GMT",
+  "published_ts": 1781869446,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFVnLXV2Q0ZGSHpJelJHS19DUkcxRzBDMkg5Z2UyQlJqNDUwbkhUVGZTSXZLYjA4MkYxZ1h2Wml2emF0aUFseGRJTk1sUzZwWjE5QmNndGtXUkZZV0FpOEJuTFdYMzduanYwbnFiblk0OEpRNmtJOVd6WGRqUEpDM09KaUxXQzZXVHZESC02cGk1XzVxUjBnc3VB?oc=5\" target=\"_blank\">Report: iPhone 18 Pro could cost over RM6,300 as Apple faces soaring memory prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyaCincau</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SoyaCincau"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report suggests iPhone 18 (future model) pricing could rise due to elevated memory costs. This reflects potential demand pressure on DRAM/NAND but is speculative—based on a report rather than confirmed pricing or actual memory price movements. Relevant to the memory cycle thesis but lacks hard data on current spot prices or binding commitments."
+  },
+  "buffered_ts": 1782041450.9432988
+ },
+ {
+  "id": "6ab7f04864639f1c9532c0dc8d945c76f07d15cc",
+  "source": "The Globe and Mail",
+  "topic": "fund",
+  "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdl9RVW9QMzM4elltcE1fNy1pcjFWU0pPQ2oyQ2lPOHFQdTJuamtndEdyZGpsSlIycFhOaGh6NU16LWxDNExUQ3Q1QXFfTm9XT3REdlAyTkdvREVxclhCcEFQSGdpSmdmcGxjb0lsalJLS2JUdkNCV2pYSFdsVGMyTHdua191OXBDNHJ4d2lSYWhySU1WNWU0V294ZmJITGVHal9KWjZDZUF4a1R6WWlYekZIUU9UR0JnRTVKcUhIY214aElTbzhyaFJjWldzYVRMTFFtZ05OdkJfek9LNXVBX3RWMVRMU1dUTUdV?oc=5",
+  "published_at": "Sat, 20 Jun 2026 17:50:51 GMT",
+  "published_ts": 1781977851,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdl9RVW9QMzM4elltcE1fNy1pcjFWU0pPQ2oyQ2lPOHFQdTJuamtndEdyZGpsSlIycFhOaGh6NU16LWxDNExUQ3Q1QXFfTm9XT3REdlAyTkdvREVxclhCcEFQSGdpSmdmcGxjb0lsalJLS2JUdkNCV2pYSFdsVGMyTHdua191OXBDNHJ4d2lSYWhySU1WNWU0V294ZmJITGVHal9KWjZDZUF4a1R6WWlYekZIUU9UR0JnRTVKcUhIY214aElTbzhyaFJjWldzYVRMTFFtZ05OdkJfek9LNXVBX3RWMVRMU1dUTUdV?oc=5\" target=\"_blank\">Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Article recommends an AI-focused memory ETF as a buy opportunity. Generic promotional coverage with no concrete news, market catalyst, or fund-specific developments disclosed."
+  },
+  "buffered_ts": 1782041450.9432988
  }
 ]
