@@ -337,5 +337,341 @@
    "summary": "Seoul Economic Daily reports that semiconductors are becoming a 'supply black hole' as ETF concentration intensifies. This suggests discussion of supply-chain dynamics and ETF capital flows into the semiconductor sector, likely including memory chips. The framing indicates analysis of concentration risk and supply pressures rather than a specific concrete event, making it a soft but relevant industry assessment."
   },
   "buffered_ts": 1782083364.790314
+ },
+ {
+  "id": "b1f0f262d3e7ad89c8e4c5c0c4c7c27edc6d8d17",
+  "source": "aju press",
+  "topic": "industry",
+  "title": "Samsung Expands HBM Supply in Second Half, Targeting AMD, Broadcom, and Google - aju press",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wVVR5RmFhb3pVUlczRndxR3Bod21kYzgtT0dsQXc3enFUaGpoMHFoT1BDZzRJcE5kNzJJVXJiWjJJd283T3pQNWNGX0FvblNPZlViT1hMSdIBV0FVX3lxTE0wVVR5RmFhb3pVUlczRndxR3Bod21kYzgtT0dsQXc3enFUaGpoMHFoT1BDZzRJcE5kNzJJVXJiWjJJd283T3pQNWNGX0FvblNPZlViT1hMSQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 07:04:00 GMT",
+  "published_ts": 1782025440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wVVR5RmFhb3pVUlczRndxR3Bod21kYzgtT0dsQXc3enFUaGpoMHFoT1BDZzRJcE5kNzJJVXJiWjJJd283T3pQNWNGX0FvblNPZlViT1hMSdIBV0FVX3lxTE0wVVR5RmFhb3pVUlczRndxR3Bod21kYzgtT0dsQXc3enFUaGpoMHFoT1BDZzRJcE5kNzJJVXJiWjJJd283T3pQNWNGX0FvblNPZlViT1hMSQ?oc=5\" target=\"_blank\">Samsung Expands HBM Supply in Second Half, Targeting AMD, Broadcom, and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aju press</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "aju press"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung officially expanding HBM (high-bandwidth memory) supply in H2, with confirmed targeting of major AI-chip customers AMD, Broadcom, and Google. This is a concrete capacity increase announcement directly tied to AI-infrastructure demand and memory cycle dynamics, materially relevant to the memory semiconductor industry and DRAM ETF holdings."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "65935602ea9eb983c0da1d9ace9670301dd5b1a5",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "As SK Hynix is securing profit sustainability through long-term supply contracts (LTAs), it is analy.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Z2FDcy1DVkxlM053STZTaXc3UlgtbnpvNEdfZEdRWmJFTHIxdFdQdEtBTlU2Z3M1UVRYNHRoUFVsVUVxclNGMmg5dUw4NVU?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:47:12 GMT",
+  "published_ts": 1782085632,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Z2FDcy1DVkxlM053STZTaXc3UlgtbnpvNEdfZEdRWmJFTHIxdFdQdEtBTlU2Z3M1UVRYNHRoUFVsVUVxclNGMmg5dUw4NVU?oc=5\" target=\"_blank\">As SK Hynix is securing profit sustainability through long-term supply contracts (LTAs), it is analy..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is securing long-term supply contracts (LTAs) to sustain profitability. This is a strategic development for a core DRAM holding, but the story appears to be analysis rather than reporting a confirmed contract signing or concrete terms, placing it at impact 3."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "7d6faa550602814bd94365fd70ae56fbe5c5433c",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "iM Securities raised its target stock prices of Samsung Electronics and SK Hynix by 20% and 26%, res.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWDJVaFptYkxWa3VhVmVpaHFaVnFacjZSUkdVU000VHVGOUM0Y29ZVlMtZkstdGpiMEE5N3ZEd000bEZZN2EyRThHWTd6UnNFcWc?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:45:07 GMT",
+  "published_ts": 1782085507,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWDJVaFptYkxWa3VhVmVpaHFaVnFacjZSUkdVU000VHVGOUM0Y29ZVlMtZkstdGpiMEE5N3ZEd000bEZZN2EyRThHWTd6UnNFcWc?oc=5\" target=\"_blank\">iM Securities raised its target stock prices of Samsung Electronics and SK Hynix by 20% and 26%, res..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "iM Securities raised target stock prices for Samsung Electronics (20%) and SK Hynix (26%). Analyst price-target increases are material to holdings but represent opinion/forecast rather than a concrete market event, placing this at impact 3."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "1bbf913245aaf27df3c3f86454950d2c961a227a",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Memory-chip shortage drives up consumer prices as AI devours supply meant for your devices - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QT3VaTHdNRlRxdFhHQUFQLXNnMTJIWDdFLUlURUd0QUQ2Nm1JTURpTEFEYm0yZ2h3RzUwbzZYajJpWV9PLTNnTXk1MklwNjdMalFrMU9rZWVHaFZha1RubkhNUmpnYVZrN0VLREU0dkU4R1c5Zzhpazd3?oc=5",
+  "published_at": "Mon, 22 Jun 2026 01:10:03 GMT",
+  "published_ts": 1782090603,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5QT3VaTHdNRlRxdFhHQUFQLXNnMTJIWDdFLUlURUd0QUQ2Nm1JTURpTEFEYm0yZ2h3RzUwbzZYajJpWV9PLTNnTXk1MklwNjdMalFrMU9rZWVHaFZha1RubkhNUmpnYVZrN0VLREU0dkU4R1c5Zzhpazd3?oc=5\" target=\"_blank\">Memory-chip shortage drives up consumer prices as AI devours supply meant for your devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses memory-chip shortage driven by AI demand consuming supply intended for consumer devices, pushing up prices. This touches on the core industry dynamic of AI capex pulling memory capacity and pricing, but the snippet alone lacks concrete data on production cuts, actual price movements, or confirmed supply figures—it reads as analysis rather than a reported event."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "ecefba3b30d5ca0acf2e38a507e74aeabc9c126d",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "SanDisk Bets on Stacking NAND and Compute on One Chip as HBM Shortages Choke the AI Boom - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON19FSG5FWnZ3QzJzdlRYTnNoRXp0bUxRSVppM1FIdXZwY25uZUR0UWZ6eEFfbE9ncUlOd3kyQjZyb09nTVJCVXBKZVVVVU53eFBHR1dZbGJnSFpyOWNjNWduaUg0WF9jUFVEUGhfNm5JdE91YUhpWXg3WDlpcmtNTNIBhgFBVV95cUxPVWFKUmlLZ1NaOEpSUlQzYnpLaUdxQVpQMDNMbVVaWTNxQXc0V0dIT0FRLThrbURWTW9uck1hRDJVeWQ3T1dNX21lUlRsYVFaNWRub1pkS285ZjRWWXpIb1ZBZFNtNkRzNGE0QlBPWjhhUkotTW1qR2tmQk9zejA1bnRzTWMtUQ?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:45:00 GMT",
+  "published_ts": 1782085500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxON19FSG5FWnZ3QzJzdlRYTnNoRXp0bUxRSVppM1FIdXZwY25uZUR0UWZ6eEFfbE9ncUlOd3kyQjZyb09nTVJCVXBKZVVVVU53eFBHR1dZbGJnSFpyOWNjNWduaUg0WF9jUFVEUGhfNm5JdE91YUhpWXg3WDlpcmtNTNIBhgFBVV95cUxPVWFKUmlLZ1NaOEpSUlQzYnpLaUdxQVpQMDNMbVVaWTNxQXc0V0dIT0FRLThrbURWTW9uck1hRDJVeWQ3T1dNX21lUlRsYVFaNWRub1pkS285ZjRWWXpIb1ZBZFNtNkRzNGE0QlBPWjhhUkotTW1qR2tmQk9zejA1bnRzTWMtUQ?oc=5\" target=\"_blank\">SanDisk Bets on Stacking NAND and Compute on One Chip as HBM Shortages Choke the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk exploring a chip design combining NAND and compute on a single die as a response to HBM supply constraints in AI infrastructure. This is a strategic initiative/product direction rather than a confirmed market event or binding development, making it forward-looking commentary rather than a concrete event."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "e67077797b214bac1f2c1c0f163fad50f18d4d59",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "NH Securities lifts SK Square target as Hynix rally draws Korea chip bulls - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDF3WUpyWTVZMWdJelBDZEQzbjk3RkhVc1FHQVJzMFRRR1VzbkMyOElxZ0hqMm5fZGc4cmVWYkxWMGVnekN5VHA4eGMzQUVWVWM2NlV5WkFvY3VVR3Z4Qi1kMUhUVXFET3d4QW1RY2tGSjZVS1BudDA2c2U3eFFuZtIBlAFBVV95cUxPTGdTa21xT1hjRHRlckhJV1VRY3VnclMwanVDMVBMYkROdDdDeVJxYlNwTTV6SEc2LU8tQ1pCYUZXSjBHckxxVkhwT3FPd2h0SndLNlBIVlFJcTRKUWktamsyQXBVQzJMbzFrVnQtM3RnVk16bUdrN3lSd196VS1sc2YxM290bnNIRmhpdmNNQ055d1Zj?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:39:00 GMT",
+  "published_ts": 1782085140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDF3WUpyWTVZMWdJelBDZEQzbjk3RkhVc1FHQVJzMFRRR1VzbkMyOElxZ0hqMm5fZGc4cmVWYkxWMGVnekN5VHA4eGMzQUVWVWM2NlV5WkFvY3VVR3Z4Qi1kMUhUVXFET3d4QW1RY2tGSjZVS1BudDA2c2U3eFFuZtIBlAFBVV95cUxPTGdTa21xT1hjRHRlckhJV1VRY3VnclMwanVDMVBMYkROdDdDeVJxYlNwTTV6SEc2LU8tQ1pCYUZXSjBHckxxVkhwT3FPd2h0SndLNlBIVlFJcTRKUWktamsyQXBVQzJMbzFrVnQtM3RnVk16bUdrN3lSd196VS1sc2YxM290bnNIRmhpdmNNQ055d1Zj?oc=5\" target=\"_blank\">NH Securities lifts SK Square target as Hynix rally draws Korea chip bulls - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "NH Securities raised its price target on SK Square (SK hynix's holding company) following a rally in SK hynix shares. This is an analyst note reflecting positive sentiment on the memory chipmaker, a key DRAM ETF holding, but represents opinion/forecast rather than a confirmed event or concrete catalyst."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "1d78c01b55cac98f8f8de2e307fb426a112f6e21",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Fact-Checks US ADR Listing: Share Price Set Only Just Before Debut - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUEtazdUbGl2aGhDb0hxaEVDMndLaGQ4emxkWHFpNktmMjlNQUtDTDU5cnhQVzdySm5mTG5aa0VicFd4SDVnTTkwb0FaVm5JTklMeDZCS0s5Vk9samdxOXZDXzRycHNjb041ek9Xd2g1ZjBEcEdfNUVKVlNXcDloVXM0OHhrbkR4SW5aQXdWMm56Nm1acUc3cURPZ2oyV0k?oc=5",
+  "published_at": "Mon, 22 Jun 2026 01:32:18 GMT",
+  "published_ts": 1782091938,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUEtazdUbGl2aGhDb0hxaEVDMndLaGQ4emxkWHFpNktmMjlNQUtDTDU5cnhQVzdySm5mTG5aa0VicFd4SDVnTTkwb0FaVm5JTklMeDZCS0s5Vk9samdxOXZDXzRycHNjb041ek9Xd2g1ZjBEcEdfNUVKVlNXcDloVXM0OHhrbkR4SW5aQXdWMm56Nm1acUc3cURPZ2oyV0k?oc=5\" target=\"_blank\">SK hynix Fact-Checks US ADR Listing: Share Price Set Only Just Before Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is proceeding with a US ADR listing, with share price to be set shortly before debut. This is a corporate capital-markets event for a major fund holding but lacks concrete pricing or timing details; it signals potential liquidity changes and market access expansion but is not yet a confirmed market-moving event."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "4ec428319e37bf2d212a292ec21cad46f00c32b4",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Semiconductors Become 'Supply Black Hole' as ETF Concentration Intensifies - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWJYTTZhV2hsUk5CUEcxMjdDTm11cFhpYXBkV3FHeXVUaFlNYnpRS2lKYURNenRhY2tJRWhWN1gtY2FDRGhBZzhXdWZlZU1qTFBxMXVvVEt0MGZjZ2RfNll3bFZ5MGdOVnQxdTVlT3dEdVJGZFhGdGpoVlI5eWhKMTBoeXowN3Z2OHpfZFNCUjNfRmM?oc=5",
+  "published_at": "Sun, 21 Jun 2026 22:00:05 GMT",
+  "published_ts": 1782079205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWJYTTZhV2hsUk5CUEcxMjdDTm11cFhpYXBkV3FHeXVUaFlNYnpRS2lKYURNenRhY2tJRWhWN1gtY2FDRGhBZzhXdWZlZU1qTFBxMXVvVEt0MGZjZ2RfNll3bFZ5MGdOVnQxdTVlT3dEdVJGZFhGdGpoVlI5eWhKMTBoeXowN3Z2OHpfZFNCUjNfRmM?oc=5\" target=\"_blank\">Semiconductors Become 'Supply Black Hole' as ETF Concentration Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article discusses semiconductor supply constraints and ETF concentration intensification, likely referencing DRAM and similar memory-focused ETFs. The 'supply black hole' framing suggests structural supply tightness in semiconductors, which would support memory demand and pricing. However, without specific numbers, confirmed events, or concrete supply/production data, this reads as analysis or commentary rather than a hard event. Relevant to fund dynamics but speculative in nature."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "e364b78ee9a9ec9b8642955e540a20763b881117",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Hanwha lifts SK hynix target on AI-fueled stability, eyes Korea rerating - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnFzQk9Bd0ZnMnlORVhSUzdvWE5aazYxR3AxejNOUVl0dTZtdDViWTdYdEZTRjFPZ1d2OTdyTzByLTh2TDVSbVVFM0kzd3Y5cFBqZ1haM1NTWU1KeWRVMXUtR1U4S1VFRWFyc2ZidW13a1IxSnVpV1RWTExEanlnZdIBlAFBVV95cUxQVzRmdFZOM0YwRnB5WU56ZkxtazE4a2w5dGpjRUlqSE5obDZiTGppdTBxcXJSWmZmOUROellaTFlGcnc5aVJBbzlYa202cFp3cWtBU0ZyeEl0dXBUYUZSeTFvbklhRzdVRjBIdUZ1Z1BhNlM3ZDhSS015SUpJeVVaX3hjdHdiZUYzdHhkcjNLell2RzBV?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:46:00 GMT",
+  "published_ts": 1782085560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnFzQk9Bd0ZnMnlORVhSUzdvWE5aazYxR3AxejNOUVl0dTZtdDViWTdYdEZTRjFPZ1d2OTdyTzByLTh2TDVSbVVFM0kzd3Y5cFBqZ1haM1NTWU1KeWRVMXUtR1U4S1VFRWFyc2ZidW13a1IxSnVpV1RWTExEanlnZdIBlAFBVV95cUxQVzRmdFZOM0YwRnB5WU56ZkxtazE4a2w5dGpjRUlqSE5obDZiTGppdTBxcXJSWmZmOUROellaTFlGcnc5aVJBbzlYa202cFp3cWtBU0ZyeEl0dXBUYUZSeTFvbklhRzdVRjBIdUZ1Z1BhNlM3ZDhSS015SUpJeVVaX3hjdHdiZUYzdHhkcjNLell2RzBV?oc=5\" target=\"_blank\">Hanwha lifts SK hynix target on AI-fueled stability, eyes Korea rerating - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Hanwha raises SK hynix price target citing AI-driven demand stability and Korea rerating opportunity. This is analyst commentary and price-target revision, not a confirmed event or hard catalyst."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "d8d6232daecea3d12f973f3ee03c48aa9eb3b46b",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix Target Raised to 4.3 Million Won, Called \"Top Investment Pick\" - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEVwOUVkdGxhLXBBVHFBQWhqVG56MUVXNUNFcFFKQ1BFbm1BVGJRVXkzdE9wZHVvLUxiNmF1RkRzUHV6dTcwWTF1M1ZicUp0V0o1MXZkVjFBYWNzZjBDWXQxRGVETUc2MXBMOXI5Ylg3b3FsM0tJVld4OTk5NHhvYVhsczBvdlVnYXNjeWtrSkVTWDNveko4U1N3?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:28:06 GMT",
+  "published_ts": 1782084486,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEVwOUVkdGxhLXBBVHFBQWhqVG56MUVXNUNFcFFKQ1BFbm1BVGJRVXkzdE9wZHVvLUxiNmF1RkRzUHV6dTcwWTF1M1ZicUp0V0o1MXZkVjFBYWNzZjBDWXQxRGVETUc2MXBMOXI5Ylg3b3FsM0tJVld4OTk5NHhvYVhsczBvdlVnYXNjeWtrSkVTWDNveko4U1N3?oc=5\" target=\"_blank\">SK hynix Target Raised to 4.3 Million Won, Called \"Top Investment Pick\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix received a target price raise to 4.3 million won and was designated a 'Top Investment Pick' by an analyst. This is a positive sentiment signal on a core DRAM fund holding, but represents an analyst opinion/target change rather than a concrete event or confirmed market catalyst."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "fbf743afd97974bee9d8e6e29ed576ce7c8e5abc",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "The EU Bids to Catch Samsung and SK hynix, and May Have to Lean on Them - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak5nanhuVUFSYlZXOW4wLTUzeHlCRTZyR0pZaF91MGlnZ2drSnVWRjVRS0gxNUJhbUNwOURhQ1RBUUJvZTdZQnpCU0J1bm1ieUVFQmNVOXBLZGUwaDNRQmxxNDBFRVVqeFZybmNSMGFQNkZ5Q0hSaUJGT2F5aWhJdGt1R2RtREs2MGFKbkQ1a0ZiMjdNazNvSzRtcEV3YWpVcTQ5ZEZrTQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 01:39:12 GMT",
+  "published_ts": 1782092352,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQak5nanhuVUFSYlZXOW4wLTUzeHlCRTZyR0pZaF91MGlnZ2drSnVWRjVRS0gxNUJhbUNwOURhQ1RBUUJvZTdZQnpCU0J1bm1ieUVFQmNVOXBLZGUwaDNRQmxxNDBFRVVqeFZybmNSMGFQNkZ5Q0hSaUJGT2F5aWhJdGt1R2RtREs2MGFKbkQ1a0ZiMjdNazNvSzRtcEV3YWpVcTQ5ZEZrTQ?oc=5\" target=\"_blank\">The EU Bids to Catch Samsung and SK hynix, and May Have to Lean on Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "EU is pursuing semiconductor self-sufficiency but may need to partner with or rely on Samsung and SK hynix. This reflects broader industry dynamics around fab capacity and geopolitical semiconductor strategy, relevant to memory demand and supply chains, but the story is forward-looking strategy discussion rather than a concrete event or announcement."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "5580fd8122d15e4c13b2441c5ebe986ae72c1658",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK Square Target Price Raised to 2.7 Million Won on Chip Boom - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzZwNUF4ZnNobDA4Zm1nTWs2NDRWWGxUZkNUZjRQU3BZZjBtdHQ0WHdXcEhSUzJfQk1fdDVkbkp6RUNMc3JXMzVBSnZQYm12RTVHRGpPMVNqZHJOR0JVWXJIdjdwSE96cldUNVROSzViMnR2SGdqMG9sYWFOcGFnUENBWVJiOGRJTU1rWG00R0ZKNzY3VFpkVmlyT0VtV0N5cHFRWA?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:48:24 GMT",
+  "published_ts": 1782085704,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObzZwNUF4ZnNobDA4Zm1nTWs2NDRWWGxUZkNUZjRQU3BZZjBtdHQ0WHdXcEhSUzJfQk1fdDVkbkp6RUNMc3JXMzVBSnZQYm12RTVHRGpPMVNqZHJOR0JVWXJIdjdwSE96cldUNVROSzViMnR2SGdqMG9sYWFOcGFnUENBWVJiOGRJTU1rWG00R0ZKNzY3VFpkVmlyT0VtV0N5cHFRWA?oc=5\" target=\"_blank\">SK Square Target Price Raised to 2.7 Million Won on Chip Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Square (parent of SK hynix) target price raised to 2.7 million won by analyst on chip-boom outlook. Analyst price-target raise is opinion-based and forward-looking; no concrete event or hard number disclosed. Relevant because SK hynix is a fund holding, but the soft analyst call merits a 3 rather than 4."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "c396a0e0196938cc9c9fff61e783acf8dd3bc23e",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "South Korean Semiconductors Lead 4-Year EM Profit Rebound - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjlxamJkV0FQYUQtRXdsMXFlQ1ItWi1kaklORFZNZ25MWGZXeTJJZEY3andXdjk2LUluNTQ4UXkzUjNqbzNxVlg2YkxCQjRUMWp3N0JiVUxuODAzc042SUJZT3ZmdmxiZUtQa2lVdEZUMDhhTE5OS0VJQncyamNGMEVWc1NzWXZfVk9TMmh3?oc=5",
+  "published_at": "Sun, 21 Jun 2026 23:47:21 GMT",
+  "published_ts": 1782085641,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjlxamJkV0FQYUQtRXdsMXFlQ1ItWi1kaklORFZNZ25MWGZXeTJJZEY3andXdjk2LUluNTQ4UXkzUjNqbzNxVlg2YkxCQjRUMWp3N0JiVUxuODAzc042SUJZT3ZmdmxiZUtQa2lVdEZUMDhhTE5OS0VJQncyamNGMEVWc1NzWXZfVk9TMmh3?oc=5\" target=\"_blank\">South Korean Semiconductors Lead 4-Year EM Profit Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean semiconductors, including key DRAM fund holdings SK hynix and Samsung, are leading emerging market profit recovery over a 4-year period. Positive earnings trend for holdings but lacks concrete event, specific numbers, or near-term catalyst; framed as analysis/observation rather than a reported earnings result or guidance change."
+  },
+  "buffered_ts": 1782093717.1846137
+ },
+ {
+  "id": "c62d70895f3a61d48f333189cd5717a58fa98d60",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "\"SK hynix Soars Again\" KOSPI Recovers 9,100 Level... Market Cap Gap Between Samsung and Hynix Narrows to 30 Trillion Won - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15VDBlandNRmwzM2pNUW9zeDdxMkt0RkN6c1hjVXdRZkhoNEV2X3dTajd3aGFyQ3FkNXZPaWstcDA3TTFuVDFCX0IzUzFNUXpPeTRuWExyTVI0OUhSYzdDUEdmOUw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 01:02:16 GMT",
+  "published_ts": 1782090136,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE15VDBlandNRmwzM2pNUW9zeDdxMkt0RkN6c1hjVXdRZkhoNEV2X3dTajd3aGFyQ3FkNXZPaWstcDA3TTFuVDFCX0IzUzFNUXpPeTRuWExyTVI0OUhSYzdDUEdmOUw?oc=5\" target=\"_blank\">\"SK hynix Soars Again\" KOSPI Recovers 9,100 Level... Market Cap Gap Between Samsung and Hynix Narrows to 30 Trillion Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock price recovered along with the broader KOSPI index, narrowing the market-cap gap with Samsung. A market price move is noted but no concrete catalyst or news driver is disclosed, and the item appears to be routine market reporting rather than a material development in memory fundamentals or the company's operations."
+  },
+  "buffered_ts": 1782093717.1846137
  }
 ]
