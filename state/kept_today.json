@@ -1,1 +1,545 @@
-[]
+[
+ {
+  "id": "8025e47c4c9cc45aab0d79c987045cc145d3dfcc",
+  "source": "Startup Fortune",
+  "topic": "holding",
+  "title": "SK Hynix surpasses Samsung to become South Korea's most valuable company as AI memory demand reshapes the semiconductor hierarchy - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzBfUms4TGdHZEwzUU9wT2NOd3FKQmR0Wmo0X1BhRnJGRUkzaGVxVU43cF96WG9fYkM2WkpqVGVyUF92Q3Bsa1BPLUtyRllFOVEwQmd3MUpTUEd0LW9JeTl4dTFVSXFsb05IZG9sUFdUZjFtek1oeW9BVGd5Rkp6OGh2NzBrdTVJcmxIOEZIRzJoSU1rdmk0UVFsQWRGSF9DVlB5Q0FqLU5PSi1wMnM1cklOcmdoc2xqWFAwUnphdlhFZllTVnRUSFJDbFh2eGNuMlFFRngtNFJ6bS1HeFUtYktOcThGQjFqYk54dw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 08:24:56 GMT",
+  "published_ts": 1782116696,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzBfUms4TGdHZEwzUU9wT2NOd3FKQmR0Wmo0X1BhRnJGRUkzaGVxVU43cF96WG9fYkM2WkpqVGVyUF92Q3Bsa1BPLUtyRllFOVEwQmd3MUpTUEd0LW9JeTl4dTFVSXFsb05IZG9sUFdUZjFtek1oeW9BVGd5Rkp6OGh2NzBrdTVJcmxIOEZIRzJoSU1rdmk0UVFsQWRGSF9DVlB5Q0FqLU5PSi1wMnM1cklOcmdoc2xqWFAwUnphdlhFZllTVnRUSFJDbFh2eGNuMlFFRngtNFJ6bS1HeFUtYktOcThGQjFqYk54dw?oc=5\" target=\"_blank\">SK Hynix surpasses Samsung to become South Korea's most valuable company as AI memory demand reshapes the semiconductor hierarchy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has surpassed Samsung to become South Korea's most valuable company, driven by AI memory demand reshaping semiconductor hierarchy. This reflects a concrete market valuation shift for a major DRAM ETF holding, signaling strong momentum in HBM and memory demand tied to AI infrastructure."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "e49836bef03354074551f5b34e95e095ab7a2861",
+  "source": "eciks.org",
+  "topic": "fund",
+  "title": "Roundhill's memory-focused ETF hits $20 billion in assets, capitalizing on surging demand for AI data center chips - eciks.org",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uMUZYT3lmYXRTRndBT05SNThNMnFRdm1uN2hubWo0UnNIZHdZUC1vWjY0dVY0ekxzcW5iRkRmSE1XSWJ5cEFvVmhYOV9henIwUE9TQl82TUtuNjhoa2dIOURkNUVjZGZIVnJkcjBOZmg?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:58:25 GMT",
+  "published_ts": 1782136705,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5uMUZYT3lmYXRTRndBT05SNThNMnFRdm1uN2hubWo0UnNIZHdZUC1vWjY0dVY0ekxzcW5iRkRmSE1XSWJ5cEFvVmhYOV9henIwUE9TQl82TUtuNjhoa2dIOURkNUVjZGZIVnJkcjBOZmg?oc=5\" target=\"_blank\">Roundhill's memory-focused ETF hits $20 billion in assets, capitalizing on surging demand for AI data center chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "eciks.org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill's memory-focused ETF (DRAM) has reached $20 billion in assets under management, a concrete milestone driven by surging AI data center chip demand. This is a material fund-level event indicating strong investor interest and fund growth."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "d52e0547c1ff12c51582332d38905866f7d9198d",
+  "source": "Cybernews",
+  "topic": "holding",
+  "title": "AI chip boom pushes SK Hynix past Samsung to become South Korea’s most valuable company - Cybernews",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1peXA0MENfOGpMN3ZEMElQWGNSV1l3OTMtcmRCckRWaG5ZMUl2ZHBhWXJKY0pfTERGeVBKOTlJTnE1SHh1M2JNS3ZJMWprQ1U5ZzRlZGRvcFZNSVV4aFRmc3pFZmhLUERLZHZ5SjdQcXNpc2ttT0E?oc=5",
+  "published_at": "Mon, 22 Jun 2026 05:57:10 GMT",
+  "published_ts": 1782107830,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1peXA0MENfOGpMN3ZEMElQWGNSV1l3OTMtcmRCckRWaG5ZMUl2ZHBhWXJKY0pfTERGeVBKOTlJTnE1SHh1M2JNS3ZJMWprQ1U5ZzRlZGRvcFZNSVV4aFRmc3pFZmhLUERLZHZ5SjdQcXNpc2ttT0E?oc=5\" target=\"_blank\">AI chip boom pushes SK Hynix past Samsung to become South Korea’s most valuable company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
+  "corroboration": {
+   "count": 4,
+   "sources": [
+    "Cybernews",
+    "NDTV",
+    "marketscreener.com",
+    "صحيفة مال"
+   ],
+   "titles": [
+    "SK Hynix Beats Samsung In Market Value To Become South Korea's Most Valuable Company - NDTV",
+    "SK Hynix overtakes Samsung as South Korea’s most valuable company - marketscreener.com",
+    "SK Hynix Overtakes Samsung to Become South Korea's Most Valuable Company - صحيفة مال"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, has surpassed Samsung to become South Korea's most valuable company, driven by the AI chip boom and strong demand for memory semiconductors. This represents a concrete market-moving event reflecting the fund's holdings' improved competitive positioning and valuation in the AI infrastructure cycle."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "5aa9edb0b346c39a12aa6901f45a17648597c1ca",
+  "source": "Yahoo Finance",
+  "topic": "fund",
+  "title": "DRAM ETF Climbs 3% Premarket: Ahead Of Potential US IPO, SK Hynix Beats Samsung As South Korea’s Most Valuable Company - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEh5enkzeHpzQmVIOFB1LU1reGlUZ2tmckF5Yml5MHNzcENoQkNiYV9Rb09Rb1hzVWR0cHRVMXJKN2o0TmdrVnVRbHBXazh3WEFFeWhrN3Ewaks0QWtsLUJlYWpOVVFsVDd0cklHX0dackNJSzEtTHdpd3NoOGJGYWdVY3pfclBuaEdSYkFsb1VPMkFoWkZF?oc=5",
+  "published_at": "Mon, 22 Jun 2026 09:00:27 GMT",
+  "published_ts": 1782118827,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEh5enkzeHpzQmVIOFB1LU1reGlUZ2tmckF5Yml5MHNzcENoQkNiYV9Rb09Rb1hzVWR0cHRVMXJKN2o0TmdrVnVRbHBXazh3WEFFeWhrN3Ewaks0QWtsLUJlYWpOVVFsVDd0cklHX0dackNJSzEtTHdpd3NoOGJGYWdVY3pfclBuaEdSYkFsb1VPMkFoWkZF?oc=5\" target=\"_blank\">DRAM ETF Climbs 3% Premarket: Ahead Of Potential US IPO, SK Hynix Beats Samsung As South Korea’s Most Valuable Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF climbed 3% premarket; SK hynix (a major holding) became South Korea's most valuable company ahead of a potential US IPO. The move is concrete but the causation to the ETF's price move is not explicitly detailed, and IPO potential remains prospective rather than confirmed."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "4e1b134ee35cb1fa03a012b42d9073d0f6a916f5",
+  "source": "eciks.org",
+  "topic": "holding",
+  "title": "Memory chip maker SanDisk surges to record levels amid global flash storage shortage and rising AI demand - eciks.org",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MaXZncEZLMDB1UEllWGpOdjNqR1MxeVFpaTdtbVFqZTd5aUlnTEJDNjc5dGZkbE5MamJPX0h3ZS1QS0pZeWtsbG14Z1NWdmpZZkVzQ2NKUDU5Y3FWdzF3WFg0Zm51b20tcVY3c2hqNA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 14:01:31 GMT",
+  "published_ts": 1782136891,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1MaXZncEZLMDB1UEllWGpOdjNqR1MxeVFpaTdtbVFqZTd5aUlnTEJDNjc5dGZkbE5MamJPX0h3ZS1QS0pZeWtsbG14Z1NWdmpZZkVzQ2NKUDU5Y3FWdzF3WFg0Zm51b20tcVY3c2hqNA?oc=5\" target=\"_blank\">Memory chip maker SanDisk surges to record levels amid global flash storage shortage and rising AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "eciks.org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock reported at record levels amid claims of global flash storage shortage and rising AI demand. While SanDisk is a DRAM ETF holding and flash/NAND pricing and AI demand are relevant to the memory cycle, the story lacks concrete data: no specific price figures, shortage quantification, or confirmed demand metrics are provided—only general assertions of 'surge' and 'shortage.' Without disclosed earnings, guidance, or hard numbers, this reads as market commentary rather than a confirmed event."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "72c2d6b1384ada672f21ed047df1993fed21eec2",
+  "source": "zeera wireless",
+  "topic": "pricing",
+  "title": "Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing - zeera wireless",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hS2hoRW0xSnVWdEdJT0JxOXBCWU5VZl95SWxCUDkxQndiZmNyaU5iZTdjUmtoVm53TEhCTTFXSkxmVmRkbnhzQ3FhM2FYNWotUUIxZTdoUUtOY24yMUM3aXRhYU9aZTRnWk1YRlF1eVh1YXQxSldkcWdMTjM?oc=5",
+  "published_at": "Sun, 21 Jun 2026 01:15:16 GMT",
+  "published_ts": 1782004516,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5hS2hoRW0xSnVWdEdJT0JxOXBCWU5VZl95SWxCUDkxQndiZmNyaU5iZTdjUmtoVm53TEhCTTFXSkxmVmRkbnhzQ3FhM2FYNWotUUIxZTdoUUtOY24yMUM3aXRhYU9aZTRnWk1YRlF1eVh1YXQxSldkcWdMTjM?oc=5\" target=\"_blank\">Why iPhone 18 Pro Could Cost More: How 12GB RAM and Rising Memory Prices May Affect Apple's Pricing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zeera wireless</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "zeera wireless"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece discussing potential iPhone 18 Pro price increases driven by rising memory costs and increased RAM specifications (12GB). Reflects pricing trend discussion but lacks concrete data on actual DRAM spot/contract prices or confirmed supply constraints; positions memory cost as a speculative factor in future Apple pricing strategy rather than reporting a market event."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "fca7940f08772beb1ad17b540528ac7b23dad1a4",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Micron and Western Digital Rise 6%, SanDisk Gains 5% as Memory Stocks Rally Into Micron's Earnings - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQVBQYTRaY0pYU29PLWFMZ3p0b3kzajhuMjZIa3ZqQy16cVRTaXhRU0lHV3BhQ2pFSDFMZHRUYjNBTndrakx5TmNVSTN5N3hFM05DbGZ1TFpacXA3SEpJUXRtQVBjNExldVRsQkUwMkdrdkNSdDBJOV9Yb0NxSHNLdWVEdUhHMzAzU01VSUFqS0VDQ1gtUE9GYVpuU1RTbHFwSlZhekk1TDJ6alJ3d2lzcTk5ZXozS00wTWtsaUo0WFU3NjlsUWk5djVVTWZxMkhpNXpIUg?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:29:40 GMT",
+  "published_ts": 1782134980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQVBQYTRaY0pYU29PLWFMZ3p0b3kzajhuMjZIa3ZqQy16cVRTaXhRU0lHV3BhQ2pFSDFMZHRUYjNBTndrakx5TmNVSTN5N3hFM05DbGZ1TFpacXA3SEpJUXRtQVBjNExldVRsQkUwMkdrdkNSdDBJOV9Yb0NxSHNLdWVEdUhHMzAzU01VSUFqS0VDQ1gtUE9GYVpuU1RTbHFwSlZhekk1TDJ6alJ3d2lzcTk5ZXozS00wTWtsaUo0WFU3NjlsUWk5djVVTWZxMkhpNXpIUg?oc=5\" target=\"_blank\">Micron and Western Digital Rise 6%, SanDisk Gains 5% as Memory Stocks Rally Into Micron's Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Memory stocks including Micron (MU), Western Digital (WDC), and SanDisk (SNDK) rallied 5–6% ahead of Micron's earnings announcement. This is a price-movement story with no disclosed concrete catalyst, making it sentiment-driven rather than event-based."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "dc6fd0e080225dcf87c7a992654b7a8fe08688b8",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix's market capitalization surpasses Bitcoin as HBM technological barriers reshape capital logic - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3duQ0pjUjVmMDdSdlZrU0NOQUFDdjdJV1Znel96S01FOFFpTl9BbEVndHVmT3FEOVZFa0JydEJybWpoSDJKU3Ntal84V3VxNE1TZnJNcDdOeTRLU3BaYzlQUGNaZl9iaTI3NVdzbjJrODF1cmFKWnpwOEQ1WjN6T2szUGZIdGtKeFNVNnM1Zndab3IwWUF1NzJBU2dJRkdSZExSeGFIc2JBX2hTVHpIaDFwQQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 12:39:18 GMT",
+  "published_ts": 1782131958,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3duQ0pjUjVmMDdSdlZrU0NOQUFDdjdJV1Znel96S01FOFFpTl9BbEVndHVmT3FEOVZFa0JydEJybWpoSDJKU3Ntal84V3VxNE1TZnJNcDdOeTRLU3BaYzlQUGNaZl9iaTI3NVdzbjJrODF1cmFKWnpwOEQ1WjN6T2szUGZIdGtKeFNVNnM1Zndab3IwWUF1NzJBU2dJRkdSZExSeGFIc2JBX2hTVHpIaDFwQQ?oc=5\" target=\"_blank\">SK Hynix's market capitalization surpasses Bitcoin as HBM technological barriers reshape capital logic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Moomoo",
+    "富途牛牛"
+   ],
+   "titles": [
+    "SK Hynix's market capitalization surpasses Bitcoin as HBM technological barriers reshape capital logic - 富途牛牛"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix market cap surpasses Bitcoin; HBM technological developments cited as reshaping capital allocation logic. Soft commentary on market dynamics and valuation rather than a concrete earnings or guidance event."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "f7d5d7332613294a076466d39fb217f757900340",
+  "source": "India Today",
+  "topic": "holding",
+  "title": "SK Hynix overtakes Samsung, becomes most valuable company in South Korea - India Today",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFZWVVVIUEUtUm82Y1ZXeUY3UVF1VW1IVXgzb3VLR1lGbWR3RjJob25adG9GWjc1RXFYMmwzSW9Oc0phUW1FN29oNXI5aUJuNDhWNU8zXzhwbEhkYVZKRXdHUlNybTctTmtuT0tIdGUzX1hLYktnb1VNaDNtSFg4alI5ZGJUeUlfendXeWhERkplNDI2cjhjMlZxVnVHdzV6TktXbzgtWDZ4TlBRY2FkWk5xSmJ4aUNoLUlhQ0VwN3dYMGR6REp5VDNoYkw1bTRQQ0VHaQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 12:17:32 GMT",
+  "published_ts": 1782130652,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFZWVVVIUEUtUm82Y1ZXeUY3UVF1VW1IVXgzb3VLR1lGbWR3RjJob25adG9GWjc1RXFYMmwzSW9Oc0phUW1FN29oNXI5aUJuNDhWNU8zXzhwbEhkYVZKRXdHUlNybTctTmtuT0tIdGUzX1hLYktnb1VNaDNtSFg4alI5ZGJUeUlfendXeWhERkplNDI2cjhjMlZxVnVHdzV6TktXbzgtWDZ4TlBRY2FkWk5xSmJ4aUNoLUlhQ0VwN3dYMGR6REp5VDNoYkw1bTRQQ0VHaQ?oc=5\" target=\"_blank\">SK Hynix overtakes Samsung, becomes most valuable company in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "India Today",
+    "Phandroid"
+   ],
+   "titles": [
+    "SK Hynix Overtakes Samsung as Korea’s Most Valuable Company - Phandroid"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has overtaken Samsung to become South Korea's most valuable company by market capitalization. This reflects investor confidence in the memory chipmaker and shifts market positioning among the fund's major holdings, but represents a valuation/sentiment move rather than a concrete operational event or earnings catalyst."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "866781f2f891a02e39b270c049c7a23a1f641cea",
+  "source": "Blockonomi",
+  "topic": "industry",
+  "title": "SanDisk (SNDK) Surges to 52-Week Peak Amid Worsening Memory Chip Shortage - Blockonomi",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEc1bHMzZFl5aXNvYl8wZlhrMVM2V1hiZGdiZk5pelRUYUR1dXRESUVJZmc0SHlPVlpzZkplS3lfaEpkdTNQdEcwMFA4NTJUbHM0ZzF2T1dYSEJNX1hjLTJUeWY4MVpsWFhNdm9VZDhuV0ZnNWV0MlI1ckltV2NidjMxYTBzRU1RUXJ5ZTV6MjlCNVVQcWlVV0ZDMA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:24:37 GMT",
+  "published_ts": 1782134677,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEc1bHMzZFl5aXNvYl8wZlhrMVM2V1hiZGdiZk5pelRUYUR1dXRESUVJZmc0SHlPVlpzZkplS3lfaEpkdTNQdEcwMFA4NTJUbHM0ZzF2T1dYSEJNX1hjLTJUeWY4MVpsWFhNdm9VZDhuV0ZnNWV0MlI1ckltV2NidjMxYTBzRU1RUXJ5ZTV6MjlCNVVQcWlVV0ZDMA?oc=5\" target=\"_blank\">SanDisk (SNDK) Surges to 52-Week Peak Amid Worsening Memory Chip Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Blockonomi"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, reached a 52-week peak amid reported worsening memory chip shortage. While the stock move and shortage narrative are relevant to the fund, the report lacks concrete details on the shortage's magnitude, duration, pricing impact, or confirmed supply data—it reads as market commentary rather than a disclosed event with hard numbers."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "0e9f6a1fe79af747e14aa9391f1ceceefb649ba2",
+  "source": "Insider Monkey",
+  "topic": "holding",
+  "title": "Sandisk Corporation (SNDK) Jumped on Improving Memory Fundamentals - Insider Monkey",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1QweVAybFNGeTU2M3FCNDkzdEhlLXNPbzg0bmZOa21QTWxDYTAzd1Z1SUVoQi13Mjd0R2tESWR0VUUwVHI5YmtmZllxTUhPYjljYVdmMUpGdzdXMEhaUnhKNl9IbHZlLV9ZS3JMMExPZ19jRVZwb29RMTBKSjhoSTFKeVJmUWI5dldUUTl6OXB1WlRaNGlMdXdzOHBkQTcxa3U1WGU5WS1PdWFv0gG0AUFVX3lxTE43dE1CWGoxQ2QtdmdidVZ0VWo2V0hmYnBOb0ZCU2JfM1BlTWRxQndDUG12SGlqU0hIU0tkX053OXo3QzV0aXVsejUtNVpvYUNIYUxRT1VzRXVSMzBvMTBRQWlxZUtveUJQdjl4ZThtb1N3ZUJEYUplTEhOakZidGdMdjBRdWdTY0wxa2x5MktGY0g3Wm5WQXRXQ1BXcUJITHVlQXJacVRhNzJHV0pnbVFwdjhjbA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:33:49 GMT",
+  "published_ts": 1782135229,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1QweVAybFNGeTU2M3FCNDkzdEhlLXNPbzg0bmZOa21QTWxDYTAzd1Z1SUVoQi13Mjd0R2tESWR0VUUwVHI5YmtmZllxTUhPYjljYVdmMUpGdzdXMEhaUnhKNl9IbHZlLV9ZS3JMMExPZ19jRVZwb29RMTBKSjhoSTFKeVJmUWI5dldUUTl6OXB1WlRaNGlMdXdzOHBkQTcxa3U1WGU5WS1PdWFv0gG0AUFVX3lxTE43dE1CWGoxQ2QtdmdidVZ0VWo2V0hmYnBOb0ZCU2JfM1BlTWRxQndDUG12SGlqU0hIU0tkX053OXo3QzV0aXVsejUtNVpvYUNIYUxRT1VzRXVSMzBvMTBRQWlxZUtveUJQdjl4ZThtb1N3ZUJEYUplTEhOakZidGdMdjBRdWdTY0wxa2x5MktGY0g3Wm5WQXRXQ1BXcUJITHVlQXJacVRhNzJHV0pnbVFwdjhjbA?oc=5\" target=\"_blank\">Sandisk Corporation (SNDK) Jumped on Improving Memory Fundamentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Insider Monkey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock rose on improving memory fundamentals. The story cites general sentiment about memory-market conditions improving but does not provide concrete events, pricing data, or earnings results to confirm the catalyst."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "cbcebc7ec16bef02864886f50214cfe7f7f87498",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Japan’s Kioxia stock is beating Micron, Sandisk, SK Hynix: here’s why - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEw5bXRLcElBWndwQTQ1RkpRNEdhdVE3bVNRVjdtNjJzY0R3bm9BNng4cDBFRU1JRkRPTFVySklWVDNpM1BtWE1SUURIdUw0ejBWTENpRE9uUkVSZVp6WkExWnpXOFF3Q29ZNUhJaVhHaGY1a2YzS2hFSFRFZ2lTalA3NjcxX2lTOHJfWk4tZ0hPd25uR2lscHRSVE10WFhCeFE?oc=5",
+  "published_at": "Mon, 22 Jun 2026 10:16:25 GMT",
+  "published_ts": 1782123385,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEw5bXRLcElBWndwQTQ1RkpRNEdhdVE3bVNRVjdtNjJzY0R3bm9BNng4cDBFRU1JRkRPTFVySklWVDNpM1BtWE1SUURIdUw0ejBWTENpRE9uUkVSZVp6WkExWnpXOFF3Q29ZNUhJaVhHaGY1a2YzS2hFSFRFZ2lTalA3NjcxX2lTOHJfWk4tZ0hPd25uR2lscHRSVE10WFhCeFE?oc=5\" target=\"_blank\">Japan’s Kioxia stock is beating Micron, Sandisk, SK Hynix: here’s why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Comparative performance analysis of Kioxia versus DRAM fund holdings Micron, SanDisk, and SK Hynix. Story explains reasons for Kioxia's outperformance but does not report concrete earnings results, guidance changes, or confirmed price catalysts—appears to be analytical commentary rather than a material event."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "e46da3c26fce9c8337d6000aa8b16409a43afe46",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Micron Q3 Earnings Preview: What to Expect From Upcoming Report - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUng3R2ZJSWRXSk11U2haanY4SVk1RGpQNVo1b0daS3l0cEpwb2lCUU05V3J6c3E3TUZVNTFsQ0FuNUxRc2FYcmstOGJRQlNKZDVlWUJ0RDAzQnNsSzVzSnZmeUFtTzNLUnp1Wi1WelJtTEMtTHBBbXFZQzRKb1N6ZmtkckpiTFUzTWJqd0NhWTlRRU15eC1kT3JlQ1hwN1hPVzdYb00wYmViWHNPMHMtSzk5aHlrVzBETXRCWWFQTQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:19:51 GMT",
+  "published_ts": 1782134391,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUng3R2ZJSWRXSk11U2haanY4SVk1RGpQNVo1b0daS3l0cEpwb2lCUU05V3J6c3E3TUZVNTFsQ0FuNUxRc2FYcmstOGJRQlNKZDVlWUJ0RDAzQnNsSzVzSnZmeUFtTzNLUnp1Wi1WelJtTEMtTHBBbXFZQzRKb1N6ZmtkckpiTFUzTWJqd0NhWTlRRU15eC1kT3JlQ1hwN1hPVzdYb00wYmViWHNPMHMtSzk5aHlrVzBETXRCWWFQTQ?oc=5\" target=\"_blank\">Micron Q3 Earnings Preview: What to Expect From Upcoming Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) Q3 earnings preview. Expectation-setting and analysis ahead of results, but not a confirmed event or hard number yet. Once actual earnings are reported, impact will rise to 4-5."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "c4bb363649f6f4f581ca5cb05fddc3c339332daf",
+  "source": "The Daily Star",
+  "topic": "holding",
+  "title": "Samsung loses top spot as SK Hynix capitalises on AI demand - The Daily Star",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlBRa2hHMWVEMktTeFRReThBRVl3dmxJRHlLRmJmdjBzZlpPLVktcUgxNEJ0UTRvSHV4NEFzSTZjNGxuLW9COEdjMDhJUTZ3aXFyTnAzbTlvcHVVTlU1c0RZMkFuUHBFMjBpOUhxWXJLLVo5N2k5eWJxbjFUdTQxbVdhWW1INXlBNnZDNHMwdk9sNElSUFBFZXhydTgyRVl5NlkyaWNKREZGSmc5cGllQjZSZw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 14:15:00 GMT",
+  "published_ts": 1782137700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlBRa2hHMWVEMktTeFRReThBRVl3dmxJRHlLRmJmdjBzZlpPLVktcUgxNEJ0UTRvSHV4NEFzSTZjNGxuLW9COEdjMDhJUTZ3aXFyTnAzbTlvcHVVTlU1c0RZMkFuUHBFMjBpOUhxWXJLLVo5N2k5eWJxbjFUdTQxbVdhWW1INXlBNnZDNHMwdk9sNElSUFBFZXhydTgyRVl5NlkyaWNKREZGSmc5cGllQjZSZw?oc=5\" target=\"_blank\">Samsung loses top spot as SK Hynix capitalises on AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Daily Star"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix gains market position over Samsung amid AI demand. Represents competitive dynamics among memory-sector holdings but lacks concrete earnings data, official guidance, or specific market-share numbers to confirm impact."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "00c1c8968df5760a2196c136baee64c3a0011326",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "Seagate Technology Stock On Fire: Up 31% With 6-Day Winning Streak - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lnYm9WTk9yam5HTlBUbDFtVjNjbmZsbmhZa2hVdEZBaHlRMDN6c3dGdTZSNFptSUllZmVWa2hpVVJ6bzVJbGdIRzZrY2lVaTRZRHQxcHdSdlBjbktwa3VoWHBMUnktUUl5RVlGRUItT1hxOUtDMkIxTjFWYVNTMlpiMktsYWJDTlZxa1l1aU5uNmRSc0txX09zZW95aHFpOXpla29zU01mSnNtZk15ZGJNYk40RGVxYU00WEtuRGhxUQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 12:31:09 GMT",
+  "published_ts": 1782131469,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lnYm9WTk9yam5HTlBUbDFtVjNjbmZsbmhZa2hVdEZBaHlRMDN6c3dGdTZSNFptSUllZmVWa2hpVVJ6bzVJbGdIRzZrY2lVaTRZRHQxcHdSdlBjbktwa3VoWHBMUnktUUl5RVlGRUItT1hxOUtDMkIxTjFWYVNTMlpiMktsYWJDTlZxa1l1aU5uNmRSc0txX09zZW95aHFpOXpla29zU01mSnNtZk15ZGJNYk40RGVxYU00WEtuRGhxUQ?oc=5\" target=\"_blank\">Seagate Technology Stock On Fire: Up 31% With 6-Day Winning Streak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": [
+    "Seagate Technology Stock Surges 31%, With A 6-Day Winning Spree - Trefis"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, has risen 31% over a 6-day winning streak. The article reports the price move itself without disclosing a specific catalyst or fundamental event driving the gains."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "7d5ee13871ec134b1c73cd3e63dd8170a60605b1",
+  "source": "TradingView",
+  "topic": "industry",
+  "title": "AI Boom and HBM Demand to Boost Micron's DRAM Revenues in Q3 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2EtbEhCd1dSUC0wR09iVHdQT1Q2RzRlYURaZFhaQVhVQy1MTzFLdUR3a2JqaXM5LURlaFJhamo2elRhSXBSOUExSUM3X2NXZzhhQXNoekpuVFhoSmFnSGcwUmhNM0Nrb1QySUM4SUExOHpSRFRmdFpfX2gwYjdVQ3B6SjNoMHJxNEVYZVp0bTRaZDk1aWJodjFfaUVOMUhHTDBXeFJvXzN5NHVqOXJZakZjT3R0UjQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:13:00 GMT",
+  "published_ts": 1782133980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2EtbEhCd1dSUC0wR09iVHdQT1Q2RzRlYURaZFhaQVhVQy1MTzFLdUR3a2JqaXM5LURlaFJhamo2elRhSXBSOUExSUM3X2NXZzhhQXNoekpuVFhoSmFnSGcwUmhNM0Nrb1QySUM4SUExOHpSRFRmdFpfX2gwYjdVQ3B6SjNoMHJxNEVYZVp0bTRaZDk1aWJodjFfaUVOMUhHTDBXeFJvXzN5NHVqOXJZakZjT3R0UjQ?oc=5\" target=\"_blank\">AI Boom and HBM Demand to Boost Micron's DRAM Revenues in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece suggesting AI boom and HBM demand could boost Micron's DRAM revenues in Q3. This is forward-looking commentary and analyst speculation rather than a confirmed event or official guidance, making it relevant but soft impact."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "2e2c84b4ad41c1ef47607c6b47daaf1f5ac09ef2",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix ETF Raises Options Cap After Stock's 340% Surge - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnpnUGhJdVNpa09EOUlJMDZlaDRvdVNvcTBNWnZ6SmJObDVWZThjM3FXTWk0Y3ZhS0p0OGJ5UG80Y1gxNGR0Z0hob1h6V0Y3LWx0Y1ZkMXFfbVhyRE5lMk5KWi1QbGNDeWRTS0tWcHlFZG16WUtfSHFYR21SRmM4UzZ2OC1kV2swLU5iR3FWWGNmNmUwdXhsVnBwSTVnTFB2OTNqMGpkUVN5a1dsU2g2bmRYcEk4QQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 12:41:48 GMT",
+  "published_ts": 1782132108,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnpnUGhJdVNpa09EOUlJMDZlaDRvdVNvcTBNWnZ6SmJObDVWZThjM3FXTWk0Y3ZhS0p0OGJ5UG80Y1gxNGR0Z0hob1h6V0Y3LWx0Y1ZkMXFfbVhyRE5lMk5KWi1QbGNDeWRTS0tWcHlFZG16WUtfSHFYR21SRmM4UzZ2OC1kV2swLU5iR3FWWGNmNmUwdXhsVnBwSTVnTFB2OTNqMGpkUVN5a1dsU2g2bmRYcEk4QQ?oc=5\" target=\"_blank\">SK Hynix ETF Raises Options Cap After Stock's 340% Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock has surged 340%, prompting an ETF that tracks the company to raise its options cap. The story confirms significant stock appreciation but lacks disclosure of a specific catalyst (earnings, guidance, deal, or supply event); it is a price-move story with soft context. Material to the fund as a major holding, but not a concrete event that triggered the move."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "de25097a514eb2da72a5aeb2d47c4252aebd5d10",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK Hynix Tops Samsung as Korea’s AI Memory Trade Revalues - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHIxejhYU1hPamdpd1ZpSURUWVRQanRfMXR4bjF2dGtNa2d5ZGNjODU0WTExWnMwUnk0SVpvSUJqRW5GOGF3U0diVVNXaHVSc3lvX3J1NG43aFJKYUhULTR3U21QbmhwdEpwUldBOE1pZVJ5TC1zODVzb0pHQzVndWhmaw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 14:27:56 GMT",
+  "published_ts": 1782138476,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObHIxejhYU1hPamdpd1ZpSURUWVRQanRfMXR4bjF2dGtNa2d5ZGNjODU0WTExWnMwUnk0SVpvSUJqRW5GOGF3U0diVVNXaHVSc3lvX3J1NG43aFJKYUhULTR3U21QbmhwdEpwUldBOE1pZVJ5TC1zODVzb0pHQzVndWhmaw?oc=5\" target=\"_blank\">SK Hynix Tops Samsung as Korea’s AI Memory Trade Revalues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung's relative positioning in AI memory market is being revalued, with SK Hynix gaining ground. This is analysis/market reassessment rather than a concrete event, earnings result, or announced capacity/production change, making it soft commentary on two major fund holdings."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "9018383003b14a81abddb58ae29111a6df6dba94",
+  "source": "KuCoin",
+  "topic": "holding",
+  "title": "SK Hynix Market Cap Surpasses Bitcoin Amid AI-Driven Growth - KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2U1TzJjNXZIRGEtX2JuWF9HbnhJSXVLRXg0czgwSnBRNGJhZXpOelk1Z1l1blNxSkpHV1JSY3BHNHFqcUhYWHc2LWxJYkdvUkJ2N01fTnQzbzAxVFZkQUU1R3kyTlVmLS14aW1FWTl1NWlKNWdKRTgxaWNIX2F5amloQ0FkMHpENG1GY1pCV0ZqNU9xblV4dg?oc=5",
+  "published_at": "Mon, 22 Jun 2026 11:58:34 GMT",
+  "published_ts": 1782129514,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2U1TzJjNXZIRGEtX2JuWF9HbnhJSXVLRXg0czgwSnBRNGJhZXpOelk1Z1l1blNxSkpHV1JSY3BHNHFqcUhYWHc2LWxJYkdvUkJ2N01fTnQzbzAxVFZkQUU1R3kyTlVmLS14aW1FWTl1NWlKNWdKRTgxaWNIX2F5amloQ0FkMHpENG1GY1pCV0ZqNU9xblV4dg?oc=5\" target=\"_blank\">SK Hynix Market Cap Surpasses Bitcoin Amid AI-Driven Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KuCoin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix market cap has surpassed Bitcoin's valuation, attributed to AI-driven growth. This reflects positive market sentiment toward the holding but is a comparative valuation milestone rather than a concrete operational or financial event affecting memory demand or earnings."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "d564566b43c058b27ecd7bbcd7171cced55726a4",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Mizuho Lifts PT on Seagate Technology Holdings (STX) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFE4d2t2WGplTkFkNnI1ZlVYT0FfaEF0VTBjRDE2eGd4TWg3Q2FlMUdhOFIzS1hSQWJKX0FIUndHdFFXM3JzQTdzWVdWV0psQlcxelU0bWJPV3hfWHZ4eXY5QS1pSkRTMU1uMzQtdEVMcjFGb3huaTJWRFFPUGZNUXhzcTRaa0lsOUt5dkdST19nQ2FrZGdKeF94TE5JYzZJ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 12:10:15 GMT",
+  "published_ts": 1782130215,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFE4d2t2WGplTkFkNnI1ZlVYT0FfaEF0VTBjRDE2eGd4TWg3Q2FlMUdhOFIzS1hSQWJKX0FIUndHdFFXM3JzQTdzWVdWV0psQlcxelU0bWJPV3hfWHZ4eXY5QS1pSkRTMU1uMzQtdEVMcjFGb3huaTJWRFFPUGZNUXhzcTRaa0lsOUt5dkdST19nQ2FrZGdKeF94TE5JYzZJ?oc=5\" target=\"_blank\">Mizuho Lifts PT on Seagate Technology Holdings (STX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Mizuho Securities raised its price target on Seagate Technology (STX), a DRAM ETF holding. However, this is an analyst price-target change without disclosure of concrete underlying catalyst or a material event, making it a soft indicator rather than a confirmed market-moving development."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "2d118bce06732dffcaff14b17a50965beadd53d6",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "What Is Hynix Stock and Why Is It Rising to Record Highs? - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnNLNWw5OVRqTi1GS3RMdENDcWxLRkx1TlRrbE5pV3RTcEx5aVlKNEpPWmkxNUhYdDVxd1RtTWo2SEFyUzE1ZGR6SGY1bjlUVVRuaUtFR1V5M2tPbEhkeFhLOF9oODZaNUZGRXBZalN2LU9xTDF4UjI1UlJUbGdhemwtcHcxSWVWYzhUcm9fVkFQZDhOc3RDeUN3dkEtbGU1anhTNGtHaFNQZDQ5ZkFNNWJBcDdoUQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:34:34 GMT",
+  "published_ts": 1782135274,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnNLNWw5OVRqTi1GS3RMdENDcWxLRkx1TlRrbE5pV3RTcEx5aVlKNEpPWmkxNUhYdDVxd1RtTWo2SEFyUzE1ZGR6SGY1bjlUVVRuaUtFR1V5M2tPbEhkeFhLOF9oODZaNUZGRXBZalN2LU9xTDF4UjI1UlJUbGdhemwtcHcxSWVWYzhUcm9fVkFQZDhOc3RDeUN3dkEtbGU1anhTNGtHaFNQZDQ5ZkFNNWJBcDdoUQ?oc=5\" target=\"_blank\">What Is Hynix Stock and Why Is It Rising to Record Highs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WEEX"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock rising to record highs — a confirmed price move for a key DRAM ETF holding, but the snippet does not disclose a specific catalyst or fundamental event driving the rise, making this analysis/commentary rather than hard news."
+  },
+  "buffered_ts": 1782138961.4253309
+ },
+ {
+  "id": "69db654d8580caa5516d5c944a5af287eb7b94b4",
+  "source": "Inshorts",
+  "topic": "holding",
+  "title": "SK Hynix overtakes Samsung as Korea’s most valuable firm | Samsung Electronics held the top spot since 2000 | Inshorts - Inshorts",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVB2QjlORVdOT3R4TVdaQUJnbm9OTmJzUUV0TG9lR1dzazRVNFpjSEY0VzlReXJ3Y3RWaDNSOXVUaGMwZFVIbV8tMjBOX3ZTNlpsdks4UFF3aF9mSWZWVjNWQkxEbVZZMEExQlpuYU94M0t4SGlUUEZRTWU1SjZVNlBmTlRsOHhSX2hLX1VXVFpMSmRFS21YMkIxSGRkbEc40gGmAUFVX3lxTE84TEI2aS1SLWNZVURLQXBYdWw0QXloVWFnREZVcE1QYTg1aVhzZU9PQXRnT1htdzg1MWYyTFlqdkJXWGdyQXFRdG1JOUFPM21yQXFNTmtxMS1BdTVvQXh1UzFkcTM0SGdKUFdhUXVBeTM3Sm56NmVRRmYtMENjeDZ5a0Q4UW9BZmduVjNtbEJIWjdia1d1S1JWNE1JbjZQdEdyYXg5M0E?oc=5",
+  "published_at": "Mon, 22 Jun 2026 14:31:01 GMT",
+  "published_ts": 1782138661,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVB2QjlORVdOT3R4TVdaQUJnbm9OTmJzUUV0TG9lR1dzazRVNFpjSEY0VzlReXJ3Y3RWaDNSOXVUaGMwZFVIbV8tMjBOX3ZTNlpsdks4UFF3aF9mSWZWVjNWQkxEbVZZMEExQlpuYU94M0t4SGlUUEZRTWU1SjZVNlBmTlRsOHhSX2hLX1VXVFpMSmRFS21YMkIxSGRkbEc40gGmAUFVX3lxTE84TEI2aS1SLWNZVURLQXBYdWw0QXloVWFnREZVcE1QYTg1aVhzZU9PQXRnT1htdzg1MWYyTFlqdkJXWGdyQXFRdG1JOUFPM21yQXFNTmtxMS1BdTVvQXh1UzFkcTM0SGdKUFdhUXVBeTM3Sm56NmVRRmYtMENjeDZ5a0Q4UW9BZmduVjNtbEJIWjdia1d1S1JWNE1JbjZQdEdyYXg5M0E?oc=5\" target=\"_blank\">SK Hynix overtakes Samsung as Korea’s most valuable firm | Samsung Electronics held the top spot since 2000 | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Inshorts"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix has overtaken Samsung as South Korea's most valuable company, breaking Samsung Electronics' 23-year reign at the top. While this reflects market sentiment on the two holdings, the headline is primarily a market-cap ranking milestone with no concrete operational, supply, pricing, or memory-demand implications for the fund."
+  },
+  "buffered_ts": 1782138961.4253309
+ }
+]
