@@ -1351,5 +1351,149 @@
    "summary": "MSN article recommending an AI memory ETF (likely DRAM) as a buy. This is a general fund promotion piece without concrete news, data, or market-moving developments—purely editorial/opinion content aimed at retail investors."
   },
   "buffered_ts": 1782163871.0846949
+ },
+ {
+  "id": "41b22506bcf632e85345fe1253b602eeca8286e4",
+  "source": "Aju Press",
+  "topic": "industry",
+  "title": "SK hynix Accelerates Comprehensive Growth Strategy with Nasdaq Listing and Production Expansion - Aju Press",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2NUUyY2JsNWxNcTRzRmJWNVFFNlFiQm9hUkdrYjdhTnlzVzVXQmp6bWFJTldfcTNVQmNQX0ljOWhnN1BtUVFMQk5kUTZ5WHVfMmxxWnNfc9IBV0FVX3lxTFA2NUUyY2JsNWxNcTRzRmJWNVFFNlFiQm9hUkdrYjdhTnlzVzVXQmp6bWFJTldfcTNVQmNQX0ljOWhnN1BtUVFMQk5kUTZ5WHVfMmxxWnNfcw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 09:20:00 GMT",
+  "published_ts": 1782120000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2NUUyY2JsNWxNcTRzRmJWNVFFNlFiQm9hUkdrYjdhTnlzVzVXQmp6bWFJTldfcTNVQmNQX0ljOWhnN1BtUVFMQk5kUTZ5WHVfMmxxWnNfc9IBV0FVX3lxTFA2NUUyY2JsNWxNcTRzRmJWNVFFNlFiQm9hUkdrYjdhTnlzVzVXQmp6bWFJTldfcTNVQmNQX0ljOWhnN1BtUVFMQk5kUTZ5WHVfMmxxWnNfcw?oc=5\" target=\"_blank\">SK hynix Accelerates Comprehensive Growth Strategy with Nasdaq Listing and Production Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Press</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Aju Press"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced acceleration of growth strategy including Nasdaq listing and production expansion. Nasdaq listing is a concrete corporate action; production expansion signals capital deployment to meet demand. Both are material developments for a major DRAM/memory holdings in the fund."
+  },
+  "buffered_ts": 1782170226.0035105
+ },
+ {
+  "id": "a42ca0aa4d83802e4566c393a9dddbcfe737cd02",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "SK Hynix (000660 KS) Ahead of SEC Clearance: A Tactical Liquidity Event to Take Profits? - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2d3cXRYbmV5WTZ5S3o5dEQyeHdFcmxOcEhYdGNBUzZCRnpLUzgyVGZyZFhZUGNiTkh6enVoemlzdnp4Tnd5OHd3T3FSWW9kcmw5MDB4NmFqbmNVVlJ3dkV2M0hhVmlqUkV4VnhWVktqbkR2UVlxMG40M3hyY1BXMThnV1lDdVViaUQ2VWF3SlFOTnRodU9LZFpISmpmMTVfeExDWUZwb29PcjhqTlduN2F0RW5GY1hzNmlCbWZCY1U1aklfa2ZxbHcyOGNaQzJKM2JicmttcWdPRmFYVkI1OUtKSjV6Zw?oc=5",
+  "published_at": "Mon, 22 Jun 2026 21:51:08 GMT",
+  "published_ts": 1782165068,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2d3cXRYbmV5WTZ5S3o5dEQyeHdFcmxOcEhYdGNBUzZCRnpLUzgyVGZyZFhZUGNiTkh6enVoemlzdnp4Tnd5OHd3T3FSWW9kcmw5MDB4NmFqbmNVVlJ3dkV2M0hhVmlqUkV4VnhWVktqbkR2UVlxMG40M3hyY1BXMThnV1lDdVViaUQ2VWF3SlFOTnRodU9LZFpISmpmMTVfeExDWUZwb29PcjhqTlduN2F0RW5GY1hzNmlCbWZCY1U1aklfa2ZxbHcyOGNaQzJKM2JicmttcWdPRmFYVkI1OUtKSjV6Zw?oc=5\" target=\"_blank\">SK Hynix (000660 KS) Ahead of SEC Clearance: A Tactical Liquidity Event to Take Profits?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Smartkarma"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ahead of SEC clearance; analyst commentary on potential tactical liquidity event and profit-taking opportunity. No confirmed concrete event or hard numbers disclosed—opinion-based analysis rather than a settled development or official announcement."
+  },
+  "buffered_ts": 1782170226.0035105
+ },
+ {
+  "id": "357a9d3caa1128314554bdd83bef43c1f7cc4988",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Western Digital, Seagate, Sandisk stocks are bracing for a major Micron event - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzBqQU5lcXI0YU44S3FVc09mbXhSdm9rSlRwX3ktb3BIZER3MWlqaUlfYnJtQktfYTBpWlNkZkJCaVNkWmw1OVd6d3ljOUU0dmJtYzlCemVPdzU2R19mV3hwYk1aZE0tWHFIQ2dOZXpjNG5GUldHTnFpSFhmSEJDZGt4b2pGZkRzRUNNVkR4UUVwbkY1Rmg4YVJWcHZVTEJCcy00YUxXa3MxRklNS1lyNg?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:37:31 GMT",
+  "published_ts": 1782135451,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzBqQU5lcXI0YU44S3FVc09mbXhSdm9rSlRwX3ktb3BIZER3MWlqaUlfYnJtQktfYTBpWlNkZkJCaVNkWmw1OVd6d3ljOUU0dmJtYzlCemVPdzU2R19mV3hwYk1aZE0tWHFIQ2dOZXpjNG5GUldHTnFpSFhmSEJDZGt4b2pGZkRzRUNNVkR4UUVwbkY1Rmg4YVJWcHZVTEJCcy00YUxXa3MxRklNS1lyNg?oc=5\" target=\"_blank\">Western Digital, Seagate, Sandisk stocks are bracing for a major Micron event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital, Seagate, and SanDisk stocks are positioned to react to an upcoming Micron event (likely earnings or guidance). The story flags anticipated market sensitivity among memory-sector holdings but does not disclose a concrete catalyst or confirmed development—it is forward-looking speculation about how these stocks may respond."
+  },
+  "buffered_ts": 1782170226.0035105
+ },
+ {
+  "id": "4a49e4d0567008338405dca569c8594e062cd35b",
+  "source": "TheStreet Pro",
+  "topic": "holding",
+  "title": "New SanDisk Price Target as Stock Threatens Another Parabolic Move - TheStreet Pro",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXZIRG1RWHpKcVBjV0VIYkR1NVRCcE1YUFBYSVlYMDdQQjh3SlJpeW54MV9DaFNqSjgxc2x0MXR4b3B1UHQ4ZE9qTzRaVm5uaW1PRV9oRDh5bzdPYlItamV3Z2g0ODNST1BUcHZzRHQydDZvbUZudW8yYmtEWnRfcGtEQnM1eENiLWY0cUJDaHBsSTdlMHBVRy04OFNiYTA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 16:30:00 GMT",
+  "published_ts": 1782145800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXZIRG1RWHpKcVBjV0VIYkR1NVRCcE1YUFBYSVlYMDdQQjh3SlJpeW54MV9DaFNqSjgxc2x0MXR4b3B1UHQ4ZE9qTzRaVm5uaW1PRV9oRDh5bzdPYlItamV3Z2g0ODNST1BUcHZzRHQydDZvbUZudW8yYmtEWnRfcGtEQnM1eENiLWY0cUJDaHBsSTdlMHBVRy04OFNiYTA?oc=5\" target=\"_blank\">New SanDisk Price Target as Stock Threatens Another Parabolic Move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet Pro</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TheStreet Pro"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TheStreet Pro analysis of SanDisk stock price movement and a new price target. This is analyst commentary and price-target revision rather than a confirmed catalyst (earnings, guidance, deal, etc.), making it opinion-driven rather than a concrete event."
+  },
+  "buffered_ts": 1782170226.0035105
+ },
+ {
+  "id": "5f52d6797d7f6a7377d520586ba21e44565177cb",
+  "source": "Semafor",
+  "topic": "holding",
+  "title": "SK Hynix becomes South Korea’s most valuable company - Semafor",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3dVQ1NRckFvMFN1dzdwdnpJUndZZzh0SjMzRWd3ZFctVDBjLUtDWW9abzhjZ1c3U3hnOUQ4ZUx4LUZSRW41a2NPTGFvQUpNZmwwOVFLX08yY0hzc3RNZFdSQ1BWYzNzMzNwMDFPUkVkMTZMOXJOakdmQWtmaFBWbGMyMklzTXB6MWh2Ny1fNklNZkc0cHJBcHR3?oc=5",
+  "published_at": "Mon, 22 Jun 2026 22:44:00 GMT",
+  "published_ts": 1782168240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3dVQ1NRckFvMFN1dzdwdnpJUndZZzh0SjMzRWd3ZFctVDBjLUtDWW9abzhjZ1c3U3hnOUQ4ZUx4LUZSRW41a2NPTGFvQUpNZmwwOVFLX08yY0hzc3RNZFdSQ1BWYzNzMzNwMDFPUkVkMTZMOXJOakdmQWtmaFBWbGMyMklzTXB6MWh2Ny1fNklNZkc0cHJBcHR3?oc=5\" target=\"_blank\">SK Hynix becomes South Korea’s most valuable company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Semafor"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix has become South Korea's most valuable company by market cap. This is a stock-price milestone reflecting investor sentiment toward the holding but lacks a concrete operational or earnings catalyst; it is a valuation statement rather than a material business event."
+  },
+  "buffered_ts": 1782170226.0035105
+ },
+ {
+  "id": "dd9304bb45652e7280f9c75173859530b6930b10",
+  "source": "Moomoo",
+  "topic": "fund",
+  "title": "$Roundhill Memory ETF (DRAM.US)$ hold until next year - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxJbWR3OGJGUU1yV2FPTHFSX2pETmgxUG9ISVhGOVEwN25vTm96eXpVUmFFWUlyVVJsVzFIYXhJcDZhcjJsYlJUSkgyYnl2NzY3dVJ5NjlSRV9ETWo2eGU0MzhlVl92SWhIR0hHX2pkY1VpSmhjZUtfaDBlYlhhLUJ2TVdmOFcxSS1SenphLVM1QmF2djlBQU9yQlhjZ0JJR0ZTN3RB?oc=5",
+  "published_at": "Mon, 22 Jun 2026 13:15:51 GMT",
+  "published_ts": 1782134151,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxJbWR3OGJGUU1yV2FPTHFSX2pETmgxUG9ISVhGOVEwN25vTm96eXpVUmFFWUlyVVJsVzFIYXhJcDZhcjJsYlJUSkgyYnl2NzY3dVJ5NjlSRV9ETWo2eGU0MzhlVl92SWhIR0hHX2pkY1VpSmhjZUtfaDBlYlhhLUJ2TVdmOFcxSS1SenphLVM1QmF2djlBQU9yQlhjZ0JJR0ZTN3RB?oc=5\" target=\"_blank\">$Roundhill Memory ETF (DRAM.US)$ hold until next year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Moomoo analyst recommends holding the Roundhill Memory ETF (DRAM) until next year. This is a minor analyst opinion/recommendation with no concrete catalyst or fund-specific news (flows, NAV change, rebalance, or structural development)."
+  },
+  "buffered_ts": 1782170226.0035105
  }
 ]
