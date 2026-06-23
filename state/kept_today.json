@@ -683,5 +683,293 @@
    "summary": "Western Digital (WDC) stock price movement noted without disclosed catalyst or material event. A stock price move alone without a stated underlying cause (earnings, guidance, deal, supply change, etc.) constitutes minor news significance."
   },
   "buffered_ts": 1782229615.1263678
+ },
+ {
+  "id": "761c4131a842e269bbb9f2380fe14e5da8efc9c3",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "How SK hynix’s (HXSCL) 12-Layer HBM4E Samples Keep It Ahead in the AI Memory Upgrade Cycle - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazFKWVhDWTZfUl8zQms4YVBZNWJPUUYtQzN1VTlKZG9NenJxdkZyU1h0emZQbTlPZHpwM0tNcnE3dzlYWkhVamdFTEJ4Yk45c3NVTUR5ZlQ0aFdLZXFmVnotT1RGVU1fQmR0R2xRcjBoWFlLODkxaHJjdXpZQzhjY0dhYkIxSXpJa3VQcjFTVVo?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:09:32 GMT",
+  "published_ts": 1782230972,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQazFKWVhDWTZfUl8zQms4YVBZNWJPUUYtQzN1VTlKZG9NenJxdkZyU1h0emZQbTlPZHpwM0tNcnE3dzlYWkhVamdFTEJ4Yk45c3NVTUR5ZlQ0aFdLZXFmVnotT1RGVU1fQmR0R2xRcjBoWFlLODkxaHJjdXpZQzhjY0dhYkIxSXpJa3VQcjFTVVo?oc=5\" target=\"_blank\">How SK hynix’s (HXSCL) 12-Layer HBM4E Samples Keep It Ahead in the AI Memory Upgrade Cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has reportedly achieved 12-layer HBM4E samples, positioning it competitively in the AI memory upgrade cycle. HBM4E is a concrete next-generation high-bandwidth memory product; sampling represents a material milestone that typically precedes volume production and customer adoption. This is a substantive development for a key fund holding."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "e2018af8dc1851278f96da6e5850b8da1742562b",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to Build Semiconductor Fabs in Gwangju, South Jeolla - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2VRQnRhMmd0Y2RGTUZQVzZYTUVrUHl1QU9taHdBTGUwTkFaNUJXQWwzblY5c1kyLTlYYzZUbXFqT3lEZlJCQ21OQW5yUVFBS1NHNUc1VnFPMi1QMXpoTXVjenViX1BZYmFKb3pWalBlam5yVkpjMXZEcDh6Q1ppcHBhV2FvTjB1?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:15:37 GMT",
+  "published_ts": 1782231337,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2VRQnRhMmd0Y2RGTUZQVzZYTUVrUHl1QU9taHdBTGUwTkFaNUJXQWwzblY5c1kyLTlYYzZUbXFqT3lEZlJCQ21OQW5yUVFBS1NHNUc1VnFPMi1QMXpoTXVjenViX1BZYmFKb3pWalBlam5yVkpjMXZEcDh6Q1ppcHBhV2FvTjB1?oc=5\" target=\"_blank\">Samsung, SK Hynix to Build Semiconductor Fabs in Gwangju, South Jeolla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and SK hynix have announced plans to build semiconductor fabrication plants in Gwangju, South Jeolla. This is a concrete, officially announced capacity investment by two major DRAM ETF holdings that signals material expansion in memory fab infrastructure and future production capability."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "063073d83b5e7aba3af62d10025668125072d1e4",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Samsung HBM4 revenue tops $1B, targets $10B on AI chip demand - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wbk54N1dFekRZR1R4WWQ2RjNfNVFoRUxLVEs1SUdadU9GaHMwMmpZR283dUg2V0VyVmJuT0V6ZUtUU1ZyZDhvVDhxSDMwRmd5Qks3OXhJQVBaajFKVVNSOWZWdDhMV0hYcHRVSnpjcWw2M1NMdDE4WW93?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:41:00 GMT",
+  "published_ts": 1782193260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1wbk54N1dFekRZR1R4WWQ2RjNfNVFoRUxLVEs1SUdadU9GaHMwMmpZR283dUg2V0VyVmJuT0V6ZUtUU1ZyZDhvVDhxSDMwRmd5Qks3OXhJQVBaajFKVVNSOWZWdDhMV0hYcHRVSnpjcWw2M1NMdDE4WW93?oc=5\" target=\"_blank\">Samsung HBM4 revenue tops $1B, targets $10B on AI chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung's high-bandwidth memory (HBM4) revenue has exceeded $1 billion, with the company targeting $10 billion in revenue driven by AI chip demand. This represents a concrete, material development in one of the fund's key holdings, demonstrating strong commercial traction in the critical HBM segment that is central to AI infrastructure capex and memory demand."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "3017f03a59af6aa710d7a40ad29340f4ca1114aa",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "KOSPI Plummets 10% in Historic Single-Day Drop - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlRwbk9ETmlFWlJfTHRpSEpSYVh2UVY2VmoyZXJuMlBLd2NMU0hVMExNZ3hsVjZXSWpLeE5jdFNlY1VTOF9uZUZDaC0yMjYtcFZKZEtTTDNDdVRuNEwwVlVnRWNjMmJqdjYta041RlR0SmtFWjJPLWk0bFRxajFJU2wyN3htQTZlUXR5Uml3?oc=5",
+  "published_at": "Tue, 23 Jun 2026 15:59:19 GMT",
+  "published_ts": 1782230359,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlRwbk9ETmlFWlJfTHRpSEpSYVh2UVY2VmoyZXJuMlBLd2NMU0hVMExNZ3hsVjZXSWpLeE5jdFNlY1VTOF9uZUZDaC0yMjYtcFZKZEtTTDNDdVRuNEwwVlVnRWNjMmJqdjYta041RlR0SmtFWjJPLWk0bFRxajFJU2wyN3htQTZlUXR5Uml3?oc=5\" target=\"_blank\">KOSPI Plummets 10% in Historic Single-Day Drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "macro",
+   "summary": "KOSPI index dropped 10% in a historic single-day decline. This is a material macro shock affecting South Korea's economy and markets, directly impacting SK hynix and Samsung (both major DRAM holdings) as Korean-listed or Korean-headquartered companies. A 10% market plunge signals broader risk-off conditions and potential demand weakness that could affect semiconductor capital allocation and pricing."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "21e70d03de2ba43c8b7534a1d41d420372993cf1",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZjUwNlY3REFnMm9KdWRfendfTFpfTjhuRnJWRTl0TDlXTlNHMV9qVjdLWkNQVmF4T3ktSGJRTl9ELTBaTnZvNGNPOEhLZkRpaHA2cWRXYXJfeXNoMlJHYXZUOVAyUVF5TFBfYXhpc3dzeXpUeXFsc1I1THUyWGtLRjB3WHhJb1RGMzQ3MS1ZcGdZSWo3SkthVnZkOVV3Wml2S01mWHppUU9vZXVRbUFHM01PTmRIMjhHSGZ0QzB1X2FIVmRzSjRSVF9pdlJfbzFIQ2Y4MGJvVUdYckRIWTBuWUNZbld3d0FNTWNfNWhqYVlyRmFoZUhuaC01TEQxeU1CTzE4MUVB?oc=5",
+  "published_at": "Tue, 23 Jun 2026 17:18:24 GMT",
+  "published_ts": 1782235104,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPZjUwNlY3REFnMm9KdWRfendfTFpfTjhuRnJWRTl0TDlXTlNHMV9qVjdLWkNQVmF4T3ktSGJRTl9ELTBaTnZvNGNPOEhLZkRpaHA2cWRXYXJfeXNoMlJHYXZUOVAyUVF5TFBfYXhpc3dzeXpUeXFsc1I1THUyWGtLRjB3WHhJb1RGMzQ3MS1ZcGdZSWo3SkthVnZkOVV3Wml2S01mWHppUU9vZXVRbUFHM01PTmRIMjhHSGZ0QzB1X2FIVmRzSjRSVF9pdlJfbzFIQ2Y4MGJvVUdYckRIWTBuWUNZbld3d0FNTWNfNWhqYVlyRmFoZUhuaC01TEQxeU1CTzE4MUVB?oc=5\" target=\"_blank\">Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) led a tech stock decline amid South Korea-related market jitters on June 23. The story confirms a price move in a fund holding but provides no disclosed fundamental catalyst—pure market sentiment/geopolitical concern rather than a concrete memory-industry event or earnings/guidance shift."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "f8951ec0e8eb5b73118c0d12f2fa865bfaf65cf4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk sees AI as 'fundamentally changing' NAND market, Morgan Stanley says (SNDK:NASDAQ) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1U1dVhjQmNLcFJvQkFNLWpjeFoxMlJOdXZhcHlzbTgxMC1vekpCNnl5WU9GUE1xWDVxMFM1ZnJ4cVY0ZWNyS2tFbGQ1aWhlM1htZ0F1Y01UWFFmdXU2VXZiSnpndTVCZ3ZTQ1U3S25mUmhDbHh6RTRoUXlEWTh6aTVhTUlpbGRLN2ZDVlI1aWtwSzV6MUg2d0hkX3h3YW4yaEstZUQ5cVZXYy12endhSQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 16:42:40 GMT",
+  "published_ts": 1782146560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1U1dVhjQmNLcFJvQkFNLWpjeFoxMlJOdXZhcHlzbTgxMC1vekpCNnl5WU9GUE1xWDVxMFM1ZnJ4cVY0ZWNyS2tFbGQ1aWhlM1htZ0F1Y01UWFFmdXU2VXZiSnpndTVCZ3ZTQ1U3S25mUmhDbHh6RTRoUXlEWTh6aTVhTUlpbGRLN2ZDVlI1aWtwSzV6MUg2d0hkX3h3YW4yaEstZUQ5cVZXYy12endhSQ?oc=5\" target=\"_blank\">Sandisk sees AI as 'fundamentally changing' NAND market, Morgan Stanley says (SNDK:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morgan Stanley analyst commentary on SanDisk's view that AI is fundamentally changing the NAND market. This is analyst opinion and forward-looking analysis rather than a concrete event or official company guidance, making it a soft but relevant story for a memory ETF holding."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "9b96b17e17eb9f98f35132695831defbabcb1102",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SanDisk Corporation Stock (SNDK) Moved Down by 12.49% on Jun 23: Drivers Behind the Movement - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlVNT29RUnRjSHZjRkp1UDhORXhwOE5aaUFTRU55ekNnX04xam1EdFhvMllaUjVsdkJjcWVGTTlEWGpyN2g5MHFfM0hEZmpiQllTQnRvUFNYMW85eGJKVjV1LWhfYnRNb0o4MFBlUzFRMVF2cWdkREhQenhDeFBON3ZSdThtU2NmM0Rv?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:15:28 GMT",
+  "published_ts": 1782231328,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlVNT29RUnRjSHZjRkp1UDhORXhwOE5aaUFTRU55ekNnX04xam1EdFhvMllaUjVsdkJjcWVGTTlEWGpyN2g5MHFfM0hEZmpiQllTQnRvUFNYMW85eGJKVjV1LWhfYnRNb0o4MFBlUzFRMVF2cWdkREhQenhDeFBON3ZSdThtU2NmM0Rv?oc=5\" target=\"_blank\">SanDisk Corporation Stock (SNDK) Moved Down by 12.49% on Jun 23: Drivers Behind the Movement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a key DRAM ETF holding, declined 12.49% on June 23. The article reports the price movement but does not disclose a specific catalyst or confirmed driver for the drop, making it a soft relevance score—pure price-movement reporting without a stated concrete event."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "839927380f7b63ed5a410be6f162827cb0f3a4fb",
+  "source": "Insider Monkey",
+  "topic": "holding",
+  "title": "Why Samsung Electronics’ (SSNLF) 12-Layer HBM4E Push Matters for Its AI Memory Position - Insider Monkey",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkJOZUE5UmM0dlRrXzZZV29JNDBYc0podE9SdjN0X1Y5dUFZeTRUUVAtcXRSNXZfS3pfVmRreFJ4eUNNT2ZvSWlXZlNjVDF0N3RENHBLVVJwTXJfeUprRVZWX1NVVmowaklVYmNMTl9hb2htR1d4NnJmWmNwWTNKTC1MbWxhaGs5N2NUMDJySVc4Y0tmRUpaT1NlTmFsbnVpSEY0TjVId0RFcThlV1labWM4cnlZb0pocXZhU1dMWjVtTnI2c3M00gHPAUFVX3lxTE1CVUFuRWktdGctLVV1SzR1THZTOGlFbEZnU05PVWMxRHpqaVM3NmdleTFuSkZ2aXJWTXYwYXdwUXg2OWx1M3Z0NFA1UmIyc0JFbjBYbTlndXNiWlZyWkFxamZfY0lqMXdTcWtRd3prdE1xU3VLdzJPOXdtRHhaVzJfeHFoWTNUQWxIREIyeTJSdmN6VHdpQmZNMFB6OEJQQW9OUlUxQkt1OGRYcFMxRG84bWdSeFdMb2NIM2Y0Zi03eXVjZXVLWmpoa0E5V0d6WQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:13:49 GMT",
+  "published_ts": 1782231229,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORkJOZUE5UmM0dlRrXzZZV29JNDBYc0podE9SdjN0X1Y5dUFZeTRUUVAtcXRSNXZfS3pfVmRreFJ4eUNNT2ZvSWlXZlNjVDF0N3RENHBLVVJwTXJfeUprRVZWX1NVVmowaklVYmNMTl9hb2htR1d4NnJmWmNwWTNKTC1MbWxhaGs5N2NUMDJySVc4Y0tmRUpaT1NlTmFsbnVpSEY0TjVId0RFcThlV1labWM4cnlZb0pocXZhU1dMWjVtTnI2c3M00gHPAUFVX3lxTE1CVUFuRWktdGctLVV1SzR1THZTOGlFbEZnU05PVWMxRHpqaVM3NmdleTFuSkZ2aXJWTXYwYXdwUXg2OWx1M3Z0NFA1UmIyc0JFbjBYbTlndXNiWlZyWkFxamZfY0lqMXdTcWtRd3prdE1xU3VLdzJPOXdtRHhaVzJfeHFoWTNUQWxIREIyeTJSdmN6VHdpQmZNMFB6OEJQQW9OUlUxQkt1OGRYcFMxRG84bWdSeFdMb2NIM2Y0Zi03eXVjZXVLWmpoa0E5V0d6WQ?oc=5\" target=\"_blank\">Why Samsung Electronics’ (SSNLF) 12-Layer HBM4E Push Matters for Its AI Memory Position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Insider Monkey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics is advancing its HBM4E (high-bandwidth memory) technology with a 12-layer push to strengthen its AI memory position. This is relevant to DRAM holdings as Samsung is a major memory-semiconductor company in the fund, and HBM is a critical growth driver for the memory industry. However, the story appears to be analysis or commentary on Samsung's strategic positioning rather than reporting a confirmed product launch, shipment milestone, or concrete customer win, making it a soft relevance rather than a hard event."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "ce20bf721d68dd6b2bd2940bea05d92a2784f75a",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Micron, Sandisk, other memory stocks tumble on high AI spending and rate hike fears - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXpFdGE3MmYzdTlwN016aEJtaUFZenpwZlBJZEJYTk5zRTFVYjBIS04waUNlOXlCQUF5bVNsUE51WFJoeng0U3FKUmZuZnNDRzkzdHpsMFJwX2V0QzUzeEl5RkVHUmxObnFUbGhrdUZ5TFh4bXFzdVZfWFZzV2dNRE9VbWdBM2s1LXVMUjBLX0VjOXNHTlFDYUxMSy0zMnFHWFRBSE9IVHdkYXAxeU0xT1QwZnRncXdJ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 14:54:13 GMT",
+  "published_ts": 1782226453,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXpFdGE3MmYzdTlwN016aEJtaUFZenpwZlBJZEJYTk5zRTFVYjBIS04waUNlOXlCQUF5bVNsUE51WFJoeng0U3FKUmZuZnNDRzkzdHpsMFJwX2V0QzUzeEl5RkVHUmxObnFUbGhrdUZ5TFh4bXFzdVZfWFZzV2dNRE9VbWdBM2s1LXVMUjBLX0VjOXNHTlFDYUxMSy0zMnFHWFRBSE9IVHdkYXAxeU0xT1QwZnRncXdJ?oc=5\" target=\"_blank\">Micron, Sandisk, other memory stocks tumble on high AI spending and rate hike fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Memory stocks including Micron and SanDisk declined amid concerns over high AI infrastructure spending and potential rate hikes. This is a price-movement piece without a disclosed concrete catalyst or fundamental news event."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "41a3f641582490453d37bc9f9725bb91183549be",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "Morgan Stanley spots AI shift that could redefine Sandisk future - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEhnc3I5M2FieG5uZkFtOU82a0tRT3BmMF91a0IyMVVHWThKc29IWTVOeHFpQjBxVGFuNXZONk9ncVdxbVJ1ajJORm1XUGdnTXpnZkozOERteVllM0UtS0YyTG1JQ0t4eUlXLVVBM1QtRnZadW04U1N0TG5LcnY5SlRHTGh3aENkSzN5cmJvWVRQcGZ0ZXFQYmk4cEx2dmktSVBFX0p6UVM2eVJkeFp4RnUtN0JkWGNyTzNneWlHc1lsb3I1Y2R0eDlNR0cwVWti?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:47:00 GMT",
+  "published_ts": 1782233220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEhnc3I5M2FieG5uZkFtOU82a0tRT3BmMF91a0IyMVVHWThKc29IWTVOeHFpQjBxVGFuNXZONk9ncVdxbVJ1ajJORm1XUGdnTXpnZkozOERteVllM0UtS0YyTG1JQ0t4eUlXLVVBM1QtRnZadW04U1N0TG5LcnY5SlRHTGh3aENkSzN5cmJvWVRQcGZ0ZXFQYmk4cEx2dmktSVBFX0p6UVM2eVJkeFp4RnUtN0JkWGNyTzNneWlHc1lsb3I1Y2R0eDlNR0cwVWti?oc=5\" target=\"_blank\">Morgan Stanley spots AI shift that could redefine Sandisk future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morgan Stanley analyst commentary on potential AI-driven strategic shifts for SanDisk (a DRAM ETF holding). The story cites analyst perspective on how AI trends could reshape SanDisk's future, but without concrete company guidance, confirmed deals, or disclosed financial metrics—typical analyst opinion and forward-looking analysis rather than a settled event."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "33b7e5079638aaffbf0b2e2948db9cadd4733344",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Investors Lose 25% in Single Day as Kospi Plummets - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGRhSlU4RG1xbDRYX2l5MlhBWFAxaXI5MEo2a2FYZmhBeXl6UHZ4dFhGclF5NTJsSW5qYTFKbU5MclNCYjQtMTZBUi11RDgzcXdiOHViRTBrWlJwSTgwdHBmWUFIWGpvSnRsMnFJNlJ5bVNrcElrZ29FRjVvN3QzSWpVV1AtRll2T3d1NzdR?oc=5",
+  "published_at": "Tue, 23 Jun 2026 15:52:39 GMT",
+  "published_ts": 1782229959,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGRhSlU4RG1xbDRYX2l5MlhBWFAxaXI5MEo2a2FYZmhBeXl6UHZ4dFhGclF5NTJsSW5qYTFKbU5MclNCYjQtMTZBUi11RDgzcXdiOHViRTBrWlJwSTgwdHBmWUFIWGpvSnRsMnFJNlJ5bVNrcElrZ29FRjVvN3QzSWpVV1AtRll2T3d1NzdR?oc=5\" target=\"_blank\">Investors Lose 25% in Single Day as Kospi Plummets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "South Korean stock market (Kospi) experienced a sharp 25% single-day decline. This is materially relevant because major DRAM holdings SK hynix and Samsung are traded on the Kospi and would be directly affected by such a large market move. However, without confirmation of the actual event details or market-moving catalyst, this rates as impact-3 soft news rather than a confirmed event with stated cause."
+  },
+  "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "e4d2246ca304b0ca41e47f703867b8a0baa84637",
+  "source": "Proactive financial news",
+  "topic": "holding",
+  "title": "Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation' - Proactive financial news",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTGpaUE52bjZqZWhsUkpFMUFzd0lJY2MxZHNlVVpvNFJ2eTZaamNtc012bFFKTl9MaXhmV0t5emgyMEZVRGhxc2VhV1J4MWpIRG9tMnE5SklTREtYYnpCYU93bTM4aUpjQWNVQlNMalFJVzVYeWR0MlJSRWNGUHh1ZEFMTEdvVVdXbk40QTMxMFh4Z29xcVFPS1F4Z1p6V0xMTDhLME9nYTRWcEVHazNYYktoVU52RDBNMUV0ZzFHdmdrakJBNFM0UmNyajV3eDZHbmk4empyd2ZobjRIUDNrX3BON2xiWFp6NVVZRzR5ejVFUlQ1Q3hwVWFuLUw4WXM?oc=5",
+  "published_at": "Tue, 23 Jun 2026 14:54:00 GMT",
+  "published_ts": 1782226440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTGpaUE52bjZqZWhsUkpFMUFzd0lJY2MxZHNlVVpvNFJ2eTZaamNtc012bFFKTl9MaXhmV0t5emgyMEZVRGhxc2VhV1J4MWpIRG9tMnE5SklTREtYYnpCYU93bTM4aUpjQWNVQlNMalFJVzVYeWR0MlJSRWNGUHh1ZEFMTEdvVVdXbk40QTMxMFh4Z29xcVFPS1F4Z1p6V0xMTDhLME9nYTRWcEVHazNYYktoVU52RDBNMUV0ZzFHdmdrakJBNFM0UmNyajV3eDZHbmk4empyd2ZobjRIUDNrX3BON2xiWFp6NVVZRzR5ejVFUlQ1Q3hwVWFuLUw4WXM?oc=5\" target=\"_blank\">Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Proactive financial news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital stocks are leading a Nasdaq sell-off, described as a tech rotation rather than liquidation. However, no specific catalyst, price target change, earnings news, or concrete market event is disclosed—only that the stocks are down amid broad tech weakness."
+  },
+  "buffered_ts": 1782237042.411615
  }
 ]
