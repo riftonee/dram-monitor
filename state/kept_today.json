@@ -971,5 +971,152 @@
    "summary": "SanDisk and Western Digital stocks are leading a Nasdaq sell-off, described as a tech rotation rather than liquidation. However, no specific catalyst, price target change, earnings news, or concrete market event is disclosed—only that the stocks are down amid broad tech weakness."
   },
   "buffered_ts": 1782237042.411615
+ },
+ {
+  "id": "ba1665d8755255c5a11575a35e1a8bc0ea26b00a",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "Under liquidation pressure, NAND prices on the trade side decline; today, prices for 512Gb TLC and 1Tb QLC wafers have been slightly reduced. - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBobmNlRU9xUWVMelRHeG1wM2pmS2h0dUItMm1Edkh3Qy1FZ0w0Wlh4ZFIxSWZ1emNjejREUEJEUXQtclhPMDM0SFU5VnlEUjliZjlFclg2TkZVZzA3MHfSAWNBVV95cUxNeUxUSmpxeTI3TDk4S3p5cG1jV1JlRG1RdDBNVUJfWmhJS25QbjZsaWtvS09UNGlMeGI5U05kRC1BMkFlR2dCZWRETWJhd1R2alEwUUFiejBlY1lWbmhybklrNFE?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:00:19 GMT",
+  "published_ts": 1782190819,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBobmNlRU9xUWVMelRHeG1wM2pmS2h0dUItMm1Edkh3Qy1FZ0w0Wlh4ZFIxSWZ1emNjejREUEJEUXQtclhPMDM0SFU5VnlEUjliZjlFclg2TkZVZzA3MHfSAWNBVV95cUxNeUxUSmpxeTI3TDk4S3p5cG1jV1JlRG1RdDBNVUJfWmhJS25QbjZsaWtvS09UNGlMeGI5U05kRC1BMkFlR2dCZWRETWJhd1R2alEwUUFiejBlY1lWbmhybklrNFE?oc=5\" target=\"_blank\">Under liquidation pressure, NAND prices on the trade side decline; today, prices for 512Gb TLC and 1Tb QLC wafers have been slightly reduced.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "NAND spot prices declining on trade side due to liquidation pressure; 512Gb TLC and 1Tb QLC wafer prices slightly reduced. Pricing signals are leading indicators for memory semiconductor stocks, though the magnitude described as 'slight' limits impact."
+  },
+  "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "e111c96307e31fbe5e2046dada0bb7bd41cff34c",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Memory stocks plunge! Korean media: NVIDIA's Rubin expected to cut production; SK hynix slows HBM4 capacity expansion - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUtwZFItUTJMbndrcFlNMHVYTXlqS0pXcThycWFCc3dkZHM3MXlWbnAtdVZKZVJSQlJDZTV0eXR2ZDkyS01aMHpnUGZhTzd4d0tEVmkyUzMtSTE0VHdIeFBLbVl1RG5EVlBpaV9LdlFsNHNPNWlRZVhzUEEtR0I5UzJZa01raUFnYkIzRmxNM3pOWUlpSlV5SUJrd2lMNzdheGJlTw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 19:42:37 GMT",
+  "published_ts": 1782243757,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUtwZFItUTJMbndrcFlNMHVYTXlqS0pXcThycWFCc3dkZHM3MXlWbnAtdVZKZVJSQlJDZTV0eXR2ZDkyS01aMHpnUGZhTzd4d0tEVmkyUzMtSTE0VHdIeFBLbVl1RG5EVlBpaV9LdlFsNHNPNWlRZVhzUEEtR0I5UzJZa01raUFnYkIzRmxNM3pOWUlpSlV5SUJrd2lMNzdheGJlTw?oc=5\" target=\"_blank\">Memory stocks plunge! Korean media: NVIDIA's Rubin expected to cut production; SK hynix slows HBM4 capacity expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korean media reports that NVIDIA's Rubin is expected to cut production and SK hynix is slowing HBM4 capacity expansion. These are claims about production intentions and capacity plans rather than confirmed events or official guidance. The story cites Korean media sources reporting expectations rather than official announcements, making it soft intelligence on potential supply dynamics affecting a key holding and the HBM market."
+  },
+  "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "cf82209bd4547eaf9b033856f6c06cea4ec9a70f",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation' - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2lIelh4cHVOTVlNaUJIa1RoeVV6cXZ3X1BqSy1TeFl5VWpQR3BTaVRKWVlubXZPOG82ZjY5aDdSckRDeURhdVZtMDZTU1VnS1U4UUN2THdBRS1WZkFKVjB0VFh2b042OVVDRlE2VEpVemZBVUJvZm5BSUhLNlprMENJLUpGd3c?oc=5",
+  "published_at": "Tue, 23 Jun 2026 12:30:00 GMT",
+  "published_ts": 1782217800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2lIelh4cHVOTVlNaUJIa1RoeVV6cXZ3X1BqSy1TeFl5VWpQR3BTaVRKWVlubXZPOG82ZjY5aDdSckRDeURhdVZtMDZTU1VnS1U4UUN2THdBRS1WZkFKVjB0VFh2b042OVVDRlE2VEpVemZBVUJvZm5BSUhLNlprMENJLUpGd3c?oc=5\" target=\"_blank\">Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital stocks leading a Nasdaq sell-off amid a tech sector 'rotation not liquidation.' This is a price move story with stated holdings (SNDK, WDC) but no disclosed catalyst beyond rotation narrative; without concrete reason or magnitude, impact is soft analysis rather than a confirmed event."
+  },
+  "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "0a2ddd114eeb2e6aad71b350bf3d32e1fd0d9071",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "SanDisk Says AI Is ‘Fundamentally’ Changing the NAND Market. Why That’s Good News for SNDK Stock. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTRReEpYQ0JVLVVjNWlxcEFVem9DT1Vxa0pPV1JzYWNKc0o3dnVFdTBTaUtQRS1xSzMyTmtQMmpmVjhOcDJhQkJjMFJfbkdKejB5dnB5cmZKeFkwWnJpSklPUjdwYkFvUGxaZW8yRFNTOE5ra3dxOUJJZDBlZmV6YVp3Q0gwQmktM2pVSC1uSHM5MlZoYzRHWTJEeU4yZDZjZV84VWN5TldGZE12LUVzMVhUVFNwcjFIM0xCUTREME5DXzJMMnN4WXZDUmpmVEFKOWc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 16:40:38 GMT",
+  "published_ts": 1782232838,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTRReEpYQ0JVLVVjNWlxcEFVem9DT1Vxa0pPV1JzYWNKc0o3dnVFdTBTaUtQRS1xSzMyTmtQMmpmVjhOcDJhQkJjMFJfbkdKejB5dnB5cmZKeFkwWnJpSklPUjdwYkFvUGxaZW8yRFNTOE5ra3dxOUJJZDBlZmV6YVp3Q0gwQmktM2pVSC1uSHM5MlZoYzRHWTJEeU4yZDZjZV84VWN5TldGZE12LUVzMVhUVFNwcjFIM0xCUTREME5DXzJMMnN4WXZDUmpmVEFKOWc?oc=5\" target=\"_blank\">SanDisk Says AI Is ‘Fundamentally’ Changing the NAND Market. Why That’s Good News for SNDK Stock.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk commentary on AI fundamentally changing the NAND market and positive implications for SNDK stock. This is management opinion/analysis rather than a concrete event (earnings beat, guidance change, or signed deal), so it rates as soft relevance—relevant to the holding but speculative in nature."
+  },
+  "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "34d8dfb5423a20fb6c9387bf48f50b071fbe80a9",
+  "source": "Business Standard",
+  "topic": "holding",
+  "title": "SK Hynix to Samsung Electronics: Tech titans tumble as AI bets face doubts - Business Standard",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmpoNF9pSjZGYXU3bDBuN1lUYmNwYVBhV0w0eGZzc1I0eDVBZ3RsUkdDMWJBNWhlampsMWQwZWpDS05wS3V1UUg2OFlrVVNsSHdHdzJHalYzUTgtOEVnbWx5MlFRRWNXWkowcy1yM2JVb0szR2hVNFNLNnppRWxyTGFNV2Z0QUUyUUZfUzNBRUhwZzRHRGg5YWJPZFp4d3NCS1FqeE12b0R3Mk9SQlVwN2dMU3NGdmZ3QVY1OWljTmdpajU5VlVoTklWQ1N2bUU2dmh3RzR4Y9IB3AFBVV95cUxQMWxrcmw1dTlJT01MV2dLOWFEMVZiQlN3emQ3VjF6UGlRcTdrLTVxb282Vi0yM0Y5QkU4dUlmQTlxLVZmZjZLXzBJQlNCMWROZXlkTnM3NUtMc2VCX29PMjRJSWRRc3dfdHNnOWhtRmxyZFJLQUk4QmNkbUNMRmVfUEhOTEs4alpkVmVmM0F4U05kSW1mUkFlZDhXb2toaDVqY3lCZzZRUUpsMFNERllsSUhQWHE3eWZwdHFVN2M0UHZFSkJQNm9zbG5wR0tGUFZGV0dIdlB4U1RLeTJZ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 18:07:58 GMT",
+  "published_ts": 1782238078,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmpoNF9pSjZGYXU3bDBuN1lUYmNwYVBhV0w0eGZzc1I0eDVBZ3RsUkdDMWJBNWhlampsMWQwZWpDS05wS3V1UUg2OFlrVVNsSHdHdzJHalYzUTgtOEVnbWx5MlFRRWNXWkowcy1yM2JVb0szR2hVNFNLNnppRWxyTGFNV2Z0QUUyUUZfUzNBRUhwZzRHRGg5YWJPZFp4d3NCS1FqeE12b0R3Mk9SQlVwN2dMU3NGdmZ3QVY1OWljTmdpajU5VlVoTklWQ1N2bUU2dmh3RzR4Y9IB3AFBVV95cUxQMWxrcmw1dTlJT01MV2dLOWFEMVZiQlN3emQ3VjF6UGlRcTdrLTVxb282Vi0yM0Y5QkU4dUlmQTlxLVZmZjZLXzBJQlNCMWROZXlkTnM3NUtMc2VCX29PMjRJSWRRc3dfdHNnOWhtRmxyZFJLQUk4QmNkbUNMRmVfUEhOTEs4alpkVmVmM0F4U05kSW1mUkFlZDhXb2toaDVqY3lCZzZRUUpsMFNERllsSUhQWHE3eWZwdHFVN2M0UHZFSkJQNm9zbG5wR0tGUFZGV0dIdlB4U1RLeTJZ?oc=5\" target=\"_blank\">SK Hynix to Samsung Electronics: Tech titans tumble as AI bets face doubts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Standard"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung Electronics stock prices declining amid concerns about AI investment returns and demand doubts. This is a price-movement story with no stated concrete catalyst—analyst opinion/speculation on AI bets facing skepticism rather than a reported earnings miss, guidance cut, or confirmed event."
+  },
+  "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "e0c7eb7d53c41776eb356dc8eaa7ee9f6d72351d",
+  "source": "Yahoo Finance",
+  "topic": "fund",
+  "title": "Memory Stock Rout Hits Popular DRAM ETF - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdyS0pmd1MwSXQ2VHMyXzRyZlhnN0ZFb2FzbE15dFd4bUlWS0wzUVBYNVA5UU1aRlVObDVHLWs3OW55QlR2N0RIR0dfcUFFdWs0QnZxaU5zbU1COU9CMHZYbTBFaGEwQ3cwQ3NmVkNmQXdKUVZCWjBLSXVwRzd4ZzhEc3dBeDFZaUxiNHMyOGpDNVpfdlEwZzJkdw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 18:32:44 GMT",
+  "published_ts": 1782239564,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdyS0pmd1MwSXQ2VHMyXzRyZlhnN0ZFb2FzbE15dFd4bUlWS0wzUVBYNVA5UU1aRlVObDVHLWs3OW55QlR2N0RIR0dfcUFFdWs0QnZxaU5zbU1COU9CMHZYbTBFaGEwQ3cwQ3NmVkNmQXdKUVZCWjBLSXVwRzd4ZzhEc3dBeDFZaUxiNHMyOGpDNVpfdlEwZzJkdw?oc=5\" target=\"_blank\">Memory Stock Rout Hits Popular DRAM ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "Investopedia"
+   ],
+   "titles": [
+    "Memory Stock Rout Hits Popular DRAM ETF - Investopedia"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Yahoo Finance reports on a decline in memory stocks affecting the DRAM ETF. The headline indicates a stock price move but provides no disclosed concrete catalyst, specific numbers on fund performance/flows, or confirmed triggering event—typical of a price-movement story without stated cause, warranting a 3."
+  },
+  "buffered_ts": 1782244681.1546607
  }
 ]
