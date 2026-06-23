@@ -1663,5 +1663,466 @@
    "summary": "SK Square (parent company of SK hynix) stock rises as market reassesses its SK hynix stake value in connection with an ADR (American Depositary Receipt) plan. This is relevant to the DRAM ETF's SK hynix holding, but the story reflects market sentiment and valuation reassessment rather than a concrete operational or financial event at SK hynix itself."
   },
   "buffered_ts": 1782178191.3654535
+ },
+ {
+  "id": "dd56e3923ffb11bfb0efa229077aa4c7b81cbde2",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] Memory Giants Split on HBM4 Strategy: Samsung HBM4 Sales Reportedly Tops $1B, SK hynix Slows Ramp - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGhtX3Q0VHg0cl9LcTV3WVAzU2JsajFpU2hldk1RWTQ3Q1RWRFhZelpFaFFrRGprWEhNNmdXU0kzUkxwUlVJVDdMMG95NTBfY2ZlYUZSN2Noa0JNOEI2azdJYmYxTjg3QzJXYTJaREZOeVI4Sm81N1lDRnl0VTVyVFVYelE5VnY3VThTM2hZaG9sbDNPbFJSRm9vUEdEckwyVHhHYnJGQ1l1N3JfTHRjeF9DX3BQdW45M0NqLXBQbFVXSHVoaWc4X1hDWE52TlZzNEdLeXhxWENTN2c?oc=5",
+  "published_at": "Tue, 23 Jun 2026 03:37:14 GMT",
+  "published_ts": 1782185834,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGhtX3Q0VHg0cl9LcTV3WVAzU2JsajFpU2hldk1RWTQ3Q1RWRFhZelpFaFFrRGprWEhNNmdXU0kzUkxwUlVJVDdMMG95NTBfY2ZlYUZSN2Noa0JNOEI2azdJYmYxTjg3QzJXYTJaREZOeVI4Sm81N1lDRnl0VTVyVFVYelE5VnY3VThTM2hZaG9sbDNPbFJSRm9vUEdEckwyVHhHYnJGQ1l1N3JfTHRjeF9DX3BQdW45M0NqLXBQbFVXSHVoaWc4X1hDWE52TlZzNEdLeXhxWENTN2c?oc=5\" target=\"_blank\">[News] Memory Giants Split on HBM4 Strategy: Samsung HBM4 Sales Reportedly Tops $1B, SK hynix Slows Ramp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung's HBM4 sales have reportedly exceeded $1B while SK hynix is slowing its HBM4 ramp, indicating a concrete split in strategy between two major memory suppliers and a substantive development in high-bandwidth memory capacity and demand."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "983b9f0d0cf5c8bc2cd081a15db2cbd5ae15470d",
+  "source": "TechPowerUp",
+  "topic": "pricing",
+  "title": "Consumer DRAM Shortages Extend to DDR2 Products with Contract Prices Expected to Continue Rising in 3Q26 - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR0pBMllQcVlEd3VWNDh1clcyMjRaSFo2QmtSYUVubE10MGRFUkZCeUREbGtuRmxYWVVKaERHX3dIY2F2TmVjTXZSRXZzOEVpMU5BOHhrR0RYdTRDaUJTeVZXb2xwcmNjSWxibkNoRWVlaElOcFk4a1BDTUVpcDhSTWRRb3JnY21YbVltOS1LcjRkWVEtVVMyUF9sS0I3ZUczdmdPM2xaaUFKRFZPc1VPTW93bF9Jd2JnUFhSaXYyTUhjLWVJM0hjY2VrUUExZ2d3bXk2SjNYMlRzY3Jx0gHbAUFVX3lxTFBUcGx6ZVJEU1FmSVRqSURTY0d6dHIxVThvazlZRVpNNVBzWUtlaUhab292TXJBU2ExU2RoZy1GVlk3aTY3X21pNFFRVnhDbk5vcWh4cnA5TDA1MlV1S3BMZFZPd0d2dWh0dnoxQXhmQVZ3aTRhWGFVdWZxbWxMV0I0d0VOczM1VUdnVVEwZTl0RlVDY3otSjdwUlpfazVIZlFvV0F4RVlMZ1NFaUE4TkNIcVdSa2lfNlZ6RjNqTjNsZTFHeW5zN09KRmVMeVRLTlp3SE1zMkthUE1ZOA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 07:45:16 GMT",
+  "published_ts": 1782114316,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR0pBMllQcVlEd3VWNDh1clcyMjRaSFo2QmtSYUVubE10MGRFUkZCeUREbGtuRmxYWVVKaERHX3dIY2F2TmVjTXZSRXZzOEVpMU5BOHhrR0RYdTRDaUJTeVZXb2xwcmNjSWxibkNoRWVlaElOcFk4a1BDTUVpcDhSTWRRb3JnY21YbVltOS1LcjRkWVEtVVMyUF9sS0I3ZUczdmdPM2xaaUFKRFZPc1VPTW93bF9Jd2JnUFhSaXYyTUhjLWVJM0hjY2VrUUExZ2d3bXk2SjNYMlRzY3Jx0gHbAUFVX3lxTFBUcGx6ZVJEU1FmSVRqSURTY0d6dHIxVThvazlZRVpNNVBzWUtlaUhab292TXJBU2ExU2RoZy1GVlk3aTY3X21pNFFRVnhDbk5vcWh4cnA5TDA1MlV1S3BMZFZPd0d2dWh0dnoxQXhmQVZ3aTRhWGFVdWZxbWxMV0I0d0VOczM1VUdnVVEwZTl0RlVDY3otSjdwUlpfazVIZlFvV0F4RVlMZ1NFaUE4TkNIcVdSa2lfNlZ6RjNqTjNsZTFHeW5zN09KRmVMeVRLTlp3SE1zMkthUE1ZOA?oc=5\" target=\"_blank\">Consumer DRAM Shortages Extend to DDR2 Products with Contract Prices Expected to Continue Rising in 3Q26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechPowerUp"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TechPowerUp reports consumer DRAM shortages extending to DDR2 products with contract prices expected to continue rising in 3Q26. Pricing forecasts are opinion/analysis rather than confirmed spot prices or settled events, placing this in the 3 range despite relevance to the memory cycle."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "ad97431a93552b1d4450180d7da0202d5931f5ac",
+  "source": "Android Headlines",
+  "topic": "holding",
+  "title": "SK Hynix Dethrones Samsung as Korea’s Tech Market King: Historic Shift in Tech Royalty - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ09RbHVwT0QwaWxGZTRFMnI1RGpGY25hc2l0Rnh3bUdKWnc5REhCSnI5N1BkdEhRSExKdXMzdVl4bXZrdER1aVBDUF8wSzBCWDhxVWFZeEZqbnNxYUNldWh2U29CZm1ZMk4tYmpiTGV1UzhCclRGeEF5YUZJOU9acHU3dXhZT3ZTN0pJR0hydXdnR1lBOEtKT09qaw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 01:49:18 GMT",
+  "published_ts": 1782179358,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ09RbHVwT0QwaWxGZTRFMnI1RGpGY25hc2l0Rnh3bUdKWnc5REhCSnI5N1BkdEhRSExKdXMzdVl4bXZrdER1aVBDUF8wSzBCWDhxVWFZeEZqbnNxYUNldWh2U29CZm1ZMk4tYmpiTGV1UzhCclRGeEF5YUZJOU9acHU3dXhZT3ZTN0pJR0hydXdnR1lBOEtKT09qaw?oc=5\" target=\"_blank\">SK Hynix Dethrones Samsung as Korea’s Tech Market King: Historic Shift in Tech Royalty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Android Headlines"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has surpassed Samsung as Korea's largest tech company by market capitalization. This reflects a historic shift in competitive positioning between the two semiconductor giants, both of which are major holdings in the DRAM ETF. While the headline signals market confidence in SK Hynix and potential headwinds for Samsung's valuation, the story appears to be primarily a market-cap ranking shift without disclosed concrete catalysts or earnings/guidance changes driving it."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "3b713c07e3367ce31b7bf05e23adfa87268d8840",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Is Up 7.9% After AI Deals Cement Its Pure-Play NAND Pivot - What's Changed - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXZ1SGV1OTh3anF4eEk5ZjhEeGNCNHdXeWtpMFZhR3gwVm9Ia3VQemhJY1hSb2pJYWtOcXZlQ05kZ2RhS1ZncmtpamJ6MUlncnUzM1c4WTZ0a0ZUMVpxeDlSQXhjTUZkVm1obEN2YkVPbjV2cE1vYWRyLWo3MnlCcWs1N3BScEhSNllZ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 04:30:00 GMT",
+  "published_ts": 1782189000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXZ1SGV1OTh3anF4eEk5ZjhEeGNCNHdXeWtpMFZhR3gwVm9Ia3VQemhJY1hSb2pJYWtOcXZlQ05kZ2RhS1ZncmtpamJ6MUlncnUzM1c4WTZ0a0ZUMVpxeDlSQXhjTUZkVm1obEN2YkVPbjV2cE1vYWRyLWo3MnlCcWs1N3BScEhSNllZ?oc=5\" target=\"_blank\">Sandisk (SNDK) Is Up 7.9% After AI Deals Cement Its Pure-Play NAND Pivot - What's Changed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, rose 7.9% following AI deals that reinforce its pivot to pure-play NAND. The stock price movement itself is confirmed, but the headline suggests the deals are characterizing an existing strategic shift rather than announcing a new concrete event. Absent disclosed deal terms, signing dates, or revenue guidance changes, this reads as analyst commentary on strategy rather than a hard catalyst. Relevant to the fund but impact is soft (3) rather than event-driven (4+)."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "791d8c85340788689c030ac55a051a09310334e5",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "South Korean Stocks Plunge to Trigger Circuit Breaker, Samsung and Hynix Suffer Bloodbath - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTVHb19yOGZtS3RPTDVxc1VVU2FieTVVY3NjSC13ajNGOHZOcFBaOTJvQnRSbWhGanJ1VUZWblg3YkhSNU5BZTFEakhqajgxWXR1Tnkwdng1aTJYMDV3Z3NqcDFseGFkQjBCOGZjcThyakp3MmNsa21wUXFOdGRfVW9OY1h2LUJ6N0FHWjZQSlJXNWZoY1dqOEw2RWtuTHp6djhWcVowNVNHdmpW?oc=5",
+  "published_at": "Tue, 23 Jun 2026 03:52:20 GMT",
+  "published_ts": 1782186740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTVHb19yOGZtS3RPTDVxc1VVU2FieTVVY3NjSC13ajNGOHZOcFBaOTJvQnRSbWhGanJ1VUZWblg3YkhSNU5BZTFEakhqajgxWXR1Tnkwdng1aTJYMDV3Z3NqcDFseGFkQjBCOGZjcThyakp3MmNsa21wUXFOdGRfVW9OY1h2LUJ6N0FHWjZQSlJXNWZoY1dqOEw2RWtuTHp6djhWcVowNVNHdmpW?oc=5\" target=\"_blank\">South Korean Stocks Plunge to Trigger Circuit Breaker, Samsung and Hynix Suffer Bloodbath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean stocks including Samsung and SK hynix fell sharply enough to trigger circuit breakers. While this represents a significant price move in two major DRAM fund holdings, the headline provides no stated cause or catalyst (e.g., earnings, guidance, production news, pricing data), making it a pure price-movement story rather than a concrete fundamental event."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "064d6a256a54be0615918dd02a2515a5c836753c",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "Micron Technology hits fresh records ahead of earnings, shares priced for big moves - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbm1VNDJDMkpSdjllbk94NnJTUnBrRng2RGtfckFaX2dfYUR0M1huU2JaNGIyVlV4UjZ2Z2VISzFrSFBTWjZlUFgtMHVSeXNwVGQ3SUhVcUYySkpfVmxheE1jaElvaFdPNlNpUGF6R2ZGZzJQZ004Q09zQVJFc2JkazVqZ0pBZkxSRzg4MVVzX0xUWGh2akFxVno0SnVKTVJpVlZHNENrUVVqSVVHaUZiZ0pfeGE5cGNKS1lqa053Y28wZlJsb0FnZkFOZw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:01:35 GMT",
+  "published_ts": 1782190895,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbm1VNDJDMkpSdjllbk94NnJTUnBrRng2RGtfckFaX2dfYUR0M1huU2JaNGIyVlV4UjZ2Z2VISzFrSFBTWjZlUFgtMHVSeXNwVGQ3SUhVcUYySkpfVmxheE1jaElvaFdPNlNpUGF6R2ZGZzJQZ004Q09zQVJFc2JkazVqZ0pBZkxSRzg4MVVzX0xUWGh2akFxVno0SnVKTVJpVlZHNENrUVVqSVVHaUZiZ0pfeGE5cGNKS1lqa053Y28wZlJsb0FnZkFOZw?oc=5\" target=\"_blank\">Micron Technology hits fresh records ahead of earnings, shares priced for big moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron Technology stock hits fresh records ahead of earnings announcement. Article notes shares are priced for significant moves but provides no disclosed catalyst, concrete earnings guidance, or confirmed event—only price movement and forward-looking expectations."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "63982ad73b28092885455aafea5a2de7e721d5a3",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "SK hynix, Samsung Lead Net Buying by Top Investors Despite Share Declines - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjRlaVpqSjRmUVRsRERRbTlVMVI3ZlRSUmxkemFocFF1STB2MlpQNF9RSlAtMkluYkFpV3RncHJmVHBmRWxuZHVqdUR4enRaY2FldENWbi1QSklCR0RIWWl5VXVzczBMcklsSGhrbVpkWTZQQkdrRWNuWUJxeWRYcmtpTUhMZU55TmRycHA2MEJKZ2pNc3p6ZWExVHNnQ1ZX?oc=5",
+  "published_at": "Tue, 23 Jun 2026 02:41:03 GMT",
+  "published_ts": 1782182463,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjRlaVpqSjRmUVRsRERRbTlVMVI3ZlRSUmxkemFocFF1STB2MlpQNF9RSlAtMkluYkFpV3RncHJmVHBmRWxuZHVqdUR4enRaY2FldENWbi1QSklCR0RIWWl5VXVzczBMcklsSGhrbVpkWTZQQkdrRWNuWUJxeWRYcmtpTUhMZU55TmRycHA2MEJKZ2pNc3p6ZWExVHNnQ1ZX?oc=5\" target=\"_blank\">SK hynix, Samsung Lead Net Buying by Top Investors Despite Share Declines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung are experiencing net buying from top institutional investors despite recent share price declines. This suggests positive investor sentiment toward these memory semiconductor holdings despite near-term headwinds, but represents analyst/fund positioning rather than a concrete market-moving event."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "babac1c43591bf7b7efdb9b374b2c1b112bd4ab2",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Daily Brief Equity Bottom-Up: SK Hynix – A Homerun Investment in Kioxia and more - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkxDcjdfZXBFWUxOQ2FyeTBfSy0xeE5nMWthQ0F1dTlNZDFEb3NzTFhGbE1NR2dMWDhFc2RkbmJ5WDN3QXFZVTk1NF9PakRYd2tKWjNLUmtrY1d5dlRETVg3LXp1MnFndC1HWUJDbE1UdnpXWk80WUVtNjJhdUdQN09kWFhEdm1nZmd4RjJyX0R2cGhpcVoxLXVtaUVJRW0tNlRKZ1JOMFUxUTgzd1kwZXEzNXBtRWlhSGdqekxvUkk?oc=5",
+  "published_at": "Tue, 23 Jun 2026 02:00:37 GMT",
+  "published_ts": 1782180037,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkxDcjdfZXBFWUxOQ2FyeTBfSy0xeE5nMWthQ0F1dTlNZDFEb3NzTFhGbE1NR2dMWDhFc2RkbmJ5WDN3QXFZVTk1NF9PakRYd2tKWjNLUmtrY1d5dlRETVg3LXp1MnFndC1HWUJDbE1UdnpXWk80WUVtNjJhdUdQN09kWFhEdm1nZmd4RjJyX0R2cGhpcVoxLXVtaUVJRW0tNlRKZ1JOMFUxUTgzd1kwZXEzNXBtRWlhSGdqekxvUkk?oc=5\" target=\"_blank\">Daily Brief Equity Bottom-Up: SK Hynix – A Homerun Investment in Kioxia and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Smartkarma"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Smartkarma equity analysis piece discussing SK Hynix as a homerun investment opportunity, with focus on its Kioxia investment. This is analyst opinion/commentary rather than a concrete event or confirmed development, making it a soft 3 despite being directly relevant to a core DRAM ETF holding."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "c38af590b110e2c83870a23b1084b8a92bb9e5aa",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "25-Year Reign Ends: SK hynix Becomes Korea's Top Stock by Market Cap - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanBfWElPZHUxa1R0dzZtZGd2TUFLSEpLaWRrOG5CNzZBbjg2MDRpVm1ya09UTkd3ZlFBZjhVcVA1czlUa040a0RNN01XNlFpNV9qMTBVeG1nWFlBSEZmVXQzUk9wSFNmdlB2LXNqQVlvQXR2REFQYmI4MjZreXZOelV1ajliV0ZFYzRheXlGRFJjM1lQbXk5eWs3SDBnZw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 01:03:05 GMT",
+  "published_ts": 1782176585,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNanBfWElPZHUxa1R0dzZtZGd2TUFLSEpLaWRrOG5CNzZBbjg2MDRpVm1ya09UTkd3ZlFBZjhVcVA1czlUa040a0RNN01XNlFpNV9qMTBVeG1nWFlBSEZmVXQzUk9wSFNmdlB2LXNqQVlvQXR2REFQYmI4MjZreXZOelV1ajliV0ZFYzRheXlGRFJjM1lQbXk5eWs3SDBnZw?oc=5\" target=\"_blank\">25-Year Reign Ends: SK hynix Becomes Korea's Top Stock by Market Cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix has surpassed Samsung to become Korea's largest stock by market capitalization, ending Samsung's 25-year reign. This reflects investor sentiment and valuation shift toward the memory semiconductor leader, though the article is narrative/analytical rather than reporting a specific catalyst or concrete event."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "7a7e2dfb5e97250583f3805bcb9dc988f24b773e",
+  "source": "TMGM",
+  "topic": "holding",
+  "title": "Ahead of Earnings, Wall Street Banks Race to Raise Micron Technology Price Targets - TMGM",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDdWYWpCaE9YVVk1OG5sTUdOaU5SNjdnaTZHLVpRRUNNYTU1em1SR1hDZjlrOUJleG1sV1p3dVhHbmw2VmZqT2N2amd6QlN0T1F4WFhCdHYtRjFnUXp4Q1JNVVNaSEFDdmFIbTRlejhHWDNzc2hHVGRLclp0T2xheGY1VzhrSlVnQU1DQXZtLUpUZnJCbFU1dHl2NXZmQms3QVBFVDJlY0w?oc=5",
+  "published_at": "Mon, 22 Jun 2026 17:03:19 GMT",
+  "published_ts": 1782147799,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDdWYWpCaE9YVVk1OG5sTUdOaU5SNjdnaTZHLVpRRUNNYTU1em1SR1hDZjlrOUJleG1sV1p3dVhHbmw2VmZqT2N2amd6QlN0T1F4WFhCdHYtRjFnUXp4Q1JNVVNaSEFDdmFIbTRlejhHWDNzc2hHVGRLclp0T2xheGY1VzhrSlVnQU1DQXZtLUpUZnJCbFU1dHl2NXZmQms3QVBFVDJlY0w?oc=5\" target=\"_blank\">Ahead of Earnings, Wall Street Banks Race to Raise Micron Technology Price Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMGM</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TMGM"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wall Street banks raising Micron price targets ahead of earnings. Analyst revisions and price-target changes are soft signals of sentiment; the actual earnings event and any concrete guidance changes would carry higher impact."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "fd8dee7c938731fb6230e73ef82e35b284af6cd9",
+  "source": "Akses.co.id",
+  "topic": "holding",
+  "title": "SK Hynix Overtakes Samsung as South Korea's Most Valuable Listed Company - Akses.co.id",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvVDFnRVZPb2RsNGlUaUx2ZzF1MXVyUnFKN2xaclhGTjdMSnBvNm9Ca2hXdkJsVDJ6NFVpaXJkb25wb0dhWjRpS0VpaXl2M2VTcFVYdDdPaFg1YnUwR1NoaldMWlVxZmI5ZnVmejBuWmFCQQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 14:14:25 GMT",
+  "published_ts": 1782137665,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvVDFnRVZPb2RsNGlUaUx2ZzF1MXVyUnFKN2xaclhGTjdMSnBvNm9Ca2hXdkJsVDJ6NFVpaXJkb25wb0dhWjRpS0VpaXl2M2VTcFVYdDdPaFg1YnUwR1NoaldMWlVxZmI5ZnVmejBuWmFCQQ?oc=5\" target=\"_blank\">SK Hynix Overtakes Samsung as South Korea's Most Valuable Listed Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Akses.co.id</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Akses.co.id",
+    "Seoul Economic Daily"
+   ],
+   "titles": [
+    "SK hynix Overtakes Samsung as Korea's Top Stock - Seoul Economic Daily"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has overtaken Samsung as South Korea's most valuable listed company. This is a significant market-cap milestone for the holding but reflects broad valuation shifts rather than memory-specific operational or demand news. The story confirms SK Hynix's rising investor confidence, likely tied to HBM demand and memory pricing recovery, but the headline alone does not report a concrete event (earnings, guidance, capacity decision, or price move with disclosed cause) beyond the market-cap ranking itself."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "491f92f18c7d84947210b578cfa33374d9258fa4",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix Cheongju plant accidents raise HBM expansion safety concerns - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzhKM29MRmJmVlAxUThDVC1zTVVsS3FnQVVfWDE4dWZkamxoZjZfSDJjRFA5LUR3OUdHTHF0QlR2eGlaQmhIZ1hvWk1SazVZazBmM204MGt5NkJlcVZ3cTlsOU9HTGxpcTlHdzR5S0c0RzV5aV9nTU9WekVBczdLN25RYTFPN0RVejdSVFNFYWI3MG15VWZnVW81VWhLdw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 02:41:02 GMT",
+  "published_ts": 1782182462,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTzhKM29MRmJmVlAxUThDVC1zTVVsS3FnQVVfWDE4dWZkamxoZjZfSDJjRFA5LUR3OUdHTHF0QlR2eGlaQmhIZ1hvWk1SazVZazBmM204MGt5NkJlcVZ3cTlsOU9HTGxpcTlHdzR5S0c0RzV5aV9nTU9WekVBczdLN25RYTFPN0RVejdSVFNFYWI3MG15VWZnVW81VWhLdw?oc=5\" target=\"_blank\">SK Hynix Cheongju plant accidents raise HBM expansion safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": [
+    "SK Hynix Cheongju plant accidents raise HBM expansion safety concerns - digitimes"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's Cheongju plant has experienced accidents that raise safety concerns about its HBM (high-bandwidth memory) expansion plans. Safety incidents at a major fab could affect production timelines and capacity, but the story appears to report concerns rather than confirmed production impacts or official guidance changes."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "51f029dec3667e588c569ed4985eb9b388802c14",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "Micron's HBM-Fueled Ascent Reaches Its Defining Earnings Moment - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakc5SmxXWFh2ekNnRGxFM25DTXpiTmM0N2ttczFhaHNya29hS3I5VmwtX2FqMk53d0p6aVZkaHNhVVUtUFlkb1dwR09qUjhTU0JvVU4wNTJyOXlESWVZSV9VRXk4ekQ3MGE3bGljb0VIWEhEdmRLRDVMaHJNVXVLNmZUa0VPc3IxcGRTTVNzbmlldzl2S2NYalpLVS16TEFlSU9Dc21TTVFEUDFQck1ST2tIX1JtSS03ZE82RjJmOA?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:14:40 GMT",
+  "published_ts": 1782191680,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPakc5SmxXWFh2ekNnRGxFM25DTXpiTmM0N2ttczFhaHNya29hS3I5VmwtX2FqMk53d0p6aVZkaHNhVVUtUFlkb1dwR09qUjhTU0JvVU4wNTJyOXlESWVZSV9VRXk4ekQ3MGE3bGljb0VIWEhEdmRLRDVMaHJNVXVLNmZUa0VPc3IxcGRTTVNzbmlldzl2S2NYalpLVS16TEFlSU9Dc21TTVFEUDFQck1ST2tIX1JtSS03ZE82RjJmOA?oc=5\" target=\"_blank\">Micron's HBM-Fueled Ascent Reaches Its Defining Earnings Moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's earnings moment in context of HBM (high-bandwidth memory) demand. While HBM is a key driver for the memory cycle and Micron is a core DRAM ETF holding, this appears to be commentary or forward-looking analysis rather than reporting on actual earnings results or concrete developments. Impact is soft opinion/possibility rather than a confirmed event."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "26eb44eaad69fef90593339198bf1f8d9d9d8329",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Why is SanDisk stock surging today? By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVPRWF6QUtiYnNMcU5TU0dzX0UtT3BhWnRvVzdQbWFjNmhUU0g5ODlzTjNJVkJoV3Z0WUtabHRjX0w1TnFtOHdYMkVxaVBjcDFGbkFPemFVOVgyNng5TjVGTHFELXJNV2M5dTA4NGN6bC1WOHRvSGo0RGNGcDhLZEg3VHYza3F2QjZBc0FEa2FQSXplR2dGb0tJUQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 16:22:39 GMT",
+  "published_ts": 1782145359,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVPRWF6QUtiYnNMcU5TU0dzX0UtT3BhWnRvVzdQbWFjNmhUU0g5ODlzTjNJVkJoV3Z0WUtabHRjX0w1TnFtOHdYMkVxaVBjcDFGbkFPemFVOVgyNng5TjVGTHFELXJNV2M5dTA4NGN6bC1WOHRvSGo0RGNGcDhLZEg3VHYza3F2QjZBc0FEa2FQSXplR2dGb0tJUQ?oc=5\" target=\"_blank\">Why is SanDisk stock surging today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock is surging; the article explains the intraday price move but does not disclose a concrete catalyst or substantive news driver—typical price-move reporting without a disclosed event or earnings/guidance announcement."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "b7d16a122ac70c9fa33aebfc3463766e2ac56fa2",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "AI Servers Drive EDSFF SSD Shift: Global Outlook 2026-2030 - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uei0tczBmdm0wTjZGLVhqejYzZzlfbWFJbEpWTlV1WXhHSlFsM1ZSaFdYcmxPMXl1TG5fTFdJanlVNlR2dTZsYmtoVUU4bGNLRWdDRzFSSjROeFVhbXVsNWRjc182QQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:29:57 GMT",
+  "published_ts": 1782192597,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uei0tczBmdm0wTjZGLVhqejYzZzlfbWFJbEpWTlV1WXhHSlFsM1ZSaFdYcmxPMXl1TG5fTFdJanlVNlR2dTZsYmtoVUU4bGNLRWdDRzFSSjROeFVhbXVsNWRjc182QQ?oc=5\" target=\"_blank\">AI Servers Drive EDSFF SSD Shift: Global Outlook 2026-2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "TrendForce analysis on EDSFF SSD (solid-state drive) form-factor shift driven by AI server demand through 2030. Relevant to the memory cycle as AI infrastructure capex pulls storage and memory demand, though SSD pricing/form-factor forecasts are forward-looking analysis rather than a confirmed market event or pricing move. No immediate earnings, guidance, or hard capacity announcement disclosed."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "fb3bf17ab9152ade568ed6242d96d847972ead79",
+  "source": "PANews",
+  "topic": "holding",
+  "title": "Micron Earnings Preview: What Are the Key Points to Watch? - PANews",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5RkRjanFYRkhmckdtZ2F1ZzduaUNMT1hFWDRjUENMT2Y4c25RWjkxQ2lqeXR1NThDNW5CNVU3VDQwRktaLWUwTFR2TmtSbmxsVTdTcUhxYV81bU5kbHZrNTRId0pyeDdMeE1MZVI3dWhWVUZQM3VJMGF6eDlUZ3c?oc=5",
+  "published_at": "Tue, 23 Jun 2026 03:05:00 GMT",
+  "published_ts": 1782183900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB5RkRjanFYRkhmckdtZ2F1ZzduaUNMT1hFWDRjUENMT2Y4c25RWjkxQ2lqeXR1NThDNW5CNVU3VDQwRktaLWUwTFR2TmtSbmxsVTdTcUhxYV81bU5kbHZrNTRId0pyeDdMeE1MZVI3dWhWVUZQM3VJMGF6eDlUZ3c?oc=5\" target=\"_blank\">Micron Earnings Preview: What Are the Key Points to Watch?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PANews"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Preview article on Micron earnings, identifying key points to watch. As a major DRAM/NAND holding, Micron earnings are material; however, this is pre-earnings analysis rather than actual results or concrete guidance, making it softer than a 4."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "69f21344a7e30bdff2c8f8360664dd378f8499c6",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock sliding today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTS1HLU1Jei12dS1UQlZaeXN3V015RC1zN2xaSjhkZlVibG1KanVwUGJ4cHBMQVZJVVgxd2FKSVVPMDJOTjhGbVFOc3RRWWQ0THNnMVZ2SFNPX1dtWmxDdEZsM3ZEUlQ4S0ZhUUIwVjNWNWtqZlppcFA3clo0ZEtONjUyRjY1UHhyNXF1b1JiWEtabmgzR2kyYmt6WGMyZw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:01:33 GMT",
+  "published_ts": 1782190893,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTS1HLU1Jei12dS1UQlZaeXN3V015RC1zN2xaSjhkZlVibG1KanVwUGJ4cHBMQVZJVVgxd2FKSVVPMDJOTjhGbVFOc3RRWWQ0THNnMVZ2SFNPX1dtWmxDdEZsM3ZEUlQ4S0ZhUUIwVjNWNWtqZlppcFA3clo0ZEtONjUyRjY1UHhyNXF1b1JiWEtabmgzR2kyYmt6WGMyZw?oc=5\" target=\"_blank\">Why is SK Hynix stock sliding today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock price movement reported without disclosed fundamental catalyst. Stock price moves alone without stated reason (earnings, guidance, supply news, pricing data) qualify as soft relevance and analysis rather than concrete events."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "51cb9175bffbf780204c1f47e305036e4bf75123",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK hynix, Samsung Electronics fall on profit-taking - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QeGRoM3J6VzE0ZGFqQjhLN3BacVhPRUtnV2tfazN1dThPSll3NnhPcEpsU2E0QnQ1d3FOeTdoUkdOUDQ4Mmdkd2xqREhpdV9wUmc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 01:43:24 GMT",
+  "published_ts": 1782179004,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QeGRoM3J6VzE0ZGFqQjhLN3BacVhPRUtnV2tfazN1dThPSll3NnhPcEpsU2E0QnQ1d3FOeTdoUkdOUDQ4Mmdkd2xqREhpdV9wUmc?oc=5\" target=\"_blank\">SK hynix, Samsung Electronics fall on profit-taking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix and Samsung Electronics experienced stock price declines attributed to profit-taking. No new catalyst, earnings, guidance change, or concrete event disclosed—a typical intraday or session-based price move without stated fundamental cause."
+  },
+  "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "88f0f0bbb5d74938d6eb53b37432a86d37c4ee86",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Daily Brief South Korea: SK Hynix and more - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOC1tdzEwN3p6OTN3UGxBem9HaEdKZlViVnFSbkxRb3N4bFFSOWhuYmQtQ243aTg2SFFOYUgxOE1vZ3FiTVlmVlJNNExBT0VseHdJdGFPTk5jU2VHZE1Id2NLQXRmb2NoU3UxenZJSlJ2cWE2OTZ4ZDdmd2hUS29NWjY2Qk5wXzc5WXdRUlAwcmhDdW8?oc=5",
+  "published_at": "Tue, 23 Jun 2026 02:00:28 GMT",
+  "published_ts": 1782180028,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOC1tdzEwN3p6OTN3UGxBem9HaEdKZlViVnFSbkxRb3N4bFFSOWhuYmQtQ243aTg2SFFOYUgxOE1vZ3FiTVlmVlJNNExBT0VseHdJdGFPTk5jU2VHZE1Id2NLQXRmb2NoU3UxenZJSlJ2cWE2OTZ4ZDdmd2hUS29NWjY2Qk5wXzc5WXdRUlAwcmhDdW8?oc=5\" target=\"_blank\">Daily Brief South Korea: SK Hynix and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Smartkarma"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 1,
+   "category": "holding",
+   "summary": "A Daily Brief covering SK Hynix among other South Korean topics. Without detailed content, this appears to be a routine news roundup rather than a specific material development affecting SK Hynix or memory semiconductors."
+  },
+  "buffered_ts": 1782193678.9078128
  }
 ]
