@@ -2124,5 +2124,690 @@
    "summary": "A Daily Brief covering SK Hynix among other South Korean topics. Without detailed content, this appears to be a routine news roundup rather than a specific material development affecting SK Hynix or memory semiconductors."
   },
   "buffered_ts": 1782193678.9078128
+ },
+ {
+  "id": "66736932cb461cfebcff224a7db9dcf8989663d9",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Samsung HBM4 revenue tops $1B, targets $10B on AI chip demand - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wbk54N1dFekRZR1R4WWQ2RjNfNVFoRUxLVEs1SUdadU9GaHMwMmpZR283dUg2V0VyVmJuT0V6ZUtUU1ZyZDhvVDhxSDMwRmd5Qks3OXhJQVBaajFKVVNSOWZWdDhMV0hYcHRVSnpjcWw2M1NMdDE4WW930gGOAUFVX3lxTE81ZlJ1S0pfeExkc2ZPN1RUanBENUFjdkNhSDRQSE5JY1pObE5pR1N5RUxqbGNsRl9Ga29QcHVmU3FIaDhRMDVaLVR1TzB4LTVPQVJZMHp2TVlDQTJsaEpjTE8ySmpySEJ3TXczdTN2aFRLT1FDZEVoT05TVUdoYTNFZUVVVm1fNm41QnJMeGc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:41:00 GMT",
+  "published_ts": 1782193260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1wbk54N1dFekRZR1R4WWQ2RjNfNVFoRUxLVEs1SUdadU9GaHMwMmpZR283dUg2V0VyVmJuT0V6ZUtUU1ZyZDhvVDhxSDMwRmd5Qks3OXhJQVBaajFKVVNSOWZWdDhMV0hYcHRVSnpjcWw2M1NMdDE4WW930gGOAUFVX3lxTE81ZlJ1S0pfeExkc2ZPN1RUanBENUFjdkNhSDRQSE5JY1pObE5pR1N5RUxqbGNsRl9Ga29QcHVmU3FIaDhRMDVaLVR1TzB4LTVPQVJZMHp2TVlDQTJsaEpjTE8ySmpySEJ3TXczdTN2aFRLT1FDZEVoT05TVUdoYTNFZUVVVm1fNm41QnJMeGc?oc=5\" target=\"_blank\">Samsung HBM4 revenue tops $1B, targets $10B on AI chip demand - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung's HBM4 (high-bandwidth memory) division has exceeded $1B in revenue and is targeting $10B driven by AI chip demand. This is a concrete, market-moving development for a major DRAM ETF holding showing strong momentum in the AI-driven memory cycle."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "1f4354ce85e7618814d434e6dbad6e1ae26edc4b",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Korean Stocks Trigger Circuit Breakers Twice in a Single Day; SK Hynix and Samsung Electronics Both Plunge 12%, Kioxia Tumbles Over 15% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3FUQ1JBVTAyMGctcHNyNWUyUzlmQ0FfZjRoYkVsSTczM2xsSWpTTGx6QkpRMEJxalcyWUppZFdPczVRTkNEM2o4T21NMTI5MnVtNHVEM09sSXNPbFdRQ0NRbURkWjRpeTZYSG5KNkN3TDNBODRCLXVpdW85eVVfUThVbWxZcC1yTUVWV21LYkVpRGo4WnB1UHdPbzB3X3REclgydGNDbjZYckg1eWc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:27:25 GMT",
+  "published_ts": 1782199645,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3FUQ1JBVTAyMGctcHNyNWUyUzlmQ0FfZjRoYkVsSTczM2xsSWpTTGx6QkpRMEJxalcyWUppZFdPczVRTkNEM2o4T21NMTI5MnVtNHVEM09sSXNPbFdRQ0NRbURkWjRpeTZYSG5KNkN3TDNBODRCLXVpdW85eVVfUThVbWxZcC1yTUVWV21LYkVpRGo4WnB1UHdPbzB3X3REclgydGNDbjZYckg1eWc?oc=5\" target=\"_blank\">Korean Stocks Trigger Circuit Breakers Twice in a Single Day; SK Hynix and Samsung Electronics Both Plunge 12%, Kioxia Tumbles Over 15%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung Electronics both fell 12% in a single trading day, triggering circuit breakers twice. This is a concrete, material stock move affecting two major fund holdings with actual market impact evident from circuit breaker triggers."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "e6d4786aa2b61d1366639ba7bc345384545dc934",
+  "source": "Anadolu Ajansı",
+  "topic": "holding",
+  "title": "Samsung's next-generation AI memory chip sales top $1B after launch: Report - Anadolu Ajansı",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamQtUnJlWlVMUC0xMnVnQnBtWFlQY3huY2NVbWFOa0htSnlwSHN5aFdpdTl4ZmxLSFNZWlItZEJfMFVFaTNqeW1nd0tlaEhuT3pIVFhjYm1KUVZ0bnpxMzRYS0R2eDZRbmpndVYxUzdDdTJUMHBLM0s1UkRKNXp5V2UxY2V3N2RIazZaRkY3QjBHSUNCSmNhSS02WmoxZTNxNzllcThvRkR6ZWk0OU1rNG9xVXBGWDljX3lTUVZMYlhNdw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:49:20 GMT",
+  "published_ts": 1782200960,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamQtUnJlWlVMUC0xMnVnQnBtWFlQY3huY2NVbWFOa0htSnlwSHN5aFdpdTl4ZmxLSFNZWlItZEJfMFVFaTNqeW1nd0tlaEhuT3pIVFhjYm1KUVZ0bnpxMzRYS0R2eDZRbmpndVYxUzdDdTJUMHBLM0s1UkRKNXp5V2UxY2V3N2RIazZaRkY3QjBHSUNCSmNhSS02WmoxZTNxNzllcThvRkR6ZWk0OU1rNG9xVXBGWDljX3lTUVZMYlhNdw?oc=5\" target=\"_blank\">Samsung's next-generation AI memory chip sales top $1B after launch: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Anadolu Ajansı"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung's next-generation AI memory chip (likely HBM) has achieved over $1B in sales following its launch. This is a concrete, material development confirming strong demand for Samsung's advanced memory products and demonstrating real revenue traction in the high-value AI memory segment, directly benefiting a major fund holding."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "c88c354f96a94077d173a190f5a17d0f63de5462",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Samsung unveils industry's 1st UFS 5.0 memory optimized for on-device AI - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3FqWjNsRThmbldVTU1OdThlX01JVGp3bnhSb0E3TFhvaWtMeUFXMW00RkxUZEsxTW5acUpDQlFycU5JM05yQzZRdlZ2OElsVk9hZDZtdGlRd3FJdzR0eUR0dzgzS0xtZHMxU3dTZkd4YUs2dm9IS3dtcUtobnpqTEQxakVlVzF4TklMbVd0MGR0Ri05QTh6UUd6UmV0N0RtNzVuZFFiWmtlVWpWeWw4V1hhMXBOTmRnODgwZXkzOVgzeEdYWGloTWFPRXVnMHfSAc8BQVVfeXFMTWtxalozbEU4Zm5XVU1NTnU4ZV9NSVRqd254Um9BN0xYb2lrTHlBVzFtNEZMVGRLMU1uWnFKQ0JRcnFOSTNOckM2UXZWdjhJbFZPYWQ2bXRpUXdxSXc0dHlEdHc4M0tMbWRzMVN3U2ZHeGFLNnZvSEt3bXFLaG56akxEMWpFZVcxeE5JTG1XdDBkdEYtOUE4elFHelJldDdEbTc1bmRRYlprZVVqVnlsOFdYYTFwTk5kZzg4MGV5MzlYM3hHWFhpaE1hT0V1ZzB3?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:00:00 GMT",
+  "published_ts": 1782194400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3FqWjNsRThmbldVTU1OdThlX01JVGp3bnhSb0E3TFhvaWtMeUFXMW00RkxUZEsxTW5acUpDQlFycU5JM05yQzZRdlZ2OElsVk9hZDZtdGlRd3FJdzR0eUR0dzgzS0xtZHMxU3dTZkd4YUs2dm9IS3dtcUtobnpqTEQxakVlVzF4TklMbVd0MGR0Ri05QTh6UUd6UmV0N0RtNzVuZFFiWmtlVWpWeWw4V1hhMXBOTmRnODgwZXkzOVgzeEdYWGloTWFPRXVnMHfSAc8BQVVfeXFMTWtxalozbEU4Zm5XVU1NTnU4ZV9NSVRqd254Um9BN0xYb2lrTHlBVzFtNEZMVGRLMU1uWnFKQ0JRcnFOSTNOckM2UXZWdjhJbFZPYWQ2bXRpUXdxSXc0dHlEdHc4M0tMbWRzMVN3U2ZHeGFLNnZvSEt3bXFLaG56akxEMWpFZVcxeE5JTG1XdDBkdEYtOUE4elFHelJldDdEbTc1bmRRYlprZVVqVnlsOFdYYTFwTk5kZzg4MGV5MzlYM3hHWFhpaE1hT0V1ZzB3?oc=5\" target=\"_blank\">Samsung unveils industry's 1st UFS 5.0 memory optimized for on-device AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Korea Times",
+    "Businesskorea"
+   ],
+   "titles": [
+    "Samsung Unveils First UFS 5.0 Optimized for on-Device AI - Businesskorea"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced the industry's first UFS 5.0 memory optimized for on-device AI. This is a concrete product announcement from a major DRAM ETF holding, demonstrating Samsung's competitive positioning in high-bandwidth memory and AI-driven semiconductor demand, a key driver of the memory cycle."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "110e9792f7d92bc74ae1879a1cc095175f86f0f7",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Foreign sell-off in Samsung Electronics, SK hynix drags KOSPI down 10% - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkVTV2N0RRUUZwWnFYeUxaY3Q0cng0c3JVOXo1N2poUGNhcURLZXVwWUEzT1d2Y1FDcUx0RTgtV0dZYzUtbTFaNVR6Z2lMa1hUOW92UndoYmhleHdabm8zTndwbWZveVBJUC13R2RydVN4TnUzdUZuNXNDWjQ1aEN2V1BJRHhMa1p4YXZ5dURSTTlvRm1lSEJXVmhGcFRsTC1PUVAtMGw5TTJxdnV0RHQzdVVPRFVUb0d2cU9n0gHDAUFVX3lxTE9tekJLc09ubjNZM0tWcFVZNS1KaHJnVmExSFBiQXBVcmdqS1BvdEpDUkJDNVlrMXFiSEljZmRxeTN0ZUc2ZzhYQi1vMzN2bHVWZl8zMU1mbmdPY3lxM0xIVDdYR1ZEOGlPUU1MRnlPZVFFYVItcUxEVEZWN3hYa3JhOWlyUE9iTkt6YkRDenlFLVRkYmphajRlTm9tenZESkhubldGdktUZU1MalJLSUdIaVdHVGRaQlBBblY4ZHdVQVlzVQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:29:03 GMT",
+  "published_ts": 1782199743,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkVTV2N0RRUUZwWnFYeUxaY3Q0cng0c3JVOXo1N2poUGNhcURLZXVwWUEzT1d2Y1FDcUx0RTgtV0dZYzUtbTFaNVR6Z2lMa1hUOW92UndoYmhleHdabm8zTndwbWZveVBJUC13R2RydVN4TnUzdUZuNXNDWjQ1aEN2V1BJRHhMa1p4YXZ5dURSTTlvRm1lSEJXVmhGcFRsTC1PUVAtMGw5TTJxdnV0RHQzdVVPRFVUb0d2cU9n0gHDAUFVX3lxTE9tekJLc09ubjNZM0tWcFVZNS1KaHJnVmExSFBiQXBVcmdqS1BvdEpDUkJDNVlrMXFiSEljZmRxeTN0ZUc2ZzhYQi1vMzN2bHVWZl8zMU1mbmdPY3lxM0xIVDdYR1ZEOGlPUU1MRnlPZVFFYVItcUxEVEZWN3hYa3JhOWlyUE9iTkt6YkRDenlFLVRkYmphajRlTm9tenZESkhubldGdktUZU1MalJLSUdIaVdHVGRaQlBBblY4ZHdVQVlzVQ?oc=5\" target=\"_blank\">Foreign sell-off in Samsung Electronics, SK hynix drags KOSPI down 10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Foreign investors are selling Samsung Electronics and SK hynix, driving the KOSPI index down 10%. Both are major holdings in the DRAM ETF. The sell-off represents a concrete, material stock movement affecting two of the fund's core positions, though the underlying cause (whether macro, sector-specific, or company-specific) requires clarification."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "698051d0a14489d77cb04dc5cb0c4b1c299b0014",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung Electronics Surpasses $1 Billion in HBM4 Sales, Market Share Recovery - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXNLbW5WaWIyU0dMVDN5YWFZVVlBTVhPa1Q1ckNtUUp3RGVCdWpsU2lmTE1USlZvRUwwblg0dlVCUXNMbGxYT040dzNHYzFmR0ZzYnhIc0IwcWYxano2RVBoLXBqazZRcm5ZaDFLclgzYXZvZ2dWRkU2VVpYRmU1ZGdKVm1BaHFR?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:21:17 GMT",
+  "published_ts": 1782195677,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXNLbW5WaWIyU0dMVDN5YWFZVVlBTVhPa1Q1ckNtUUp3RGVCdWpsU2lmTE1USlZvRUwwblg0dlVCUXNMbGxYT040dzNHYzFmR0ZzYnhIc0IwcWYxano2RVBoLXBqazZRcm5ZaDFLclgzYXZvZ2dWRkU2VVpYRmU1ZGdKVm1BaHFR?oc=5\" target=\"_blank\">Samsung Electronics Surpasses $1 Billion in HBM4 Sales, Market Share Recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung Electronics has exceeded $1 billion in HBM4 sales, signaling market share recovery in the high-bandwidth memory segment. This is a concrete achievement in a key growth market for memory semiconductors and directly impacts the fund's Samsung holding."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "ce977a29c827dfe80bd5fc63352c9f87a0649c69",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Lee Jae-yong Inspects Cheonan HBM Packaging Site for AI Semiconductors - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzVQUV9MY1NIUGJUT0tmNTAwRDVHMjJnRVhCR01oa1NaNGxDN1ViT0RER1RERjdyMklnenZWVzg1WkJSdGV3d1RqeXNFVjRPVmdmTV94SWNZRTh2ZGtUQjNSZGQyVk8zVGJTaFZWZ3kwU1h5ZFVhdXZBOW9iV0ZadjVRZXlnVmdk?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:03:54 GMT",
+  "published_ts": 1782194634,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzVQUV9MY1NIUGJUT0tmNTAwRDVHMjJnRVhCR01oa1NaNGxDN1ViT0RER1RERjdyMklnenZWVzg1WkJSdGV3d1RqeXNFVjRPVmdmTV94SWNZRTh2ZGtUQjNSZGQyVk8zVGJTaFZWZ3kwU1h5ZFVhdXZBOW9iV0ZadjVRZXlnVmdk?oc=5\" target=\"_blank\">Lee Jae-yong Inspects Cheonan HBM Packaging Site for AI Semiconductors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung chairman Lee Jae-yong inspected the Cheonan HBM (high-bandwidth memory) packaging facility, signaling Samsung's concrete commitment to ramping HBM production for AI semiconductors. This is an official capacity visit by Samsung leadership to an operational HBM packaging site, indicating substantive progress on a material growth driver for the company's memory business."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "ee1228631e7735fc3392733b530b9a3307e82bf9",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Samsung Elec’s HBM4 revenue exceeds $1bn just four months after launch - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kck9TamtqOVMxY21tWTJJWDNwcTE0eFpObndvWUdRZi1WNjFUSk1wdzE1YUp2V19Mb2ZDaVJWeW93YUt3d0s4MkI3TjZ3bkFxdl96WHBGZw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 01:46:10 GMT",
+  "published_ts": 1782179170,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kck9TamtqOVMxY21tWTJJWDNwcTE0eFpObndvWUdRZi1WNjFUSk1wdzE1YUp2V19Mb2ZDaVJWeW93YUt3d0s4MkI3TjZ3bkFxdl96WHBGZw?oc=5\" target=\"_blank\">Samsung Elec’s HBM4 revenue exceeds $1bn just four months after launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung Electronics' HBM4 memory has generated over $1 billion in revenue within four months of launch, demonstrating strong AI-driven demand for high-bandwidth memory and validating Samsung's position in the critical HBM market segment."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "778e4b477598f615c1cfda23a44308ce3fb8c7fd",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "\"SK hynix Surpasses Samsung Electronics in Market Cap? Bull Market Could End\" ... Securities Report Draws Attention - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxc2wxVkZsel9fVlkxZkRsWjB2LTYzbEozaFBCcTNVaFRjOVRmRUZiaGtBbF8zd2diN183WmR2YjluT2VJSUJjNGxVb0RPc29hV2F2MUlLTllqaUlJeTUyUG5XdHhWU04t?oc=5",
+  "published_at": "Tue, 23 Jun 2026 08:40:11 GMT",
+  "published_ts": 1782204011,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxc2wxVkZsel9fVlkxZkRsWjB2LTYzbEozaFBCcTNVaFRjOVRmRUZiaGtBbF8zd2diN183WmR2YjluT2VJSUJjNGxVb0RPc29hV2F2MUlLTllqaUlJeTUyUG5XdHhWU04t?oc=5\" target=\"_blank\">\"SK hynix Surpasses Samsung Electronics in Market Cap? Bull Market Could End\" ... Securities Report Draws Attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix potentially surpassing Samsung Electronics in market cap is analyzed by a securities report as a potential signal of market cycle turning point. This is opinion/analysis of a hypothetical scenario rather than a confirmed event, and market-cap comparisons between two holdings are relevant context for fund positioning but lack a concrete catalyst or stated trigger."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "c76197b0c0137b1703941155bec3b6dffdcf847c",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "MU, SNDK, DRAM Fall Sharply From Record Highs: Korean Market Crashes 10% Crash On SK Hynix, Samsung Pullback - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdHR6S1hxUDltN09lYV9VY0hQSmdCdFVCRmVPdnNxOTUtS24zX0l2d3BFS3VBU1hHdzFNV1p1Q2g1X0JfV3ZUa0RMR2RXLTdZM2dCQ2t6cnExMG95a3IwTUFvNHI3VW9xZGlvRFlNdWpOaGdLcExrMG1TSVo3eGxfcnNtb25KYkN2NmtfY0ZFUkJfa0pzYUpXMnNUblNnLTFyZzFQRG5TNW9DZ3djNlBndFpfR2licU4xSkV5Zlh5MWw0ZlJlNE9kRTBPX1FyTkRjZW1jSjE3VGtadlFaVE10MzlkcEdLTTdOWlBXRXp2Qkp4U2NIUkR5M1BYNA?oc=5",
+  "published_at": "Tue, 23 Jun 2026 09:20:03 GMT",
+  "published_ts": 1782206403,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdHR6S1hxUDltN09lYV9VY0hQSmdCdFVCRmVPdnNxOTUtS24zX0l2d3BFS3VBU1hHdzFNV1p1Q2g1X0JfV3ZUa0RMR2RXLTdZM2dCQ2t6cnExMG95a3IwTUFvNHI3VW9xZGlvRFlNdWpOaGdLcExrMG1TSVo3eGxfcnNtb25KYkN2NmtfY0ZFUkJfa0pzYUpXMnNUblNnLTFyZzFQRG5TNW9DZ3djNlBndFpfR2licU4xSkV5Zlh5MWw0ZlJlNE9kRTBPX1FyTkRjZW1jSjE3VGtadlFaVE10MzlkcEdLTTdOWlBXRXp2Qkp4U2NIUkR5M1BYNA?oc=5\" target=\"_blank\">MU, SNDK, DRAM Fall Sharply From Record Highs: Korean Market Crashes 10% Crash On SK Hynix, Samsung Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (Micron, SanDisk, SK hynix, Samsung) reported to have fallen sharply from recent highs; Korean market down 10%. No specific catalyst disclosed—appears to be market-driven price movement without disclosed news trigger."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "6a8a0de6a09aaf2fc9f9a71c52a5ee64fb4a2346",
+  "source": "매일경제",
+  "topic": "industry",
+  "title": "[Exclusive] Chairman Lee Jae-yong visits Samsung Electronics' HBM production site in Cheonan...3 years after 2023 - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54cHZVWnpMV3VQbUtXbHRDN0lLTzhReERRZllxQ1NoYkRYSVhBNG43VE5OUFJmUFBOM2hSbE4yZ29uVmxYRE1acVZxTHAzV3NEdFM0?oc=5",
+  "published_at": "Tue, 23 Jun 2026 05:56:07 GMT",
+  "published_ts": 1782194167,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE54cHZVWnpMV3VQbUtXbHRDN0lLTzhReERRZllxQ1NoYkRYSVhBNG43VE5OUFJmUFBOM2hSbE4yZ29uVmxYRE1acVZxTHAzV3NEdFM0?oc=5\" target=\"_blank\">[Exclusive] Chairman Lee Jae-yong visits Samsung Electronics' HBM production site in Cheonan...3 years after 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung Electronics Chairman Lee Jae-yong visited the company's HBM production facility in Cheonan, marking his first visit in 3 years since 2023. The visit signals continued executive attention to Samsung's high-bandwidth memory production, a key growth area for memory semiconductors, but the report contains no concrete news on capacity, output, or supply changes."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "28b71a94e9243eaaa2db65bb86c2a2fc4dfcf391",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK hynix Reported Design Hiring Surge Tightens Chip Talent Market, Raises Samsung Concerns - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZk1XOHZCcFBUSVprbWhUNWJHUnN4Nkl0bW82dzR3eEthSUtxSmNpQTRoRThiY21ZOTNWTVpBWEMzbDBCb3Z6bk93QWtwVjRiaXAzZndUYVowTWhzSEpXRHdqRGp1aGx5c3U5Y0pNck1kczlGUU16Ny1UbW1fSVZnXzB6XzdBWGhVUVlrLUx3eG1nczlQQ0JRNFFFVEd2NUxRT3dHYWoza2Q1Vk05UHFmajc5Z3c3SVJOYi1Gem80U29Da3FzWGFfbC1zQkZvWFgtaHNhSA?oc=5",
+  "published_at": "Mon, 22 Jun 2026 23:59:06 GMT",
+  "published_ts": 1782172746,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZk1XOHZCcFBUSVprbWhUNWJHUnN4Nkl0bW82dzR3eEthSUtxSmNpQTRoRThiY21ZOTNWTVpBWEMzbDBCb3Z6bk93QWtwVjRiaXAzZndUYVowTWhzSEpXRHdqRGp1aGx5c3U5Y0pNck1kczlGUU16Ny1UbW1fSVZnXzB6XzdBWGhVUVlrLUx3eG1nczlQQ0JRNFFFVEd2NUxRT3dHYWoza2Q1Vk05UHFmajc5Z3c3SVJOYi1Gem80U29Da3FzWGFfbC1zQkZvWFgtaHNhSA?oc=5\" target=\"_blank\">[News] SK hynix Reported Design Hiring Surge Tightens Chip Talent Market, Raises Samsung Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is reported to be on a design hiring surge, tightening the chip talent market and raising concerns for Samsung. This indicates SK hynix is ramping up engineering resources, likely for product development or capacity expansion, which is relevant to a major DRAM holding. However, this is analysis/observation of hiring trends rather than a confirmed concrete business event (like a deal announcement, earnings miss, or production cut), so impact is 3."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "a1fdf6346499c7e7965856feefe98a3d840368d7",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "SK Hynix Stock Dethrones Samsung in South Korea’s Chip Race — Should US Investors Pay Attention? - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVJDRWV5S2UzRXlIQTJ4T1lyakxBbENwd1V4MXdGYnhVSFQ3alZuUjl3a0Z1M1BLb01BRnJXLTRsNFBudGJLR1FnWUktTHJQYW9OajlWRTJsVXhiRHJpVW9BcGVfczlIU2haYUNSU0VfNkEzaWg2VkxtMThjSmVXTXU5Qms1X1NlTzVMXzZfMF82SzhBMjYxVU1ycVpMRHNtRmw1UnVucm9kamEtQjNGaGZpbmVfVldRRGlwNUJQUQ?oc=5",
+  "published_at": "Mon, 22 Jun 2026 07:49:06 GMT",
+  "published_ts": 1782114546,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVJDRWV5S2UzRXlIQTJ4T1lyakxBbENwd1V4MXdGYnhVSFQ3alZuUjl3a0Z1M1BLb01BRnJXLTRsNFBudGJLR1FnWUktTHJQYW9OajlWRTJsVXhiRHJpVW9BcGVfczlIU2haYUNSU0VfNkEzaWg2VkxtMThjSmVXTXU5Qms1X1NlTzVMXzZfMF82SzhBMjYxVU1ycVpMRHNtRmw1UnVucm9kamEtQjNGaGZpbmVfVldRRGlwNUJQUQ?oc=5\" target=\"_blank\">SK Hynix Stock Dethrones Samsung in South Korea’s Chip Race — Should US Investors Pay Attention?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock outperforms Samsung in South Korean chip competition. Analysis piece asking whether US investors should care; no concrete event, earnings, or hard numbers disclosed—opinion/commentary format typical of investment blogs."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "0f784c7fe9962ce57cf1f1da03d6581b669d9dd8",
+  "source": "아시아경제",
+  "topic": "industry",
+  "title": "\"Making Hay While the Sun Shines\"... Jay Y. Lee Inspects Cheonan HBM Production Lines On-Site - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbElJdnl6UHJldHh5YVpWN1VnMV9CVWlXZFBHNlpKZ0E4dFBpUEtPOWs1MnF6SktDWEhyRVR5d3hORHMzTEVnVGdUVzN5Uy1vNDFReTlSbmJoRFVOSjRUY1lzRUY4b19iZXhJQ2J5Y25BUVpZRmUzXw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:53:45 GMT",
+  "published_ts": 1782197625,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbElJdnl6UHJldHh5YVpWN1VnMV9CVWlXZFBHNlpKZ0E4dFBpUEtPOWs1MnF6SktDWEhyRVR5d3hORHMzTEVnVGdUVzN5Uy1vNDFReTlSbmJoRFVOSjRUY1lzRUY4b19iZXhJQ2J5Y25BUVpZRmUzXw?oc=5\" target=\"_blank\">\"Making Hay While the Sun Shines\"... Jay Y. Lee Inspects Cheonan HBM Production Lines On-Site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Jay Y. Lee (Samsung Electronics vice chairman) inspected Samsung's Cheonan HBM production lines in person. The visit signals active management focus on Samsung's high-bandwidth memory capacity and production, a key growth area for memory-chip demand driven by AI infrastructure. However, the story reports an executive site visit without disclosing new capacity announcements, production timelines, or concrete output numbers; thus it is a relevant indicator of Samsung's HBM priorities but not yet a hard event."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "b89ed3f66bbce26d916a063e6ce1d02d49f0db89",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "TrendForce: DRAM Shortage Extends to DDR2, Prices of Older Memory Expected to Rise in Q3 - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SMUQ5cUt5TkRUcGRXR2t1aVhfRXU5YWMxbEdycnM5cDRMT2JTdjRqSUJ3WjNIcFFiSWp0TUw1bWJiSnZTRUhPcDR0bXZpakFKaEdtdzM2TjhRdWg4UkZnckhHVdIBY0FVX3lxTE9SMUQ5cUt5TkRUcGRXR2t1aVhfRXU5YWMxbEdycnM5cDRMT2JTdjRqSUJ3WjNIcFFiSWp0TUw1bWJiSnZTRUhPcDR0bXZpakFKaEdtdzM2TjhRdWg4UkZnckhHVQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:36:11 GMT",
+  "published_ts": 1782200171,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SMUQ5cUt5TkRUcGRXR2t1aVhfRXU5YWMxbEdycnM5cDRMT2JTdjRqSUJ3WjNIcFFiSWp0TUw1bWJiSnZTRUhPcDR0bXZpakFKaEdtdzM2TjhRdWg4UkZnckhHVdIBY0FVX3lxTE9SMUQ5cUt5TkRUcGRXR2t1aVhfRXU5YWMxbEdycnM5cDRMT2JTdjRqSUJ3WjNIcFFiSWp0TUw1bWJiSnZTRUhPcDR0bXZpakFKaEdtdzM2TjhRdWg4UkZnckhHVQ?oc=5\" target=\"_blank\">TrendForce: DRAM Shortage Extends to DDR2, Prices of Older Memory Expected to Rise in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce forecasts DRAM shortage extending to DDR2 with older memory prices expected to rise in Q3. This is analyst analysis/forecast rather than confirmed pricing data or a hard market event, making it a forward-looking opinion on memory pricing trends relevant to the cycle but not yet a concrete movement."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "cb9ee4464ec60acb788d92460cf4122191ee839e",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron Stock Dives After Memory Chip Rivals SK Hynix, Samsung Tumble in KOSPI Selloff - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLW0yWURIM0lVb29BU3FIVnZFYk55NmVXTG9FZkpoSHViRVhDMC1yaTdueTRVcWdmZUh1MnpzWHVzZ3JkOE9wa0dUdTJ6MW01OUtEOHdWN184Y2lkQ2ItcFQ5ZWxZbk14eWtFbC1WUzdZSno3RXB5NVJJSWFpTElRT3Uybw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 09:03:00 GMT",
+  "published_ts": 1782205380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQLW0yWURIM0lVb29BU3FIVnZFYk55NmVXTG9FZkpoSHViRVhDMC1yaTdueTRVcWdmZUh1MnpzWHVzZ3JkOE9wa0dUdTJ6MW01OUtEOHdWN184Y2lkQ2ItcFQ5ZWxZbk14eWtFbC1WUzdZSno3RXB5NVJJSWFpTElRT3Uybw?oc=5\" target=\"_blank\">Micron Stock Dives After Memory Chip Rivals SK Hynix, Samsung Tumble in KOSPI Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) stock declined following a broader KOSPI selloff that also hit memory-chip competitors SK Hynix and Samsung. The story reports a stock price move but does not disclose a concrete operational catalyst or earnings/guidance change—it appears to be a market-driven decline rather than company-specific news."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "5308fdb9e6d9537df12bc37b09e51f2ebdcf9f08",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK hynix to benefit further from AI memory bottleneck - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb284RERZcjJyNENZLS0tLVZnRGhMUUdRZFVtVkdKc3pWTU84ZU1zTTVlNmxYUkdCRXZMUm5ITzctY011djQtUEJhNm5USEpaNDBQN2N5czUzRHpPaFE1OWd6WVc0eExsY3RocFQwdGlDbmlkQXhCcEduLXNaNHEwTXBoM2w4MVU3WjBEWmZCUU5tUUstSWlvRHQ5UWRDQjRkUmk0VllUbi1NbnMyNUZoRnNQajhFeWtSSk9aT9IBwgFBVV95cUxNeXdBM3JoeHVIM09jNElfMFZhRDRod3JTdjlxMUt0WG5TcUY5a0tIRUdVUERaUnVCejVuM0NQczdyWF9aSmoxN3dJaWZjeFB1d3laWGhjQU1yQ3lZblNfenFRb2ZZNkNlRWFySU05WC0wMU9KdGhycnVWdkJJRUEzZmUza0VqR1VPVmpNZkk1QzhmX3ZuSWFJeGpBQy10ZUZKV0JZazNuamN3MF9Qc2JvRDFBQTlYSk9mb0ZJSF9rdDV4QQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:59:04 GMT",
+  "published_ts": 1782197944,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOb284RERZcjJyNENZLS0tLVZnRGhMUUdRZFVtVkdKc3pWTU84ZU1zTTVlNmxYUkdCRXZMUm5ITzctY011djQtUEJhNm5USEpaNDBQN2N5czUzRHpPaFE1OWd6WVc0eExsY3RocFQwdGlDbmlkQXhCcEduLXNaNHEwTXBoM2w4MVU3WjBEWmZCUU5tUUstSWlvRHQ5UWRDQjRkUmk0VllUbi1NbnMyNUZoRnNQajhFeWtSSk9aT9IBwgFBVV95cUxNeXdBM3JoeHVIM09jNElfMFZhRDRod3JTdjlxMUt0WG5TcUY5a0tIRUdVUERaUnVCejVuM0NQczdyWF9aSmoxN3dJaWZjeFB1d3laWGhjQU1yQ3lZblNfenFRb2ZZNkNlRWFySU05WC0wMU9KdGhycnVWdkJJRUEzZmUza0VqR1VPVmpNZkk1QzhmX3ZuSWFJeGpBQy10ZUZKV0JZazNuamN3MF9Qc2JvRDFBQTlYSk9mb0ZJSF9rdDV4QQ?oc=5\" target=\"_blank\">Samsung Electronics, SK hynix to benefit further from AI memory bottleneck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": [
+    "Samsung Electronics, SK hynix to benefit further from AI memory bottleneck - The Korea Times"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung Electronics and SK hynix are positioned to benefit from AI-driven memory bottleneck demand. Analysis piece discussing how the two holdings stand to gain from HBM and AI infrastructure capex trends, but lacks concrete earnings results, guidance changes, or announced production/capacity decisions."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "760c6d67935cb44d0bbb4f004a8bc9f07365d533",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Korea stocks plunge as tech selloff and ETFs spark record KOSPI drop - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1dkZGVtWGtCNVRNT21ZNjFkWWtWVHZLME42b2tFN1RXYVM2cmxBUEFpNUJIMy1Zd1ZIU0F5UDM3dC1OYVJDckM0MjFkWWh1cEl6djF1ZC1UbGxNRGNMZVF3XzJfaGZ6b0NGY3hPYzYwMnhoTzNTdGdPZjlrZUQ3VNIBlAFBVV95cUxNN0p4LUl3N0VyMk9HY2sycUh1RFFUUDNxOXpqb1N3Q0loREVEcXhHSWVMdzJ0U3dKcmJBS3pMNVJUcDZRc2dkdUYtcFRsNzk1RGJUZFlZMUc3MjlGRVh5aEN1SFU0VFJYLXNMbUtETmlEekpJOFp2SmdVYURVN0dKU3FWN3FmWUtXRm41aEplQkVsNy1D?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:35:00 GMT",
+  "published_ts": 1782196500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1dkZGVtWGtCNVRNT21ZNjFkWWtWVHZLME42b2tFN1RXYVM2cmxBUEFpNUJIMy1Zd1ZIU0F5UDM3dC1OYVJDckM0MjFkWWh1cEl6djF1ZC1UbGxNRGNMZVF3XzJfaGZ6b0NGY3hPYzYwMnhoTzNTdGdPZjlrZUQ3VNIBlAFBVV95cUxNN0p4LUl3N0VyMk9HY2sycUh1RFFUUDNxOXpqb1N3Q0loREVEcXhHSWVMdzJ0U3dKcmJBS3pMNVJUcDZRc2dkdUYtcFRsNzk1RGJUZFlZMUc3MjlGRVh5aEN1SFU0VFJYLXNMbUtETmlEekpJOFp2SmdVYURVN0dKU3FWN3FmWUtXRm41aEplQkVsNy1D?oc=5\" target=\"_blank\">Korea stocks plunge as tech selloff and ETFs spark record KOSPI drop - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "South Korean tech stocks experienced a significant selloff, potentially affecting SK hynix and Samsung's memory divisions. However, the article describes a broad market decline without specific memory-sector catalysts, pricing data, or guidance changes—making it macro sentiment rather than a concrete memory-cycle development."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "1efcb6e405b28acf6dc77964ea47f9aafb6c4d36",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Alphabet Drops 10% on AI Capex Fears: Memory Chip Rally Reveals a Split Market - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3RlREt0bUw0ekVSamR2YWV2eTZfbFRjMGJWQ1lXTjJ2WS1GYmFDSzVjWGRGWlpIQmZaVDBkUndQZDdzT2wtemRvdkl1Y1d6TXRmZXVOY19DdUd6a0JzWHN2dE12UTNiX0dOZWwzQVV1bjRvRnFvTGZCc19NQmtmRkF3bkE2emZ6b0xGREZyMVR2VUJPeTNRNGhWcGhtTnVpYjZMd0VRakhuR0V4WnJtdXltY3AxTnNQS1RJaF9lM0lTVlEw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 09:28:43 GMT",
+  "published_ts": 1782206923,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3RlREt0bUw0ekVSamR2YWV2eTZfbFRjMGJWQ1lXTjJ2WS1GYmFDSzVjWGRGWlpIQmZaVDBkUndQZDdzT2wtemRvdkl1Y1d6TXRmZXVOY19DdUd6a0JzWHN2dE12UTNiX0dOZWwzQVV1bjRvRnFvTGZCc19NQmtmRkF3bkE2emZ6b0xGREZyMVR2VUJPeTNRNGhWcGhtTnVpYjZMd0VRakhuR0V4WnJtdXltY3AxTnNQS1RJaF9lM0lTVlEw?oc=5\" target=\"_blank\">Alphabet Drops 10% on AI Capex Fears: Memory Chip Rally Reveals a Split Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "Alphabet's 10% drop on AI capex concerns; article notes memory chip rally amid broader market split. The capex uncertainty could affect AI-infrastructure demand that typically drives memory consumption, but the story is primarily about Alphabet's valuation reaction rather than a concrete memory-cycle development or holding-specific catalyst."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "3e8e233951742416b7b2da83b4a4075bd63badc6",
+  "source": "FXEmpire",
+  "topic": "holding",
+  "title": "From Penny Stock to AI Powerhouse: How SK Hynix Overtook Samsung After 25 Years - FXEmpire",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHVzSDJEQWZyS3Utam5KR2dwcU5XZGY0dkNmT0dKOVp3c3d6aXZFam1YMXJDMmY1NGswZzg4Ym1aZVFVWlpFRVY2RjlPNnZTNWVhTDF3U1JPaEZENjdFRDczTTZmeWdMOWl5MkpzNzdMWVRMbmFpRUFqa2JKdXREdUlHVGJnSmdvWDJ0VW5sSEstOUdYMDFIdGR1Vm5XQ2FMR3FpWXZYUlZmck05SVU4R2JLdFNjeEZ4TExrOHdqNExlS3U0TjVacg?oc=5",
+  "published_at": "Tue, 23 Jun 2026 08:21:00 GMT",
+  "published_ts": 1782202860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHVzSDJEQWZyS3Utam5KR2dwcU5XZGY0dkNmT0dKOVp3c3d6aXZFam1YMXJDMmY1NGswZzg4Ym1aZVFVWlpFRVY2RjlPNnZTNWVhTDF3U1JPaEZENjdFRDczTTZmeWdMOWl5MkpzNzdMWVRMbmFpRUFqa2JKdXREdUlHVGJnSmdvWDJ0VW5sSEstOUdYMDFIdGR1Vm5XQ2FMR3FpWXZYUlZmck05SVU4R2JLdFNjeEZ4TExrOHdqNExlS3U0TjVacg?oc=5\" target=\"_blank\">From Penny Stock to AI Powerhouse: How SK Hynix Overtook Samsung After 25 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXEmpire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXEmpire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece comparing SK Hynix and Samsung's competitive positioning over 25 years, framed around AI and market leadership. While both are fund holdings, this appears to be historical narrative and positioning commentary rather than reporting a concrete event, earnings result, or material business development."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "94524713d3e843f584e837b00ed431edb6db9d1c",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "KOSPI Selloff Is Bad News for Micron as SK Hynix, Samsung Dive -- Barrons.com - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNU8xMWVzZ28yVWVYdWh0N09iY2RMNTRWWWc5dHVIMjIzbVRnYkE2dXhBTjlfYU5TcVJjbnRwLVFrS2Fkc19KeHRRZ1Voa0tRRFdpWjA3VnhfWUt2NjFvQ3NLaXNkN0xJeksySkk5cTRwZGFYYVRCOUllM2RTYUlqcVhTWks3YjA3WWFSMjNkV2luOHc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:46:10 GMT",
+  "published_ts": 1782200770,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNU8xMWVzZ28yVWVYdWh0N09iY2RMNTRWWWc5dHVIMjIzbVRnYkE2dXhBTjlfYU5TcVJjbnRwLVFrS2Fkc19KeHRRZ1Voa0tRRFdpWjA3VnhfWUt2NjFvQ3NLaXNkN0xJeksySkk5cTRwZGFYYVRCOUllM2RTYUlqcVhTWks3YjA3WWFSMjNkV2luOHc?oc=5\" target=\"_blank\">KOSPI Selloff Is Bad News for Micron as SK Hynix, Samsung Dive -- Barrons.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "富途牛牛",
+    "Barron's"
+   ],
+   "titles": [
+    "KOSPI Selloff Is Bad News for Micron as SK Hynix, Samsung Dive - Barron's"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "KOSPI market selloff drives declines in SK hynix and Samsung stock, with implications for Micron competitiveness. Story reports stock price movements without disclosed fundamental catalyst beyond broad market weakness."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "f3787c97edcff6233db045a9b43ec312c13691de",
+  "source": "Tekedia",
+  "topic": "holding",
+  "title": "SK Hynix Surpasses Samsung to Become South Korea’s Most Valuable Company - Tekedia",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUNTZ2l4M3pPMW1sV3JubVc1V1gzalQ1ODNoVW5QSE5NZ0FKdVVsYmxIRmNYYURpMDkzbGNjSlQ4MUg5S2xNdEFadTc4NVdGOVNvTDBldy1VdTY3dG1hdThyN1ZZblBOTVlGTDhUbGgwUEJwMFBDdG1McXpaZ0hTdjFsSFJJVGJxekJvWlZXVmptdkQ3YnBDdmU0OHE?oc=5",
+  "published_at": "Mon, 22 Jun 2026 22:38:27 GMT",
+  "published_ts": 1782167907,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUNTZ2l4M3pPMW1sV3JubVc1V1gzalQ1ODNoVW5QSE5NZ0FKdVVsYmxIRmNYYURpMDkzbGNjSlQ4MUg5S2xNdEFadTc4NVdGOVNvTDBldy1VdTY3dG1hdThyN1ZZblBOTVlGTDhUbGgwUEJwMFBDdG1McXpaZ0hTdjFsSFJJVGJxekJvWlZXVmptdkQ3YnBDdmU0OHE?oc=5\" target=\"_blank\">SK Hynix Surpasses Samsung to Become South Korea’s Most Valuable Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Tekedia",
+    "Yahoo Finance",
+    "MSN"
+   ],
+   "titles": [
+    "SK Hynix surpasses Samsung as South Korea's most valuable company - Yahoo Finance",
+    "SK Hynix overtakes Samsung as Korea's most valuable firm - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has surpassed Samsung to become South Korea's most valuable company by market capitalization. While this reflects positive market sentiment toward SK Hynix as a major DRAM holding, the headline reports a valuation milestone rather than a concrete operational event, earnings result, or price-specific catalyst. The move likely reflects broader memory-chip demand strength but lacks a specific disclosed driver."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "1e81c437a419740a3707339089ad6e528de61bad",
+  "source": "FXStreet",
+  "topic": "industry",
+  "title": "AI boom and HBM demand to boost Micron's DRAM revenues in Q3 - FXStreet",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDR0TkVVQ1FJUDliaHMyN1VZY2pna2NaRkFfOXhjbXJjbDV1c1NVRE5abGZqR0g1Rkh1a2FDUTQzOVNPbERxdE1PYkpONzNWOFBOUEhEb1VYUnZjQkdBUk9mV0RkYXA5b1RIR09WYWY1emJDdy1UazlDMW9mZDBRZ2dxbzB3aVZDNVlqRlpTVi1WOFltX0RVNmdybHRlb25Eb20zUg?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:23:35 GMT",
+  "published_ts": 1782195815,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDR0TkVVQ1FJUDliaHMyN1VZY2pna2NaRkFfOXhjbXJjbDV1c1NVRE5abGZqR0g1Rkh1a2FDUTQzOVNPbERxdE1PYkpONzNWOFBOUEhEb1VYUnZjQkdBUk9mV0RkYXA5b1RIR09WYWY1emJDdy1UazlDMW9mZDBRZ2dxbzB3aVZDNVlqRlpTVi1WOFltX0RVNmdybHRlb25Eb20zUg?oc=5\" target=\"_blank\">AI boom and HBM demand to boost Micron's DRAM revenues in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXStreet"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece suggesting AI boom and HBM demand will boost Micron's DRAM revenues in Q3. This is forward-looking commentary and analyst opinion rather than a confirmed event or hard number, making it a soft 3 rather than a 4 or 5."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "d7042b61eab87e51a6eb3aa68bdba8c385d865e9",
+  "source": "Koreabizwire",
+  "topic": "holding",
+  "title": "Samsung Unveils New Memory Technology for On-Device AI - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXczWVAtVHlSbGZnbmFsQ2xfOXhEblpFdmY5ZFlfMU1yTFlWNi1GX0xfVTlVZkJaNFdEZVdDZVRfWThMZmkzYVdRYnZQajZ2ZVphSTRCd0s3UUFkV2lta1FFMWJPa09JdExzekdiVElkUmhWQjcxYWZuN193YlVKb083QXhFN3Q5MVg5bm1n?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:23:56 GMT",
+  "published_ts": 1782199436,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXczWVAtVHlSbGZnbmFsQ2xfOXhEblpFdmY5ZFlfMU1yTFlWNi1GX0xfVTlVZkJaNFdEZVdDZVRfWThMZmkzYVdRYnZQajZ2ZVphSTRCd0s3UUFkV2lta1FFMWJPa09JdExzekdiVElkUmhWQjcxYWZuN193YlVKb083QXhFN3Q5MVg5bm1n?oc=5\" target=\"_blank\">Samsung Unveils New Memory Technology for On-Device AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Koreabizwire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung announced a new memory technology targeting on-device AI applications. This is a product development announcement rather than a confirmed market impact or concrete commercial event, making it forward-looking analysis rather than a settled fact that would immediately move the stock or fund."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "ea2d7e4842dcbdc7fb5480563bd15f0849416de8",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Samsung develops 'new NAND weapon' to drive its AI phone lead - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DWU14Rk1IWnJZOGFKMUVDbFpCVnRFMkMteEtMQUQ3TDUzS1pTNHNxTS0tWU01TGJLaGVjU0tmejh1YTNlT1M3QjRjUnM4ZE9EeE1V?oc=5",
+  "published_at": "Tue, 23 Jun 2026 08:59:31 GMT",
+  "published_ts": 1782205171,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DWU14Rk1IWnJZOGFKMUVDbFpCVnRFMkMteEtMQUQ3TDUzS1pTNHNxTS0tWU01TGJLaGVjU0tmejh1YTNlT1M3QjRjUnM4ZE9EeE1V?oc=5\" target=\"_blank\">Samsung develops 'new NAND weapon' to drive its AI phone lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is developing a new NAND technology to strengthen its position in AI phones. This is relevant to DRAM as Samsung is a major holding in memory semiconductors, but the story appears to focus on product strategy and competitive positioning rather than reporting a concrete capacity, pricing, or production change. NAND development is material to the memory cycle but this reads as strategic initiative rather than a confirmed market event."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "2f77b48cbe84ae71974d4ddf3b4aed1eebcee851",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Memory Bottleneck Boosts Samsung and SK hynix - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2MyWXBHTlhKZklzMGNHYWJWS0VaS3lYWUI4ZEhSV3JsTTFHZmNkdEhSNmJ2a0hKYjRyd1M4XzJTVWZzbTUxQXFfNHdjU29kR2dNNlJFMXFBTzhBeEVhSTctblk2SmtzcVA1eWpQOHNhOG9rNjBVdHFZUkE2S0kxNjdaSko2ZGNmWEVVZkk0TWQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:12:03 GMT",
+  "published_ts": 1782198723,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2MyWXBHTlhKZklzMGNHYWJWS0VaS3lYWUI4ZEhSV3JsTTFHZmNkdEhSNmJ2a0hKYjRyd1M4XzJTVWZzbTUxQXFfNHdjU29kR2dNNlJFMXFBTzhBeEVhSTctblk2SmtzcVA1eWpQOHNhOG9rNjBVdHFZUkE2S0kxNjdaSko2ZGNmWEVVZkk0TWQ?oc=5\" target=\"_blank\">Memory Bottleneck Boosts Samsung and SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Let's Data Science"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses memory bottleneck dynamics benefiting Samsung and SK hynix, two major holdings in the DRAM fund. However, the snippet provides no concrete data, event, or hard numbers—it appears to be analysis or commentary rather than reporting a confirmed market development or earnings result. Classified as relevant industry analysis with soft impact."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "a219af6ddc7c0f7f136ca057c5cfeb1ec5851527",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "[ED] SK hynix's stellar performance - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGFBNlljal9hVXhWN2NLclZyV2RrM2VaOWpubXJidlRpOE95dnNGUGdydlg1clJwM3hjZWtlVWJaVU1GSGpJZzkwWkxTOV9WTEx1VXJTS2xCWHRURGlYZnI2VGxFSGh4cGNYZGJtZDM1TXBTa2Y1NU9QQVJyRlRtaDAtUGhRTHBUbFRuS2RaN2dpZ9IBlwFBVV95cUxNNENCLVNPcnlzd1RtVS1KaXFvbnBmVVJoUGRDeG93b3hSSHlVODloRUNHUE1aYnNmb0ZmN2ZZNnFacDktdEd1cVM1d1hVUDlVT1haRzJlWVY1VzdNNFFtM0VGeHRUbkFQdGRpR1VCOGp3S2dWWWVnOGkwQjZ2SGJzcGhfTFYyZUpCUkVyaDNvbUtjNnVuOVlB?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:40:03 GMT",
+  "published_ts": 1782196803,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGFBNlljal9hVXhWN2NLclZyV2RrM2VaOWpubXJidlRpOE95dnNGUGdydlg1clJwM3hjZWtlVWJaVU1GSGpJZzkwWkxTOV9WTEx1VXJTS2xCWHRURGlYZnI2VGxFSGh4cGNYZGJtZDM1TXBTa2Y1NU9QQVJyRlRtaDAtUGhRTHBUbFRuS2RaN2dpZ9IBlwFBVV95cUxNNENCLVNPcnlzd1RtVS1KaXFvbnBmVVJoUGRDeG93b3hSSHlVODloRUNHUE1aYnNmb0ZmN2ZZNnFacDktdEd1cVM1d1hVUDlVT1haRzJlWVY1VzdNNFFtM0VGeHRUbkFQdGRpR1VCOGp3S2dWWWVnOGkwQjZ2SGJzcGhfTFYyZUpCUkVyaDNvbUtjNnVuOVlB?oc=5\" target=\"_blank\">[ED] SK hynix's stellar performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix performance story from The Korea Times. Without access to specific details on earnings, guidance changes, or concrete developments, this appears to be analysis or commentary on the company's recent trajectory rather than a hard news event. Relevant as SK hynix is a core DRAM ETF holding, but impact is soft pending actual numbers or announcements."
+  },
+  "buffered_ts": 1782207282.8212967
+ },
+ {
+  "id": "f327a37d6c3a1f7a758b2da91aeef4e62341feaf",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Memory Bonuses Fuel a Sense of Disparity, Raising Fears of Talent Drain from System and Foundry Units - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84ZHNicWlNQ1FtRE5NWFNDYzV0NXlIbGprLWpsNm1ZUFdGZXZHRmVPemw4Vy1MY0cxaGRXRXZTWmh4czA5T2FxazFpRzNUOGJyM0Y0?oc=5",
+  "published_at": "Tue, 23 Jun 2026 08:50:31 GMT",
+  "published_ts": 1782204631,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE84ZHNicWlNQ1FtRE5NWFNDYzV0NXlIbGprLWpsNm1ZUFdGZXZHRmVPemw4Vy1MY0cxaGRXRXZTWmh4czA5T2FxazFpRzNUOGJyM0Y0?oc=5\" target=\"_blank\">Memory Bonuses Fuel a Sense of Disparity, Raising Fears of Talent Drain from System and Foundry Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korean report on memory-sector wage/bonus disparity raising talent-drain concerns between memory and foundry divisions. While touching on SK hynix and Samsung operations, this is HR/organizational commentary without concrete impact on production, capacity, or financial guidance."
+  },
+  "buffered_ts": 1782207282.8212967
  }
 ]
