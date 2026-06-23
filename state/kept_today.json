@@ -1118,5 +1118,341 @@
    "summary": "Yahoo Finance reports on a decline in memory stocks affecting the DRAM ETF. The headline indicates a stock price move but provides no disclosed concrete catalyst, specific numbers on fund performance/flows, or confirmed triggering event—typical of a price-movement story without stated cause, warranting a 3."
   },
   "buffered_ts": 1782244681.1546607
+ },
+ {
+  "id": "1925adc14728a1c9f5afd2c4053bfd5530b53d52",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Samsung develops a new weapon to widen its lead in AI phones... a look at the NAND specs set to boost performance - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pX0R6aXFZeHBaSThFTXlMMllPTWRJSzNDcHoyWkJiSE1HdXNTNEtsSG1NdWIwTlJJc252UUVaYXItM1BsQ1prb29ZMUJhZzdvbVBz?oc=5",
+  "published_at": "Tue, 23 Jun 2026 21:00:34 GMT",
+  "published_ts": 1782248434,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pX0R6aXFZeHBaSThFTXlMMllPTWRJSzNDcHoyWkJiSE1HdXNTNEtsSG1NdWIwTlJJc252UUVaYXItM1BsQ1prb29ZMUJhZzdvbVBz?oc=5\" target=\"_blank\">Samsung develops a new weapon to widen its lead in AI phones... a look at the NAND specs set to boost performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is developing new NAND flash specifications to enhance AI phone performance and widen its competitive advantage. The story focuses on Samsung's memory technology advancement as a strategic differentiator in the AI phone market, though it appears to be product/strategy commentary rather than a confirmed shipment or earnings impact."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "0d566ef2992d8c7a1aabd53c250437b28ba58990",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation' - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3FmcTc1REhtYmtHV18wRW5xMXRXNWFDMGV3dFcxdXhKOEhBcy1Nd1gzb2lxZHNnNlVjTzVWR00tMFZlUmxVb2UtREhOS2oxNkNkUDJhN09GMS12RnZjYWpOSGlHZ1VCZlZHMVgxZWd5Y01FQWFqdWlfazBVaGtSVURCRm1Mbm8?oc=5",
+  "published_at": "Tue, 23 Jun 2026 12:30:00 GMT",
+  "published_ts": 1782217800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3FmcTc1REhtYmtHV18wRW5xMXRXNWFDMGV3dFcxdXhKOEhBcy1Nd1gzb2lxZHNnNlVjTzVWR00tMFZlUmxVb2UtREhOS2oxNkNkUDJhN09GMS12RnZjYWpOSGlHZ1VCZlZHMVgxZWd5Y01FQWFqdWlfazBVaGtSVURCRm1Mbm8?oc=5\" target=\"_blank\">Nasdaq sell-off continues as SanDisk and Western Digital lead, amid tech 'rotation not liquidation'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital are leading a Nasdaq sell-off amid a tech sector rotation. While both are fund holdings, the story reports stock declines without a stated catalyst or concrete event—this is a price-move piece with analyst framing ('rotation not liquidation') rather than disclosed fundamentals or earnings, making it analysis/market commentary rather than a market-moving event."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "3ee496d5f27a7ad941a1c710ccade63f7039be43",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Stock Market Today, June 23: Micron Falls as South Korea-Led Memory Selloff Raises Earnings Stakes - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmxwTmhyQmFqX2YtaDZKV1JFb2hEdzlVcEVDSHp6QTdMVnVmZFdWTS1WUk5fUFJmWkpMRmYwQmtLQlltT1BFSlJoVHM5c3YzMHY5dDhObldTYzNmbEhjZnYwN3psZERnVzNWYUcyWXVUUVd4MzVuYWh4blZ4Nm9peXZhMWJDMUJrU0JicTVlU25QTjhEYnc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 21:03:21 GMT",
+  "published_ts": 1782248601,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmxwTmhyQmFqX2YtaDZKV1JFb2hEdzlVcEVDSHp6QTdMVnVmZFdWTS1WUk5fUFJmWkpMRmYwQmtLQlltT1BFSlJoVHM5c3YzMHY5dDhObldTYzNmbEhjZnYwN3psZERnVzNWYUcyWXVUUVd4MzVuYWh4blZ4Nm9peXZhMWJDMUJrU0JicTVlU25QTjhEYnc?oc=5\" target=\"_blank\">Stock Market Today, June 23: Micron Falls as South Korea-Led Memory Selloff Raises Earnings Stakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron experiencing a stock decline amid a broader South Korea-led memory sector selloff that may impact upcoming earnings; reflects market concerns about memory pricing and competitive pressure from SK hynix and Samsung but lacks concrete catalyst or specific numbers."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "8772bc29ed005c6f9d71d79b0d8112d002688153",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "AI memory, chip stocks tumble as AI woes hit global peers; Wedbush sees sell-off an opportunity - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRmh2dWZpNGZpck1zOFpKWllaS1JFLXVBYlp3TUo1Q0FCckpSMnl0UkIxWUlhTW1hOWhnUDB5dmt4VEtCR080NkFtelFQX1QtdW9CZzVKaUZBLXJZSERlSDNyRk9oeGtjOWp4SHZUTlB5b2twMUtwYW5CYmd3M1NsZmd0Nzk4X1AzVUp0RG1zLVIxMFRKb3dEbGFqOU1xN0FWR3RBUVVueFhEbUItTnB2VElKdW1kTU02RUZpUFY0Sl9VXzhVaDM4S0xGNVFWSURQV08xV3lRelZSR2hBaUlDTFpDOFdpMUNWcjg0RUd3?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:55:23 GMT",
+  "published_ts": 1782248123,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRmh2dWZpNGZpck1zOFpKWllaS1JFLXVBYlp3TUo1Q0FCckpSMnl0UkIxWUlhTW1hOWhnUDB5dmt4VEtCR080NkFtelFQX1QtdW9CZzVKaUZBLXJZSERlSDNyRk9oeGtjOWp4SHZUTlB5b2twMUtwYW5CYmd3M1NsZmd0Nzk4X1AzVUp0RG1zLVIxMFRKb3dEbGFqOU1xN0FWR3RBUVVueFhEbUItTnB2VElKdW1kTU02RUZpUFY0Sl9VXzhVaDM4S0xGNVFWSURQV08xV3lRelZSR2hBaUlDTFpDOFdpMUNWcjg0RUd3?oc=5\" target=\"_blank\">AI memory, chip stocks tumble as AI woes hit global peers; Wedbush sees sell-off an opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Memory and chip stocks declined amid broader AI sector concerns. Analyst Wedbush views the sell-off as a buying opportunity. This is a price-move story with soft analysis but no disclosed concrete catalyst or earnings/guidance change."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "fe722523fc197e121cc60b3c68e932e12da808d6",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Sandisk patents NAND-under-GPU HBF, targets AI bottlenecks and Korea tie-ups - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aa2t5WnczbW8yRWlhbW9XdzBZYUx3Ym8xc193VHZZcXFZTEJzX2JQNXNfamQ3cG9zOGt0SXJpc2k1RVZBT3FGclV5cDNlNjY2S2dxanhGOFRoNkZyc3pPN1U4aGdGWk9COGhLVVJwU3dHcndNb3ZoRS130gGOAUFVX3lxTE56R09UMU9tNDVFSGRpLU52SDNtN0xfX1RZa2x5X0djQkpEcVNybG53eFFHYjZVbUwyVzhiYlhvMXZBdXJDcHlGU05MOWk4UTBLVDhKSHd4aHItdkJaTGxyUWZ5T1hEX19aS3RpWDAwMmR0RC1sVXZPbTRhSDlLN1FvM0RVN0hIRms4RTVJZmc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 21:01:00 GMT",
+  "published_ts": 1782248460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5aa2t5WnczbW8yRWlhbW9XdzBZYUx3Ym8xc193VHZZcXFZTEJzX2JQNXNfamQ3cG9zOGt0SXJpc2k1RVZBT3FGclV5cDNlNjY2S2dxanhGOFRoNkZyc3pPN1U4aGdGWk9COGhLVVJwU3dHcndNb3ZoRS130gGOAUFVX3lxTE56R09UMU9tNDVFSGRpLU52SDNtN0xfX1RZa2x5X0djQkpEcVNybG53eFFHYjZVbUwyVzhiYlhvMXZBdXJDcHlGU05MOWk4UTBLVDhKSHd4aHItdkJaTGxyUWZ5T1hEX19aS3RpWDAwMmR0RC1sVXZPbTRhSDlLN1FvM0RVN0hIRms4RTVJZmc?oc=5\" target=\"_blank\">Sandisk patents NAND-under-GPU HBF, targets AI bottlenecks and Korea tie-ups - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk has patented a NAND-under-GPU high-bandwidth memory (HBF) technology targeting AI infrastructure bottlenecks, with reported ties to Korean partners. Patent filings and technology development are relevant to SanDisk (a DRAM ETF holding) but represent forward-looking capability rather than a confirmed commercial event or production commitment."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "5859749553cba2e0526dfd0d812d3ebd49a4d034",
+  "source": "Aju Press",
+  "topic": "industry",
+  "title": "Samsungs Lee Jae-yong Visits HBM Production Site to Oversee AI Semiconductor Strategy - Aju Press",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWGVlWVllYzhTQVFpSVVWR0QwZkg0X0JFSFRFQ2tZVVVIdnNIWkd4VWc4TUptWVlEWTFKSzVDQlBFamxhN3FYVFRCY01WZDdlVnpfbTA3Y9IBV0FVX3lxTE9CWGVlWVllYzhTQVFpSVVWR0QwZkg0X0JFSFRFQ2tZVVVIdnNIWkd4VWc4TUptWVlEWTFKSzVDQlBFamxhN3FYVFRCY01WZDdlVnpfbTA3Yw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 06:36:00 GMT",
+  "published_ts": 1782196560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWGVlWVllYzhTQVFpSVVWR0QwZkg0X0JFSFRFQ2tZVVVIdnNIWkd4VWc4TUptWVlEWTFKSzVDQlBFamxhN3FYVFRCY01WZDdlVnpfbTA3Y9IBV0FVX3lxTE9CWGVlWVllYzhTQVFpSVVWR0QwZkg0X0JFSFRFQ2tZVVVIdnNIWkd4VWc4TUptWVlEWTFKSzVDQlBFamxhN3FYVFRCY01WZDdlVnpfbTA3Yw?oc=5\" target=\"_blank\">Samsungs Lee Jae-yong Visits HBM Production Site to Oversee AI Semiconductor Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Press</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Aju Press"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung's Lee Jae-yong visited an HBM production site to oversee AI semiconductor strategy. The visit signals Samsung's commitment to HBM capacity and AI chip production, which are material to memory-semiconductor demand, but the report conveys executive attention and strategy rather than a concrete capacity announcement, production timeline, or shipment milestone."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "a9ecd51338a9c2dbaa1b3d56927911871acbfff6",
+  "source": "Yahoo Tech",
+  "topic": "holding",
+  "title": "PlayStation 5 SSD Prices Soar as SanDisk Storage Costs Explode - Yahoo Tech",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGs3Uy1UVTl2aFFnTWZiRUZ3MEtfcVlCb0w3c2t3cG5RRDRoWDBuUXJJdlFJdzU4ckdCeVZWQUVzUy1pNW13cnIxME5iNVJVaE96RVEtYzZRQ3lRb2ZGN0dwTFhqUW5tVUU0VEFyWDRfMlVval9mWnl5X1Y2RDRVbVV0YXRFTGltR2RR?oc=5",
+  "published_at": "Tue, 23 Jun 2026 19:56:03 GMT",
+  "published_ts": 1782244563,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGs3Uy1UVTl2aFFnTWZiRUZ3MEtfcVlCb0w3c2t3cG5RRDRoWDBuUXJJdlFJdzU4ckdCeVZWQUVzUy1pNW13cnIxME5iNVJVaE96RVEtYzZRQ3lRb2ZGN0dwTFhqUW5tVUU0VEFyWDRfMlVval9mWnl5X1Y2RDRVbVV0YXRFTGltR2RR?oc=5\" target=\"_blank\">PlayStation 5 SSD Prices Soar as SanDisk Storage Costs Explode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Tech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "PlayStation 5 SSD prices rising due to SanDisk storage cost increases. This reflects spot pricing pressure in NAND flash memory, a relevant input to memory cycle dynamics and SanDisk (a fund holding) fundamentals, but the story reports price observations rather than a concrete catalyst or production/supply event."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "cf838154ffd2d27f7ac1fb6dbf2bc3a7d42e3b3d",
+  "source": "Caliber.Az",
+  "topic": "holding",
+  "title": "SK Hynix tops Samsung as South Korea’s most valuable company - Caliber.Az",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekdvbG9LVXBaM3RsOG1sblMwWGMxcnNlOTI5V0VmTUhLZDA0T1UzT0szVVpiVDI5djNhaExfQzYtc0JLd0d4V29iNlBVaTNkR2FsTFJ1Z0NrWGV2dDdGNXJFaEpOVHJIVG1xT3NNd0ZmNWNXWTA4bWxsTWI2VzJaWU5ybnpFUzJ0LXZrMDR2cmM?oc=5",
+  "published_at": "Tue, 23 Jun 2026 19:16:30 GMT",
+  "published_ts": 1782242190,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQekdvbG9LVXBaM3RsOG1sblMwWGMxcnNlOTI5V0VmTUhLZDA0T1UzT0szVVpiVDI5djNhaExfQzYtc0JLd0d4V29iNlBVaTNkR2FsTFJ1Z0NrWGV2dDdGNXJFaEpOVHJIVG1xT3NNd0ZmNWNXWTA4bWxsTWI2VzJaWU5ybnpFUzJ0LXZrMDR2cmM?oc=5\" target=\"_blank\">SK Hynix tops Samsung as South Korea’s most valuable company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caliber.Az</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Caliber.Az"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix has surpassed Samsung to become South Korea's most valuable company by market capitalization. This is a soft development reflecting market sentiment toward SK Hynix (a DRAM fund holding) relative to Samsung, but absent a concrete catalyst or hard event driving the shift, the impact is analytical rather than actionable."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "6f6aeb70fcbc80019755e7f74024ecb057418ec2",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Why Micron (MU) Shares Are Getting Obliterated Today - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak9scjJCZVROc2hINDJQRm12S3VHX09uNmExM2R1ekpGZ2g4WXphRl95YjR1blhocTNZVzNTeU5yMDlQdHhzYXpVSlE5a0ZUU0g0dWdKYkFld1RfQS1BckFEYllLc016b2ZkQTJZZVZ2U1g0VFB4UHh5S19yY2ZpOWNkaXY2M0F1YXJGNll5OFk0dXY1ZVZJZXRzUTFwSEk1LUhzb1B2Q0dQRm1aa3lOdg?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:36:12 GMT",
+  "published_ts": 1782246972,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPak9scjJCZVROc2hINDJQRm12S3VHX09uNmExM2R1ekpGZ2g4WXphRl95YjR1blhocTNZVzNTeU5yMDlQdHhzYXpVSlE5a0ZUU0g0dWdKYkFld1RfQS1BckFEYllLc016b2ZkQTJZZVZ2U1g0VFB4UHh5S19yY2ZpOWNkaXY2M0F1YXJGNll5OFk0dXY1ZVZJZXRzUTFwSEk1LUhzb1B2Q0dQRm1aa3lOdg?oc=5\" target=\"_blank\">Why Micron (MU) Shares Are Getting Obliterated Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) shares experienced a significant intraday decline. The headline indicates a notable stock move but without a disclosed catalyst or confirmed event, this is price-movement reporting rather than a concrete news event."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "6cc3fcfc5cf0700966e68bdf2c392bf997449db4",
+  "source": "Investing.com UK",
+  "topic": "holding",
+  "title": "Why is Western Digital stock sliding today? - Investing.com UK",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR283akZGZXVVaTZNUGZEYTNiemdyNXFTVkJOamJIa0tka1ZhemhfOTRiWUVTOUdWMTk4dVkxMk5pOHhNbGVuRy1aUFFLUDFGZUowS2d5YV9PM2R5a05pdjNZb3ExZzBuQ2l3WnV2UXVSUmF4OW1WRVVfVFFiamlKS2gyTUo0eEo3eG1FdXZrNTA1SldsVUNGc29aOGFzSTRCMWxSbkd3NDdFQ1RMblpOc1FuZ3FOQQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 12:05:13 GMT",
+  "published_ts": 1782216313,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR283akZGZXVVaTZNUGZEYTNiemdyNXFTVkJOamJIa0tka1ZhemhfOTRiWUVTOUdWMTk4dVkxMk5pOHhNbGVuRy1aUFFLUDFGZUowS2d5YV9PM2R5a05pdjNZb3ExZzBuQ2l3WnV2UXVSUmF4OW1WRVVfVFFiamlKS2gyTUo0eEo3eG1FdXZrNTA1SldsVUNGc29aOGFzSTRCMWxSbkd3NDdFQ1RMblpOc1FuZ3FOQQ?oc=5\" target=\"_blank\">Why is Western Digital stock sliding today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a fund holding, experienced a stock price decline. The article asks why but provides no disclosed catalyst or concrete event—typical price-move reporting without a stated cause, making it analysis/speculation rather than a confirmed event."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "698d1c6dd68f74a6ac4672e59e978fb9b0c9bf0b",
+  "source": "FXLeaders",
+  "topic": "holding",
+  "title": "Is the Uptrend Over for SanDisk as SNDK Stock Crashes Below $2,000 on Semiconductor Selloff Intensifying - FXLeaders",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQREVXc3ExRmtPdFpVMUZreklwRHFzejBfSFE2R3lmZW0xWTJGOVU2X3dYc2o5cm1fR0k2WDNzcDZfZXFfaXVqRXdUUGJ4OFNBREZuOHUxb29sLWlNdXJRLUJoM2txaWVyMkRCV0kxM251b0dxcnlpT1FlenRSVk1rWDFuSXNNeXNaV1BLYkUxeFdsbWF2bjJWOTNwQVI4MkhudTdnY2lRdHRTNmh4TElHOVZwbUFYZUJaaGlZWkJ6bUluTnhMU2hfcnNXQUxRUEl5R2JmZDVkVkVKeENCN3c?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:20:44 GMT",
+  "published_ts": 1782246044,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQREVXc3ExRmtPdFpVMUZreklwRHFzejBfSFE2R3lmZW0xWTJGOVU2X3dYc2o5cm1fR0k2WDNzcDZfZXFfaXVqRXdUUGJ4OFNBREZuOHUxb29sLWlNdXJRLUJoM2txaWVyMkRCV0kxM251b0dxcnlpT1FlenRSVk1rWDFuSXNNeXNaV1BLYkUxeFdsbWF2bjJWOTNwQVI4MkhudTdnY2lRdHRTNmh4TElHOVZwbUFYZUJaaGlZWkJ6bUluTnhMU2hfcnNXQUxRUEl5R2JmZDVkVkVKeENCN3c?oc=5\" target=\"_blank\">Is the Uptrend Over for SanDisk as SNDK Stock Crashes Below $2,000 on Semiconductor Selloff Intensifying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXLeaders</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXLeaders"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock fell below $2,000 amid a semiconductor sector selloff. The article reports a price decline but provides no concrete catalyst, earnings data, or material news specific to SanDisk operations—only a general sector weakness narrative. Minor mention suitable for portfolio tracking but not actionable market-moving information."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "70dd585f66dfa5ecde295326d6e229716a9e31ca",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Lam Research, Qualcomm, and Western Digital Stocks Trade Down, What You Need To Know - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeHFZTnpzVnpIR3EyYnFVWGdCcUZXMFEzS0lCQThmTHI1VURjMGxsWWRiSm90cFpob3dwdHlkRmlOWGFCNUF3bTl0d3prMEc4UDBlazIySWtyN3BMbmhGTXhxUDBZb0dYdVBocTk4QloyMjBoaDdpLTR5YWhvX0IxVU9NSFdHMVJLY3o3RVpaLWNuLW1xemVVbFVMdlVhWW5fclNfd2VBWXVIZ0l2Y3gwbDF4UVpNaXo2Q0tycXpwaEdDX0xPQU9ZR19lSy1RY2UteExlS2tLbnNLX3BpUEpnYzg0Wl9QcHpQMHFkXzZ5OGRkNVRaRXN3eA?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:36:40 GMT",
+  "published_ts": 1782247000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeHFZTnpzVnpIR3EyYnFVWGdCcUZXMFEzS0lCQThmTHI1VURjMGxsWWRiSm90cFpob3dwdHlkRmlOWGFCNUF3bTl0d3prMEc4UDBlazIySWtyN3BMbmhGTXhxUDBZb0dYdVBocTk4QloyMjBoaDdpLTR5YWhvX0IxVU9NSFdHMVJLY3o3RVpaLWNuLW1xemVVbFVMdlVhWW5fclNfd2VBWXVIZ0l2Y3gwbDF4UVpNaXo2Q0tycXpwaEdDX0xPQU9ZR19lSy1RY2UteExlS2tLbnNLX3BpUEpnYzg0Wl9QcHpQMHFkXzZ5OGRkNVRaRXN3eA?oc=5\" target=\"_blank\">Lam Research, Qualcomm, and Western Digital Stocks Trade Down, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, experienced a stock price decline. Story is a generic market roundup with no disclosed catalyst or concrete event; mentions WDC in passing among other semiconductor names without memory-specific details."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "622f2bcd940b83522d72f6dfb272724ed71a9129",
+  "source": "FXLeaders",
+  "topic": "holding",
+  "title": "SanDisk Plunges 11% in Rout as Memory Stocks Tumble — $2,000 Target Holds Firm - FXLeaders",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3JnZ3NtM2JWSWVlZFh3UTdLZ3d0VEhiOUgwX0laVE5Nc2pDV0VWZDdad19uSHBMajR0TEM1ZU9RZ25nckRyTEswQ05iNlJHaDhuRks1ZHk2VGNGN0dYMlBuRGc3TnFCUGk3cW5DNzRqTXZBSk1taXFiVFpTMHNvQndneGxaMjJ6VThKZFlYVzN0QmoxaXRWOXNJODJweHlvUFd1QzlUQXdRaV9GeG9INmVLRnBCWTQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:10:42 GMT",
+  "published_ts": 1782245442,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3JnZ3NtM2JWSWVlZFh3UTdLZ3d0VEhiOUgwX0laVE5Nc2pDV0VWZDdad19uSHBMajR0TEM1ZU9RZ25nckRyTEswQ05iNlJHaDhuRks1ZHk2VGNGN0dYMlBuRGc3TnFCUGk3cW5DNzRqTXZBSk1taXFiVFpTMHNvQndneGxaMjJ6VThKZFlYVzN0QmoxaXRWOXNJODJweHlvUFd1QzlUQXdRaV9GeG9INmVLRnBCWTQ?oc=5\" target=\"_blank\">SanDisk Plunges 11% in Rout as Memory Stocks Tumble — $2,000 Target Holds Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXLeaders</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXLeaders"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, fell 11% in a broader memory-stock selloff. The headline mentions an analyst target but provides no disclosed catalyst or event driving the move, making this a price-move story without stated cause."
+  },
+  "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "49d99f8d153881051b6a2bb20e04643249f47e05",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Why Seagate (STX) Stock Is Falling Today - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpveTZrMGxyNDRqQndRS2IyMU1fLTNPVEZ6M0Jqdl9fZkZTem5IeWdyUzF3a1pwNUVCWGpaRGQwUHRIbzlWVngza3AwUFhSQnVVWEk5eXdIY0VoZ2c1UVdyNVZCdldQRy1rOEdFelFtUFhlX3AyRWxIZTlKQkRybVRlQVJid1hBTUR6TVNHMGtyeEM2cDFEdE5XSlVwbmNu?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:36:07 GMT",
+  "published_ts": 1782246967,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpveTZrMGxyNDRqQndRS2IyMU1fLTNPVEZ6M0Jqdl9fZkZTem5IeWdyUzF3a1pwNUVCWGpaRGQwUHRIbzlWVngza3AwUFhSQnVVWEk5eXdIY0VoZ2c1UVdyNVZCdldQRy1rOEdFelFtUFhlX3AyRWxIZTlKQkRybVRlQVJid1hBTUR6TVNHMGtyeEM2cDFEdE5XSlVwbmNu?oc=5\" target=\"_blank\">Why Seagate (STX) Stock Is Falling Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "TradingView reporting on intraday stock movement for Seagate (STX), a fund holding. Without disclosed catalyst details in the snippet, this is a minor price-move mention typical of daily trading coverage."
+  },
+  "buffered_ts": 1782251087.8736215
  }
 ]
