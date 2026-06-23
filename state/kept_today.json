@@ -1454,5 +1454,197 @@
    "summary": "TradingView reporting on intraday stock movement for Seagate (STX), a fund holding. Without disclosed catalyst details in the snippet, this is a minor price-move mention typical of daily trading coverage."
   },
   "buffered_ts": 1782251087.8736215
+ },
+ {
+  "id": "df8e669105656dc7252a5bfe840f120fca9b9242",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "\"SK hynix, Target Price Raised to 4.2 Million Won... Second-Quarter Earnings Surprise Expected\" [Click e-Stock] - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RS0hTNjB2N01xX3g1aGhYTENMMXpTeUstZGZEb3E1ZVpick1vS1h5RmdJMTRqd0plblliYmtsR042c2thLTJkYk9BckMwTFotcWV0YzNCTFJuY1JrQW5rQ05fMlN2cjFWdkF4c19pTWVlNGM4dDFoU2YyVQ?oc=5",
+  "published_at": "Tue, 23 Jun 2026 22:00:00 GMT",
+  "published_ts": 1782252000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1RS0hTNjB2N01xX3g1aGhYTENMMXpTeUstZGZEb3E1ZVpick1vS1h5RmdJMTRqd0plblliYmtsR042c2thLTJkYk9BckMwTFotcWV0YzNCTFJuY1JrQW5rQ05fMlN2cjFWdkF4c19pTWVlNGM4dDFoU2YyVQ?oc=5\" target=\"_blank\">\"SK hynix, Target Price Raised to 4.2 Million Won... Second-Quarter Earnings Surprise Expected\" [Click e-Stock]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix target price raised to 4.2 million won with analyst expectations for Q2 earnings upside. Analyst price-target change and forward-looking earnings opinion; not a confirmed earnings result or hard number yet."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "91e0d944862f6dc6bcb852bf47e1e02f743ea17e",
+  "source": "VnExpress International",
+  "topic": "industry",
+  "title": "Smartphone, gaming console prices surge globally amid memory chip shortage - VnExpress International",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW9QREg0MTJFVDBJVHF3ZnEtbzRndXdKQ0ZCWTJkQThkNUNFT2h4MGpCT0dCVWlJUEgxX1hEREdqTWM2YXVkUmZ3eFhsTExqaDdoN0tqeFYyUHUwUUJ1OUFIRnE3aHFSQVlIUjIyOGhQNkJ6X2wyZGszM1JXWjd6aUtOQy1XNzhHNHVvUjQyVHRNNzNHRFdQNlZYX2kwalNqNDFhSGMtdkNsNVRQMzRIczBTbGtES1ctTHFlVVE1MUhSdjlWZW9zaEZ3?oc=5",
+  "published_at": "Tue, 23 Jun 2026 22:50:50 GMT",
+  "published_ts": 1782255050,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxORW9QREg0MTJFVDBJVHF3ZnEtbzRndXdKQ0ZCWTJkQThkNUNFT2h4MGpCT0dCVWlJUEgxX1hEREdqTWM2YXVkUmZ3eFhsTExqaDdoN0tqeFYyUHUwUUJ1OUFIRnE3aHFSQVlIUjIyOGhQNkJ6X2wyZGszM1JXWjd6aUtOQy1XNzhHNHVvUjQyVHRNNzNHRFdQNlZYX2kwalNqNDFhSGMtdkNsNVRQMzRIczBTbGtES1ctTHFlVVE1MUhSdjlWZW9zaEZ3?oc=5\" target=\"_blank\">Smartphone, gaming console prices surge globally amid memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "VnExpress International"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report of global price surges in smartphones and gaming consoles attributed to memory chip shortage. Indicates tight memory supply conditions that would support pricing and demand for DRAM/NAND, but lacks specific numbers, confirmed shortage depth, duration expectations, or direct quotes from chipmakers/suppliers. Soft/opinion-based framing ('amid shortage') rather than reporting a concrete event or hard data."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "253fb61a735bdaffba1d425a10e705a9fb7de2b1",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Lam Research, Qualcomm, and Western Digital Stocks Trade Down, What You Need To Know - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1FpcU9WMzFPWV9ndi0yM2pwby1LdUFJb3E3MWdSTVQxcEtvRncwN2FkX0k2RzdZRHAzd3Zham5WN1dkRmMyT0tGNUYyRE9ObGJFRElMUjFlMERsVk5XdS10MVc2Z2I5U3pKenVJMlJYNUZocHRtdkw0NGc2TFItbFUwOFRkbjBiMFE2TFZob2VGZGRqelRJdDAyQ29rLVFueDRILU0teVNYTE1Jc2dNR1g3SDY4UVVoX2sydDhiVFQwbUxkbmhxMVlCOWFLQ0JtSlpqREtTTnd5Zw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 20:35:49 GMT",
+  "published_ts": 1782246949,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1FpcU9WMzFPWV9ndi0yM2pwby1LdUFJb3E3MWdSTVQxcEtvRncwN2FkX0k2RzdZRHAzd3Zham5WN1dkRmMyT0tGNUYyRE9ObGJFRElMUjFlMERsVk5XdS10MVc2Z2I5U3pKenVJMlJYNUZocHRtdkw0NGc2TFItbFUwOFRkbjBiMFE2TFZob2VGZGRqelRJdDAyQ29rLVFueDRILU0teVNYTE1Jc2dNR1g3SDY4UVVoX2sydDhiVFQwbUxkbmhxMVlCOWFLQ0JtSlpqREtTTnd5Zw?oc=5\" target=\"_blank\">Lam Research, Qualcomm, and Western Digital Stocks Trade Down, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (a DRAM ETF holding) is mentioned alongside a stock-price decline. The article notes a trading move but provides no stated catalyst or material news event—typical price-movement coverage without disclosed cause."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "a91931d7ac453a05c9a9a4dd8b02b930a7b98694",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "KB Securities sees SK hynix gain as Korea memory shortage lifts prices - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDF3WnB2SG9BWHRUMHhQV0MxNlpka05NNy03bVZpOEk2ZHd4Z3dvZkRTQllfMFVfUm1VejZjdWFiMkNQU3NLWE5EeGtSbnJTNVpHdDNsQzk1cGNoM0ZxV3dXRjhyS2x0ZFlSMC16RFgzYnk1endLa2hkMW1Nd0ZkctIBlAFBVV95cUxQR3VSOHJleTloZFpvUUxkbUdGcThKVHBfcVRJNk8zWjc5eEZXQmtTLW03bXlyVWZPX2JpWmpQSEhJUnllMzlXUFpZYW8wdjk0bjEweXlCRTdGQ3NhTnZJb2duaEJXU01pNUNyaUswMmowQjdhN0U2cmVlM1d4aUdpRldsRlRqMjhFdE9ZSjFmcTBHczhu?oc=5",
+  "published_at": "Tue, 23 Jun 2026 22:37:00 GMT",
+  "published_ts": 1782254220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDF3WnB2SG9BWHRUMHhQV0MxNlpka05NNy03bVZpOEk2ZHd4Z3dvZkRTQllfMFVfUm1VejZjdWFiMkNQU3NLWE5EeGtSbnJTNVpHdDNsQzk1cGNoM0ZxV3dXRjhyS2x0ZFlSMC16RFgzYnk1endLa2hkMW1Nd0ZkctIBlAFBVV95cUxQR3VSOHJleTloZFpvUUxkbUdGcThKVHBfcVRJNk8zWjc5eEZXQmtTLW03bXlyVWZPX2JpWmpQSEhJUnllMzlXUFpZYW8wdjk0bjEweXlCRTdGQ3NhTnZJb2duaEJXU01pNUNyaUswMmowQjdhN0U2cmVlM1d4aUdpRldsRlRqMjhFdE9ZSjFmcTBHczhu?oc=5\" target=\"_blank\">KB Securities sees SK hynix gain as Korea memory shortage lifts prices - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "KB Securities analyst view that SK hynix will benefit from a Korea memory shortage lifting prices. This is analyst opinion on price trends and holding upside rather than a confirmed event (actual price movement, earnings, or official guidance), making it a soft 3."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "21ca61cd3fc546f1655b4f3362f7449ea5a950d9",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron’s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUFwNC0yVjZCZ3dmcEJWN0NVRGlmSkFySHhwQjh4TEpWXzN2RmZVWFlwWk1vNm1tSjVQWk5WaE1IaUUtNmtiQkVtaVJKWF9TdXhOWDhBbVM5NE1nc2NyaVlxTEVSVGU2eGhQNmlhbGpEdWRjVVJaN1Y4Z1pvRFF2UUFTckdvZEdC?oc=5",
+  "published_at": "Tue, 23 Jun 2026 21:44:00 GMT",
+  "published_ts": 1782251040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUFwNC0yVjZCZ3dmcEJWN0NVRGlmSkFySHhwQjh4TEpWXzN2RmZVWFlwWk1vNm1tSjVQWk5WaE1IaUUtNmtiQkVtaVJKWF9TdXhOWDhBbVM5NE1nc2NyaVlxTEVSVGU2eGhQNmlhbGpEdWRjVVJaN1Y4Z1pvRFF2UUFTckdvZEdC?oc=5\" target=\"_blank\">Micron’s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), a core DRAM ETF holding, experienced its worst single-day drop in over a year. The story reports a significant stock price move but does not disclose a concrete catalyst—earnings, guidance change, production cut, or other hard event. Without a stated cause, this is a price move observation rather than a material development."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "b08c3a2be73587eb638596eb78933a091502319e",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "Bank of America strongly resets Micron stock price target - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekx6SWhKaVhiVHoxNHppOHNEY0loeGV6WE91aUhzbFRfUUxGdmZsVEdibDdweDhpNTlDOUNYNjZaMENKRnBtcnhjZzBETTRoNHFldzlWLTQ0OVZGY0NTTzdvWTVhbFI2ZW9NcHNmU1dNSFZhYjBwaWwwUlRidG5OaHYyeU02UGI4Z1MwaHZUMXBaTTR1X3JqR3otM0M2WXZtYUtWTkRscw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 22:33:00 GMT",
+  "published_ts": 1782253980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPekx6SWhKaVhiVHoxNHppOHNEY0loeGV6WE91aUhzbFRfUUxGdmZsVEdibDdweDhpNTlDOUNYNjZaMENKRnBtcnhjZzBETTRoNHFldzlWLTQ0OVZGY0NTTzdvWTVhbFI2ZW9NcHNmU1dNSFZhYjBwaWwwUlRidG5OaHYyeU02UGI4Z1MwaHZUMXBaTTR1X3JqR3otM0M2WXZtYUtWTkRscw?oc=5\" target=\"_blank\">Bank of America strongly resets Micron stock price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of America issued a price-target reset for Micron (MU), a major DRAM ETF holding. Price-target changes are analyst opinion and forecasts rather than concrete market events, placing this at impact 3. The story is relevant to the fund because it concerns a core holding, but without disclosure of the actual target level or reasoning, it remains a soft analyst signal."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "30c047f5cb2c2e1d67bed664d3cc92caa3702063",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Why Micron (MU) Shares Are Getting Obliterated Today - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXNqRzdURWtKM2JzVEFsbzVZaXdjWnZydW9BV3ZVVU1Id19UbTY0WlNzdlI2bGpBRXdYOXoyVmxrNENZVjBGTktsdklpR2lESEhqQVZhZUlZbkt5UFNtQnQ1QW53eEt2aTNNSkg2T2h2V1c1WUpwZHVlWWlCNUhxZTl3dXVuRzhKdFJkRUY4eFI0RHRvdFpscUloLWFWTlRCX0l5WDNFTzR5VUJVYkxN?oc=5",
+  "published_at": "Tue, 23 Jun 2026 21:03:00 GMT",
+  "published_ts": 1782248580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXNqRzdURWtKM2JzVEFsbzVZaXdjWnZydW9BV3ZVVU1Id19UbTY0WlNzdlI2bGpBRXdYOXoyVmxrNENZVjBGTktsdklpR2lESEhqQVZhZUlZbkt5UFNtQnQ1QW53eEt2aTNNSkg2T2h2V1c1WUpwZHVlWWlCNUhxZTl3dXVuRzhKdFJkRUY4eFI0RHRvdFpscUloLWFWTlRCX0l5WDNFTzR5VUJVYkxN?oc=5\" target=\"_blank\">Why Micron (MU) Shares Are Getting Obliterated Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StockStory"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) shares experiencing a significant intraday decline. The headline indicates a notable stock move but without a disclosed concrete catalyst (earnings result, guidance change, supply shock, or other specific event), this qualifies as a price-move story with no stated cause—characteristic of impact 3 rather than 4-5."
+  },
+  "buffered_ts": 1782255981.870209
+ },
+ {
+  "id": "41ec0f40b87b81423c25dbd0dcb1ca9761917b11",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFByNXBrUkdVdmRRQVpMZDJIcnpkMm5qaWkxb3RhdnhaTUhCemR1WTlHQlNGWVhsdGFWeWZHSGt1T0NVdktsUXlYUFoybjBaVnJtUnpsMHh6YUpVNEJ1T1J6aU1VaFVCYWpyLTk4WDlqbEZLZzFGR2JyRktGd2pNSDRaQ3Q1MHQtX2ZKSC1TczB5aEhsZmc?oc=5",
+  "published_at": "Tue, 23 Jun 2026 17:07:48 GMT",
+  "published_ts": 1782234468,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFByNXBrUkdVdmRRQVpMZDJIcnpkMm5qaWkxb3RhdnhaTUhCemR1WTlHQlNGWVhsdGFWeWZHSGt1T0NVdktsUXlYUFoybjBaVnJtUnpsMHh6YUpVNEJ1T1J6aU1VaFVCYWpyLTk4WDlqbEZLZzFGR2JyRktGd2pNSDRaQ3Q1MHQtX2ZKSC1TczB5aEhsZmc?oc=5\" target=\"_blank\">Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) led a tech stock decline amid South Korea jitters triggering a broader market pullback. The headline names SanDisk specifically but provides no concrete catalyst, earnings, guidance change, or stated reason for the move—only a general market sentiment piece linking a stock decline to geopolitical concerns."
+  },
+  "buffered_ts": 1782255981.870209
  }
 ]
