@@ -83,19 +83,26 @@ def run(mode: str, dry: bool) -> None:
         f"({len(instant)} alert); buffer={len(buffer)} ---"
     )
 
-    # Instant alerts: one batched email per run (not one-per-item — that both
-    # spams the inbox and trips Resend's 5-requests/sec limit on a backlog).
-    if instant:
-        if len(instant) == 1:
-            v = instant[0]["triage"]
-            subject = f"🚨 DRAM alert [{v['impact']}/5]: {instant[0]['title']}"
+    # Instant alerts: filter out stories already alerted today (cross-run dedup),
+    # then send one batched email per run (not one-per-item — that both spams the
+    # inbox and trips Resend's 5-requests/sec limit on a backlog).
+    alerted_titles = state.load_alerted()
+    new_instant = dedupe.filter_already_alerted(instant, alerted_titles)
+    suppressed = len(instant) - len(new_instant)
+    if suppressed:
+        print(f"    [{mode}] suppressed {suppressed} already-alerted story(ies)")
+    if new_instant:
+        if len(new_instant) == 1:
+            v = new_instant[0]["triage"]
+            subject = f"🚨 DRAM alert [{v['impact']}/5]: {new_instant[0]['title']}"
         else:
-            top = instant[0]["triage"]["impact"]
-            subject = f"🚨 DRAM: {len(instant)} high-impact items (top {top}/5)"
+            top = new_instant[0]["triage"]["impact"]
+            subject = f"🚨 DRAM: {len(new_instant)} high-impact items (top {top}/5)"
         if dry:
-            print(f"    [dry] would send 1 alert email covering {len(instant)} item(s)")
+            print(f"    [dry] would send 1 alert email covering {len(new_instant)} item(s)")
         else:
-            notify.send_email(subject, notify.render_digest_html(instant))
+            notify.send_email(subject, notify.render_digest_html(new_instant))
+            state.append_alerted(new_instant)
 
     if mode == "brief":
         # Synthesize the whole day's buffer, send, then flush. Always sends —
@@ -111,7 +118,8 @@ def run(mode: str, dry: bool) -> None:
         else:
             result = notify.send_email(subject, body)
             state.clear_buffer()
-            print(f"--- brief sent via Resend (id: {result.get('id', '?')}); buffer cleared ---")
+            state.clear_alerted()
+            print(f"--- brief sent via Resend (id: {result.get('id', '?')}); buffer + alerted cleared ---")
 
 
 def main() -> None:

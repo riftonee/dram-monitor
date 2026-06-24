@@ -99,3 +99,38 @@ def append_buffer(new_items: list[dict], now: float | None = None) -> list[dict]
 
 def clear_buffer() -> None:
     save_buffer([])
+
+
+# --- Alerted-today store (for cross-run alert dedup) -----------------------
+# Tracks titles of stories that have already triggered an instant alert today.
+# Cleared alongside the buffer at each brief run.
+
+ALERTED_PATH = os.path.join("state", "alerted_today.json")
+
+
+def load_alerted() -> list[str]:
+    if not os.path.exists(ALERTED_PATH):
+        return []
+    with open(ALERTED_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_alerted(titles: list[str]) -> None:
+    os.makedirs(os.path.dirname(ALERTED_PATH), exist_ok=True)
+    with open(ALERTED_PATH, "w", encoding="utf-8") as f:
+        json.dump(titles, f, ensure_ascii=False, indent=1)
+
+
+def append_alerted(items: list[dict]) -> None:
+    titles = load_alerted()
+    existing = set(titles)
+    for item in items:
+        t = item.get("title", "")
+        if t and t not in existing:
+            titles.append(t)
+            existing.add(t)
+    save_alerted(titles)
+
+
+def clear_alerted() -> None:
+    save_alerted([])

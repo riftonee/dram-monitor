@@ -104,6 +104,26 @@ def _absorb(into: dict, item: dict) -> None:
     into["titles"].extend(other["titles"])
 
 
+def filter_already_alerted(items: list[dict], alerted_titles: list[str], threshold: float | None = None) -> list[dict]:
+    """Drop items whose title is similar to any story already alerted today.
+    Used in run.py to prevent the same event from generating multiple alert
+    emails across successive 30-min runs."""
+    if not alerted_titles:
+        return items
+    if threshold is None:
+        threshold = config.STORY_DEDUPE_SIMILARITY
+    known_tokens = [_tokens(t) for t in alerted_titles]
+    result = []
+    for item in items:
+        tok = _tokens(item["title"])
+        if not any(
+            _similar(item["title"], known, tok, ktok) >= threshold
+            for known, ktok in zip(alerted_titles, known_tokens)
+        ):
+            result.append(item)
+    return result
+
+
 def collapse_stories(items: list[dict], threshold: float | None = None) -> list[dict]:
     """Cluster near-identical items by title; return one representative per cluster,
     each carrying a merged `corroboration` record. Runs either BEFORE triage (so one
