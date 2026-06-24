@@ -3194,5 +3194,837 @@
    "summary": "Samsung stock jumped 9% in a broad Asia tech rebound following global market weakness. No memory-specific catalyst or earnings detail disclosed; appears to be a general market recovery move rather than a fundamental memory-cycle development."
   },
   "buffered_ts": 1782293039.1632092
+ },
+ {
+  "id": "24956c77c0e310b852e8a54e6af853d1a3e9a6be",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Leveraged ETFs dump $6 billion in Samsung and SK Hynix shares in single-day rebalancing event - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52S0NuWFA0ZlN5WXl5WmtQT3FKZlBvREwzb2k0RF85bXZRd0o0U3E1ZVhDQUlGS2oxbjBVeWY2N1Z0THdKSlJhR0FFYzVSTlAtdU9GR0l0THlZcDVWSHVhT0l1REU3ZFAwVUVZVWE5ako4aFNsQWN3clR4WQ?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:09:06 GMT",
+  "published_ts": 1782292146,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52S0NuWFA0ZlN5WXl5WmtQT3FKZlBvREwzb2k0RF85bXZRd0o0U3E1ZVhDQUlGS2oxbjBVeWY2N1Z0THdKSlJhR0FFYzVSTlAtdU9GR0l0THlZcDVWSHVhT0l1REU3ZFAwVUVZVWE5ako4aFNsQWN3clR4WQ?oc=5\" target=\"_blank\">Leveraged ETFs dump $6 billion in Samsung and SK Hynix shares in single-day rebalancing event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Leveraged ETFs executed a single-day rebalancing that resulted in a $6 billion sell of Samsung and SK Hynix shares. This is a concrete, material capital flow event affecting two major DRAM ETF holdings and represents actual selling pressure with a disclosed cause (rebalancing), though not an earnings or guidance event."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "6e227b897792b40e2c8bfbdd5e1b13080077deb1",
+  "source": "KED Global",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to announce massive facility investments as Korea maps out 2nd chip cluster - KED Global",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LeWVBUFNMeVJWSHBhQnd6enBoemxIYWlha1JoRzZpeHhBV3FReTVYOGhGczFxcE1jTDdWNERuc09HQlRVZTVpS1Z0OVJmVEVlZ2lXWWhzVWl5SERDaWRGTV9pVGJwVnEyejBpQmlyR2hhV2pPWVNB?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:40:00 GMT",
+  "published_ts": 1782301200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5LeWVBUFNMeVJWSHBhQnd6enBoemxIYWlha1JoRzZpeHhBV3FReTVYOGhGczFxcE1jTDdWNERuc09HQlRVZTVpS1Z0OVJmVEVlZ2lXWWhzVWl5SERDaWRGTV9pVGJwVnEyejBpQmlyR2hhV2pPWVNB?oc=5\" target=\"_blank\">Samsung, SK Hynix to announce massive facility investments as Korea maps out 2nd chip cluster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KED Global"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are announced to make massive facility investments as part of South Korea's plan to develop a second chip cluster. This represents concrete, officially announced capex commitments by two major DRAM holdings that directly signal production capacity expansion and support for the memory cycle."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "bc8e05a4ee07cc51246560432f6a42da0753a1cd",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Targets $29B Nasdaq Offering – DRAM Jumps Over 4% Ahead Of Micron's Report - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczJoRjhCWENRc2NmcGg5Y0RLLXdqS0tGU1k0WnhYS1FOTFR2S184SzBRclFPbXdWcFZWWTVvdm9JU1dPM01XanVBaEpZZ2k0SjYwR3pvVWVsMXNFOV9EU1doUzJYTXFiUkIyaUMxcThtQm5jNXQ2UWZBSUkxZC1wYWdLSC1nNzExaUplYXFXdjlra1h0U29F?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:03:00 GMT",
+  "published_ts": 1782295380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOczJoRjhCWENRc2NmcGg5Y0RLLXdqS0tGU1k0WnhYS1FOTFR2S184SzBRclFPbXdWcFZWWTVvdm9JU1dPM01XanVBaEpZZ2k0SjYwR3pvVWVsMXNFOV9EU1doUzJYTXFiUkIyaUMxcThtQm5jNXQ2UWZBSUkxZC1wYWdLSC1nNzExaUplYXFXdjlra1h0U29F?oc=5\" target=\"_blank\">SK Hynix Targets $29B Nasdaq Offering – DRAM Jumps Over 4% Ahead Of Micron's Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "TradingView"
+   ],
+   "titles": [
+    "SK Hynix Targets $29B Nasdaq Offering – DRAM Jumps Over 4% Ahead Of Micron's Report - TradingView"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion Nasdaq offering, a major concrete capital commitment to expand memory production. DRAM ETF rose >4% on the news ahead of Micron earnings, signaling material positive sentiment for memory-sector holdings."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "a84864a62cd1d4b24cbad70c5ee8a6f14b221441",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK hynix : Files Registration Statement for Proposed Initial Public Offering - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSW04Z0tCeF9LcU5ITVQtQzdoQnpzNmFBZjI3Ylh6RzhRcXNZcWQxLTFLdU95clg0NEhTcmlFb3BVcTdkLXlaN280UGtiRXJhRW04RzVjNXBBOFRmaXRRYXh0d2JQWHpWYi1aZWdNUjZjVVVfdUVaUDh1SFl1Z3hXNS1ZejFVOWZBSy1kWDZRV2tvZ3FLOEpla0VOaHhMb1pWOExtQmgwU2oweHMxOXNobVp3eGxsSHFzcXpCUmJkTEpvMlkxMWc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:40:09 GMT",
+  "published_ts": 1782297609,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSW04Z0tCeF9LcU5ITVQtQzdoQnpzNmFBZjI3Ylh6RzhRcXNZcWQxLTFLdU95clg0NEhTcmlFb3BVcTdkLXlaN280UGtiRXJhRW04RzVjNXBBOFRmaXRRYXh0d2JQWHpWYi1aZWdNUjZjVVVfdUVaUDh1SFl1Z3hXNS1ZejFVOWZBSy1kWDZRV2tvZ3FLOEpla0VOaHhMb1pWOExtQmgwU2oweHMxOXNobVp3eGxsSHFzcXpCUmJkTEpvMlkxMWc?oc=5\" target=\"_blank\">SK hynix : Files Registration Statement for Proposed Initial Public Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix files registration statement for proposed IPO. This is a concrete corporate action by a major DRAM ETF holding that could materially affect fund composition, valuation, and liquidity of the holding."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "43c92421dbf22ae39e0bc3bcc1a66e3f9f318fdf",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Watch SK Hynix Seeks to Raise $29 Billion in US Listing to Meet AI Chip Demand - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkZ2dk05WkxqdW1KYlR2YUdIN0lwal9YbV9IdUNzanZkTUNTZXZhYXc4QXpXUE1WcWIyYXB3Z3lWakY2dFJ1ZFlEazlIc1J5YUVOUGx1aUVSLXp5c21RQlRHMDNTd3h5SUZXRGREOVlvdVlVSnRIM2tDby1hMFNldU16dFVTTzRtb1hXblNBYWU1d2NCZFUzdnZHeEFCVDdqb19sOXFR?oc=5",
+  "published_at": "Wed, 24 Jun 2026 00:00:00 GMT",
+  "published_ts": 1782259200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkZ2dk05WkxqdW1KYlR2YUdIN0lwal9YbV9IdUNzanZkTUNTZXZhYXc4QXpXUE1WcWIyYXB3Z3lWakY2dFJ1ZFlEazlIc1J5YUVOUGx1aUVSLXp5c21RQlRHMDNTd3h5SUZXRGREOVlvdVlVSnRIM2tDby1hMFNldU16dFVTTzRtb1hXblNBYWU1d2NCZFUzdnZHeEFCVDdqb19sOXFR?oc=5\" target=\"_blank\">Watch SK Hynix Seeks to Raise $29 Billion in US Listing to Meet AI Chip Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Bloomberg.com",
+    "NAI500",
+    "WSJ"
+   ],
+   "titles": [
+    "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom - NAI500",
+    "SK Hynix Seeks to Raise About $29 Billion in U.S. Listing - WSJ"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is pursuing a $29 billion US listing to fund AI chip demand and capacity expansion. This is a concrete, officially announced capital-raising initiative directly tied to memory-chip production for AI infrastructure, a key demand driver for the fund's holdings."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "86488f78f7b388a66aebae679ab7fe91eac01522",
+  "source": "Startup Fortune",
+  "topic": "holding",
+  "title": "SK Hynix is betting $29 billion that the AI memory boom is nowhere near over - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2VYRUI3LVVGaE90SEFEZDJlVllyVVNsb2NSa3NVSldnYkwyVkpsWlViVFhjWFY3djNLOWFIai1lNE1vQ0JxUWprVGxGazMwc1lpcDY4ZzVtTDJaeFNyQVA1MTdGNllwZkVTTUd0ZXZ3RnozcEpkR3V5QXJwX1djaFV5Rm1ZTzJXaXgyRldlakM5UFRyTlVnakwyNldNd1RKQUhoc09B?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:38:02 GMT",
+  "published_ts": 1782293882,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2VYRUI3LVVGaE90SEFEZDJlVllyVVNsb2NSa3NVSldnYkwyVkpsWlViVFhjWFY3djNLOWFIai1lNE1vQ0JxUWprVGxGazMwc1lpcDY4ZzVtTDJaeFNyQVA1MTdGNllwZkVTTUd0ZXZ3RnozcEpkR3V5QXJwX1djaFV5Rm1ZTzJXaXgyRldlakM5UFRyTlVnakwyNldNd1RKQUhoc09B?oc=5\" target=\"_blank\">SK Hynix is betting $29 billion that the AI memory boom is nowhere near over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion investment bet, signaling confidence in sustained AI memory demand. This is a concrete, officially announced capital commitment by a major fund holding that reflects strategic positioning in the HBM and memory cycle."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "f477dd97d3a80b3295162bb647a295e1f06ab7cc",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDF2a19yQlFWTnAyV1k4X3RMUUZUQmh1dm9pOGNSOEhaS0plVVR5dDdkajFwd05rWTVJdUh3T1AtNHktMDhJUEVPQmRQdzJrampLbnR4R3Fxak9lSWJkdlRkSmQzNjBDSXpBRW9xMF9CWDhsSGRfV1ZKOGtHZ1Q1TVR30gGHAUFVX3lxTE5LX0ludnZTc3VwNF9WdTVwOFdzUUc0RUZFb1pvY0ZyZ1huR2JHNWZTZ3ZyYzVYT1htb3ljWHJuNTI4V3B2MGJhNGh3T2owZlpSSEVKV2toQzItMGpGTkQ1a1lNc21NMm4tdEtFMGE1SHFPemp2Y3daeHFaY0dWWE52dElBNGhGcw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:29:29 GMT",
+  "published_ts": 1782300569,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDF2a19yQlFWTnAyV1k4X3RMUUZUQmh1dm9pOGNSOEhaS0plVVR5dDdkajFwd05rWTVJdUh3T1AtNHktMDhJUEVPQmRQdzJrampLbnR4R3Fxak9lSWJkdlRkSmQzNjBDSXpBRW9xMF9CWDhsSGRfV1ZKOGtHZ1Q1TVR30gGHAUFVX3lxTE5LX0ludnZTc3VwNF9WdTVwOFdzUUc0RUZFb1pvY0ZyZ1huR2JHNWZTZ3ZyYzVYT1htb3ljWHJuNTI4V3B2MGJhNGh3T2owZlpSSEVKV2toQzItMGpGTkQ1a1lNc21NMm4tdEtFMGE1SHFPemp2Y3daeHFaY0dWWE52dElBNGhGcw?oc=5\" target=\"_blank\">South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 5,
+   "sources": [
+    "CNBC",
+    "marketscreener.com",
+    "Forth.News",
+    "Reuters"
+   ],
+   "titles": [
+    "South Korea's SK Hynix says to raise up to $29 bln in ADR listing - marketscreener.com",
+    "South Korea's SK Hynix to raise up to $29 billion in US listing - marketscreener.com",
+    "South Korea's SK Hynix says to raise $29 billion in US ADR listing - Forth.News",
+    "South Korea's SK Hynix says to raise up to $29 bln in ADR listing - Reuters"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, plans to raise $29 billion via a Nasdaq listing. This is a concrete, officially announced capital-raising decision by a core portfolio company that will have material implications for the fund's holdings and the broader memory-semiconductor industry."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "3e4e86cfc393a6d11f360ba61474190f97e71b52",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Samsung HBM4 Passes $1 Billion in Four Months as Its 4nm Bet Starts to Pay Off - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUNKZEY4V3VuTFgzcnd0MzVTbnZvRkhkMUVvTzAzYm5XMXVKSjUtNVhMS1psS24yaXI4Ukg5bTExeUNJMjdnX2lQWEVnWk9iZ3o5QllTc0I4MGFtdzhRNFFidDlSbzF2My0yanBpcUM1bjZaZTQ4NnFFajMtMnFlZnNSb19IblR2SlhYa1U2RnhGMlJFUDdXSU92TTZ5U0djNE9EejF4cFlDZjBMejlGeGpoMC1TRXdjZERfVzJWbFM?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:47:45 GMT",
+  "published_ts": 1782294465,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUNKZEY4V3VuTFgzcnd0MzVTbnZvRkhkMUVvTzAzYm5XMXVKSjUtNVhMS1psS24yaXI4Ukg5bTExeUNJMjdnX2lQWEVnWk9iZ3o5QllTc0I4MGFtdzhRNFFidDlSbzF2My0yanBpcUM1bjZaZTQ4NnFFajMtMnFlZnNSb19IblR2SlhYa1U2RnhGMlJFUDdXSU92TTZ5U0djNE9EejF4cFlDZjBMejlGeGpoMC1TRXdjZERfVzJWbFM?oc=5\" target=\"_blank\">Samsung HBM4 Passes $1 Billion in Four Months as Its 4nm Bet Starts to Pay Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung's HBM4 memory chips have exceeded $1 billion in revenue within four months, signaling successful commercialization of its high-bandwidth memory product and validation of its 4nm process technology investment. This is a concrete achievement for a major DRAM ETF holding with direct relevance to HBM supply and Samsung's semiconductor competitiveness."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "a02e4d90aca42ef19b6a59f005c7b7156455f2e4",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix to issue $29 billion in new shares for Nasdaq ADR listing on July 10 - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUdEYTZoQXBhX0ptOWhEMUVWS1lMVTFMYmFHQlZOY3pOQmZ1aGY5ci1ZalRxMmRNSGppY2tuVDdmdDZIM1NPTjBTTXBha1lRVmJNTVNzbkFaaVEzRjhIbm9VcVRfa2h3ZkJiUmJmdTBqbVkwM1BQX25qWmtyVzg1NUVrVVpQbk9xcktV?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:06:38 GMT",
+  "published_ts": 1782295598,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUdEYTZoQXBhX0ptOWhEMUVWS1lMVTFMYmFHQlZOY3pOQmZ1aGY5ci1ZalRxMmRNSGppY2tuVDdmdDZIM1NPTjBTTXBha1lRVmJNTVNzbkFaaVEzRjhIbm9VcVRfa2h3ZkJiUmJmdTBqbVkwM1BQX25qWmtyVzg1NUVrVVpQbk9xcktV?oc=5\" target=\"_blank\">SK Hynix to issue $29 billion in new shares for Nasdaq ADR listing on July 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion share issuance to support its Nasdaq ADR listing scheduled for July 10. This is a concrete, officially announced capital action by a major fund holding that affects its market visibility and accessibility to US investors, likely to increase institutional participation."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "a193b8a6f3319759dc81d3b126ee221ff31381f1",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "S.Korea Chip Giant SK Hynix Seeks $29 Bn In Nasdaq Listing: Regulatory Filing - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWpWVVdNdjZqRDdGa1YzSmMxQjVTaXJBYWxva2x3YkpRY3d5dFJaNng4THVsREJQYlhpOFFlVElDUURoY1lmcG5KSHVtbFhCSnJJM0JVaXQ0aHE0ZXJVZzd3WTBValRmTFgtdHlzelQtLTVmVjZQRUlKR1R2YWJpSFlGZFpDdWRONFBURUlmbFNwRjI4Ml9HVGI3OTBwaHFaalMwN0dzbkhyb1NmWldIVVhUSQ?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:59:00 GMT",
+  "published_ts": 1782295140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWpWVVdNdjZqRDdGa1YzSmMxQjVTaXJBYWxva2x3YkpRY3d5dFJaNng4THVsREJQYlhpOFFlVElDUURoY1lmcG5KSHVtbFhCSnJJM0JVaXQ0aHE0ZXJVZzd3WTBValRmTFgtdHlzelQtLTVmVjZQRUlKR1R2YWJpSFlGZFpDdWRONFBURUlmbFNwRjI4Ml9HVGI3OTBwaHFaalMwN0dzbkhyb1NmWldIVVhUSQ?oc=5\" target=\"_blank\">S.Korea Chip Giant SK Hynix Seeks $29 Bn In Nasdaq Listing: Regulatory Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, has filed regulatory documents seeking a $29 billion Nasdaq listing. This is a concrete, officially announced corporate action that represents a material development for the holding and signals confidence in the memory chip market outlook."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "ab27a8a5a3ebb104ca74ec39e053883f69eeeed9",
+  "source": "PR Newswire",
+  "topic": "fund",
+  "title": "Roundhill Investments & T-REX Launch 2X Long DRAM Daily Target ETF (RAM) - PR Newswire",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVhrM1hzVHh0a3RuYVdYZ3RGRk1XMDRGZkxfWnB4S2NOUkhHVXlsbmR0eDJqTC1mMkpDZDN3ZjJ5dGdnM1lTMmJiMWg3U0hyZzk2STJDSWdUaTRVZVFtLXRUY3Z5MFN3Yk1ZVHFZNE9ORlZTVU1PTzBOSmlqbXdfaTJ0VXY2b1ZYYkZOd0RCcl9aTFZZRlMtd1QxSDZjeU4wZVE1Z3R0dUwyaGtBaUIwWVFzbmtpMVRmN1JmcFFWd1R3Z0U?oc=5",
+  "published_at": "Wed, 24 Jun 2026 12:00:00 GMT",
+  "published_ts": 1782302400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVhrM1hzVHh0a3RuYVdYZ3RGRk1XMDRGZkxfWnB4S2NOUkhHVXlsbmR0eDJqTC1mMkpDZDN3ZjJ5dGdnM1lTMmJiMWg3U0hyZzk2STJDSWdUaTRVZVFtLXRUY3Z5MFN3Yk1ZVHFZNE9ORlZTVU1PTzBOSmlqbXdfaTJ0VXY2b1ZYYkZOd0RCcl9aTFZZRlMtd1QxSDZjeU4wZVE1Z3R0dUwyaGtBaUIwWVFzbmtpMVRmN1JmcFFWd1R3Z0U?oc=5\" target=\"_blank\">Roundhill Investments & T-REX Launch 2X Long DRAM Daily Target ETF (RAM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PR Newswire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill Investments and T-REX launched a new 2X leveraged daily target ETF (ticker RAM) tracking the DRAM memory-semiconductor sector. This is a concrete fund product launch by the fund sponsor, directly expanding the DRAM ETF ecosystem."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "bda4a30703e4a5f378517f10b22e734b296d974f",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "What SK Hynix’s $29 Billion Nasdaq Listing Plan Means for Micron Stock - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXpDMFB4aWxmd0tMUXN3LWFhaEY4UmFINGdoX1FWYkxCQ21UQkhNU2RHUTVyb2NYQTZGeFI0cHZudkhmeHBJbXUyREtSSkRmMWUyY3pjMWduZ2NoV3VqM1V1VExWWVRyRzdRdVpMQnZ3Q3UtQmxYcGk1MF93UXFXOVNJWmc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:38:00 GMT",
+  "published_ts": 1782297480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXpDMFB4aWxmd0tMUXN3LWFhaEY4UmFINGdoX1FWYkxCQ21UQkhNU2RHUTVyb2NYQTZGeFI0cHZudkhmeHBJbXUyREtSSkRmMWUyY3pjMWduZ2NoV3VqM1V1VExWWVRyRzdRdVpMQnZ3Q3UtQmxYcGk1MF93UXFXOVNJWmc?oc=5\" target=\"_blank\">What SK Hynix’s $29 Billion Nasdaq Listing Plan Means for Micron Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion Nasdaq listing plan, a concrete capital-markets development with potential competitive and structural implications for Micron and the broader memory sector. The listing represents a material event in the industry's competitive landscape and capitalization structure."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "ae83ac4b2b8e4f577ebf9dbc027e5ac458fa953c",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix Files for Up to $29 Billion ADR Offering on Nasdaq - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW05Zk5yOEthM2RhOW1FSFVsbEItSWFQa010bklVbVlQUjY2Yk9xNjVoOG9KcWNlTDI4NkFycmFLTU8tWUNoZW1SSlBSblBmWDBkQThFYlNGT3ZoUmNTazFBWW9iZjdkSThGRHo5N0xfc2JvRHI0OE9IXzhQMXFqcllzU21yVDJaY0VGLXplMzluT2VTNUJaR19BWHdYanlteWI5RGsxbW9DOWd4cVFZRA?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:32:44 GMT",
+  "published_ts": 1782297164,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW05Zk5yOEthM2RhOW1FSFVsbEItSWFQa010bklVbVlQUjY2Yk9xNjVoOG9KcWNlTDI4NkFycmFLTU8tWUNoZW1SSlBSblBmWDBkQThFYlNGT3ZoUmNTazFBWW9iZjdkSThGRHo5N0xfc2JvRHI0OE9IXzhQMXFqcllzU21yVDJaY0VGLXplMzluT2VTNUJaR19BWHdYanlteWI5RGsxbW9DOWd4cVFZRA?oc=5\" target=\"_blank\">SK Hynix Files for Up to $29 Billion ADR Offering on Nasdaq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix filed for a potentially $29 billion ADR (American Depositary Receipt) offering on Nasdaq, a concrete capital-raise announcement that signals major investment capacity and strengthens the company's U.S. market presence and funding for memory-chip expansion."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "a574cd85895d123b57c40de06f4ba5408a309765",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "SK Hynix plans NASDAQ listing of ADRs worth $30B on July 10 - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaXgzbS1iYUx5VXllOFphTzljN0tlcmc0TmFzZnRzMEh4U2hNbmZCUktNSFc4Zmw3cU11SDN0eWowYjJxTHJYaWlkZ3dTbl8xczhSc0lLeFZvUjJDeUp2cE1EdjR1TzdvVHNN?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:25:05 GMT",
+  "published_ts": 1782293105,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaXgzbS1iYUx5VXllOFphTzljN0tlcmc0TmFzZnRzMEh4U2hNbmZCUktNSFc4Zmw3cU11SDN0eWowYjJxTHJYaWlkZ3dTbl8xczhSc0lLeFZvUjJDeUp2cE1EdjR1TzdvVHNN?oc=5\" target=\"_blank\">SK Hynix plans NASDAQ listing of ADRs worth $30B on July 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major holding in the DRAM ETF, has announced a NASDAQ listing of American Depositary Receipts (ADRs) valued at $30B scheduled for July 10. This is a concrete, officially announced capital markets event that increases liquidity and accessibility of the holding for US investors, a material development for the fund."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "bc9a9d621aeb1c00415dbc6a7d86d124920f823f",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "SK hynix to raise up to $29.4 bil. via Nasdaq ADR offering - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVk90UUIxZ3NCY1Q0RFQ2d2NiTmEtZm10cXIybVNoRTBZUDNkaXRKODE3RGREQS02YWlyUXhxdVZTUzZFMmY2RzNGRGdpNFYtQnNocGNmVWFGeUxrZlRYcVFnTG9qR2VNZEJxWGdRTUkxaEhhVXN3YjZoY3E4WG16c1VUdHEwX043MWF3MzlzaE1RRWxXZ1lHWlFwNlFjOGd2a3lGY3hzRnA3ZDNidGNwQWpwQnVZQdIBuwFBVV95cUxQZGpWZi1sbzJLa3lBQVpzbDNFZjZ6NjJOOGlWVFd3RUdoaDRIR1RqdHczaEhzU2NOMFU3eG9INlNqUWxJTGU0X0pVS2k3S0lGMDI1SnFuS2stU2ZuNmNWdHZ5VU1iczdQRXczNGtOTkZ5WndTSFQtX0JMdXFSOGZBRTJnMXR6eVVOZVVXMnE3V2E4VlBqcjlsSjc1emlmaDk0X21rM0JJbWpUTTd5UzBsV1FPcGtmVFZzTnpr?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:41:03 GMT",
+  "published_ts": 1782301263,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVk90UUIxZ3NCY1Q0RFQ2d2NiTmEtZm10cXIybVNoRTBZUDNkaXRKODE3RGREQS02YWlyUXhxdVZTUzZFMmY2RzNGRGdpNFYtQnNocGNmVWFGeUxrZlRYcVFnTG9qR2VNZEJxWGdRTUkxaEhhVXN3YjZoY3E4WG16c1VUdHEwX043MWF3MzlzaE1RRWxXZ1lHWlFwNlFjOGd2a3lGY3hzRnA3ZDNidGNwQWpwQnVZQdIBuwFBVV95cUxQZGpWZi1sbzJLa3lBQVpzbDNFZjZ6NjJOOGlWVFd3RUdoaDRIR1RqdHczaEhzU2NOMFU3eG9INlNqUWxJTGU0X0pVS2k3S0lGMDI1SnFuS2stU2ZuNmNWdHZ5VU1iczdQRXczNGtOTkZ5WndTSFQtX0JMdXFSOGZBRTJnMXR6eVVOZVVXMnE3V2E4VlBqcjlsSjc1emlmaDk0X21rM0JJbWpUTTd5UzBsV1FPcGtmVFZzTnpr?oc=5\" target=\"_blank\">SK hynix to raise up to $29.4 bil. via Nasdaq ADR offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a major capital raise of up to $29.4 billion via Nasdaq ADR offering. This is a concrete, officially announced financing action that demonstrates the company's commitment to capex and expansion, directly relevant to a key DRAM holding and its ability to fund production and HBM capacity growth."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "bac2ec5b2c0e296e6e36fc39f8ce6d1c9b0a72e6",
+  "source": "Financial Times",
+  "topic": "holding",
+  "title": "SK Hynix bets on AI demand with bumper $29bn US listing - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNU1EdEo4VHRrcGxab05VbFAtelNVdVkwR1Q4UU5Xa3FFemhtOGlGc01RR0c2OWo4c25UaU1Ecnptd2NHNGZZX2ZLbFJmRjJkRGR3dHRoVGtWVV9YalphVm41d3BvVDdiUFM5LTZrbnk?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:31:31 GMT",
+  "published_ts": 1782293491,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNU1EdEo4VHRrcGxab05VbFAtelNVdVkwR1Q4UU5Xa3FFemhtOGlGc01RR0c2OWo4c25UaU1Ecnptd2NHNGZZX2ZLbFJmRjJkRGR3dHRoVGtWVV9YalphVm41d3BvVDdiUFM5LTZrbnk?oc=5\" target=\"_blank\">SK Hynix bets on AI demand with bumper $29bn US listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Financial Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a major $29bn US listing, signaling confidence in AI-driven memory demand and marking a significant strategic move by a core DRAM fund holding to increase US presence and capital access for AI infrastructure expansion."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "4f93dd147eafd37ad11332b685425b7971c4956f",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK hynix files for Nasdaq IPO under ticker symbol SKHY - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVUwdHJ6alpSYkNsZ2JOdUhUcFF1NXVrUnVTbVdlUTk4YTNSX21aSnRXUHoyanhyTTU5UEtuYURWVEZPQW1pdmVfOG9NOG56NHdDaWpsRWdqSlVvcFp5Ti1qSWsxNW5DTXdqUFBCMGlyYUJkNUd1a2lETl9uMGtMZDNLWmdPaDd5TWtRMGxaT052b0JpSHRFSVZyRVpraFZSM3pWaDM1ZGdXYWZDeFd0UUJIWFc3dnZK?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:25:26 GMT",
+  "published_ts": 1782296726,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVUwdHJ6alpSYkNsZ2JOdUhUcFF1NXVrUnVTbVdlUTk4YTNSX21aSnRXUHoyanhyTTU5UEtuYURWVEZPQW1pdmVfOG9NOG56NHdDaWpsRWdqSlVvcFp5Ti1qSWsxNW5DTXdqUFBCMGlyYUJkNUd1a2lETl9uMGtMZDNLWmdPaDd5TWtRMGxaT052b0JpSHRFSVZyRVpraFZSM3pWaDM1ZGdXYWZDeFd0UUJIWFc3dnZK?oc=5\" target=\"_blank\">SK hynix files for Nasdaq IPO under ticker symbol SKHY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM and NAND producer and key holding in the fund, has officially filed for a Nasdaq IPO under ticker SKHY. This is a concrete, material corporate event that affects the fund's ability to track and hold the stock, and represents a significant market development for a core semiconductor memory company."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "9152405667a99fef4cae7746ceba9f3bccd47bdc",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "SK hynix seeks up to W45.5tr in July Nasdaq debut - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LckFyVDVTWEw2MkljTk0tWWs3SWJ0WHhKSUFLYldmdWF1T0JaMENqaDRoOHRuUUlqUnJYcEV2d3VvS2ZraFZIMU5fQjl6N2t3bVloQWxHaw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:27:31 GMT",
+  "published_ts": 1782293251,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LckFyVDVTWEw2MkljTk0tWWs3SWJ0WHhKSUFLYldmdWF1T0JaMENqaDRoOHRuUUlqUnJYcEV2d3VvS2ZraFZIMU5fQjl6N2t3bVloQWxHaw?oc=5\" target=\"_blank\">SK hynix seeks up to W45.5tr in July Nasdaq debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM holding, is pursuing a Nasdaq IPO listing in July with a valuation target of up to W45.5 trillion. This is a concrete, officially announced capital-market event that will significantly increase the holding's visibility, liquidity, and market capitalization, representing a material development for the fund."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "916326ab70146c6b9279674d22306738fe6e1798",
+  "source": "qz.com",
+  "topic": "holding",
+  "title": "SK Hynix plans $29 billion Nasdaq ADR listing in 2026 - qz.com",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaUdCeFlNbnRRZEpBeGFXWlNrWFQ4YzZ2V3c0ZVhSeVFFY1YyeTRYVDliWF9zVm1JZmV2TEtZMk83b0U1RzVSbERtYkt6OEhfRDUyMUZlaWJCQVF6cUFzQUdZclFtMlpuWmFlcQ?oc=5",
+  "published_at": "Wed, 24 Jun 2026 12:00:49 GMT",
+  "published_ts": 1782302449,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaUdCeFlNbnRRZEpBeGFXWlNrWFQ4YzZ2V3c0ZVhSeVFFY1YyeTRYVDliWF9zVm1JZmV2TEtZMk83b0U1RzVSbERtYkt6OEhfRDUyMUZlaWJCQVF6cUFzQUdZclFtMlpuWmFlcQ?oc=5\" target=\"_blank\">SK Hynix plans $29 billion Nasdaq ADR listing in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "qz.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a concrete plan to list $29 billion in Nasdaq ADRs in 2026. This is an officially announced capital action by a major DRAM fund holding that will increase its public equity profile and liquidity, materially relevant to the fund's composition and trading mechanics."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "0907b4c0e6a7e3ec9969dfe08320ff6d05be92a7",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "SK Hynix to Tap U.S. Markets With $29 Billion Listing - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONkdYYkFSSkl2akxkX3VMMFRKazlES29JZzd5eGR0VUdTOXY2MmZrWXVzWVhkWTN2blE2bVUzQW1VUzJUWDZVMkVXbmNSTnhGWlRsc29vSFA0YkwwQW1zNVI2d2xvTWRxYkpzSG4yb1hmYlZKRDIyR0F6Z3lRZ1RlSmpvN0FWUzhxYXh2N3JEc2tKcGFhMWlfLUQ4d19JOWRTVjhTenl2NS1SWUljS0Rkc2x0TlQ1ekpvc1hQb3VOeVhtLXNfTWJIRVdld3dwV3pUOW15TW9ZUHlwQ2JmVG1iYjJTc0NtUzh0NlctR1ZEYw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:10:11 GMT",
+  "published_ts": 1782299411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxONkdYYkFSSkl2akxkX3VMMFRKazlES29JZzd5eGR0VUdTOXY2MmZrWXVzWVhkWTN2blE2bVUzQW1VUzJUWDZVMkVXbmNSTnhGWlRsc29vSFA0YkwwQW1zNVI2d2xvTWRxYkpzSG4yb1hmYlZKRDIyR0F6Z3lRZ1RlSmpvN0FWUzhxYXh2N3JEc2tKcGFhMWlfLUQ4d19JOWRTVjhTenl2NS1SWUljS0Rkc2x0TlQ1ekpvc1hQb3VOeVhtLXNfTWJIRVdld3dwV3pUOW15TW9ZUHlwQ2JmVG1iYjJTc0NtUzh0NlctR1ZEYw?oc=5\" target=\"_blank\">SK Hynix to Tap U.S. Markets With $29 Billion Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is planning a $29 billion listing on U.S. markets. This is a concrete, officially announced capital markets event that will significantly increase the accessibility and visibility of the company to U.S. investors and could materially affect fund flows and valuation."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "ac9756ce9cf907edb8ac6419aa217eb8805de6b3",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK hynix Lists ADRs on Nasdaq in July - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82TEZVQXh3d3RaWkxvMXJDcUZzZ1dPblhlSTktX3lvNlRCUHZRN0p2T3hkcEptQjdkazdyc29QQTI1TDNzZkF5VXFyNHJEMEQ5UXFVN3pEeEkyWnFNMEhQd1RwcTlQNlNsOHJyenF2RTBuUlJW?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:41:16 GMT",
+  "published_ts": 1782297676,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE82TEZVQXh3d3RaWkxvMXJDcUZzZ1dPblhlSTktX3lvNlRCUHZRN0p2T3hkcEptQjdkazdyc29QQTI1TDNzZkF5VXFyNHJEMEQ5UXFVN3pEeEkyWnFNMEhQd1RwcTlQNlNsOHJyenF2RTBuUlJW?oc=5\" target=\"_blank\">SK hynix Lists ADRs on Nasdaq in July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Businesskorea"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced listing of American Depositary Receipts (ADRs) on Nasdaq in July, a concrete corporate action that expands US market access for a key DRAM ETF holding and signals confidence in capital markets positioning."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "4e76f508cc223af1324586c88f66d316b5e94339",
+  "source": "odaily.news",
+  "topic": "holding",
+  "title": "Micron Earnings Preview: Amidst the Turmoil in Korean and US Tech Stocks, How Can We Secure the Storage Bull Market? - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpUkl5RE1pd3N4SU9HRVN0Z0RFdENCcEdaQU9zVDNVc21DZWRGQ1R0QmNGcjRicXNpU1pZeDNsQnBtZ01rRXhzbWF2amZTenM?oc=5",
+  "published_at": "Wed, 24 Jun 2026 12:00:40 GMT",
+  "published_ts": 1782302440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpUkl5RE1pd3N4SU9HRVN0Z0RFdENCcEdaQU9zVDNVc21DZWRGQ1R0QmNGcjRicXNpU1pZeDNsQnBtZ01rRXhzbWF2amZTenM?oc=5\" target=\"_blank\">Micron Earnings Preview: Amidst the Turmoil in Korean and US Tech Stocks, How Can We Secure the Storage Bull Market?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "odaily.news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Preview analysis of Micron's upcoming earnings, discussing tech stock volatility and storage market outlook. Speculative framing ('how can we secure') indicates opinion/analysis rather than confirmed results or guidance."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "cd29a782edabe258e2fd51afe39574df46c67841",
+  "source": "odaily.news",
+  "topic": "fund",
+  "title": "DRAM ETF Issuers: Three Giants' Market Caps Surpass Trillion, the AI Era for Storage Chips Has Only Just Begun - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MUNpVWJ3elRETUVqVzE2dTJTQ2R4Vzllb2czT2h5Z1BQWUdQVEFlVGs5eTFNZjZPSmU3SldhNXRGUzB6bktqNDdKMkh6WXc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:00:36 GMT",
+  "published_ts": 1782298836,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MUNpVWJ3elRETUVqVzE2dTJTQ2R4Vzllb2czT2h5Z1BQWUdQVEFlVGs5eTFNZjZPSmU3SldhNXRGUzB6bktqNDdKMkh6WXc?oc=5\" target=\"_blank\">DRAM ETF Issuers: Three Giants' Market Caps Surpass Trillion, the AI Era for Storage Chips Has Only Just Begun</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "odaily.news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Commentary on DRAM ETF holdings (likely Samsung, SK hynix, and Micron) reaching trillion-dollar market caps and outlook on AI-driven storage chip demand. Relevant to the fund but lacks concrete new developments or hard numbers—remains analysis and forward-looking commentary rather than a confirmed event."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "965e02f1e9fc1e3b472ade713256260eb0c694e3",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is Seagate Technology Holdings (STX) Undervalued Following Its Earnings Beat And AI Growth Targets? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa1JlXzRPOWg2aGRkemRCY01LMkhlYl9NWldZQVM1SmtiMTc5Tk9TbmlmU1pSa1IxM2xTSlRtZURQbS1uN2FOMkIzZEd2dGJvaEVRMlF4WDI0eC1VWFp6R3kzYjF6RFZpNGlNZ201RlFxUEdKSzVVWUEwamRPMExvMi1wWXY0ZEc0blJCWXQ4c3lMOGZKV3NwdzF4NW9MRGw4T3hkU1p1RUJFQlJPdVdvQmtIVE1NT0Fhc19lMDR0Ukxac3ZYVlFjQ3RkS2pHS1ZGTFJod1dCTFrSAd4BQVVfeXFMTVNjRmg5dmpqVS1JWWZUUENWMUF1cUtjTGdjWHRNOHBfTnRsSFZCb2xZNTVZdkNSdnp3WTRXSkx2ZGZnRlA1OWNsWHVTeUJ5YW43U2hNXzY4Ri12aFpiV1ZNUWhvMmJuSFNsT3BTeEJzeldsOXZvMlIzWkUtT29zaUxLRnFuSnVabXVrUTE5LTVyYW5lM3BITVJPcDBUUnJuTVMxM0Y4WVZNZkt0UndlWV9leFlKNktOUFJFS1gxUEFTcUFfRXdBUHJBblduZnF4UFVzT1dzMU9jR3NGd2NB?oc=5",
+  "published_at": "Wed, 24 Jun 2026 12:02:45 GMT",
+  "published_ts": 1782302565,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa1JlXzRPOWg2aGRkemRCY01LMkhlYl9NWldZQVM1SmtiMTc5Tk9TbmlmU1pSa1IxM2xTSlRtZURQbS1uN2FOMkIzZEd2dGJvaEVRMlF4WDI0eC1VWFp6R3kzYjF6RFZpNGlNZ201RlFxUEdKSzVVWUEwamRPMExvMi1wWXY0ZEc0blJCWXQ4c3lMOGZKV3NwdzF4NW9MRGw4T3hkU1p1RUJFQlJPdVdvQmtIVE1NT0Fhc19lMDR0Ukxac3ZYVlFjQ3RkS2pHS1ZGTFJod1dCTFrSAd4BQVVfeXFMTVNjRmg5dmpqVS1JWWZUUENWMUF1cUtjTGdjWHRNOHBfTnRsSFZCb2xZNTVZdkNSdnp3WTRXSkx2ZGZnRlA1OWNsWHVTeUJ5YW43U2hNXzY4Ri12aFpiV1ZNUWhvMmJuSFNsT3BTeEJzeldsOXZvMlIzWkUtT29zaUxLRnFuSnVabXVrUTE5LTVyYW5lM3BITVJPcDBUUnJuTVMxM0Y4WVZNZkt0UndlWV9leFlKNktOUFJFS1gxUEFTcUFfRXdBUHJBblduZnF4UFVzT1dzMU9jR3NGd2NB?oc=5\" target=\"_blank\">Is Seagate Technology Holdings (STX) Undervalued Following Its Earnings Beat And AI Growth Targets?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, reported an earnings beat and announced AI growth targets. The story is analysis/opinion ('Is...Undervalued?') rather than reporting a concrete event or hard guidance change, so impact is capped at 3."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "9b88a9774bada1823fe2acb5ba4677e6e86e5c02",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Nvidia Supplier SK Hynix Targets Massive Nasdaq Debut— And It's Coming For Alibaba's Record - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMXlxU1ZfQ3N2M18tSVdTMFNLeW4yNGhwVTVqNjRWWTdqRU56dFFzQ1EwYjFQRjU4LWI1TnluMm9aMHNhMTRObTJ3Zk5OWTlHR3FidlRuT2RuYk9CQ2JSajlCbGZCMHdyN3MxZi1Wb2JTYnhOR29oWVZmNWVURF8zdGo0SkFrbkJEX3VTSGRqaFlpYkQ5ZkZVakszVTZENlo3RXBZVzJnLW5LeEVrTmpyUGVKNzEwbDdMRkxUU0cyTEZVek5Pd3VoSTVjZV94cGJ0dFJTVkFiNE4?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:15:36 GMT",
+  "published_ts": 1782299736,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMXlxU1ZfQ3N2M18tSVdTMFNLeW4yNGhwVTVqNjRWWTdqRU56dFFzQ1EwYjFQRjU4LWI1TnluMm9aMHNhMTRObTJ3Zk5OWTlHR3FidlRuT2RuYk9CQ2JSajlCbGZCMHdyN3MxZi1Wb2JTYnhOR29oWVZmNWVURF8zdGo0SkFrbkJEX3VTSGRqaFlpYkQ5ZkZVakszVTZENlo3RXBZVzJnLW5LeEVrTmpyUGVKNzEwbDdMRkxUU0cyTEZVek5Pd3VoSTVjZV94cGJ0dFJTVkFiNE4?oc=5\" target=\"_blank\">Nvidia Supplier SK Hynix Targets Massive Nasdaq Debut— And It's Coming For Alibaba's Record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM/memory holding in the DRAM ETF, is targeting a Nasdaq IPO listing. This is significant corporate news for the company but remains a prospective event (targeting/planning stage) rather than a confirmed, executed transaction. IPO news for a key holding warrants monitoring but lacks the concrete certainty of an already-completed offering or a binding regulatory approval."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "817b3d2d4799e23df8a4ef8e900cd30c0502f98f",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "South Korean government discusses major chip investments with Samsung, SK Hynix - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0xZby1wOUpGY284V3kwX3hhSGJobXVxQlJJeFpucVlFd3g5dHhGUFV2ZGczQ1BMM2lGT0tXUlk4OHlFZ3JhTHI1LWNCcGxfc3VqdFl4M0FKR2xJVHVaQ0ZpdjMwNjVGVmJwZVZZY1BqZ2wtcHVaWnRnMUpmbktSZA?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:58:20 GMT",
+  "published_ts": 1782298700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0xZby1wOUpGY284V3kwX3hhSGJobXVxQlJJeFpucVlFd3g5dHhGUFV2ZGczQ1BMM2lGT0tXUlk4OHlFZ3JhTHI1LWNCcGxfc3VqdFl4M0FKR2xJVHVaQ0ZpdjMwNjVGVmJwZVZZY1BqZ2wtcHVaWnRnMUpmbktSZA?oc=5\" target=\"_blank\">South Korean government discusses major chip investments with Samsung, SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean government in discussions with Samsung and SK Hynix regarding major chip investments. This is a soft development—discussions and talks rather than a confirmed investment decision or official announcement. Relevant to two key DRAM holdings but lacks concrete numbers or finalized commitments."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "5659f9c205e9e15be914f642d0afdd7f4fd136fc",
+  "source": "KuCoin",
+  "topic": "fund",
+  "title": "DRAM ETF issuer defends valuations of storage chip giants amid surge in AI demand - KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXFWSEVJY1gtMmxldlk4YWZXcDhRLW9JNGRneTdYemcyS0RZdEhDZFNiTGRpVE11S19EWmxKRDhqaGhaZWgzUE1QR092cHF6U185TU1FMkM5eHFiOHY0M1BNM3A2V2FjbzlGcF8za0NEYTlCeThCeWlrdmg3RWxYNHFfRUN3U3dXTUhtOVB0Q3R5NTJ4MGZzMlhEN1ZrNE9lb3FwSFgxTkd4Sml2N0E?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:46:21 GMT",
+  "published_ts": 1782297981,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXFWSEVJY1gtMmxldlk4YWZXcDhRLW9JNGRneTdYemcyS0RZdEhDZFNiTGRpVE11S19EWmxKRDhqaGhaZWgzUE1QR092cHF6U185TU1FMkM5eHFiOHY0M1BNM3A2V2FjbzlGcF8za0NEYTlCeThCeWlrdmg3RWxYNHFfRUN3U3dXTUhtOVB0Q3R5NTJ4MGZzMlhEN1ZrNE9lb3FwSFgxTkd4Sml2N0E?oc=5\" target=\"_blank\">DRAM ETF issuer defends valuations of storage chip giants amid surge in AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KuCoin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF issuer defends valuations of memory/storage chip holdings amid AI-driven demand surge. Commentary on fund positioning and holdings valuations in context of AI capex tailwinds, but lacks concrete events or hard numbers."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "89ffee89961de3373b522481089780392a9aceb3",
+  "source": "CNBC",
+  "topic": "industry",
+  "title": "Baird's Ross Mayfield on memory chip shortage: It's still a sellers market today - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlMwV3ktNTU3YncxR3FWaEV6UFZza1BoenFSdkRpZEdmby1na214dzQtbU00S3lMck5LRjBCRzRYUzlxVlZzX3kweHc0dkt6eHRMcWMyZmJlZHpDN1M0a3ZpcVU1R2U5M0x1UkU5UGJhMnlqd2N2aFAyT2MxWFhwVC1YYTJXQXlVMmJLUmVfMUs4NEpQS2wxd0dsZ25ZcnJKcmpwWmNHQnlreEU1UFBjUXdGcXlteGtzaUxQRA?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:48:56 GMT",
+  "published_ts": 1782301736,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlMwV3ktNTU3YncxR3FWaEV6UFZza1BoenFSdkRpZEdmby1na214dzQtbU00S3lMck5LRjBCRzRYUzlxVlZzX3kweHc0dkt6eHRMcWMyZmJlZHpDN1M0a3ZpcVU1R2U5M0x1UkU5UGJhMnlqd2N2aFAyT2MxWFhwVC1YYTJXQXlVMmJLUmVfMUs4NEpQS2wxd0dsZ25ZcnJKcmpwWmNHQnlreEU1UFBjUXdGcXlteGtzaUxQRA?oc=5\" target=\"_blank\">Baird's Ross Mayfield on memory chip shortage: It's still a sellers market today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Baird analyst Ross Mayfield comments that the memory chip market remains a sellers market. This is analyst opinion/commentary on market dynamics rather than a concrete event, pricing data, or official production/supply announcement, making it softer than a 4."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "d4401379ecb809ef59a3ab5663b3cb705b8d1158",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix Targets KRW45.5 Trillion in US Nasdaq Listing of ADRs - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDhUTXNOLVk3RHpjNnJISUlSZUp3MVk1ODdFMmpRUkN4X2M5VUQ4SVJBNHNzUEdjVGMtYmt2VHV0SFhBYjdvWUs4cmxFelN4YW9CUnJkODJUUjFINlBHQ1lRN0pUN19kRS1CTjNxNFZ0VWt3d1pKRVhZQkpBbXE3VWlZT1lLX1RlOVMxZkJCbFZLZXp4NTV5YmdmR2lFX2hFYU1NS1lCOHowcEtTbFMzeXRPRUxuQQ?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:19:18 GMT",
+  "published_ts": 1782296358,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDhUTXNOLVk3RHpjNnJISUlSZUp3MVk1ODdFMmpRUkN4X2M5VUQ4SVJBNHNzUEdjVGMtYmt2VHV0SFhBYjdvWUs4cmxFelN4YW9CUnJkODJUUjFINlBHQ1lRN0pUN19kRS1CTjNxNFZ0VWt3d1pKRVhZQkpBbXE3VWlZT1lLX1RlOVMxZkJCbFZLZXp4NTV5YmdmR2lFX2hFYU1NS1lCOHowcEtTbFMzeXRPRUxuQQ?oc=5\" target=\"_blank\">SK Hynix Targets KRW45.5 Trillion in US Nasdaq Listing of ADRs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is pursuing a Nasdaq listing of American Depositary Receipts (ADRs) targeting KRW45.5 trillion in valuation. This is a significant capital-market development for a major DRAM fund holding, but the story reports a target/plan rather than a confirmed, completed transaction, making it material but soft news at the exploration/pursuit stage."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "2464da1184552ca55fffb09d78734c961567a549",
+  "source": "The Cryptonomist",
+  "topic": "holding",
+  "title": "SanDisk Stock Analysis: Bullish Trend Faces Short-Term Risks - The Cryptonomist",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3owX3dKQ0ozRVNLaG5TNU42R3BiTk1nVlZqQnlWYVZjR3FnT3NmV2g0Qjlmb2s3Q3JkRkU3eEtqUFlGZldvbzJXX2pYcHhlcG1ScWJEMXU4YmRZX0lyempDa2NNNUhqRUFqMFNVZTM2WVR1MGUzTjJrTTJJdkhXS0d5c0ZiR01zVTZTazlCajRMQVVJeUk2aFFGQTFzSkh5N3RDWkdGdFI?oc=5",
+  "published_at": "Wed, 24 Jun 2026 09:23:36 GMT",
+  "published_ts": 1782293016,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3owX3dKQ0ozRVNLaG5TNU42R3BiTk1nVlZqQnlWYVZjR3FnT3NmV2g0Qjlmb2s3Q3JkRkU3eEtqUFlGZldvbzJXX2pYcHhlcG1ScWJEMXU4YmRZX0lyempDa2NNNUhqRUFqMFNVZTM2WVR1MGUzTjJrTTJJdkhXS0d5c0ZiR01zVTZTazlCajRMQVVJeUk2aFFGQTFzSkh5N3RDWkdGdFI?oc=5\" target=\"_blank\">SanDisk Stock Analysis: Bullish Trend Faces Short-Term Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cryptonomist</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Cryptonomist"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock analysis discussing bullish trend with short-term risks; technical/sentiment analysis rather than concrete news or earnings event."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "1fd34697667faeb05502d5197bbea3cadb1caeb4",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix to File in Korea in Step Toward ADR Sale, Report Says - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDEwb3k0c3RMd0wwcldHYXpoczBabFkwNGNwTGJSSk05ZENhc2pMTjZFcFVTdENLbkh2cTdTQU42blZrRndic1BQNzBNOGNTc21DQnJTbnFLbENPc3RQNk52V0J1aF9leUJKd1QzU1VlSTdxcVBPby1lVEw5NmhRMkMxQWlVb1RSQVpfb0QyZW1DaHhIbzNUQTF2TzZXQWhtQlJpVGxITzgzRWhrQzhUYw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 01:19:00 GMT",
+  "published_ts": 1782263940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORDEwb3k0c3RMd0wwcldHYXpoczBabFkwNGNwTGJSSk05ZENhc2pMTjZFcFVTdENLbkh2cTdTQU42blZrRndic1BQNzBNOGNTc21DQnJTbnFLbENPc3RQNk52V0J1aF9leUJKd1QzU1VlSTdxcVBPby1lVEw5NmhRMkMxQWlVb1RSQVpfb0QyZW1DaHhIbzNUQTF2TzZXQWhtQlJpVGxITzgzRWhrQzhUYw?oc=5\" target=\"_blank\">SK Hynix to File in Korea in Step Toward ADR Sale, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly moving toward an ADR (American Depositary Receipt) listing by filing in Korea. This is a procedural step in a capital-raising or listing strategy, but the story is based on a report and uses conditional language ('toward'), suggesting the deal is still in discussion/exploration phase rather than officially announced or confirmed. Material for a SK Hynix holding, but soft on concrete confirmation."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "5aeff67954c75463a948380cdfb651bd75be3ccc",
+  "source": "Moomoo",
+  "topic": "fund",
+  "title": "After Listing on the NYSE, Will Micron's ADR Cause a DRAM ETF Drain? - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenE2bExCa1NGamhSNkxidFJ2cEV2cDlaRlgweVdFSEpEVS1EbDV1c0xiLURNV1o4MWhxcDU5cmh1RHBIOW9pYV9SQzBfNVliaG5KUlA2M1lEQkZ2NnBuY29kYzR3cGRCUGNEVnk4NUg4MEZoMDU1YjJrcmxTY1hzNmt0bVA0UzQySWVuZ0N2dmFDY29QMGc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 10:04:18 GMT",
+  "published_ts": 1782295458,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQenE2bExCa1NGamhSNkxidFJ2cEV2cDlaRlgweVdFSEpEVS1EbDV1c0xiLURNV1o4MWhxcDU5cmh1RHBIOW9pYV9SQzBfNVliaG5KUlA2M1lEQkZ2NnBuY29kYzR3cGRCUGNEVnk4NUg4MEZoMDU1YjJrcmxTY1hzNmt0bVA0UzQySWVuZ0N2dmFDY29QMGc?oc=5\" target=\"_blank\">After Listing on the NYSE, Will Micron's ADR Cause a DRAM ETF Drain?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Moomoo analysis questioning potential impact of Micron's NYSE listing on ADR holdings and DRAM ETF composition. Speculative piece examining structural fund implications rather than reporting a confirmed event or concrete ETF action."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "787c36488d9caa79c9f31f28ae2d017a3d5badca",
+  "source": "hi-Tech.ua",
+  "topic": "holding",
+  "title": "Market flipped: SK hynix overtakes Samsung in market value - hi-Tech.ua",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVdXbVUzc3hxRWJnNi1fc2hJYkZFTnFURndkNlhZY0x0LU5MWTBpTFpjbUNoSTZMaVg4eWtrLXp5OTZPQzJfcWtOS3BsOXpYMlYxS0t0cE9aWFVOVl9mVG1WRGlaNU1qSHZDcW80VHVBLV9ZRVZvYndrUTFoZ2I4aHVkeENRbXc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 04:04:40 GMT",
+  "published_ts": 1782273880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVdXbVUzc3hxRWJnNi1fc2hJYkZFTnFURndkNlhZY0x0LU5MWTBpTFpjbUNoSTZMaVg4eWtrLXp5OTZPQzJfcWtOS3BsOXpYMlYxS0t0cE9aWFVOVl9mVG1WRGlaNU1qSHZDcW80VHVBLV9ZRVZvYndrUTFoZ2I4aHVkeENRbXc?oc=5\" target=\"_blank\">Market flipped: SK hynix overtakes Samsung in market value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hi-Tech.ua</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "hi-Tech.ua"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix has overtaken Samsung in market capitalization. This is a notable shift between two major DRAM fund holdings, but without disclosed catalysts or concrete operational/earnings events, it represents a market-driven revaluation rather than a confirmed business development."
+  },
+  "buffered_ts": 1782302770.194567
+ },
+ {
+  "id": "06e0683a736687bd1433ecb7b315bac9a8404822",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is SanDisk Stock Gaining Wednesday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTThKcjRHZFpWVkNzUTlEM1QtMHlLTkw5Vl96cGVzZG5rdnJrd0lNTkpqdzRZaW5RUVBoNWYyUW1MalhsY1cxcW9YWklMb3l6aFpBYW44dTh6eC1La0xlZ2pBbnBZVVFKcXBGWFFQV1ZnTUZRUDJicHJCeHAzX2d5VmVPTDdLRTJwNzBSclZZcjBUOWowaU5JbnZxWUtHU0dh?oc=5",
+  "published_at": "Wed, 24 Jun 2026 11:22:53 GMT",
+  "published_ts": 1782300173,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTThKcjRHZFpWVkNzUTlEM1QtMHlLTkw5Vl96cGVzZG5rdnJrd0lNTkpqdzRZaW5RUVBoNWYyUW1MalhsY1cxcW9YWklMb3l6aFpBYW44dTh6eC1La0xlZ2pBbnBZVVFKcXBGWFFQV1ZnTUZRUDJicHJCeHAzX2d5VmVPTDdLRTJwNzBSclZZcjBUOWowaU5JbnZxWUtHU0dh?oc=5\" target=\"_blank\">Why Is SanDisk Stock Gaining Wednesday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock gained on Wednesday. The article title indicates a stock price move but the snippet provides no disclosed catalyst, fundamental news, or stated reason for the gain, making this a soft price-movement story without concrete underlying event."
+  },
+  "buffered_ts": 1782302770.194567
  }
 ]
