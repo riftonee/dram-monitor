@@ -2093,5 +2093,278 @@
    "summary": "Analyst Citi raised SanDisk's price target, driving a stock move. This is an analyst note (opinion/target change) rather than a concrete event like earnings or guidance, so it rates impact 3. Material to the fund as SanDisk is a core holding, but not a hard catalyst."
   },
   "buffered_ts": 1782420926.4527
+ },
+ {
+  "id": "7feafe9945d1e7a82e1b0cbbdfc2333f68ed43bb",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology delivers strong AI outlook, shares react after blowout forecast - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmpwRl82ZHQ5elRremdyMkdEZy1qRGtob2hxZTNEcWRZb3Z3Q0NKUllnOUN4endraHNRQ3RDN1FGNWpSQTVVN3R1WTRwamlqaVU4RkMybkE1U3RNWkk2RndrUzNYSlM1QUVjRmdlbGNhNjVxbmxJMW00ZHZfTF80eXJ1Rm5qMHFldWN3S0dIUFlIQW9IMXA0ZzIwR0t3dGFnMk1FU0V1MTQ0UnJ1LW52OHJ6TFhKeEF1am1nYl9BMC02NGdiNTI2WFpn?oc=5",
+  "published_at": "Thu, 25 Jun 2026 19:06:20 GMT",
+  "published_ts": 1782414380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmpwRl82ZHQ5elRremdyMkdEZy1qRGtob2hxZTNEcWRZb3Z3Q0NKUllnOUN4endraHNRQ3RDN1FGNWpSQTVVN3R1WTRwamlqaVU4RkMybkE1U3RNWkk2RndrUzNYSlM1QUVjRmdlbGNhNjVxbmxJMW00ZHZfTF80eXJ1Rm5qMHFldWN3S0dIUFlIQW9IMXA0ZzIwR0t3dGFnMk1FU0V1MTQ0UnJ1LW52OHJ6TFhKeEF1am1nYl9BMC02NGdiNTI2WFpn?oc=5\" target=\"_blank\">Micron Technology delivers strong AI outlook, shares react after blowout forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron Technology (MU), a core DRAM holding, delivered a strong AI outlook and blowout forecast with immediate share reaction. This is a concrete, market-moving earnings or guidance event directly impacting a major fund holding."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "5cacd33970acefc9fe5542868ba0f6fd360acd35",
+  "source": "Pluang",
+  "topic": "fund",
+  "title": "Micron beats Q3 earnings, boosting memory semiconductor ETFs like DRAM and RAM. - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXBmM2NLSzFiX09VdVNQREk3X1h4ek9mTlJYaGdFTjhPYUUtU0VzRDJCTGtGOFM3RHJvSkN0aG9BUFdSYkY4cjJaWVJTTmJUMHBNeGI0U3NvVjdMeGw1OThMdzA1R292MnJPY2ttS3owVlZpOXNNSTV6ekJUVzJwQThkeXpqemc?oc=5",
+  "published_at": "Thu, 25 Jun 2026 20:00:04 GMT",
+  "published_ts": 1782417604,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORXBmM2NLSzFiX09VdVNQREk3X1h4ek9mTlJYaGdFTjhPYUUtU0VzRDJCTGtGOFM3RHJvSkN0aG9BUFdSYkY4cjJaWVJTTmJUMHBNeGI0U3NvVjdMeGw1OThMdzA1R292MnJPY2ttS3owVlZpOXNNSTV6ekJUVzJwQThkeXpqemc?oc=5\" target=\"_blank\">Micron beats Q3 earnings, boosting memory semiconductor ETFs like DRAM and RAM.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron reported better-than-expected Q3 earnings results, a confirmed concrete event that directly impacts the fund's largest holding and the broader memory semiconductor sector. Earnings beats are market-moving catalysts that typically drive stock and ETF performance."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "c42dd007b438be4bf01510d28624523ff580baa5",
+  "source": "Financial Times",
+  "topic": "industry",
+  "title": "Micron posts 15-fold profit surge in boost for global AI stocks - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWFqOVBFdV9oSHliaHZ5b0dfYWJfamQtYTA2RERBZXg5VHpfa0VVSUVmT2RiOEp3SzRMTnJfMm4wTXUyZU5VejZ6cXdPNTFZV2djcWdzWW9zdk1tbmVBR1hWQWZKMV91bnNqbThpV2FmRUxfbmF2d3pMLVJYT0toRDRsWDM?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:40:22 GMT",
+  "published_ts": 1782412822,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWFqOVBFdV9oSHliaHZ5b0dfYWJfamQtYTA2RERBZXg5VHpfa0VVSUVmT2RiOEp3SzRMTnJfMm4wTXUyZU5VejZ6cXdPNTFZV2djcWdzWW9zdk1tbmVBR1hWQWZKMV91bnNqbThpV2FmRUxfbmF2d3pMLVJYT0toRDRsWDM?oc=5\" target=\"_blank\">Micron posts 15-fold profit surge in boost for global AI stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Financial Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron reported a 15-fold profit surge, a concrete earnings result that is a major market-moving event for a key DRAM ETF holding and signals strong memory-chip demand driven by AI infrastructure investment."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "ecd32a6297841fe4f600cae1c056ca0910aa3718",
+  "source": "scanx.trade",
+  "topic": "fund",
+  "title": "Defiance launches 2X Long DRAM ETF for AI-linked memory exposure - scanx.trade",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVd4RDVoUGJaWmU2WkZHek55ZGtEM1NPVkg4QkhlbzY2V0x6dThpV2hCRTQwSHZsOGFmNGFsWlh2Sm8xd0xyTnBFXzZZbDBENERDVlBMQzQtMURNcU1NdmczRHdxNXlVOFZLWUlNUTlUazN0Q09WOEYzdTdqOGFES2hySnVzZVp5TnNuVUxiRUZ1end3NXlXQUtnQV80STZqWm0yU1NNdHdqakxOMUlXMHMxT201QQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 14:35:39 GMT",
+  "published_ts": 1782398139,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVd4RDVoUGJaWmU2WkZHek55ZGtEM1NPVkg4QkhlbzY2V0x6dThpV2hCRTQwSHZsOGFmNGFsWlh2Sm8xd0xyTnBFXzZZbDBENERDVlBMQzQtMURNcU1NdmczRHdxNXlVOFZLWUlNUTlUazN0Q09WOEYzdTdqOGFES2hySnVzZVp5TnNuVUxiRUZ1end3NXlXQUtnQV80STZqWm0yU1NNdHdqakxOMUlXMHMxT201QQ?oc=5\" target=\"_blank\">Defiance launches 2X Long DRAM ETF for AI-linked memory exposure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "scanx.trade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Defiance has launched a new 2X leveraged long ETF focused on DRAM exposure tied to AI infrastructure demand. This is a concrete fund product launch in the memory semiconductor space, representing a material development for the DRAM ETF ecosystem and investor access to memory-sector upside."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "95fd291719bea3a77c0e13d7bfccf34f8dca2a67",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix aims for $29.4B in landmark Nasdaq debut - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeHNVZkw5S3pvblg4NTB0eHlrN3JWUVhwOTJjMllZZ1dyMkFoX1BFWkZRZjd4UWtxYkJoSlNIc0p0cnhJaGYxZC1DU3FaR0xCbFIyXzdqQkZnUi1yanUtTmlRSTFsVWpJbk44MExkcnEwbTNEYU1Xb25OX2tLbHZKVzU1R1Z6cmFza2l2cEstSGlQUkd3Z1NjV2ZuOGdtZm5Oa05Bai1GaFZKNnVGbzB5bmpsZGJ1TWRGYzZJd3hRV09jRC1qZmMta2dNSFlEeDByTGNJZEhnaWx5LS12dVNiWGVlbEo?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:32:07 GMT",
+  "published_ts": 1782412327,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeHNVZkw5S3pvblg4NTB0eHlrN3JWUVhwOTJjMllZZ1dyMkFoX1BFWkZRZjd4UWtxYkJoSlNIc0p0cnhJaGYxZC1DU3FaR0xCbFIyXzdqQkZnUi1yanUtTmlRSTFsVWpJbk44MExkcnEwbTNEYU1Xb25OX2tLbHZKVzU1R1Z6cmFza2l2cEstSGlQUkd3Z1NjV2ZuOGdtZm5Oa05Bai1GaFZKNnVGbzB5bmpsZGJ1TWRGYzZJd3hRV09jRC1qZmMta2dNSFlEeDByTGNJZEhnaWx5LS12dVNiWGVlbEo?oc=5\" target=\"_blank\">SK Hynix aims for $29.4B in landmark Nasdaq debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is pursuing a landmark Nasdaq listing with a $29.4B valuation. This is a concrete, officially announced corporate action that materially affects fund composition and shareholder structure of a core portfolio company."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "8bdbbde26e44b27ff421d89213a255b9a462dad9",
+  "source": "CBC",
+  "topic": "industry",
+  "title": "Your next Apple laptop, iPad and gaming console just got more expensive. Here's why | CBC News - CBC",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZZcFNiWkV5c0FmZloxcjRGLTNtMWFHVUQ4NTJSM3lRNUR4MFQybWxhaFEwNDlnMmhoSDdBZWZCYzhmWEh0Z2RlS0tOZXdWYjlTTXVqMWhZaW5zTnBsYWcycmg1aThWRFNkelBBbEFOTFM0RGMwekNkUVM2ZjRucVlzZjUxOGs2LXJ5RWRMUW1Wd0FqRVZCMmpLbEJnb2xsN2c?oc=5",
+  "published_at": "Thu, 25 Jun 2026 16:11:33 GMT",
+  "published_ts": 1782403893,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZZcFNiWkV5c0FmZloxcjRGLTNtMWFHVUQ4NTJSM3lRNUR4MFQybWxhaFEwNDlnMmhoSDdBZWZCYzhmWEh0Z2RlS0tOZXdWYjlTTXVqMWhZaW5zTnBsYWcycmg1aThWRFNkelBBbEFOTFM0RGMwekNkUVM2ZjRucVlzZjUxOGs2LXJ5RWRMUW1Wd0FqRVZCMmpLbEJnb2xsN2c?oc=5\" target=\"_blank\">Your next Apple laptop, iPad and gaming console just got more expensive. Here's why | CBC News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "CBC report on rising costs for consumer electronics (Apple laptops, iPads, gaming consoles) attributing price increases to supply chain and component costs. Relevant as a soft indicator of downstream memory/semiconductor pricing pressure, but lacks concrete DRAM/NAND spot prices, supply announcements, or quantified memory cost data. Opinion/analysis rather than a hard pricing event."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "1d5d36fe29452999cf9f7abc6d7b2a900020633a",
+  "source": "KIRO 7 News Seattle",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - KIRO 7 News Seattle",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXFmOTJzRms5U2pjczlpejhDbEtyVXAwa183Vy1BaDlsQVo4SjMzN19XN1ZvejNlMzZ4ME9BSHc1LS1qODdFWms4UUsweDFZT25aSE4tWTZCbDIyMTdmMS15dmlsRTRpeWlvVXpJNVJKQzNFQTg1cENxRDI3OU1mSTg5aGtSdVpOcXJPZE5fNEgxeGw0WG5XRnln0gGaAUFVX3lxTE81cWY5MnNGazlTamNzOWl6OENsS3JVcDBrXzdXLUFoOWxBWjhKMzM3X1c3Vm96M2UzNngwT0FIdzUtLWo4N0VaazhRSzB4MVlPblpITi1ZNkJsMjIxN2YxLXl2aWxFNGl5aW9Vekk1UkpDM0VBODVwQ3FEMjc5TWZJODloa1J1Wk5xck9kTl80SDF4bDRYbldGeWc?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:53:55 GMT",
+  "published_ts": 1782413635,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXFmOTJzRms5U2pjczlpejhDbEtyVXAwa183Vy1BaDlsQVo4SjMzN19XN1ZvejNlMzZ4ME9BSHc1LS1qODdFWms4UUsweDFZT25aSE4tWTZCbDIyMTdmMS15dmlsRTRpeWlvVXpJNVJKQzNFQTg1cENxRDI3OU1mSTg5aGtSdVpOcXJPZE5fNEgxeGw0WG5XRnln0gGaAUFVX3lxTE81cWY5MnNGazlTamNzOWl6OENsS3JVcDBrXzdXLUFoOWxBWjhKMzM3X1c3Vm96M2UzNngwT0FIdzUtLWo4N0VaazhRSzB4MVlPblpITi1ZNkJsMjIxN2YxLXl2aWxFNGl5aW9Vekk1UkpDM0VBODVwQ3FEMjc5TWZJODloa1J1Wk5xck9kTl80SDF4bDRYbldGeWc?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIRO 7 News Seattle</font>",
+  "corroboration": {
+   "count": 5,
+   "sources": [
+    "KIRO 7 News Seattle",
+    "The Journal Gazette",
+    "KPAX News",
+    "The Spec",
+    "WNEP"
+   ],
+   "titles": [
+    "Apple increases prices for Macs and iPads, blames shortage of memory chips - The Journal Gazette",
+    "Apple is hiking the prices of MacBooks and iPads due to the memory chip shortage - KPAX News",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - The Spec",
+    "Microsoft ups Xbox console prices again amid rising cost of memory chips - WNEP"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple raises Mac and iPad prices citing memory chip shortage. This signals tight supply conditions and pricing power in the memory market, supporting demand narrative for DRAM holdings, but is based on Apple's statement rather than a confirmed supply shock or price index move."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "e474666beb532c74f900c95152f58b7dcca29978",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXdaRmE2YjZhQnhKeUVBczVfYTJfZzlJYzduVmktNUVObkE1Q1l1eWFoRktKT1NMZ0hoMHBjZTBQc1Nkd1J2SmdIdkExMGNiRUFTLVFhYWxWTDBfQ2trU2xIOWtFa0s3b09oNVFMNGJCS1Fud0F6SFlTNE1PNFhvRV9IakFRRUpBR3JidTIxN3daUjc0TFJWdzZyUHFSQQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 21:00:05 GMT",
+  "published_ts": 1782421205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOXdaRmE2YjZhQnhKeUVBczVfYTJfZzlJYzduVmktNUVObkE1Q1l1eWFoRktKT1NMZ0hoMHBjZTBQc1Nkd1J2SmdIdkExMGNiRUFTLVFhYWxWTDBfQ2trU2xIOWtFa0s3b09oNVFMNGJCS1Fud0F6SFlTNE1PNFhvRV9IakFRRUpBR3JidTIxN3daUjc0TFJWdzZyUHFSQQ?oc=5\" target=\"_blank\">As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix compete in HBM (high-bandwidth memory) while Chinese manufacturers gain share in commodity DRAM/NAND. Story addresses HBM demand dynamics and competitive positioning of two major fund holdings but appears to be analysis/commentary rather than reporting a concrete event or hard number."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "3e28a9cc62a1ba0b3c8ab1d18bea192facab2cfe",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Nvidia edges higher after Micron forecast, AI chip shares stay in focus - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnpLM1d1S3hQaGFHUzlWcURUWF9YUmt4RENqWTV5YjRNRmxJOXYyekFkenNVMUh3VUdyY1NZOVNLdlktSElPcThkMEtsdlZ0enhmQ3pmdWxkc0RXLTY0Q1liTnl6bS1UT1F5WWw2VjhTZFE1NnRWa0hiVnZkVnVFWUtaUC1TMDNKNER6dXNnMjNfcndoMnRvME9jSWpLV0lMel95WHVkc05kV2RGWDNSN0RVM3FVMW5fZ1hCaUxkTFVZWlpSRmhzUQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 19:35:50 GMT",
+  "published_ts": 1782416150,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnpLM1d1S3hQaGFHUzlWcURUWF9YUmt4RENqWTV5YjRNRmxJOXYyekFkenNVMUh3VUdyY1NZOVNLdlktSElPcThkMEtsdlZ0enhmQ3pmdWxkc0RXLTY0Q1liTnl6bS1UT1F5WWw2VjhTZFE1NnRWa0hiVnZkVnVFWUtaUC1TMDNKNER6dXNnMjNfcndoMnRvME9jSWpLV0lMel95WHVkc05kV2RGWDNSN0RVM3FVMW5fZ1hCaUxkTFVZWlpSRmhzUQ?oc=5\" target=\"_blank\">Nvidia edges higher after Micron forecast, AI chip shares stay in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Nvidia rose following Micron's forecast announcement, with AI chip stocks remaining in focus. Micron is a key DRAM ETF holding; however, this piece reports stock movement without disclosing a concrete catalyst from Micron itself—only that it provided a forecast. Without details on the actual forecast content or its specifics, this is analyst/market commentary rather than a confirmed event."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "449e6e27fa3421dd5a25e666d2b5b0d1b5444638",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Citi Just Raised Its Price Target on SanDisk Stock. Here's Why. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUk5sSTQ5dlZQT0gwMHp2UkM1M3ZlbGRDWkFLUmstZmJUbl9jZTMtSm0yWnN1ZEc2bWd4NEItZmExSFZCamNoTXBJOFp3Z2otTFBoSTRCaWhDWFVmTS1La3RmTXplR1BtNG05bXpyRXU2aFh3TGhjc2tQUkFmODVObDFzTE93SW5BOTdEM0xTdVJDdDAwSDJBV1BkQktrV1hIUTBNUw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 19:03:41 GMT",
+  "published_ts": 1782414221,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUk5sSTQ5dlZQT0gwMHp2UkM1M3ZlbGRDWkFLUmstZmJUbl9jZTMtSm0yWnN1ZEc2bWd4NEItZmExSFZCamNoTXBJOFp3Z2otTFBoSTRCaWhDWFVmTS1La3RmTXplR1BtNG05bXpyRXU2aFh3TGhjc2tQUkFmODVObDFzTE93SW5BOTdEM0xTdVJDdDAwSDJBV1BkQktrV1hIUTBNUw?oc=5\" target=\"_blank\">Citi Just Raised Its Price Target on SanDisk Stock. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citi raised its price target on SanDisk (SNDK), a DRAM ETF holding. Analyst price-target upgrades are relevant sentiment signals but represent opinion/forecast rather than concrete market events, warranting an impact of 3."
+  },
+  "buffered_ts": 1782425978.8739827
+ },
+ {
+  "id": "c334f880ba7aa8f9a14e87de037a59de52446ddb",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Micron Earnings Spark Memory Stock Rally - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWRzeEk3M0t1YU9CaFRzQktrM0JJUHlydVFPODAyLVkyenpRTzFmd0N0cE9fOEpaODdULU4ybmR6WUh6T3YxdDhhMFBYNHR3UGFyZlJHYXo2cFZ5M1VxYXhvWUkza25ub1VFaDM3d3owMk5tY3ZOdDFDZ2pkemdST09XQmFMMVgtSVVxZm9LbnFCS3d3X3BDaXRvZXljQXlxVnc?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:48:00 GMT",
+  "published_ts": 1782413280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWRzeEk3M0t1YU9CaFRzQktrM0JJUHlydVFPODAyLVkyenpRTzFmd0N0cE9fOEpaODdULU4ybmR6WUh6T3YxdDhhMFBYNHR3UGFyZlJHYXo2cFZ5M1VxYXhvWUkza25ub1VFaDM3d3owMk5tY3ZOdDFDZ2pkemdST09XQmFMMVgtSVVxZm9LbnFCS3d3X3BDaXRvZXljQXlxVnc?oc=5\" target=\"_blank\">Micron Earnings Spark Memory Stock Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron earnings report triggered a rally in memory stocks. However, the snippet provides no concrete earnings figures, guidance changes, or specific catalysts—only that a price move occurred. This is a price-move story without disclosed fundamentals, warranting a 3."
+  },
+  "buffered_ts": 1782425978.8739827
  }
 ]
