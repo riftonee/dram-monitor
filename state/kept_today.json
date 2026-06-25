@@ -1,1 +1,491 @@
-[]
+[
+ {
+  "id": "009eb06077b86cfe5b2482b37459f299cc0ec4ed",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Micron Soars 17%, SanDisk Jumps 15%, Western Digital Climbs 13% After Blowout Quarter Locks In $100B of AI Memory Demand - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzNEaVlJdl9lWE1HV08wRlNNaUpHQ2NLa2wybnNGTS1iemZYYlBLRF95Z0NBWnVZSjg2YmhFOWJjR2xtTDcwelR1elgtVnJrakdKV2tmQl9JMzhCUENpRzJDemdnUmg1eDRJMHhNVkpNaDlZel8yOHhIUGl6azZGSVA4clFkWE1fY0o1aHk4RTJ4TXBCSVQ5UTNYdEVVNkM0ZXNzWlJEdnI1UDI1NXdhX1NuOC12bFFwRGZhVWZyNmFNTUhCSHlPcHkyNmRKQVB6Ti04TkxfOFZWQVFGWXRpaGVQWm9lWDlPSFdxZlVZTQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 13:20:01 GMT",
+  "published_ts": 1782393601,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzNEaVlJdl9lWE1HV08wRlNNaUpHQ2NLa2wybnNGTS1iemZYYlBLRF95Z0NBWnVZSjg2YmhFOWJjR2xtTDcwelR1elgtVnJrakdKV2tmQl9JMzhCUENpRzJDemdnUmg1eDRJMHhNVkpNaDlZel8yOHhIUGl6azZGSVA4clFkWE1fY0o1aHk4RTJ4TXBCSVQ5UTNYdEVVNkM0ZXNzWlJEdnI1UDI1NXdhX1NuOC12bFFwRGZhVWZyNmFNTUhCSHlPcHkyNmRKQVB6Ti04TkxfOFZWQVFGWXRpaGVQWm9lWDlPSFdxZlVZTQ?oc=5\" target=\"_blank\">Micron Soars 17%, SanDisk Jumps 15%, Western Digital Climbs 13% After Blowout Quarter Locks In $100B of AI Memory Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "Micron Soars 17%, SanDisk Jumps 15%, Western Digital Climbs 13% After Blowout Quarter Locks In $100B of AI Memory Demand - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron, SanDisk, and Western Digital all posted blowout quarterly results with confirmed $100B in locked AI memory demand, driving substantial stock gains (Micron +17%, SanDisk +15%, WDC +13%). This is a concrete earnings-driven event with material impact on three major DRAM ETF holdings."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "3c25e5c577aea526ec1c07011aa03e6a0956b23e",
+  "source": "Fast Company",
+  "topic": "industry",
+  "title": "Memory chip stocks are on fire again: MU, SNDK, WDC, and STX soar as Micron earnings stun Wall Street - Fast Company",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm01c25PX05DOU5lSU5LLWxHQ0RMWlNyVGJtV3hSemM2enMyQklvdVF6YjNIaG9HWWpjS3MwZHB0VHJGV1ZQTXB1R05RbE5mZ3lBWWhFaC1WQjgzaHJBSHpqNWJ2emhtcC1jQkVTYnZadnVjWDgtWU51Y3ZzazFBMFJGUDFxZ08yNUpxUlBfZ2xlUnFzTjR1SmNxQ0lyelE?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:06:20 GMT",
+  "published_ts": 1782389180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm01c25PX05DOU5lSU5LLWxHQ0RMWlNyVGJtV3hSemM2enMyQklvdVF6YjNIaG9HWWpjS3MwZHB0VHJGV1ZQTXB1R05RbE5mZ3lBWWhFaC1WQjgzaHJBSHpqNWJ2emhtcC1jQkVTYnZadnVjWDgtWU51Y3ZzazFBMFJGUDFxZ08yNUpxUlBfZ2xlUnFzTjR1SmNxQ0lyelE?oc=5\" target=\"_blank\">Memory chip stocks are on fire again: MU, SNDK, WDC, and STX soar as Micron earnings stun Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fast Company"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron (MU) delivered earnings that exceeded Wall Street expectations, triggering a broad rally in memory-chip stocks including SNDK, WDC, and STX. This is a concrete, market-moving earnings event directly impacting multiple fund holdings."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "ba98bc070e55b91358ef4da89daab12a0a94b0b0",
+  "source": "富途牛牛",
+  "topic": "industry",
+  "title": "Morgan Stanley raises CoWoS demand forecast: to reach 2.69 million wafers by 2027, with CPUs and ASICs emerging as new drivers - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEh0TERqaG9OemlvRmJacXFXMFY4VVp6UjlfQXJmaVFvZy1COTlwcU5ZMkRuTE54U2JTRUNxcWNFdFZfcENCWkVKSU5SSG9FTFg0RzVlU1R6Z3diVEZOWjR1a3RuX190VU9HOEF0SVZIMHR4YW83T2x3MFFBSVExWjZ0TlRqdVFPTV9DQVlxbWdsREVkT0hRNF80MWVNOGc?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:03:00 GMT",
+  "published_ts": 1782388980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEh0TERqaG9OemlvRmJacXFXMFY4VVp6UjlfQXJmaVFvZy1COTlwcU5ZMkRuTE54U2JTRUNxcWNFdFZfcENCWkVKSU5SSG9FTFg0RzVlU1R6Z3diVEZOWjR1a3RuX190VU9HOEF0SVZIMHR4YW83T2x3MFFBSVExWjZ0TlRqdVFPTV9DQVlxbWdsREVkT0hRNF80MWVNOGc?oc=5\" target=\"_blank\">Morgan Stanley raises CoWoS demand forecast: to reach 2.69 million wafers by 2027, with CPUs and ASICs emerging as new drivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Morgan Stanley raised its CoWoS (advanced packaging) demand forecast to 2.69 million wafers by 2027, citing CPUs and ASICs as emerging demand drivers alongside existing AI demand. CoWoS capacity is a critical bottleneck for HBM production and AI-infrastructure chips, directly affecting memory-semiconductor demand and the growth trajectory for DRAM holdings."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "67f7f54fbd28e29e89b8380cd2188d3e16055f28",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Western Digital And Seagate Stocks Get Boost From Big Micron Earnings Beat - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHJJQjR3c1dWWUJHWmg5Z2hySnZKRldkNkhCeVRES3dacHpiazIwRHROa2dUd2xJeEpQYkhLcFZ4M3UxNEVYUVM5TGttcW9qTTl4R0R1dFNtRWhucjZLZDRZR0hIeEJCVno4RlFiT0ZxZk9lQ3hZNDFYbzNWeEpBYXFJWjhoRkpqSmJMMzB1WU9QMlduRFFiTW5R?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:22:00 GMT",
+  "published_ts": 1782390120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONHJJQjR3c1dWWUJHWmg5Z2hySnZKRldkNkhCeVRES3dacHpiazIwRHROa2dUd2xJeEpQYkhLcFZ4M3UxNEVYUVM5TGttcW9qTTl4R0R1dFNtRWhucjZLZDRZR0hIeEJCVno4RlFiT0ZxZk9lQ3hZNDFYbzNWeEpBYXFJWjhoRkpqSmJMMzB1WU9QMlduRFFiTW5R?oc=5\" target=\"_blank\">Western Digital And Seagate Stocks Get Boost From Big Micron Earnings Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron delivered an earnings beat, which lifted sentiment on peer storage/memory stocks Western Digital and Seagate. This reflects concrete positive earnings results for a key DRAM ETF holding (Micron) with measurable spillover impact on other fund holdings."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "410fd2b673d92f7151098ee5825e5aada1bba090",
+  "source": "WTVB",
+  "topic": "holding",
+  "title": "Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan - WTVB",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTMweWNTem91U0dKMXdmNV9HbndVd0NjSzEyTjZpbTg1bTJmSDZUc0YzUmlWY19OWjRjMkhYNkY1TXhsX3gzMkQtZVg1RjhVbkFaa1Ffdlp4T3B2YVo3V0tCeHRGdUVLcm1DR2E3VzE1SmE4cWlEVXFVbjlKRXZzbnRyZ0dxMVhFM25yZkZUbTJTR2lrV3M1U3N4Z0NONmQzTUNKRXNFNnM?oc=5",
+  "published_at": "Thu, 25 Jun 2026 06:04:11 GMT",
+  "published_ts": 1782367451,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTMweWNTem91U0dKMXdmNV9HbndVd0NjSzEyTjZpbTg1bTJmSDZUc0YzUmlWY19OWjRjMkhYNkY1TXhsX3gzMkQtZVg1RjhVbkFaa1Ffdlp4T3B2YVo3V0tCeHRGdUVLcm1DR2E3VzE1SmE4cWlEVXFVbjlKRXZzbnRyZ0dxMVhFM25yZkZUbTJTR2lrV3M1U3N4Z0NONmQzTUNKRXNFNnM?oc=5\" target=\"_blank\">Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WTVB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported blowout earnings results, and SK Hynix announced a US listing plan. Both are concrete developments affecting major fund holdings—Micron earnings are a confirmed material event, and SK Hynix's US listing decision is an officially announced corporate action. Korean chip shares rallied on these catalysts."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "0ce165ea6985476b7399c61cefced9fa81ebc53e",
+  "source": "Yahoo Finance Singapore",
+  "topic": "fund",
+  "title": "Defiance Launches DRAL: 2X Long DRAM ETF - Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUpaUDVZRE1LRlk3c0hTVFBOV3M4Qm9YcFFJM2pJcmRvY3BMbkp6LVhsMzVjaXpSWHNFZXB2WE9RcEcyWm1JVnl3YmN5YUZMSHFyR2VLNE45RExaRkZ2dGFGeml6NU5UNmlXT3V0QjdIMFV5LUtXcDVLOFJncXgyUEU3b0FFUQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 13:20:00 GMT",
+  "published_ts": 1782393600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUpaUDVZRE1LRlk3c0hTVFBOV3M4Qm9YcFFJM2pJcmRvY3BMbkp6LVhsMzVjaXpSWHNFZXB2WE9RcEcyWm1JVnl3YmN5YUZMSHFyR2VLNE45RExaRkZ2dGFGeml6NU5UNmlXT3V0QjdIMFV5LUtXcDVLOFJncXgyUEU3b0FFUQ?oc=5\" target=\"_blank\">Defiance Launches DRAL: 2X Long DRAM ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance Singapore"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Defiance has launched DRAL, a 2X leveraged long DRAM ETF. This is a concrete new fund product in the memory-semiconductor ETF space that directly competes with or complements DRAM; it represents an official product launch with structural implications for the sector's ETF ecosystem."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "f9a5f4f39289c8e1aeec9ebabbbc6640888f469c",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix’s $29 bln US debut may rewrite ADR trade - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFVOXUyYjhWQ29YcEl5OFZubUgtd1hQeWlfT2lSZzRrU1p0T0YxYjRTbVhnWnlmN2RKQkNRRHlPcl92SmVoR1FpZnVNQ20xOFdrWGRaLWdlVERWQlBua0Z5OU5ndjlSOERUSVJDYTRNUzFRSXRtYXJkTWRQQjJ4bjdEcG1xR3VLTHZ2Y3pDNE5HWkpIb3NQSGxTb3ZxZ1JDUlR2bUZ2SnpuSzhvdnphczcwWVJVY25xN2c?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:00:00 GMT",
+  "published_ts": 1782388800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFFVOXUyYjhWQ29YcEl5OFZubUgtd1hQeWlfT2lSZzRrU1p0T0YxYjRTbVhnWnlmN2RKQkNRRHlPcl92SmVoR1FpZnVNQ20xOFdrWGRaLWdlVERWQlBua0Z5OU5ndjlSOERUSVJDYTRNUzFRSXRtYXJkTWRQQjJ4bjdEcG1xR3VLTHZ2Y3pDNE5HWkpIb3NQSGxTb3ZxZ1JDUlR2bUZ2SnpuSzhvdnphczcwWVJVY25xN2c?oc=5\" target=\"_blank\">SK Hynix’s $29 bln US debut may rewrite ADR trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "TradingView",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "SK Hynix eyes $29B US stock offering - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion US market debut (likely an ADR listing or major capital raise in the US), a concrete strategic event that materially affects the holding's market access, valuation, and trading dynamics for the fund."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "879465659af78de570d930dac8463d85ec24d435",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Here are Thursday's biggest analyst calls: Micron, Apple, Intel, SanDisk, Netflix, Qualcomm, CoreWeave & more - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMm95amZoSlpwUjBwdWdpSWN3QUdyaDBORFJzb29EWEZQLWFVRU1XZWRkd2w4VE5YbGV5Tk1oWWxkM0dPRDZmNk53RDluSXBsUlFOYS1vb1Q5Y0VyQlpOaHRwMEdFOWdncVFwRG5XNVhJX0s5c19vdFVWR1U1WTBTMWJJeFRKcnBmT0pFaFdyRlczQl9jaG1XUg?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:26:46 GMT",
+  "published_ts": 1782390406,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMm95amZoSlpwUjBwdWdpSWN3QUdyaDBORFJzb29EWEZQLWFVRU1XZWRkd2w4VE5YbGV5Tk1oWWxkM0dPRDZmNk53RDluSXBsUlFOYS1vb1Q5Y0VyQlpOaHRwMEdFOWdncVFwRG5XNVhJX0s5c19vdFVWR1U1WTBTMWJJeFRKcnBmT0pFaFdyRlczQl9jaG1XUg?oc=5\" target=\"_blank\">Here are Thursday's biggest analyst calls: Micron, Apple, Intel, SanDisk, Netflix, Qualcomm, CoreWeave & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "CNBC roundup of analyst calls featuring holdings Micron, SanDisk, and others. Without details on specific price targets, guidance changes, or concrete upgrades/downgrades, this is analyst commentary that qualifies as relevant but soft opinion rather than a settled event."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "29e160de2fa9dcb056128d74dc5f910d4febf95a",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Micron Vs. Western Digital Vs. SanDisk: Which AI Memory Stock Looks Best After Massive 2026 Rallies? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN3hDeFNVR3QxbHlOTnZzSlBxM3ZLVXBoeXNJNzBxSXUxOXRTRnZvamxfb0dsMUJhOVNoVUN4Q1Q0Q2hXOXVTRDFENHdiYUlJWkp6ZXo3UTFTeU5YVE05NmNYcWNUNUR1c1IzTUg4Vl81Wlp1dVZwWjhPX3hRaGpEWndrQU04TEx1S1Y0dWRTamhYRmQ2NzVIbmpjNzRlTHpsV0lvTXNGeml4bjBHZTlaRFRab1RQbkI0WjlFOXhKUi00MTJtNlZGQllhYWJKc2VEckdFQUpBaW5GZktUS3JleE85QUZENklkaFoyVkVrM0cyQzA?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:44:40 GMT",
+  "published_ts": 1782391480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN3hDeFNVR3QxbHlOTnZzSlBxM3ZLVXBoeXNJNzBxSXUxOXRTRnZvamxfb0dsMUJhOVNoVUN4Q1Q0Q2hXOXVTRDFENHdiYUlJWkp6ZXo3UTFTeU5YVE05NmNYcWNUNUR1c1IzTUg4Vl81Wlp1dVZwWjhPX3hRaGpEWndrQU04TEx1S1Y0dWRTamhYRmQ2NzVIbmpjNzRlTHpsV0lvTXNGeml4bjBHZTlaRFRab1RQbkI0WjlFOXhKUi00MTJtNlZGQllhYWJKc2VEckdFQUpBaW5GZktUS3JleE85QUZENklkaFoyVkVrM0cyQzA?oc=5\" target=\"_blank\">Micron Vs. Western Digital Vs. SanDisk: Which AI Memory Stock Looks Best After Massive 2026 Rallies?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Benzinga analyst comparison of Micron, Western Digital, and SanDisk performance and prospects following 2026 rallies. Opinion-based assessment of which AI memory stock appears most attractive; lacks concrete earnings results, guidance changes, or confirmed catalysts."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "1849fef81944f3631529caee12b611f1a09343f5",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Western Digital clears new highs, shares surge after Micron-fueled memory rally - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSmVCSXU5bWxzQlpvNzFhQ1hGY1FlUGNkQnRNYWtaRl92SmZrckdwSlNQYXlHYkszSG9kUzNWUWdtSmVFUlhTNGkzOXJGY1BVWWtjZ2dDUkNhUlJ6UUxieVFPZnZTZndVVTRsOHVLQTRhcEVWcDFEM3UzZFdnOEk0eGFiNUVhYWRKSUFGcThnb0ZDeElaRkN3cjJRVm5sUkZtM3ViZVBIMExrQmpRbkpVMllnR3pIY0w5STlVVjZla005ZmdtZGlyR0VyWQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:54:54 GMT",
+  "published_ts": 1782392094,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSmVCSXU5bWxzQlpvNzFhQ1hGY1FlUGNkQnRNYWtaRl92SmZrckdwSlNQYXlHYkszSG9kUzNWUWdtSmVFUlhTNGkzOXJGY1BVWWtjZ2dDUkNhUlJ6UUxieVFPZnZTZndVVTRsOHVLQTRhcEVWcDFEM3UzZFdnOEk0eGFiNUVhYWRKSUFGcThnb0ZDeElaRkN3cjJRVm5sUkZtM3ViZVBIMExrQmpRbkpVMllnR3pIY0w5STlVVjZla005ZmdtZGlyR0VyWQ?oc=5\" target=\"_blank\">Western Digital clears new highs, shares surge after Micron-fueled memory rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital shares rising following a Micron-driven memory sector rally. Stock price movement is noted but the underlying catalyst for the broader memory rally is not disclosed in the snippet, making this a price-move story without a confirmed concrete event."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "f0498c0f5c697867d0749fbb0927cc92dfb3423c",
+  "source": "TradingKey",
+  "topic": "industry",
+  "title": "Is Micron the Next Nvidia? Why the 2026 \"Memory Crunch\" Makes MU Stock a Top AI Buy - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUJ2aFRHTHd6WVZXaUZrUVlJODF1ZkotSmNFSllEYmtCa3VwN3dLRG41WTQ4VE4wZ1Y4NDMtMFkya1drdU1IVVU3WkpxLWtDUEtkRU50N29MUUEtckhVRXV0MFF0aVZIQ25OcjBXbHQ4a3VXOWtnSzhKa3Q1Z000dmI2d1Y1MEdZVlNSWkdRQkpYaER0YWNCcHdNVXhwYVpHUmZQMEJZejZrMlJ4WnJGVk1GT296TkpMaFVvUTlEWW1PS1ZWSFdfSFJVTkxsb3dNUkpYNw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 07:30:21 GMT",
+  "published_ts": 1782286221,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUJ2aFRHTHd6WVZXaUZrUVlJODF1ZkotSmNFSllEYmtCa3VwN3dLRG41WTQ4VE4wZ1Y4NDMtMFkya1drdU1IVVU3WkpxLWtDUEtkRU50N29MUUEtckhVRXV0MFF0aVZIQ25OcjBXbHQ4a3VXOWtnSzhKa3Q1Z000dmI2d1Y1MEdZVlNSWkdRQkpYaER0YWNCcHdNVXhwYVpHUmZQMEJZejZrMlJ4WnJGVk1GT296TkpMaFVvUTlEWW1PS1ZWSFdfSFJVTkxsb3dNUkpYNw?oc=5\" target=\"_blank\">Is Micron the Next Nvidia? Why the 2026 \"Memory Crunch\" Makes MU Stock a Top AI Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece suggesting Micron could benefit from a predicted 2026 memory shortage driven by AI demand. The 'memory crunch' thesis is speculative analysis rather than a confirmed event or hard development, making it relevant but soft impact."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "8c2bd3c942167793202a9730d899dc8fee5d7a61",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Citi Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,500 - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGpIZXZUYk1HNFUxeDNTX3ZScHpTLVZQMm1jQTJpNG5WTWltUjlVT0lFUkxhYXlRb1pxSTF1ODRIZC1FSW9EREh3RDFhMFVnT2RZWGlhaGY5NERUYlVfeVJkMTY0ZktMTm5SOU1hVFRib2ZCbHl6ZE5sN1ZJQlIxcnctWjJHUEZuUnkyRGpCbzJCQUZVaDJsX0xXOTlpSGFRdTlFNVlmME9Xdw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:44:43 GMT",
+  "published_ts": 1782391483,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGpIZXZUYk1HNFUxeDNTX3ZScHpTLVZQMm1jQTJpNG5WTWltUjlVT0lFUkxhYXlRb1pxSTF1ODRIZC1FSW9EREh3RDFhMFVnT2RZWGlhaGY5NERUYlVfeVJkMTY0ZktMTm5SOU1hVFRib2ZCbHl6ZE5sN1ZJQlIxcnctWjJHUEZuUnkyRGpCbzJCQUZVaDJsX0xXOTlpSGFRdTlFNVlmME9Xdw?oc=5\" target=\"_blank\">Citi Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citi maintains Buy rating on SanDisk (SNDK), a DRAM ETF holding, and raises price target to $2,500. Analyst price-target change is relevant to the holding but represents opinion/forecast rather than a confirmed market-moving event."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "56e94e0bcf3f76274ca22d6bbdc701b5059f01b9",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SanDisk stock target lifted by Citi on continued demand strength - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFV6WEVVVk90RU9YdXp0cTBPYWRMdFUwTjZmRkd2ajVVY24ySHlqOGF6bnZOWF9GaTZzVVRia19qdl9IQ2V6X0xyZmdyX1RHMlA0amhDRjUzTlZKX3pXTHhnXzVHU0FqNWVyN0xMbGFfVEZfTmFaM3hmSVY4a2JvZHRhQUUzTEZjYTV6Mk51dUo0dkNBaVg0Y21IQzlxemtjMGtnWVNUb0xvUUQtR0ZZdnJFRi16ZlBkODE5N3Nn?oc=5",
+  "published_at": "Thu, 25 Jun 2026 13:10:59 GMT",
+  "published_ts": 1782393059,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORFV6WEVVVk90RU9YdXp0cTBPYWRMdFUwTjZmRkd2ajVVY24ySHlqOGF6bnZOWF9GaTZzVVRia19qdl9IQ2V6X0xyZmdyX1RHMlA0amhDRjUzTlZKX3pXTHhnXzVHU0FqNWVyN0xMbGFfVEZfTmFaM3hmSVY4a2JvZHRhQUUzTEZjYTV6Mk51dUo0dkNBaVg0Y21IQzlxemtjMGtnWVNUb0xvUUQtR0ZZdnJFRi16ZlBkODE5N3Nn?oc=5\" target=\"_blank\">SanDisk stock target lifted by Citi on continued demand strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citi lifted SanDisk's stock price target citing continued demand strength. This is analyst opinion/price-target revision rather than a concrete event, making it soft but relevant to the holding."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "56bc24067ee7346e8162dcf279c078bda189a5ea",
+  "source": "Bloomberg",
+  "topic": "holding",
+  "title": "SK Hynix ADR Plans Leave Arb Traders Waiting on One Key Answer - Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWtmQTBkUmdYa3BmSHN0RnFOU0RUaTBXMWtWUnhhWkNxaVlJY0ZwS1ZiakUxV0tiRWRXSnk5NTlzazRsdW5rQnNXbHBuSG1HWGk4YkVWNFIxbU5Wa3Y1UXNzTGxIYjVWTTVCelVMMDBFbmV1eTFndU40NXpSRTZCbWx1N1dzRl9UWVlHQk50b0RpZ2tPbVdVbEtReWlYNjBMbzlLd2xkR0JaT2VUT1FuTGNwYw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 09:44:08 GMT",
+  "published_ts": 1782380648,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWtmQTBkUmdYa3BmSHN0RnFOU0RUaTBXMWtWUnhhWkNxaVlJY0ZwS1ZiakUxV0tiRWRXSnk5NTlzazRsdW5rQnNXbHBuSG1HWGk4YkVWNFIxbU5Wa3Y1UXNzTGxIYjVWTTVCelVMMDBFbmV1eTFndU40NXpSRTZCbWx1N1dzRl9UWVlHQk50b0RpZ2tPbVdVbEtReWlYNjBMbzlLd2xkR0JaT2VUT1FuTGNwYw?oc=5\" target=\"_blank\">SK Hynix ADR Plans Leave Arb Traders Waiting on One Key Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR (American Depositary Receipt) strategic plans are under discussion, with arbitrage traders awaiting clarity on a key decision. The story appears to focus on ADR structure and trading considerations rather than concrete memory business developments, but SK Hynix is a core holding and ADR-related corporate actions can affect the fund's NAV and holdings."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "dfaac3e9b619e7c37f6d0290a0dc792ad506b478",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron shares jump as chip shortage projected to last beyond 2027 - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnR1b1k0QWlpSXgyTk9hejJlWTVlZ0NOU3hfbW5OYWhOOHpCb05QWmh5MVNDM0l1NWRfbVkzWlIzVGZHczVaNFBnM1gtQzY2OFAyX1dPc2wwVmdkSnJNaFdUV2U1UTZ0bG8xLWRUNWlPTWVqQnlFaTNaUDdUT1hxSlVuWGdCc0FkTHBfcjlNRVJ2bWRxRkZhdXZsU0s2ckhMVEx2XzBTYUJCdTloZ01oemFDNlJQQVdqUldnZlhXOVY5SWdxVzlySmNkaEtsUFJIRHpxM1llMUdURkQyM1E?oc=5",
+  "published_at": "Wed, 24 Jun 2026 23:37:18 GMT",
+  "published_ts": 1782344238,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnR1b1k0QWlpSXgyTk9hejJlWTVlZ0NOU3hfbW5OYWhOOHpCb05QWmh5MVNDM0l1NWRfbVkzWlIzVGZHczVaNFBnM1gtQzY2OFAyX1dPc2wwVmdkSnJNaFdUV2U1UTZ0bG8xLWRUNWlPTWVqQnlFaTNaUDdUT1hxSlVuWGdCc0FkTHBfcjlNRVJ2bWRxRkZhdXZsU0s2ckhMVEx2XzBTYUJCdTloZ01oemFDNlJQQVdqUldnZlhXOVY5SWdxVzlySmNkaEtsUFJIRHpxM1llMUdURkQyM1E?oc=5\" target=\"_blank\">Micron shares jump as chip shortage projected to last beyond 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Micron shares rose on projection that chip shortage will extend beyond 2027, supporting memory demand outlook. However, the story focuses on a projection/forecast rather than a confirmed event or hard guidance change from the company, making it analyst opinion or analysis rather than a concrete market catalyst."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "dc6123c7156fd8000c5ba3e86bd88b1d047adbc4",
+  "source": "Investing.com",
+  "topic": "fund",
+  "title": "Why is Roundhill Memory ETF stock surging 14% today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzNWV0tubkY1YllnTFJ4YVVMcVM0cUQ5Q1Rsang4VDNvbFl0WEhTUmxyMjFnT3ZjMHBLemc4OVRUenpqYU83ZlpoOWJLQkZHTFF1YkRCVjV0U0JpTlJTbWhsVjNYSW91WDNkTC1GN1RNSkhJVFRiOUlMakNaNXJjeDlJTnV1UWI3bV9LRWlhd1VBckVFYnVmOWdKeE0xMjdVcGpoZGtKSzZJeW4tOFAzZ2NR?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:59:21 GMT",
+  "published_ts": 1782392361,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzNWV0tubkY1YllnTFJ4YVVMcVM0cUQ5Q1Rsang4VDNvbFl0WEhTUmxyMjFnT3ZjMHBLemc4OVRUenpqYU83ZlpoOWJLQkZHTFF1YkRCVjV0U0JpTlJTbWhsVjNYSW91WDNkTC1GN1RNSkhJVFRiOUlMakNaNXJjeDlJTnV1UWI3bV9LRWlhd1VBckVFYnVmOWdKeE0xMjdVcGpoZGtKSzZJeW4tOFAzZ2NR?oc=5\" target=\"_blank\">Why is Roundhill Memory ETF stock surging 14% today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com",
+    "Benzinga"
+   ],
+   "titles": [
+    "Why Is Western Digital Stock Surging Thursday? - Benzinga"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) surged 14% today. The headline poses the question but provides no disclosed catalyst or underlying cause for the move—it is a price-movement story without stated fundamental news. Relevant to the fund itself but lacking concrete event or hard number to justify higher impact."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "076412c64c4366429eb4c518851e279d132669b1",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk in focus as Citi ups price target, opens upside view - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUtrQXZDODR2Z1dnbE9nR2tES0VJT0c4elpVYzNLMHU1R2VMOUU0U1lDWUJUZlcxQ194Vzh0QXk2dS1WRHNtOFlHUm1ZbjM5NlVWMlBaRmtfQ2syMFE4LWJsQThqQzhVRTZSR3oxd0xzZmx5M25IeHlxUVdaOFU2OV9wcUJiT1NOSFVfUEVnc24yeUZ0MVBETUVmYjhrSzhzRUNMWThsalBlRWRHeUxSYXRDQnlXQ2pQT1lxN2VGWHo5SmJjWTdDak1uM1JDd1pMaUZyM25n?oc=5",
+  "published_at": "Thu, 25 Jun 2026 11:55:04 GMT",
+  "published_ts": 1782388504,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUtrQXZDODR2Z1dnbE9nR2tES0VJT0c4elpVYzNLMHU1R2VMOUU0U1lDWUJUZlcxQ194Vzh0QXk2dS1WRHNtOFlHUm1ZbjM5NlVWMlBaRmtfQ2syMFE4LWJsQThqQzhVRTZSR3oxd0xzZmx5M25IeHlxUVdaOFU2OV9wcUJiT1NOSFVfUEVnc24yeUZ0MVBETUVmYjhrSzhzRUNMWThsalBlRWRHeUxSYXRDQnlXQ2pQT1lxN2VGWHo5SmJjWTdDak1uM1JDd1pMaUZyM25n?oc=5\" target=\"_blank\">SanDisk in focus as Citi ups price target, opens upside view</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citi raises SanDisk price target and adopts a bullish view on the stock. This is analyst commentary on a fund holding, but lacks a concrete event (earnings, guidance change, deal) — pure price-target revision and opinion rather than a market-moving catalyst."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "e83e1091b2b22f2aafac0bff1c757145ed7fba47",
+  "source": "Qazinform",
+  "topic": "holding",
+  "title": "Samsung retains lead in global DRAM market - Qazinform",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUJTR0ltcmRnSV9mZHBIWTd1RDc1QTl6MnF0NzZQVGNwQ0dFNnJVLXdzdTJhdmNWMnlzSVlMcjBaeGprOUdYc3VES2hNQ2p2bmZ5d0Y5OVZLTDE3Y0tWejVLWXhTc21IYU11eVV6UFNqcWtUNjhVYUVNdUo3c29NZzBR0gGCAUFVX3lxTE1lblNzRXE2WUo4MXc0S3NqeUhPUUdqem1RanlSWWVORE1aalViQm1WM0c0VE5rdjJoOERnT2NPbmFLQ1M3Ul9rcU43SjQ4RDNEWktWTG9BMDR3Vlhkd0NGU01JcmhQemQ2clcxMnlPbTdMcU1icVFTOTNyUzBHakM0N0E?oc=5",
+  "published_at": "Thu, 25 Jun 2026 06:57:55 GMT",
+  "published_ts": 1782370675,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUJTR0ltcmRnSV9mZHBIWTd1RDc1QTl6MnF0NzZQVGNwQ0dFNnJVLXdzdTJhdmNWMnlzSVlMcjBaeGprOUdYc3VES2hNQ2p2bmZ5d0Y5OVZLTDE3Y0tWejVLWXhTc21IYU11eVV6UFNqcWtUNjhVYUVNdUo3c29NZzBR0gGCAUFVX3lxTE1lblNzRXE2WUo4MXc0S3NqeUhPUUdqem1RanlSWWVORE1aalViQm1WM0c0VE5rdjJoOERnT2NPbmFLQ1M3Ul9rcU43SjQ4RDNEWktWTG9BMDR3Vlhkd0NGU01JcmhQemQ2clcxMnlPbTdMcU1icVFTOTNyUzBHakM0N0E?oc=5\" target=\"_blank\">Samsung retains lead in global DRAM market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Qazinform</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Qazinform"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung maintains its position as the global DRAM market leader. This is a market-share update on a major DRAM holding, but without concrete new numbers, earnings data, or a disclosed catalyst for the headline, it reads as a status report rather than a concrete event."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "443a9a26911ef7ee9030a416cab1ac8c5213acce",
+  "source": "Substack",
+  "topic": "holding",
+  "title": "How AI fueled SK Hynix's rise - Substack",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtS00wWlNzVnY1R3lMcm1jbXg5d2ZQU2c4Nnp6ZXZPQVlSWjUwQURoT2toOEhiX3BxT1JPUnBweUlDVVItaVdfbGlSbXg2TVBkSng2VXllTE1TMFV0dXI2OTctMkxOT01IenhxYnNZMTNqU1JVYlhPSw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:32:16 GMT",
+  "published_ts": 1782390736,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBtS00wWlNzVnY1R3lMcm1jbXg5d2ZQU2c4Nnp6ZXZPQVlSWjUwQURoT2toOEhiX3BxT1JPUnBweUlDVVItaVdfbGlSbXg2TVBkSng2VXllTE1TMFV0dXI2OTctMkxOT01IenhxYnNZMTNqU1JVYlhPSw?oc=5\" target=\"_blank\">How AI fueled SK Hynix's rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Substack</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Substack"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on how AI demand has driven SK Hynix's business growth and stock performance. This is commentary and retrospective analysis rather than a concrete event or new development, so impact is soft rather than hard news."
+  },
+  "buffered_ts": 1782394558.035074
+ },
+ {
+  "id": "019e893b13628307b86d90048e1ccc7428edd5a2",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix: The 135-Won Penny Stock - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVV1X2lHNTF4UWk2RlJVSUM3NWh0dy1FOWRBV1BCV2k1Uzg1dTU2QWc5bUx6TTBwZ3F3ZXhvWk5mYVFIMjc5VnN0UFVmS3NfZTBhbGF2RUFSOUVLcE1VVU5iRFl3ZEg0QTVtX3l1Vk9LemtGVENRX3UtN0lLOGJfMExqRWVaTFE?oc=5",
+  "published_at": "Thu, 25 Jun 2026 11:31:03 GMT",
+  "published_ts": 1782387063,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVV1X2lHNTF4UWk2RlJVSUM3NWh0dy1FOWRBV1BCV2k1Uzg1dTU2QWc5bUx6TTBwZ3F3ZXhvWk5mYVFIMjc5VnN0UFVmS3NfZTBhbGF2RUFSOUVLcE1VVU5iRFl3ZEg0QTVtX3l1Vk9LemtGVENRX3UtN0lLOGJfMExqRWVaTFE?oc=5\" target=\"_blank\">SK Hynix: The 135-Won Penny Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock trading at 135 won described as penny stock. Commentary on the company's stock price rather than operational, financial, or market-moving event; qualifies as analysis/opinion without concrete catalyst or confirmed valuation shift."
+  },
+  "buffered_ts": 1782394558.035074
+ }
+]
