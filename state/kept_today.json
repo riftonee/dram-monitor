@@ -6935,5 +6935,202 @@
    "summary": "KuCoin coverage of the DRAM ETF issuer defending memory chip companies amid AI-driven growth. This is a passing mention of the fund with general commentary rather than a concrete fund development, flow event, or holdings-specific catalyst."
   },
   "buffered_ts": 1782341216.4661398
+ },
+ {
+  "id": "c8b2ac5730eda7b6d4e23de349d00be7212e9089",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Micron Stock Jumps As Memory-Chip Maker Crushes Q3 Estimates - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVlV6NHVSRGxOUTFiT1BhZ2UxMzZ0Vk5ndk9QbmtNMGpUcjlEblprTVZRSmJoMWtwcGRCOUxLTU9ubTlkX1FuaVlVOXlrLXkzMk1Ta0R3LUZfQlpBdDR5OTg5ampQcWxwMVFzNVNlU01vWExrcjdNMjRnZzJPaVhfV0lIN25xdGN3RXc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 20:41:00 GMT",
+  "published_ts": 1782333660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVlV6NHVSRGxOUTFiT1BhZ2UxMzZ0Vk5ndk9QbmtNMGpUcjlEblprTVZRSmJoMWtwcGRCOUxLTU9ubTlkX1FuaVlVOXlrLXkzMk1Ta0R3LUZfQlpBdDR5OTg5ampQcWxwMVFzNVNlU01vWExrcjdNMjRnZzJPaVhfV0lIN25xdGN3RXc?oc=5\" target=\"_blank\">Micron Stock Jumps As Memory-Chip Maker Crushes Q3 Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron (MU), a core DRAM ETF holding, delivered earnings results that beat Q3 estimates, triggering a significant stock jump. This is a concrete, market-moving earnings event."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "80c6f4b368e31e893b24d27d7991b156ff7149f7",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Micron once again provided earnings guidance exceeding expectations, further strengthening the certainty across the memory supply chain. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVZhSDhBaDVrbTUycFF2bDUxbThrSTJxQ21VN3p0QmZodlIyclZkUDNVT21KVjdPcVgxT2ZoRWNUX0pWcmwyUXJoMTlLWGl6aFNSUTdkSEExSXdUN3MzUzdxOFhULXZxa051QzdCdnRZb3BmaS1EeUVYSFlGT2k1UHNRN2llWVNtVzBfbVdxYU80TU5val9Jd1F5QVdLRGlPbk5ZdkZITGEtWGRpUk5TbWZwdDJXTTdwU2JoSWdNcmE2dk82czkyZy13?oc=5",
+  "published_at": "Wed, 24 Jun 2026 23:57:07 GMT",
+  "published_ts": 1782345427,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVZhSDhBaDVrbTUycFF2bDUxbThrSTJxQ21VN3p0QmZodlIyclZkUDNVT21KVjdPcVgxT2ZoRWNUX0pWcmwyUXJoMTlLWGl6aFNSUTdkSEExSXdUN3MzUzdxOFhULXZxa051QzdCdnRZb3BmaS1EeUVYSFlGT2k1UHNRN2llWVNtVzBfbVdxYU80TU5val9Jd1F5QVdLRGlPbk5ZdkZITGEtWGRpUk5TbWZwdDJXTTdwU2JoSWdNcmE2dk82czkyZy13?oc=5\" target=\"_blank\">Micron once again provided earnings guidance exceeding expectations, further strengthening the certainty across the memory supply chain.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron (MU), a core DRAM ETF holding, delivered earnings guidance that exceeded expectations, signaling confidence in memory demand and supply-chain stability."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "ea70ab8dcfab8acc9272d6474b27cdc22e40c927",
+  "source": "Yahoo Finance",
+  "topic": "fund",
+  "title": "T-REX Announces Collaboration with Roundhill Investments to Launch 2X Long DRAM ETF (RAM) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUNubGVhUXRLTnNuclE0YkppWmNQOW55Y0xaeVJrT2lZR2hpVWMyQmRRUkRrZzlOeXlvN1RJWEtxUnpRRnlFQUx6RVN6dFFKQTgwcHNMTlU2dHpOY3BMZGdRMHBoY3dtc0RaT05DWTRfb01LT1lEcnJ1R1h1a0V6eFRMVGpzelFTZ3pSbS1Lb192WExiTE5nN21TQlEtNlNjMmI5TC1BaEI?oc=5",
+  "published_at": "Wed, 24 Jun 2026 12:00:00 GMT",
+  "published_ts": 1782302400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUNubGVhUXRLTnNuclE0YkppWmNQOW55Y0xaeVJrT2lZR2hpVWMyQmRRUkRrZzlOeXlvN1RJWEtxUnpRRnlFQUx6RVN6dFFKQTgwcHNMTlU2dHpOY3BMZGdRMHBoY3dtc0RaT05DWTRfb01LT1lEcnJ1R1h1a0V6eFRMVGpzelFTZ3pSbS1Lb192WExiTE5nN21TQlEtNlNjMmI5TC1BaEI?oc=5\" target=\"_blank\">T-REX Announces Collaboration with Roundhill Investments to Launch 2X Long DRAM ETF (RAM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "T-REX and Roundhill Investments announced a new 2X leveraged long DRAM ETF (RAM), a concrete product launch by the fund sponsor that expands the DRAM fund ecosystem and represents an officially announced strategic initiative with potential to drive flows to the memory-sector ETF complex."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "f332c9eaf558b38bf8d41c4ade71b2d153081745",
+  "source": "mezha.net",
+  "topic": "industry",
+  "title": "Micron forecasts stronger revenue, boosts stock as AI demand strains HBM supply - mezha.net",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdU9WSlE1T2Iya1Rrc1A4M0FvalJPLThiNjZMOVVSRVJjWWNBanBGT1RSZDNIRmkxWWFZRk9JazNJQnRZTXdhOWJ3NlVpTWI5NDN2X1I0emU0NE1HVmdZT3dsZnk3b2Q0UnZVc1h2Wk8?oc=5",
+  "published_at": "Wed, 24 Jun 2026 21:09:43 GMT",
+  "published_ts": 1782335383,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdU9WSlE1T2Iya1Rrc1A4M0FvalJPLThiNjZMOVVSRVJjWWNBanBGT1RSZDNIRmkxWWFZRk9JazNJQnRZTXdhOWJ3NlVpTWI5NDN2X1I0emU0NE1HVmdZT3dsZnk3b2Q0UnZVc1h2Wk8?oc=5\" target=\"_blank\">Micron forecasts stronger revenue, boosts stock as AI demand strains HBM supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "mezha.net",
+    "The Korea Times",
+    "MSN"
+   ],
+   "titles": [
+    "Micron forecasts strong quarterly results on soaring memory chip demand - The Korea Times",
+    "Micron forecasts strong quarterly results on soaring memory chip demand - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron (MU), a top DRAM ETF holding, has issued forward revenue guidance indicating strength, citing AI demand and constrained HBM (high-bandwidth memory) supply as drivers. This is a concrete guidance statement from management—a material, officially announced development affecting a major fund holding."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "802b2335d208c178f88ee22b18652a66e4f62df0",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "Micron’s 12% Sell-Off Is a Gift. AI’s Memory Crisis Makes It a Long-Term Buy - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmlwVzNhbmZpaFBPWmRMSG9Ta2dmbzhTVkF3ZGhHNHh3dXhYT1RJZ0FOWEZrRjJRTEs0Q2ZieW01aFBNcVY1N0stNDJfWVpkMlQ1WlpQR3VhV1Jla29jRkxVTWNFTk5fcno1YU56bjNjTEFxc0VqNWZkY011SjNmeHNqQXJNclJWSDVuRGlzbE0?oc=5",
+  "published_at": "Tue, 23 Jun 2026 14:36:42 GMT",
+  "published_ts": 1782225402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmlwVzNhbmZpaFBPWmRMSG9Ta2dmbzhTVkF3ZGhHNHh3dXhYT1RJZ0FOWEZrRjJRTEs0Q2ZieW01aFBNcVY1N0stNDJfWVpkMlQ1WlpQR3VhV1Jla29jRkxVTWNFTk5fcno1YU56bjNjTEFxc0VqNWZkY011SjNmeHNqQXJNclJWSDVuRGlzbE0?oc=5\" target=\"_blank\">Micron’s 12% Sell-Off Is a Gift. AI’s Memory Crisis Makes It a Long-Term Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analyst opinion piece arguing that Micron's recent 12% sell-off presents a buying opportunity due to AI-driven memory demand. This is market commentary and price-target style analysis rather than a concrete event or hard number, making it a soft 3-impact story."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "720c30c2b898f1cdee24070b948771e55e864e7b",
+  "source": "ig.com",
+  "topic": "holding",
+  "title": "Micron Q3 FY2026 earnings preview: HBM4, margins and $1 trillion valuation - ig.com",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlU4TE9aY0RvOHI5TTVMQ0oyUlFvRUlqYjE1RmlkMXZ2V0lDazI2NkZILWh5SlB6U2twUS02VEYyMHZrMjNLYWpzU3lJdGJlTUdLQ3hDZlJIc2Z0eHNSb29rZU00dUtMcUpFX2FuRkg4MjFCLVFoTlZLa1JHZUlLdHR1c3dlQ3dtYkdN?oc=5",
+  "published_at": "Tue, 23 Jun 2026 07:51:50 GMT",
+  "published_ts": 1782201110,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlU4TE9aY0RvOHI5TTVMQ0oyUlFvRUlqYjE1RmlkMXZ2V0lDazI2NkZILWh5SlB6U2twUS02VEYyMHZrMjNLYWpzU3lJdGJlTUdLQ3hDZlJIc2Z0eHNSb29rZU00dUtMcUpFX2FuRkg4MjFCLVFoTlZLa1JHZUlLdHR1c3dlQ3dtYkdN?oc=5\" target=\"_blank\">Micron Q3 FY2026 earnings preview: HBM4, margins and $1 trillion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ig.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ig.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Preview analysis of Micron's Q3 FY2026 earnings, focusing on HBM4 progress, margin trends, and the company's valuation trajectory. This is forward-looking commentary and analysis rather than reported earnings results or concrete guidance."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "c05e57db39a784efb40dfdfe52d8e90ab1bc7ad3",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "3 Reasons SK Hynix Could Outperform Micron Over the Next Decade - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTl0SGxNTF9YcDRBSkQ3TE1yODhOMi1kblMtRXZVMFZ0Z056N25BbTFKNG1TRGFfV1pNREoyakU2UHA0dFVzUmNCb2hSMjVDOWJGbzhDc19OUkJWZzFjdUdtOWdUUlh2ci1JbjB6eC10WlNqRUI1TjZzcm13amdOdkp2MkxCUWVlRzFXM3FKSE5vUFpETVJmOHVVbGJ3ZlF4TG5SY0ppWHZ2ZWc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 13:00:02 GMT",
+  "published_ts": 1782306002,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTl0SGxNTF9YcDRBSkQ3TE1yODhOMi1kblMtRXZVMFZ0Z056N25BbTFKNG1TRGFfV1pNREoyakU2UHA0dFVzUmNCb2hSMjVDOWJGbzhDc19OUkJWZzFjdUdtOWdUUlh2ci1JbjB6eC10WlNqRUI1TjZzcm13amdOdkp2MkxCUWVlRzFXM3FKSE5vUFpETVJmOHVVbGJ3ZlF4TG5SY0ppWHZ2ZWc?oc=5\" target=\"_blank\">3 Reasons SK Hynix Could Outperform Micron Over the Next Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece analyzing potential long-term relative outperformance of SK Hynix versus Micron over the next decade. No concrete events, earnings data, or confirmed developments disclosed—analysis and forward-looking reasoning only."
+  },
+  "buffered_ts": 1782346067.739628
+ },
+ {
+  "id": "b69270c8498fa4f004f60d166dc45cd24c05fe93",
+  "source": "Finimize",
+  "topic": "industry",
+  "title": "Micron Sees AI Memory Demand Outrunning Supply For Years - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tTHJ5M0JoMV9pdUF2YXF6YUVzOTRwSmd4T2dnY1JCQUpDYWdyYkwtZTkxd2VXWEk4NTJIajVwMmRVRjJGSnM1NkF0LVhsZ216MFZkdFA2bXJRRVRPUjZ3ek1aSWFnWC1vYUE3YXF6QUJtb1NQUkc0Nw?oc=5",
+  "published_at": "Tue, 23 Jun 2026 23:39:57 GMT",
+  "published_ts": 1782257997,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tTHJ5M0JoMV9pdUF2YXF6YUVzOTRwSmd4T2dnY1JCQUpDYWdyYkwtZTkxd2VXWEk4NTJIajVwMmRVRjJGSnM1NkF0LVhsZ216MFZkdFA2bXJRRVRPUjZ3ek1aSWFnWC1vYUE3YXF6QUJtb1NQUkc0Nw?oc=5\" target=\"_blank\">Micron Sees AI Memory Demand Outrunning Supply For Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Micron commentary indicating AI memory demand will exceed supply for years—a positive signal for the memory cycle and fund holdings, but presented as executive outlook/analysis rather than a concrete event or official guidance change."
+  },
+  "buffered_ts": 1782346067.739628
  }
 ]
