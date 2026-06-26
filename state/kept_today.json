@@ -2659,5 +2659,473 @@
    "summary": "Analyst target price raised for SK hynix citing HBM (high-bandwidth memory) gains. This is analyst opinion/price target change rather than a confirmed event or earnings result, placing it at impact 3."
   },
   "buffered_ts": 1782431524.1843355
+ },
+ {
+  "id": "6123eb0cc386b670bcf52efd4790bae5f65cb1a9",
+  "source": "eciks.org",
+  "topic": "holding",
+  "title": "S&P 500 ETF bounces back after Micron's strong results help calm semiconductor sector worries - eciks.org",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XcFd2Z3BKT3A5VTF2bS1BOHJEb2dieU82YlZaMUQycTFaMnIxYUZhVS01U1h1UWVpQWd4bHlvZ0FrSzN6endXVTVCbkFrQzQta3lTaHdCM0VJZUtLR0RMN3YxRkt3UkhGdlhqQQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 14:29:02 GMT",
+  "published_ts": 1782397742,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9XcFd2Z3BKT3A5VTF2bS1BOHJEb2dieU82YlZaMUQycTFaMnIxYUZhVS01U1h1UWVpQWd4bHlvZ0FrSzN6endXVTVCbkFrQzQta3lTaHdCM0VJZUtLR0RMN3YxRkt3UkhGdlhqQQ?oc=5\" target=\"_blank\">S&amp;P 500 ETF bounces back after Micron's strong results help calm semiconductor sector worries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "eciks.org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron reported strong earnings results that helped calm semiconductor sector concerns and contributed to a bounce in the S&P 500 and semiconductor stocks. This is a concrete earnings-driven event with confirmed material impact on holdings."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "099c6690353b44d565dc596219add7192abb0f16",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Micron smashes estimates with $41.5B quarter, guides to $50B on AI memory surge - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmQ4QmtVMFl1eENMUHcweUE2TlJMRmpTX09zdDF0bjBqZWttNVJPMFpaREt0dm9hU2tscW1LV3RnbWIxdERjYm5UajA1YklobFl4eG1SZlZoREVOWWdDejh2RUdfYTZxV2pDWjV2MlY1Zkd1QXlIS0I2c08wS0F4NUE4b2JkMWtvazJDLXhnSW9HV1MyWFphSnhVeEtGbUdhVjlGNWRjdTY4Nkw5U3phRzAyQmtOcUtudXRLbEJnLWQ5TVZPSWljRlRyNUhuWnZNeGc?oc=5",
+  "published_at": "Wed, 24 Jun 2026 20:10:52 GMT",
+  "published_ts": 1782331852,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmQ4QmtVMFl1eENMUHcweUE2TlJMRmpTX09zdDF0bjBqZWttNVJPMFpaREt0dm9hU2tscW1LV3RnbWIxdERjYm5UajA1YklobFl4eG1SZlZoREVOWWdDejh2RUdfYTZxV2pDWjV2MlY1Zkd1QXlIS0I2c08wS0F4NUE4b2JkMWtvazJDLXhnSW9HV1MyWFphSnhVeEtGbUdhVjlGNWRjdTY4Nkw5U3phRzAyQmtOcUtudXRLbEJnLWQ5TVZPSWljRlRyNUhuWnZNeGc?oc=5\" target=\"_blank\">Micron smashes estimates with $41.5B quarter, guides to $50B on AI memory surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron reported Q1 FY2025 earnings of $41.5B, exceeding estimates, and issued forward guidance of $50B driven by AI memory demand surge. This is a confirmed, market-moving earnings beat and material guidance raise from a core DRAM ETF holding."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "23792f74a0075f85f40171786bf54bd7e0646a2f",
+  "source": "Seoul Economic Daily",
+  "topic": "industry",
+  "title": "Micron Posts Record Revenue on HBM Boom, Net Profit Soars 15-Fold - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWdxNXZIYkZyWXRFZHFYcUFCd0dFeUtpYU1MY0ZKVDhnSm8wb1hnN0NSXzdoWUlQeDNJUHRxN0VneWhQR0JNbW1oN0w4SFhUN1F2QURzeldzR0hiaVRpNGhRbmwwLWp3UzBlSEd2ZVRzRlRrc3RadzFUOHA4WFk4NUpWZ3h6QVFELUYtRGtNdndDdmR2bk1rVk1qUS1xMUdqZmtVQw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 23:11:08 GMT",
+  "published_ts": 1782342668,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWdxNXZIYkZyWXRFZHFYcUFCd0dFeUtpYU1MY0ZKVDhnSm8wb1hnN0NSXzdoWUlQeDNJUHRxN0VneWhQR0JNbW1oN0w4SFhUN1F2QURzeldzR0hiaVRpNGhRbmwwLWp3UzBlSEd2ZVRzRlRrc3RadzFUOHA4WFk4NUpWZ3h6QVFELUYtRGtNdndDdmR2bk1rVk1qUS1xMUdqZmtVQw?oc=5\" target=\"_blank\">Micron Posts Record Revenue on HBM Boom, Net Profit Soars 15-Fold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron (MU), a core DRAM ETF holding, reported record revenue driven by HBM (high-bandwidth memory) demand and net profit surged 15-fold. This is a confirmed, material earnings event directly tied to the memory cycle and AI infrastructure capex pull."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "01f5f850b2ddd22dd262377e972cffbfc9d108bc",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Samsung Electronics and SK Hynix plan $646B investment package in semiconductor expansion - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNHpVZ0F0dXp4Y083NllOaVl5X2RWXzN3eVA5TkZVRVdFSXYxQkZ6THhJX20wbDRsdHY1Z1ZQY0NQYnlydU5UeU9NcG1ZTE0wdGR0NUktVEZmdG4yRnVLYmN1a3NMUlJfMDZ0U004NHZoeDN0ZERlMXJMSkhPMUU?oc=5",
+  "published_at": "Fri, 26 Jun 2026 01:50:31 GMT",
+  "published_ts": 1782438631,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNHpVZ0F0dXp4Y083NllOaVl5X2RWXzN3eVA5TkZVRVdFSXYxQkZ6THhJX20wbDRsdHY1Z1ZQY0NQYnlydU5UeU9NcG1ZTE0wdGR0NUktVEZmdG4yRnVLYmN1a3NMUlJfMDZ0U004NHZoeDN0ZERlMXJMSkhPMUU?oc=5\" target=\"_blank\">Samsung Electronics and SK Hynix plan $646B investment package in semiconductor expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix have announced a $646 billion joint investment package for semiconductor expansion. This is a concrete, officially announced capital commitment by two major fund holdings that directly signals increased fab capacity and production capability, materially relevant to memory supply dynamics and the fund's largest positions."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "7de26fd8c94c37b388ed458f4288d3b888af6524",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "'No. 3 Memory Maker' Micron Lands 155 Trillion Won in Orders, MacBook Prices Surge - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDExaDdKWEprRmtiaHFTbWZHTlhaYVU4SFk5YloxM2JsSXQ4Sk9SZWhZV3V5Y0JyQ05GUk9vSC1ZMHFlam5sVHFGTXE4SlZITGh1Rm52ajExTURLMmE3cFRrMUtCVkVxcGp4aGp4MVEyUlZHQVRZdWFPY0RCeGNkYlliV2M2LV9BZkxNRU9KZnd1cTF6YUJNd0kyNnNvS3lNQlV6QlhBMmc?oc=5",
+  "published_at": "Fri, 26 Jun 2026 00:13:57 GMT",
+  "published_ts": 1782432837,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDExaDdKWEprRmtiaHFTbWZHTlhaYVU4SFk5YloxM2JsSXQ4Sk9SZWhZV3V5Y0JyQ05GUk9vSC1ZMHFlam5sVHFGTXE4SlZITGh1Rm52ajExTURLMmE3cFRrMUtCVkVxcGp4aGp4MVEyUlZHQVRZdWFPY0RCeGNkYlliV2M2LV9BZkxNRU9KZnd1cTF6YUJNd0kyNnNvS3lNQlV6QlhBMmc?oc=5\" target=\"_blank\">'No. 3 Memory Maker' Micron Lands 155 Trillion Won in Orders, MacBook Prices Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron (No. 3 memory maker) has secured 155 trillion won (~$116B USD) in new orders, with the news tied to macbook pricing increases. This represents a concrete, material order win for a major fund holding that signals strong demand for memory products in high-value computing applications."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "12a501eeceb2d57985fc5230fc1e0bb6a5ca9026",
+  "source": "The Killeen Daily Herald",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - The Killeen Daily Herald",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcFloZHlWSm5uUm9oLUg0UEVBOTJtSTBqM1ktd0EtVVQ2dEo0ZTlyOTdCRVR2NVJ0eFRzRzFmeU9aM0FuN3lVaG5rSjktdkVEaFJlX3J4MnpkYzY2RmI4bDJXUWxLd095dzRPbjJzVlVQc0JWRmdlVVZmQmo3MVhLc0tYLTJmM3FQRUc5aHRLVE9tdnl1bzlsYUZlQ0g3bjV5Qlk1YUpaNTc1ZW00MlpsSnBxMDE4b01sTHg4SzY4YklSSjZqX2Q5ajlZc2U0bzhyTTY4WlVqak8zTHpobnpLZjU5VHFWNS1DTldIVWdidi01NEUzZHh5ZmFB?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:53:55 GMT",
+  "published_ts": 1782413635,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcFloZHlWSm5uUm9oLUg0UEVBOTJtSTBqM1ktd0EtVVQ2dEo0ZTlyOTdCRVR2NVJ0eFRzRzFmeU9aM0FuN3lVaG5rSjktdkVEaFJlX3J4MnpkYzY2RmI4bDJXUWxLd095dzRPbjJzVlVQc0JWRmdlVVZmQmo3MVhLc0tYLTJmM3FQRUc5aHRLVE9tdnl1bzlsYUZlQ0g3bjV5Qlk1YUpaNTc1ZW00MlpsSnBxMDE4b01sTHg4SzY4YklSSjZqX2Q5ajlZc2U0bzhyTTY4WlVqak8zTHpobnpLZjU5VHFWNS1DTldIVWdidi01NEUzZHh5ZmFB?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Killeen Daily Herald</font>",
+  "corroboration": {
+   "count": 7,
+   "sources": [
+    "The Killeen Daily Herald",
+    "6abc Philadelphia",
+    "The Joplin Globe",
+    "Ottumwa Courier",
+    "Capital Gazette",
+    "Eagle-Tribune"
+   ],
+   "titles": [
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - 6abc Philadelphia",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - 6abc Philadelphia",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - The Joplin Globe",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Ottumwa Courier",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Capital Gazette",
+    "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Eagle-Tribune"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Apple has announced price increases for Macs and iPads citing a shortage of memory chips, indicating real tightness in DRAM/memory supply that is affecting OEM demand and pricing power in the memory semiconductor market."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "9892f1916e7af8047463ea4d8911ee2cf6d03c34",
+  "source": "1470 & 100.3 WMBD",
+  "topic": "holding",
+  "title": "Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan - 1470 & 100.3 WMBD",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTM1ZFpqS0l0Mk42aHF6RDdPUW91eGRLVzdPWGM1NFRqaFdyWTZmMTFfVUdhOEhwVEN4TFlFRGVXZE9hRWJQUFNxVFVCa1hOUFdCcGItZmViWlJHMlRMTjd1aVRfaExqMjlqMkVJcmV0dTNOTXEwYzNMcHg1aXBWV1JuanM5RWNidVJxZjRqdk1BbktBUDN4T192a2pNTkhaTXgwMmEwU1FIX3pm?oc=5",
+  "published_at": "Thu, 25 Jun 2026 04:06:53 GMT",
+  "published_ts": 1782360413,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTM1ZFpqS0l0Mk42aHF6RDdPUW91eGRLVzdPWGM1NFRqaFdyWTZmMTFfVUdhOEhwVEN4TFlFRGVXZE9hRWJQUFNxVFVCa1hOUFdCcGItZmViWlJHMlRMTjd1aVRfaExqMjlqMkVJcmV0dTNOTXEwYzNMcHg1aXBWV1JuanM5RWNidVJxZjRqdk1BbktBUDN4T192a2pNTkhaTXgwMmEwU1FIX3pm?oc=5\" target=\"_blank\">Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1470 & 100.3 WMBD</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "1470 & 100.3 WMBD"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported blowout earnings results, a concrete market-moving event for a major fund holding. SK hynix announced a US listing plan, an official strategic development. Both are confirmed developments directly affecting DRAM ETF holdings."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "365c136c681721c1a2dcb75d2b39651b121479e6",
+  "source": "Chosunbiz",
+  "topic": "industry",
+  "title": "AI demand reshapes memory cycle as Micron warns post-2027 supply shortfall - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fM2N1OGxMU2dWZHpxZlQ5c0w5YnptUXdKejZ4dkZTeDRZLTRfZUQ2bEduVzBZN1NZdXNvZ1RlWllhMDNqUUNCLXVwVmdXeG1ISXlZa1NpRDBTN1p0YVVfa2hmQnFvWm44RVFVaDFXZVhEdFhRcWNEZ1Fn0gGOAUFVX3lxTFA5d19rVk9wVWZseTJKZ0ZhSzZkWkRTamFPWWxpN3FlRWNEVlFRd0F5WGtUT29UclhkZUNJdmdQSXh0UlRmRGpiVnRFeDFYbHVGcHNJeFdxS1ZEdm9PVXZPbWxDZE5aTTE1Q0QzV0N6WkFfWFBPa3hiNUxnTjNoSkc0dVhwTkR5S2JxckUtV1E?oc=5",
+  "published_at": "Thu, 25 Jun 2026 01:59:00 GMT",
+  "published_ts": 1782352740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9fM2N1OGxMU2dWZHpxZlQ5c0w5YnptUXdKejZ4dkZTeDRZLTRfZUQ2bEduVzBZN1NZdXNvZ1RlWllhMDNqUUNCLXVwVmdXeG1ISXlZa1NpRDBTN1p0YVVfa2hmQnFvWm44RVFVaDFXZVhEdFhRcWNEZ1Fn0gGOAUFVX3lxTFA5d19rVk9wVWZseTJKZ0ZhSzZkWkRTamFPWWxpN3FlRWNEVlFRd0F5WGtUT29UclhkZUNJdmdQSXh0UlRmRGpiVnRFeDFYbHVGcHNJeFdxS1ZEdm9PVXZPbWxDZE5aTTE1Q0QzV0N6WkFfWFBPa3hiNUxnTjNoSkc0dVhwTkR5S2JxckUtV1E?oc=5\" target=\"_blank\">AI demand reshapes memory cycle as Micron warns post-2027 supply shortfall - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron has issued a warning about a post-2027 supply shortfall in the memory market driven by AI demand. This is a concrete forward guidance statement from a major fund holding (Micron) that signals structural changes to the memory cycle and potential capacity constraints ahead, materially affecting demand/supply dynamics for DRAM holdings."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "2041c712d8a5843fd0130bf33ad6d6648b36cfbe",
+  "source": "Zacks Investment Research",
+  "topic": "holding",
+  "title": "Tech ETFs to Buy as SK Hynix Preps Massive $29 Billion Nasdaq Debut - Zacks Investment Research",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHlIU25SR2FMRGNXdW9ZOEVRM2tfdDU1Qm5oUkZwVkEwdlFPSWdieUx6UDlSOVlTUGIxdG5LNkRXdmsyNW5SSVJfZUUyWURBeW1qWktLeEh5aU91NlRDT3QySmdlbGhFd0pHUzBNWlpPdWwzVVlQcGZEeEtLRmN6a3V6LUtwMW5RVjNtSElQVjNtVnVsRWdtdTluLU53U1dQc2NEUXRrM3RyRDg?oc=5",
+  "published_at": "Thu, 25 Jun 2026 13:28:04 GMT",
+  "published_ts": 1782394084,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHlIU25SR2FMRGNXdW9ZOEVRM2tfdDU1Qm5oUkZwVkEwdlFPSWdieUx6UDlSOVlTUGIxdG5LNkRXdmsyNW5SSVJfZUUyWURBeW1qWktLeEh5aU91NlRDT3QySmdlbGhFd0pHUzBNWlpPdWwzVVlQcGZEeEtLRmN6a3V6LUtwMW5RVjNtSElQVjNtVnVsRWdtdTluLU53U1dQc2NEUXRrM3RyRDg?oc=5\" target=\"_blank\">Tech ETFs to Buy as SK Hynix Preps Massive $29 Billion Nasdaq Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Zacks Investment Research"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is preparing a massive $29 billion Nasdaq debut, a concrete corporate event that will increase its public-market visibility and trading accessibility, likely to impact fund composition and investor interest in the holding."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "bfc3b972ccc5cc645e790b9c6e2af9578ae0f3f2",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix's US$29 billion Nasdaq plan puts capacity expansion in focus - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmpCdFdSRDB2a09QU3NEQmk5QVlRNWZZenZnNXR1QndGWmgwQXRtWEpkQTVMQy1Rc1UtTWliajhoajhmS3k3Ump1TzNXbjFfQ05VNldxemZMLUpvLVdGeVpHVHQtM2V3bnh2NnhzYzluSDZTZUdkMDVlWnV6OE9oYUFTMk1DemN3ZHNFWl9Kaw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 01:09:58 GMT",
+  "published_ts": 1782436198,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmpCdFdSRDB2a09QU3NEQmk5QVlRNWZZenZnNXR1QndGWmgwQXRtWEpkQTVMQy1Rc1UtTWliajhoajhmS3k3Ump1TzNXbjFfQ05VNldxemZMLUpvLVdGeVpHVHQtM2V3bnh2NnhzYzluSDZTZUdkMDVlWnV6OE9oYUFTMk1DemN3ZHNFWl9Kaw?oc=5\" target=\"_blank\">SK Hynix's US$29 billion Nasdaq plan puts capacity expansion in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $29 billion plan tied to Nasdaq listing that puts focus on memory capacity expansion. This is a concrete, official development from a major DRAM ETF holding signaling material capex commitment to address memory demand."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "ccb0a26f19dd114203f21e88d79df8aaa7f1d39f",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Japan and South Korea Stocks Open Lower and Plunge 3%, Memory Giants Samsung, SK Hynix, and Kioxia Collectively Tumble - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHFtQmRjckdORTJFNkdhS0R4SGp4V0tlRFZBdlhkRlNZUXlEUE9fRXRUakF1NVVhREUxRWNvaXJDc1U2Y2xiSjNOZVhneDhMY1F6aE1ENTd2RG1LTUpLekdEbnF6c2xTRnEzWG9oaGpXZFlHWG5SbUR3RUJKc0VLZVBtVUlIZVBOYlFsQm5rRDNONlhGWTlZdUtuWjJzQVhoUG9wSk1sb2NtUEtFSHdMVWpXcGl1VXF2dXlqdw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 00:47:08 GMT",
+  "published_ts": 1782434828,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHFtQmRjckdORTJFNkdhS0R4SGp4V0tlRFZBdlhkRlNZUXlEUE9fRXRUakF1NVVhREUxRWNvaXJDc1U2Y2xiSjNOZVhneDhMY1F6aE1ENTd2RG1LTUpLekdEbnF6c2xTRnEzWG9oaGpXZFlHWG5SbUR3RUJKc0VLZVBtVUlIZVBOYlFsQm5rRDNONlhGWTlZdUtuWjJzQVhoUG9wSk1sb2NtUEtFSHdMVWpXcGl1VXF2dXlqdw?oc=5\" target=\"_blank\">Japan and South Korea Stocks Open Lower and Plunge 3%, Memory Giants Samsung, SK Hynix, and Kioxia Collectively Tumble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung, SK hynix, and Kioxia stocks declined 3% in Asian market trading. The story reports a price move without disclosing a specific catalyst, making it a soft signal rather than a concrete event."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "e6466bf48fbf1c29a23923b7978e50a0b892e4f8",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQamJoMG5qTGxmNmQxRkNxbldYTmpNM2ZURjYzdl9mdTZ6d2JVZXk1S1g2YjVCNmJKSXczYWhlNXN2NVd4MkFYNWZUUHpabmlrY0FCZ1hkOHJWOEZ5bnpZSkFVMTJxRnhaRGRQUHVoQ1VlZVp2VUhkYWZuTWl6LUJWVWV2RjFtUmVSc2RfSFhWU3Z5VDh4R3pMN0l1RkRKQQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 21:00:05 GMT",
+  "published_ts": 1782421205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQamJoMG5qTGxmNmQxRkNxbldYTmpNM2ZURjYzdl9mdTZ6d2JVZXk1S1g2YjVCNmJKSXczYWhlNXN2NVd4MkFYNWZUUHpabmlrY0FCZ1hkOHJWOEZ5bnpZSkFVMTJxRnhaRGRQUHVoQ1VlZVp2VUhkYWZuTWl6LUJWVWV2RjFtUmVSc2RfSFhWU3Z5VDh4R3pMN0l1RkRKQQ?oc=5\" target=\"_blank\">As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix compete in HBM market while Chinese competitors gain share in commodity DRAM/NAND. Reflects ongoing competitive dynamics and market share shifts in memory semiconductors, but no specific new deal, capacity announcement, or pricing data disclosed."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "f40bdfceab4f8a204c4021468f86e0204667b9cd",
+  "source": "TheStreet Pro",
+  "topic": "holding",
+  "title": "Should U.S. Investors Buy Into a Wall Street Listing for SK Hynix? - TheStreet Pro",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTNLbDJHS2ExYzV2SlROeklweGQ3cDMyaDdUUTdwcTNZQnEwNWhwU1NYNUZMSE9RREZKUkRCQnItcVhNWHpQTUtGeVR0Ni01eGZaUnFOR1VtRE5lV1ZEUURneUtXQ0hfbG92QVlTVGZ1Y2pCT09SWGV2bzNwQ2VrSC0wV2xLWG5KRGlmZ2VwenRtSzN3ZzJFNzZUaHI?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:35:00 GMT",
+  "published_ts": 1782412500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTNLbDJHS2ExYzV2SlROeklweGQ3cDMyaDdUUTdwcTNZQnEwNWhwU1NYNUZMSE9RREZKUkRCQnItcVhNWHpQTUtGeVR0Ni01eGZaUnFOR1VtRE5lV1ZEUURneUtXQ0hfbG92QVlTVGZ1Y2pCT09SWGV2bzNwQ2VrSC0wV2xLWG5KRGlmZ2VwenRtSzN3ZzJFNzZUaHI?oc=5\" target=\"_blank\">Should U.S. Investors Buy Into a Wall Street Listing for SK Hynix?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet Pro</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TheStreet Pro"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece discussing whether U.S. investors should consider a Wall Street listing for SK Hynix, a major DRAM ETF holding. This is analyst commentary and speculation about a potential corporate action rather than a confirmed event, making it soft impact—relevant to the fund's holdings but not yet a concrete development."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "8cffa6a1e1e4b949c319b081119ca84fbd21b004",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix Prepare Huge Spending Increase, Reports Say - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVp4NERMWG8tZDZkSDBHZjlXWHNOclpWeFRXeTFJbldibDltV3MzeGtBZHF5SVo2YWUyMm5kdzM3TkdVdlRQeWwxYmVBYWNCbGc5cEJzRXV4STBQbnI5NTl2WWtEWml2cG1UNTZ5U1IteWZISmY0SHo2MFo3Vkd5ODRYb3AxODlZMEJOS183S1ctTzNGeDRyOE5reWhiNEYzNVhlcEt6cmRja0Z2NHV0STB4Vmg?oc=5",
+  "published_at": "Fri, 26 Jun 2026 01:24:00 GMT",
+  "published_ts": 1782437040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVp4NERMWG8tZDZkSDBHZjlXWHNOclpWeFRXeTFJbldibDltV3MzeGtBZHF5SVo2YWUyMm5kdzM3TkdVdlRQeWwxYmVBYWNCbGc5cEJzRXV4STBQbnI5NTl2WWtEWml2cG1UNTZ5U1IteWZISmY0SHo2MFo3Vkd5ODRYb3AxODlZMEJOS183S1ctTzNGeDRyOE5reWhiNEYzNVhlcEt6cmRja0Z2NHV0STB4Vmg?oc=5\" target=\"_blank\">Samsung and SK Hynix Prepare Huge Spending Increase, Reports Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are reportedly preparing substantial increases in capital spending. This signals potential expansion in memory production capacity in response to AI-driven demand, but the story relies on reports rather than official announcements, making it a forward-looking indication rather than a confirmed event."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "d7ecb687fd0c708324f1f611e0c2cd26e67a3556",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Memory Semiconductor Big 3 Propel 22% Global Market Cap Surge - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2hfYVNCZ0c4SXV2eUVuU2JyZVRvNENTWXk3YUFkM1owcTk1WEpwUUp6TnA4QWJvMl84dTRsbS14ZXFCMmI5WlVaY3hGZDI0QnpiX2FHU0luTGRpOS1wT01DNVJwLUxpLVNyaDNzamxmY1AwUk9HZWFkNklraVhHcW8zQS1GNENT?oc=5",
+  "published_at": "Thu, 25 Jun 2026 20:30:29 GMT",
+  "published_ts": 1782419429,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2hfYVNCZ0c4SXV2eUVuU2JyZVRvNENTWXk3YUFkM1owcTk1WEpwUUp6TnA4QWJvMl84dTRsbS14ZXFCMmI5WlVaY3hGZDI0QnpiX2FHU0luTGRpOS1wT01DNVJwLUxpLVNyaDNzamxmY1AwUk9HZWFkNklraVhHcW8zQS1GNENT?oc=5\" target=\"_blank\">Memory Semiconductor Big 3 Propel 22% Global Market Cap Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korean media reports a 22% global market cap surge among the memory semiconductor 'Big 3' (likely Samsung, SK hynix, and Micron). This is a price/valuation move with no disclosed concrete catalyst, making it a soft market observation rather than a hard event."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "b68c0b1a49556a38eeaf05183a097d397d8d2909",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Micron's HBM Bonanza Signals Memory Megacycle - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEJWMWtXYi1FYkNuOTNleVAzOWVYZU1NbmtyRC14a00tb0IwUldjckRnT2k0NXdtZHNtQnVwdHhMWVhqbV9TR0d3TzFhUTQwLXVySzh0TVNlU0ExRFpnaVZqS2h6ZmI1MTdEeWxHdnYweHpIbU1GRnZRVlIwbDFkOWM5QmN0M0JfS0FWVzU5cw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 01:00:05 GMT",
+  "published_ts": 1782435605,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEJWMWtXYi1FYkNuOTNleVAzOWVYZU1NbmtyRC14a00tb0IwUldjckRnT2k0NXdtZHNtQnVwdHhMWVhqbV9TR0d3TzFhUTQwLXVySzh0TVNlU0ExRFpnaVZqS2h6ZmI1MTdEeWxHdnYweHpIbU1GRnZRVlIwbDFkOWM5QmN0M0JfS0FWVzU5cw?oc=5\" target=\"_blank\">Micron's HBM Bonanza Signals Memory Megacycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Headline claims Micron is experiencing strong HBM (high-bandwidth memory) demand signaling a broader memory cycle recovery. However, without concrete earnings results, guidance changes, or official capacity announcements, this reads as analysis or commentary rather than a confirmed event. The term 'bonanza' and 'megacycle' suggest opinion/forecast rather than reported hard numbers or stated management guidance."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "cee44a9273f9c9a63b5b864c6ee5936fc916f6ee",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron's HBM surge could redefine the AI growth story - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTl3VGFJUk9aR3VHaEtJYWZ0RVN6WWM4d1NVc2RQd2lYaDVaU1NoeW5HMjdFb1J1NzlCa1ppNmxpeVd4UXMwOVozZVdqdV85U0R1dkItdzZiSGIwYlMweDh6bGtzT01wRGt5MnFUT3lrRXNXdmpVdlBxdjdjVUtRaTRxVGFmMlFSNkhqYWRFVTBNYWFvMVVxUVdqU3g0cXVoUW01NkpMNFBkV1E?oc=5",
+  "published_at": "Thu, 25 Jun 2026 22:07:36 GMT",
+  "published_ts": 1782425256,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTl3VGFJUk9aR3VHaEtJYWZ0RVN6WWM4d1NVc2RQd2lYaDVaU1NoeW5HMjdFb1J1NzlCa1ppNmxpeVd4UXMwOVozZVdqdV85U0R1dkItdzZiSGIwYlMweDh6bGtzT01wRGt5MnFUT3lrRXNXdmpVdlBxdjdjVUtRaTRxVGFmMlFSNkhqYWRFVTBNYWFvMVVxUVdqU3g0cXVoUW01NkpMNFBkV1E?oc=5\" target=\"_blank\">Micron's HBM surge could redefine the AI growth story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's potential to benefit from HBM (high-bandwidth memory) demand driven by AI growth. While relevant to a core holding and the HBM industry tailwind, this is opinion/analysis rather than a concrete event or hard number, placing it at impact 3."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "7f61c64535133974a38c04f64e347b5717a25265",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Ministry of Employment and Labor to Inspect 25 Semiconductor Firms Including SK Hynix After Safety Incidents - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmwzbU0wU1lzSk0yOXY3VGhCUGg2NjBkdlI4R19OYUVzZU9qQ29aN1BFNXpMbVV0VFRBTzdjWjVKYVUyZExkYVU2SjlHVHRncUlzLWk5bHd3M0ttS20zWFI3ZlpCdU1qX3pXYzZzQjhTdXFVYlRVV2dtajZGOWxlLTI0aUxrNVdu?oc=5",
+  "published_at": "Fri, 26 Jun 2026 01:26:58 GMT",
+  "published_ts": 1782437218,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmwzbU0wU1lzSk0yOXY3VGhCUGg2NjBkdlI4R19OYUVzZU9qQ29aN1BFNXpMbVV0VFRBTzdjWjVKYVUyZExkYVU2SjlHVHRncUlzLWk5bHd3M0ttS20zWFI3ZlpCdU1qX3pXYzZzQjhTdXFVYlRVV2dtajZGOWxlLTI0aUxrNVdu?oc=5\" target=\"_blank\">Ministry of Employment and Labor to Inspect 25 Semiconductor Firms Including SK Hynix After Safety Incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korea's Ministry of Employment and Labor will inspect 25 semiconductor firms including SK hynix following safety incidents. This is a regulatory oversight action with potential operational implications for a fund holding, but lacks concrete detail on scope, timeline, or material business impact."
+  },
+  "buffered_ts": 1782442738.981366
+ },
+ {
+  "id": "0635d7dae062eeea001e0a92e1c28994b02be400",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Flash Memory Chipmaker Sandisk Hits Record High, Leads 18 Onto Best Growth Stock Lists - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2pWbUlFQkROVTNWZk1wWVVCRk84dWYycVd5czU4ZGtSNG9TbmZiWHl1eW9od0pUMHhCS1R1N2VCTUVscHNtcFltd1V4M1BHc2prSUN4dXZzX2RXVExnMFZHS0xHbVgtdEozS2dnUk5ucV9EbS1YbHd4U0t1OGZfVUtUbjd0ejBMMUNiZTBB?oc=5",
+  "published_at": "Thu, 25 Jun 2026 23:15:00 GMT",
+  "published_ts": 1782429300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2pWbUlFQkROVTNWZk1wWVVCRk84dWYycVd5czU4ZGtSNG9TbmZiWHl1eW9od0pUMHhCS1R1N2VCTUVscHNtcFltd1V4M1BHc2prSUN4dXZzX2RXVExnMFZHS0xHbVgtdEozS2dnUk5ucV9EbS1YbHd4U0t1OGZfVUtUbjd0ejBMMUNiZTBB?oc=5\" target=\"_blank\">Flash Memory Chipmaker Sandisk Hits Record High, Leads 18 Onto Best Growth Stock Lists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, hit a record high and appeared on growth stock lists. The story is a price-movement observation with no disclosed catalyst, earnings data, or concrete event driving the move, making it a minor mention of positive momentum rather than material news."
+  },
+  "buffered_ts": 1782442738.981366
  }
 ]
