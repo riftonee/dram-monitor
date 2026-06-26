@@ -516,5 +516,275 @@
    "summary": "Jupiter has listed a 'DRAM' memory ETF that includes Samsung, SK hynix, and Micron as holdings. This is a routine fund listing announcement with no material event or market impact disclosed."
   },
   "buffered_ts": 1782487394.2286274
+ },
+ {
+  "id": "3104176741b165d93862293ebac3875e9caa8982",
+  "source": "The Mighty 790 KFGO",
+  "topic": "holding",
+  "title": "Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan - The Mighty 790 KFGO",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZURZbnVlV25FV3pxcXpzM29sYjdkX3BPbm82N3o1enBrQ2otZGlpWHBaNVVpckg0a3ZJejhfSFh5cExuRnU5cG5pcHM2V0RNaGEzN2dVTkx3M0NwTlJGUHgxZUxLZXQxbzg0MnNfY2pqSmh3bXpjdE5kdnBvVjV6NGlhT3dfM3BvU0JRTW1pN1g2Skxjb1dYajlNVElwcXhhSS01WTF3?oc=5",
+  "published_at": "Thu, 25 Jun 2026 06:04:09 GMT",
+  "published_ts": 1782367449,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQZURZbnVlV25FV3pxcXpzM29sYjdkX3BPbm82N3o1enBrQ2otZGlpWHBaNVVpckg0a3ZJejhfSFh5cExuRnU5cG5pcHM2V0RNaGEzN2dVTkx3M0NwTlJGUHgxZUxLZXQxbzg0MnNfY2pqSmh3bXpjdE5kdnBvVjV6NGlhT3dfM3BvU0JRTW1pN1g2Skxjb1dYajlNVElwcXhhSS01WTF3?oc=5\" target=\"_blank\">Korean chip shares surge on Micron’s blowout earnings, SK Hynix’s US listing plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mighty 790 KFGO</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Mighty 790 KFGO"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported blowout earnings results (a confirmed, market-moving event for a major DRAM holding), and SK Hynix announced an official US listing plan (a substantive, announced corporate development). Both are concrete developments directly affecting fund holdings and driving Korean chip shares higher. Micron earnings are a hard earnings beat; SK Hynix US listing is an officially announced strategic move."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "f1bbfeed3c23f37e90faed8954867947e97b5e43",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SanDisk Corporation Stock (SNDK) Moved Down by 7.45% on Jun 26: Key Drivers Unveiled - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOE1UVFNRMkFld0FaR2RJOXFQeHhtRGdnT1FSYmFlMERvNjY0QTdZcldSZHM4MElrTGVfX0VtVUktUDZZYUxhMjc2YXhKSENha2tRNV9McWlDaDdjV09DWHBPOU5QcXh0VnRWODJQQmZfQnhkZVIxcjdLZ29vZHNMc1V1WEgtSGJ0U3FJ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 16:15:23 GMT",
+  "published_ts": 1782490523,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOE1UVFNRMkFld0FaR2RJOXFQeHhtRGdnT1FSYmFlMERvNjY0QTdZcldSZHM4MElrTGVfX0VtVUktUDZZYUxhMjc2YXhKSENha2tRNV9McWlDaDdjV09DWHBPOU5QcXh0VnRWODJQQmZfQnhkZVIxcjdLZ29vZHNMc1V1WEgtSGJ0U3FJ?oc=5\" target=\"_blank\">SanDisk Corporation Stock (SNDK) Moved Down by 7.45% on Jun 26: Key Drivers Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock declined 7.45% on Jun 26. The article mentions key drivers but the snippet does not disclose the actual catalyst; without a stated cause (earnings miss, guidance cut, industry news, or pricing pressure), this is a price move without confirmed fundamental trigger."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "a987d97065def559190ac6a3f8ffd0559db7e3f4",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Kospi Index, EWY ETF jumps after Micron earnings, but major risks remain - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0ZOc0ZWdVdhcFdFeXNPT0JVYWJSQU5zQk5zWExWWXZPQVF3ajFEVEdKZ0hGY25fMUFGUG8yS0RsSmVQNktuclAzNVNHTUJTYzRxZ05KaU9UbmdWWlgxVEx6aDJjclJJM3ZEeTNUd3pkUTJkSzZFTncwOWU4LV9kd3BabnhYOTduTllQbWFzWnduNHNjVmVxX0pCbGR5UVZGeXpFS3FCZG1Udw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 04:15:18 GMT",
+  "published_ts": 1782360918,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0ZOc0ZWdVdhcFdFeXNPT0JVYWJSQU5zQk5zWExWWXZPQVF3ajFEVEdKZ0hGY25fMUFGUG8yS0RsSmVQNktuclAzNVNHTUJTYzRxZ05KaU9UbmdWWlgxVEx6aDJjclJJM3ZEeTNUd3pkUTJkSzZFTncwOWU4LV9kd3BabnhYOTduTllQbWFzWnduNHNjVmVxX0pCbGR5UVZGeXpFS3FCZG1Udw?oc=5\" target=\"_blank\">Kospi Index, EWY ETF jumps after Micron earnings, but major risks remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Kospi and Korea ETF (EWY) rose following Micron earnings results. Story references Micron (a DRAM fund holding) earnings but does not disclose specific earnings numbers, guidance changes, or the concrete catalyst for the market move—only that the index 'jumped' and 'major risks remain.' This is a price-move story without stated cause or detailed earnings data."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "c28ba66e95d4c96f85f00d3dd112f386597b1101",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Asia tech rout widens: SoftBank sheds 12%, SK Hynix, Samsung plunge 8% - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaV9UalpnQy1QeTVyaFZMcTR3TzZ3dzZycWk5ck9hUGRsRndmbGdpdlBmU1lRMVZncndLZ043UVNMM3d5T3NMTUF3dU1rZ1pNb3RpX29wdTZiZnhlZXNtNkppVWczUVhMWFV4bzVHQUNlUms2RHJzM21DeTk3Q3BmbUtBaWcwVGlQaS0wTndaUFRpbmZiUTlkRklkMlcxaVVKMlFJ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 03:51:48 GMT",
+  "published_ts": 1782445908,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaV9UalpnQy1QeTVyaFZMcTR3TzZ3dzZycWk5ck9hUGRsRndmbGdpdlBmU1lRMVZncndLZ043UVNMM3d5T3NMTUF3dU1rZ1pNb3RpX29wdTZiZnhlZXNtNkppVWczUVhMWFV4bzVHQUNlUms2RHJzM21DeTk3Q3BmbUtBaWcwVGlQaS0wTndaUFRpbmZiUTlkRklkMlcxaVVKMlFJ?oc=5\" target=\"_blank\">Asia tech rout widens: SoftBank sheds 12%, SK Hynix, Samsung plunge 8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung (both major DRAM ETF holdings) fell 8% in a broader Asia tech sell-off. The story reports a stock-price move without disclosing a specific catalyst or fundamental event driving the decline."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "c9d9880934ef3b9b5d0453057902232f5ab13795",
+  "source": "Kalkine Media",
+  "topic": "holding",
+  "title": "Western Digital (NASDAQ:WDC): Is AI Demand Changing the Story? - Kalkine Media",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGxVWU1tMndqY0JwRjl5V3lVT0JFVjFWZ0JDZjVPZFpPYnNMMDhXYTFLbXFuaG51WUwzS0R4TU1fb2p2UWpVN3JJVUt4U1ZEQi1PSVdHVmpPQ1FweUZxa0NHUEwyOGtVLXRmM3hlM2UzdE55MlRMdzVrVDl3dWJGdjcyWWc5MFcxZnR3a0NGNDJoanM3bk5ra0dZMTZqUEV4aE5ObHRB?oc=5",
+  "published_at": "Fri, 26 Jun 2026 16:27:00 GMT",
+  "published_ts": 1782491220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGxVWU1tMndqY0JwRjl5V3lVT0JFVjFWZ0JDZjVPZFpPYnNMMDhXYTFLbXFuaG51WUwzS0R4TU1fb2p2UWpVN3JJVUt4U1ZEQi1PSVdHVmpPQ1FweUZxa0NHUEwyOGtVLXRmM3hlM2UzdE55MlRMdzVrVDl3dWJGdjcyWWc5MFcxZnR3a0NGNDJoanM3bk5ra0dZMTZqUEV4aE5ObHRB?oc=5\" target=\"_blank\">Western Digital (NASDAQ:WDC): Is AI Demand Changing the Story?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Kalkine Media"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece examining whether AI demand is shifting Western Digital's business narrative. This is opinion/analysis rather than a concrete event or confirmed development, making it a soft relevance story about a core DRAM ETF holding."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "e084a6c8c0bf9c38a828b857c95eec834476c331",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Sandisk Stock Limps Along. The Micron Earnings Afterglow Is Gone. - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTDM5dzA2UWE0WFFuaHVlZXdYVUxBVUZKdFZWaVJTWV9KS29iZ0xSdU4xS19NU0JRU09kUTByYmczcmMyWkU5Wm5pSjR3bEcwV2pPQXFWQlUzQmRNZDhtZEFHanE1d1hHOE5obDY0Mzc3N04xTm9ia3pta1liSDdtNmZxbw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 15:27:00 GMT",
+  "published_ts": 1782487620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTDM5dzA2UWE0WFFuaHVlZXdYVUxBVUZKdFZWaVJTWV9KS29iZ0xSdU4xS19NU0JRU09kUTByYmczcmMyWkU5Wm5pSjR3bEcwV2pPQXFWQlUzQmRNZDhtZEFHanE1d1hHOE5obDY0Mzc3N04xTm9ia3pta1liSDdtNmZxbw?oc=5\" target=\"_blank\">Sandisk Stock Limps Along. The Micron Earnings Afterglow Is Gone.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Barron's",
+    "MSN"
+   ],
+   "titles": [
+    "Sandisk stock limps along. The Micron earnings afterglow is gone. - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's notes that SanDisk stock is underperforming and the positive momentum from Micron's recent earnings has faded. This is analysis of stock performance in the memory sector rather than a concrete event or hard catalyst, making it a soft, opinion-driven piece typical of market commentary."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "06791b2f3223720fcc1bcddd9e0fe0ccff05750d",
+  "source": "Business Insider",
+  "topic": "industry",
+  "title": "Forget Apple. Amazon just made AI a lot more expensive. - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmZmVHA0WTc1b2pzZWhpaFY5dElQRl82ZW5jRzJCaUdyTzRLU24tTmMzLWxUSVRycG1hNTNORlBHRzBTV2JxM25kZ29nODBKSmZhdDJYdEwwTUhiclROSHFqbmtfSm1aMWtsUGJOanAxb2ozYXlSZHM5RG1ZYXh5SE5FSzNYSTJmOWt0OTdxS3ZCUWQ1WkE?oc=5",
+  "published_at": "Fri, 26 Jun 2026 17:12:19 GMT",
+  "published_ts": 1782493939,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmZmVHA0WTc1b2pzZWhpaFY5dElQRl82ZW5jRzJCaUdyTzRLU24tTmMzLWxUSVRycG1hNTNORlBHRzBTV2JxM25kZ29nODBKSmZhdDJYdEwwTUhiclROSHFqbmtfSm1aMWtsUGJOanAxb2ozYXlSZHM5RG1ZYXh5SE5FSzNYSTJmOWt0OTdxS3ZCUWQ1WkE?oc=5\" target=\"_blank\">Forget Apple. Amazon just made AI a lot more expensive.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Insider"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Business Insider article discusses Amazon's actions making AI infrastructure more expensive. AI capex and infrastructure costs are relevant to memory-semiconductor demand (HBM, DRAM for data centers), but the snippet provides no concrete numbers, specific decisions, or confirmed supply/pricing changes—only analysis or commentary on cost implications."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "5a6a06fa645b8a9f662c919f82e2146653121e2a",
+  "source": "Investing.com UK",
+  "topic": "fund",
+  "title": "Why is Roundhill Memory ETF stock surging 14% today? - Investing.com UK",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXRPQV9vTzU1SkdzNjVsNUpWYmpJNHRwaGdIc2cxME11bVJyYmF5TkNJMDVLeXVuNV9aZzVkbkRsVndpaEFncG53OGxtZG40VjJZdHA0TjhRY2U0blBOT3VCS0lqa0l4RWVVYzZQQ3dtRnVjbElWR191d2FlTV9OSHY5aXVTSVNzTVFiZ0lsb3g1bU1SbTBpYXNEUlNCQVRjTmNXOEk2ZzZ0cVBMYU1MWDJFMnFKSHNjYm1KVkJMV0I?oc=5",
+  "published_at": "Thu, 25 Jun 2026 21:25:16 GMT",
+  "published_ts": 1782422716,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXRPQV9vTzU1SkdzNjVsNUpWYmpJNHRwaGdIc2cxME11bVJyYmF5TkNJMDVLeXVuNV9aZzVkbkRsVndpaEFncG53OGxtZG40VjJZdHA0TjhRY2U0blBOT3VCS0lqa0l4RWVVYzZQQ3dtRnVjbElWR191d2FlTV9OSHY5aXVTSVNzTVFiZ0lsb3g1bU1SbTBpYXNEUlNCQVRjTmNXOEk2ZzZ0cVBMYU1MWDJFMnFKSHNjYm1KVkJMV0I?oc=5\" target=\"_blank\">Why is Roundhill Memory ETF stock surging 14% today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com UK",
+    "Benzinga"
+   ],
+   "titles": [
+    "Why Is Sandisk Stock Falling Friday? - Benzinga"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Investing.com article asking why DRAM ETF surged 14% today. Without a disclosed catalyst in the snippet, this is a price-move story with no stated cause—relevant to fund monitoring but lacking concrete event details to warrant impact 4 or higher."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "fd4c976baa7a27906b0a980d820a0f096a0b9d5e",
+  "source": "Taipei Times",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix plan AI spending push: report - Taipei Times",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMVBfbHdHZlQxZlI3X2tUakdjdDJPUC02bXFmSUgzTG5zeDgzNWs2SGIwdnh0V3hlLV9ZdEdNUDdhZGdNNzFXMkJLTjR1bDQzSHVoYXVCbldfNG5TbWJSVXdKQmZaNWpkWmpJcHlmZDRYR0VJTmc?oc=5",
+  "published_at": "Fri, 26 Jun 2026 16:00:00 GMT",
+  "published_ts": 1782489600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMVBfbHdHZlQxZlI3X2tUakdjdDJPUC02bXFmSUgzTG5zeDgzNWs2SGIwdnh0V3hlLV9ZdEdNUDdhZGdNNzFXMkJLTjR1bDQzSHVoYXVCbldfNG5TbWJSVXdKQmZaNWpkWmpJcHlmZDRYR0VJTmc?oc=5\" target=\"_blank\">Samsung, SK Hynix plan AI spending push: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taipei Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Taipei Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix are planning increased AI-related capital spending. This is relevant to fund holdings but reported as a plan/intention rather than a confirmed, executed investment decision, making it analysis-level rather than a concrete event."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "8ff63a7e51c74ce6b91a429f90d22148bb8d84c2",
+  "source": "ETF.com",
+  "topic": "holding",
+  "title": "The Leveraged Tail Wags the Dog: Samsung & SK Hynix - ETF.com",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN1hyOVFfV0dXWHZhRTlyLUt2a3A5dmJmbUMxTGx6MTZPLVZkSWMxQjhIZGFLRmVhQVd4bFVEOGR0SHJMRC02YVdjMXExcWN5REhBZUlaeEFCSC1TdURjNUZUSHVKemJIWXhKdnROd21NbkxjQ29fZTVDNFY1ckk?oc=5",
+  "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
+  "published_ts": 1782370800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN1hyOVFfV0dXWHZhRTlyLUt2a3A5dmJmbUMxTGx6MTZPLVZkSWMxQjhIZGFLRmVhQVd4bFVEOGR0SHJMRC02YVdjMXExcWN5REhBZUlaeEFCSC1TdURjNUZUSHVKemJIWXhKdnROd21NbkxjQ29fZTVDNFY1ckk?oc=5\" target=\"_blank\">The Leveraged Tail Wags the Dog: Samsung & SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ETF.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article discussing Samsung and SK hynix in context of leveraged ETF dynamics, likely analyzing how these memory holdings influence fund behavior or performance. Analysis or commentary rather than a concrete event, making it a soft but relevant fund-related piece."
+  },
+  "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "8cec494044ca7179e9c78d0d1c2814be447f6a24",
+  "source": "Bitget",
+  "topic": "fund",
+  "title": "Jupiter supports on-chain trading of ETF DRAM on Solana - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mZktMVklYQnduR3FVT1EyMG1DcktUbW5aWXBxMl9wcFVlNFJmVy1xTVZzYmYwY2dsazI5VXhkMUZCVFR4dklUdk5tWG9KU0xWLWxqWjVhVzRHVlJmamcybFJtZ9IBY0FVX3lxTE9mZktMVklYQnduR3FVT1EyMG1DcktUbW5aWXBxMl9wcFVlNFJmVy1xTVZzYmYwY2dsazI5VXhkMUZCVFR4dklUdk5tWG9KU0xWLWxqWjVhVzRHVlJmamcybFJtZw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 14:24:26 GMT",
+  "published_ts": 1782483866,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mZktMVklYQnduR3FVT1EyMG1DcktUbW5aWXBxMl9wcFVlNFJmVy1xTVZzYmYwY2dsazI5VXhkMUZCVFR4dklUdk5tWG9KU0xWLWxqWjVhVzRHVlJmamcybFJtZ9IBY0FVX3lxTE9mZktMVklYQnduR3FVT1EyMG1DcktUbW5aWXBxMl9wcFVlNFJmVy1xTVZzYmYwY2dsazI5VXhkMUZCVFR4dklUdk5tWG9KU0xWLWxqWjVhVzRHVlJmamcybFJtZw?oc=5\" target=\"_blank\">Jupiter supports on-chain trading of ETF DRAM on Solana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Jupiter, a Solana-based DEX aggregator, has added support for on-chain trading of the Roundhill Memory ETF (DRAM) on the Solana blockchain. This is a minor development relating to the fund's accessibility and trading infrastructure, but does not affect the fund's holdings, performance, or the underlying memory-semiconductor market."
+  },
+  "buffered_ts": 1782494191.4455652
  }
 ]
