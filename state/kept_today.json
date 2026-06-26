@@ -1010,5 +1010,251 @@
    "summary": "Western Digital stock declining; article asks why without providing concrete disclosed catalyst or hard numbers. Typical price-move piece without substantive news."
   },
   "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "012c1fdd0277436056bfcf1a2f67d042df55efe9",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Micron’s (MU) Strong Q3 Results Spark a Relief Rally in Memory Stocks Western Digital and SanDisk - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWhsdjVHZDFZb1F5RG5JNURVb1VqWDdCTE5sU255UWlfQlBjNnhaZ09sX185S0lkRjZVR3RMcUJENDV0cFlmcTNDOS1hMVNTUGdaYTdGcEFYRVFGOFEzX0VGZGJTSDVlVE1Ebk03eERzRWdJM2JZeC1DZ0RKYnpMSzJDbEM4RTV5cVdyUU4yaDRwWTVMTUdtTGpCSnBwek5TN1FZYWRIRVRJQW9HZkhFQlBPd0ZxLUNLaC1iSkMyNkZHZw?oc=5",
+  "published_at": "Wed, 24 Jun 2026 22:23:44 GMT",
+  "published_ts": 1782339824,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWhsdjVHZDFZb1F5RG5JNURVb1VqWDdCTE5sU255UWlfQlBjNnhaZ09sX185S0lkRjZVR3RMcUJENDV0cFlmcTNDOS1hMVNTUGdaYTdGcEFYRVFGOFEzX0VGZGJTSDVlVE1Ebk03eERzRWdJM2JZeC1DZ0RKYnpMSzJDbEM4RTV5cVdyUU4yaDRwWTVMTUdtTGpCSnBwek5TN1FZYWRIRVRJQW9HZkhFQlBPd0ZxLUNLaC1iSkMyNkZHZw?oc=5\" target=\"_blank\">Micron’s (MU) Strong Q3 Results Spark a Relief Rally in Memory Stocks Western Digital and SanDisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported strong Q3 earnings results that triggered a relief rally in memory stocks, including holdings Western Digital and SanDisk. Concrete earnings results and confirmed stock price movement with an identified catalyst."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "be3b9a1e386038796fbdd8979e89380af44545b7",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 10.80% on Jun 26: What Signal Does It Send? - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVZmcUJINWgwd3VnY0ZvaXBNNnpCZlhKelZadDlBNW1jNmMxbHhKQk00RjlfSzFRWk9XZklDcFJmc0wzTlozUFNUWkgzT1Z5d0xSRlFVSlhUcFB0MXF0X2JGa1BGM3o4cEJLTGZVeG5yTVVEeW13TjJ1X1YzYUZDclBMcF9LMW5kY2c?oc=5",
+  "published_at": "Fri, 26 Jun 2026 19:15:23 GMT",
+  "published_ts": 1782501323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVZmcUJINWgwd3VnY0ZvaXBNNnpCZlhKelZadDlBNW1jNmMxbHhKQk00RjlfSzFRWk9XZklDcFJmc0wzTlozUFNUWkgzT1Z5d0xSRlFVSlhUcFB0MXF0X2JGa1BGM3o4cEJLTGZVeG5yTVVEeW13TjJ1X1YzYUZDclBMcF9LMW5kY2c?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC Stock (STX) Moved Down by 10.80% on Jun 26: What Signal Does It Send?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, declined 10.80% on Jun 26. The article asks what signal this sends but provides no disclosed catalyst or fundamental reason for the move—it is a price-movement piece without stated cause, typical of technical/sentiment analysis rather than concrete news."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "0ef413f4601112fe8214ec5736c986c2fcc0234a",
+  "source": "Sentinel Colorado",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Sentinel Colorado",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3RfSVU2TjIwWlV4Y0RDaXNBTmZQVjI4bUEwWlJFSEJLN3dpOUJMVHZzYjNXQk5rMVFMRWIzSFRnNnRBbHBhY0xuSHJ4b1BYcW1vLUlYN1FpYTFmRUYxRFp4LWRkbXJIbjE1QWF3RE9ZbEtJekJxUnNxSTRheHB3c01GemRMMnZGaVMxSG4yVGk2eGFUSzBPREhDUkRrdzRKVGh2VW8tQTdRR2VoTU5yTHJEOXNuLXVLY0ZBZw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 20:37:01 GMT",
+  "published_ts": 1782506221,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3RfSVU2TjIwWlV4Y0RDaXNBTmZQVjI4bUEwWlJFSEJLN3dpOUJMVHZzYjNXQk5rMVFMRWIzSFRnNnRBbHBhY0xuSHJ4b1BYcW1vLUlYN1FpYTFmRUYxRFp4LWRkbXJIbjE1QWF3RE9ZbEtJekJxUnNxSTRheHB3c01GemRMMnZGaVMxSG4yVGk2eGFUSzBPREhDUkRrdzRKVGh2VW8tQTdRR2VoTU5yTHJEOXNuLXVLY0ZBZw?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sentinel Colorado</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Sentinel Colorado",
+    "The New York Times"
+   ],
+   "titles": [
+    "Apple Raises Prices on Macs and iPads Amid the A.I. Boom - The New York Times"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple citing memory chip shortage as justification for Mac and iPad price increases. Indicates tight supply conditions in memory market, but lacks confirmation of DRAM/NAND spot price moves, production cuts, or direct impact on fund holdings' guidance or earnings. Soft evidence of demand/supply dynamics rather than a concrete, market-moving event."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "5a85bbe3758d7b6fda08cfad0a124c4a19a71d3a",
+  "source": "MarketWise",
+  "topic": "holding",
+  "title": "SK Hynix’s $29 Billion U.S. IPO: Everything Memory Stock Investors Should Know - MarketWise",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORE5NWW9WTkJwVDBwR2ZmQ1NkXzIzVXl1ZXAyakc3LV9XMExOc2cwV2VETTV4dktNV1dIb2paU1pHb2Q5R05Yb1NiMl9QWU5kR1BRclJSSlNSTVBPS1liVVpfaDZLVm01bTdISFd5bE80cEkwMkxkYno3RXNSb29XRW1sSk5FV1c0S1V3OVRGVEpOQ0hxMlZiVlBFYkwxREM3Q3U3d1BXZHBLeUcw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 15:56:42 GMT",
+  "published_ts": 1782489402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORE5NWW9WTkJwVDBwR2ZmQ1NkXzIzVXl1ZXAyakc3LV9XMExOc2cwV2VETTV4dktNV1dIb2paU1pHb2Q5R05Yb1NiMl9QWU5kR1BRclJSSlNSTVBPS1liVVpfaDZLVm01bTdISFd5bE80cEkwMkxkYno3RXNSb29XRW1sSk5FV1c0S1V3OVRGVEpOQ0hxMlZiVlBFYkwxREM3Q3U3d1BXZHBLeUcw?oc=5\" target=\"_blank\">SK Hynix’s $29 Billion U.S. IPO: Everything Memory Stock Investors Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWise</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWise"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix planning a $29 billion U.S. IPO. This is a significant corporate action for a major DRAM holding, but the story appears to be analysis/guidance rather than confirmation of an actual IPO event. IPO would materially alter SK Hynix's capital structure and availability to DRAM fund investors, but classified as 3 (possibility/discussion) rather than 4-5 until formally launched."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "9e4e976ca5992ad8fe9c4fd155115f114023781c",
+  "source": "CoinCentral",
+  "topic": "holding",
+  "title": "Western Digital (WDC) Stock Jumps 13% as Micron Earnings Lift Memory Sector - CoinCentral",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2pxWEIwOG5ZaVdHUkR4dXNScnB0Qk9YVTVQc0hITXQ0R1M1cUc4UWpQcGt1SUhDaEEtY0ZFeGdTWkowRHJYYm9SVmNaOF9XN1pBcENadjJNSGY4ZGZXenhvQ241VjA2WGtPMGxnVF9tbndOYXZwTXhDeHFmN0dHNDhJT25Jd2dwNUdVcFU4Vy1Ob1B2WkwtdnFnVUNXdw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 12:33:32 GMT",
+  "published_ts": 1782390812,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2pxWEIwOG5ZaVdHUkR4dXNScnB0Qk9YVTVQc0hITXQ0R1M1cUc4UWpQcGt1SUhDaEEtY0ZFeGdTWkowRHJYYm9SVmNaOF9XN1pBcENadjJNSGY4ZGZXenhvQ241VjA2WGtPMGxnVF9tbndOYXZwTXhDeHFmN0dHNDhJT25Jd2dwNUdVcFU4Vy1Ob1B2WkwtdnFnVUNXdw?oc=5\" target=\"_blank\">Western Digital (WDC) Stock Jumps 13% as Micron Earnings Lift Memory Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "CoinCentral",
+    "TipRanks"
+   ],
+   "titles": [
+    "Western Digital Soars on AI Memory Boom Shockwave - TipRanks"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital stock rose 13% following Micron earnings results that lifted the broader memory sector. This is a price-move story tied to a concrete earnings event (Micron's results), but the article appears to report the stock movement itself rather than detailing specific guidance changes, production decisions, or market-moving announcements from the earnings call. Impact is 3 because while Micron earnings are material, this piece focuses on the secondary effect (WDC stock jump) without disclosing the underlying catalyst detail."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "b4f5ed5d0833ccba16a5d7bd6288b36d6d4b65d7",
+  "source": "TechInsights",
+  "topic": "pricing",
+  "title": "Why the AI Memory Shortage Could Keep DRAM and NAND Prices High for Years - TechInsights",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbURyQWFoTmhUcDlERnhKYmxFOWg3LTZyZndMT1BFaDhoTmpsTUtQd2FGZ3FpNWJuRC1UUFI3a3RZZTlBMHA5V0lVOFh3Q0RFWHIzVFBDQVhUS0V0aldhd3RPZi1iUzhac0NoRTRVUEtFa0VadkNzMVZkNGZkVlprOGR2bG9UWlA0dlk4R3F6dGlZM0QtYUxrTEJRZW4wa1lV?oc=5",
+  "published_at": "Fri, 26 Jun 2026 17:28:40 GMT",
+  "published_ts": 1782494920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbURyQWFoTmhUcDlERnhKYmxFOWg3LTZyZndMT1BFaDhoTmpsTUtQd2FGZ3FpNWJuRC1UUFI3a3RZZTlBMHA5V0lVOFh3Q0RFWHIzVFBDQVhUS0V0aldhd3RPZi1iUzhac0NoRTRVUEtFa0VadkNzMVZkNGZkVlprOGR2bG9UWlA0dlk4R3F6dGlZM0QtYUxrTEJRZW4wa1lV?oc=5\" target=\"_blank\">Why the AI Memory Shortage Could Keep DRAM and NAND Prices High for Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechInsights</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechInsights"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TechInsights analysis on AI-driven memory shortage potentially sustaining elevated DRAM and NAND prices over multiple years. Soft forecast/opinion rather than confirmed pricing data or concrete events, but directly relevant to fund holdings' pricing trajectory."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "50f4a75716f575dc232d774df24b2a4b8c6246a5",
+  "source": "The Mac Observer",
+  "topic": "industry",
+  "title": "Micron Exec Claims Apple Caused The Current Memory Chip Shortage - The Mac Observer",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSk1NclZ6M3lVQkFQbTBMcEVITmVOSC1oQ1MxenB5dU9ZbG4yRVRNdHFCcTd4TENlRDRNQ0M4WWpfOWRCMlZLZ1ZjZHExU0RrSnljdHhEQ25HZ0ZSWjFlNEhjNl9vS3RNQk5xaUItN3RIaWtCN2J2Tk1zNTZYNGplRzRPajFtRFlGN01rYmFGNnBtTU9yUjIzTzBSZzlSdkU?oc=5",
+  "published_at": "Fri, 26 Jun 2026 20:05:56 GMT",
+  "published_ts": 1782504356,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSk1NclZ6M3lVQkFQbTBMcEVITmVOSC1oQ1MxenB5dU9ZbG4yRVRNdHFCcTd4TENlRDRNQ0M4WWpfOWRCMlZLZ1ZjZHExU0RrSnljdHhEQ25HZ0ZSWjFlNEhjNl9vS3RNQk5xaUItN3RIaWtCN2J2Tk1zNTZYNGplRzRPajFtRFlGN01rYmFGNnBtTU9yUjIzTzBSZzlSdkU?oc=5\" target=\"_blank\">Micron Exec Claims Apple Caused The Current Memory Chip Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mac Observer</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Mac Observer"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "A Micron executive claims Apple's demand has contributed to current memory chip shortages. This is commentary/claim from an industry player rather than a confirmed supply event or earnings data, making it analysis-level relevance rather than a concrete market-moving fact."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "810b89e9a00f24dea042b225a9382f5aae58aa20",
+  "source": "Business Insider Africa",
+  "topic": "industry",
+  "title": "Forget Apple. Amazon just made AI a lot more expensive. - Business Insider Africa",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmctNEQ0aHNUZ3ZVd3JJYzVEZFB6bEVEclBGTTNmS0IyVFhCWDRLZGdDbWd0bVJUTks5Wk1VQVpyWW9Tb3NKbzhxaEdmZE5uWk9iNUNiWHZkSmRJM2FDamwwTDMxQngtUmZMUHdQSWVvdE9TT1cxYk1EeHhnYkg4Qy1aeHF3Qk93alFCZWRvRHlGb0dDNG9kUFFtOHBnT1RQOXJz?oc=5",
+  "published_at": "Fri, 26 Jun 2026 17:12:04 GMT",
+  "published_ts": 1782493924,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmctNEQ0aHNUZ3ZVd3JJYzVEZFB6bEVEclBGTTNmS0IyVFhCWDRLZGdDbWd0bVJUTks5Wk1VQVpyWW9Tb3NKbzhxaEdmZE5uWk9iNUNiWHZkSmRJM2FDamwwTDMxQngtUmZMUHdQSWVvdE9TT1cxYk1EeHhnYkg4Qy1aeHF3Qk93alFCZWRvRHlGb0dDNG9kUFFtOHBnT1RQOXJz?oc=5\" target=\"_blank\">Forget Apple. Amazon just made AI a lot more expensive.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Insider Africa"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Amazon's AI infrastructure costs are rising, signaling increased capex spending on AI-compute buildout. This suggests sustained demand for memory components (HBM, DRAM, NAND) as cloud providers scale data-center capacity, relevant to the memory cycle, but the story appears to be analysis/commentary rather than a concrete announcement of new spending or a quantified capex increase."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "e3e825a8b7a8070d0cb894547852945a8d60542c",
+  "source": "SSBCrack",
+  "topic": "holding",
+  "title": "Dell Falls 6% as Western Digital Surges 5% Amid Diverging AI Trade - SSBCrack",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUN1N1dMdXZ4QU1JWXdhcFdhTVpQWGNZRm4wUk5ZcExiUm1WMVJTWDlpLVZKeVdxbWhNWkxuU3M3UjdKU1c3OW1yYW1TeFYtTF91bF9Pbnlia0dwR3p2SXdNd2xCMGV2UmN6Um9ybzRxV2lMSE53b0FEMnNGbGh6WlB0amY0Z0dwX25qV0J0bHVjUDBBS0E?oc=5",
+  "published_at": "Fri, 26 Jun 2026 09:48:41 GMT",
+  "published_ts": 1782467321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUN1N1dMdXZ4QU1JWXdhcFdhTVpQWGNZRm4wUk5ZcExiUm1WMVJTWDlpLVZKeVdxbWhNWkxuU3M3UjdKU1c3OW1yYW1TeFYtTF91bF9Pbnlia0dwR3p2SXdNd2xCMGV2UmN6Um9ybzRxV2lMSE53b0FEMnNGbGh6WlB0amY0Z0dwX25qV0J0bHVjUDBBS0E?oc=5\" target=\"_blank\">Dell Falls 6% as Western Digital Surges 5% Amid Diverging AI Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SSBCrack</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SSBCrack"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, rose 5% while Dell fell 6% in what appears to be a diverging AI-trade narrative. The story reports stock price movements but does not disclose a specific catalyst, earnings result, or confirmed business development driving WDC's gain."
+  },
+  "buffered_ts": 1782507993.7566118
+ },
+ {
+  "id": "5ce6fbe8aaa6085dd7254910c5000b9058fcdb06",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Why is Western Digital stock surging Thursday? - MSN",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3FCTHhsY2E3MU02NXZabzlWUzZJOHd1eWpnSnhHZngydzgtMzEtZG5Sc2E0SmJtRWJVaUhDdEtpN2dJclBPdkt2Vk1CMXByODZjT3NLSGlndWVPSlI1bG1kdFZERWVPRG9lbTNXRDJZYzNsWERkNXYwOWxyWG9aNlpHeGpDSzF1Nk1UOHota2dIdTZoSHFMZkh3?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:39:20 GMT",
+  "published_ts": 1782412760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3FCTHhsY2E3MU02NXZabzlWUzZJOHd1eWpnSnhHZngydzgtMzEtZG5Sc2E0SmJtRWJVaUhDdEtpN2dJclBPdkt2Vk1CMXByODZjT3NLSGlndWVPSlI1bG1kdFZERWVPRG9lbTNXRDJZYzNsWERkNXYwOWxyWG9aNlpHeGpDSzF1Nk1UOHota2dIdTZoSHFMZkh3?oc=5\" target=\"_blank\">Why is Western Digital stock surging Thursday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a fund holding, experienced a stock surge on Thursday. The headline indicates a price move occurred but provides no disclosed catalyst or concrete event explanation in the snippet, making this a soft relevance story."
+  },
+  "buffered_ts": 1782507993.7566118
  }
 ]
