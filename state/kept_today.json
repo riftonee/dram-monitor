@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "id": "c4761f49145e3cc37b52153405ad01e84e092c36",
+  "source": "upi.com",
+  "topic": "holding",
+  "title": "SK Telecom to invest $481 million in SK hynix’s U.S. affiliate - upi.com",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFY3ZVR2eTM1WWtMWHRSajFqWFRwMm1lLW1QbHJ1YS11ZERFdmw1UUtmd2VMblAtLWRhR1NJUWdrNVE1dEg0VVlRLUd6cVJsOENfanlmckhHaWFLX2NYNVFDTEd2SGpKZUJDbUdwQ2tMaFU4UkJLZTdoeldrVFZkdEZfalVybUU?oc=5",
+  "published_at": "Fri, 26 Jun 2026 11:55:09 GMT",
+  "published_ts": 1782474909,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFY3ZVR2eTM1WWtMWHRSajFqWFRwMm1lLW1QbHJ1YS11ZERFdmw1UUtmd2VMblAtLWRhR1NJUWdrNVE1dEg0VVlRLUd6cVJsOENfanlmckhHaWFLX2NYNVFDTEd2SGpKZUJDbUdwQ2tMaFU4UkJLZTdoeldrVFZkdEZfalVybUU?oc=5\" target=\"_blank\">SK Telecom to invest $481 million in SK hynix’s U.S. affiliate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "upi.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Telecom announces $481 million investment in SK hynix's U.S. affiliate, representing a concrete capital commitment that strengthens hynix's U.S. operations and manufacturing capacity in memory semiconductors."
+  },
+  "buffered_ts": 1782477100.9293265
+ },
+ {
+  "id": "27a110096c9a0a61de180833832a63fdbef9b1c1",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "ON Semiconductor, SanDisk And Other Big Stocks Moving Lower In Friday’s Pre-Market Session - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZXVvZHRmZGpqVFJ5VDFqLUJVYUhuZDJ4VVJGQVNMdG45cW9iT0h0YURvZ2ZSVDVhTERmSTNUQkdOMy1ka1FjYjdwZlYwR1JGLTFJbFN2ZEJ2Z3ZuclVuQmFtdDV2STNSNGFMcGNMMXlyeUx5Z3ZURHdrUGtWSF8tZUFUWW9Cek4tOTVhSURGQ1M5VGh4QVlyaDZZZ2gxandrSjJjN3dzY3lwMWlLd0ZOTWZZVEpzMXpoTmFVeDdYMklwTHpSeUJaUnFqQ1V0UElGeEVHWVBRNmZtOTZEOFdXbzdncw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 12:03:03 GMT",
+  "published_ts": 1782475383,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZXVvZHRmZGpqVFJ5VDFqLUJVYUhuZDJ4VVJGQVNMdG45cW9iT0h0YURvZ2ZSVDVhTERmSTNUQkdOMy1ka1FjYjdwZlYwR1JGLTFJbFN2ZEJ2Z3ZuclVuQmFtdDV2STNSNGFMcGNMMXlyeUx5Z3ZURHdrUGtWSF8tZUFUWW9Cek4tOTVhSURGQ1M5VGh4QVlyaDZZZ2gxandrSjJjN3dzY3lwMWlLd0ZOTWZZVEpzMXpoTmFVeDdYMklwTHpSeUJaUnFqQ1V0UElGeEVHWVBRNmZtOTZEOFdXbzdncw?oc=5\" target=\"_blank\">ON Semiconductor, SanDisk And Other Big Stocks Moving Lower In Friday’s Pre-Market Session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) mentioned as moving lower in pre-market session. Story is a price move without disclosed catalyst—pure market action reporting, not tied to earnings, guidance, or a specific event."
+  },
+  "buffered_ts": 1782477100.9293265
+ },
+ {
+  "id": "0819e5f9260b107da8d7345c98a4759f167eeef2",
+  "source": "CNBC",
+  "topic": "industry",
+  "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2d6bGtzQWpsRnc4VTdvcURwTEpHamVfYkhQRjhnd2pFb2FMR0VSSW9Wbm5EaGU3YmxPMVNTZl9ZTFZnajZNUm51cDNjVE13US12RG1tSWVtazludkM3bE9tSWRRZE5vY1F6SGt5QjNIREhEVWMwb1RKdlkxbE1aelRiOHprZDZ4UjJ2SE4xQWR1QdIBlwFBVV95cUxOTmZ2ZE1fLUdYLWttTWhlRUlrZkktN2NvVGVCSmZFaVRUUURyUjVESjUycm5KVloyRGVNdkNKM1h4VGRIb1hHcGVGWFRsdHJhbk1MQWlOZTNFNmtoZXJNSy1TVjctOXgyRElNa0VZWVJWSWRUUGgwOEo5cWY2RmZXUDR5aDVTMjctYWx1RS1XUUpxTWVqd2xn?oc=5",
+  "published_at": "Fri, 26 Jun 2026 12:00:01 GMT",
+  "published_ts": 1782475201,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2d6bGtzQWpsRnc4VTdvcURwTEpHamVfYkhQRjhnd2pFb2FMR0VSSW9Wbm5EaGU3YmxPMVNTZl9ZTFZnajZNUm51cDNjVE13US12RG1tSWVtazludkM3bE9tSWRRZE5vY1F6SGt5QjNIREhEVWMwb1RKdlkxbE1aelRiOHprZDZ4UjJ2SE4xQWR1QdIBlwFBVV95cUxOTmZ2ZE1fLUdYLWttTWhlRUlrZkktN2NvVGVCSmZFaVRUUURyUjVESjUycm5KVloyRGVNdkNKM1h4VGRIb1hHcGVGWFRsdHJhbk1MQWlOZTNFNmtoZXJNSy1TVjctOXgyRElNa0VZWVJWSWRUUGgwOEo5cWY2RmZXUDR5aDVTMjctYWx1RS1XUUpxTWVqd2xn?oc=5\" target=\"_blank\">Rise in memory chip costs puts pressure on retailers of laptops and smartphones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "CNBC reports rising memory chip costs pressuring laptop and smartphone retailers. This reflects pricing dynamics in DRAM/NAND markets, a leading indicator for memory-semiconductor stocks, but the article appears to be analysis of cost trends rather than reporting a concrete price level, contract negotiation outcome, or supply shock."
+  },
+  "buffered_ts": 1782477100.9293265
+ }
+]
