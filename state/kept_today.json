@@ -786,5 +786,229 @@
    "summary": "Jupiter, a Solana-based DEX aggregator, has added support for on-chain trading of the Roundhill Memory ETF (DRAM) on the Solana blockchain. This is a minor development relating to the fund's accessibility and trading infrastructure, but does not affect the fund's holdings, performance, or the underlying memory-semiconductor market."
   },
   "buffered_ts": 1782494191.4455652
+ },
+ {
+  "id": "03da54175b55eb119e9863bcebced3c44e306a9a",
+  "source": "Investorideas.com",
+  "topic": "holding",
+  "title": "Micron's Record $41.5 Billion Quarter and $50 Billion Guide Reignite the AI-Memory Trade - Investorideas.com",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1EzcDdTWmNyOFlFeTViVFhVSkJHWWNiVHBYd0hsZlJrRDF5cWVtOXgtUk9JWnFEdXNvNzh1NDU2T1o3NkllWjVJanlMbkVKTWF5TjdLSkRPdnFZWkJ0UGc1RzRGSUpqU2tPc095VFl5LVdRSlgzM2JJQ1RZcm1WRnRBQUZjanFiUHZaaEJHdw?oc=5",
+  "published_at": "Thu, 25 Jun 2026 15:42:00 GMT",
+  "published_ts": 1782402120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1EzcDdTWmNyOFlFeTViVFhVSkJHWWNiVHBYd0hsZlJrRDF5cWVtOXgtUk9JWnFEdXNvNzh1NDU2T1o3NkllWjVJanlMbkVKTWF5TjdLSkRPdnFZWkJ0UGc1RzRGSUpqU2tPc095VFl5LVdRSlgzM2JJQ1RZcm1WRnRBQUZjanFiUHZaaEJHdw?oc=5\" target=\"_blank\">Micron's Record $41.5 Billion Quarter and $50 Billion Guide Reignite the AI-Memory Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investorideas.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investorideas.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron reported record $41.5 billion quarterly revenue and issued $50 billion forward guidance, directly driven by AI-memory demand. This is a concrete, major earnings result and guidance event from a core DRAM ETF holding that materially signals strength in the memory cycle."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "e1cb5fe3ba8ddfb7adff7cb162e2c4b56c61c5d5",
+  "source": "KuCoin",
+  "topic": "pricing",
+  "title": "SK Hynix Q2 Earnings Exceed Expectations Amid DRAM and NAND Price Increases - KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDJ4NG1vek9mcjVjYmtKMHp6Qzl2ZWx2bWZLaDhDM2E2cTc1MVp4a0Y1OENQMUxhNXZnSFpBR05sMkE4SWNUa09HVzVkSmV2Yi1ZcmF1QTZyZU5RSFoxb0dyWENGX3B0RS11YnRFeV9aaG1RUjBCSVAyNWFWZ1M2TGVkZ09zYTBpY0Y4cHBFeXozS2RVa01jR0ZGYUNvX2ZGNGdmZ043UHI2QQ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 07:13:02 GMT",
+  "published_ts": 1782457982,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDJ4NG1vek9mcjVjYmtKMHp6Qzl2ZWx2bWZLaDhDM2E2cTc1MVp4a0Y1OENQMUxhNXZnSFpBR05sMkE4SWNUa09HVzVkSmV2Yi1ZcmF1QTZyZU5RSFoxb0dyWENGX3B0RS11YnRFeV9aaG1RUjBCSVAyNWFWZ1M2TGVkZ09zYTBpY0Y4cHBFeXozS2RVa01jR0ZGYUNvX2ZGNGdmZ043UHI2QQ?oc=5\" target=\"_blank\">SK Hynix Q2 Earnings Exceed Expectations Amid DRAM and NAND Price Increases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KuCoin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "SK Hynix reported Q2 earnings that exceeded expectations, driven by DRAM and NAND price increases. This is a confirmed earnings beat for a major DRAM ETF holding with concrete financial results tied to memory pricing strength."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "ce77fa63d9a1b656cf7b8ca8c8cb40fe5821eb70",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Nvidia Supplier SK Hynix's Wall Street Debut Could Be Good News For Micron: Here's Why - Micron Technolog - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUdmeTFRZGVvajFDTTJ6SmVUTXU1RjJFMTNTWkNsRWx6cGFYU0J4RG94NTlWLU82OFE4ZUFreDJoVkxhMzJKcFpJaUZzS3BNOVNvcEJVNEtUb3UyYXoyaEVDV1VMbHltcWlyUE8zd1cwc2pmZ3NvMWluVGtld2FMNEp5S0prSDVEU215T0M3TUJFc2R4UTNtZjluOFpYaEM2NDFORnhkRWpsd1RrSTM0czhSRE52ZU9ORTVENng3OW9RT1RiV0ptVkEwbUZmcWd6clE?oc=5",
+  "published_at": "Fri, 26 Jun 2026 13:45:37 GMT",
+  "published_ts": 1782481537,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUdmeTFRZGVvajFDTTJ6SmVUTXU1RjJFMTNTWkNsRWx6cGFYU0J4RG94NTlWLU82OFE4ZUFreDJoVkxhMzJKcFpJaUZzS3BNOVNvcEJVNEtUb3UyYXoyaEVDV1VMbHltcWlyUE8zd1cwc2pmZ3NvMWluVGtld2FMNEp5S0prSDVEU215T0M3TUJFc2R4UTNtZjluOFpYaEM2NDFORnhkRWpsd1RrSTM0czhSRE52ZU9ORTVENng3OW9RT1RiV0ptVkEwbUZmcWd6clE?oc=5\" target=\"_blank\">Nvidia Supplier SK Hynix's Wall Street Debut Could Be Good News For Micron: Here's Why - Micron Technolog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece speculating that SK hynix's Wall Street listing could benefit Micron. This is opinion/analysis about a potential market development rather than a confirmed event with concrete numbers or stated catalyst for stock movement."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "98ada83ba68a0098a1486ae44871d56edf388ff6",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0lROEt2TDYtS3dVTHlZd1ZMUV95MTltOHdBaXpFNTdkUklhaUdDRVp3aFQzWXpvR0FhTWNiZ0NUWFJuczVjQWN1UTg3QVpFbUQ1OHltSHI2LXV3YTFjY010dEp0V1A5elJzbGZjRXpMeDdHdDBqS3VfakRONjhyenpCZWxnUXVScEdqWjFRN0d3OE5Xb3RRSWoza0pCQQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 21:00:05 GMT",
+  "published_ts": 1782421205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0lROEt2TDYtS3dVTHlZd1ZMUV95MTltOHdBaXpFNTdkUklhaUdDRVp3aFQzWXpvR0FhTWNiZ0NUWFJuczVjQWN1UTg3QVpFbUQ1OHltSHI2LXV3YTFjY010dEp0V1A5elJzbGZjRXpMeDdHdDBqS3VfakRONjhyenpCZWxnUXVScEdqWjFRN0d3OE5Xb3RRSWoza0pCQQ?oc=5\" target=\"_blank\">As Samsung, SK Battle Over HBM, China Eats Into Commodity Memory Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix compete in HBM market while Chinese competitors gain share in commodity DRAM/NAND. Reflects industry dynamics but lacks specific concrete events, hard numbers, or confirmed market impacts."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "b0005c358319589302b8223e9ded0f892ad31419",
+  "source": "TradingKey",
+  "topic": "pricing",
+  "title": "Apple (AAPL) Falls 6% as Memory Crisis Forces Price Hikes Across Macs and iPads - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEhmMFlOSnlnUklKNXdESE5iTWJQNUNUMnkySmR0dkRFcGMtWmJncHJYRHVtdk5ZdzlOZm90ZUxmcGpFVGlUbjhoX19McVpVSngyNEhDTkVtYlJxWHM0d012WVNJMnhJdk1ybkhBSU1vd0U1OEZpcmVFRURkVVc5YldpUGxzblhHNDk3UDJVQzh2UkFGcDN3WkljajM2dGxKQ2c3LVBjMGZvUXctS2laX0NpdEZFclpfWHZvZmJGV0I2cThxSGVFNGtmUjh3Qnd4WWNr?oc=5",
+  "published_at": "Fri, 26 Jun 2026 13:04:02 GMT",
+  "published_ts": 1782479042,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEhmMFlOSnlnUklKNXdESE5iTWJQNUNUMnkySmR0dkRFcGMtWmJncHJYRHVtdk5ZdzlOZm90ZUxmcGpFVGlUbjhoX19McVpVSngyNEhDTkVtYlJxWHM0d012WVNJMnhJdk1ybkhBSU1vd0U1OEZpcmVFRURkVVc5YldpUGxzblhHNDk3UDJVQzh2UkFGcDN3WkljajM2dGxKQ2c3LVBjMGZvUXctS2laX0NpdEZFclpfWHZvZmJGV0I2cThxSGVFNGtmUjh3Qnd4WWNr?oc=5\" target=\"_blank\">Apple (AAPL) Falls 6% as Memory Crisis Forces Price Hikes Across Macs and iPads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple stock fell 6% on reports of memory supply constraints forcing price increases for Macs and iPads. The story indicates DRAM/memory pricing pressure is affecting major OEMs, but lacks concrete details on actual price hikes, supply cuts, or memory chip prices themselves. This is a price-move story with an inferred cause rather than a confirmed pricing development."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "6526b8267e5a1db2e71f1cfc23f19a803d5f7010",
+  "source": "KTVB",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - KTVB",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTnh0Yl9CUXRDcG9JQ2pLRkpJUjBkOXpxZldDVzgtcnhnc1lVMWJFY1FfSkUzNUk3VFRZYXVjM3NtTEhiU0g5UmpzdHhxanVQOV8yQktIMWR0ZkNzYllNU3N3VHZ4NVU1MEZtWWM4UURVcmUwRE9uWlcwQlk5QmlzMGQ3VDVmc2VJTzc3S05ZWlhWSUNubUZPOHdDVHBtWDk2MGtSMGRVbnlCUDFGVTJHXy1ZOU9VOWVRZHZxajRKaDdPR0Z2aDJudkFqYUZxcmF0alB4ZTFvVUpLNGg3MzJJN21jd0lSQ2MtaTRSM0VRMVp4cm5QQmRCTk9VdzRGbXNZLVMzQQ?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:53:00 GMT",
+  "published_ts": 1782413580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPTnh0Yl9CUXRDcG9JQ2pLRkpJUjBkOXpxZldDVzgtcnhnc1lVMWJFY1FfSkUzNUk3VFRZYXVjM3NtTEhiU0g5UmpzdHhxanVQOV8yQktIMWR0ZkNzYllNU3N3VHZ4NVU1MEZtWWM4UURVcmUwRE9uWlcwQlk5QmlzMGQ3VDVmc2VJTzc3S05ZWlhWSUNubUZPOHdDVHBtWDk2MGtSMGRVbnlCUDFGVTJHXy1ZOU9VOWVRZHZxajRKaDdPR0Z2aDJudkFqYUZxcmF0alB4ZTFvVUpLNGg3MzJJN21jd0lSQ2MtaTRSM0VRMVp4cm5QQmRCTk9VdzRGbXNZLVMzQQ?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KTVB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple citing memory chip shortage as justification for price increases on Macs and iPads. Reflects tight memory market conditions but is Apple's pricing decision and rationale rather than a confirmed supply constraint or price movement in the memory sector itself."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "0191453fcbb4567f6c50c653906d6b17e61c335c",
+  "source": "Finimize",
+  "topic": "holding",
+  "title": "Why SK Hynix looks like an even smarter bet after its ADR approval - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGJDck9EaFRQXzdWS1BSWUsteHhhNjlsOUdmSmJ1TFJyMzNsNXdranJVWGZEd044amJ2S2Q0REN1N2xsVy1tMHhKZ2pKNmFFQ19XSjE5VU9Hd2JEd1Fid2dqNFV2MWRsTmUyMGxlZTRhWFlva0o0YzFzR2N5dGZGRWdR?oc=5",
+  "published_at": "Fri, 26 Jun 2026 17:13:16 GMT",
+  "published_ts": 1782493996,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGJDck9EaFRQXzdWS1BSWUsteHhhNjlsOUdmSmJ1TFJyMzNsNXdranJVWGZEd044amJ2S2Q0REN1N2xsVy1tMHhKZ2pKNmFFQ19XSjE5VU9Hd2JEd1Fid2dqNFV2MWRsTmUyMGxlZTRhWFlva0o0YzFzR2N5dGZGRWdR?oc=5\" target=\"_blank\">Why SK Hynix looks like an even smarter bet after its ADR approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR approval is a structural development that improves accessibility for US investors in a core DRAM ETF holding, but is commentary/analysis rather than a market-moving event. The approval itself (if confirmed) is concrete; the 'smarter bet' framing is opinion."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "d8b775f67430d02dde12fad9e60f0b1aa517307a",
+  "source": "The Motley Fool",
+  "topic": "fund",
+  "title": "Is the Roundhill Memory ETF (DRAM) a Buy Before July 10? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWY3OXFJTmhOVEplQjFiY25VbktEWi1MdUFCeFF2RU1aR01pZlJLRk8xcDN2aWdhU0Q5aVBOdThVbFJkTEYtTUZlMEdVZVlLVGRTS2ZFcUNGVUR4WGR0Z09kX1c4ZVFCVDJNWkgxcWRoQlhZVlF5ZzI1LTBxRDlGTHA3aVNnVEZid09OazBEYnJzZ1hf?oc=5",
+  "published_at": "Fri, 26 Jun 2026 17:05:25 GMT",
+  "published_ts": 1782493525,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWY3OXFJTmhOVEplQjFiY25VbktEWi1MdUFCeFF2RU1aR01pZlJLRk8xcDN2aWdhU0Q5aVBOdThVbFJkTEYtTUZlMEdVZVlLVGRTS2ZFcUNGVUR4WGR0Z09kX1c4ZVFCVDJNWkgxcWRoQlhZVlF5ZzI1LTBxRDlGTHA3aVNnVEZid09OazBEYnJzZ1hf?oc=5\" target=\"_blank\">Is the Roundhill Memory ETF (DRAM) a Buy Before July 10?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance",
+    "AOL.com"
+   ],
+   "titles": [
+    "Is the Roundhill Memory ETF (DRAM) a Buy Before July 10? - Yahoo Finance",
+    "Is the Roundhill Memory ETF (DRAM) a Buy Before July 10? - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Motley Fool opinion piece on whether DRAM ETF is a buy ahead of July 10 date. This is investment commentary and analysis, not a concrete fund event, price move with disclosed catalyst, or structural change."
+  },
+  "buffered_ts": 1782501489.61587
+ },
+ {
+  "id": "6c8f38f31dac246813a4a6959b73e2f010f7b4a0",
+  "source": "Investing.com UK",
+  "topic": "holding",
+  "title": "Why is Western Digital stock tumbling today? - Investing.com UK",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVRqNUJCdGZMMUtTalBqbkp3cjdyMDJlRTNOeDk2U0tDcFI4cjBSakgwUXl6RTRtbnpQWGgwN2RpN0dlOGppUTF2c1hRLTBhamQtVnBVWmw5cl9GeGJBTWlvanhLbmhNQ3pGeldka09SZm5laFVzMGpQMXRxUXFmc3ROcmNmRXNKSllKVE1zS2ZaRzQ5cDVGWG81YjdFRzh4dDhCcEszRlZFYmFiR2dOLWFpV2Y4eUE?oc=5",
+  "published_at": "Fri, 26 Jun 2026 15:52:45 GMT",
+  "published_ts": 1782489165,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVRqNUJCdGZMMUtTalBqbkp3cjdyMDJlRTNOeDk2U0tDcFI4cjBSakgwUXl6RTRtbnpQWGgwN2RpN0dlOGppUTF2c1hRLTBhamQtVnBVWmw5cl9GeGJBTWlvanhLbmhNQ3pGeldka09SZm5laFVzMGpQMXRxUXFmc3ROcmNmRXNKSllKVE1zS2ZaRzQ5cDVGWG81YjdFRzh4dDhCcEszRlZFYmFiR2dOLWFpV2Y4eUE?oc=5\" target=\"_blank\">Why is Western Digital stock tumbling today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com UK",
+    "Investing.com"
+   ],
+   "titles": [
+    "Why is SanDisk stock sliding today? - Investing.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital stock declining; article asks why without providing concrete disclosed catalyst or hard numbers. Typical price-move piece without substantive news."
+  },
+  "buffered_ts": 1782501489.61587
  }
 ]
