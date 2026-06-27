@@ -1520,5 +1520,29 @@
    "summary": "Seagate (STX), a DRAM ETF holding, declined 12.2%. Article appears to be a post-hoc price analysis without disclosed catalyst or concrete news driver. Price moves alone without stated fundamental cause warrant only minor impact scoring."
   },
   "buffered_ts": 1782513860.8304455
+ },
+ {
+  "id": "78ecd52788c9eac5e6fbe5293e8b78e032742e6a",
+  "source": "Investing.com South Africa",
+  "topic": "holding",
+  "title": "Why is Western Digital stock tumbling today? By Investing.com - Investing.com South Africa",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnpXV0JvcGNKelEycUhQR0h4TG9RTGdfSnNneEpva2pTZVJGWGJHSzBENE5VV0p6S0kwWThLQXVLLVE5bWhiSWFYUjdLR2xNbXp5YmI5cGYza2I3dC1IR3hPcVMyWHRPbnRvVEd5TnVITWZUaklHWkpKTmx1YUpSalhWVlppclczZnIwN3hfQlVlVXNmRmpiYU8zYWd0UEhpaEhZbHNxbmc2THZSaWtKRVJmc1EtdTg?oc=5",
+  "published_at": "Fri, 26 Jun 2026 18:31:13 GMT",
+  "published_ts": 1782498673,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnpXV0JvcGNKelEycUhQR0h4TG9RTGdfSnNneEpva2pTZVJGWGJHSzBENE5VV0p6S0kwWThLQXVLLVE5bWhiSWFYUjdLR2xNbXp5YmI5cGYza2I3dC1IR3hPcVMyWHRPbnRvVEd5TnVITWZUaklHWkpKTmx1YUpSalhWVlppclczZnIwN3hfQlVlVXNmRmpiYU8zYWd0UEhpaEhZbHNxbmc2THZSaWtKRVJmc1EtdTg?oc=5\" target=\"_blank\">Why is Western Digital stock tumbling today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com South Africa"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a major DRAM ETF holding, experienced a notable stock decline, but the article does not disclose a concrete catalyst—only reporting the price move itself without a stated reason."
+  },
+  "buffered_ts": 1782518605.4408526
  }
 ]
