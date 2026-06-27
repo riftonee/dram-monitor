@@ -454,5 +454,53 @@
    "summary": "Seagate (STX), a fund holding, experienced a 12% single-day stock decline. The article discusses analyst speculation about where the stock could trade in 2026, rather than reporting a concrete catalyst or new fundamental information driving the move. Without a stated earnings release or announced business event on the same day, this is a post-move analysis piece that warrants relevance as a holding but falls short of impact 4 due to lack of disclosed cause."
   },
   "buffered_ts": 1782593942.911117
+ },
+ {
+  "id": "78aef803911b92592b7cc97238b3172f27ef275d",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Crashed on Friday - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3hiSHJta0tfbnFvQmd2a0wyeko4QXNjTWppNFZxTW1FWXJLUEdDemZqZFNPVllRZmJoZmdJcmt5SktRY0dGMDV0VU1nekRab2lzVXZteGFBQk8zcjhYNDdpMHVIS2c0c3NoWGRZZFFDeFJlb1BwYXFmRnlFZEhITVN0by1PcEhMWTJIZWJlRjIyNW1Ib3BVTXNzYXhweWFzcUVsT3h0M3JJTXI0WWVIMmN3?oc=5",
+  "published_at": "Fri, 26 Jun 2026 14:29:13 GMT",
+  "published_ts": 1782484153,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3hiSHJta0tfbnFvQmd2a0wyeko4QXNjTWppNFZxTW1FWXJLUEdDemZqZFNPVllRZmJoZmdJcmt5SktRY0dGMDV0VU1nekRab2lzVXZteGFBQk8zcjhYNDdpMHVIS2c0c3NoWGRZZFFDeFJlb1BwYXFmRnlFZEhITVN0by1PcEhMWTJIZWJlRjIyNW1Ib3BVTXNzYXhweWFzcUVsT3h0M3JJTXI0WWVIMmN3?oc=5\" target=\"_blank\">Why Sandisk Stock Crashed on Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock experienced a significant decline on Friday. The headline indicates a notable price move in one of the DRAM ETF's core holdings, but without the article content detailing the specific catalyst (earnings miss, guidance cut, industry headwinds, or other concrete event), this appears to be a post-event market-reaction story rather than reporting the underlying driver itself. Classified as impact 3: relevant to the holding but soft on causation."
+  },
+  "buffered_ts": 1782598081.5985842
+ },
+ {
+  "id": "fd406cd2f096eab34dfb185381f51a54a1eaa3f6",
+  "source": "GuruFocus",
+  "topic": "industry",
+  "title": "Elon Musk on Memory Chip Prices: Unprecedented Surge Affecting T - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGZKcjNzSDJlNWN3UkJqOTdCRVJRbWl2Ymk0Sjk1dUx3dHJ2LTBtVXMwNlZ6MEc2Z09uLVpKdGdRdE4zNGpJR25OM3E4TnMtYXNMZ25TTm96cUM2N21hcGVQMXU2akNqX3ZXakVYQ1dHS2JBV25QcVJXMUZqbm0yQlVYN0xYMUUxb0QxOXRVR3JNZV9oY0FMM3E0Vl9aYVpMdnI5S2hRemxiNEFjT0RfQkJHWjBQVWprMV85Rlppc3c?oc=5",
+  "published_at": "Sat, 27 Jun 2026 11:37:30 GMT",
+  "published_ts": 1782560250,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGZKcjNzSDJlNWN3UkJqOTdCRVJRbWl2Ymk0Sjk1dUx3dHJ2LTBtVXMwNlZ6MEc2Z09uLVpKdGdRdE4zNGpJR25OM3E4TnMtYXNMZ25TTm96cUM2N21hcGVQMXU2akNqX3ZXakVYQ1dHS2JBV25QcVJXMUZqbm0yQlVYN0xYMUUxb0QxOXRVR3JNZV9oY0FMM3E0Vl9aYVpMdnI5S2hRemxiNEFjT0RfQkJHWjBQVWprMV85Rlppc3c?oc=5\" target=\"_blank\">Elon Musk on Memory Chip Prices: Unprecedented Surge Affecting T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "pricing",
+   "summary": "Elon Musk commentary on memory chip prices experiencing an unprecedented surge. While pricing is directly relevant to the DRAM fund, Musk's opinion/commentary without specific pricing data or concrete market evidence constitutes soft analysis rather than a hard pricing report."
+  },
+  "buffered_ts": 1782598081.5985842
  }
 ]
