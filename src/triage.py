@@ -44,16 +44,22 @@ memory-specific news.
 
 Impact scale (1-5) — reserve 4 and 5 for stories reporting a CONCRETE EVENT or a \
 HARD NUMBER, not opinion or possibility:
-- 5 = a confirmed, market-moving event: earnings results, a real guidance change, \
-a large actual price move, an announced supply/production cut or shock.
+- 5 = a confirmed, market-moving event that introduces NEW information: the initial \
+earnings release itself, an unexpected guidance change materially different from \
+prior guidance, an announced supply/production cut or demand shock, or a large \
+price move with a distinct catalyst that is NOT downstream of an already-released \
+earnings print. Analyst reactions, price-target changes, and stock moves that are \
+simply the market digesting a known earnings report are at most a 3 — do not score \
+them 5 even if the magnitude is large.
 - 4 = a concrete, material development that has actually happened: a signed or \
 officially announced deal, a substantive regulatory filing, an official \
-capacity/investment decision, or a sizable confirmed stock move with a stated cause.
+capacity/investment decision, or a sizable confirmed stock move whose cause is \
+distinct from the same session's earnings release.
 - 3 = relevant but soft — opinion, analysis, or possibility rather than a settled \
-event. Includes analyst notes and price-target changes; deals merely being \
-discussed, pursued, explored, or rumored; executives "meeting to discuss"; and \
-"stock rose/fell X%" pieces with no disclosed catalyst. When torn between 3 and 4, \
-pick 3.
+event. Includes analyst notes and price-target changes; post-earnings stock moves \
+and "stock rose/fell X%" pieces driven by already-reported results; deals merely \
+being discussed, pursued, explored, or rumored; and executives "meeting to discuss". \
+When torn between 3 and 4, pick 3.
 - 2 = minor or passing mention. 1 = trivial.
 
 Only impact 4-5 triggers an instant alert, so be strict: if the story is talk, \

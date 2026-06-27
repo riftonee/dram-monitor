@@ -100,4 +100,4 @@ INSTANT_ALERT_IMPACT = 5  # impact >= this triggers an instant alert email
 # or above this are treated as the same event and collapsed to one representative.
 # Deliberately conservative — a missed merge only shows a duplicate, whereas a
 # false merge hides a distinct story. Raise toward 1.0 to merge less.
-STORY_DEDUPE_SIMILARITY = 0.55
+STORY_DEDUPE_SIMILARITY = 0.7
