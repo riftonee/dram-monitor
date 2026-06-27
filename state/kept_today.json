@@ -94,5 +94,77 @@
    "summary": "SK Hynix target prices raised by analysts citing HBM demand and anticipated Nasdaq listing. Analyst upgrades and price-target increases are opinion-based developments; while HBM demand is material to the fund, the story is driven by analyst forecasts and forward expectations rather than concrete events or confirmed results."
   },
   "buffered_ts": 1782566748.98701
+ },
+ {
+  "id": "e402489626bc645e34d6d90c0ff91711e6fbf459",
+  "source": "富途牛牛",
+  "topic": "industry",
+  "title": "Another semiconductor gas may face shortages as memory chip giants ramp up procurement efforts. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaThkNkxDdlNUZUhDeUVXbDZvZXZPS1JSMmp2Z3ZHUTJfQmV2WDBZN1ZHVmtXeUtPMHFtZkVlUTFlRHhtclJKazFUeGd0SFBJc3dqMDZmMU1DMnIySjJoLVF0WVhWR2lSZWdkcVRXMEp5ZXBEYnROV1BLYmVVdGVrS25RTTE3NzkxdTFyVHBLUE94WjBOVktXN05TMXZ1cko3TkhaQVljUFpBdjQ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 15:17:00 GMT",
+  "published_ts": 1782487020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaThkNkxDdlNUZUhDeUVXbDZvZXZPS1JSMmp2Z3ZHUTJfQmV2WDBZN1ZHVmtXeUtPMHFtZkVlUTFlRHhtclJKazFUeGd0SFBJc3dqMDZmMU1DMnIySjJoLVF0WVhWR2lSZWdkcVRXMEp5ZXBEYnROV1BLYmVVdGVrS25RTTE3NzkxdTFyVHBLUE94WjBOVktXN05TMXZ1cko3TkhaQVljUFpBdjQ?oc=5\" target=\"_blank\">Another semiconductor gas may face shortages as memory chip giants ramp up procurement efforts.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report indicates memory chip manufacturers are increasing procurement of semiconductor gases, raising concern about potential supply shortages. This reflects elevated production activity among memory giants but represents analysis/prediction rather than a confirmed shortage event."
+  },
+  "buffered_ts": 1782572446.6250362
+ },
+ {
+  "id": "0f1bf014be0765bf54f5c8a206b0b5df930fa157",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Western Digital hit by Fox Advisors downgrade, shares slide in Nasdaq 100 trade - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRi1vYTE3YUx2ei03OGhXb1BkT2p0ZGRockhXbGUwYWtZSXJGS1YwcGF3ZWF3MUs3OXlEQTA2U1hsZm56RDBVVWhzbFlzSDBMbmdoUzgwb0RCVVlhMWFiMVh4aEpzLWU0TVZ3ZE9XZF9Ob1JBckRqTldDMW5mNFA1WGQ3VFYxOGVxOS1EVXNDZWtiamdBejYzVDAxeVlNYlpTLUVLUXVoYl9WdmQ4UUM0ZkF1T0lMdGI1NWpoOGNVOHNzTGpwWktuVzBGUQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 08:13:27 GMT",
+  "published_ts": 1782548007,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRi1vYTE3YUx2ei03OGhXb1BkT2p0ZGRockhXbGUwYWtZSXJGS1YwcGF3ZWF3MUs3OXlEQTA2U1hsZm56RDBVVWhzbFlzSDBMbmdoUzgwb0RCVVlhMWFiMVh4aEpzLWU0TVZ3ZE9XZF9Ob1JBckRqTldDMW5mNFA1WGQ3VFYxOGVxOS1EVXNDZWtiamdBejYzVDAxeVlNYlpTLUVLUXVoYl9WdmQ4UUM0ZkF1T0lMdGI1NWpoOGNVOHNzTGpwWktuVzBGUQ?oc=5\" target=\"_blank\">Western Digital hit by Fox Advisors downgrade, shares slide in Nasdaq 100 trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a key DRAM ETF holding, was downgraded by Fox Advisors and shares declined in Nasdaq trading. This is an analyst action with an associated stock move, but lacks disclosed fundamental catalyst or concrete event details—typical of a 3-impact analyst note."
+  },
+  "buffered_ts": 1782572446.6250362
+ },
+ {
+  "id": "2357923aebf1e085a2cf7fed8750f1558591ac75",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Sees Fair Value Lift As Analysts Raise Memory Cycle Targets - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWE1HZjZUWXh4V2dEdW82OW9uYUlSSkx2MUVncnFBVzdyS3dqbndLZk5zTFJFVngxWi1QaWtBbWlGVXFScmlUZ2ZDb3BCQlUtNmNZbEhQT3BXdnBYb1h0VTlVRUZQRGhfM0dTUEVTNlFPMU13Yk02U004YVBlNnQyQUdEYmZZWEdodWF3bTh5VVI4MUpmNnFxUg?oc=5",
+  "published_at": "Sat, 27 Jun 2026 14:06:27 GMT",
+  "published_ts": 1782569187,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWE1HZjZUWXh4V2dEdW82OW9uYUlSSkx2MUVncnFBVzdyS3dqbndLZk5zTFJFVngxWi1QaWtBbWlGVXFScmlUZ2ZDb3BCQlUtNmNZbEhQT3BXdnBYb1h0VTlVRUZQRGhfM0dTUEVTNlFPMU13Yk02U004YVBlNnQyQUdEYmZZWEdodWF3bTh5VVI4MUpmNnFxUg?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Sees Fair Value Lift As Analysts Raise Memory Cycle Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysts raising fair value targets for SanDisk on improved memory cycle outlook. This is analyst opinion and price-target revision rather than a concrete event, earnings result, or confirmed production/pricing change."
+  },
+  "buffered_ts": 1782572446.6250362
  }
 ]
