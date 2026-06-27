@@ -214,5 +214,53 @@
    "summary": "Lenovo commentary on DRAM and NAND price expectations through 2030, positioning current levels as a structural 'new normal.' Relevant as pricing analysis but lacks concrete price data or supply/demand shifts; represents executive opinion rather than confirmed market event."
   },
   "buffered_ts": 1782578242.6244044
+ },
+ {
+  "id": "9666be7f7cbb4c8c44e3e9362c006dbbaabff3dd",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology highlights AI memory growth, shares track robust demand cycle - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE8zQjMyUUZuQXJKRWVYS2pTeGxvcUhQT0NodTAxYmhtaXMtYUhSV3FwWVFRT1VqRFRzSEpwaHJ2OGNoTlljREdpdmhTRVp5WVlqMzFGT0dVTlZmMjRTRklpOW9DZ0xReHA2OHRVUDk2MTVTdkN1WUdXZGt6TFRvVWhmVlhscGhHYnkyRFFWbzVhWmNUX3lFZkd3TzVnaFl6dWpQNEk1U3hFYTZ5QUJvQ2R6T3QzR1g0WDR2Mm8xYXRySWpaZzBlUzJQZw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 11:06:08 GMT",
+  "published_ts": 1782558368,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE8zQjMyUUZuQXJKRWVYS2pTeGxvcUhQT0NodTAxYmhtaXMtYUhSV3FwWVFRT1VqRFRzSEpwaHJ2OGNoTlljREdpdmhTRVp5WVlqMzFGT0dVTlZmMjRTRklpOW9DZ0xReHA2OHRVUDk2MTVTdkN1WUdXZGt6TFRvVWhmVlhscGhHYnkyRFFWbzVhWmNUX3lFZkd3TzVnaFl6dWpQNEk1U3hFYTZ5QUJvQ2R6T3QzR1g0WDR2Mm8xYXRySWpaZzBlUzJQZw?oc=5\" target=\"_blank\">Micron Technology highlights AI memory growth, shares track robust demand cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), a key DRAM fund holding, highlights AI memory growth and tracks robust demand cycle. This is analyst/commentary-driven reporting on demand trends rather than a concrete earnings result or guidance announcement, so impact is 3—relevant to the memory cycle but soft on specifics."
+  },
+  "buffered_ts": 1782583160.9711642
+ },
+ {
+  "id": "7ca3b9a3716637f95c1815efa1f1afe268c5b08e",
+  "source": "NDTV Profit",
+  "topic": "industry",
+  "title": "Soaring iPad, Xbox Prices Reveal Pain Of Memory Chip Mess - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVhZEV0elJBcWt4T2R2YTBvU1JqdEtyRTdZdEpsRE5GOWVLTUppMkVSc2dyLVhHZ0VYSGVjYV9ObXIwUFV4TmR6aE9ybEtidTB1U1pkUjRHd2hqMG55V2lIRHUxcjFET0JaMGlneDE1a25TLURUODJGX1E4RWxyQlVVbllFbUo5Rnl5YUV1V1lnTjV3Zlh0V1JQNTRERFd6S1RRWGxn0gGuAUFVX3lxTFBERWFFcXlSeG5kRlpoVkhSaWhGdDBQNk82SDRDWkR0dWwxM1FpdTAtSl96LVZDYS03bHFNNHJTNVpvVjlpZUJaajBKalNwTnZFakR1RXNUQkdxYWh3elhYTlRyYnQzTUR3NkpzS09IeUthblJQQVNCbmVSSS1jdDZvbUxUSEdBZzN5bHU2eDBxQmVNM08wZ0MxWklEX3hOTTI4NHVXZkJ4QkI4ZWV2QQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 16:57:01 GMT",
+  "published_ts": 1782579421,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFVhZEV0elJBcWt4T2R2YTBvU1JqdEtyRTdZdEpsRE5GOWVLTUppMkVSc2dyLVhHZ0VYSGVjYV9ObXIwUFV4TmR6aE9ybEtidTB1U1pkUjRHd2hqMG55V2lIRHUxcjFET0JaMGlneDE1a25TLURUODJGX1E4RWxyQlVVbllFbUo5Rnl5YUV1V1lnTjV3Zlh0V1JQNTRERFd6S1RRWGxn0gGuAUFVX3lxTFBERWFFcXlSeG5kRlpoVkhSaWhGdDBQNk82SDRDWkR0dWwxM1FpdTAtSl96LVZDYS03bHFNNHJTNVpvVjlpZUJaajBKalNwTnZFakR1RXNUQkdxYWh3elhYTlRyYnQzTUR3NkpzS09IeUthblJQQVNCbmVSSS1jdDZvbUxUSEdBZzN5bHU2eDBxQmVNM08wZ0MxWklEX3hOTTI4NHVXZkJ4QkI4ZWV2QQ?oc=5\" target=\"_blank\">Soaring iPad, Xbox Prices Reveal Pain Of Memory Chip Mess</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Price increases for consumer electronics (iPad, Xbox) attributed to memory chip supply constraints and costs, reflecting ongoing pressure from the DRAM/NAND shortage cycle on OEM margins and product pricing."
+  },
+  "buffered_ts": 1782583160.9711642
  }
 ]
