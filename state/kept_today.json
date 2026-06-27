@@ -1712,5 +1712,80 @@
    "summary": "Micron earnings results cited as a factor lifting Korean equities. While Micron is a direct holding and earnings are material, this is a secondary mention in a broader equities piece without specific details on Micron's reported numbers or guidance changes."
   },
   "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "cbcc9008213175877a772822cce5fdea242a5669",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Micron Just Beat Wall Street and It ‘Reset the Entire Industry’ - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGtURnI1T1ZTSm1uUUt5RE5VZFRBX2dUUml5ek5UUVZvVVVncUg4dmJGRTVSdjlEX0E5a2dQLTk2UG96LU4wNlA2MUljdjRhRUhYQ3NocVdMZ1dOT0o0TnJsU3Y1YThhajgzY2tjOUt0bmUtaXFoVXVyc1g3Z00yeVdpa3lWczhTVHZpSUFLek5rMEFQaFVheUo3Y0hzRmNKLWI5U1Uzck8?oc=5",
+  "published_at": "Fri, 26 Jun 2026 16:55:21 GMT",
+  "published_ts": 1782492921,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGtURnI1T1ZTSm1uUUt5RE5VZFRBX2dUUml5ek5UUVZvVVVncUg4dmJGRTVSdjlEX0E5a2dQLTk2UG96LU4wNlA2MUljdjRhRUhYQ3NocVdMZ1dOT0o0TnJsU3Y1YThhajgzY2tjOUt0bmUtaXFoVXVyc1g3Z00yeVdpa3lWczhTVHZpSUFLek5rMEFQaFVheUo3Y0hzRmNKLWI5U1Uzck8?oc=5\" target=\"_blank\">Micron Just Beat Wall Street and It ‘Reset the Entire Industry’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron reported earnings that beat Wall Street expectations and reportedly reset industry dynamics. As a major DRAM ETF holding and a key memory-cycle bellwether, a confirmed earnings beat with material guidance or outlook implications is a concrete, market-moving event for the fund."
+  },
+  "buffered_ts": 1782546418.704748
+ },
+ {
+  "id": "a62ff37aeb1108ea11a6b02e7072e1f391760db9",
+  "source": "morning-times.com",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - morning-times.com",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb01fZXhFNTZoZGhBYUFGYUxEazktZVc5QXJmN3JWQldzOGVWdUdsVHpaT0NZS3hUcjhGaC1JMWVTemwycmNtSkZRUl8taFFRTzVCZ296WklCRU5XbFBWUzRrdEY3dFdiekdPZkhYNldsdlBsVEJYXzRURGsyTW5aSUVLQkVqSzdEVkkzZ1pWZi1GS3NNSG9NWEhxY3FsMUVMX0lzQXM5Ui1TUEtYYmFhRDAzdGxLRnE0dVh3eDdVdjVHbGFzaWhDWDdZdXlMWkloRUwzSnJOY05aMDh4Z0tlb3lDcUJNXzBhTXlmTVNES0ktMHZ4VU1TdUMtVWo?oc=5",
+  "published_at": "Thu, 25 Jun 2026 18:53:00 GMT",
+  "published_ts": 1782413580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb01fZXhFNTZoZGhBYUFGYUxEazktZVc5QXJmN3JWQldzOGVWdUdsVHpaT0NZS3hUcjhGaC1JMWVTemwycmNtSkZRUl8taFFRTzVCZ296WklCRU5XbFBWUzRrdEY3dFdiekdPZkhYNldsdlBsVEJYXzRURGsyTW5aSUVLQkVqSzdEVkkzZ1pWZi1GS3NNSG9NWEhxY3FsMUVMX0lzQXM5Ui1TUEtYYmFhRDAzdGxLRnE0dVh3eDdVdjVHbGFzaWhDWDdZdXlMWkloRUwzSnJOY05aMDh4Z0tlb3lDcUJNXzBhTXlmTVNES0ktMHZ4VU1TdUMtVWo?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morning-times.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "morning-times.com",
+    "MSN"
+   ],
+   "titles": [
+    "Apple raises global Mac and iPad prices amid AI chip crunch - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple cites memory chip shortage as justification for price increases on Macs and iPads. While it signals tight memory supply conditions relevant to the cycle, the story lacks concrete data on supply volumes, pricing levels, or quantified impact on memory demand. It is commentary/explanation of pricing action rather than a hard supply or demand figure."
+  },
+  "buffered_ts": 1782546418.704748
+ },
+ {
+  "id": "dbaa3988f33a1fa09c01f37af1734af06f76f5b6",
+  "source": "Yahoo",
+  "topic": "industry",
+  "title": "Microsoft raising prices on some products due to memory chip shortage - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1dHS0N6V05haG55YTFQQmFwdXQzeWNCaWRhMU9tSU9hSk9na0Y3QU9KNkQxRkctcnV0Yk00UDVfazJyRG51MklkQTZKZUtORERtd3dlMUttVEtuZXhaNFlNelhkWW5vdjBfN2x6bDJrZ3ROSnh2dEZhVkFXYmpfLS1FQkFaX3FKWFhnY3F6cw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 12:53:48 GMT",
+  "published_ts": 1782478428,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON1dHS0N6V05haG55YTFQQmFwdXQzeWNCaWRhMU9tSU9hSk9na0Y3QU9KNkQxRkctcnV0Yk00UDVfazJyRG51MklkQTZKZUtORERtd3dlMUttVEtuZXhaNFlNelhkWW5vdjBfN2x6bDJrZ3ROSnh2dEZhVkFXYmpfLS1FQkFaX3FKWFhnY3F6cw?oc=5\" target=\"_blank\">Microsoft raising prices on some products due to memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Microsoft is raising prices on some products due to memory chip shortage, indicating tight memory supply conditions that could support pricing dynamics for DRAM/NAND manufacturers. However, this is a secondary report of pricing action rather than a direct announcement of supply constraints or production changes, and lacks specifics on which products or the magnitude of price increases."
+  },
+  "buffered_ts": 1782546418.704748
  }
 ]
