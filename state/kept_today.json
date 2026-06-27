@@ -262,5 +262,149 @@
    "summary": "Price increases for consumer electronics (iPad, Xbox) attributed to memory chip supply constraints and costs, reflecting ongoing pressure from the DRAM/NAND shortage cycle on OEM margins and product pricing."
   },
   "buffered_ts": 1782583160.9711642
+ },
+ {
+  "id": "603db5445aceed26424c7a9f16c48a5f4b93c778",
+  "source": "TweakTown",
+  "topic": "pricing",
+  "title": "'Get used to it,' says Lenovo as it expects high memory prices to remain the norm until at least 2030 - TweakTown",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0R6NVcxc0c4NjFhNXNzdUgwSV9qNEJMM2llaXQtSFpZdXNyWVM0LW5EM3AzMTZoaEpHUjhxMHUwM1hXSWJYVnBEdWg5dWNmQnVuR3lzdlJKN1A2Q1FfNktRVXZya2FfNW56ZWZzdDktZnQzS05HbFJNelV2Qi1fNE9MWkRHcmtFUTRSZTVlUVNXWmZ6YjU1d1J6WE5DMlh5WEFSSmtpYnlNbFA5a2pwcW1XeGR1Z2tmd0MxVzRob2cxZlhyc256cGxpcWdXWDV3cXEwRVFNa29lZGhlRjBJRQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 19:10:06 GMT",
+  "published_ts": 1782587406,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0R6NVcxc0c4NjFhNXNzdUgwSV9qNEJMM2llaXQtSFpZdXNyWVM0LW5EM3AzMTZoaEpHUjhxMHUwM1hXSWJYVnBEdWg5dWNmQnVuR3lzdlJKN1A2Q1FfNktRVXZya2FfNW56ZWZzdDktZnQzS05HbFJNelV2Qi1fNE9MWkRHcmtFUTRSZTVlUVNXWmZ6YjU1d1J6WE5DMlh5WEFSSmtpYnlNbFA5a2pwcW1XeGR1Z2tmd0MxVzRob2cxZlhyc256cGxpcWdXWDV3cXEwRVFNa29lZGhlRjBJRQ?oc=5\" target=\"_blank\">'Get used to it,' says Lenovo as it expects high memory prices to remain the norm until at least 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TweakTown</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TweakTown"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo expects high memory (DRAM/NAND) prices to persist through at least 2030, signaling sustained pricing environment. This is a forward-looking statement from a major customer that reinforces tight supply dynamics, but is opinion/expectation rather than a concrete pricing change or supply announcement."
+  },
+  "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "8630d6bc984864f98ff7870849e5e6515ea2d50d",
+  "source": "24/7 Wall St.",
+  "topic": "industry",
+  "title": "Apple Wants to Buy Blacklisted Chinese Memory. Micron Has Nothing to Worry About - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUdBSkxHZ0QwWFFQYlJnUHV6UmxtcmVWLU50dURRVjJHNUo0bW9DVmNESFpJelBrNjdRZ1A1SDMtYXFPRERlMHdrQ2VLWWhpT05rZEZyLVQ4RklLQi1BTW9hVTR6azNmQWJzOGQzNEIydHp0Z2MwVjNLUktSWlFydV9aWnI5VlpENG5UNFQtTTh0bzA0YVAzdmd5Nmg3Vy1ybG91U0FpOS1kQVlEZENQWGMxcXR5N3ltUXJCSVhKV2I?oc=5",
+  "published_at": "Sat, 27 Jun 2026 13:27:33 GMT",
+  "published_ts": 1782566853,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUdBSkxHZ0QwWFFQYlJnUHV6UmxtcmVWLU50dURRVjJHNUo0bW9DVmNESFpJelBrNjdRZ1A1SDMtYXFPRERlMHdrQ2VLWWhpT05rZEZyLVQ4RklLQi1BTW9hVTR6azNmQWJzOGQzNEIydHp0Z2MwVjNLUktSWlFydV9aWnI5VlpENG5UNFQtTTh0bzA0YVAzdmd5Nmg3Vy1ybG91U0FpOS1kQVlEZENQWGMxcXR5N3ltUXJCSVhKV2I?oc=5\" target=\"_blank\">Apple Wants to Buy Blacklisted Chinese Memory. Micron Has Nothing to Worry About</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece analyzing Apple's potential interest in blacklisted Chinese memory and its implications for Micron. The article offers analyst commentary on competitive dynamics but does not report a confirmed transaction or material development affecting Micron's business."
+  },
+  "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "7e466888da4033a8c2cea376052ffdf7cc16b33c",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2RNTmhXMVdkcXZ3YS12OFNTUzJEd004eDNUZWF3SVd3T1F4a2N1VnF0NW1QVm9HRC1CdGhFX2N1b0h2Y19LVS12a2JQOW8wcGIyTFdhRDczbUJZWXRfY1AwNkQ0VkRFZkVOUEpGYzhPMEh1cXh6VmZRZHFPUldvUVJNX0E1dmVHc0dJM1ZtV1RhUWdYZFRKRnVkMGVBUm1fbTlfb3NqQWI3SEJ6Y3VoMWZQbXdpZjRlaXlFTnRsTXZHdw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:27:03 GMT",
+  "published_ts": 1782584823,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2RNTmhXMVdkcXZ3YS12OFNTUzJEd004eDNUZWF3SVd3T1F4a2N1VnF0NW1QVm9HRC1CdGhFX2N1b0h2Y19LVS12a2JQOW8wcGIyTFdhRDczbUJZWXRfY1AwNkQ0VkRFZkVOUEpGYzhPMEh1cXh6VmZRZHFPUldvUVJNX0E1dmVHc0dJM1ZtV1RhUWdYZFRKRnVkMGVBUm1fbTlfb3NqQWI3SEJ6Y3VoMWZQbXdpZjRlaXlFTnRsTXZHdw?oc=5\" target=\"_blank\">MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article reports investor rotation from Magnificent 7 tech stocks into DRAM ETF, citing fund flows. This is fund-specific news about DRAM inflows, but the story appears to be analysis/commentary on flow trends rather than reporting a concrete, independently verified flow number or event. Treated as relevant but soft commentary on fund popularity."
+  },
+  "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "3e834813ce6e41615ee14eb8145d60651a59f196",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BSSTBJRFpVMWZpSGZjbFRYMHRfeUs1Z2d6UHRsbVVITF9tWXZSUVB1UjBtcWR5MFAyV21mVlRCbG5ET2M3RDAtbXRNSjNiUWhQZWhfWFhyQ1ZXRmp0UDZ0YmU3VDN6M2lHNmQ1ZXdvVGpoRWs5Z1c0Q01nVjc3MThTd3VKLUlKdkJ4aEFScHFyWDNsU0doVGY5c1pIZXBndkpLMXhUUHhORFk?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:39:11 GMT",
+  "published_ts": 1782585551,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BSSTBJRFpVMWZpSGZjbFRYMHRfeUs1Z2d6UHRsbVVITF9tWXZSUVB1UjBtcWR5MFAyV21mVlRCbG5ET2M3RDAtbXRNSjNiUWhQZWhfWFhyQ1ZXRmp0UDZ0YmU3VDN6M2lHNmQ1ZXdvVGpoRWs5Z1c0Q01nVjc3MThTd3VKLUlKdkJ4aEFScHFyWDNsU0doVGY5c1pIZXBndkpLMXhUUHhORFk?oc=5\" target=\"_blank\">Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Fox Advisors downgrades Seagate Technology (STX), a DRAM ETF holding. This is an analyst action reflecting a reassessment of the stock, but lacks concrete event details or new market-moving information beyond the downgrade opinion itself."
+  },
+  "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "3cf140e51e3088c80eb9a4c76a308ce7bdb12ae0",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "SK Hynix Stock In Focus As Memory Shortage Lifts Chip Makers - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZHZmTzItdk0xN0ptZmJxWjVoNU1LQjhmUG5jN0ZoUl9FREo1YlVhSEM3M1BJQks2bXRqU2JOLW80NmprcDFqd1NaTnhjdjRLS1JmRFdWdm9JSXVIV3JYOUJLWi00TXVaSVIyMmZuX0hKbTItdmIxNlh4SGtCZXhaejlYWlNsY1JQUENOVEhNaDItcFZvSW5pbkVYTXBtbGdTeXhnbl9MdVRMc1ZBOUlkT3o1UW5taEQ0TjZSblZXb0o4VHdreHp2bUNRVEFMRm9vU2FVLUN0UGtuODF3bVoxWmxQTTNzbnVVaWg3TWJPRmo3RzDSAfgBQVVfeXFMTlZHTnNCbWF5cHl4azJ0NHF5WldIdTE0ZFYyVFd1UXR0Q2xHZ3kxaWNkbEFQaFE5UWFYRVV6blJobjY2SGJZYlFiOFNrYWFkRTNOYmE5NmFGM1NlN1FHX05Ddkw3dC1nWF9YSW1maTRWenJyeE9lN05DR1A1U3FjemkzS0NVZDI2UGo1SWZMQUtneHBnWk80S3VJdlNoUmQ5LUJqWnlVT3pnZ29BbzZDbzFOdENkWHFBR3JtV2s2UF9sQXZUd01hRnJ5MTB5Zy1rRERFaVR3akg2M3JqTmRsTHNnbzFVdThYWGF6VW5tYVlfS2hEMDR3YXM?oc=5",
+  "published_at": "Sat, 27 Jun 2026 19:23:59 GMT",
+  "published_ts": 1782588239,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZHZmTzItdk0xN0ptZmJxWjVoNU1LQjhmUG5jN0ZoUl9FREo1YlVhSEM3M1BJQks2bXRqU2JOLW80NmprcDFqd1NaTnhjdjRLS1JmRFdWdm9JSXVIV3JYOUJLWi00TXVaSVIyMmZuX0hKbTItdmIxNlh4SGtCZXhaejlYWlNsY1JQUENOVEhNaDItcFZvSW5pbkVYTXBtbGdTeXhnbl9MdVRMc1ZBOUlkT3o1UW5taEQ0TjZSblZXb0o4VHdreHp2bUNRVEFMRm9vU2FVLUN0UGtuODF3bVoxWmxQTTNzbnVVaWg3TWJPRmo3RzDSAfgBQVVfeXFMTlZHTnNCbWF5cHl4azJ0NHF5WldIdTE0ZFYyVFd1UXR0Q2xHZ3kxaWNkbEFQaFE5UWFYRVV6blJobjY2SGJZYlFiOFNrYWFkRTNOYmE5NmFGM1NlN1FHX05Ddkw3dC1nWF9YSW1maTRWenJyeE9lN05DR1A1U3FjemkzS0NVZDI2UGo1SWZMQUtneHBnWk80S3VJdlNoUmQ5LUJqWnlVT3pnZ29BbzZDbzFOdENkWHFBR3JtV2s2UF9sQXZUd01hRnJ5MTB5Zy1rRERFaVR3akg2M3JqTmRsTHNnbzFVdThYWGF6VW5tYVlfS2hEMDR3YXM?oc=5\" target=\"_blank\">SK Hynix Stock In Focus As Memory Shortage Lifts Chip Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock commentary tied to broad memory shortage narrative lifting chip makers. Generic positive sentiment for a holding without specific new events, guidance, or concrete developments."
+  },
+  "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "0daaaadb9bbebc7e45a0dfa545f1fb523b735bbb",
+  "source": "富途牛牛",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF Options Spot-On: On June 25th, 390.12K Contracts Were Traded, With 1.65 Million Open Interest - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMW5aN0ZGWVM3YTF6RFMyV2NmMUUtcVFHUmpMSkt4MDJlaXU2QkVrZGZLSVhVakxPWTVrZFh5SXVwMGpXQ1pYdENpVUhCMnQ1TGpWWnhnaFRSaGJEenJ3VGZzWTlPZFZDbHZPWE9OXzM5aHI2b2VkUzNnTC1TbFpDdVhiSkZZV2FZSGxVQmYxWmZ6bEZiN1ZkbGZB?oc=5",
+  "published_at": "Thu, 25 Jun 2026 23:27:24 GMT",
+  "published_ts": 1782430044,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMW5aN0ZGWVM3YTF6RFMyV2NmMUUtcVFHUmpMSkt4MDJlaXU2QkVrZGZLSVhVakxPWTVrZFh5SXVwMGpXQ1pYdENpVUhCMnQ1TGpWWnhnaFRSaGJEenJ3VGZzWTlPZFZDbHZPWE9OXzM5aHI2b2VkUzNnTC1TbFpDdVhiSkZZV2FZSGxVQmYxWmZ6bEZiN1ZkbGZB?oc=5\" target=\"_blank\">Roundhill Memory ETF Options Spot-On: On June 25th, 390.12K Contracts Were Traded, With 1.65 Million Open Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "On June 25th, the Roundhill Memory ETF (DRAM) options market saw 390.12K contracts traded with 1.65M open interest. This is routine options activity data—minor mention of fund trading volume with no material news about the fund's performance, holdings, strategy, or flows."
+  },
+  "buffered_ts": 1782589131.7688675
  }
 ]
