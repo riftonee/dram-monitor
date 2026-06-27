@@ -166,5 +166,53 @@
    "summary": "Analysts raising fair value targets for SanDisk on improved memory cycle outlook. This is analyst opinion and price-target revision rather than a concrete event, earnings result, or confirmed production/pricing change."
   },
   "buffered_ts": 1782572446.6250362
+ },
+ {
+  "id": "e91f46907d7378e0e560a975b7ff7012fdf8736a",
+  "source": "VGChartz",
+  "topic": "pricing",
+  "title": "Lenovo Warns High Memory Prices are Likely the 'New Normal' and Might 'Never' Return to Normal - VGChartz",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUpad2lXNDNUN1JlN01pN2hTUDlmSWRtMUx3ci1oZnZBVXlBdFZhZVpGaWV2d3FfSDkwc1M4SDNFeFl4WkdwQnp5T3RScjdiYlpGbmVBclFNY3RldWl2WDFJUDJZUmZTbkJOa1Zwa0dXRTdPczk5UkV4c2xIZkhsVGZjVmpEM2Q4VlpkMW90cEJhZThpOUZvcnBrX0VZMjRuWWZHLVF4WTVsZmVBSlBfUWE1MU5lNjM2X2E3SEYza2dlQ2hqRnVsRENBOA?oc=5",
+  "published_at": "Sat, 27 Jun 2026 15:12:54 GMT",
+  "published_ts": 1782573174,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUpad2lXNDNUN1JlN01pN2hTUDlmSWRtMUx3ci1oZnZBVXlBdFZhZVpGaWV2d3FfSDkwc1M4SDNFeFl4WkdwQnp5T3RScjdiYlpGbmVBclFNY3RldWl2WDFJUDJZUmZTbkJOa1Zwa0dXRTdPczk5UkV4c2xIZkhsVGZjVmpEM2Q4VlpkMW90cEJhZThpOUZvcnBrX0VZMjRuWWZHLVF4WTVsZmVBSlBfUWE1MU5lNjM2X2E3SEYza2dlQ2hqRnVsRENBOA?oc=5\" target=\"_blank\">Lenovo Warns High Memory Prices are Likely the 'New Normal' and Might 'Never' Return to Normal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VGChartz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "VGChartz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo executive commentary suggests sustained elevated memory pricing may persist long-term, reflecting ongoing supply-demand dynamics in the memory market. While relevant to pricing outlook, this is analyst/executive opinion rather than a concrete price change or confirmed supply event."
+  },
+  "buffered_ts": 1782578242.6244044
+ },
+ {
+  "id": "b20015c0c1b5c50522d562655eae6f3caaa0956c",
+  "source": "tbreak.com",
+  "topic": "pricing",
+  "title": "Lenovo on DRAM And NAND Prices: The New Normal Through 2030 - tbreak.com",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aakRpdFRRT2tlZ3ZZcWt2YWhsYXFjcTZQYkpLbDdWNy1hQkpHWnFJNWphLVNfUlR4dWQ4eEw5N1BzY2otUm1kYVdHT19RVjdNM2I5S1ZiNlZBOEJlS2JNWC04Qmc1VkU?oc=5",
+  "published_at": "Sat, 27 Jun 2026 15:06:52 GMT",
+  "published_ts": 1782572812,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aakRpdFRRT2tlZ3ZZcWt2YWhsYXFjcTZQYkpLbDdWNy1hQkpHWnFJNWphLVNfUlR4dWQ4eEw5N1BzY2otUm1kYVdHT19RVjdNM2I5S1ZiNlZBOEJlS2JNWC04Qmc1VkU?oc=5\" target=\"_blank\">Lenovo on DRAM And NAND Prices: The New Normal Through 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tbreak.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "tbreak.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo commentary on DRAM and NAND price expectations through 2030, positioning current levels as a structural 'new normal.' Relevant as pricing analysis but lacks concrete price data or supply/demand shifts; represents executive opinion rather than confirmed market event."
+  },
+  "buffered_ts": 1782578242.6244044
  }
 ]
