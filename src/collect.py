@@ -21,6 +21,7 @@ Run:  python3 -m src.collect
 from __future__ import annotations
 
 import calendar
+import email.utils
 import hashlib
 import json
 import os
@@ -69,7 +70,15 @@ def _fetch_json(url: str) -> dict | list:
 def _published_ts(entry) -> float | None:
     """Epoch seconds (UTC) for a feedparser entry, or None if unparseable."""
     parsed = entry.get("published_parsed") or entry.get("updated_parsed")
-    return calendar.timegm(parsed) if parsed else None
+    if parsed:
+        return calendar.timegm(parsed)
+    # feedparser sometimes fails to parse valid RFC 2822 strings; try stdlib as a fallback.
+    raw = entry.get("published") or entry.get("updated")
+    if raw:
+        tup = email.utils.parsedate(raw)
+        if tup:
+            return calendar.timegm(tup)
+    return None
 
 
 def _google_news_url(query: str) -> str:
@@ -224,11 +233,14 @@ def collect_alpha_vantage() -> list[dict]:
     if not key:
         return []
     items: list[dict] = []
+    # Server-side recency filter: AV has no default cutoff so it returns historical stories.
+    time_from = time.strftime("%Y%m%dT%H%M", time.gmtime(time.time() - config.MAX_ITEM_AGE_HOURS * 3600))
     for ticker in config.US_TICKERS:
         params = {
             "function": "NEWS_SENTIMENT",
             "tickers": ticker,
             "limit": config.ALPHA_VANTAGE_ITEMS_PER_TICKER,
+            "time_from": time_from,
             "apikey": key,
         }
         url = f"{config.ALPHA_VANTAGE_ENDPOINT}?{urllib.parse.urlencode(params)}"
