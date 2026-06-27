@@ -1544,5 +1544,173 @@
    "summary": "Western Digital (WDC), a major DRAM ETF holding, experienced a notable stock decline, but the article does not disclose a concrete catalyst—only reporting the price move itself without a stated reason."
   },
   "buffered_ts": 1782518605.4408526
+ },
+ {
+  "id": "0d9fc0f2035cf1c3b96fa0f6729b12fa3345527e",
+  "source": "Shanghai Metals Market",
+  "topic": "pricing",
+  "title": "Institution: Xi'an blockade disrupts DRAM/NAND production price drop reduced to 8% - Shanghai Metals Market",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblpJcTZsYWxFMGtFUDh6UjVVSGdFTGkwSGE0eDBJcGlkcUJ2b2lITEdTaDFkZlBRd19fQ3BROUJSYVBCUk1oQWFRNU9jbnVUaHdkU3A0ZmNnSEFHbEdsa0dUM3ozQWQxaTk5dlRadWRiN2M1aGJYUktJQ21uZmhqTV9nU2xFaXdxUDV2bEFTVkQtWTJLTm1Qa2ZqLUktbE54dXhSS2JLZ2V2dW5qbGJoSUNzenpNVHAzbGpXYzdsNkw?oc=5",
+  "published_at": "Fri, 26 Jun 2026 04:16:10 GMT",
+  "published_ts": 1782447370,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblpJcTZsYWxFMGtFUDh6UjVVSGdFTGkwSGE0eDBJcGlkcUJ2b2lITEdTaDFkZlBRd19fQ3BROUJSYVBCUk1oQWFRNU9jbnVUaHdkU3A0ZmNnSEFHbEdsa0dUM3ozQWQxaTk5dlRadWRiN2M1aGJYUktJQ21uZmhqTV9nU2xFaXdxUDV2bEFTVkQtWTJLTm1Qa2ZqLUktbE54dXhSS2JLZ2V2dW5qbGJoSUNzenpNVHAzbGpXYzdsNkw?oc=5\" target=\"_blank\">Institution: Xi'an blockade disrupts DRAM/NAND production price drop reduced to 8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shanghai Metals Market</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Shanghai Metals Market"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Xi'an blockade disrupts DRAM/NAND production; price drop moderated to 8%. A concrete production disruption at a major fab location affecting both DRAM and NAND supply, with a confirmed pricing impact (8% reduction rather than larger decline), indicating tightened supply conditions."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "e310bba39ad07016f4fec620b4e98d80b859ce7c",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Micron aims to stabilize its boom-bust business model amid investor concerns - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5saHFpMzVvSVVlcnpSYk0xZXB4VC1vbHVhaUhpZnVvN2dXd211YWFtbFpPdXhVZFRzZVREd3d4bXNyTXJ6dFJsa1UyUE9STUNIQm9NMS1QeE9JRDlnTEVDYTE1QUdFUHBYbmkxQVpoU0VybkMxaUY0Uw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 00:54:35 GMT",
+  "published_ts": 1782521675,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5saHFpMzVvSVVlcnpSYk0xZXB4VC1vbHVhaUhpZnVvN2dXd211YWFtbFpPdXhVZFRzZVREd3d4bXNyTXJ6dFJsa1UyUE9STUNIQm9NMS1QeE9JRDlnTEVDYTE1QUdFUHBYbmkxQVpoU0VybkMxaUY0Uw?oc=5\" target=\"_blank\">Micron aims to stabilize its boom-bust business model amid investor concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) is working to stabilize its cyclical business model in response to investor concerns about boom-bust cycles. This reflects strategic positioning around memory demand but lacks concrete events, numbers, or confirmed changes—positioning it as analytical commentary rather than a settled development."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "3e4757625bcd328e3e3e474ca2af6aa24b6d8f86",
+  "source": "PBS",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI - PBS",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQdIBwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQQ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 23:50:00 GMT",
+  "published_ts": 1782517800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQdIBwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQQ?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PBS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple raises Mac and iPad prices citing memory chip shortage driven by AI demand. Confirms tight memory supply conditions and AI-driven demand pull, but is commentary on Apple's pricing action rather than a reported supply/production concrete event or memory price data point."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "2554dae20b1bd984065e30543d084d0dbb34eec7",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "Lee rebuts water concerns over possible Honam chip investment - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WENEUWp0U0lPck5qR1pDdEdZWTI1YXZjVkZBdjdxRl9oVGRuV1Q2UHRLWnlITlE4b3hDQjh0MlUtM2FRTW9SRHM4OExJUDBGTUJCTWRtVQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 04:22:44 GMT",
+  "published_ts": 1782534164,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WENEUWp0U0lPck5qR1pDdEdZWTI1YXZjVkZBdjdxRl9oVGRuV1Q2UHRLWnlITlE4b3hDQjh0MlUtM2FRTW9SRHM4OExJUDBGTUJCTWRtVQ?oc=5\" target=\"_blank\">Lee rebuts water concerns over possible Honam chip investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung executive Lee addresses water-usage concerns regarding a potential chip manufacturing investment in South Korea's Honam region. This is relevant to Samsung's semiconductor capacity and future fab expansion plans, but the language indicates it is still in discussion/exploratory phase ('possible investment'), not a confirmed decision. Therefore, impact is 3 rather than 4."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "e12e8ae5b19fe449d5f4a0703e9463aace5848b6",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "Samsung leads global memory sales as SK hynix tops AI chips - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUJ2elpSbkpJV0NvODRjM2hhRmppVlBDT25uYnN5SUZCQjctZEhDY1h6V0s1R3MxV1VZajhjNS12ekRRa2VXR09xN056Y19EOW5FVkx5VXpmeU1fSkF3RXItUlZZSFRvSDlkSXB0RXlhb044Nzh3OUx5Nmp4RjZGUmdjU1BJX05FdDdxc1J1YzNqME9yUVE?oc=5",
+  "published_at": "Thu, 25 Jun 2026 05:00:00 GMT",
+  "published_ts": 1782363600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUJ2elpSbkpJV0NvODRjM2hhRmppVlBDT25uYnN5SUZCQjctZEhDY1h6V0s1R3MxV1VZajhjNS12ekRRa2VXR09xN056Y19EOW5FVkx5VXpmeU1fSkF3RXItUlZZSFRvSDlkSXB0RXlhb044Nzh3OUx5Nmp4RjZGUmdjU1BJX05FdDdxc1J1YzNqME9yUVE?oc=5\" target=\"_blank\">Samsung leads global memory sales as SK hynix tops AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech in Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung leads global memory sales while SK hynix dominates AI chip segment. Reports on market share and competitive positioning of two major fund holdings but lacks concrete earnings, guidance, or price-moving catalysts—appears to be analysis or ranking commentary rather than a disclosed event."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "6e874a504dcfc3c32db7c628bdec58d486cc168e",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "KOSPI Plunge Shakes Global Markets as Semiconductor Stocks Tumble - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenZTX0x4UlFnY2lqaGh0SHh4Z2RDXzRZSm9VQ0tDMEw4ajNYaGVLZ1ZTUjA5b1VFcWdlaHJuTzdkc1FFNzV4dzN2cGN5cFBPLWVNQmZNQ0tlQVQzdW4za2ZEb21mNVlZbTgteElRbzZjVTBMTjdzbG9jc0lZNnZkOVpoTGlnTW9ld3BwTm5R?oc=5",
+  "published_at": "Sat, 27 Jun 2026 01:53:32 GMT",
+  "published_ts": 1782525212,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOenZTX0x4UlFnY2lqaGh0SHh4Z2RDXzRZSm9VQ0tDMEw4ajNYaGVLZ1ZTUjA5b1VFcWdlaHJuTzdkc1FFNzV4dzN2cGN5cFBPLWVNQmZNQ0tlQVQzdW4za2ZEb21mNVlZbTgteElRbzZjVTBMTjdzbG9jc0lZNnZkOVpoTGlnTW9ld3BwTm5R?oc=5\" target=\"_blank\">KOSPI Plunge Shakes Global Markets as Semiconductor Stocks Tumble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "macro",
+   "summary": "South Korean KOSPI stock index fell sharply, dragging semiconductor stocks down with it. This affects SK hynix and Samsung (memory operations), both major DRAM holdings. However, the story appears to report a price move without a disclosed fundamental catalyst, making it analysis/market reaction rather than a concrete event."
+  },
+  "buffered_ts": 1782534831.3648627
+ },
+ {
+  "id": "4983313b47ad8b5ec02099f175f0afddc9ee2b4f",
+  "source": "TMGM",
+  "topic": "holding",
+  "title": "Equities: Micron earnings lift Korean equities – MUFG - TMGM",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXBpTEozdk9US01vZ1pCUm5YWldORG1qNURlTk1SOVZadVhFbE1DVzlPMTFSUUo4SDNJNjFyZmE3TWVlZ0ZSaUJDVjk5ZTBuRUhRc2VzckdUdWFaZGxPeXV6OUx5UFpoM29ZZUtXUHdYRXZyanVDbTlVZVdMWW5VQXU2Z242YTNfY19pMzBucWdwdDN0WUQyUnFvb1ZQYUg1RjZnaDFwV3NjVXVqc1pyZktvMFl1cXc?oc=5",
+  "published_at": "Thu, 25 Jun 2026 16:00:05 GMT",
+  "published_ts": 1782403205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXBpTEozdk9US01vZ1pCUm5YWldORG1qNURlTk1SOVZadVhFbE1DVzlPMTFSUUo4SDNJNjFyZmE3TWVlZ0ZSaUJDVjk5ZTBuRUhRc2VzckdUdWFaZGxPeXV6OUx5UFpoM29ZZUtXUHdYRXZyanVDbTlVZVdMWW5VQXU2Z242YTNfY19pMzBucWdwdDN0WUQyUnFvb1ZQYUg1RjZnaDFwV3NjVXVqc1pyZktvMFl1cXc?oc=5\" target=\"_blank\">Equities: Micron earnings lift Korean equities – MUFG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMGM</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TMGM"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron earnings results cited as a factor lifting Korean equities. While Micron is a direct holding and earnings are material, this is a secondary mention in a broader equities piece without specific details on Micron's reported numbers or guidance changes."
+  },
+  "buffered_ts": 1782534831.3648627
  }
 ]
