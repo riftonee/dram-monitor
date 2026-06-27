@@ -406,5 +406,53 @@
    "summary": "On June 25th, the Roundhill Memory ETF (DRAM) options market saw 390.12K contracts traded with 1.65M open interest. This is routine options activity data—minor mention of fund trading volume with no material news about the fund's performance, holdings, strategy, or flows."
   },
   "buffered_ts": 1782589131.7688675
+ },
+ {
+  "id": "24e570d1fd0cc3fa999d874284000ec988a3a521",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade - MSN",
+  "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNWUJvOTB6bHg4V01oSTdXdDBJaW5TczZKdklfVlJwRVlYa0ZRc3lhWkVoNG50YjVuMC03ZWYzeUVhOVRaMk9yeU5ZcFhTU2ZuNC14Y0k3NWFic2d2VGh6cjNUUHA4ZVBERDBjZzN3RFYtNTVTZk93Y1plQ3ZxYUJrUm1ZZVdEa1pxLVQyc0RNVEU2SjVXZVRWSUZ0TnU1d09ybnBYYm1ORXN1dVd2WVBxc0VFTWJOdGNMeWV1N0E2NjBHVWMzekxrVGVJaTNyUjVZV29OcnMxNDd2TE5tRGgxOTM3RDlpUXhtbkVsbmtZM2F5OGFFYnRQUC00czBTc0lEeWVTdjhhV2J6WUEzNnN2N2ROUFBxR1M4RWprWjk5N0FWekM4RXdldDU4RktVTzNJWkIwY3NBNEd0R0w3UkZpUzMydks2LVc3VEs1RFo5Rmc3bFh2dVRHRlVLVWcyTGt4cGtZUmtWa3dkUXE5OXVjQTl0OGJHTWVZd0t6WkxuNC1BbDdGWUlfbjNuZE1USDVKWjl1MmhWbkxIc29NaTZHMFkxOXg?oc=5",
+  "published_at": "Sat, 27 Jun 2026 17:45:21 GMT",
+  "published_ts": 1782582321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxNWUJvOTB6bHg4V01oSTdXdDBJaW5TczZKdklfVlJwRVlYa0ZRc3lhWkVoNG50YjVuMC03ZWYzeUVhOVRaMk9yeU5ZcFhTU2ZuNC14Y0k3NWFic2d2VGh6cjNUUHA4ZVBERDBjZzN3RFYtNTVTZk93Y1plQ3ZxYUJrUm1ZZVdEa1pxLVQyc0RNVEU2SjVXZVRWSUZ0TnU1d09ybnBYYm1ORXN1dVd2WVBxc0VFTWJOdGNMeWV1N0E2NjBHVWMzekxrVGVJaTNyUjVZV29OcnMxNDd2TE5tRGgxOTM3RDlpUXhtbkVsbmtZM2F5OGFFYnRQUC00czBTc0lEeWVTdjhhV2J6WUEzNnN2N2ROUFBxR1M4RWprWjk5N0FWekM4RXdldDU4RktVTzNJWkIwY3NBNEd0R0w3UkZpUzMydks2LVc3VEs1RFo5Rmc3bFh2dVRHRlVLVWcyTGt4cGtZUmtWa3dkUXE5OXVjQTl0OGJHTWVZd0t6WkxuNC1BbDdGWUlfbjNuZE1USDVKWjl1MmhWbkxIc29NaTZHMFkxOXg?oc=5\" target=\"_blank\">DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "DRAM stock surge linked to Micron earnings results and SK Hynix US listing plans. Market reaction to already-reported Micron earnings and announced (but not yet executed) SK Hynix listing plans; the concrete events have already occurred or been announced, so the price move itself reflects digestion of known information rather than a new market-moving catalyst."
+  },
+  "buffered_ts": 1782593942.911117
+ },
+ {
+  "id": "4c91213b19b6b6ee61bad570644850bc7f86c053",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Seagate Stock Fell 12% in a Day. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9yTE0tcDcySk1Wakl3WlZ1U1JTZlNaN1BQLUpLRXRlR1dfUEVINmpVMXVtYmlGVGhRWEVUaW8zT2wtZFZoYzJYdXhuWlZfYmp5TjMyM3BnXzh5UDlhWjBySFF1cUw1WXRyRmtRaW41bGpqTVB4dEJma0d3MENISlplSEtfTWZNRm9UX0stTDVPVUVfNW1zMGR2cw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:59:00 GMT",
+  "published_ts": 1782586740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9yTE0tcDcySk1Wakl3WlZ1U1JTZlNaN1BQLUpLRXRlR1dfUEVINmpVMXVtYmlGVGhRWEVUaW8zT2wtZFZoYzJYdXhuWlZfYmp5TjMyM3BnXzh5UDlhWjBySFF1cUw1WXRyRmtRaW41bGpqTVB4dEJma0d3MENISlplSEtfTWZNRm9UX0stTDVPVUVfNW1zMGR2cw?oc=5\" target=\"_blank\">Seagate Stock Fell 12% in a Day. Here’s Where the Stock Could Go in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, experienced a 12% single-day stock decline. The article discusses analyst speculation about where the stock could trade in 2026, rather than reporting a concrete catalyst or new fundamental information driving the move. Without a stated earnings release or announced business event on the same day, this is a post-move analysis piece that warrants relevance as a holding but falls short of impact 4 due to lack of disclosed cause."
+  },
+  "buffered_ts": 1782593942.911117
  }
 ]
