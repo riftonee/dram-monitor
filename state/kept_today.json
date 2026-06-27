@@ -1787,5 +1787,199 @@
    "summary": "Microsoft is raising prices on some products due to memory chip shortage, indicating tight memory supply conditions that could support pricing dynamics for DRAM/NAND manufacturers. However, this is a secondary report of pricing action rather than a direct announcement of supply constraints or production changes, and lacks specifics on which products or the magnitude of price increases."
   },
   "buffered_ts": 1782546418.704748
+ },
+ {
+  "id": "f30c997fa239fb2d6891fa672de120cbeb0fc11e",
+  "source": "富途牛牛",
+  "topic": "fund",
+  "title": "The world's most popular memory ETF has added A-share-listed GigaDevice Semiconductor to its holdings, with a weight of 2.91%. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXJ4QjJIdV9QOVk5dXVjSS1zdWVTTDVsVkJBQm9GcXhEQy16YXlYeGFNVHQ0Nnd2Nm15MDJRLWxhQUR4b05wZlNsQjdVWlJUZGxIT29IRnllTnJiSXdJSV9ScU15UlpYUTFSNFZWQktSSHNLR2xvVEQ4OXdjZ2FvQmxMMjFxVWU5T0RGaEk0ZVQ4dw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 10:15:30 GMT",
+  "published_ts": 1782555330,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXJ4QjJIdV9QOVk5dXVjSS1zdWVTTDVsVkJBQm9GcXhEQy16YXlYeGFNVHQ0Nnd2Nm15MDJRLWxhQUR4b05wZlNsQjdVWlJUZGxIT29IRnllTnJiSXdJSV9ScU15UlpYUTFSNFZWQktSSHNLR2xvVEQ4OXdjZ2FvQmxMMjFxVWU5T0RGaEk0ZVQ4dw?oc=5\" target=\"_blank\">The world's most popular memory ETF has added A-share-listed GigaDevice Semiconductor to its holdings, with a weight of 2.91%.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "The Roundhill Memory ETF (DRAM) has added GigaDevice Semiconductor, an A-share-listed memory chip company, to its holdings at a 2.91% weight. This is a confirmed portfolio rebalancing decision by the fund."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "f2c5c351ce072dedfa3eaaebe737a351738436d3",
+  "source": "Sahm",
+  "topic": "fund",
+  "title": "The AI Memory Trade Is Heating Up: Defiance Launches 2X DRAM ETF After Micron's Blowout Quarter - Sahm",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTF1ZVVaTm5tY0dydm1mTk81WGh2NERzV3RXN3JLTGNpVTRNTFR5UDY5bHl6R2JIZDIwNE5TMnppcmtCSWdaQ3VBRzhxMnNUWFB4Y1N0V3JKVUk1eXExM1lzUUpMM2pVbFBkdTF0RGtPTl9kZWhZSDhweEtxM1VuWjluV3RwTUpiVWJIckhaWU1ZRDdBTjBFSWFqXzVIbzVCZGhMVW5VTkVHaUJJVXN0MHNYU1o3V3RUVm5qSFh2TmJ6djhMVjBSSjVCQXdpZnRjanFaeGVkdS1qVm9kYWc?oc=5",
+  "published_at": "Fri, 26 Jun 2026 11:43:00 GMT",
+  "published_ts": 1782474180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTF1ZVVaTm5tY0dydm1mTk81WGh2NERzV3RXN3JLTGNpVTRNTFR5UDY5bHl6R2JIZDIwNE5TMnppcmtCSWdaQ3VBRzhxMnNUWFB4Y1N0V3JKVUk1eXExM1lzUUpMM2pVbFBkdTF0RGtPTl9kZWhZSDhweEtxM1VuWjluV3RwTUpiVWJIckhaWU1ZRDdBTjBFSWFqXzVIbzVCZGhMVW5VTkVHaUJJVXN0MHNYU1o3V3RUVm5qSFh2TmJ6djhMVjBSSjVCQXdpZnRjanFaeGVkdS1qVm9kYWc?oc=5\" target=\"_blank\">The AI Memory Trade Is Heating Up: Defiance Launches 2X DRAM ETF After Micron's Blowout Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Sahm"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Defiance has launched a new 2X leveraged DRAM ETF following Micron's strong earnings quarter, signaling institutional momentum in the memory-semiconductor space and competitive product activity in the DRAM ETF category."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "2402875068872df0ae314163fe88c5c1679a510e",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade - MSN",
+  "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNOXo0eWhGZnBBaUYzTmJCcGhMTU4wSmFTVm1QV0NPaHgzWUxsaWhhUko0NlpKMEZsdVZRUnVudENqNWJ2ZVlZcjhuSFRPM3V5cUgtc3Vma21UaU1wT0hQeUdzY2lkV2ZTeWo3eGgxTkR4RWs0dWo0VkZyc0U5UG4zcjVCbHZBbG5NalFXMnFCbVV6Nzh5dUN2Unc1WEdyWkNkc0RWbDJKX1VVdkZLOHBDck5VYUJwbkRMSzZ6RmZnYVZpOHNpNnFGaU0tVFlwaW1EWXlud01BNEhzbUlVZW9WRjI1d0lhQl8wNThLcTFLd3Z1MGxGaUVEclZzXzAwQ2QybnZHeEYwNXZRb0tDYjNTRWo0bW1WRjc1eFRibUU3TjJLMUpULTBYa3FoV3ZoMXlkbXkzck15ejk0M0FnTXVqcnVrS0l0ZURGQVBLMWlLUnNxZ1NKYzRwZ1hObFdyZmIzWHROTzNuODlDNHF2WHBRU19LaTNkZ2NySERuRTd2aUNJT20wTlQxZXJIR1M1RUVQVWF6a3l4dEJHenpLd29kWDRjV1o?oc=5",
+  "published_at": "Sat, 27 Jun 2026 10:29:56 GMT",
+  "published_ts": 1782556196,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxNOXo0eWhGZnBBaUYzTmJCcGhMTU4wSmFTVm1QV0NPaHgzWUxsaWhhUko0NlpKMEZsdVZRUnVudENqNWJ2ZVlZcjhuSFRPM3V5cUgtc3Vma21UaU1wT0hQeUdzY2lkV2ZTeWo3eGgxTkR4RWs0dWo0VkZyc0U5UG4zcjVCbHZBbG5NalFXMnFCbVV6Nzh5dUN2Unc1WEdyWkNkc0RWbDJKX1VVdkZLOHBDck5VYUJwbkRMSzZ6RmZnYVZpOHNpNnFGaU0tVFlwaW1EWXlud01BNEhzbUlVZW9WRjI1d0lhQl8wNThLcTFLd3Z1MGxGaUVEclZzXzAwQ2QybnZHeEYwNXZRb0tDYjNTRWo0bW1WRjc1eFRibUU3TjJLMUpULTBYa3FoV3ZoMXlkbXkzck15ejk0M0FnTXVqcnVrS0l0ZURGQVBLMWlLUnNxZ1NKYzRwZ1hObFdyZmIzWHROTzNuODlDNHF2WHBRU19LaTNkZ2NySERuRTd2aUNJT20wTlQxZXJIR1M1RUVQVWF6a3l4dEJHenpLd29kWDRjV1o?oc=5\" target=\"_blank\">DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "MSN"
+   ],
+   "titles": [
+    "DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron earnings results and SK Hynix's announced US listing plans drive DRAM price surge, with AI memory demand strengthening the sector. Both are major fund holdings with concrete developments affecting memory pricing and market dynamics."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "dded1199b6e900ac3797efee95fc1de5ebd333fe",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is AI-Driven Memory Tightness Recasting Western Digital's (WDC) Role From Commodity Supplier To Strategic Bottleneck? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWlrcU9mMk5nR1BKLTdKc3B4THBBaUIxUTY2WnJYYk5xcnBrSDlyLUFfNmN0LXl1eHpxVFZoUkVpdUR0T3FiVE0xTy1PZFJDUy1ITDJjRG1QRldEVEJNSTFCYTlqWTJqSGZNTGlvVUNhdkVfeUlKcFZQVjJKVU50ZkxvbW5sREJVUkRVZ3NjMWxieEFMSHBDbmpjaFM2elFDWks3MmtwNEc4NlYzM21IWVZpNmhlYTFYTUhhX1gwcmlibEloYWhBSQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 11:42:38 GMT",
+  "published_ts": 1782560558,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWlrcU9mMk5nR1BKLTdKc3B4THBBaUIxUTY2WnJYYk5xcnBrSDlyLUFfNmN0LXl1eHpxVFZoUkVpdUR0T3FiVE0xTy1PZFJDUy1ITDJjRG1QRldEVEJNSTFCYTlqWTJqSGZNTGlvVUNhdkVfeUlKcFZQVjJKVU50ZkxvbW5sREJVUkRVZ3NjMWxieEFMSHBDbmpjaFM2elFDWks3MmtwNEc4NlYzM21IWVZpNmhlYTFYTUhhX1gwcmlibEloYWhBSQ?oc=5\" target=\"_blank\">Is AI-Driven Memory Tightness Recasting Western Digital's (WDC) Role From Commodity Supplier To Strategic Bottleneck?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece examining whether AI-driven memory demand is positioning Western Digital as a strategic bottleneck rather than a commodity supplier. This is opinion/analysis on market positioning rather than a confirmed event or hard number, making it relevant but soft."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "501de06754598b2c4595993b8b20919c4b58e3dc",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "GraniteShares Files for First US Leveraged ETFs Tied to SK Hynix - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQ2RtQUU3RDVaY2xucXF4NTNsVWY4V0dObGZfbUp5SDMwSjBZOW0zQjFWakRDUkE3LWkzVmpmaEtBRnA1RkdiWGwtcXZERTZZaE9UaA?oc=5",
+  "published_at": "Sat, 27 Jun 2026 11:33:53 GMT",
+  "published_ts": 1782560033,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQ2RtQUU3RDVaY2xucXF4NTNsVWY4V0dObGZfbUp5SDMwSjBZOW0zQjFWakRDUkE3LWkzVmpmaEtBRnA1RkdiWGwtcXZERTZZaE9UaA?oc=5\" target=\"_blank\">GraniteShares Files for First US Leveraged ETFs Tied to SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "GraniteShares has filed to launch the first US leveraged ETFs tracking SK Hynix, a major memory-semiconductor holding relevant to DRAM. This is a fund-industry development showing investor demand for leveraged memory exposure, but it is a filing (proposed product) rather than an executed or market-moving event."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "584ef59945ec69f7199a8ba9827889d7b2551154",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "A Look at Seagate Technology Holdings PLC (STX) After 12.2% Decl - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1Buak5URko3WXQ0emtSdFByT1l2TXlxUzZDMnQ2LXdER0tIa2J6NHRMUllZNV94N0cxUUo3Mmh3eUV0S3B6NHNWZ3FTV1p3akFjaFBqYm9kLUdVUklQLXZRM01uUnhXWURpaFJ3ZmQ3STJtVWhlSFBIZTBCdTFobnY2NTg0VWFLOV8zbFZNbjQ5d3d1RkI1WVlsVWNPLTFtcWRUNW9EcG52NklsWmpZcVRLOS15am1jRUQ0d3kxM2hCZWdwVVlRWkktXzRBcU00RGtCQy01bTdESkx6?oc=5",
+  "published_at": "Fri, 26 Jun 2026 21:33:04 GMT",
+  "published_ts": 1782509584,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1Buak5URko3WXQ0emtSdFByT1l2TXlxUzZDMnQ2LXdER0tIa2J6NHRMUllZNV94N0cxUUo3Mmh3eUV0S3B6NHNWZ3FTV1p3akFjaFBqYm9kLUdVUklQLXZRM01uUnhXWURpaFJ3ZmQ3STJtVWhlSFBIZTBCdTFobnY2NTg0VWFLOV8zbFZNbjQ5d3d1RkI1WVlsVWNPLTFtcWRUNW9EcG52NklsWmpZcVRLOS15am1jRUQ0d3kxM2hCZWdwVVlRWkktXzRBcU00RGtCQy01bTdESkx6?oc=5\" target=\"_blank\">A Look at Seagate Technology Holdings PLC (STX) After 12.2% Decl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, declined 12.2% in a stock price movement. The article appears to be analysis of the price move without a disclosed fundamental catalyst or concrete news event driving the decline."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "95f943aa4609e53720aa8ddb76c62558a1a95de4",
+  "source": "GuruFocus",
+  "topic": "industry",
+  "title": "Elon Musk on Memory Chip Prices: Unprecedented Surge Affecting T - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNfNXBreEdaNkNaYW4xM3YwNkhWRjRIUE8tVXZfVWVoWWEyYWtkallmVFNLZHNtdVB5dmhXbmFwZWtkYk5FTW5iNl8wSkdQSEZoMFQyRkd6R3A1YXlqLXhkOGxvZGxGdFBHUjQtNW5SLVRlUllMb1kxakNzNTdpRlJRYVc0eFZVUWNrRjM5ZHhyb3F4YVBKUEZLUnlxSjN2V2s1MHF3VnNySmxsZU5ETQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 09:31:52 GMT",
+  "published_ts": 1782552712,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNfNXBreEdaNkNaYW4xM3YwNkhWRjRIUE8tVXZfVWVoWWEyYWtkallmVFNLZHNtdVB5dmhXbmFwZWtkYk5FTW5iNl8wSkdQSEZoMFQyRkd6R3A1YXlqLXhkOGxvZGxGdFBHUjQtNW5SLVRlUllMb1kxakNzNTdpRlJRYVc0eFZVUWNrRjM5ZHhyb3F4YVBKUEZLUnlxSjN2V2s1MHF3VnNySmxsZU5ETQ?oc=5\" target=\"_blank\">Elon Musk on Memory Chip Prices: Unprecedented Surge Affecting T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Elon Musk comments on unprecedented surge in memory chip prices affecting Tesla. While pricing commentary is relevant to DRAM fund holdings, this appears to be opinion/commentary rather than a concrete pricing data point or confirmed market event, placing it at impact level 3."
+  },
+  "buffered_ts": 1782561185.9371095
+ },
+ {
+  "id": "fe5239b316857a74815783d39fedaf0b1fab1403",
+  "source": "조선일보",
+  "topic": "industry",
+  "title": "Apple Lobbies U.S. for Chinese Memory Chips - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU14WkZWR2RuNnk5Y2xxSW1WblZRaFQtYjFNalhuZmszakVjOU5obFlLMnc1dkdlRjVBZTdxNzVnVW81S29oTFpRWUJkV2diWWpqVTJuQUUzUS1pa2drTWhSdWd2YzYwMVA1dFhuNW1uNjZMN1VNZWtOR0VWcW5IUnhNOGNvQ3hiMmY3dmtn?oc=5",
+  "published_at": "Sat, 27 Jun 2026 09:47:25 GMT",
+  "published_ts": 1782553645,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU14WkZWR2RuNnk5Y2xxSW1WblZRaFQtYjFNalhuZmszakVjOU5obFlLMnc1dkdlRjVBZTdxNzVnVW81S29oTFpRWUJkV2diWWpqVTJuQUUzUS1pa2drTWhSdWd2YzYwMVA1dFhuNW1uNjZMN1VNZWtOR0VWcW5IUnhNOGNvQ3hiMmY3dmtn?oc=5\" target=\"_blank\">Apple Lobbies U.S. for Chinese Memory Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple is lobbying the U.S. government to allow sourcing of memory chips from Chinese suppliers. This reflects ongoing geopolitical and supply-chain tensions affecting memory semiconductor sourcing and potential demand dynamics, but represents advocacy/negotiation rather than a confirmed policy change or concrete market development."
+  },
+  "buffered_ts": 1782561185.9371095
  }
 ]
