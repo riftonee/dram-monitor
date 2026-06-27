@@ -1,1 +1,98 @@
-[]
+[
+ {
+  "id": "1a171353383503e9ee719b30257e95389c3f32de",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SNDK Stock: Citigroup Sees SanDisk As Top Beneficiary Of Strong Micron Earnings - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGlfeG45SWJPQ3czdDhyNnRFYV9ROXhwOFFzOUFTaW41YmZXMHpCVlpDckxhWElKUjFvWThBTjE1bWJYdjh4STh4MXhPQThLdjZGa3NEUGpvMmRaS1JoTjMwUFVWRXFpNlJ2VmowME5qUVB1WXN0aU1Eb3VJSjR5eEotLWlKY2ZuUmlUaTZDRmlhVktPZjFUa3ZaNXh6aW8?oc=5",
+  "published_at": "Thu, 25 Jun 2026 22:48:50 GMT",
+  "published_ts": 1782427730,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORGlfeG45SWJPQ3czdDhyNnRFYV9ROXhwOFFzOUFTaW41YmZXMHpCVlpDckxhWElKUjFvWThBTjE1bWJYdjh4STh4MXhPQThLdjZGa3NEUGpvMmRaS1JoTjMwUFVWRXFpNlJ2VmowME5qUVB1WXN0aU1Eb3VJSjR5eEotLWlKY2ZuUmlUaTZDRmlhVktPZjFUa3ZaNXh6aW8?oc=5\" target=\"_blank\">SNDK Stock: Citigroup Sees SanDisk As Top Beneficiary Of Strong Micron Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citigroup analyst names SanDisk (SNDK) as a top beneficiary of strong Micron (MU) earnings results, citing positive spillover effects. This is analyst commentary on a holding, not a confirmed event or new development affecting SanDisk directly; it reflects sentiment but lacks a concrete catalyst specific to SNDK."
+  },
+  "buffered_ts": 1782566748.98701
+ },
+ {
+  "id": "1409277e1b5019fc40af58976523c1b4cf770198",
+  "source": "Firstpost",
+  "topic": "industry",
+  "title": "Why your next smartphone and laptop may cost more — even as the chip shortage fades - Firstpost",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3YzQ0dxX0FvMjFVa2R0SlpZQVUwZFhUQUZ3TUs2V2NRNEZxc1RqWUxKTDVJeE5iV3JwTlFieFZ5em1xaFd1U3lSclRlbUhxLWdybHRYb3FYM3VjUmN5UkNFNEZNa1JQMlUzdWltN1JUY3hDVDRkMDNhQ21wNjVsOHB4QkNjajViMHVzbjAybGFmMHB5bzJSaUV6SzlBVHJMVWZuX1dkbDFhX01FQXk5TkxyMXDSAboBQVVfeXFMT1ZESHJVRlltdnZxT19QMmhYSGcwQVQtSVd4N0lNX2NaQkQxYVpLNXlnZTVZQ1Nxc2xtd1VibGJzR0lZQ3prZm1kLUE4dzRQaGwtQTBlR1JTM2FNOTdNUzljZi03SDlybHQ5SlozWWwwUTMyNHRnRGJJbnBnb1N6Rk9CUFVQcTBMT0Y1SlN2blJWNUxoWTVxMndkanU1eGpFYjc3R1lBTTUxRkFjYzRmRHk2LVZZZDFHa2t3?oc=5",
+  "published_at": "Fri, 26 Jun 2026 03:08:12 GMT",
+  "published_ts": 1782443292,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3YzQ0dxX0FvMjFVa2R0SlpZQVUwZFhUQUZ3TUs2V2NRNEZxc1RqWUxKTDVJeE5iV3JwTlFieFZ5em1xaFd1U3lSclRlbUhxLWdybHRYb3FYM3VjUmN5UkNFNEZNa1JQMlUzdWltN1JUY3hDVDRkMDNhQ21wNjVsOHB4QkNjajViMHVzbjAybGFmMHB5bzJSaUV6SzlBVHJMVWZuX1dkbDFhX01FQXk5TkxyMXDSAboBQVVfeXFMT1ZESHJVRlltdnZxT19QMmhYSGcwQVQtSVd4N0lNX2NaQkQxYVpLNXlnZTVZQ1Nxc2xtd1VibGJzR0lZQ3prZm1kLUE4dzRQaGwtQTBlR1JTM2FNOTdNUzljZi03SDlybHQ5SlozWWwwUTMyNHRnRGJJbnBnb1N6Rk9CUFVQcTBMT0Y1SlN2blJWNUxoWTVxMndkanU1eGpFYjc3R1lBTTUxRkFjYzRmRHk2LVZZZDFHa2t3?oc=5\" target=\"_blank\">Why your next smartphone and laptop may cost more — even as the chip shortage fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Firstpost"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses potential smartphone and laptop cost increases despite chip shortage easing, likely referencing memory and semiconductor pricing dynamics. This is analysis/discussion of pricing trends rather than concrete pricing data or confirmed events."
+  },
+  "buffered_ts": 1782566748.98701
+ },
+ {
+  "id": "be595d92313b3834e60a0ddb15b3452b53051c0c",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Memory Giant SK Hynix Nears US Listing: Some Key Information You Need to Know - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3h5Smd3UUktRzdfMXRISlplRm1CNG52TkJPSjRNSG43RGsxZHJENXlnaXFscVJNeXRORDFyenkyQ3pXZmM0SDU5VzEtX1gycFpwMHZ2d0RWeldvSzRUZGE4VUZfMGNzUDJkTkZUb0hHSkUtV2ZXeHdJTW56ZnJUUXJkMlZPYndOQ3piNlQ5RVY2UnpUWEZyM1l6NTFVODB5VURSbnFIYlU1bmdTTmJ5QVB3?oc=5",
+  "published_at": "Sat, 27 Jun 2026 12:05:04 GMT",
+  "published_ts": 1782561904,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3h5Smd3UUktRzdfMXRISlplRm1CNG52TkJPSjRNSG43RGsxZHJENXlnaXFscVJNeXRORDFyenkyQ3pXZmM0SDU5VzEtX1gycFpwMHZ2d0RWeldvSzRUZGE4VUZfMGNzUDJkTkZUb0hHSkUtV2ZXeHdJTW56ZnJUUXJkMlZPYndOQ3piNlQ5RVY2UnpUWEZyM1l6NTFVODB5VURSbnFIYlU1bmdTTmJ5QVB3?oc=5\" target=\"_blank\">Memory Giant SK Hynix Nears US Listing: Some Key Information You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM fund holding, is reportedly nearing a US listing. This is a significant corporate development for the company but remains in the exploratory/discussion phase ('nears') rather than an announced or completed listing. Material if confirmed, but currently soft news pending official announcement."
+  },
+  "buffered_ts": 1782566748.98701
+ },
+ {
+  "id": "1b1ed0ff9dfe31cd78fbdfd912aeab4169b2b898",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "SK Hynix target prices surge on HBM demand, Nasdaq listing - MSN",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMV91NXVsdG9PWGNZNEtZUll2eXh0TmY3MVNNQ0xFRkdBMlkyT3FBUHhnUmdFVDh3UndEd1FwVTFfME5HOXBoaE5qVzdhZG5BUzdBdnZHN09CSHpEbktmNmNqZkZ3YnZud3ZkZVljYmlhOU1EOGY3SENkTzVudWlrQXhiMWRZVnJvSlBEMTZSd1BheEJ4?oc=5",
+  "published_at": "Fri, 26 Jun 2026 05:21:50 GMT",
+  "published_ts": 1782451310,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMV91NXVsdG9PWGNZNEtZUll2eXh0TmY3MVNNQ0xFRkdBMlkyT3FBUHhnUmdFVDh3UndEd1FwVTFfME5HOXBoaE5qVzdhZG5BUzdBdnZHN09CSHpEbktmNmNqZkZ3YnZud3ZkZVljYmlhOU1EOGY3SENkTzVudWlrQXhiMWRZVnJvSlBEMTZSd1BheEJ4?oc=5\" target=\"_blank\">SK Hynix target prices surge on HBM demand, Nasdaq listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix target prices raised by analysts citing HBM demand and anticipated Nasdaq listing. Analyst upgrades and price-target increases are opinion-based developments; while HBM demand is material to the fund, the story is driven by analyst forecasts and forward expectations rather than concrete events or confirmed results."
+  },
+  "buffered_ts": 1782566748.98701
+ }
+]
