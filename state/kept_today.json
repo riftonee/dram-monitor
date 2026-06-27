@@ -502,5 +502,101 @@
    "summary": "Elon Musk commentary on memory chip prices experiencing an unprecedented surge. While pricing is directly relevant to the DRAM fund, Musk's opinion/commentary without specific pricing data or concrete market evidence constitutes soft analysis rather than a hard pricing report."
   },
   "buffered_ts": 1782598081.5985842
+ },
+ {
+  "id": "952b6a03c71aeaa2a0fe4eb731f5a303d887ae54",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Honam chip push risks saddling Korea giants with costly overcapacity - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Q1dxWVFCSzRDMlU3QUZwSl8yZE54ZEZ4UjlRNXRkOGh0eERxVVBzLV9CbXd1MDlveXc3NGhLN2V5N3liWkdSYWRoZFo5OFF5NjlUdGhTTXJPRDRNWWs5b3hjOW5wTTBOUVVyWnFnUUNPNzhhVHNCeW9B0gGOAUFVX3lxTE5rZU5tbXVTUGxodC1qbUpMU1l6OXE5TnR2RDVnMWN3RGhjSjdIMXpFYUpDejdsbDJ6QlNoOUxLMDlvTmhFd3RrQy1JOXBCaE1NaFZma0RFYzZLWnZ2LS1SOEc1OV91MXcxRU9lVlhsVDl3UU5zZHgzZVhRTktfT2Y3alhnV01PQXpjZW1pOHc?oc=5",
+  "published_at": "Sat, 27 Jun 2026 21:01:00 GMT",
+  "published_ts": 1782594060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE01Q1dxWVFCSzRDMlU3QUZwSl8yZE54ZEZ4UjlRNXRkOGh0eERxVVBzLV9CbXd1MDlveXc3NGhLN2V5N3liWkdSYWRoZFo5OFF5NjlUdGhTTXJPRDRNWWs5b3hjOW5wTTBOUVVyWnFnUUNPNzhhVHNCeW9B0gGOAUFVX3lxTE5rZU5tbXVTUGxodC1qbUpMU1l6OXE5TnR2RDVnMWN3RGhjSjdIMXpFYUpDejdsbDJ6QlNoOUxLMDlvTmhFd3RrQy1JOXBCaE1NaFZma0RFYzZLWnZ2LS1SOEc1OV91MXcxRU9lVlhsVDl3UU5zZHgzZVhRTktfT2Y3alhnV01PQXpjZW1pOHc?oc=5\" target=\"_blank\">Honam chip push risks saddling Korea giants with costly overcapacity - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on South Korean memory chipmakers' (Samsung, SK hynix) investment plans in Honam region and risk of industry overcapacity. Relevant to fund holdings but represents analysis/opinion on potential future overcapacity rather than a concrete, announced production cut or capacity decision."
+  },
+  "buffered_ts": 1782603223.494654
+ },
+ {
+  "id": "4aa3e168aabbe384421311076f63fe9f215c2fff",
+  "source": "PBS",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI - PBS",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNU8wakFDQkR4dHB4YWZIemRWak5Bc1lBUS1lX0FNTE5mNmQ5VG9pUERLZkFLMWdUVHkxdWNxMXRTSE5BM1ItbnFHU0M1aVJndWNUd3VkV2FtWjdNbUhvY1BQS2h6ZWpyd3JVU3AzYlExem5GczQ0T0ROeEdSZjRBYTNpa3BWXzRzaTZEc0tyX1pLVUdtZ09BZC1hdDNfU3F3WTNRNUpGOUt3c3BoR0dyMmF2SXpzdFRqQzg5WdIBwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQQ?oc=5",
+  "published_at": "Fri, 26 Jun 2026 23:50:00 GMT",
+  "published_ts": 1782517800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNU8wakFDQkR4dHB4YWZIemRWak5Bc1lBUS1lX0FNTE5mNmQ5VG9pUERLZkFLMWdUVHkxdWNxMXRTSE5BM1ItbnFHU0M1aVJndWNUd3VkV2FtWjdNbUhvY1BQS2h6ZWpyd3JVU3AzYlExem5GczQ0T0ROeEdSZjRBYTNpa3BWXzRzaTZEc0tyX1pLVUdtZ09BZC1hdDNfU3F3WTNRNUpGOUt3c3BoR0dyMmF2SXpzdFRqQzg5WdIBwgFBVV95cUxOWXpDYkpRc19IckJ3cm1UcEYxbnpzLWw4eGplYUEzYkNOTDFDM0RuaWhXTmN5dm45Z2pWb3NYRGw1N0RzbXZRVHJzaFFiU0VuWVo2UE9sUGFpRVVteTdKbjh5cjZWY0xtS1I4UGVhQV9iYzJOb2hJOHh2T2wxTkM5RERoVGVLc1hNdENjc1lHdndSY1NCNGc4UjJpdGVHaXlJLWdmNDhIUVVHSkpUX0ZQTmdhQmZ1SGdfVThieWxCZ3hSQQ?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PBS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple cites memory chip shortage driven by AI demand as reason for price increases on Macs and iPads. This reflects elevated DRAM/memory demand from AI infrastructure capex pulling overall memory prices higher, affecting end-product pricing. However, this is Apple's public explanation rather than a concrete capacity announcement or pricing data point from memory suppliers themselves."
+  },
+  "buffered_ts": 1782603223.494654
+ },
+ {
+  "id": "f2683fca602f161b817b6008d3974aaa495637d3",
+  "source": "AppleInsider",
+  "topic": "holding",
+  "title": "Apple asks Trump to let it buy memory from a blacklisted supplier - AppleInsider",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRV9ZbHJPQWRLMHhWQllxQ3lOaXJMUnVnQzd6YW5TSXRsVWpObGhBcjgwZjhCT3MteFZkMC13QlRocDFTTkg3SUQ2V1RtU01GU1dseENCOHl6Qmhqb3lTVjBLYTlqQXRfOXdoNElkQTRYc1lPV2pRclJJOVBaYmF3UjloNkhTUFBjYTNqajRIMUVWd3dYOUJ3RGwyV1lBMGRwSjdXeUdNbVBOdHBw?oc=5",
+  "published_at": "Sat, 27 Jun 2026 12:59:45 GMT",
+  "published_ts": 1782565185,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRV9ZbHJPQWRLMHhWQllxQ3lOaXJMUnVnQzd6YW5TSXRsVWpObGhBcjgwZjhCT3MteFZkMC13QlRocDFTTkg3SUQ2V1RtU01GU1dseENCOHl6Qmhqb3lTVjBLYTlqQXRfOXdoNElkQTRYc1lPV2pRclJJOVBaYmF3UjloNkhTUFBjYTNqajRIMUVWd3dYOUJ3RGwyV1lBMGRwSjdXeUdNbVBOdHBw?oc=5\" target=\"_blank\">Apple asks Trump to let it buy memory from a blacklisted supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AppleInsider"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple is seeking Trump administration permission to purchase memory from a blacklisted supplier, likely referring to Chinese semiconductor manufacturers. This reflects ongoing geopolitical and trade tensions affecting memory supply chains, but represents a request/negotiation rather than a confirmed outcome. The outcome could materially affect memory demand and pricing if approved, but the concrete impact remains uncertain."
+  },
+  "buffered_ts": 1782603223.494654
+ },
+ {
+  "id": "dde823c326f94d0481b19d663f4a06aca607073a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Dear Future SK Hynix Stock Investors, Mark Your Calendars for July 10 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFg4aGFhbUFBbFNCM3I5eGhteTZGdkJMcmtFZnhJMG5peDdHam9PaHBmVldaM1JLNXRWa0N1ZTdEemNxamZTSGRRRnRSdUxCN3pBakYtaUlBTmdIbm15Y2R3TnptTW5ObDEzN2ZxM0g3aTFvbjVrTDdoTkNPT0EydUYwRHN1N01uMmIyZXhweEZuVjFTMFE?oc=5",
+  "published_at": "Sat, 27 Jun 2026 17:00:02 GMT",
+  "published_ts": 1782579602,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFg4aGFhbUFBbFNCM3I5eGhteTZGdkJMcmtFZnhJMG5peDdHam9PaHBmVldaM1JLNXRWa0N1ZTdEemNxamZTSGRRRnRSdUxCN3pBakYtaUlBTmdIbm15Y2R3TnptTW5ObDEzN2ZxM0g3aTFvbjVrTDdoTkNPT0EydUYwRHN1N01uMmIyZXhweEZuVjFTMFE?oc=5\" target=\"_blank\">Dear Future SK Hynix Stock Investors, Mark Your Calendars for July 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance reminder that SK hynix will release earnings or make an announcement on July 10. This is a calendar note with no new information about the company's business, pricing, or production—merely flagging when investors should expect news."
+  },
+  "buffered_ts": 1782603223.494654
  }
 ]
