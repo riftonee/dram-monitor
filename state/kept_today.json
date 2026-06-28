@@ -1009,5 +1009,29 @@
    "summary": "Seagate announced redemption of $150.7 million in notes due 2028. This is a routine debt management action with no bearing on memory semiconductor fundamentals, pricing, or capacity."
   },
   "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "e4eafa637ce53050f5b84ff8dd186f5f5d85fdb0",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Chey Tae-won to Attend SK hynix Nasdaq Listing, Drives Chip 'Super Momentum' - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1Y2eTFkV1dXRV9zUkE0RkJUX0NadGo3MWJfWmJUU21HZTdvN2FxWm14UUxzMGJSODFjNmJMdk1wTk9GUXRCWk1MaXpOTVJIamRMaW9SLUxfUVJYUDFCZ2dhT2J1T1cxTXB3R3pEemR2SFZ4UXZ1WUoyRllqeGwyNU9uMDhvdGd2RGNyX3JhTXh5RDhLSFdkYlluRFhYSWd0M2c?oc=5",
+  "published_at": "Sun, 28 Jun 2026 08:20:57 GMT",
+  "published_ts": 1782634857,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1Y2eTFkV1dXRV9zUkE0RkJUX0NadGo3MWJfWmJUU21HZTdvN2FxWm14UUxzMGJSODFjNmJMdk1wTk9GUXRCWk1MaXpOTVJIamRMaW9SLUxfUVJYUDFCZ2dhT2J1T1cxTXB3R3pEemR2SFZ4UXZ1WUoyRllqeGwyNU9uMDhvdGd2RGNyX3JhTXh5RDhLSFdkYlluRFhYSWd0M2c?oc=5\" target=\"_blank\">Chey Tae-won to Attend SK hynix Nasdaq Listing, Drives Chip 'Super Momentum'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix chairman Chey Tae-won to attend Nasdaq listing ceremony, signaling major capital market event for the company and potential catalyst for investor visibility and trading activity in a core DRAM ETF holding."
+  },
+  "buffered_ts": 1782648116.026346
  }
 ]
