@@ -430,5 +430,29 @@
    "summary": "Opinion piece analyzing SanDisk (SNDK) stock momentum and whether its rally has exhausted. No concrete news, earnings data, or market-moving catalyst — purely technical/sentiment analysis from a commentator."
   },
   "buffered_ts": 1782682613.1228726
+ },
+ {
+  "id": "42e2a03ae504e9bbe5d370c0b557b8458129b0c5",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Plans $29.4 Billion Raise And Nasdaq ADR Listing - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdm9fMkZ6MFduU1p5RktlVjZvWkV4d2tnWUJFcC1uay1qNEdaNEFIOWVKdnhSdER3UDNfWkRBdFlfZXE1aVZXejNJT1VGQmw1cGNDNVdGTHptd0E1ZWhXbmwzbUl0SWpVNHdpMS0xeFlBMXBNU2tNbVcxV0o2Tlk2Tm1YV2Vxekc2ZDA2eGJhX191c2VydU5Hc2FKNkY0MVg4cVVTbGRSZmJLRDJySWdORzJSQ2ZKdTZSUHN2elVyc01GMFNsUm9fVk1ERnlGLVAxYW05VkZuQdIB3AFBVV95cUxQZTVycklGOTUzUGJkSzV1cGVRdTRQQjF4QnZQOXUzUlliM29lUlgzeEhFb0dObllYNXFpSWtCVlpqSk95R25od2VhMzhjZ0pUMm5ZcHB1RkhVcExnbGVabDIwSkowbS14MWxSNHdvSnRUZWlINFoxcWExWmdzZDRENVNlaTFDY2lYVzNQWmJFd1ljQnNzempaRDlaQW5TOFNRdmdadGVTNW50T2VEWDNXLTNncUZDTnE2ZTVoSjBTMXRObEEtakJKZnlZSkdoLVhodWs5ajYzQlpCa08y?oc=5",
+  "published_at": "Sun, 28 Jun 2026 22:22:00 GMT",
+  "published_ts": 1782685320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdm9fMkZ6MFduU1p5RktlVjZvWkV4d2tnWUJFcC1uay1qNEdaNEFIOWVKdnhSdER3UDNfWkRBdFlfZXE1aVZXejNJT1VGQmw1cGNDNVdGTHptd0E1ZWhXbmwzbUl0SWpVNHdpMS0xeFlBMXBNU2tNbVcxV0o2Tlk2Tm1YV2Vxekc2ZDA2eGJhX191c2VydU5Hc2FKNkY0MVg4cVVTbGRSZmJLRDJySWdORzJSQ2ZKdTZSUHN2elVyc01GMFNsUm9fVk1ERnlGLVAxYW05VkZuQdIB3AFBVV95cUxQZTVycklGOTUzUGJkSzV1cGVRdTRQQjF4QnZQOXUzUlliM29lUlgzeEhFb0dObllYNXFpSWtCVlpqSk95R25od2VhMzhjZ0pUMm5ZcHB1RkhVcExnbGVabDIwSkowbS14MWxSNHdvSnRUZWlINFoxcWExWmdzZDRENVNlaTFDY2lYVzNQWmJFd1ljQnNzempaRDlaQW5TOFNRdmdadGVTNW50T2VEWDNXLTNncUZDTnE2ZTVoSjBTMXRObEEtakJKZnlZSkdoLVhodWs5ajYzQlpCa08y?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Plans $29.4 Billion Raise And Nasdaq ADR Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces $29.4 billion capital raise and plans Nasdaq ADR listing—a concrete, material development signaling major investment in capacity and market access that directly affects a core DRAM ETF holding."
+  },
+  "buffered_ts": 1782687560.3353887
  }
 ]
