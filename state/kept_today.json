@@ -334,5 +334,29 @@
    "summary": "Apple reportedly sourcing memory from a blacklisted Chinese chipmaker amid a memory supply crisis, indicating tightening memory availability and demand pressure in the market; however, the story is based on reporting and supply-chain speculation rather than a confirmed official announcement or hard supply/pricing data."
   },
   "buffered_ts": 1782672199.3919961
+ },
+ {
+  "id": "f59464e24a084b9faac78df38c61f7501f4a648c",
+  "source": "Yellow.com",
+  "topic": "industry",
+  "title": "Micron Becomes Wall Street’s Next AI Obsession After 236% Rally - Yellow.com",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwelZBeEZQZXdIZ2gzUVh2VnNfY3A5U0YwQXF5c2xoSEN5Y3BzY01FXy0tZ3RSZnBvcEg4dldkVVpHMTUwekhfTDJxWGRXQmc4TjdibnlaYTg?oc=5",
+  "published_at": "Sun, 28 Jun 2026 17:19:15 GMT",
+  "published_ts": 1782667155,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwelZBeEZQZXdIZ2gzUVh2VnNfY3A5U0YwQXF5c2xoSEN5Y3BzY01FXy0tZ3RSZnBvcEg4dldkVVpHMTUwekhfTDJxWGRXQmc4TjdibnlaYTg?oc=5\" target=\"_blank\">Micron Becomes Wall Street’s Next AI Obsession After 236% Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellow.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yellow.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock has rallied 236% and is becoming a Wall Street focus due to AI demand. The headline reflects market attention to the stock and AI-driven narrative but does not report a new concrete event, earnings miss/beat, guidance change, or production decision distinct from already-known AI trends. This is analyst/market sentiment analysis rather than novel material information."
+  },
+  "buffered_ts": 1782677455.4717474
  }
 ]
