@@ -1,1 +1,170 @@
-[]
+[
+ {
+  "id": "36c809e29027f06072a2469fb963deb328b7aad6",
+  "source": "Stocktwits",
+  "topic": "fund",
+  "title": "SNDK, STX, MU, WDC Rally Powers First Dedicated Memory ETF To $1B AUM In Under Two Weeks - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTld5eFFxNTJyR3NPUU1OekRIbmRiLWtIRVlRRVVsS3RieFJneHFRVXdYeFNBbWt4dl9XQ2llTDJGdzZVWDJtRnlud0c1UFpVaGZmYlVyQWs0Q1NZdk5wbWdqZjZ5SnJ1QkxpdTYwQW84aXlEM0pXOUlCQzNIdnhNbDBKSEJLRENWbWFfSm5FcVd5WFRDSjNFTDIzV1ZZZ09fTTREX29sbUFEOWh0Zzhza0tIbVc3RWlhTDJ1QjJhMWV3a2plODhhNzQ1a3pEUld5MG4wRDVlTVJOY1ZTZC1hcEdkQQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 23:06:31 GMT",
+  "published_ts": 1782601591,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTld5eFFxNTJyR3NPUU1OekRIbmRiLWtIRVlRRVVsS3RieFJneHFRVXdYeFNBbWt4dl9XQ2llTDJGdzZVWDJtRnlud0c1UFpVaGZmYlVyQWs0Q1NZdk5wbWdqZjZ5SnJ1QkxpdTYwQW84aXlEM0pXOUlCQzNIdnhNbDBKSEJLRENWbWFfSm5FcVd5WFRDSjNFTDIzV1ZZZ09fTTREX29sbUFEOWh0Zzhza0tIbVc3RWlhTDJ1QjJhMWV3a2plODhhNzQ1a3pEUld5MG4wRDVlTVJOY1ZTZC1hcEdkQQ?oc=5\" target=\"_blank\">SNDK, STX, MU, WDC Rally Powers First Dedicated Memory ETF To $1B AUM In Under Two Weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "The Roundhill Memory ETF (DRAM) reached $1 billion in assets under management in under two weeks, driven by rallies in its holdings (SanDisk, Seagate, Micron, Western Digital). This is a concrete milestone event for the fund itself, indicating strong investor demand and capital inflows into the memory-semiconductor space."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "59d227e25c26875fea34bbb199bce6ae6cad7f07",
+  "source": "Binance",
+  "topic": "holding",
+  "title": "STOCKS | Samsung and SK Hynix to Unveil Over 1,000 Trillion Won Investment Plan on Monday - Binance",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bbk0tZjNzTXlHVmpDZUotS0pwd0wwcWNQQ1BlYnY4ZnFTbDRrN2I2VkhXeXhpelg1SUZ1Qm12ckhQM3ZxRUVtNjhIalZpSFI3Xzc4MTgxQVhWNTVzQTRXU2RNUUo?oc=5",
+  "published_at": "Sun, 28 Jun 2026 07:47:25 GMT",
+  "published_ts": 1782632845,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bbk0tZjNzTXlHVmpDZUotS0pwd0wwcWNQQ1BlYnY4ZnFTbDRrN2I2VkhXeXhpelg1SUZ1Qm12ckhQM3ZxRUVtNjhIalZpSFI3Xzc4MTgxQVhWNTVzQTRXU2RNUUo?oc=5\" target=\"_blank\">STOCKS | Samsung and SK Hynix to Unveil Over 1,000 Trillion Won Investment Plan on Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Binance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix, both major DRAM ETF holdings, plan to unveil a 1,000+ trillion won investment plan on Monday. This is a concrete, officially announced capital commitment that signals strategic direction in memory semiconductor capacity and production — a material event for the fund's holdings and the memory supply cycle."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "5b333e1c0588bd0ae04f5c6886664d131a557e30",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "TEMC CNS Begins CCSS Deliveries for SK hynix's First Yongin Fab - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ybElJdjV6RXFUN2xUSjUxYVJvdHFoV3J1a24wS2FwMEZsVEZmNlNVRHZIU0xmZWpMbjFhQjkzUzd5NDBjWjc3em1tR080TmZqaEtOQ29VSmtyUmlvMUYtUVM4eW5vU2c?oc=5",
+  "published_at": "Sun, 28 Jun 2026 14:03:04 GMT",
+  "published_ts": 1782655384,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ybElJdjV6RXFUN2xUSjUxYVJvdHFoV3J1a24wS2FwMEZsVEZmNlNVRHZIU0xmZWpMbjFhQjkzUzd5NDBjWjc3em1tR080TmZqaEtOQ29VSmtyUmlvMUYtUVM4eW5vU2c?oc=5\" target=\"_blank\">TEMC CNS Begins CCSS Deliveries for SK hynix's First Yongin Fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "TEMC CNS has begun delivering CCSS (critical chamber support system) equipment to SK hynix's first Yongin fab facility, signaling progress on fab capacity expansion and equipment provisioning that supports SK hynix's memory production capability."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "7b921a4310a7f1e422137359718460b5fa62df88",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "The AI Memory Supercycle Could Last Longer Than Investors Expect. That's Great News for Micron and Sandisk. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3lFbjQwNGdyU3c4cWJfcXhvZEg4QWVZT04tYlFhWXI5bnVXOER3b2tpTlVneTdYd1htZVFkb3pfdWZRdVVFRVZuVV9zczN6M25ralRkaVpzTTV1ZWRoZVU5bFJ5eXRhNVQxbXEwNDR6MHJVQWItaklDNkNWcVFWTmNRWjJRMWxEOVh4Q2ZlNlFrYjduRmdMbg?oc=5",
+  "published_at": "Sun, 28 Jun 2026 12:51:32 GMT",
+  "published_ts": 1782651092,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3lFbjQwNGdyU3c4cWJfcXhvZEg4QWVZT04tYlFhWXI5bnVXOER3b2tpTlVneTdYd1htZVFkb3pfdWZRdVVFRVZuVV9zczN6M25ralRkaVpzTTV1ZWRoZVU5bFJ5eXRhNVQxbXEwNDR6MHJVQWItaklDNkNWcVFWTmNRWjJRMWxEOVh4Q2ZlNlFrYjduRmdMbg?oc=5\" target=\"_blank\">The AI Memory Supercycle Could Last Longer Than Investors Expect. That's Great News for Micron and Sandisk.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece arguing that the AI-driven memory supercycle will extend longer than expected, benefiting Micron and SanDisk. This is analyst commentary and speculation about future demand rather than a concrete event or new data point."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "f23439537480929917b0043c5f3c0daeaecfe3a7",
+  "source": "bloomingbit",
+  "topic": "industry",
+  "title": "Apple Lobbies Trump Administration to Approve Chinese Memory Chip Purchases - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyS1lEVXlXWWFNVW02dl9zWG5nRlpobHFGYTV1NkVfdFJ4MXBGUHkxeU9BWVZvRFpuNnhnOXZlQzNLVTI4cjRxN2xhanNEWHRkdEdsNQ?oc=5",
+  "published_at": "Sun, 28 Jun 2026 07:08:57 GMT",
+  "published_ts": 1782630537,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyS1lEVXlXWWFNVW02dl9zWG5nRlpobHFGYTV1NkVfdFJ4MXBGUHkxeU9BWVZvRFpuNnhnOXZlQzNLVTI4cjRxN2xhanNEWHRkdEdsNQ?oc=5\" target=\"_blank\">Apple Lobbies Trump Administration to Approve Chinese Memory Chip Purchases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple is lobbying the Trump administration to permit Chinese memory chip purchases. This reflects potential trade/regulatory headwinds affecting memory demand and supply chains, but is speculative advocacy rather than a concrete policy change or confirmed event. Relevant to the fund's holdings and industry dynamics, but impact is soft until an actual policy decision is announced."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "420cbe605ec99f85d05b6e1cd315678b67894713",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "SanDisk Stock Fell 10% in a Day. Management Says the NAND Cycle Is Different - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGdLbDVzbWc4UTdqblpRQVZFUmJIUVNuVjNSbWNWUVJtRGJyRm50Ymt4bTg0cUZQcWJXOTJraExkeElWd0ozbkpaazlMQXpYUkwyZnl6aUZJd21jcDRES3FZWlpZeFNxRDFtaVFBbG1FS1dMU0pBLUktN1haRDYwSVdUR3hhZEtnNllDbWxYUEd3X0FIY19nR0s4WGNkSV8td3c?oc=5",
+  "published_at": "Sun, 28 Jun 2026 12:33:58 GMT",
+  "published_ts": 1782650038,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGdLbDVzbWc4UTdqblpRQVZFUmJIUVNuVjNSbWNWUVJtRGJyRm50Ymt4bTg0cUZQcWJXOTJraExkeElWd0ozbkpaazlMQXpYUkwyZnl6aUZJd21jcDRES3FZWlpZeFNxRDFtaVFBbG1FS1dMU0pBLUktN1haRDYwSVdUR3hhZEtnNllDbWxYUEd3X0FIY19nR0s4WGNkSV8td3c?oc=5\" target=\"_blank\">SanDisk Stock Fell 10% in a Day. Management Says the NAND Cycle Is Different</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, experienced a 10% single-day stock decline. Management commentary suggests the NAND cycle is behaving differently than expected. This is a material stock move for a core holding, but without concrete earnings data or a specific catalyst stated beyond management commentary, it scores as relevant opinion/analysis rather than a confirmed event with new hard data."
+  },
+  "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "ecaa9069927ff7493b8dd45d6a1e959731f9f9c5",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Dear Future SK Hynix Stock Investors, Mark Your Calendars for July 10 - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FvNFdBck9FVzEyYmVpMWxpUl80RjFoSVRyMGFyb2I0SFo4OWZ5SG52OVlXMVJ1elExNVRRb0REMnVpQjNWQ3JzeVBkbTlqdV9MckJNNWlZeVN0VzdyOExJOHZMaGc1MDFleXBIYkJOLU5RV1BJUFdwZ0RGVzdnYXIweW9TYm1BNFVfYlNhV2NQZ3FLV1pjbFlEejZVSTVURWppckZyZzkwT3hTVERJOUZR?oc=5",
+  "published_at": "Sat, 27 Jun 2026 17:00:02 GMT",
+  "published_ts": 1782579602,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FvNFdBck9FVzEyYmVpMWxpUl80RjFoSVRyMGFyb2I0SFo4OWZ5SG52OVlXMVJ1elExNVRRb0REMnVpQjNWQ3JzeVBkbTlqdV9MckJNNWlZeVN0VzdyOExJOHZMaGc1MDFleXBIYkJOLU5RV1BJUFdwZ0RGVzdnYXIweW9TYm1BNFVfYlNhV2NQZ3FLV1pjbFlEejZVSTVURWppckZyZzkwT3hTVERJOUZR?oc=5\" target=\"_blank\">Dear Future SK Hynix Stock Investors, Mark Your Calendars for July 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock investors are being prompted to mark July 10 on their calendars, likely for an earnings release or major company announcement. This is soft forward-looking guidance about a future event rather than a confirmed concrete development, so it rates a 3."
+  },
+  "buffered_ts": 1782656522.1858304
+ }
+]
