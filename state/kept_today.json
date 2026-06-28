@@ -718,5 +718,128 @@
    "summary": "SK Hynix briefly achieved the largest market capitalization among South Korean companies on the 22nd, surpassing Samsung Electronics intraday. This is a passing market-cap ranking note with no new fundamental information about memory demand, pricing, capacity, or earnings."
   },
   "buffered_ts": 1782617306.1197455
+ },
+ {
+  "id": "acf815e3ef4919b68a7f51e104869673b77e9883",
+  "source": "Fortune",
+  "topic": "industry",
+  "title": "‘Memory supply crisis’: Wall Street triggers huge selloff in fear of looming chip shortages - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDlIejhQZVZpUHdvTEI2djNCcHFYV2NzWXkwbTZTSjE0dXJGSlJYODhXMXd0dVZwNU1zRTdOZHJGVjJoR2EwTmtXSWttTC1WV2dkY1Z2ZHpJMHVUdVlCY21NOHpHUnRHeGxiZ2MyVUNUUUpLRHJTZUdzTm4xcTBBYTh0ZlpVejZzRHh4MUpvNFdXWTJxZlJodXZsQmljbHVa?oc=5",
+  "published_at": "Fri, 26 Jun 2026 10:19:00 GMT",
+  "published_ts": 1782469140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDlIejhQZVZpUHdvTEI2djNCcHFYV2NzWXkwbTZTSjE0dXJGSlJYODhXMXd0dVZwNU1zRTdOZHJGVjJoR2EwTmtXSWttTC1WV2dkY1Z2ZHpJMHVUdVlCY21NOHpHUnRHeGxiZ2MyVUNUUUpLRHJTZUdzTm4xcTBBYTh0ZlpVejZzRHh4MUpvNFdXWTJxZlJodXZsQmljbHVa?oc=5\" target=\"_blank\">‘Memory supply crisis’: Wall Street triggers huge selloff in fear of looming chip shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Fortune reports on Wall Street concerns about a looming memory chip supply crisis and resulting selloff. While on-topic for industry supply dynamics, the framing as 'fear of' and 'looming' suggests forward-looking concern rather than a confirmed, concrete event with new information. This is analyst/market reaction to supply outlook rather than a hard announcement of actual supply cuts or a pricing shock."
+  },
+  "buffered_ts": 1782632284.858859
+ },
+ {
+  "id": "4919ac7f1a83268c0256885db78b946e1f0c46ce",
+  "source": "Yonhap News Agency",
+  "topic": "holding",
+  "title": "Samsung, SK hynix to unveil investment plans this week: presidential office - Yonhap News Agency",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MODFNZ2FhZWJKSzJuS2ZGcEgzSEh3eHREOEg3T3hHQ1hYbHVQYWZSb1FBc2ZmTzN3aUR4bEZPaUt0ckd4R0NyY09URTJINGZua3cyM0tBeXFnUQ?oc=5",
+  "published_at": "Sun, 28 Jun 2026 06:36:03 GMT",
+  "published_ts": 1782628563,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MODFNZ2FhZWJKSzJuS2ZGcEgzSEh3eHREOEg3T3hHQ1hYbHVQYWZSb1FBc2ZmTzN3aUR4bEZPaUt0ckd4R0NyY09URTJINGZua3cyM0tBeXFnUQ?oc=5\" target=\"_blank\">Samsung, SK hynix to unveil investment plans this week: presidential office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yonhap News Agency</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yonhap News Agency",
+    "The Korea Times"
+   ],
+   "titles": [
+    "Samsung, SK hynix to unveil investment plans this week: presidential office - The Korea Times"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix (two major DRAM ETF holdings) are set to unveil investment plans this week according to South Korea's presidential office. The announcement itself is pending and the details are not yet known, making this a forward-looking story rather than a confirmed event. Once the actual plans are revealed, the concrete details (capacity additions, fab investments, production decisions) would be material; this headline signals that news is coming but does not yet constitute a concrete development."
+  },
+  "buffered_ts": 1782632284.858859
+ },
+ {
+  "id": "14d9dd3e9db9bc45dc6f36a584551300ec088110",
+  "source": "جولة",
+  "topic": "industry",
+  "title": "Apple and Xbox Price Hikes Reveal Depth of Global Memory Chip Crisis - جولة",
+  "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB3ZFkxM0VDbkc2X28tZkxSRkY2cjhIMHhVUjlFTWdMRnlobXpjN0xjZUV0Z1JNdk96X1dXLWlQMA?oc=5",
+  "published_at": "Sat, 27 Jun 2026 19:55:38 GMT",
+  "published_ts": 1782590138,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFB3ZFkxM0VDbkc2X28tZkxSRkY2cjhIMHhVUjlFTWdMRnlobXpjN0xjZUV0Z1JNdk96X1dXLWlQMA?oc=5\" target=\"_blank\">Apple and Xbox Price Hikes Reveal Depth of Global Memory Chip Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جولة</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "جولة"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report linking Apple and Xbox price hikes to a global memory chip crisis, indicating demand pressure and supply constraints affecting the memory semiconductor industry and its customers."
+  },
+  "buffered_ts": 1782632284.858859
+ },
+ {
+  "id": "154d5dc2160a3ff8a001d22cc2362c7eee9eebfa",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Apple Eyes Chinese CXMT Amid Memory Shortages - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOURSYmFwUXBaMGNrdUZYd0JYdUNQOHlQMnN6SU5qR05TZ0d2LXNRNzg0cVVNVGNhb0pNb1ZTOTR1UnFjZmhrSm90TU9CNmtHSGo0R3JmYTdPdUtwWExTRTI1M3pHbk1zM09VSUJsQTNPd1lGY3BySThhWElITXRXcFNDV1puVTRl?oc=5",
+  "published_at": "Sun, 28 Jun 2026 06:00:51 GMT",
+  "published_ts": 1782626451,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOURSYmFwUXBaMGNrdUZYd0JYdUNQOHlQMnN6SU5qR05TZ0d2LXNRNzg0cVVNVGNhb0pNb1ZTOTR1UnFjZmhrSm90TU9CNmtHSGo0R3JmYTdPdUtwWExTRTI1M3pHbk1zM09VSUJsQTNPd1lGY3BySThhWElITXRXcFNDV1puVTRl?oc=5\" target=\"_blank\">Apple Eyes Chinese CXMT Amid Memory Shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Apple is exploring partnerships with Chinese memory manufacturer CXMT amid memory shortages. While relevant to memory demand dynamics, this is reported as Apple 'eyeing' or exploring options rather than a confirmed deal or binding agreement, and CXMT is not a fund holding, limiting the direct impact on DRAM holdings like Micron, SK hynix, or Samsung."
+  },
+  "buffered_ts": 1782632284.858859
+ },
+ {
+  "id": "baafc277a2a6fd6f56151b472650d2c126598cef",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Slides 10.5% In A Day, Is It Fully Priced? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG92aFp5RF9LTGgwNHB5R0RVMmlMcW1HMk1DLTVjaUdNdWhyY3d1d1VLM1NXcGZzbUZRU3R2d3RoNUJXNmNmNjlvTU14MmtJQVlBVVg2dnJhX3FLdWhQUUhwWGdMb1MzbktfTXVJMEtxRVpYQW82T1Ezc0JxbC1rSzJwaXFtSVVMS1M0TjduQ1FsVkN5WmlfRG1fWXNYUTh2ZXNqVm1MQWpzcGo0OEVnbnlwSdIBuAFBVV95cUxQd25fTlRFUmQzdVZBQTRPcDJpWEc4cFUzQ3gtOE16N0dHczhzbG9jTTA0WHEySE1qRUNDSmlxcWJReTB0dWVzdkRIdWNydUtQdkpfUGxxNWkya2NkSjRVYmh5amtobXVTQWZZZWljM29BT1gzbkhMNmdHRjFZOS1Gb1ZrMGc0bnNLelhzT2E1d212ZDZ1a0lHQklSNGM3OWxwMm1kTGQ0U0xBM2NYcFBNYThKRjFXQzBm?oc=5",
+  "published_at": "Sat, 27 Jun 2026 10:18:32 GMT",
+  "published_ts": 1782555512,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG92aFp5RF9LTGgwNHB5R0RVMmlMcW1HMk1DLTVjaUdNdWhyY3d1d1VLM1NXcGZzbUZRU3R2d3RoNUJXNmNmNjlvTU14MmtJQVlBVVg2dnJhX3FLdWhQUUhwWGdMb1MzbktfTXVJMEtxRVpYQW82T1Ezc0JxbC1rSzJwaXFtSVVMS1M0TjduQ1FsVkN5WmlfRG1fWXNYUTh2ZXNqVm1MQWpzcGo0OEVnbnlwSdIBuAFBVV95cUxQd25fTlRFUmQzdVZBQTRPcDJpWEc4cFUzQ3gtOE16N0dHczhzbG9jTTA0WHEySE1qRUNDSmlxcWJReTB0dWVzdkRIdWNydUtQdkpfUGxxNWkya2NkSjRVYmh5amtobXVTQWZZZWljM29BT1gzbkhMNmdHRjFZOS1Gb1ZrMGc0bnNLelhzT2E1d212ZDZ1a0lHQklSNGM3OWxwMm1kTGQ0U0xBM2NYcFBNYThKRjFXQzBm?oc=5\" target=\"_blank\">Sandisk (SNDK) Slides 10.5% In A Day, Is It Fully Priced?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock declined 10.5% in a single trading session. The article is valuation analysis without reporting a specific catalyst or concrete event driving the move. A large single-day drop in a holding is noted, but without stated cause distinct from broader market moves or prior news, this is minor coverage."
+  },
+  "buffered_ts": 1782632284.858859
  }
 ]
