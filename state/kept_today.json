@@ -598,5 +598,125 @@
    "summary": "Yahoo Finance reminder that SK hynix will release earnings or make an announcement on July 10. This is a calendar note with no new information about the company's business, pricing, or production—merely flagging when investors should expect news."
   },
   "buffered_ts": 1782603223.494654
+ },
+ {
+  "id": "3f9338fe28d12442f2df61c3407c02120acc1d2c",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK hynix (KRX:000660) plunge erases value equal to four pending ADR offerings in a single session - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGxScEVuTUxWTUhzclo3dmhjSE54RTFqNmQtYUJPNEQ2ZDdNeFp4aDBya2FpVGYyNE9MTm5ZSXR3OUV3WHNuTG5sNklrQng4ZkFQWThzTENFQmd0S0ZKUUFUT1VyU3BXRE10U3hXbDlVa3B0VU43SlF0ZUtZQllWdzVTUV8tR01wRzI2d3ltZ0VSN2pRN2llNGhBQi12MC1JWEhXSnFHaFI5RDk1YW4tLTN4SzEtQQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:06:35 GMT",
+  "published_ts": 1782583595,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGxScEVuTUxWTUhzclo3dmhjSE54RTFqNmQtYUJPNEQ2ZDdNeFp4aDBya2FpVGYyNE9MTm5ZSXR3OUV3WHNuTG5sNklrQng4ZkFQWThzTENFQmd0S0ZKUUFUT1VyU3BXRE10U3hXbDlVa3B0VU43SlF0ZUtZQllWdzVTUV8tR01wRzI2d3ltZ0VSN2pRN2llNGhBQi12MC1JWEhXSnFHaFI5RDk1YW4tLTN4SzEtQQ?oc=5\" target=\"_blank\">SK hynix (KRX:000660) plunge erases value equal to four pending ADR offerings in a single session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix experienced a significant single-session stock price decline. While the magnitude is notable, the story appears to be a market reaction/price move without a stated concrete catalyst distinct from broader market conditions or previously disclosed information. Requires confirmation of what drove the plunge to assess if a specific event occurred."
+  },
+  "buffered_ts": 1782617306.1197455
+ },
+ {
+  "id": "3359cdb695ff2cf7e85ff2520358f06415da36e1",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Micron's strong earnings stoke hope for Samsung, SK hynix Q2 results - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2hMOXlRVG0zYXVCWm1oVzh5ZU9hNTl4dnFZRFgtVXhxeVNMczYxa01vZldvSGRJQzBRdVdwcFpENWRXNzZaY2h1UzljVVdYM2RxTllwbWxwbjFwUVVqeGYyRy1tTi1BRF9OYzlpa0NjU1NuUGZWUnpxbVAtNURDdENsUW1CcmQ1Z2ZKS3BCdVlHY0Y5Rk91UFJNdjhhNWFGMVhNZlcxMnFlUkRiVW5yU0x4YmU2czlpcndoQWJGNW1NTXhJ0gHKAUFVX3lxTE5HM3BqSjR4V24xS2Y2ZGxHa0NpZVNqek9KejVjUnY3NnpCWXpkMkVMVlZwZWdndjRqaGQxVGRNNGVkdzEzekFpVU5HTjhqVEsxc1lxVUNuTUZfZHg1QTVkRUdQSkxEVjFOcGFSWDNWcDFFVE42NTdUalpSSlRQWHpxaDJMVEhoSTlCZHhaWno4N21XczNxQmlqV3NnR1Z5dXRZVVpPNmU0R0JBZkxEUS1QNzllR2lrb1hxMWh2Tk1qSGMzcWpNZVBDb2c?oc=5",
+  "published_at": "Sun, 28 Jun 2026 02:22:03 GMT",
+  "published_ts": 1782613323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2hMOXlRVG0zYXVCWm1oVzh5ZU9hNTl4dnFZRFgtVXhxeVNMczYxa01vZldvSGRJQzBRdVdwcFpENWRXNzZaY2h1UzljVVdYM2RxTllwbWxwbjFwUVVqeGYyRy1tTi1BRF9OYzlpa0NjU1NuUGZWUnpxbVAtNURDdENsUW1CcmQ1Z2ZKS3BCdVlHY0Y5Rk91UFJNdjhhNWFGMVhNZlcxMnFlUkRiVW5yU0x4YmU2czlpcndoQWJGNW1NTXhJ0gHKAUFVX3lxTE5HM3BqSjR4V24xS2Y2ZGxHa0NpZVNqek9KejVjUnY3NnpCWXpkMkVMVlZwZWdndjRqaGQxVGRNNGVkdzEzekFpVU5HTjhqVEsxc1lxVUNuTUZfZHg1QTVkRUdQSkxEVjFOcGFSWDNWcDFFVE42NTdUalpSSlRQWHpxaDJMVEhoSTlCZHhaWno4N21XczNxQmlqV3NnR1Z5dXRZVVpPNmU0R0JBZkxEUS1QNzllR2lrb1hxMWh2Tk1qSGMzcWpNZVBDb2c?oc=5\" target=\"_blank\">Micron's strong earnings stoke hope for Samsung, SK hynix Q2 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron's strong earnings results are cited as a positive indicator for upcoming Q2 results from Samsung and SK hynix. This is analyst/market commentary on peer performance expectations rather than a concrete event or new company-specific information, making it forward-looking analysis rather than a settled development."
+  },
+  "buffered_ts": 1782617306.1197455
+ },
+ {
+  "id": "6372b76f641f2825dc8411380f2b572cff7d5c26",
+  "source": "Insider Monkey",
+  "topic": "holding",
+  "title": "Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why - Insider Monkey",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG13OUc3NnA1Z256ZFZkYzVvb1dIVGRTcmhFWVMyR3NFVmhtazZGODZ5UkJneThYX2d2NGYxdzd5UjY0Sy1xRWh6TGJJYWgydEZ3MDhhSGsxbXk5YUl0ZV9mdzlhTFVqVEc0bUhjSC1JLVRNaVVGNkNSRWFsbk9aSklvajBJTV9YZEVBNXQ4UU5Xa29POWdUeC1aWm5LVUw5WmfSAaoBQVVfeXFMT0tFTTRzSlFCRjVYd1dXSUkzRmpoY1I3aDh4OXNGbjgya0JhYnFqTWN5VkxBOU9MdXplY2RKN2s1aDltSGltWlJWZzQydXo1bjNvMFQ0clE0cDhqUFpaOHhoX0ZmUGMwWUN3R2VWcTZFRGZ4aFBuaUlpUTdHY0MyUEhoZjQtbkllUXFpaDNlaEd1UHoyU0hoUFhXR1BvekVGcy1oMGlQM195N0E?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:46:57 GMT",
+  "published_ts": 1782586017,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG13OUc3NnA1Z256ZFZkYzVvb1dIVGRTcmhFWVMyR3NFVmhtazZGODZ5UkJneThYX2d2NGYxdzd5UjY0Sy1xRWh6TGJJYWgydEZ3MDhhSGsxbXk5YUl0ZV9mdzlhTFVqVEc0bUhjSC1JLVRNaVVGNkNSRWFsbk9aSklvajBJTV9YZEVBNXQ4UU5Xa29POWdUeC1aWm5LVUw5WmfSAaoBQVVfeXFMT0tFTTRzSlFCRjVYd1dXSUkzRmpoY1I3aDh4OXNGbjgya0JhYnFqTWN5VkxBOU9MdXplY2RKN2s1aDltSGltWlJWZzQydXo1bjNvMFQ0clE0cDhqUFpaOHhoX0ZmUGMwWUN3R2VWcTZFRGZ4aFBuaUlpUTdHY0MyUEhoZjQtbkllUXFpaDNlaEd1UHoyU0hoUFhXR1BvekVGcy1oMGlQM195N0E?oc=5\" target=\"_blank\">Fox Advisors Downgrades Seagate Technology (STX) – Here’s Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Insider Monkey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Fox Advisors downgrades Seagate Technology (STX), a DRAM ETF holding. Downgrade represents analyst opinion on the stock; without details on the specific reasoning or a concrete catalyst, this is a soft signal rather than a market-moving event, typical of post-earnings analyst reactions or forecast revisions."
+  },
+  "buffered_ts": 1782617306.1197455
+ },
+ {
+  "id": "45b1b0b08e5669a6f0ed30f79d672ad67af1807d",
+  "source": "OpenCritic",
+  "topic": "pricing",
+  "title": "'The New Normal' Lenovo Warns High RAM Prices Are Here to Stay - OpenCritic",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLU4waGpsV0VpUFBmUXBBa1JabW5VVV9SZzB4Z2g2WTRHU0lwc2R3Y1ZiTHJnZ1hrUkZ1d29ZVjRYanRKZzdnUWJ3aGJPck5DSHZCN3pwSUk1a25WS2JPV3hXb2dRR3FqSDloV2xfbXd4R2NwR0xTZGZzOS1GWDVLNkJHWUdfR2NjT2luZjRvWXVka1NzY0JFTUlR?oc=5",
+  "published_at": "Sat, 27 Jun 2026 20:45:13 GMT",
+  "published_ts": 1782593113,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLU4waGpsV0VpUFBmUXBBa1JabW5VVV9SZzB4Z2g2WTRHU0lwc2R3Y1ZiTHJnZ1hrUkZ1d29ZVjRYanRKZzdnUWJ3aGJPck5DSHZCN3pwSUk1a25WS2JPV3hXb2dRR3FqSDloV2xfbXd4R2NwR0xTZGZzOS1GWDVLNkJHWUdfR2NjT2luZjRvWXVka1NzY0JFTUlR?oc=5\" target=\"_blank\">'The New Normal' Lenovo Warns High RAM Prices Are Here to Stay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenCritic</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "OpenCritic"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo warns that high RAM prices are persisting as 'the new normal,' indicating sustained pricing strength in the DRAM market rather than a near-term price collapse. This reflects ongoing demand-supply dynamics favorable to memory producers but is commentary/forecast rather than a concrete pricing data point or transaction."
+  },
+  "buffered_ts": 1782617306.1197455
+ },
+ {
+  "id": "d9269a6560024e3fd4e0999a0d9094de51b100e4",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "On the 22nd, SK Hynix ranked first in market capitalization during the day, beating Samsung Electron.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Y1ZrVzdHS1lZZUhjRDVIYnFVMnpPbDZfMDJfaTBrOWREN3c0WVh0SDV6SHYwSnlEdHBfcVhzZTEzcnVkTThXMmRlVlJaLWc?oc=5",
+  "published_at": "Sun, 28 Jun 2026 02:02:52 GMT",
+  "published_ts": 1782612172,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Y1ZrVzdHS1lZZUhjRDVIYnFVMnpPbDZfMDJfaTBrOWREN3c0WVh0SDV6SHYwSnlEdHBfcVhzZTEzcnVkTThXMmRlVlJaLWc?oc=5\" target=\"_blank\">On the 22nd, SK Hynix ranked first in market capitalization during the day, beating Samsung Electron..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix briefly achieved the largest market capitalization among South Korean companies on the 22nd, surpassing Samsung Electronics intraday. This is a passing market-cap ranking note with no new fundamental information about memory demand, pricing, capacity, or earnings."
+  },
+  "buffered_ts": 1782617306.1197455
  }
 ]
