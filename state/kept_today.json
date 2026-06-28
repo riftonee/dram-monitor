@@ -214,5 +214,125 @@
    "summary": "SanDisk stock is outperforming the S&P 500 in 2026. This is a price-performance commentary without substantive news about the company's memory business, operations, or earnings."
   },
   "buffered_ts": 1782661666.1530843
+ },
+ {
+  "id": "da8d14fdfae218aa083b92a269a0a5d3db18271c",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology lifts guidance after stunning quarter, shares draw fresh analyst support - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzVsYzdkOW9jTzhqRHp0Z3JvbmpqbVBrNGljT3lqVUxUVC1MbllCQUhLczV1WTF6T1JPMHI0em1PaEtQekVrZmI2VnhKVzB5ODdDdFR4Mlk0ZkswcENESnlCSVRuVDh6N3NFRWZ6bWRnUkRuVG9NdFQ0bjRhbVJLd2poVnBlZ09sUUd2dGlQM21yY0VuZE9yLXFNVUg3UGhZTkJkREZGYlhHdktOOUJ0dUNjTG5CVWd2NWw5UnBYZktYWWdCN0R3X2xSMWw?oc=5",
+  "published_at": "Sun, 28 Jun 2026 10:35:15 GMT",
+  "published_ts": 1782642915,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzVsYzdkOW9jTzhqRHp0Z3JvbmpqbVBrNGljT3lqVUxUVC1MbllCQUhLczV1WTF6T1JPMHI0em1PaEtQekVrZmI2VnhKVzB5ODdDdFR4Mlk0ZkswcENESnlCSVRuVDh6N3NFRWZ6bWRnUkRuVG9NdFQ0bjRhbVJLd2poVnBlZ09sUUd2dGlQM21yY0VuZE9yLXFNVUg3UGhZTkJkREZGYlhHdktOOUJ0dUNjTG5CVWd2NWw5UnBYZktYWWdCN0R3X2xSMWw?oc=5\" target=\"_blank\">Micron Technology lifts guidance after stunning quarter, shares draw fresh analyst support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Micron Technology (MU), a core DRAM fund holding, reported a strong quarter and raised forward guidance, attracting renewed analyst support. This is a confirmed earnings-driven event with material guidance changes that directly impacts fund performance."
+  },
+  "buffered_ts": 1782672199.3919961
+ },
+ {
+  "id": "4014484608e314f648444818808e918517966682",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "AMD Just Acquired MEXT to Crack the Memory Optimization Problem. Should Micron and Sandisk Investors Be Nervous? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSERvb1NPVTh6cmt3UW5NU0taUEpSODd3SEhlR3d5ejVDeDI5aFNYdTVEV04td2MzaUZzSlU0NndxOTVlSFZ3UW81MnRwWW4xdlliUXpKMUg1LTVQSG1ucFNUNUR1SlFYajFTNFh3Z29KemRWXzBIdDdWU3hEcTg5ZzN1RXM2V3hxNV90VDlic1p2UTRPbk5TYQ?oc=5",
+  "published_at": "Sun, 28 Jun 2026 18:32:29 GMT",
+  "published_ts": 1782671549,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSERvb1NPVTh6cmt3UW5NU0taUEpSODd3SEhlR3d5ejVDeDI5aFNYdTVEV04td2MzaUZzSlU0NndxOTVlSFZ3UW81MnRwWW4xdlliUXpKMUg1LTVQSG1ucFNUNUR1SlFYajFTNFh3Z29KemRWXzBIdDdWU3hEcTg5ZzN1RXM2V3hxNV90VDlic1p2UTRPbk5TYQ?oc=5\" target=\"_blank\">AMD Just Acquired MEXT to Crack the Memory Optimization Problem. Should Micron and Sandisk Investors Be Nervous?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "AMD has acquired MEXT for memory optimization. Analysis piece discussing potential implications for Micron and SanDisk investors, but lacks concrete details on deal terms, timing, or confirmed market impact. Represents speculation about competitive dynamics rather than a settled event affecting memory demand or pricing."
+  },
+  "buffered_ts": 1782672199.3919961
+ },
+ {
+  "id": "99b75baec276fe5d148c75121f0199223322a758",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "The AI Memory Supercycle Could Last Longer Than Investors Expect. That's Great News for Micron and Sandisk. - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPamItMng0bnVSTEY4ZEtMNmV4TTFZUzJ1R3lETzgyczRjcXp5bE5BMzNPa1BIdFlpa21iWFlUcUFVcDhQT1ZJdlRjQnZGQXhrR3k5WmJPRl91ZHhSMC1QM2lscEQ4UU1fUlNYUEppSnZzTTdtZnFXWDFyY0dPQ21OcmlEUjFNdUNMcTFhZHM1NUppOU5zMjRYT0phdUdlQ1RwYVFrTWlYZDBYQlJQNXhfYWREbXY0UDdxbjh1bGVBZUU1c0hOSU9ELVhFaFBvY2xBbkFWU3dpQjFCMnNFSldvMVBuelRqSUdva3g0NjludmZwWS1sOTBvYkNSbzlLVVVxLXluQWVaMEpDRVRTa0dLTU1TZUQ5Rkxo?oc=5",
+  "published_at": "Sun, 28 Jun 2026 12:48:51 GMT",
+  "published_ts": 1782650931,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPamItMng0bnVSTEY4ZEtMNmV4TTFZUzJ1R3lETzgyczRjcXp5bE5BMzNPa1BIdFlpa21iWFlUcUFVcDhQT1ZJdlRjQnZGQXhrR3k5WmJPRl91ZHhSMC1QM2lscEQ4UU1fUlNYUEppSnZzTTdtZnFXWDFyY0dPQ21OcmlEUjFNdUNMcTFhZHM1NUppOU5zMjRYT0phdUdlQ1RwYVFrTWlYZDBYQlJQNXhfYWREbXY0UDdxbjh1bGVBZUU1c0hOSU9ELVhFaFBvY2xBbkFWU3dpQjFCMnNFSldvMVBuelRqSUdva3g0NjludmZwWS1sOTBvYkNSbzlLVVVxLXluQWVaMEpDRVRTa0dLTU1TZUQ5Rkxo?oc=5\" target=\"_blank\">The AI Memory Supercycle Could Last Longer Than Investors Expect. That's Great News for Micron and Sandisk.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece arguing the AI memory supercycle will extend longer than expected, naming Micron and SanDisk as beneficiaries. This is opinion/forecast rather than a concrete event or new data point, so it rates as soft analysis rather than breaking news."
+  },
+  "buffered_ts": 1782672199.3919961
+ },
+ {
+  "id": "5fa4794f2f3efaae4933db7dcf1b5d306dd43563",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Is Crushing Every S&P 500 Stock in 2026. Can Anything Stop It? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGJIUmR4a3A4RUxSMjNmVHJZNGRPRGlDZ2syN3dsSkRJTTZBSUZMM3ppRXRPd2JiR3p3eXFITzQtYU8xdHpteXdqOHlnTTd0cEVQSzJXZjRWWnhGYkFiMldKQjhQZVlUTGZLUUdHS1AzeExpTkN4TXZBM0RNeUlpdnhXa24wZHFTSEN4d09yRTlWMHVpVWY3dA?oc=5",
+  "published_at": "Sun, 28 Jun 2026 14:48:15 GMT",
+  "published_ts": 1782658095,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGJIUmR4a3A4RUxSMjNmVHJZNGRPRGlDZ2syN3dsSkRJTTZBSUZMM3ppRXRPd2JiR3p3eXFITzQtYU8xdHpteXdqOHlnTTd0cEVQSzJXZjRWWnhGYkFiMldKQjhQZVlUTGZLUUdHS1AzeExpTkN4TXZBM0RNeUlpdnhXa24wZHFTSEN4d09yRTlWMHVpVWY3dA?oc=5\" target=\"_blank\">Sandisk Is Crushing Every S&amp;P 500 Stock in 2026. Can Anything Stop It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (holding in DRAM ETF) has significantly outperformed the S&P 500 in 2026. This is a price-performance piece discussing the stock's momentum and year-to-date gains rather than reporting a concrete event or fundamental catalyst. The story reflects market digestion of prior developments rather than new information driving the move."
+  },
+  "buffered_ts": 1782672199.3919961
+ },
+ {
+  "id": "0d526aeab39e7fefce12fc0571083532c7f4795d",
+  "source": "Notebookcheck",
+  "topic": "industry",
+  "title": "Apple turns to blacklisted Chinese chipmaker as memory crisis bites - Notebookcheck",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZklxeFR5WlJONTRZVlhiaHBzNXNqUHU2SGtUQmhOamlDWEJlMXU2QVRRc2FEdU9hNWFYWmM1NVFzZ3VZNk5MOC1GeTBzZ0lFSGhXSWNfWEhpdEx2ME9SVFlkS3NZV0NYNU95MldZX0hZaTBjcy0xLW1XU1ZxZm84WnhQT0NnMFdEMHlOd3JNRjYxYUhNSkVseWNGMndKMG1NNW5NY3lEanRHMm84NmtIczBB?oc=5",
+  "published_at": "Sat, 27 Jun 2026 11:33:00 GMT",
+  "published_ts": 1782559980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZklxeFR5WlJONTRZVlhiaHBzNXNqUHU2SGtUQmhOamlDWEJlMXU2QVRRc2FEdU9hNWFYWmM1NVFzZ3VZNk5MOC1GeTBzZ0lFSGhXSWNfWEhpdEx2ME9SVFlkS3NZV0NYNU95MldZX0hZaTBjcy0xLW1XU1ZxZm84WnhQT0NnMFdEMHlOd3JNRjYxYUhNSkVseWNGMndKMG1NNW5NY3lEanRHMm84NmtIczBB?oc=5\" target=\"_blank\">Apple turns to blacklisted Chinese chipmaker as memory crisis bites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Notebookcheck"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple reportedly sourcing memory from a blacklisted Chinese chipmaker amid a memory supply crisis, indicating tightening memory availability and demand pressure in the market; however, the story is based on reporting and supply-chain speculation rather than a confirmed official announcement or hard supply/pricing data."
+  },
+  "buffered_ts": 1782672199.3919961
  }
 ]
