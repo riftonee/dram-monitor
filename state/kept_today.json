@@ -358,5 +358,77 @@
    "summary": "Micron stock has rallied 236% and is becoming a Wall Street focus due to AI demand. The headline reflects market attention to the stock and AI-driven narrative but does not report a new concrete event, earnings miss/beat, guidance change, or production decision distinct from already-known AI trends. This is analyst/market sentiment analysis rather than novel material information."
   },
   "buffered_ts": 1782677455.4717474
+ },
+ {
+  "id": "c0845a9bf506735ae56a5ad59637b0d04462340c",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Korea concentrates risk as single-stock leveraged ETFs funnel into Samsung, SK hynix - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXlCaENhQ0pibTZTMndLaVRlMm15U01LNG42LXVULVVNb2hsRy1wbElDT29fdk1zM1hjMmlpOElmOWI3Wk96ZENUbVJONTZaODlFM21ENmVQSXdSSjBVTnZpaUQwZDFhZllfXzByWGNzYTZMN2hUWUg5bTkxS2dPcdIBlAFBVV95cUxNNEU5YVBMa2tvd2ZEcDRFWFB1aTh1bVNQRHNKZ0w1X08tbEF0ZkFxMGlPRWRfbkZQcS1uMGk2a2RBcndNdUgtei1wcFdiVnV5cVdXcDdJMUtXbkN5ekh4M1YwWWtBY2ZyQmM0VHNiWGpxNkpoaE16ZjFNWUJmNV9JdVo0MGpjdkhiaGdWamxxS3Y0RjFq?oc=5",
+  "published_at": "Sun, 28 Jun 2026 21:01:00 GMT",
+  "published_ts": 1782680460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXlCaENhQ0pibTZTMndLaVRlMm15U01LNG42LXVULVVNb2hsRy1wbElDT29fdk1zM1hjMmlpOElmOWI3Wk96ZENUbVJONTZaODlFM21ENmVQSXdSSjBVTnZpaUQwZDFhZllfXzByWGNzYTZMN2hUWUg5bTkxS2dPcdIBlAFBVV95cUxNNEU5YVBMa2tvd2ZEcDRFWFB1aTh1bVNQRHNKZ0w1X08tbEF0ZkFxMGlPRWRfbkZQcS1uMGk2a2RBcndNdUgtei1wcFdiVnV5cVdXcDdJMUtXbkN5ekh4M1YwWWtBY2ZyQmM0VHNiWGpxNkpoaE16ZjFNWUJmNV9JdVo0MGpjdkhiaGdWamxxS3Y0RjFq?oc=5\" target=\"_blank\">Korea concentrates risk as single-stock leveraged ETFs funnel into Samsung, SK hynix - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Korean leveraged ETFs are concentrating flows into Samsung and SK hynix holdings, creating single-stock risk concentration. This is relevant fund-structure commentary on capital flows into the fund's major holdings, but lacks a concrete event or material quantified catalyst that would trigger immediate action."
+  },
+  "buffered_ts": 1782682613.1228726
+ },
+ {
+  "id": "251f9f8a3c3dfb307fb459b40d27b8b4e2379fe0",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Analyst Calls SK Hynix ADR Listing 'Obvious Positive' - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUNjOG9XdVdiRzBocmQtbVFyOGxyNFh0UFRIVnZJNmFMY0I5ZUxhRDFmN3ZBYWJ2bVprcGtPWXFoRGt3T0R5bmRKbnRFQjZGdUZNWGdkdnp3TTctWkZ1NVhiNHdIeDR2cHBNZnVMZlk2bGRHMFhtZ3hNZlhqMllSN1BvdW5MMHJaMmdHcGZR?oc=5",
+  "published_at": "Sun, 28 Jun 2026 20:36:36 GMT",
+  "published_ts": 1782678996,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONUNjOG9XdVdiRzBocmQtbVFyOGxyNFh0UFRIVnZJNmFMY0I5ZUxhRDFmN3ZBYWJ2bVprcGtPWXFoRGt3T0R5bmRKbnRFQjZGdUZNWGdkdnp3TTctWkZ1NVhiNHdIeDR2cHBNZnVMZlk2bGRHMFhtZ3hNZlhqMllSN1BvdW5MMHJaMmdHcGZR?oc=5\" target=\"_blank\">Analyst Calls SK Hynix ADR Listing 'Obvious Positive'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst views SK Hynix's potential ADR (American Depositary Receipt) listing as positive for the company. This is analyst opinion on a corporate action that has not yet been confirmed as official, making it forward-looking commentary rather than a concrete event."
+  },
+  "buffered_ts": 1782682613.1228726
+ },
+ {
+  "id": "101c2f637596f2191a998e910785245e023b5454",
+  "source": "Fathom Journal",
+  "topic": "holding",
+  "title": "Is SNDK Done Rallying? 💥 (Sandisk Stock Analysis) Phil Maton (YJs5aCWSJY) - Fathom Journal",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CRGIyV0FiRFhUMXN4RlVtZURGUUI0UFJ2US1lUEFZV2dVZE5MdTNFcHFTTXI4S3BTN0lXeW1heWpYU2dtXzR1bWZTbUtHXzNMMDQ4aTNEMGdqTnE5OUVBTFdhbTk?oc=5",
+  "published_at": "Sun, 28 Jun 2026 21:35:09 GMT",
+  "published_ts": 1782682509,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CRGIyV0FiRFhUMXN4RlVtZURGUUI0UFJ2US1lUEFZV2dVZE5MdTNFcHFTTXI4S3BTN0lXeW1heWpYU2dtXzR1bWZTbUtHXzNMMDQ4aTNEMGdqTnE5OUVBTFdhbTk?oc=5\" target=\"_blank\">Is SNDK Done Rallying? 💥 (Sandisk Stock Analysis) Phil Maton (YJs5aCWSJY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fathom Journal"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece analyzing SanDisk (SNDK) stock momentum and whether its rally has exhausted. No concrete news, earnings data, or market-moving catalyst — purely technical/sentiment analysis from a commentator."
+  },
+  "buffered_ts": 1782682613.1228726
  }
 ]
