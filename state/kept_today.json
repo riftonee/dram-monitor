@@ -166,5 +166,53 @@
    "summary": "SK Hynix stock investors are being prompted to mark July 10 on their calendars, likely for an earnings release or major company announcement. This is soft forward-looking guidance about a future event rather than a confirmed concrete development, so it rates a 3."
   },
   "buffered_ts": 1782656522.1858304
+ },
+ {
+  "id": "82a94515436b12aeec449c5a9715f7223b8ab0a5",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Micron Technology set to surpass all US companies in profitability except Nvidia and Google - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9idXZxVE9XU3N2b0RlMC1lR0dzQ0ZVbzM3a0dyTkN2UVZSYkxkWjFzb0lQNUpLeHB0LTdWSTVNZU9oVjcyZG9aLXNZYzBPWU5VSjJPMzdUNF8zNThyZVhVdVhpYnZQRHd4TzFnVzZxUGhob21ZOUREUFRnQ1pNUQ?oc=5",
+  "published_at": "Sun, 28 Jun 2026 14:24:42 GMT",
+  "published_ts": 1782656682,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9idXZxVE9XU3N2b0RlMC1lR0dzQ0ZVbzM3a0dyTkN2UVZSYkxkWjFzb0lQNUpLeHB0LTdWSTVNZU9oVjcyZG9aLXNZYzBPWU5VSjJPMzdUNF8zNThyZVhVdVhpYnZQRHd4TzFnVzZxUGhob21ZOUREUFRnQ1pNUQ?oc=5\" target=\"_blank\">Micron Technology set to surpass all US companies in profitability except Nvidia and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron Technology (MU), a key DRAM ETF holding, is projected to surpass most US companies in profitability except Nvidia and Google. This is favorable sentiment regarding MU's financial performance but reflects analysis/forecasting rather than a concrete reported event or earnings release, placing it at impact 3."
+  },
+  "buffered_ts": 1782661666.1530843
+ },
+ {
+  "id": "02a9e915975ff72c373cad2eff2c292feb82a28b",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Sandisk Is Crushing Every S&P 500 Stock in 2026. Can Anything Stop It? - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemtxaEpHMHp0RGtQRTFOWGxNNm5ta01mRFd1cUthR0FaNGlyM1d6d1BzT0NkV0lYYjJIVzBFMHlsM180N3ZXV0lDT0p1am9XYkxQY2NGMjZQaFh1UHFlTXZKZ21KNXMtaVR6QjRaSk5kUWppNWZsTjNJbFlHREV3a1FGWTk3VldzbXZlYWNkLUFXVFViV000SkxrZHNoczlOQnE1R3YwVFFQY3FHSzVrdA?oc=5",
+  "published_at": "Sun, 28 Jun 2026 14:48:15 GMT",
+  "published_ts": 1782658095,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNemtxaEpHMHp0RGtQRTFOWGxNNm5ta01mRFd1cUthR0FaNGlyM1d6d1BzT0NkV0lYYjJIVzBFMHlsM180N3ZXV0lDT0p1am9XYkxQY2NGMjZQaFh1UHFlTXZKZ21KNXMtaVR6QjRaSk5kUWppNWZsTjNJbFlHREV3a1FGWTk3VldzbXZlYWNkLUFXVFViV000SkxrZHNoczlOQnE1R3YwVFFQY3FHSzVrdA?oc=5\" target=\"_blank\">Sandisk Is Crushing Every S&amp;P 500 Stock in 2026. Can Anything Stop It?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock is outperforming the S&P 500 in 2026. This is a price-performance commentary without substantive news about the company's memory business, operations, or earnings."
+  },
+  "buffered_ts": 1782661666.1530843
  }
 ]
