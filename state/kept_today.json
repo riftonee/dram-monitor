@@ -841,5 +841,173 @@
    "summary": "SanDisk (SNDK) stock declined 10.5% in a single trading session. The article is valuation analysis without reporting a specific catalyst or concrete event driving the move. A large single-day drop in a holding is noted, but without stated cause distinct from broader market moves or prior news, this is minor coverage."
   },
   "buffered_ts": 1782632284.858859
+ },
+ {
+  "id": "340c5a33a0cfec0d5ce983a07708c40e71d025a9",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNQ0ZiWjFSdnRtUkozTWVyS0VsSVhFcncyWDg5b1NCRnBweHJYOGlrX2VQWnFncDFmN0RIenhPOXhPV3ZUbFJya2lYdDhrcTd0aUUxQ2JvNlFpWDV6ZkpROU5KZXBKNzFOREIyMnlKN0hJNm9vM0s1OWlFRWpEVlRfa0RWbEx1R3FrSXFNbWRwYS11d1ZycFcwX1FJbmdKMnNmbEFLVzkwM1pJVEJLN1c4VUVOZk5SdmtzTFhQVElFVE5KS3ByWVZfNDJlUTB2eHRLV3EzaktxSEtoNnZzd1FBaWQwQ2dnM19nQUxwRWtrUkt3VDZVSEhGSl80ZlYtclpnd2poNHU0Y3hoaTZMbHFNWU1OQlNKclVZQ19fSUs3azFGakFnQlVVTUMzLThkYTVWV01uUXFkMHRBb21wN3RYczBqak5KNVpzX2dRZVF2RUpIVmhaay0xdlc0ZDk5OUNNRjFoTGtjMVFuYWRrSjRnWHZCTQ?oc=5",
+  "published_at": "Sat, 27 Jun 2026 18:54:17 GMT",
+  "published_ts": 1782586457,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wJBVV95cUxNQ0ZiWjFSdnRtUkozTWVyS0VsSVhFcncyWDg5b1NCRnBweHJYOGlrX2VQWnFncDFmN0RIenhPOXhPV3ZUbFJya2lYdDhrcTd0aUUxQ2JvNlFpWDV6ZkpROU5KZXBKNzFOREIyMnlKN0hJNm9vM0s1OWlFRWpEVlRfa0RWbEx1R3FrSXFNbWRwYS11d1ZycFcwX1FJbmdKMnNmbEFLVzkwM1pJVEJLN1c4VUVOZk5SdmtzTFhQVElFVE5KS3ByWVZfNDJlUTB2eHRLV3EzaktxSEtoNnZzd1FBaWQwQ2dnM19nQUxwRWtrUkt3VDZVSEhGSl80ZlYtclpnd2poNHU0Y3hoaTZMbHFNWU1OQlNKclVZQ19fSUs3azFGakFnQlVVTUMzLThkYTVWV01uUXFkMHRBb21wN3RYczBqak5KNVpzX2dRZVF2RUpIVmhaay0xdlc0ZDk5OUNNRjFoTGtjMVFuYWRrSjRnWHZCTQ?oc=5\" target=\"_blank\">DRAM surges as Micron earnings, SK Hynix US listing plans boost AI memory trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron earnings and SK Hynix US listing plans announced, both concrete developments affecting major fund holdings. Micron earnings represents a confirmed event with new financial data; SK Hynix US listing is an official announced development. Both are material to the memory-semiconductor cycle and AI infrastructure demand narrative."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "5ff44f27f9fd556697b752748d673cdc76f810ef",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Samsung Is Paving The Way For Next-Generation Smartphone SoC Packaging, Squeezing Half The LPDDR5X Chip Size On Its Exynos 2600 With No Performance Loss - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW9wcGJieGstOXloWC1nUTVMaFhnNkdUQmpYWXg5Ujl0NHJwWHhJN2piaktHb1lwWmh4UTJDM1FiNWpSQlQtUlRRRUt1OEFoa0UtbXNqUm9fcmN2WjEwMU5CNG5uQ2NiRGQ5cWZyb015TlVrRlpRc01XSlB5LUZta01EQkhlZDJqQzFsdFM0V2FkMG5FQ0l30gGcAUFVX3lxTE1VYWt2R0RUa2piSXhfZjRCVWlWRkJRLXlJaERsVmJTVkE5Y2hFUEU5WEp3Rm1hSUZISldIQ0gxLUpvVFFGcTFmYWNjdEU0V2FvaWVHcjdsUzk0THVBQjhYWm1zRDZzNXpmaEwyRmgwNVVNaC14VHloY3NNMXdtNlExYVJYVWFpT1c0UTR1WDVPS1I3ZjdwYWhXd0dHTA?oc=5",
+  "published_at": "Sun, 28 Jun 2026 08:21:00 GMT",
+  "published_ts": 1782634860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW9wcGJieGstOXloWC1nUTVMaFhnNkdUQmpYWXg5Ujl0NHJwWHhJN2piaktHb1lwWmh4UTJDM1FiNWpSQlQtUlRRRUt1OEFoa0UtbXNqUm9fcmN2WjEwMU5CNG5uQ2NiRGQ5cWZyb015TlVrRlpRc01XSlB5LUZta01EQkhlZDJqQzFsdFM0V2FkMG5FQ0l30gGcAUFVX3lxTE1VYWt2R0RUa2piSXhfZjRCVWlWRkJRLXlJaERsVmJTVkE5Y2hFUEU5WEp3Rm1hSUZISldIQ0gxLUpvVFFGcTFmYWNjdEU0V2FvaWVHcjdsUzk0THVBQjhYWm1zRDZzNXpmaEwyRmgwNVVNaC14VHloY3NNMXdtNlExYVJYVWFpT1c0UTR1WDVPS1I3ZjdwYWhXd0dHTA?oc=5\" target=\"_blank\">Samsung Is Paving The Way For Next-Generation Smartphone SoC Packaging, Squeezing Half The LPDDR5X Chip Size On Its Exynos 2600 With No Performance Loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung announced advanced LPDDR5X memory packaging for its Exynos 2600 smartphone SoC, achieving 50% size reduction with no performance loss. This represents a technical development in memory chip integration relevant to Samsung's semiconductor operations, but lacks concrete commercial impact data, production timeline, or market adoption details—making it a positive indicator rather than a confirmed market-moving event."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "afa065604d31be6bfbd243398b1ab538a007c769",
+  "source": "Inshorts",
+  "topic": "pricing",
+  "title": "Lenovo says high chip prices are new normal, warns 'They may never fall back down' | Micron blamed Apple for rising chip prices | Inshorts - Inshorts",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVWZFg4THZjQUpicUhsTGlsMDRZV1dhdXFtb3puUDQ1SDVob3BDV2FhRUN6aDlibks1S09OOGRBLW1qMlltNTI3eUZxbGZhYV9ERk43WWFpTF9sTlJVc3B2TUZmbTZGNlQya0tweklOOE5EZkl0YndobUNBODV5RFlHUXdvRVV4dFNSUDVsSHRIYmFWYV92RU9zUWhZODhUdDZJSUcya1BDN0RRRVZVQ29LUGdoUm1TWGdILTl2NkdKY2vSAcgBQVVfeXFMUDJtakRzNVlOYmpjZ1NDcmVXNmN4RS1rZVM3MHBmQkZPaEVYb1VzLTE1RDNZYVlrV0ZTVTNReFBEWEpqWnpBU3FQbFNWeU94b0ltVTZZaUhjU0VhWUQ5eEE4SkQwMVk0YXNmdkVEaHkweWo1QzZIb0hEUDFtM1ctamhUUGxRUG5GZElaSXBLSnQ3MnV3dF9TRGZ6a3VNY3pLUXRpbzBSOEtSTXNiU0RmTVBmZkNZREJJTllJTkxHeDk5UlJOSVB1Vmw?oc=5",
+  "published_at": "Sun, 28 Jun 2026 09:51:13 GMT",
+  "published_ts": 1782640273,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVWZFg4THZjQUpicUhsTGlsMDRZV1dhdXFtb3puUDQ1SDVob3BDV2FhRUN6aDlibks1S09OOGRBLW1qMlltNTI3eUZxbGZhYV9ERk43WWFpTF9sTlJVc3B2TUZmbTZGNlQya0tweklOOE5EZkl0YndobUNBODV5RFlHUXdvRVV4dFNSUDVsSHRIYmFWYV92RU9zUWhZODhUdDZJSUcya1BDN0RRRVZVQ29LUGdoUm1TWGdILTl2NkdKY2vSAcgBQVVfeXFMUDJtakRzNVlOYmpjZ1NDcmVXNmN4RS1rZVM3MHBmQkZPaEVYb1VzLTE1RDNZYVlrV0ZTVTNReFBEWEpqWnpBU3FQbFNWeU94b0ltVTZZaUhjU0VhWUQ5eEE4SkQwMVk0YXNmdkVEaHkweWo1QzZIb0hEUDFtM1ctamhUUGxRUG5GZElaSXBLSnQ3MnV3dF9TRGZ6a3VNY3pLUXRpbzBSOEtSTXNiU0RmTVBmZkNZREJJTllJTkxHeDk5UlJOSVB1Vmw?oc=5\" target=\"_blank\">Lenovo says high chip prices are new normal, warns 'They may never fall back down' | Micron blamed Apple for rising chip prices | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Inshorts"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo warns that elevated chip prices may persist as the new normal, with Micron blamed for contributing to rising costs. This is commentary on pricing dynamics affecting memory demand and cost structures, but lacks concrete price data or a specific catalyst beyond executive opinion."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "5cbb0c8aed2419075138fad15455be3885e2babd",
+  "source": "Fortune",
+  "topic": "industry",
+  "title": "Even Apple couldn't escape the memory chip 'RAM-ageddon' crisis. Here's why PC prices are soaring this summer - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGd2bHRmZDdMdTNyZFUyTUJ0UVV6OUJtTVo5RVViQUlaYTlFNE1MMEs2THNQVDlhY0p2dm9MYjlaeGd1TGpwZElyU2hHc09tcjl1REhRV1RfdWdRTUVlUXJvaTdYbVllZ0txMjczZUk1Yy11V3U2SDdwNE02TWhyUlhWVXdwb1JXeGpPX0MtUDJjSjg?oc=5",
+  "published_at": "Sun, 28 Jun 2026 09:00:00 GMT",
+  "published_ts": 1782637200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGd2bHRmZDdMdTNyZFUyTUJ0UVV6OUJtTVo5RVViQUlaYTlFNE1MMEs2THNQVDlhY0p2dm9MYjlaeGd1TGpwZElyU2hHc09tcjl1REhRV1RfdWdRTUVlUXJvaTdYbVllZ0txMjczZUk1Yy11V3U2SDdwNE02TWhyUlhWVXdwb1JXeGpPX0MtUDJjSjg?oc=5\" target=\"_blank\">Even Apple couldn't escape the memory chip 'RAM-ageddon' crisis. Here's why PC prices are soaring this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Fortune reports on a memory chip supply crisis affecting PC and device pricing, including Apple. The story discusses why RAM prices are rising, which is relevant to memory-semiconductor demand and pricing dynamics, but appears to be analysis/explanation of known market conditions rather than reporting a new concrete event or hard number."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "12b08683d0b6a3bcda8d2054416a9bb11e673255",
+  "source": "Sahm",
+  "topic": "holding",
+  "title": "Western Digital (WDC) Stock Rises As Micron’s $100 Billion AI Deals Lift Memory Sector - Sahm",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWxFanRveDBWVEE4cXN6Ulg4NlpncEtrbWxmWllvTVBxc3B3bnNFVlhzWjgwQUFNVGJhY2FFT0hWemMtVHBwZ1dGMERZeDVkZkdTUnZCQUZYYlVqbDQ2cXJyVFFYZTlqc1ZoVEVQbGhuamx3MFMwaVZZcmtfWTBGZk45NXM2S1pjclZaX1NFYkRBN0tKNHhtYjVXU2tReFd2X05VbWE5RFBnSzV5bGc2bG5yRHAzcGNOQ3JnNWo3cDN3c3YtcHlqRHRzZExFUlU?oc=5",
+  "published_at": "Sat, 27 Jun 2026 15:07:03 GMT",
+  "published_ts": 1782572823,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWxFanRveDBWVEE4cXN6Ulg4NlpncEtrbWxmWllvTVBxc3B3bnNFVlhzWjgwQUFNVGJhY2FFT0hWemMtVHBwZ1dGMERZeDVkZkdTUnZCQUZYYlVqbDQ2cXJyVFFYZTlqc1ZoVEVQbGhuamx3MFMwaVZZcmtfWTBGZk45NXM2S1pjclZaX1NFYkRBN0tKNHhtYjVXU2tReFd2X05VbWE5RFBnSzV5bGc2bG5yRHAzcGNOQ3JnNWo3cDN3c3YtcHlqRHRzZExFUlU?oc=5\" target=\"_blank\">Western Digital (WDC) Stock Rises As Micron’s $100 Billion AI Deals Lift Memory Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Sahm"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital stock rises following Micron's reported $100 billion in AI deals. The story links a holding (WDC) to positive sector sentiment driven by another holding's (MU) AI-related business momentum, but reports a stock price move and analyst reaction to existing news rather than a new concrete event distinct from prior earnings or announcements."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "bd3092ab1f6dd535955c654d9def16501c0ec1b9",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Apple Seeks Chinese Memory Chips, Threatening Samsung-SK Dominance - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGVSWDFyWFBlcThCYlRSSHBxcVRPZmJxMVBTQjh3VmItZF82eVE2ZEZld0pnS1UtNUdkWURhVkxhMWxnRENzc2lRbEExSHZYV3JDTUJDSXNoWEFHZVBWN1lDWlNoOWhoeHJpZ1B2dkRFaWVWajZkWV83b0xuNXNzNVpKb0NyME5ld3dDc0doS29iNHJqeFEyNmZuQk9WcmpBdS1iOTB3?oc=5",
+  "published_at": "Sun, 28 Jun 2026 08:47:10 GMT",
+  "published_ts": 1782636430,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGVSWDFyWFBlcThCYlRSSHBxcVRPZmJxMVBTQjh3VmItZF82eVE2ZEZld0pnS1UtNUdkWURhVkxhMWxnRENzc2lRbEExSHZYV3JDTUJDSXNoWEFHZVBWN1lDWlNoOWhoeHJpZ1B2dkRFaWVWajZkWV83b0xuNXNzNVpKb0NyME5ld3dDc0doS29iNHJqeFEyNmZuQk9WcmpBdS1iOTB3?oc=5\" target=\"_blank\">Apple Seeks Chinese Memory Chips, Threatening Samsung-SK Dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Apple is exploring Chinese memory chip suppliers, potentially diversifying away from Samsung and SK hynix. This represents a strategic shift that could pressure two major DRAM ETF holdings, but the report remains speculative—'seeks' and 'threatening' indicate discussion/exploration rather than a confirmed deal or material order shift."
+  },
+  "buffered_ts": 1782642326.6945677
+ },
+ {
+  "id": "a8e9a7555b16328b343a76f5f80de6116fd0a372",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate (STX) Is Redeeming $150.7 Million Of Notes Due 2028 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmZSbnFOa3A2LVR4TEtmZU5aOEFIeE1HSEpUWXdTb2dZT3VRTVJobmxDRWV2cFZiVjU2dmJyT0oyZ3oycGFpU3VfdGxCajVwRFFoa3pKUkJvWUpCd1ZiR3dCcEx1RjJkV0FHTjlOVkNObVdMTzM3VmxaSFp5OGNrWVJpSkgzb3VOWjFJLURhdERYR1BGYVQ4?oc=5",
+  "published_at": "Sun, 28 Jun 2026 09:07:47 GMT",
+  "published_ts": 1782637667,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmZSbnFOa3A2LVR4TEtmZU5aOEFIeE1HSEpUWXdTb2dZT3VRTVJobmxDRWV2cFZiVjU2dmJyT0oyZ3oycGFpU3VfdGxCajVwRFFoa3pKUkJvWUpCd1ZiR3dCcEx1RjJkV0FHTjlOVkNObVdMTzM3VmxaSFp5OGNrWVJpSkgzb3VOWjFJLURhdERYR1BGYVQ4?oc=5\" target=\"_blank\">Seagate (STX) Is Redeeming $150.7 Million Of Notes Due 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate announced redemption of $150.7 million in notes due 2028. This is a routine debt management action with no bearing on memory semiconductor fundamentals, pricing, or capacity."
+  },
+  "buffered_ts": 1782642326.6945677
  }
 ]
