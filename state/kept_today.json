@@ -1778,5 +1778,269 @@
    "summary": "SanDisk (SNDK), a DRAM ETF holding, was dropped from the Russell 2500 Index. This is a routine index reconstitution event with minimal direct impact on the company's fundamentals or memory business operations."
   },
   "buffered_ts": 1782762772.8943985
+ },
+ {
+  "id": "02bf9b343c8c4e4b32d9f3d8a175aa002682417f",
+  "source": "Mezha",
+  "topic": "holding",
+  "title": "Samsung, Micron and SK hynix are facing a class action lawsuit over alleged price-fixing in the memory market - Mezha",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSnNGSC0ySkE5eFF0ekFQT2xWUWxRYVhsVXVnQzhQa0dFRF9pWFllaGJ4Y1ZZWTZScDF2MlpLS181X1lVUkRwYzNrdDNJakxidzRVTXZBWmRvWklzZ2oydmN0cWtTLW9VTDh1RE95MU5VTTjSAXhBVV95cUxNU3p6SFlmNVNqOFQ2cnFLYTQ1ZC1KSnBPNGlDcUE1aWhBYWJhamYySzhIS2J3T0tNTFpmWWUyYjE1LXdsR2RoeXdTUm5OWTF5eng2MkdjcjJnd0JQeVZQX2pGZ2VGVzUtckpvR1NtRk9wcTYybnFyOFQ?oc=5",
+  "published_at": "Mon, 29 Jun 2026 16:09:00 GMT",
+  "published_ts": 1782749340,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5kSnNGSC0ySkE5eFF0ekFQT2xWUWxRYVhsVXVnQzhQa0dFRF9pWFllaGJ4Y1ZZWTZScDF2MlpLS181X1lVUkRwYzNrdDNJakxidzRVTXZBWmRvWklzZ2oydmN0cWtTLW9VTDh1RE95MU5VTTjSAXhBVV95cUxNU3p6SFlmNVNqOFQ2cnFLYTQ1ZC1KSnBPNGlDcUE1aWhBYWJhamYySzhIS2J3T0tNTFpmWWUyYjE1LXdsR2RoeXdTUm5OWTF5eng2MkdjcjJnd0JQeVZQX2pGZ2VGVzUtckpvR1NtRk9wcTYybnFyOFQ?oc=5\" target=\"_blank\">Samsung, Micron and SK hynix are facing a class action lawsuit over alleged price-fixing in the memory market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mezha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung, Micron, and SK hynix named in class action lawsuit alleging price-fixing in the memory market. A concrete legal development affecting three major fund holdings with potential material consequences including potential damages and regulatory/reputational impact."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "fc30ef108dedebd25d5483a5aae993234853a838",
+  "source": "Межа. Новини України.",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix announce over $550 billion investment to secure memory supply chains - Межа. Новини України.",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1VGxvV0o4ZWwzQXZCRkZPajR1WWFpaHBMVTB0cEdKb1hicDJPcjhVa1VwZXF6eHd5YkZtVTZLS05kbi1pMERCem1wMW1OZHc4RkJqRXZWcTZxckdCWkxsUl93?oc=5",
+  "published_at": "Mon, 29 Jun 2026 18:28:29 GMT",
+  "published_ts": 1782757709,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1VGxvV0o4ZWwzQXZCRkZPajR1WWFpaHBMVTB0cEdKb1hicDJPcjhVa1VwZXF6eHd5YkZtVTZLS05kbi1pMERCem1wMW1OZHc4RkJqRXZWcTZxckdCWkxsUl93?oc=5\" target=\"_blank\">Samsung and SK Hynix announce over $550 billion investment to secure memory supply chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Межа. Новини України."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix have announced a combined $550 billion investment to secure memory supply chains. This is a concrete, officially announced capital commitment by two major holdings (Samsung's memory division and SK Hynix) that signals significant capacity expansion and supply-chain investment — a material development for memory production and future supply dynamics."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "328a3699927d815796043f405aea8a96f0d39f04",
+  "source": "SiliconANGLE",
+  "topic": "holding",
+  "title": "South Korea launches $584B chip manufacturing initiative with Samsung, SK hynix - SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEtLMTNnRlh3czlabk9MaVpleVJ4U1g0dXhsQnNXRTZxN0tYUm1nVFhRUV8tNzlhc0xETDMwS0ZCNkZFTnl1QzRnMkFvT282Nl9pNlFSMEpuUFU1bnZVT214YjRlX0E4dk4yQWpQWmNfNkhMaFBYSkg0dkVoZkpzcFFhbzdzTjZ1aW1iMkJ3ajUxTEFWeHM5OUQ3ZlNmQlJfdGJZNEVUOW4zbjFlaFE?oc=5",
+  "published_at": "Mon, 29 Jun 2026 20:52:27 GMT",
+  "published_ts": 1782766347,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEtLMTNnRlh3czlabk9MaVpleVJ4U1g0dXhsQnNXRTZxN0tYUm1nVFhRUV8tNzlhc0xETDMwS0ZCNkZFTnl1QzRnMkFvT282Nl9pNlFSMEpuUFU1bnZVT214YjRlX0E4dk4yQWpQWmNfNkhMaFBYSkg0dkVoZkpzcFFhbzdzTjZ1aW1iMkJ3ajUxTEFWeHM5OUQ3ZlNmQlJfdGJZNEVUOW4zbjFlaFE?oc=5\" target=\"_blank\">South Korea launches $584B chip manufacturing initiative with Samsung, SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SiliconANGLE"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "South Korea announced a $584B chip manufacturing initiative directly involving two of DRAM's core holdings, Samsung and SK hynix. This is a concrete, officially launched government program that represents a material capacity and investment decision affecting future production capability of these memory manufacturers."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "7d23f9aa499f018bd9df9af725fef751c039e8eb",
+  "source": "BigGo Finance",
+  "topic": "pricing",
+  "title": "Tencent Inks $2.9 Billion Multi-Year DRAM Deal With China’s CXMT Ahead of IPO - BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3LURfU3ZwRXZsZFdNTE5wMkRpQ284ZEhaZm45LVFrMjNxeDE2ajZkQndMTm8yR3R6dVRHTUJmMWZkektSbWxHcmkxOGViU1VMMHJ5UkJoT2JnYlJtOXE4STJrUGp5NnFEdEJzNVIxUlhMNTBJZkE?oc=5",
+  "published_at": "Mon, 29 Jun 2026 10:05:00 GMT",
+  "published_ts": 1782727500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3LURfU3ZwRXZsZFdNTE5wMkRpQ284ZEhaZm45LVFrMjNxeDE2ajZkQndMTm8yR3R6dVRHTUJmMWZkektSbWxHcmkxOGViU1VMMHJ5UkJoT2JnYlJtOXE4STJrUGp5NnFEdEJzNVIxUlhMNTBJZkE?oc=5\" target=\"_blank\">Tencent Inks $2.9 Billion Multi-Year DRAM Deal With China’s CXMT Ahead of IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "BigGo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Tencent has signed a multi-year, $2.9 billion DRAM supply agreement with China's CXMT ahead of CXMT's IPO. This represents a concrete, material demand commitment for DRAM production and signals strong institutional demand for memory chips in China, affecting the broader memory supply-demand dynamics and competitive landscape that influences DRAM ETF holdings."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "dc86ee4a1adbbc7355b95238bd329c9176691db7",
+  "source": "BigGo Finance",
+  "topic": "holding",
+  "title": "Trump’s Axon Stake Sparks 10% Rally; Micron and Sandisk Slide on Apple-China Chip Threat - BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SdGJRVUVQN2plSlpJSC1KTlE1dUpJX3lES3kwbm9lSHZxak9tRzk2Z3dwWWt4MzM4OGtfWkxHaVN2OEVjMDVtZmkyYjNJZ1RBNVJVUlM3VnhZSHBseVJiclBhckFnRkE2Y1VwcGt6TjZ4d0pMdEE?oc=5",
+  "published_at": "Mon, 29 Jun 2026 18:25:00 GMT",
+  "published_ts": 1782757500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5SdGJRVUVQN2plSlpJSC1KTlE1dUpJX3lES3kwbm9lSHZxak9tRzk2Z3dwWWt4MzM4OGtfWkxHaVN2OEVjMDVtZmkyYjNJZ1RBNVJVUlM3VnhZSHBseVJiclBhckFnRkE2Y1VwcGt6TjZ4d0pMdEE?oc=5\" target=\"_blank\">Trump’s Axon Stake Sparks 10% Rally; Micron and Sandisk Slide on Apple-China Chip Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "BigGo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) and SanDisk (SNDK) declined on reports of an Apple-China chip threat. While the headline mentions DRAM fund holdings, the story appears to focus on price movement and competitive threat sentiment rather than a concrete, material development with hard numbers or confirmed events affecting memory demand or production. Stock moves tied to speculation or unconfirmed competitive threats are classified as impact 3."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "459a1b500d011baf69d4762d02489f9907b9b534",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Micron Slides. Are Memory-Chip Makers Illegally Price-Gouging Customers? - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk9CejRvdWJXaTFDMnNHMmZvdnZtTF85Q0t1S1MzRTdxWThOUjc2bTJBaHpJOFAxSjVIMHVtdEItM19RUmh4NHo0SG5GeUpIdmQ5RUU2ZEpwZDNMaFRuWkNSQkRqcnFZT1ZOeFR1Wjk3dFdVQ0swbllpRE5LeUVMTjNjVFUtLU9TZHc?oc=5",
+  "published_at": "Mon, 29 Jun 2026 16:22:00 GMT",
+  "published_ts": 1782750120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk9CejRvdWJXaTFDMnNHMmZvdnZtTF85Q0t1S1MzRTdxWThOUjc2bTJBaHpJOFAxSjVIMHVtdEItM19RUmh4NHo0SG5GeUpIdmQ5RUU2ZEpwZDNMaFRuWkNSQkRqcnFZT1ZOeFR1Wjk3dFdVQ0swbllpRE5LeUVMTjNjVFUtLU9TZHc?oc=5\" target=\"_blank\">Micron Slides. Are Memory-Chip Makers Illegally Price-Gouging Customers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Opinion piece questioning whether memory-chip makers including Micron are illegally price-gouging customers, with Micron stock declining. This is speculative analysis and commentary on pricing dynamics rather than a confirmed event or hard pricing data."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "82d44ad4955a5f6e4a670348e83952eb511300ca",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Citi Just Slapped a Massive $2,500 Price Target on SanDisk. Here’s Why They’re So Bullish - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fd0hBMVNiTkdMbzZOV1NlNjZ0bWRJaFdGdTg3NTJMNHFVaVZQU2MxanlHUVFUcWcwNmJvZUVJTFBpanA2X1ZFaF9USzJtemRpTVVmdE9WQ1lIVmtwSVd5MVBEcm5FMVJja0piNWV6cUh4ODFNV0FiOS11Yw?oc=5",
+  "published_at": "Mon, 29 Jun 2026 18:05:09 GMT",
+  "published_ts": 1782756309,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5fd0hBMVNiTkdMbzZOV1NlNjZ0bWRJaFdGdTg3NTJMNHFVaVZQU2MxanlHUVFUcWcwNmJvZUVJTFBpanA2X1ZFaF9USzJtemRpTVVmdE9WQ1lIVmtwSVd5MVBEcm5FMVJja0piNWV6cUh4ODFNV0FiOS11Yw?oc=5\" target=\"_blank\">Citi Just Slapped a Massive $2,500 Price Target on SanDisk. Here’s Why They’re So Bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citigroup issued a $2,500 price target on SanDisk (a DRAM ETF holding). This is analyst sentiment and a price-target change rather than a concrete market event or new information about SanDisk's business, so it rates as soft analysis (impact 3). The piece likely reflects market digestion of existing information or forward-looking analyst opinion rather than a newly announced development."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "c4ee9085bb143ccd2dc2c72b60fc1e947b24488f",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Bernstein raises SanDisk stock price target to $3,000 on downside protection - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1htdXotb0NTRjlqQ2pPMWhLVjFITE9DTkx2cDFWOGx5SFVWSkZBbk95ZUZlQV9rc2c5enJkWFhQOXVOUmhsRnNvamFqQ0dPWGdUeWhaYi1jY3dmVFBodExVVWZnS0xielY0Y0RqeG9jdWZHaXdoZEVaS2xQM0RYSFVvQ0xERlJpUXpRUUtRQjQ0WTU3b3UtRWRYN2l2dGZBbFB2QW1SclI4NlZwZ2h5NklzYmJfRDdlczZ3b1FwUGJMcFB0SXUxeXR4bFZJR2Fx?oc=5",
+  "published_at": "Mon, 29 Jun 2026 21:13:49 GMT",
+  "published_ts": 1782767629,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1htdXotb0NTRjlqQ2pPMWhLVjFITE9DTkx2cDFWOGx5SFVWSkZBbk95ZUZlQV9rc2c5enJkWFhQOXVOUmhsRnNvamFqQ0dPWGdUeWhaYi1jY3dmVFBodExVVWZnS0xielY0Y0RqeG9jdWZHaXdoZEVaS2xQM0RYSFVvQ0xERlJpUXpRUUtRQjQ0WTU3b3UtRWRYN2l2dGZBbFB2QW1SclI4NlZwZ2h5NklzYmJfRDdlczZ3b1FwUGJMcFB0SXUxeXR4bFZJR2Fx?oc=5\" target=\"_blank\">Bernstein raises SanDisk stock price target to $3,000 on downside protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bernstein analyst raises SanDisk price target to $3,000, citing downside protection. This is analyst opinion on valuation rather than a concrete event or new fundamental development; price-target changes are considered soft signals of market sentiment."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "b8b8a1800f53090ba03d3446d9c9454348c84062",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "'AI Equals Memory': Why The AI Boom Now Runs Through Micron, SK Hynix And Samsung - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGFOcUpnY09kbmtFU1k1NGlfVmxpb0hWcFdhREdYVTFZeG1meDZJUnBla0hNUzJZZHh2NUNYeWNZNnllWklqYU1iZGtSOGQyUGpNZTdaVElZVU5wMEhvM0JRejdkZnhyWkU2cU9vRzNfOS1fWVhSSk5qS3Q5RkNOSTVXSnFXbXI1NXNXdHdnMHVoUGoyQ2tROER4WUZXMTI1MGlweW03Q0pWNUZJQVJzY0dLeWYzaGIydmVfRGdXQ3FGbXJYWVdUSklR?oc=5",
+  "published_at": "Mon, 29 Jun 2026 20:10:19 GMT",
+  "published_ts": 1782763819,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGFOcUpnY09kbmtFU1k1NGlfVmxpb0hWcFdhREdYVTFZeG1meDZJUnBla0hNUzJZZHh2NUNYeWNZNnllWklqYU1iZGtSOGQyUGpNZTdaVElZVU5wMEhvM0JRejdkZnhyWkU2cU9vRzNfOS1fWVhSSk5qS3Q5RkNOSTVXSnFXbXI1NXNXdHdnMHVoUGoyQ2tROER4WUZXMTI1MGlweW03Q0pWNUZJQVJzY0dLeWYzaGIydmVfRGdXQ3FGbXJYWVdUSklR?oc=5\" target=\"_blank\">'AI Equals Memory': Why The AI Boom Now Runs Through Micron, SK Hynix And Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Benzinga opinion piece explaining the fundamental thesis that AI demand drives memory semiconductor demand, naming Micron, SK hynix, and Samsung as beneficiaries. Analytical rather than event-driven; no new concrete information about production, pricing, or company guidance."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "bc916527c3c90907fabfac3bb65215801ba4a861",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Memory Demand Sent Seagate Soaring — But This Stock Looks Even Better - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWU1MZFczSFNxWlh4LWx4V1JOd1ROeFhrZHozdVhvMW5BZXBzWjNPRWtJNEdVcHFlMTEybTdLUVRrLWZBeDQyOWRpeXJ1QjBZUC1FaGdTSXZDWlZxbWxZMVU1M1g1bjVnM2hHcEhJUlRRd3NPTG40aHJBcjZYRFNoTHB6MHFXa19vWkFxcXBYRm9kNF84UnBsRzhRN1M1aDBJQlYzeW9xemxIeFJGRUNIYQ?oc=5",
+  "published_at": "Mon, 29 Jun 2026 18:11:34 GMT",
+  "published_ts": 1782756694,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWU1MZFczSFNxWlh4LWx4V1JOd1ROeFhrZHozdVhvMW5BZXBzWjNPRWtJNEdVcHFlMTEybTdLUVRrLWZBeDQyOWRpeXJ1QjBZUC1FaGdTSXZDWlZxbWxZMVU1M1g1bjVnM2hHcEhJUlRRd3NPTG40aHJBcjZYRFNoTHB6MHFXa19vWkFxcXBYRm9kNF84UnBsRzhRN1M1aDBJQlYzeW9xemxIeFJGRUNIYQ?oc=5\" target=\"_blank\">Memory Demand Sent Seagate Soaring — But This Stock Looks Even Better</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece comparing Seagate's performance amid memory demand to another stock. While it mentions a holding (Seagate) and references memory demand as a driver, the article is analyst commentary and stock comparison rather than reporting a concrete event or new information about Seagate's business, capacity, or pricing."
+  },
+  "buffered_ts": 1782768198.1475632
+ },
+ {
+  "id": "7bf5af4bfe6fd2f446700d6c6daa17e9f6c72219",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "South Korea Bets $576 Billion on Chips as Samsung and SK Hynix Fall - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWZuY2NyWm05RTRIVjN4dGtBNVQweFM3Wk1SYWVqdGNqMDd1T0FhY2JsbElNZTFYeEhrX1hWdkJFdUY3WXQ0QnBXdDIzMW9LZjN5NVVoM096Yy16UzNkcm5MOHJfd04tU0FJanJ3MVRoT2d5bTRRVi1jY1M1Qk1FNGpHSGZRNHNiTEVVdU1aZjFaSS1MVndfQlY2V0ZacVdkZUwwN0ZWem1Bb0RxYnNJV3RlcHhRWHVBcG1KOElhaUFSQmxR?oc=5",
+  "published_at": "Mon, 29 Jun 2026 19:53:44 GMT",
+  "published_ts": 1782762824,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWZuY2NyWm05RTRIVjN4dGtBNVQweFM3Wk1SYWVqdGNqMDd1T0FhY2JsbElNZTFYeEhrX1hWdkJFdUY3WXQ0QnBXdDIzMW9LZjN5NVVoM096Yy16UzNkcm5MOHJfd04tU0FJanJ3MVRoT2d5bTRRVi1jY1M1Qk1FNGpHSGZRNHNiTEVVdU1aZjFaSS1MVndfQlY2V0ZacVdkZUwwN0ZWem1Bb0RxYnNJV3RlcHhRWHVBcG1KOElhaUFSQmxR?oc=5\" target=\"_blank\">South Korea Bets $576 Billion on Chips as Samsung and SK Hynix Fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korea announces $576 billion investment in chip sector as Samsung and SK Hynix stocks decline. This represents a major government commitment to semiconductor capacity and competitiveness, relevant to fund holdings SK Hynix and Samsung's memory business, but the announcement itself is a policy/investment plan rather than a concrete completed deal or capacity decision affecting near-term supply dynamics."
+  },
+  "buffered_ts": 1782768198.1475632
  }
 ]
