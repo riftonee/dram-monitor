@@ -2234,5 +2234,176 @@
    "summary": "Opinion/analysis piece on Micron's potential upside driven by AI memory demand growth. Speculative thesis rather than a concrete event or new hard data; suitable for market context but not a triggered alert."
   },
   "buffered_ts": 1782772579.9676664
+ },
+ {
+  "id": "5954802f3e512f62ec252463e264e225a3335d64",
+  "source": "itemonline.com",
+  "topic": "fund",
+  "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF - itemonline.com",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2NXZEpROGdNWjlmSUVHVEFqV2lCUUwyaEdMdVJvMVQxMllRcU9wcjNNd3lnM0FoQlhqNVJ4N2NDNzdzTmYwNWVka3IzbTZMWXViRHc5UXBnZjU4ekRFSVc4cnJ4OXF0M3Z1XzMwYVhyMm00VnFJZ0xubmNMQjd2c1pWVE5ZcVBleWxfdDBxcGhhWFFfdzFUQkhGLV9FTEZTUC1JWjFGTl92aGM1NW9INTRUeHVhc1IzU21KTmpLTTZzWFNta0ZVTHFaOXhSSXhzYlBnaFk1N0VNYWNsNy1jYm1EbzNXYzVQbXc?oc=5",
+  "published_at": "Mon, 29 Jun 2026 16:00:52 GMT",
+  "published_ts": 1782748852,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2NXZEpROGdNWjlmSUVHVEFqV2lCUUwyaEdMdVJvMVQxMllRcU9wcjNNd3lnM0FoQlhqNVJ4N2NDNzdzTmYwNWVka3IzbTZMWXViRHc5UXBnZjU4ekRFSVc4cnJ4OXF0M3Z1XzMwYVhyMm00VnFJZ0xubmNMQjd2c1pWVE5ZcVBleWxfdDBxcGhhWFFfdzFUQkhGLV9FTEZTUC1JWjFGTl92aGM1NW9INTRUeHVhc1IzU21KTmpLTTZzWFNta0ZVTHFaOXhSSXhzYlBnaFk1N0VNYWNsNy1jYm1EbzNXYzVQbXc?oc=5\" target=\"_blank\">Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">itemonline.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "itemonline.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill's new 2X leveraged DRAM ETF (RAM) launched with record day-one trading volume for a leveraged/inverse ETF, indicating strong investor interest in the memory semiconductor space and the DRAM fund ecosystem."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "abd3dbc33390cbe2dfbd358a3842a74dee6cc5a4",
+  "source": "SamMobile",
+  "topic": "holding",
+  "title": "Samsung is investing $1.72 trillion to prepare infrastructure for the AI era - SamMobile",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSE9ELXRhY1ZTcnBJQ0FyVUVpOTZvSXVJOEtvNG5rZUtKeUVsRUJzRkVVemZHMzNVakRrR18wMzc2bnFHcGd6NWxXVWd5TG1pcTJsWjMtVGFSam5nWFYydHkxWG8xWlRhQVBma3pmVDROVWxjVkJNTWstUGw5LXJaczhjUXZvS2lROHoxbEdxdkE0aWI0aDJkdXMtaF9HUQ?oc=5",
+  "published_at": "Mon, 29 Jun 2026 12:44:00 GMT",
+  "published_ts": 1782737040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSE9ELXRhY1ZTcnBJQ0FyVUVpOTZvSXVJOEtvNG5rZUtKeUVsRUJzRkVVemZHMzNVakRrR18wMzc2bnFHcGd6NWxXVWd5TG1pcTJsWjMtVGFSam5nWFYydHkxWG8xWlRhQVBma3pmVDROVWxjVkJNTWstUGw5LXJaczhjUXZvS2lROHoxbEdxdkE0aWI0aDJkdXMtaF9HUQ?oc=5\" target=\"_blank\">Samsung is investing $1.72 trillion to prepare infrastructure for the AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SamMobile</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SamMobile"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced a $1.72 trillion infrastructure investment to prepare for the AI era. This is a concrete capital allocation decision by a major DRAM fund holding that signals sustained commitment to memory-semiconductor capacity expansion driven by AI demand, materially relevant to the fund's semiconductor outlook and Samsung's competitive positioning."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "c7bb870629faba77c799287044a48a7f440273b5",
+  "source": "International Business Times Australia",
+  "topic": "industry",
+  "title": "Samsung vs SK Hynix Stock in 2026: Which Korean Chip Giant Should Investors Buy as AI Memory Demand Soars - International Business Times Australia",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1clJabTNzT0VWOTQzcXFLRWE0Y0xKdUExRWsySWFNaWtpb3hmWFRURmhsQzZPYXdlZk5JbHlpeFlqR1VHMzRYWi14N0J2d1lUOWxkS2xSRmFLb0R2bk9JaC1ZbDJhNW5BdnRVV2hEdG1ZUVdHRDFrZ2RZaVZnZw?oc=5",
+  "published_at": "Mon, 29 Jun 2026 15:35:56 GMT",
+  "published_ts": 1782747356,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA1clJabTNzT0VWOTQzcXFLRWE0Y0xKdUExRWsySWFNaWtpb3hmWFRURmhsQzZPYXdlZk5JbHlpeFlqR1VHMzRYWi14N0J2d1lUOWxkS2xSRmFLb0R2bk9JaC1ZbDJhNW5BdnRVV2hEdG1ZUVdHRDFrZ2RZaVZnZw?oc=5\" target=\"_blank\">Samsung vs SK Hynix Stock in 2026: Which Korean Chip Giant Should Investors Buy as AI Memory Demand Soars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "International Business Times Australia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Commentary comparing Samsung and SK Hynix as investment picks in 2026, highlighting AI memory demand as a growth driver. This is analyst opinion and forward-looking discussion rather than a concrete event or hard data point, making it relevant to the fund's holdings and the HBM/AI-infrastructure demand narrative but not a material development in itself."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "2ef538eca9aa3933f2fab01ae5fc411f488c3afa",
+  "source": "TechSpot",
+  "topic": "holding",
+  "title": "RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply - TechSpot",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVpMVTRpME10NjJZVVhZNGh6dC10QjJSTkcxM3I0MmRPSTFMVWlHWjllNGl1RC1iM1ExQzZuOFhUN3R5TWJJS2lqb1FkWVpuRjZjZHRYY0VWV2NZNHBSTEw1NFNpbW5MbGZOM3FqTlFRQlBnVHhOcHZYZFJJYVVmQzJiWHd4UXM4WkhN?oc=5",
+  "published_at": "Mon, 29 Jun 2026 21:52:00 GMT",
+  "published_ts": 1782769920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVpMVTRpME10NjJZVVhZNGh6dC10QjJSTkcxM3I0MmRPSTFMVWlHWjllNGl1RC1iM1ExQzZuOFhUN3R5TWJJS2lqb1FkWVpuRjZjZHRYY0VWV2NZNHBSTEw1NFNpbW5MbGZOM3FqTlFRQlBnVHhOcHZYZFJJYVVmQzJiWHd4UXM4WkhN?oc=5\" target=\"_blank\">RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechSpot"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TechSpot reports forecast that RAM (DRAM) prices will rise 40-50% in Q3 2026 and an additional 30% in Q4 2026 driven by AI demand outpacing supply. This is analyst/market commentary on expected pricing trends rather than a confirmed event or hard shipment/contract data, making it soft intelligence on the pricing cycle."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "409e7df6b39bda8cba63c127839540884e84476d",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Analysts See 55% Upside in Seagate and Western Digital Despite Chip Sector Weakness - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDlsR0xLRHRpMWYyUGRwWkgzYllpbllKZ25TaUxuUkMwUnBQWjNpMkxlUkMxLXZET0U4YlhWZU9pY2phNWdGZ2VtVF9BNFcxRGtTQ2d2VHRlTXJKa1VuVUl6Xzh3ME9za3B0dXVfUUVVMWdsRFRJSkYwNlVIM1VRX21CM0NLYkxhRl9pTDduUkhOQXJpMEMwMWFqdHpjVmhXREMycFpyVXBtSVAzQThFRzgyNzRMWnV2TV9hUVZROHVrTDYt?oc=5",
+  "published_at": "Mon, 29 Jun 2026 23:09:45 GMT",
+  "published_ts": 1782774585,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDlsR0xLRHRpMWYyUGRwWkgzYllpbllKZ25TaUxuUkMwUnBQWjNpMkxlUkMxLXZET0U4YlhWZU9pY2phNWdGZ2VtVF9BNFcxRGtTQ2d2VHRlTXJKa1VuVUl6Xzh3ME9za3B0dXVfUUVVMWdsRFRJSkYwNlVIM1VRX21CM0NLYkxhRl9pTDduUkhOQXJpMEMwMWFqdHpjVmhXREMycFpyVXBtSVAzQThFRzgyNzRMWnV2TV9hUVZROHVrTDYt?oc=5\" target=\"_blank\">Analysts See 55% Upside in Seagate and Western Digital Despite Chip Sector Weakness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "Analysts See 55% Upside in Seagate and Western Digital Despite Chip Sector Weakness - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysts project 55% upside for Seagate and Western Digital despite broader chip sector weakness. This is analyst opinion and price-target commentary on fund holdings, not a concrete event or hard number that moves the market independently of known information."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "b9c8e391b7f13c834f0458f1e4b0cfd4d444081f",
+  "source": "The National CIO Review",
+  "topic": "holding",
+  "title": "New $576B Investment Expands South Korea’s AI Hardware Manufacturing - The National CIO Review",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHlTY2QzVWRYcHZrUEh2RlNBeUpfb25oNll2WGJKRmNoWkNJWFZrMUI3Wlh6N3dSOG00cHlUYzdsX1hWWFNEQTBEV1VKQzFKN3dTU3NEc0dKa3h5c19kVEVlRDdsYjJIdmgzV2lPS3RxUnJ1NGlMaFNoSERsdTZvT3J3YmloUlhwQnY5NjRHNHE2MUNFRFQ2LTlIaEthOFZFYk1oUFNOVk9XSHFvRllIVWlwNFZpbUJlNDc0TkRFaTZFeFdjN2c?oc=5",
+  "published_at": "Mon, 29 Jun 2026 20:11:33 GMT",
+  "published_ts": 1782763893,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHlTY2QzVWRYcHZrUEh2RlNBeUpfb25oNll2WGJKRmNoWkNJWFZrMUI3Wlh6N3dSOG00cHlUYzdsX1hWWFNEQTBEV1VKQzFKN3dTU3NEc0dKa3h5c19kVEVlRDdsYjJIdmgzV2lPS3RxUnJ1NGlMaFNoSERsdTZvT3J3YmloUlhwQnY5NjRHNHE2MUNFRFQ2LTlIaEthOFZFYk1oUFNOVk9XSHFvRllIVWlwNFZpbUJlNDc0TkRFaTZFeFdjN2c?oc=5\" target=\"_blank\">New $576B Investment Expands South Korea’s AI Hardware Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National CIO Review</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The National CIO Review"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korea announces $576B investment in AI hardware manufacturing expansion. Relevant to DRAM holdings (SK hynix, Samsung) as increased fab capacity directly supports memory semiconductor production for AI infrastructure, but represents forward planning/commitment rather than a concrete capacity completion or immediate production change."
+  },
+  "buffered_ts": 1782777674.8835287
+ },
+ {
+  "id": "a7a6bdac3f4c4e7cb03238e52f4a64a2c4d106a3",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "SanDisk Stock: Here’s Why Analysts Are Quietly Raising Price Targets - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjdUTm1WMHQ4T3lqaWozNE1jZW05MFBZV1lLeDdQbWh2eWFpejRBUF9ha1ZOcGt4LWNQWmNydFFfUnpoekhMb3NZdHk0WG0tWEczVjNha2lfRDcwODdCeThjZlpqejZPMzdJWXQ4dFRTTFFFRlJ2Y3NrakVSTXljWHV6dUVWTjNSUDIzMk5aaGJjVXpVWHFkdHBtRlFzaDlnd0pZd2tWUzFGUEZYRkc0?oc=5",
+  "published_at": "Mon, 29 Jun 2026 20:43:38 GMT",
+  "published_ts": 1782765818,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjdUTm1WMHQ4T3lqaWozNE1jZW05MFBZV1lLeDdQbWh2eWFpejRBUF9ha1ZOcGt4LWNQWmNydFFfUnpoekhMb3NZdHk0WG0tWEczVjNha2lfRDcwODdCeThjZlpqejZPMzdJWXQ4dFRTTFFFRlJ2Y3NrakVSTXljWHV6dUVWTjNSUDIzMk5aaGJjVXpVWHFkdHBtRlFzaDlnd0pZd2tWUzFGUEZYRkc0?oc=5\" target=\"_blank\">SanDisk Stock: Here’s Why Analysts Are Quietly Raising Price Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysts are raising price targets on SanDisk (SNDK), a fund holding. This represents market sentiment and forward-looking analyst views on the stock but is not a concrete event with hard numbers disclosed; analyst price-target changes are inherently soft opinion-based catalysts that reflect anticipated future performance rather than confirmed developments."
+  },
+  "buffered_ts": 1782777674.8835287
  }
 ]
