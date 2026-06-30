@@ -1521,5 +1521,101 @@
    "summary": "Bernstein raised its SanDisk price target to triple the prior level. This is an analyst action reflecting their view of the holding's prospects, but without disclosure of the specific new target, the reasoning, or whether it is based on new fundamental data versus revaluation of known facts. Analyst price-target changes are opinion-based and typically move markets only modestly post-announcement unless anchored to concrete developments."
   },
   "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "41ea9638c9449bffb2dbeed6b193a47029fc3a02",
+  "source": "PCMag Australia",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to Spend $500 Billion Building More RAM Fabrication Capacity - PCMag Australia",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRteC05bWROZWJfSUI4WDBLRk1BdEhIX0F6RWxPT2pnWXI2VEpvcmtwLTJFTXJseFl1T1JlaEJLcjhwNVByS1JrTE5RMUVfUGFrd05XdnJ5Ry16MVlkRnY2b2Q3OHI3NFB6d0stdUY2eHdTdlptLXFCOWZqWm01elhpelZaZzlSQ1RiRTU2TDFMY243NTVfMGZ1ckVudzQyZXZ3eHV2UWI5NlU?oc=5",
+  "published_at": "Tue, 30 Jun 2026 18:52:36 GMT",
+  "published_ts": 1782845556,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRteC05bWROZWJfSUI4WDBLRk1BdEhIX0F6RWxPT2pnWXI2VEpvcmtwLTJFTXJseFl1T1JlaEJLcjhwNVByS1JrTE5RMUVfUGFrd05XdnJ5Ry16MVlkRnY2b2Q3OHI3NFB6d0stdUY2eHdTdlptLXFCOWZqWm01elhpelZaZzlSQ1RiRTU2TDFMY243NTVfMGZ1ckVudzQyZXZ3eHV2UWI5NlU?oc=5\" target=\"_blank\">Samsung, SK Hynix to Spend $500 Billion Building More RAM Fabrication Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag Australia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PCMag Australia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix announced a $500 billion investment to build additional RAM fabrication capacity. This is a concrete, officially announced capex commitment by two major fund holdings that directly addresses supply-side dynamics in the memory market and signals confidence in sustained demand growth, materially relevant to the fund's thesis."
+  },
+  "buffered_ts": 1782856678.3195126
+ },
+ {
+  "id": "569557006f235f5ff19683e76bea6e967390fb5c",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "The AI ETF Trade Has Evolved: Here's What Investors Bought Instead In H1 - Roundhill Memory ETF (BATS:DRA - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVVMMHIyc2tJaU1DSmxQcGYyTzdiU3MyNnpXZmdKTnNHaVV3SFd3cm1kczg2WFdVQ1RGZ19IbEZUSUpRdnRRQ2dyWS1nWGhXZ2dxZDd4ci1zTTU3cUxnMERfa0MzVHNBZUI5ZUFYX1RGanhSeTlsZFFTQXdyX1dQUDIwMDVjNU5ZT1FUSWE0MUhtclZ1bWdVUUNlMnBDWDAwbXpjM3QtUjVhUzNVSW04cGZEUXdFLTUwY25hYmJZaWM?oc=5",
+  "published_at": "Tue, 30 Jun 2026 20:39:37 GMT",
+  "published_ts": 1782851977,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVVMMHIyc2tJaU1DSmxQcGYyTzdiU3MyNnpXZmdKTnNHaVV3SFd3cm1kczg2WFdVQ1RGZ19IbEZUSUpRdnRRQ2dyWS1nWGhXZ2dxZDd4ci1zTTU3cUxnMERfa0MzVHNBZUI5ZUFYX1RGanhSeTlsZFFTQXdyX1dQUDIwMDVjNU5ZT1FUSWE0MUhtclZ1bWdVUUNlMnBDWDAwbXpjM3QtUjVhUzNVSW04cGZEUXdFLTUwY25hYmJZaWM?oc=5\" target=\"_blank\">The AI ETF Trade Has Evolved: Here's What Investors Bought Instead In H1 - Roundhill Memory ETF (BATS:DRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article discussing how the AI ETF trade has evolved in H1 and mentions the Roundhill Memory ETF (DRAM) as part of the investment shift away from pure AI plays. This is fund-specific coverage but appears to be analytical commentary on ETF flows and investor rotation rather than reporting a concrete event or hard number about the fund itself."
+  },
+  "buffered_ts": 1782856678.3195126
+ },
+ {
+  "id": "6060f0e0e2bcbb378767e10cc2d7e16fcbd25fa0",
+  "source": "Electronic Products & Technology",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Electronic Products & Technology",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTBYMUs0aFpoZWJ5OWx1Ul9LdF9HNEhiOGFKTUZrLXYtOWVQOHdHaVp2X19aY0tEWDdYVWdweFozWGZQWlYtN3p5R2NSVk5pVE5RWWVZUG16WERMZ3FTTXFvWFVTRnctXzhIQUFDOWN4UEN0QlNWTkJfVEJMeE9yMjNVUUxqTzJpRHpaa0xJa2dkLXFtODN4NkNSUkY?oc=5",
+  "published_at": "Tue, 30 Jun 2026 19:22:36 GMT",
+  "published_ts": 1782847356,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTBYMUs0aFpoZWJ5OWx1Ul9LdF9HNEhiOGFKTUZrLXYtOWVQOHdHaVp2X19aY0tEWDdYVWdweFozWGZQWlYtN3p5R2NSVk5pVE5RWWVZUG16WERMZ3FTTXFvWFVTRnctXzhIQUFDOWN4UEN0QlNWTkJfVEJMeE9yMjNVUUxqTzJpRHpaa0xJa2dkLXFtODN4NkNSUkY?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronic Products & Technology</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Electronic Products & Technology"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple cites memory chip shortage as reason for raising Mac and iPad prices. Confirms tight memory supply conditions and OEM demand pressure, supporting the industry tailwind for memory suppliers, but the story reports Apple's pricing response rather than a concrete supply/capacity event or price-point change from memory makers themselves."
+  },
+  "buffered_ts": 1782856678.3195126
+ },
+ {
+  "id": "ce1b593f3313fbdd24e80f4289f7c03b09058659",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Is Skyrocketing Today - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWpqSUh0QjVKX0dGSVMwX2tlWWV5VGRoTDZBMkU3aHhPMl91STVaSnNhaEtiRHNJRTliTmp5Y2dHaVNqUWhYSFY0WTJUdDhHaGZnWS1NYVIxOFZON0xKbWxkQ0dxS01EeFlhSFBLT1lLbkVGbXVaaTlscjVjb3BOY1FLcmRjQlRldTgwcHhBQzVOcGNnOUtRbkp5UFhOZm96aHI0?oc=5",
+  "published_at": "Tue, 30 Jun 2026 19:32:16 GMT",
+  "published_ts": 1782847936,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWpqSUh0QjVKX0dGSVMwX2tlWWV5VGRoTDZBMkU3aHhPMl91STVaSnNhaEtiRHNJRTliTmp5Y2dHaVNqUWhYSFY0WTJUdDhHaGZnWS1NYVIxOFZON0xKbWxkQ0dxS01EeFlhSFBLT1lLbkVGbXVaaTlscjVjb3BOY1FLcmRjQlRldTgwcHhBQzVOcGNnOUtRbkp5UFhOZm96aHI0?oc=5\" target=\"_blank\">Why Sandisk Stock Is Skyrocketing Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock experienced a significant intraday move. The headline indicates a stock price spike but does not provide the underlying catalyst or concrete news event. Without details on the cause (earnings, guidance change, deal announcement, etc.), this appears to be market reaction reporting rather than a distinct news event. Marked as impact 3 because the magnitude warrants attention but the substance remains unclear from the headline alone."
+  },
+  "buffered_ts": 1782856678.3195126
  }
 ]
