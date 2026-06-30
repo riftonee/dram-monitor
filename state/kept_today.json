@@ -1617,5 +1617,245 @@
    "summary": "SanDisk stock experienced a significant intraday move. The headline indicates a stock price spike but does not provide the underlying catalyst or concrete news event. Without details on the cause (earnings, guidance change, deal announcement, etc.), this appears to be market reaction reporting rather than a distinct news event. Marked as impact 3 because the magnitude warrants attention but the substance remains unclear from the headline alone."
   },
   "buffered_ts": 1782856678.3195126
+ },
+ {
+  "id": "90d7e855b5f4be516aa6581cb752cf0be045b0fb",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "DRAM Dips Premarket: Samsung, SK Hynix Announce $590B Expansion Push As South Korea Plans To Double DRAM Capacity - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDMtNFduVUR4cC1sQktnTWdyaXU0V1NKbVFwcXEtRFdFcHJ0UFhmd3RlTnNRbGR6X0pPSGo3MnhVRlhrRHU2aWM1UnZjY2hvUFN5ZEtfZ3pLRDhCVmxudGtTT3o4c0djcVlTVjFZRE1GZ1cwNXFCdkR0eVhPVGdkbVVZUnZyYXdvcGtZSzhnQUd5dDQycnp5YkotYw?oc=5",
+  "published_at": "Mon, 29 Jun 2026 09:35:37 GMT",
+  "published_ts": 1782725737,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDMtNFduVUR4cC1sQktnTWdyaXU0V1NKbVFwcXEtRFdFcHJ0UFhmd3RlTnNRbGR6X0pPSGo3MnhVRlhrRHU2aWM1UnZjY2hvUFN5ZEtfZ3pLRDhCVmxudGtTT3o4c0djcVlTVjFZRE1GZ1cwNXFCdkR0eVhPVGdkbVVZUnZyYXdvcGtZSzhnQUd5dDQycnp5YkotYw?oc=5\" target=\"_blank\">DRAM Dips Premarket: Samsung, SK Hynix Announce $590B Expansion Push As South Korea Plans To Double DRAM Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix announced a combined $590B expansion initiative with South Korea planning to double DRAM capacity. This is a concrete, officially announced supply-side development that materially affects the memory cycle and production capacity outlook for two major DRAM holdings."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "93ce79ca293b25318cedf47ae62fbe959f1b5dce",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix to invest in two new fabrication sites in South Korea, government says - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3RRS1ZNbEM2Tjg0MmlmcXhKVTR6dVVBcFJ2ZUczdFVLLWRKRmZYeWNuZHVfRnV6emx0U3AyWlZzTkU0MHRsMWVXNTFsSVZkUXlJanQ3STY0TndyLURCcEpNWkQ0alA2QzhqRHg3RXNDTDJCMGl0R1R2dXJJcmNjR09sZmF5S1QyVm9RSXNETjg1c09WR29EZktaMHY?oc=5",
+  "published_at": "Mon, 29 Jun 2026 05:50:00 GMT",
+  "published_ts": 1782712200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3RRS1ZNbEM2Tjg0MmlmcXhKVTR6dVVBcFJ2ZUczdFVLLWRKRmZYeWNuZHVfRnV6emx0U3AyWlZzTkU0MHRsMWVXNTFsSVZkUXlJanQ3STY0TndyLURCcEpNWkQ0alA2QzhqRHg3RXNDTDJCMGl0R1R2dXJJcmNjR09sZmF5S1QyVm9RSXNETjg1c09WR29EZktaMHY?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix to invest in two new fabrication sites in South Korea, government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung Electronics and SK Hynix announced investments in two new fabrication sites in South Korea, a concrete capital allocation decision that expands memory production capacity and signals confidence in long-term demand for memory semiconductors."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "c7b199fa5c640ecd8d9465e692ba4f10dd4205a6",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Chip Test Equipment Makers Compete for SK Hynix P&T7 Orders Worth Up to 400 Billion Won - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RX25vSHZKSVBya1hiSFNEVmdnazJGOTZFdXlDaHllc05ZQTVISDB1bWE5SllQZEFiN1VmdlJRTE9KOEt4RWx5b1F2cWlPam5sa0d5a2Fja3Y4SV8yeldLbExsdDFhTG8?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:28:15 GMT",
+  "published_ts": 1782858495,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RX25vSHZKSVBya1hiSFNEVmdnazJGOTZFdXlDaHllc05ZQTVISDB1bWE5SllQZEFiN1VmdlJRTE9KOEt4RWx5b1F2cWlPam5sa0d5a2Fja3Y4SV8yeldLbExsdDFhTG8?oc=5\" target=\"_blank\">Chip Test Equipment Makers Compete for SK Hynix P&amp;T7 Orders Worth Up to 400 Billion Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is awarding test equipment orders worth up to 400 billion won (~$300M+) for its P&T7 production line, signaling active capex investment and ramp of advanced memory capacity. This is a concrete, official procurement decision by a major fund holding."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "b772fdc947e5411c8b01fc9a14525e6a32973331",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix commit $2T to AI chip expansion despite risks - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUG1YdklWNlVnU1I1NFRHTkdpQ3FRN05FdFFfRG1sYXB0cmlfdjlaQnVrblEzR0doV1RCQmFNY1NEenlOSW95RmZvTmVmZXF3U2xzdFY3Q1NvXzEtRlZTSFdFNkx6V1NWVG90bFJyNnlrNE84THFXcGxiM2w3YV95OXE2aGRqUlVPSlRTRWFYWUF1aWlfbXphMDdqUUdnaWNJZF91TDhBbklWRjZCVHJyXzRRMEx0Y3NIR1VqVE9yZERTZ1dFb0pQSEIzeDdrd04zRU9YQklJQkpqMFBQNGJWVFBlTFhwUzZHazhpZWNyT05jTDhzTjZZ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 17:38:31 GMT",
+  "published_ts": 1782841111,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUG1YdklWNlVnU1I1NFRHTkdpQ3FRN05FdFFfRG1sYXB0cmlfdjlaQnVrblEzR0doV1RCQmFNY1NEenlOSW95RmZvTmVmZXF3U2xzdFY3Q1NvXzEtRlZTSFdFNkx6V1NWVG90bFJyNnlrNE84THFXcGxiM2w3YV95OXE2aGRqUlVPSlRTRWFYWUF1aWlfbXphMDdqUUdnaWNJZF91TDhBbklWRjZCVHJyXzRRMEx0Y3NIR1VqVE9yZERTZ1dFb0pQSEIzeDdrd04zRU9YQklJQkpqMFBQNGJWVFBlTFhwUzZHazhpZWNyT05jTDhzTjZZ?oc=5\" target=\"_blank\">Samsung, SK Hynix commit $2T to AI chip expansion despite risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK hynix have announced a combined $2 trillion commitment to AI chip expansion, a concrete capital allocation decision by two major DRAM fund holdings that signals substantial near-term investment in memory-related infrastructure and production capacity."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "c1444bb99219dc7ba6ecec1d05a515f0ff56d08c",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "Samsung Electronics Target Price Raised to 580,000 Won: \"World's Most Profitable and Cost-Competitive Memory Maker\" [Click eStock] - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iOGJuVGVsLXduVEowSjZDN0R0QmRNWU5Ea245ZTF4MDJ3dXBKTUhGbW96S2dzM2JQeGtQM1QtdHdtQjNFQ3l3TWd4bnpXZWo3RmdjdExhQzlWeEV1eXZTZDdEOVZob0R6bDlDX3YzR2VfUDlsRFl5T2MtWQ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:11:00 GMT",
+  "published_ts": 1782857460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5iOGJuVGVsLXduVEowSjZDN0R0QmRNWU5Ea245ZTF4MDJ3dXBKTUhGbW96S2dzM2JQeGtQM1QtdHdtQjNFQ3l3TWd4bnpXZWo3RmdjdExhQzlWeEV1eXZTZDdEOVZob0R6bDlDX3YzR2VfUDlsRFl5T2MtWQ?oc=5\" target=\"_blank\">Samsung Electronics Target Price Raised to 580,000 Won: \"World's Most Profitable and Cost-Competitive Memory Maker\" [Click eStock]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst raises Samsung Electronics target price to 580,000 Won, citing its position as world's most profitable and cost-competitive memory maker. This is a target-price revision and analyst commentary, not a confirmed event or new concrete development, making it relevant but soft."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "08e1ef885256808d0e3cc38e1e55a8263400f04d",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk9LY1hQOHBQT3I0VXdWM2U5WTl0Q3RpMkJwY0E0cldCTUkyNTZkVzJsdU9MOWtQdWhWNFpfTFB6VVN5Q0tPVUEyRE1EQ21LaXA3QVVIMTdyYkRpbUJkbHNhWG9YOFMxRTVpeGhHd2FOSVBJa0lBVnhNRjVuSGtwd1lubzA1N09EY3lQamxsdnBqajhYc0NLajY4Wng0Zm1xb1FWcjZVRWJERko3Y1ByY3VDYWNVMDczOWlhN29FRURUWUZkOWFzMFFWeUd5aXZfSXNsSEhuSU1laVk?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:00:00 GMT",
+  "published_ts": 1782856800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk9LY1hQOHBQT3I0VXdWM2U5WTl0Q3RpMkJwY0E0cldCTUkyNTZkVzJsdU9MOWtQdWhWNFpfTFB6VVN5Q0tPVUEyRE1EQ21LaXA3QVVIMTdyYkRpbUJkbHNhWG9YOFMxRTVpeGhHd2FOSVBJa0lBVnhNRjVuSGtwd1lubzA1N09EY3lQamxsdnBqajhYc0NLajY4Wng0Zm1xb1FWcjZVRWJERko3Y1ByY3VDYWNVMDczOWlhN29FRURUWUZkOWFzMFFWeUd5aXZfSXNsSEhuSU1laVk?oc=5\" target=\"_blank\">Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are making major capital investment bets on AI-driven memory demand, testing whether optimism in the AI cycle will justify their spending. This is strategic positioning by two key DRAM fund holdings but represents analysis/outlook rather than a concrete new event or earnings surprise."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "6fdffa6b94a977e664709168a4c855209682c030",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron hit with price-fixing lawsuit: Real collusion or simple supply and demand? - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQklnVFo2RWhtUC1SOTlBZFpoc0x3M0ozMEFxM2JuUE5tMkYyM1EtS0hyWnVRdTB1bnpFV1Bna3ZVSkdoS3RNdl9Pb2M5X2hDQ2dzZ3ZvZ3YzNS1KM21YRHhyNjd5WEozcXJQR0xRM3Nna0UwSE5zbFBTQWZ1c1VlZVh3ck1VNTg1ZGRZbEYwdEJ5ZS1SUXRqSHpyaXBESUpuZEIxV3pJLW9GaXhpLXhHeVBBZUlXWWlubE5YYmNKdjJvS2RPMTBwWTRvcjlzdFVwaDNMOXQ5a1FFQ3hMZ2lZWUtmQ1cwcDFMSlRjRnpB?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:03:26 GMT",
+  "published_ts": 1782835406,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQklnVFo2RWhtUC1SOTlBZFpoc0x3M0ozMEFxM2JuUE5tMkYyM1EtS0hyWnVRdTB1bnpFV1Bna3ZVSkdoS3RNdl9Pb2M5X2hDQ2dzZ3ZvZ3YzNS1KM21YRHhyNjd5WEozcXJQR0xRM3Nna0UwSE5zbFBTQWZ1c1VlZVh3ck1VNTg1ZGRZbEYwdEJ5ZS1SUXRqSHpyaXBESUpuZEIxV3pJLW9GaXhpLXhHeVBBZUlXWWlubE5YYmNKdjJvS2RPMTBwWTRvcjlzdFVwaDNMOXQ5a1FFQ3hMZ2lZWUtmQ1cwcDFMSlRjRnpB?oc=5\" target=\"_blank\">Micron hit with price-fixing lawsuit: Real collusion or simple supply and demand?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron faces a price-fixing lawsuit; the article discusses whether collusion occurred or if pricing reflected supply-demand dynamics. This is relevant to the fund's largest holding but remains speculative analysis rather than a confirmed legal development with known damages or material outcome."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "48a0e526a2c91e833110aeed22b8b7aa4cfaa744",
+  "source": "Money Morning",
+  "topic": "industry",
+  "title": "Micron Is Up 259% This Year. One Analyst Just Called It a Sell. - Money Morning",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeG1USzBjYVhkY1ctc2xxbmhSaTVPYk84N0dVQ29vR2hOb041U01aZjg0Y3lIUzlrakpINGF2UmJqeXl1dnBBaWNUajBmSDBzTGNmWVdxMEJwakRfeTdBX2dmamVCcHpwZ3dZbVA4RGc5Y1FIWGItYVdFNWhrY2Focl9EVEtnSkRHRGhVVFUzdlBIbzc3WEE?oc=5",
+  "published_at": "Tue, 30 Jun 2026 23:07:46 GMT",
+  "published_ts": 1782860866,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPeG1USzBjYVhkY1ctc2xxbmhSaTVPYk84N0dVQ29vR2hOb041U01aZjg0Y3lIUzlrakpINGF2UmJqeXl1dnBBaWNUajBmSDBzTGNmWVdxMEJwakRfeTdBX2dmamVCcHpwZ3dZbVA4RGc5Y1FIWGItYVdFNWhrY2Focl9EVEtnSkRHRGhVVFUzdlBIbzc3WEE?oc=5\" target=\"_blank\">Micron Is Up 259% This Year. One Analyst Just Called It a Sell.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Money Morning</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Money Morning"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst downgraded Micron (a core DRAM ETF holding) to a sell rating despite the stock's 259% year-to-date gain. This is analyst opinion and a price-target change rather than a concrete event or new information about fundamentals, production, or pricing; it reflects the market's existing digestion of Micron's rally."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "0b306c6ef3abdff5dc27487f51f56aba8eb142e4",
+  "source": "MarketWatch",
+  "topic": "fund",
+  "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing. - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU1dRT3VQQ2RBTHhIQmdjVkhyQ2tieTBJRFUzdFVSNDk1YUxFSF9KUW1fcXhOdVAyeU5yUl9hTlNmX1hOLUNNN3B3SjJSRkxxQVptVS1hNlVUX2taZkg1OHJZYWtjLXprTWdCa1d2T3JNcW9lamN0TUhfemRFYTUzaTRsWEI3N3NEcnNVUXV0NmNmZURVZmljZGVXUFFqaUlqRmMySzNZeXBxdFdwcUZZZ0ZHSlFWaWpnYXI3SS1WaFZ2QXh6THNPU1dXWXhZUUduYnR3X1VfckFWckwtbVRZ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:12:00 GMT",
+  "published_ts": 1782857520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU1dRT3VQQ2RBTHhIQmdjVkhyQ2tieTBJRFUzdFVSNDk1YUxFSF9KUW1fcXhOdVAyeU5yUl9hTlNmX1hOLUNNN3B3SjJSRkxxQVptVS1hNlVUX2taZkg1OHJZYWtjLXprTWdCa1d2T3JNcW9lamN0TUhfemRFYTUzaTRsWEI3N3NEcnNVUXV0NmNmZURVZmljZGVXUFFqaUlqRmMySzNZeXBxdFdwcUZZZ0ZHSlFWaWpnYXI3SS1WaFZ2QXh6THNPU1dXWXhZUUduYnR3X1VfckFWckwtbVRZ?oc=5\" target=\"_blank\">Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "General ETF flow story mentioning record inflows in H1 2026. No specific mention of DRAM ETF flows or holdings; only a passing reference to the fund category. Relevant to fund monitoring but lacks concrete data on DRAM-specific flows or impacts."
+  },
+  "buffered_ts": 1782861384.8579776
+ },
+ {
+  "id": "24b90bfffa36ca5d53a87ed5479a3fe74d07e402",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "Techcross Water & Energy Wins 50 Billion Won Wastewater Treatment Project for SK Hynix Yongin Fab - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95TFBoR2F0OXhZT1RHdmpLLXRBWGEwVEtaMUJtVzNHVjl0RkViVWgzQkRmYTZHdG5hSHd0dWpOYUxBTHJ4ZlZPRnMzTFU4Wkx4TzFDbGE5NmpvX2tIclZCRHoyNk41Tm8?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:26:26 GMT",
+  "published_ts": 1782858386,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95TFBoR2F0OXhZT1RHdmpLLXRBWGEwVEtaMUJtVzNHVjl0RkViVWgzQkRmYTZHdG5hSHd0dWpOYUxBTHJ4ZlZPRnMzTFU4Wkx4TzFDbGE5NmpvX2tIclZCRHoyNk41Tm8?oc=5\" target=\"_blank\">Techcross Water & Energy Wins 50 Billion Won Wastewater Treatment Project for SK Hynix Yongin Fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Techcross Water & Energy awarded a 50 billion won (~$38M) wastewater treatment contract for SK hynix's Yongin fab. While it confirms continued capex at a SK hynix facility, the contract is ancillary infrastructure work with no direct bearing on memory production capacity, chip output, or pricing dynamics. Minor positive signal on fab investment but immaterial to fund performance."
+  },
+  "buffered_ts": 1782861384.8579776
  }
 ]
