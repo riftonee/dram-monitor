@@ -1230,5 +1230,296 @@
    "summary": "Analysis of AI-driven memory chip shortage and its implications for buyers. While relevant to the memory cycle and industry dynamics that drive fund holdings, the piece appears to be analytical commentary rather than reporting a concrete event, confirmed supply action, or new hard data on pricing or capacity."
   },
   "buffered_ts": 1782843593.6113327
+ },
+ {
+  "id": "6629ca12570aeb887c32bb31cb9b4fee79b87617",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Telecom Co., Ltd. agreed to acquire 0.62% stake in SK hynix NAND Product Solutions Corp. for KRW 397129.05 million. - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFByOHZFdUR1Z0ZoNkN6X2xPY0VIWDVMR1lheE9TRElzSkl4Z25xQWpsSWFBS0NpT25oUm1rREpuSVNCMkY5dm9tODVnTEl4a2lnLUVRTU15aEJURmNqRE84NVZHRGo4RTRvTi05bHpKRHBsMGNZbDJ0RC1SMjdZRWFtY3ZiVS1WUElpenpGbUtST0VxMFdwT0Rfc0lvRzY3d0tUeDNFMXNWQ05iTnF4UlY5NHA1dWN3TFd2NHdudGZRYXNSRUd6TVFpc1VuN3lEaEZ6VWtuZEM5MGpYUTRMZA?oc=5",
+  "published_at": "Tue, 30 Jun 2026 17:07:04 GMT",
+  "published_ts": 1782839224,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFByOHZFdUR1Z0ZoNkN6X2xPY0VIWDVMR1lheE9TRElzSkl4Z25xQWpsSWFBS0NpT25oUm1rREpuSVNCMkY5dm9tODVnTEl4a2lnLUVRTU15aEJURmNqRE84NVZHRGo4RTRvTi05bHpKRHBsMGNZbDJ0RC1SMjdZRWFtY3ZiVS1WUElpenpGbUtST0VxMFdwT0Rfc0lvRzY3d0tUeDNFMXNWQ05iTnF4UlY5NHA1dWN3TFd2NHdudGZRYXNSRUd6TVFpc1VuN3lEaEZ6VWtuZEM5MGpYUTRMZA?oc=5\" target=\"_blank\">SK Telecom Co., Ltd. agreed to acquire 0.62% stake in SK hynix NAND Product Solutions Corp. for KRW 397129.05 million.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Telecom agreed to acquire a 0.62% stake in SK hynix NAND Product Solutions Corp. for approximately KRW 397 billion (~$300M USD). This is a confirmed strategic investment in a key DRAM fund holding (SK hynix) involving its NAND subsidiary, representing a concrete corporate action with announced terms and valuation."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "bf39066d3da8b7295472d53e25da19f83b18d4b6",
+  "source": "Crypto Briefing",
+  "topic": "pricing",
+  "title": "DRAM and NAND prices surge up to 98% in a single quarter, and it’s about to get worse - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rb1lXUDl6VlNZeURqcUgyMFFZdXJCSXNnaGJnUFplNE5EZ2lkRDM1REp1SHV6c1lzNzlvWlBhVG9XNnFuWFBNdGp2ckR3WmdpWFY3eGJIX002TXRjQUhTRTFLMmxBQzNsclhjYg?oc=5",
+  "published_at": "Tue, 30 Jun 2026 18:30:46 GMT",
+  "published_ts": 1782844246,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1rb1lXUDl6VlNZeURqcUgyMFFZdXJCSXNnaGJnUFplNE5EZ2lkRDM1REp1SHV6c1lzNzlvWlBhVG9XNnFuWFBNdGp2ckR3WmdpWFY3eGJIX002TXRjQUhTRTFLMmxBQzNsclhjYg?oc=5\" target=\"_blank\">DRAM and NAND prices surge up to 98% in a single quarter, and it’s about to get worse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "DRAM and NAND prices have surged up to 98% in a single quarter, with analysis suggesting further increases ahead. This concrete price movement is a leading indicator that typically precedes equity moves in memory-semiconductor holdings and signals a major shift in the memory cycle."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "1b55945e698c7c9db3cc207cb4cceb8237ba2c00",
+  "source": "PCMag",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to Spend $500 Billion Building More RAM Fabrication Capacity - PCMag",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTRQMm9XMHMycDdiTkhPMEl3NW9UaXMwYzhQWGlHSnNvY3lFVDhNUnpmLVU0a0ktcVpDRlhWQkhzaUJTdkNQYTR2eHBLc3k1VExGMWpaY05KU3d4aUtId2Z5ZXd5eWkybnY3VkMyODlwNUpWeVplZERUV2J0NWtPM2l6QVFRaWVkOXBHaVQ2VEdMalY3d0dvVlNDVXk4UWF2WHZGbDZB?oc=5",
+  "published_at": "Tue, 30 Jun 2026 18:52:59 GMT",
+  "published_ts": 1782845579,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTRQMm9XMHMycDdiTkhPMEl3NW9UaXMwYzhQWGlHSnNvY3lFVDhNUnpmLVU0a0ktcVpDRlhWQkhzaUJTdkNQYTR2eHBLc3k1VExGMWpaY05KU3d4aUtId2Z5ZXd5eWkybnY3VkMyODlwNUpWeVplZERUV2J0NWtPM2l6QVFRaWVkOXBHaVQ2VEdMalY3d0dvVlNDVXk4UWF2WHZGbDZB?oc=5\" target=\"_blank\">Samsung, SK Hynix to Spend $500 Billion Building More RAM Fabrication Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PCMag"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix have announced a $500 billion investment in building additional RAM fabrication capacity. This is a concrete, officially announced capital commitment by two major DRAM ETF holdings that signals their confidence in long-term memory demand and will materially affect supply dynamics and future earnings."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "0c382808cce8a9ba1aeccbbfecc44567706fa955",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix Storms Nasdaq With Monster $29.4 Billion IPO Filing - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHlTYk5IUEJtdS1tY0duZWN2ZHdGeFFDWDR2bWNZbnl6SXByNWpmelRqVkdqMjdTNzZYRVNOU29tSkVCXzI3SVlZYWtHb00wMUF6dlM5aDRGUnlxYWxZQ2dIUzY4clRWN2I2eWhRb1NRTkJvY3FqNGE1Mm81ZENTNkdGdlRZUWFRN0RLcGhVR1RRN3ExY29JTWZaZnljcHlQTm1xclpwcTR1OFdYYjB6aVF1Q1I3VnhGSk5V?oc=5",
+  "published_at": "Tue, 30 Jun 2026 19:20:25 GMT",
+  "published_ts": 1782847225,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHlTYk5IUEJtdS1tY0duZWN2ZHdGeFFDWDR2bWNZbnl6SXByNWpmelRqVkdqMjdTNzZYRVNOU29tSkVCXzI3SVlZYWtHb00wMUF6dlM5aDRGUnlxYWxZQ2dIUzY4clRWN2I2eWhRb1NRTkJvY3FqNGE1Mm81ZENTNkdGdlRZUWFRN0RLcGhVR1RRN3ExY29JTWZaZnljcHlQTm1xclpwcTR1OFdYYjB6aVF1Q1I3VnhGSk5V?oc=5\" target=\"_blank\">SK Hynix Storms Nasdaq With Monster $29.4 Billion IPO Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has filed for a $29.4 billion Nasdaq IPO, a major concrete capital event for a core DRAM ETF holding. Successful listing would significantly increase the holding's liquidity and market accessibility, materially affecting fund composition and trading dynamics."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "945d366b18aa8d90a23adacab5c2ebd85674c62e",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "SKHY: SK Hynix Files for $29.4 Billion Nasdaq IPO - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGlCcW5NZVNrbXktVy00a0JhYmxRMWRpbUNnQUttQ2tNaW9jM3Y3Wk44bDRQLWVaQ1VLeGdxaC1kR09UaV93TFFKYWxTVDdMRDlJRHNKakJDSUt2a3pOMTQwUmNTV2thVjdKb1BWV1p1c1c0SHpUZjZXS0dtVkk5MXotYnJZMjV5N1lpdk5B?oc=5",
+  "published_at": "Tue, 30 Jun 2026 17:39:52 GMT",
+  "published_ts": 1782841192,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGlCcW5NZVNrbXktVy00a0JhYmxRMWRpbUNnQUttQ2tNaW9jM3Y3Wk44bDRQLWVaQ1VLeGdxaC1kR09UaV93TFFKYWxTVDdMRDlJRHNKakJDSUt2a3pOMTQwUmNTV2thVjdKb1BWV1p1c1c0SHpUZjZXS0dtVkk5MXotYnJZMjV5N1lpdk5B?oc=5\" target=\"_blank\">SKHY: SK Hynix Files for $29.4 Billion Nasdaq IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix files for a $29.4 billion Nasdaq IPO, a concrete capital-markets event that directly affects a major DRAM fund holding and introduces material new information about the company's public-market status and financing strategy."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "8a0c6c27f08ba4f8edfde6a543c893b556e27024",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Samsung, SK hynix, and Micron Hit With U.S. Price-Fixing Class Action Over Memory Shortage - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcEx2N05xZk5zSzlxRE84UHAwa1lnaU9wRVN4OXlYQXlFNEZGVmZhLTJBWWFZZU0yT1l1VWJZTHNtVlVhSGE0QVpfVUZ2MEVSa09Pc1NBWENqcEFsT3F4b19mTGZsRTE3Z19EMFVERXFQSEtFblE2djB1NmJaOW1MMXlmdVdjY1Rrc0VnNTd3aWYzcUNfNllqX0lsTTZhcFVieHBxMV91eWZydk1wRmIxRUZXRnFlbGpsRm9IZmpyenRJc3JzTHp6WDNObnE?oc=5",
+  "published_at": "Tue, 30 Jun 2026 20:12:17 GMT",
+  "published_ts": 1782850337,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOcEx2N05xZk5zSzlxRE84UHAwa1lnaU9wRVN4OXlYQXlFNEZGVmZhLTJBWWFZZU0yT1l1VWJZTHNtVlVhSGE0QVpfVUZ2MEVSa09Pc1NBWENqcEFsT3F4b19mTGZsRTE3Z19EMFVERXFQSEtFblE2djB1NmJaOW1MMXlmdVdjY1Rrc0VnNTd3aWYzcUNfNllqX0lsTTZhcFVieHBxMV91eWZydk1wRmIxRUZXRnFlbGpsRm9IZmpyenRJc3JzTHp6WDNObnE?oc=5\" target=\"_blank\">Samsung, SK hynix, and Micron Hit With U.S. Price-Fixing Class Action Over Memory Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Class action lawsuit filed against Samsung, SK hynix, and Micron alleging price-fixing during the memory shortage. While it names three major fund holdings, this is a legal claim under investigation rather than a confirmed event with immediate market impact. Stock-price effects will depend on case progression and outcome uncertainty."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "0ebbc919e4420ccd7c613add452ba7bd0d906c09",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "Sandisk’s stock could follow record-breaking quarter with another big jump, analysts say - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMW0tVmxEeVA4TXNUNlhpSk1LSndCRzEwSllnLWxlV0hKTXhpdGtXcEIzVlBXOVhsOXVLMTJiNE53WnozVnhtVEt5Y0gxZkxwdGhiRV82djZFaHM0Q0oxY2VFeWFpYjdJU3JJd1M4cmtrWS12QmZBT1Z4LUJiS0VLcjJXcXdGeUNsUlhaU2prRV92T3RsZElkbVpjX3U2clBxTnF3eG5nRmxRZEtReEFTTG1tOTFkY2V0TEFaZTk5X3AwVWQ5dHZSeQ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:16:00 GMT",
+  "published_ts": 1782836160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMW0tVmxEeVA4TXNUNlhpSk1LSndCRzEwSllnLWxlV0hKTXhpdGtXcEIzVlBXOVhsOXVLMTJiNE53WnozVnhtVEt5Y0gxZkxwdGhiRV82djZFaHM0Q0oxY2VFeWFpYjdJU3JJd1M4cmtrWS12QmZBT1Z4LUJiS0VLcjJXcXdGeUNsUlhaU2prRV92T3RsZElkbVpjX3U2clBxTnF3eG5nRmxRZEtReEFTTG1tOTFkY2V0TEFaZTk5X3AwVWQ5dHZSeQ?oc=5\" target=\"_blank\">Sandisk’s stock could follow record-breaking quarter with another big jump, analysts say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary suggesting SanDisk stock could see additional gains following its reported record-breaking quarter. This is opinion/analysis on price direction based on already-disclosed results, not a new concrete development."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "46fd73896d27718f111b14801ef5ba5f3f16ab43",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "Inside HBF: How SanDisk's High Bandwidth Flash Loads LLMs Straight Onto Hardware - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkxqcTVpRE50V05MbDhybGhqcFFyYmVISEkwMTNLeGRDMzJwN2d0TjVWcktSVDRvZG5iWVZoVlV5TEFOUVo4WHFiWGhaNTZlR2JHOExaUXhUaUU2SUpXR2xjbTJoTGZyaURjQmZvcWpDS1dWS2dETXloUmZnOUNfRWxGSlNUQmtEQWhDVzJQc1NoZTN4SHN1ZDVSZ1hBQ0hCbVAxRkNvc1FUM2xJb2hreUJWV3loS2QyR1FSRk03WXJ1ZHpZMjVIekZ6RC03UnFBcmdR?oc=5",
+  "published_at": "Tue, 30 Jun 2026 18:41:22 GMT",
+  "published_ts": 1782844882,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkxqcTVpRE50V05MbDhybGhqcFFyYmVISEkwMTNLeGRDMzJwN2d0TjVWcktSVDRvZG5iWVZoVlV5TEFOUVo4WHFiWGhaNTZlR2JHOExaUXhUaUU2SUpXR2xjbTJoTGZyaURjQmZvcWpDS1dWS2dETXloUmZnOUNfRWxGSlNUQmtEQWhDVzJQc1NoZTN4SHN1ZDVSZ1hBQ0hCbVAxRkNvc1FUM2xJb2hreUJWV3loS2QyR1FSRk03WXJ1ZHpZMjVIekZ6RC03UnFBcmdR?oc=5\" target=\"_blank\">Inside HBF: How SanDisk's High Bandwidth Flash Loads LLMs Straight Onto Hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WEEX"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk product feature/technology explainer on high-bandwidth flash for LLM inference. Relevant as it touches a holding (SanDisk) and AI-infrastructure demand drivers, but the piece appears to be a technical deep-dive or promotional article rather than reporting a new product launch, capacity announcement, or concrete business development. Scored as soft/analysis content without a stated market event."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "311886068daf82caba36e31c280f309ad2723128",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Samsung Patents a New HBM \"Dummy Die\" Structure for Taller Memory Stacks - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX05UanhoNXRxVlR4MlFNck5xY0VfRDVKbGxYRUNDM1o1Q0dWa2RWOWhaNy10Sy13cm1fTUVROTRxN2xvZklLdkJyaXp2bTBQT0pRRHFqc1A2aTlJbWJVUl9kNnU4eWFWdjViNC16a3FUcE45TjU1M011em80c0tYdWdGeG1xM0VjMUhKRjFtaGo2d2JqRFhZV3pUbXJBcnRMTmZmQ0NEczd2TUpLNHRGM3dhbVlFYVN0UFN3?oc=5",
+  "published_at": "Tue, 30 Jun 2026 20:16:55 GMT",
+  "published_ts": 1782850615,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX05UanhoNXRxVlR4MlFNck5xY0VfRDVKbGxYRUNDM1o1Q0dWa2RWOWhaNy10Sy13cm1fTUVROTRxN2xvZklLdkJyaXp2bTBQT0pRRHFqc1A2aTlJbWJVUl9kNnU4eWFWdjViNC16a3FUcE45TjU1M011em80c0tYdWdGeG1xM0VjMUhKRjFtaGo2d2JqRFhZV3pUbXJBcnRMTmZmQ0NEczd2TUpLNHRGM3dhbVlFYVN0UFN3?oc=5\" target=\"_blank\">Samsung Patents a New HBM \"Dummy Die\" Structure for Taller Memory Stacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung has patented a new HBM dummy die structure design intended to enable taller memory stacks. This is a technical innovation by a fund holding (Samsung) in high-bandwidth memory architecture, a key area of industry development, but the patent filing itself is not a concrete commercial event or confirmed capacity decision—it represents R&D progress and possibility rather than a settled market development."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "8bdfb6de7ca901b20740ad5cb2a14b471a09dab5",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Seagate vs. Micron: Which AI Storage Stock Has More Upside? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmpHRVVBVUtTbkJ1dmFiVE1HQ0hZOXNDZzBkUGxlcFVvYU9uaFN5SnF3Qmp3dlpJNlpLYU5PVFZ5UEpCQ2xfcXdvODdxQkh2RTNZY2swTmxTNU5ZYzY2VGlWUDJCVF9vSGNYaHlEak1RMlpzNFlTOFdPdFhBUmtGRFZjMEN2aDNsaU9ZMW9TNVltN2Fua1hlX1AtOS1RcHlJSkZJSkxBQllrdC13cXY4Y2E3WmxYMktwdWk2XzBaRGFFUDlxbDZvQlV5aFd1aDhBbkFmZ1h3?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:00:45 GMT",
+  "published_ts": 1782835245,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmpHRVVBVUtTbkJ1dmFiVE1HQ0hZOXNDZzBkUGxlcFVvYU9uaFN5SnF3Qmp3dlpJNlpLYU5PVFZ5UEpCQ2xfcXdvODdxQkh2RTNZY2swTmxTNU5ZYzY2VGlWUDJCVF9vSGNYaHlEak1RMlpzNFlTOFdPdFhBUmtGRFZjMEN2aDNsaU9ZMW9TNVltN2Fua1hlX1AtOS1RcHlJSkZJSkxBQllrdC13cXY4Y2E3WmxYMktwdWk2XzBaRGFFUDlxbDZvQlV5aFd1aDhBbkFmZ1h3?oc=5\" target=\"_blank\">Seagate vs. Micron: Which AI Storage Stock Has More Upside?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Comparative analysis piece on Seagate (STX) and Micron (MU) as AI storage plays, discussing relative upside potential. Analyst opinion rather than concrete event; holds both companies but no material news on either."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "ea801e2412e4a785169a3f36659ef14c490b2d54",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Is Skyrocketing Today - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjBIai1aa0RhYkttdHhiekx6T1dWNXZUdTdLU2ZDZERISXhqdEtqM2l3SWNuMlA2UHU3M3hjbTFGT2xRUnlFUVV4MnNfZWlTcDFvcl9sVTN5SDRPVmZnU3loNVpnZWpRZTRIMHZ6ZkdSc0NneWJFVmpLWmZKX082b205ZzdMYk9SSFpKTEVDb1JoaDFLODlCQzhzTnpvUkw3V0d5SWZVd3FzNTBxSUpHZ1NLUmJ1RURtRFpaMXkyQ1V2dw?oc=5",
+  "published_at": "Tue, 30 Jun 2026 19:34:07 GMT",
+  "published_ts": 1782848047,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjBIai1aa0RhYkttdHhiekx6T1dWNXZUdTdLU2ZDZERISXhqdEtqM2l3SWNuMlA2UHU3M3hjbTFGT2xRUnlFUVV4MnNfZWlTcDFvcl9sVTN5SDRPVmZnU3loNVpnZWpRZTRIMHZ6ZkdSc0NneWJFVmpLWmZKX082b205ZzdMYk9SSFpKTEVDb1JoaDFLODlCQzhzTnpvUkw3V0d5SWZVd3FzNTBxSUpHZ1NLUmJ1RURtRFpaMXkyQ1V2dw?oc=5\" target=\"_blank\">Why Sandisk Stock Is Skyrocketing Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Globe and Mail",
+    "The Motley Fool"
+   ],
+   "titles": [
+    "Why Sandisk Stock Is Skyrocketing Today - The Motley Fool"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock is rising sharply, but the headline does not specify the concrete cause—likely a price move reaction to already-known earnings or market conditions rather than a new, distinct event."
+  },
+  "buffered_ts": 1782851339.7388787
+ },
+ {
+  "id": "43bff3033aaf6f5465b36b692bb27ea0be34f007",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Bernstein Triples Its SanDisk Target - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21sWDY2S2czXy1icHFLeXh4MFZnMGdTbExLcUlJSnJTbjhfUUxHUFdPbEpXTnNySDRWeVM3Vy1lMXROWHR1M243NjFneDZ2Rk5laDFZdjFVVUpUUWVIbnZoSWZSVGU4Z01BLWtObDY5RnA2MGZndG80c0JxbTUtX3BsdHZjWjExa2hGWUJQaldoZ295aGxMS3Z5dEg?oc=5",
+  "published_at": "Tue, 30 Jun 2026 19:41:55 GMT",
+  "published_ts": 1782848515,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNb21sWDY2S2czXy1icHFLeXh4MFZnMGdTbExLcUlJSnJTbjhfUUxHUFdPbEpXTnNySDRWeVM3Vy1lMXROWHR1M243NjFneDZ2Rk5laDFZdjFVVUpUUWVIbnZoSWZSVGU4Z01BLWtObDY5RnA2MGZndG80c0JxbTUtX3BsdHZjWjExa2hGWUJQaldoZ295aGxMS3Z5dEg?oc=5\" target=\"_blank\">Bernstein Triples Its SanDisk Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bernstein raised its SanDisk price target to triple the prior level. This is an analyst action reflecting their view of the holding's prospects, but without disclosure of the specific new target, the reasoning, or whether it is based on new fundamental data versus revaluation of known facts. Analyst price-target changes are opinion-based and typically move markets only modestly post-announcement unless anchored to concrete developments."
+  },
+  "buffered_ts": 1782851339.7388787
  }
 ]
