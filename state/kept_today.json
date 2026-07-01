@@ -850,5 +850,320 @@
    "summary": "SanDisk (SNDK) stock declined 9.91% on Jul 1. The snippet provides no stated catalyst or reason for the move, making this a pure price-movement report without disclosed cause or material event."
   },
   "buffered_ts": 1782930247.0893173
+ },
+ {
+  "id": "ce40c8dc29050c4ff3d7b72f39e327ab55fd1732",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix files $29.4B Nasdaq ADR amid legal risk - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSlo1U2d2MmxEckw1VHBPLXByVGQ0ZzRTM2RsUi1OUEJRVHhac24yZHdqT2tDcEJLUkpUV09VdFBiaHdTY2s2Zjl0RzdRQi0tRXhmOUhJc2VTUFNFVUxabF9xcWRONHpSWFlMVG4wMkZpOFd0WTRRakxDXzJzLTFHV0FEdFQ4QnNMQXlsTmF5SVlkbUplWmlFcmRmcGlyYXBZX3ZwWUNxaUg2azA4YnBZeEVVMUNyblVBSXllbnNjRm14ejNIR19ITjNHZmdlY1A1bHZwU1BPeEtxWmpncWtFbW8wSQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 05:04:06 GMT",
+  "published_ts": 1782882246,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSlo1U2d2MmxEckw1VHBPLXByVGQ0ZzRTM2RsUi1OUEJRVHhac24yZHdqT2tDcEJLUkpUV09VdFBiaHdTY2s2Zjl0RzdRQi0tRXhmOUhJc2VTUFNFVUxabF9xcWRONHpSWFlMVG4wMkZpOFd0WTRRakxDXzJzLTFHV0FEdFQ4QnNMQXlsTmF5SVlkbUplWmlFcmRmcGlyYXBZX3ZwWUNxaUg2azA4YnBZeEVVMUNyblVBSXllbnNjRm14ejNIR19ITjNHZmdlY1A1bHZwU1BPeEtxWmpncWtFbW8wSQ?oc=5\" target=\"_blank\">SK Hynix files $29.4B Nasdaq ADR amid legal risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix files for $29.4 billion Nasdaq ADR listing, a major capital-markets move for a core DRAM ETF holding. Concrete corporate action with potential implications for fund composition and accessibility, though legal risks noted."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "92e43cc19dea38642a1950d0ced8f406cb72beed",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Meta news triggers sell-off! AI infrastructure stocks plunge sharply, with SanDisk and CoreWeave down over 10% intraday—market concerns grow over potential computing power oversupply? - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEZ1YU5mbk5nOFU1dFFkaGJnelFJaFN6M3ExWldqYl9NT1hMdWtPUTJlWTZFQUhqWVJ0ajgxVmVjdUtTdDlDRURxaENiWHM5bHVnUWJfVHdIZXc5N3pOM3dsUW5PSlU2UktkWWRtZWE4VU9XMnlWSmlXS29ySW1QcngxSnFISS0ycUg3cWZ2Mk5oNlZnVEpENkdUNzRLalFoVVhmSU02V3oxRGtF?oc=5",
+  "published_at": "Wed, 01 Jul 2026 18:57:00 GMT",
+  "published_ts": 1782932220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEZ1YU5mbk5nOFU1dFFkaGJnelFJaFN6M3ExWldqYl9NT1hMdWtPUTJlWTZFQUhqWVJ0ajgxVmVjdUtTdDlDRURxaENiWHM5bHVnUWJfVHdIZXc5N3pOM3dsUW5PSlU2UktkWWRtZWE4VU9XMnlWSmlXS29ySW1QcngxSnFISS0ycUg3cWZ2Mk5oNlZnVEpENkdUNzRLalFoVVhmSU02V3oxRGtF?oc=5\" target=\"_blank\">Meta news triggers sell-off! AI infrastructure stocks plunge sharply, with SanDisk and CoreWeave down over 10% intraday—market concerns grow over potential computing power oversupply?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (DRAM ETF holding) experienced a 10%+ intraday decline triggered by Meta news and broader AI infrastructure sell-off amid concerns over potential computing power oversupply. The move reflects market sentiment and investor concerns about AI capex sustainability rather than a concrete operational event or confirmed supply/demand shock."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "4deb9e1862beb461db7d44aec85d235a4af288c2",
+  "source": "Stocks Down Under",
+  "topic": "holding",
+  "title": "Why SanDisk Stock Is Surging: Inside the AI Memory Boom and Its US$3,000 Target - Stocks Down Under",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVjRIbWhhSWtpa3dLbGpQOS1PY2IzS2dEcmJuRmJ3N3laV1pUdlU3b3JCVEs0c3N2MFh4dnRpNEtFSVFETVVaUzdPTjB0enJwc0oxaXQ1cUlwUG1uVGwzY2xtVGRzN1VxaEoxNWR3VXFQd1hVVmp3b3RBVQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 19:00:12 GMT",
+  "published_ts": 1782932412,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVjRIbWhhSWtpa3dLbGpQOS1PY2IzS2dEcmJuRmJ3N3laV1pUdlU3b3JCVEs0c3N2MFh4dnRpNEtFSVFETVVaUzdPTjB0enJwc0oxaXQ1cUlwUG1uVGwzY2xtVGRzN1VxaEoxNWR3VXFQd1hVVmp3b3RBVQ?oc=5\" target=\"_blank\">Why SanDisk Stock Is Surging: Inside the AI Memory Boom and Its US$3,000 Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocks Down Under</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocks Down Under"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis of SanDisk stock surge attributed to AI memory demand boom, includes a US$3,000 price target. This is analyst commentary and opinion-driven analysis rather than a concrete event or hard number driving the stock move."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "651acfd08ce511432beeb470812d05f8de31e338",
+  "source": "Stocks Down Under",
+  "topic": "holding",
+  "title": "Why SanDisk (SNDK) Stock Is Plummeting Despite a US$3,000 Price Target - Stocks Down Under",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yMVRDVEZDSV9MYjBIUUNJQXFscl9Pdm1JU2lwVEdpUHZSSEtEMUtHTjRud3dHc2g3RFg5cHZjUENiSVJzc2VmLThFOG9LLTBVRlFpZlV4X1puVVFYU1FXcEFGU0RRVVJITzYwSjZIelhMMTZ2YWtMLVdKZw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 19:00:12 GMT",
+  "published_ts": 1782932412,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0yMVRDVEZDSV9MYjBIUUNJQXFscl9Pdm1JU2lwVEdpUHZSSEtEMUtHTjRud3dHc2g3RFg5cHZjUENiSVJzc2VmLThFOG9LLTBVRlFpZlV4X1puVVFYU1FXcEFGU0RRVVJITzYwSjZIelhMMTZ2YWtMLVdKZw?oc=5\" target=\"_blank\">Why SanDisk (SNDK) Stock Is Plummeting Despite a US$3,000 Price Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocks Down Under</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocks Down Under"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a key DRAM ETF holding, is experiencing a significant stock decline. The article discusses the disconnect between the stock's price performance and analyst price targets, representing market sentiment and analysis on a core holding but not a concrete event or new fundamental catalyst."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "f507067620dc4602c615e15a6d1e1f6c119cf360",
+  "source": "Yahoo",
+  "topic": "industry",
+  "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVBpTHFYYmJ2bnVJOUtfcEZtbUdRSjV0Nk5nM0V1RlNHdUxuS3Jkb3hnSnlkckpjblhyWXRxSV9OWk9UTFB2a3pXQm1SRTB5RTZ4clB6aF9xWE8yY0JwMXNjMlREVjh6aXpHVXdZWWhOYTUtd1NWVTdnX3V0cW5BTnMzb2hhaVZrZGc?oc=5",
+  "published_at": "Tue, 30 Jun 2026 21:05:00 GMT",
+  "published_ts": 1782853500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVBpTHFYYmJ2bnVJOUtfcEZtbUdRSjV0Nk5nM0V1RlNHdUxuS3Jkb3hnSnlkckpjblhyWXRxSV9OWk9UTFB2a3pXQm1SRTB5RTZ4clB6aF9xWE8yY0JwMXNjMlREVjh6aXpHVXdZWWhOYTUtd1NWVTdnX3V0cW5BTnMzb2hhaVZrZGc?oc=5\" target=\"_blank\">Apple increases prices for Macs and iPads, blaming a shortage of memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple citing memory chip shortage as rationale for price increases on Macs and iPads. While it signals tight memory supply conditions that could support pricing, this is Apple's public messaging rather than a confirmed supply constraint or production cut announcement from memory makers themselves, and no specific shortage data or duration is provided."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "75aae482cce7ac27da4d6c66b3c50eef7f94a8e5",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Memory chip stocks hit the brakes at highs: SanDisk and Micron plunge sharply - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFNpakNLMWViUlhoUmlpdjZqS2NwRkZYOHI0dWFyY2JKSEJ2N1N3VGlOVklSSWVhMU1uSUtGYTV1N1BSU3JSVkNEQjR5YVlSZjUzeEFRV1ItNkROaFJKdHV1c3ZWNXl0ZTBqZVVpOEVKRTVVQjY3N0pEWDY0MWRWM2hTOUc2MlY1andMQXEwUWphWEt2MktzTHJfRQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 18:57:28 GMT",
+  "published_ts": 1782932248,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFNpakNLMWViUlhoUmlpdjZqS2NwRkZYOHI0dWFyY2JKSEJ2N1N3VGlOVklSSWVhMU1uSUtGYTV1N1BSU3JSVkNEQjR5YVlSZjUzeEFRV1ItNkROaFJKdHV1c3ZWNXl0ZTBqZVVpOEVKRTVVQjY3N0pEWDY0MWRWM2hTOUc2MlY1andMQXEwUWphWEt2MktzTHJfRQ?oc=5\" target=\"_blank\">Memory chip stocks hit the brakes at highs: SanDisk and Micron plunge sharply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Micron shares experienced sharp declines from recent highs. The story reports stock price movement but lacks a concrete catalyst or event; the decline appears to be a market correction or profit-taking rather than a fundamental development tied to earnings, guidance, pricing, or supply news."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "4e120c880acb9353ac3e0a1b9372311def17169f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Can Sandisk's QLC SSD Portfolio Drive Sustainable Growth Ahead? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVjZnTFl6VnJMRlVwTHlVcFl0QzdLOTZMdU56YzVtUnI2QlJDTlVCMnd1bGF1bExxREVGelN2dkdrTTlKYVppMkQycWFVNGcxbXpvRm1HZUdnMFJPM1haSHFpT1dTOVp2Z1A2V01PaFZoSldDaVBQakI1MHFnZTRnQVNSNWFmUldpak1IQVl6UUdIRHdBUWUtcg?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:50:00 GMT",
+  "published_ts": 1782917400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVjZnTFl6VnJMRlVwTHlVcFl0QzdLOTZMdU56YzVtUnI2QlJDTlVCMnd1bGF1bExxREVGelN2dkdrTTlKYVppMkQycWFVNGcxbXpvRm1HZUdnMFJPM1haSHFpT1dTOVp2Z1A2V01PaFZoSldDaVBQakI1MHFnZTRnQVNSNWFmUldpak1IQVl6UUdIRHdBUWUtcg?oc=5\" target=\"_blank\">Can Sandisk's QLC SSD Portfolio Drive Sustainable Growth Ahead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis of SanDisk's QLC SSD portfolio and its potential to drive sustainable growth. This is forward-looking opinion/analysis about a holding's product strategy rather than a concrete event, earnings result, or confirmed market development."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "d5749892463d117f62e1fea4b2f92d7e3dadfdeb",
+  "source": "CNET",
+  "topic": "holding",
+  "title": "Lawsuit Targets Samsung and Other Chipmakers Alleging DRAM Price Fixing - CNET",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0ZGUXQweV9XODVERi1YZXEyem9PTTZ4eXFKY05zTUd5QTRuUGxtMlBaTGJoX1FBckZjSGRtQ1FUc1ZpQXp2VUJzOXpEbXpDY1NlWGxYVlp2emFvVy0xdG1uU2k3aC1ZamFPMDBMSHh0ZVZzbENnckZUX1NmQjZ6bDZMaTJvWjZQb1hyR0VHWQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 16:13:00 GMT",
+  "published_ts": 1782922380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0ZGUXQweV9XODVERi1YZXEyem9PTTZ4eXFKY05zTUd5QTRuUGxtMlBaTGJoX1FBckZjSGRtQ1FUc1ZpQXp2VUJzOXpEbXpDY1NlWGxYVlp2emFvVy0xdG1uU2k3aC1ZamFPMDBMSHh0ZVZzbENnckZUX1NmQjZ6bDZMaTJvWjZQb1hyR0VHWQ?oc=5\" target=\"_blank\">Lawsuit Targets Samsung and Other Chipmakers Alleging DRAM Price Fixing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNET"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Lawsuit filed against Samsung and other chipmakers alleging DRAM price fixing. This is relevant as Samsung is a major DRAM holding in the fund, but the story reports on legal action rather than a confirmed outcome or concrete market event, making it analytical/potential rather than settled."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "5db92dfea654fd0470345475fc59a40e91b280ea",
+  "source": "GameSpot",
+  "topic": "holding",
+  "title": "The RAM Crisis Is One Big Price-Fixing Monopoly, New Lawsuit Claims - GameSpot",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBtQWNtNEtLZGdrTVhuQjJCRzRiZmlQZFNDNUQ2QVNrMWlRakE1c2w2azdrX1A3LVpPMlJsQkh2a1V2dWg2VTN5bm5QRTRUUUJvblZ6bmpsMkxfUVlpbk5WbTRnSWU0ZHdtdEZic1I3ckRMV1lUdE4yVlhrQVRFWVdBMnFtbDN0ZW1zcEN3Q0JLaDFZMEc2VnBGSE9XeE9DaC1B?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:46:38 GMT",
+  "published_ts": 1782837998,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBtQWNtNEtLZGdrTVhuQjJCRzRiZmlQZFNDNUQ2QVNrMWlRakE1c2w2azdrX1A3LVpPMlJsQkh2a1V2dWg2VTN5bm5QRTRUUUJvblZ6bmpsMkxfUVlpbk5WbTRnSWU0ZHdtdEZic1I3ckRMV1lUdE4yVlhrQVRFWVdBMnFtbDN0ZW1zcEN3Q0JLaDFZMEc2VnBGSE9XeE9DaC1B?oc=5\" target=\"_blank\">The RAM Crisis Is One Big Price-Fixing Monopoly, New Lawsuit Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GameSpot</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GameSpot"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "A lawsuit alleges RAM price-fixing monopoly by memory semiconductor manufacturers. While potentially relevant to holdings and industry dynamics, this is a legal claim/allegation rather than a confirmed event or concrete development affecting current operations or guidance."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "420048625abffa53ef556cf9fb788f90468a1206",
+  "source": "datacenter.news",
+  "topic": "industry",
+  "title": "AI demand to push memory fab spending past USD $50bn - datacenter.news",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0VBSFUyYlhlLVV6X2ZnT245WGtRQlNyaG5FOTc3QmxWa09YVC1YTmpYZEZybFZ5T3JCQVAxejBfWF9ZY2tCNmkwU2U4Y2hSSVhGLVpkdm9GdjlTV1hmLUtIRjQwaFFuMzgxSUs2U282R3ZzZXlaTHp5cm50eFJnMld3SmJrOVFh?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:00:00 GMT",
+  "published_ts": 1782918000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0VBSFUyYlhlLVV6X2ZnT245WGtRQlNyaG5FOTc3QmxWa09YVC1YTmpYZEZybFZ5T3JCQVAxejBfWF9ZY2tCNmkwU2U4Y2hSSVhGLVpkdm9GdjlTV1hmLUtIRjQwaFFuMzgxSUs2U282R3ZzZXlaTHp5cm50eFJnMld3SmJrOVFh?oc=5\" target=\"_blank\">AI demand to push memory fab spending past USD $50bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">datacenter.news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "datacenter.news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Forecast that AI demand will drive memory fab capital spending above $50bn. This is forward-looking analysis and prediction rather than a confirmed event or hard number from an official source, making it opinion-based rather than a concrete development."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "727d745e1eb65b6199a021143701dc5f1ebf91fa",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Sandisk Falls Despite BofA Target Hike - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVdtNjcwT2I2N3hxRHFPNmlGaWRWRjRXYXlHNVE3V2JfcjYxYU5Eak1JbHp0b2VLbHlzeHlNU0dLM0d4ak9haWFsVVFlTlJGRnF0bWstWV9RTmpVVDZJMmtxdm5UVU5EYTliNjRKWkdzb2ljeEN0cDRObXNXVVZzQXZMQQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 19:25:53 GMT",
+  "published_ts": 1782933953,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVdtNjcwT2I2N3hxRHFPNmlGaWRWRjRXYXlHNVE3V2JfcjYxYU5Eak1JbHp0b2VLbHlzeHlNU0dLM0d4ak9haWFsVVFlTlJGRnF0bWstWV9RTmpVVDZJMmtxdm5UVU5EYTliNjRKWkdzb2ljeEN0cDRObXNXVVZzQXZMQQ?oc=5\" target=\"_blank\">Sandisk Falls Despite BofA Target Hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of America raised its price target on SanDisk (a fund holding), but the stock fell despite the upgrade. This is analyst sentiment and a price-target change—soft data on an already-known holding, not a concrete event or earnings catalyst."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "0434b5d5dc704dd1fde97ca0b53456c0a9c7be51",
+  "source": "24/7 Wall St.",
+  "topic": "fund",
+  "title": "The AI Memory Shortage Just Entered Year Two and These 3 ETFs Own Every Layer From DRAM to HBM - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFN6U0tVelBWV01rSFFzU2RhZHZOUHFaeFFkS1JpWnpRbzZOZXNlR0ctcUNYdUE2QjIxMEpfSXI3MV9lVlhuVlp3M0ZsQTJ2R2Q0NFQxQ2Q1cDcxaFpnRHBOYlI2a0tQMG9HOUdlaEJUNm1nVGVFUmZxRnB5SjZJZVhhQW42bTNPUEgyNnhWcTBxZVRQZnp0LTJQM0V1NTNBRTlNOGdoeHpVQWVmNGlhX3V5SnN0TGk0TlFrWDg4MVFYb2EzZVBzcW5odW9fc0NWQWxyaw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 18:24:18 GMT",
+  "published_ts": 1782930258,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFN6U0tVelBWV01rSFFzU2RhZHZOUHFaeFFkS1JpWnpRbzZOZXNlR0ctcUNYdUE2QjIxMEpfSXI3MV9lVlhuVlp3M0ZsQTJ2R2Q0NFQxQ2Q1cDcxaFpnRHBOYlI2a0tQMG9HOUdlaEJUNm1nVGVFUmZxRnB5SjZJZVhhQW42bTNPUEgyNnhWcTBxZVRQZnp0LTJQM0V1NTNBRTlNOGdoeHpVQWVmNGlhX3V5SnN0TGk0TlFrWDg4MVFYb2EzZVBzcW5odW9fc0NWQWxyaw?oc=5\" target=\"_blank\">The AI Memory Shortage Just Entered Year Two and These 3 ETFs Own Every Layer From DRAM to HBM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Article mentions the DRAM ETF as one of three funds positioned across memory layers (DRAM to HBM) in the context of ongoing AI memory shortage narrative. This is a fund mention but lacks concrete new developments, material holdings news, or pricing data—it is a passing reference in a broader thematic piece about memory demand."
+  },
+  "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "d6f44778bab57f2a4196a5cc23cae7b6a2bf9dc4",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SanDisk stock plummeting today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmhGMXBxUWJzbjRvWE5NMmhYNF9tNXU3RWNEUWVURTJvalBCaFBTU3pHWloyQkQ4ME42aDRXbERiVmRQWHhYb0NFYkI4NzRFOXdyNUVfZml2VGxWNGFLMnh3UnN3TVlXSVJtX25KaWpZdUJEa2FCeXdXemhRQ3YzZHJ2OW5RbWlaelljTnlKMUVIQU9DVGJLQWlDLTRBeUQ0?oc=5",
+  "published_at": "Wed, 01 Jul 2026 18:51:56 GMT",
+  "published_ts": 1782931916,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmhGMXBxUWJzbjRvWE5NMmhYNF9tNXU3RWNEUWVURTJvalBCaFBTU3pHWloyQkQ4ME42aDRXbERiVmRQWHhYb0NFYkI4NzRFOXdyNUVfZml2VGxWNGFLMnh3UnN3TVlXSVJtX25KaWpZdUJEa2FCeXdXemhRQ3YzZHJ2OW5RbWlaelljTnlKMUVIQU9DVGJLQWlDLTRBeUQ0?oc=5\" target=\"_blank\">Why is SanDisk stock plummeting today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Why Sandisk Stock Is Plummeting Today - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock price decline reported, but snippet does not provide a stated cause or specific catalyst. Requires full article review to determine if there is material news (earnings, guidance, supply/demand shift) or if this is merely a price-move observation without new information."
+  },
+  "buffered_ts": 1782937419.4684818
  }
 ]
