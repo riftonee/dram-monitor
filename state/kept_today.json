@@ -1405,5 +1405,149 @@
    "summary": "Market forecast report highlighting AI-driven HBM demand expected to support DRAM module and component market growth through 2035. Forecast-based analysis with no new concrete data or pricing information disclosed."
   },
   "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "f83d7d0038be641a34d799545ead195e8c5421a0",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdxS2FuSWdOREtSMVg0cFh6dUZlbTJGX2dWSzhKQ1pYTlFHSWZwSGloYnp5cnpZblFWcnE4UVowbFdpTkdfZTF2OHBYcmo3b3pDeXJHVnJTRzJ3R29nVEllaHVTRWFrS0hINzRobVNhb2tCOENnQU9pTFlENkZ5VkY1Q2lVYmxwYy1rM1lOSzNxb3laTWNCZnY4V3NIUQ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 12:15:00 GMT",
+  "published_ts": 1782821700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdxS2FuSWdOREtSMVg0cFh6dUZlbTJGX2dWSzhKQ1pYTlFHSWZwSGloYnp5cnpZblFWcnE4UVowbFdpTkdfZTF2OHBYcmo3b3pDeXJHVnJTRzJ3R29nVEllaHVTRWFrS0hINzRobVNhb2tCOENnQU9pTFlENkZ5VkY1Q2lVYmxwYy1rM1lOSzNxb3laTWNCZnY4V3NIUQ?oc=5\" target=\"_blank\">'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Tim Cook blames Micron for Apple's $300 price hike on iPhones; Micron counters that Apple contributed to the shortage. A public dispute between a major customer and a key DRAM holding over supply and pricing, but the claims are largely rhetorical posturing rather than a concrete new development affecting the memory cycle or Micron's fundamentals."
+  },
+  "buffered_ts": 1782948002.6787279
+ },
+ {
+  "id": "6dd997f7fdc62caeea8e19a5e16e6c47b527d1cd",
+  "source": "Stocktwits",
+  "topic": "industry",
+  "title": "Rivian CEO Flags Memory Chip Shortage Risk For R2 Production – Retail Eyes Q2 Delivery Numbers - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnN6LVl5ZmkzWkZQa3FoSGhkemthZmxwR2xCZ0MzSDc1cDBPcGlWNzhRakFsbmpmaW5uY25QM0FaTk5OeGNPaThUX2lMYjJRdUF0UWV1YnE2S2RYcmVwLUl1b1JqZHhIZkRlR1V1NlBSekh2VUJvSWh2dUpSMTEyeWZOekJ1NGJhWW5KMWdueU1vcUd0S1Vrel96azFuUU9Lbk42MXZsZE5teVZVTnFKUkRONXBKZ3ZGTGNGVTdVNEtXSlZHNm4wZG83YUM5WEwtMC1Wa21uVlVFdHJSR1k5WGJqM05ZZ1E2M29qUg?oc=5",
+  "published_at": "Wed, 01 Jul 2026 10:00:13 GMT",
+  "published_ts": 1782900013,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnN6LVl5ZmkzWkZQa3FoSGhkemthZmxwR2xCZ0MzSDc1cDBPcGlWNzhRakFsbmpmaW5uY25QM0FaTk5OeGNPaThUX2lMYjJRdUF0UWV1YnE2S2RYcmVwLUl1b1JqZHhIZkRlR1V1NlBSekh2VUJvSWh2dUpSMTEyeWZOekJ1NGJhWW5KMWdueU1vcUd0S1Vrel96azFuUU9Lbk42MXZsZE5teVZVTnFKUkRONXBKZ3ZGTGNGVTdVNEtXSlZHNm4wZG83YUM5WEwtMC1Wa21uVlVFdHJSR1k5WGJqM05ZZ1E2M29qUg?oc=5\" target=\"_blank\">Rivian CEO Flags Memory Chip Shortage Risk For R2 Production – Retail Eyes Q2 Delivery Numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Rivian CEO warns of potential memory chip shortage risk affecting R2 production. This flags potential demand-side pressure on memory supply, relevant to the industry cycle, but the statement is forward-looking caution rather than a confirmed shortage event or concrete production cut."
+  },
+  "buffered_ts": 1782948002.6787279
+ },
+ {
+  "id": "2b22b3597753dfde2f56d4ac7065091cd41a8b34",
+  "source": "Seeking Alpha",
+  "topic": "industry",
+  "title": "Micron Technology: Q3 Crushes Expectations As AI Memory Demand Accelerates (NASDAQ:MU) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmR6VnE0SW44Qm0zX0RmcWFDQjBvOUlZMkE5czdNX3p4d3hXTnJPOGZfMThzME5INHc5T280RTRhNlFMN1NleUcxaHJTSUZhdVhVdTdsd1BOWm1MRmRMOWZQamc1NHFiWTlLalBRVVpkT29PNEFnZVBRU29RYWZDZWFnSUZkdUVaZW5vaUxvdE12Q0VNaFNaR0JDZE9MemNOQV9URnIxMW5pc3c3NzV3YWdWY3Q?oc=5",
+  "published_at": "Wed, 01 Jul 2026 09:21:00 GMT",
+  "published_ts": 1782897660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmR6VnE0SW44Qm0zX0RmcWFDQjBvOUlZMkE5czdNX3p4d3hXTnJPOGZfMThzME5INHc5T280RTRhNlFMN1NleUcxaHJTSUZhdVhVdTdsd1BOWm1MRmRMOWZQamc1NHFiWTlLalBRVVpkT29PNEFnZVBRU29RYWZDZWFnSUZkdUVaZW5vaUxvdE12Q0VNaFNaR0JDZE9MemNOQV9URnIxMW5pc3c3NzV3YWdWY3Q?oc=5\" target=\"_blank\">Micron Technology: Q3 Crushes Expectations As AI Memory Demand Accelerates (NASDAQ:MU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analysis of Micron Q3 earnings beating expectations driven by AI memory demand. This is post-earnings commentary and analyst reaction to already-reported results, not the earnings release itself or new guidance."
+  },
+  "buffered_ts": 1782948002.6787279
+ },
+ {
+  "id": "b336cdad0a44023a8cd2c96d91b263884e58086d",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Yuanta Securities lifts SK Square target as SK hynix-fueled earnings surge - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXBvZGZpMWRxZXhfUjlSa2t1TnBfV0ZIQ3VEXzZsaF9xT3J0SG8zNHhFWTlLNGN1eUVhR2xueVhrVnlqNUNlclpJck16bDd2bmMwQ3hidDNvMDlReHZCR3ZtZ3czLXc0RWxHZ3RFc2hiNVpUNkFXSnlfQ2l4d0lORdIBlAFBVV95cUxNOGNfSlBONGFUV2JZMWVRTFl6RmtyMnE1RHEzOXAxM1lIMkkxQm1TNE96UnYzdkticlluN0lnMzYwMXlKNnQtTDdCbUxHQVdxeG04dzItd04yMGZZeFE2R3RDV1pBV2NpRTI3RlVXYkJoMnNzdG1pdkFhelZ1bVBUdzNsWFI0NDd1ODNvdGRKdlB0N05L?oc=5",
+  "published_at": "Wed, 01 Jul 2026 22:52:00 GMT",
+  "published_ts": 1782946320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXBvZGZpMWRxZXhfUjlSa2t1TnBfV0ZIQ3VEXzZsaF9xT3J0SG8zNHhFWTlLNGN1eUVhR2xueVhrVnlqNUNlclpJck16bDd2bmMwQ3hidDNvMDlReHZCR3ZtZ3czLXc0RWxHZ3RFc2hiNVpUNkFXSnlfQ2l4d0lORdIBlAFBVV95cUxNOGNfSlBONGFUV2JZMWVRTFl6RmtyMnE1RHEzOXAxM1lIMkkxQm1TNE96UnYzdkticlluN0lnMzYwMXlKNnQtTDdCbUxHQVdxeG04dzItd04yMGZZeFE2R3RDV1pBV2NpRTI3RlVXYkJoMnNzdG1pdkFhelZ1bVBUdzNsWFI0NDd1ODNvdGRKdlB0N05L?oc=5\" target=\"_blank\">Yuanta Securities lifts SK Square target as SK hynix-fueled earnings surge - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst Yuanta Securities raised its price target on SK Square (SK hynix parent) citing strong earnings driven by SK hynix performance. This is analyst commentary and a price-target change following known earnings results, not a new corporate event or concrete development."
+  },
+  "buffered_ts": 1782948002.6787279
+ },
+ {
+  "id": "647625098285d980ca93cad463e510b292d57d3c",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWURuaDIzNk9DVWxuaVREdHdPSkpjQ293ck5qdDJ5SUFSSVhJNTlDWjZJOW9KcjU3cmVoV0tRVlRTUFdDaloyNWYtVXhOOGRuZVJvcVE5MXRYMkNWcjNLMUd3cU9Oclh0OTc1WXFDMlFJVzViNnpqWUNIdTBBVVJ2LVEyN2lMZm9rZ0pVT1V4Z2o2elJneFE?oc=5",
+  "published_at": "Wed, 01 Jul 2026 13:32:00 GMT",
+  "published_ts": 1782912720,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWURuaDIzNk9DVWxuaVREdHdPSkpjQ293ck5qdDJ5SUFSSVhJNTlDWjZJOW9KcjU3cmVoV0tRVlRTUFdDaloyNWYtVXhOOGRuZVJvcVE5MXRYMkNWcjNLMUd3cU9Oclh0OTc1WXFDMlFJVzViNnpqWUNIdTBBVVJ2LVEyN2lMZm9rZ0pVT1V4Z2o2elJneFE?oc=5\" target=\"_blank\">Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFlU0JHQVVZRV9kZnZkeUFXU3liUnNENnBOalUwbmE1YmRBRUYzMk9wMGZFREtTdm04emNvUXc2VllVY1ZJSHliaVdPX2hBR2ZEMVdTelpwUWVEcjB2S2R2WHNoMXRWMmdtam9jbUlSelhDV3NUTFhGYVg3X1pURFI1b1llNzRlelRKQm1salRBeElHX0ViNUtR?oc=5\" target=\"_blank\">Sandisk: The Bull Theses Hiding Behind The NAND Debate (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0kxWW4yd0pUbjF1eENieTVQNE9lQjdoS1FTTVpGQkwweFdrcDJvRERsQzZKYVJXd0FhbG1xajg2OUhpNGNMdWU2NnItbkc3d2szbzd0Vml6WHBzbmROczcwbVpKTVFHVjZURklrNkdLUzd5SEpFRlVfVklRZ1NsTkRfZmNHUEFJcDVacC1oUzJqX2pJNkVN?oc=5\" target=\"_blank\">S&amp;P 500 Stocks: Sandisk Leads Seven AI Stocks That Have Skyrocketed In 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool comparative analysis of SanDisk and Micron's 2026 H1 performance and investment recommendation. This is analyst opinion and valuation commentary rather than a concrete market event or earnings release."
+  },
+  "buffered_ts": 1782948002.6787279
+ },
+ {
+  "id": "3529197a1798d5b6483c799e37c2818993d6489f",
+  "source": "The Business Times",
+  "topic": "industry",
+  "title": "Apple seeks to buy Chinese-made memory chips with lobbying push - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFpfR0FXR19SRmVWcjlEZFpLTlN6NnpDRTQ1U3AwX3JIRmtvMmtaRjZLTXhjSDdIZzJ2bXotcXhJWlhXcUlaeUIzeDdPa0RjeGJzWFVwUjNIWFY0T1dRUGhtVG5YQkprOG9QNmVqb2lBbHRxZ1phMGhNR3RzVU5KY1VUUm10YkJUcDEzUGppNzFSeWkzYzZLaXRwZEFJenF5X3QtRjhOTlI3YWxKdk1mRlFpeW45LW1PdnJvS3dtOUxNdw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 22:28:00 GMT",
+  "published_ts": 1782944880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFpfR0FXR19SRmVWcjlEZFpLTlN6NnpDRTQ1U3AwX3JIRmtvMmtaRjZLTXhjSDdIZzJ2bXotcXhJWlhXcUlaeUIzeDdPa0RjeGJzWFVwUjNIWFY0T1dRUGhtVG5YQkprOG9QNmVqb2lBbHRxZ1phMGhNR3RzVU5KY1VUUm10YkJUcDEzUGppNzFSeWkzYzZLaXRwZEFJenF5X3QtRjhOTlI3YWxKdk1mRlFpeW45LW1PdnJvS3dtOUxNdw?oc=5\" target=\"_blank\">Apple seeks to buy Chinese-made memory chips with lobbying push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple is lobbying to purchase Chinese-made memory chips, signaling potential shifts in memory sourcing dynamics. While relevant to memory demand and supply chain, this is currently a lobbying effort (intent/discussion phase) rather than a confirmed procurement or capacity decision, making it soft intelligence on future industry behavior rather than a concrete event."
+  },
+  "buffered_ts": 1782948002.6787279
  }
 ]
