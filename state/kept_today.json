@@ -1,1 +1,170 @@
-[]
+[
+ {
+  "id": "06453875138518e3f2d98ca91c048353242c1f45",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils $520 Billion AI Push - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnFyMzExQy1lZVJ1clZTMzZ1OFl4ZmJfakZwWEZ5bFgybG0zTnctWWNSa3JZVElXV2NRSWV2b1JHYnNWd2ZrWEdJQ2FYdWh2Tk9mbVdFZi03bjZmZXViS2FQSkkxczVON3k5VlFVQXdqbmNvc18zZkpmVWRWOGlJb1BLV1JUeEF6djdfOWRjQWswTm1QZmc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 11:00:00 GMT",
+  "published_ts": 1782903600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnFyMzExQy1lZVJ1clZTMzZ1OFl4ZmJfakZwWEZ5bFgybG0zTnctWWNSa3JZVElXV2NRSWV2b1JHYnNWd2ZrWEdJQ2FYdWh2Tk9mbVdFZi03bjZmZXViS2FQSkkxczVON3k5VlFVQXdqbmNvc18zZkpmVWRWOGlJb1BLV1JUeEF6djdfOWRjQWswTm1QZmc?oc=5\" target=\"_blank\">Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils $520 Billion AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix announced plans to build four new chip plants as part of South Korea's $520 billion AI infrastructure push. This is a concrete, officially announced capacity expansion by two major DRAM fund holdings that directly signals increased memory production to meet AI-driven demand."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "b6f6a22fa9863ed87ef130ab16b7a5cc608a7c22",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "South Korean semiconductor substrate suppliers: Samsung and SK Hynix plan to request price reductions in the second half of the year, potentially reversing the 3%–4% price increase implemented at the beginning of the year. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTRGZk45NFp6S184anNUQjFsOFpFekxKTnRoNFREdFo0dFpwNXM2WlVNNlBVVXcxcFFZTXhyLW9XNnJYSXcyNTMyVkg4SnJnSFZsN3h3Z09rNHdsR3F5ZmVLekk3NVl2NGFIUkl2S3RkN09RNjNOZjhYZExNN05QdkFnRGM4VmFFMkg2NVN6MzdlZjRQekNlbFJoOWxVNUdFN0F4dzdLWHFTVHNfRFFCSGtnSQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 09:34:15 GMT",
+  "published_ts": 1782898455,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONTRGZk45NFp6S184anNUQjFsOFpFekxKTnRoNFREdFo0dFpwNXM2WlVNNlBVVXcxcFFZTXhyLW9XNnJYSXcyNTMyVkg4SnJnSFZsN3h3Z09rNHdsR3F5ZmVLekk3NVl2NGFIUkl2S3RkN09RNjNOZjhYZExNN05QdkFnRGM4VmFFMkg2NVN6MzdlZjRQekNlbFJoOWxVNUdFN0F4dzdLWHFTVHNfRFFCSGtnSQ?oc=5\" target=\"_blank\">South Korean semiconductor substrate suppliers: Samsung and SK Hynix plan to request price reductions in the second half of the year, potentially reversing the 3%–4% price increase implemented at the beginning of the year.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung and SK Hynix plan to request price reductions from substrate suppliers in H2, potentially reversing earlier 3-4% price increases. This signals potential pricing pressure in the memory supply chain but remains a plan/request rather than a confirmed transaction."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "958b6f407d9414870003c7f4b1d9ec057c43f19e",
+  "source": "Moomoo",
+  "topic": "pricing",
+  "title": "TrendForce: Prices of small-capacity DDR4/DDR3 rose this week, while NAND spot prices continued to decline. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3o1ZHlOTlNwTDU3UzVpX2p2Z2pkcWxZT2tyYktZN2xfdXdCeVpoc0JuQjB0ZUt3anZYT2xqRlk4dklDWUpXOFBCV1BmaXNDOVlhVDdqLWViY0dWNURRVDN0cFFacFdMRXBMV3FKUGNFSU1Dc0NTdjZubFF3cElrdUJKY2JHNU9nTEcxc0F6S0J6OEE4OU4yd0xGc0VyVS10VGUtQg?oc=5",
+  "published_at": "Wed, 01 Jul 2026 09:32:48 GMT",
+  "published_ts": 1782898368,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3o1ZHlOTlNwTDU3UzVpX2p2Z2pkcWxZT2tyYktZN2xfdXdCeVpoc0JuQjB0ZUt3anZYT2xqRlk4dklDWUpXOFBCV1BmaXNDOVlhVDdqLWViY0dWNURRVDN0cFFacFdMRXBMV3FKUGNFSU1Dc0NTdjZubFF3cElrdUJKY2JHNU9nTEcxc0F6S0J6OEE4OU4yd0xGc0VyVS10VGUtQg?oc=5\" target=\"_blank\">TrendForce: Prices of small-capacity DDR4/DDR3 rose this week, while NAND spot prices continued to decline.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce reports small-capacity DDR4/DDR3 prices rose this week while NAND spot prices continued declining. Spot price movements are leading indicators for memory-semiconductor stocks, though this report offers limited specificity on magnitude or underlying drivers."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "c5055381609302a5f2a470a1052746733e21019f",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeE8xU1lRUmdUSXVyODU1R2JHMTlubW15VXlrY2J5R2Q1dmpQeDlfY0FRMWZYOGUtZW9FLVBDZjVMQVdFem5SaThPdXFIQXBIYkRIVHJqUnlWRFB6UHNQLUItYUFHbXo5QlR2VjZheWRfVi1STUpTVnlHUGhoWUJsM0xXY1hEQ2NwcVZuNjgzTzdtTDhiMkVaNEFGM0hEaEJ0eG5XSDVkTFNod2tBZ0VlR3lnOEZhSjloN0RicE42bVBxYjNhNU9fRFZ3QVZqcXh0T3BWNU5IQ3MzUWFxYVR4TE9YWlF3QmktWEhVZFdWTGlzOVJN?oc=5",
+  "published_at": "Wed, 01 Jul 2026 13:00:14 GMT",
+  "published_ts": 1782910814,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeE8xU1lRUmdUSXVyODU1R2JHMTlubW15VXlrY2J5R2Q1dmpQeDlfY0FRMWZYOGUtZW9FLVBDZjVMQVdFem5SaThPdXFIQXBIYkRIVHJqUnlWRFB6UHNQLUItYUFHbXo5QlR2VjZheWRfVi1STUpTVnlHUGhoWUJsM0xXY1hEQ2NwcVZuNjgzTzdtTDhiMkVaNEFGM0hEaEJ0eG5XSDVkTFNod2tBZ0VlR3lnOEZhSjloN0RicE42bVBxYjNhNU9fRFZ3QVZqcXh0T3BWNU5IQ3MzUWFxYVR4TE9YWlF3QmktWEhVZFdWTGlzOVJN?oc=5\" target=\"_blank\">Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece comparing SanDisk and Micron's performance in H1 2026 and offering investment perspective on which is the better buy. Stock performance review and analyst commentary based on already-known results rather than new concrete information."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "6855a3bc464f002e368daadda58a24d8bc43fdb3",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Samsung, Micron, SK Hynix hit with lawsuit over alleged DRAM supply cuts and price hikes - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV1BEMFRsbmJ3VWxQS2UwV29VVlQtYjFiS0c4RDZvSGpnczZqSUhkWWp3MENyeDloU0V4djREVm9EU0gwck5wc3lseHJ5TWpmb2FDcEFlaG9SLTgtdUlEOEV0b19sV0pjYUJPbkk4S2RPNFpGaW1zcy1LNTRXS3NRZXQ0SUR6T19kRHRmeVRmd2JyQzlOdjMtcWR6Y05GOGdIRlBGaHNuS0xiWFlBUzFoRmczc0dKajU2MVJEcmFlU1VmRGNac3k5NkhqTUdWbkpaVDVHYUlma2dydzA0Q0pyWFhWYzBhTDdtM0pIQmNycVVMSUluNUMxT2llTQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 05:25:50 GMT",
+  "published_ts": 1782883550,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV1BEMFRsbmJ3VWxQS2UwV29VVlQtYjFiS0c4RDZvSGpnczZqSUhkWWp3MENyeDloU0V4djREVm9EU0gwck5wc3lseHJ5TWpmb2FDcEFlaG9SLTgtdUlEOEV0b19sV0pjYUJPbkk4S2RPNFpGaW1zcy1LNTRXS3NRZXQ0SUR6T19kRHRmeVRmd2JyQzlOdjMtcWR6Y05GOGdIRlBGaHNuS0xiWFlBUzFoRmczc0dKajU2MVJEcmFlU1VmRGNac3k5NkhqTUdWbkpaVDVHYUlma2dydzA0Q0pyWFhWYzBhTDdtM0pIQmNycVVMSUluNUMxT2llTQ?oc=5\" target=\"_blank\">Samsung, Micron, SK Hynix hit with lawsuit over alleged DRAM supply cuts and price hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung, Micron, and SK Hynix (three major DRAM ETF holdings) face a lawsuit alleging collusive DRAM supply cuts and price hikes. While material to the holdings, this is a legal claim/allegation rather than a confirmed event or settlement; impact remains speculative pending case development."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "7dc9238fb908dd02211e11075bf71962d71507ad",
+  "source": "technewsworld.com",
+  "topic": "industry",
+  "title": "Memory Chip Shortage Aggravated by Rush to Build More Data Centers - technewsworld.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGEwUldFUTRkTlB2VzJBTEFsUXN5MzlMYUlDODlXQmVfYW1xWlkyQVFNbHpwbWNleDBodTZ5aDBMSVhGOExaR0E0V2UzWGlLNW4tMDhieUpqVTFfM3k5UVB1ek9EYXJxbHptTFVsV1I0NHdEcDE1MExRT3FMX0VLbWc1SlFNVm9CTWJXYkZndTRWVUJIMEVzeUc0X1pvaTA5al8zZ1YzNnhvaGxUSUlVdFB6dEI?oc=5",
+  "published_at": "Tue, 30 Jun 2026 07:00:00 GMT",
+  "published_ts": 1782802800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGEwUldFUTRkTlB2VzJBTEFsUXN5MzlMYUlDODlXQmVfYW1xWlkyQVFNbHpwbWNleDBodTZ5aDBMSVhGOExaR0E0V2UzWGlLNW4tMDhieUpqVTFfM3k5UVB1ek9EYXJxbHptTFVsV1I0NHdEcDE1MExRT3FMX0VLbWc1SlFNVm9CTWJXYkZndTRWVUJIMEVzeUc0X1pvaTA5al8zZ1YzNnhvaGxUSUlVdFB6dEI?oc=5\" target=\"_blank\">Memory Chip Shortage Aggravated by Rush to Build More Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">technewsworld.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "technewsworld.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on memory chip shortage being driven by accelerated data center buildout. Indicates demand pressure on memory semiconductors (DRAM/HBM) from AI infrastructure capex, a key demand driver for the fund's holdings, but lacks specific numbers, capacity commitments, or new concrete developments."
+  },
+  "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "cc84ae310583bb27119c875ed33a80f11257fc07",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Bernstein Lifts SanDisk Price Target to $3,000 From $1,700 - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oWm5xSE54X29OY1BRMktuSXcwSFdjUzZwWU5hNjA4bHVmejZvZ0JiQ2NDeUF1RTExbXlRU01HNVNIR0ZmTm93V0RNN2J1UVY1cnZoOQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 06:41:23 GMT",
+  "published_ts": 1782888083,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oWm5xSE54X29OY1BRMktuSXcwSFdjUzZwWU5hNjA4bHVmejZvZ0JiQ2NDeUF1RTExbXlRU01HNVNIR0ZmTm93V0RNN2J1UVY1cnZoOQ?oc=5\" target=\"_blank\">Bernstein Lifts SanDisk Price Target to $3,000 From $1,700</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bernstein analyst raises SanDisk price target from $1,700 to $3,000. This is an analyst opinion/price-target change rather than a concrete market event or new fundamental disclosure, placing it at impact 3—relevant to a key holding but soft analyst sentiment rather than hard news."
+  },
+  "buffered_ts": 1782911943.9912734
+ }
+]
