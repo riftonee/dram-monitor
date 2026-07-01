@@ -1165,5 +1165,245 @@
    "summary": "SanDisk stock price decline reported, but snippet does not provide a stated cause or specific catalyst. Requires full article review to determine if there is material news (earnings, guidance, supply/demand shift) or if this is merely a price-move observation without new information."
   },
   "buffered_ts": 1782937419.4684818
+ },
+ {
+  "id": "0fdd2f2d9bb316c88a61e87c3a4c9a3d4381d51c",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "BofA Lifts SanDisk To $2,500: Memory Squeeze Isn't Done Yet - Micron Technology (NASDAQ:MU), SanDisk (NAS - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlJxdTdQS0NYOVkwaUxoeW1XanFuR2plNXU3bXUybE9LWVJibmtSSnplYWhOdVcxNVZ5Q3I0c1VWZkQ5VnJfQkc4NkZxcU9IMElUZ0x0Ty1zNHVrQkRQdkF0STZCcXFzZnM0RGhrcDczTGFDWGgwVkJpdHJ1RUZmMS05WkNla2xsMTZ2YnZJM1dXLVpqT2FLUnpOZzVOTlZnMWNTeGNORUZzbFJ0VUtVcUh0SndCWkdiOXhxMm03VXE4Zw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 19:10:41 GMT",
+  "published_ts": 1782933041,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlJxdTdQS0NYOVkwaUxoeW1XanFuR2plNXU3bXUybE9LWVJibmtSSnplYWhOdVcxNVZ5Q3I0c1VWZkQ5VnJfQkc4NkZxcU9IMElUZ0x0Ty1zNHVrQkRQdkF0STZCcXFzZnM0RGhrcDczTGFDWGgwVkJpdHJ1RUZmMS05WkNla2xsMTZ2YnZJM1dXLVpqT2FLUnpOZzVOTlZnMWNTeGNORUZzbFJ0VUtVcUh0SndCWkdiOXhxMm03VXE4Zw?oc=5\" target=\"_blank\">BofA Lifts SanDisk To $2,500: Memory Squeeze Isn't Done Yet - Micron Technology (NASDAQ:MU), SanDisk (NAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BofA raises SanDisk price target to $2,500, citing continued memory market squeeze. Analyst commentary on pricing dynamics and stock outlook for a fund holding, but not a concrete event or new market data—reflects analyst opinion rather than a confirmed development."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "04bd9a13c822fe12cfdc38f21a6c8f8b482fe567",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "Institution: Prices of small-capacity DDR4/DDR3 are rising, while NAND spot prices continue to decline - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZ21tNEpkRHhhWkhJNm5DeFJQM0VESUlabDUtekpxRm1wZmVwUVFxcDBDdEZialh5RFl0bnNZVk5pdHNMaUhhN2c5eXdkanppZVZJUThpbGp2bzhfelJuRmlkNNIBY0FVX3lxTE9YZ21tNEpkRHhhWkhJNm5DeFJQM0VESUlabDUtekpxRm1wZmVwUVFxcDBDdEZialh5RFl0bnNZVk5pdHNMaUhhN2c5eXdkanppZVZJUThpbGp2bzhfelJuRmlkNA?oc=5",
+  "published_at": "Wed, 01 Jul 2026 13:19:25 GMT",
+  "published_ts": 1782911965,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZ21tNEpkRHhhWkhJNm5DeFJQM0VESUlabDUtekpxRm1wZmVwUVFxcDBDdEZialh5RFl0bnNZVk5pdHNMaUhhN2c5eXdkanppZVZJUThpbGp2bzhfelJuRmlkNNIBY0FVX3lxTE9YZ21tNEpkRHhhWkhJNm5DeFJQM0VESUlabDUtekpxRm1wZmVwUVFxcDBDdEZialh5RFl0bnNZVk5pdHNMaUhhN2c5eXdkanppZVZJUThpbGp2bzhfelJuRmlkNA?oc=5\" target=\"_blank\">Institution: Prices of small-capacity DDR4/DDR3 are rising, while NAND spot prices continue to decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Bitget reports mixed spot price movement: small-capacity DDR4/DDR3 prices rising while NAND spot prices declining. Price signals are leading indicators of memory demand and margin pressure, but this report lacks specificity on magnitudes, timeframe, or institutional sourcing detail; it is relevant but soft commentary rather than a concrete, hard-number data point."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "391981d6bb11e49b5f0a434aa3a241e0c70e6b90",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Raising Fair Value Estimates for Korean Memory Suppliers, but Industry Remains Cyclical - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU12eHNPQW5ZcWR0ZXR3SHNyUXFwU3BJRDZ0ajFTY3Rad3hSNE96Z1h6WEh6VlZUQlphUUNfRW11ZTFoNnQ5azg5QXZmMjB3SUo3bnNjNU9fdy1VNU5rZ25iRHFBVTk2WjJ5Y3N0ZEhKYTN1NUJWeGI3VmlfT2RqWXRuYUFXRjBDczFYWThZRU5OWWRTbUhJd1BkbTZlX05IclI2bmxTYlQ1ZkdpekRnb3NIT19XNk1sZmY1TnFRdw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 21:13:50 GMT",
+  "published_ts": 1782940430,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU12eHNPQW5ZcWR0ZXR3SHNyUXFwU3BJRDZ0ajFTY3Rad3hSNE96Z1h6WEh6VlZUQlphUUNfRW11ZTFoNnQ5azg5QXZmMjB3SUo3bnNjNU9fdy1VNU5rZ25iRHFBVTk2WjJ5Y3N0ZEhKYTN1NUJWeGI3VmlfT2RqWXRuYUFXRjBDczFYWThZRU5OWWRTbUhJd1BkbTZlX05IclI2bmxTYlQ1ZkdpekRnb3NIT19XNk1sZmY1TnFRdw?oc=5\" target=\"_blank\">Raising Fair Value Estimates for Korean Memory Suppliers, but Industry Remains Cyclical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morningstar analyst raises fair value estimates for Korean memory suppliers (SK hynix, Samsung), citing improved fundamentals, though notes the cyclical nature of the industry. This is analyst opinion on valuation rather than a concrete event, but directly relevant to major fund holdings."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "2f7b37c5a90a9363187f9c512d9a9c085875e8f6",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "This Analyst Just Upped the Price Target on SanDisk Stock. Here's Why. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejM1T3laTW1sbWJQclNUeERlazhDNk1fTGVoS2ZidE0tYjFMVXpuVUp3N3RPVmJrYVQwOEVSdEJ1R3gyOVh4WFY2MnJveTROR0tYcXd4dEZGZVA2TlhwMUQtVkFFUnZVcGRiTmdNZG10bnVqcWxaajUyUVREeWZpN1czUTd0V3MxRHpXdXEzY2VFRTdFM19lQzlBY0xCRlByakdMaFkxZzhsbkZQQXA1UXpB?oc=5",
+  "published_at": "Wed, 01 Jul 2026 19:09:07 GMT",
+  "published_ts": 1782932947,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPejM1T3laTW1sbWJQclNUeERlazhDNk1fTGVoS2ZidE0tYjFMVXpuVUp3N3RPVmJrYVQwOEVSdEJ1R3gyOVh4WFY2MnJveTROR0tYcXd4dEZGZVA2TlhwMUQtVkFFUnZVcGRiTmdNZG10bnVqcWxaajUyUVREeWZpN1czUTd0V3MxRHpXdXEzY2VFRTdFM19lQzlBY0xCRlByakdMaFkxZzhsbkZQQXA1UXpB?oc=5\" target=\"_blank\">This Analyst Just Upped the Price Target on SanDisk Stock. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst raises price target on SanDisk (SNDK), a DRAM ETF holding. Analyst sentiment and price-target changes are opinion-driven and reflect market interpretation rather than new hard information; this is relevant to the holding but soft impact."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "6ba798c4f073831bcdfea9605ffd9f249e5275aa",
+  "source": "TechStock²",
+  "topic": "pricing",
+  "title": "Micron (NASDAQ:MU) falls after GM contract, traders weigh AI memory bets - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1BObDNkQ2wwRmhTWFhtVnAwMzJWUG5mbTNDb0ZibDdBNUp0Q05VdXRZNGsyRjB0UWozNnA2c3dsTUZyU0dfYlpkajYyTzJVaTQ4MWt0cXZVbEtqM2g2Tkt4VEFtZmRnQWc5cXBTTmpOanBmeUhlaHV2LUZ2LW5CSzhWYXZPeFdBMDdzRFI1ZjRxcDA?oc=5",
+  "published_at": "Wed, 01 Jul 2026 18:56:17 GMT",
+  "published_ts": 1782932177,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1BObDNkQ2wwRmhTWFhtVnAwMzJWUG5mbTNDb0ZibDdBNUp0Q05VdXRZNGsyRjB0UWozNnA2c3dsTUZyU0dfYlpkajYyTzJVaTQ4MWt0cXZVbEtqM2g2Tkt4VEFtZmRnQWc5cXBTTmpOanBmeUhlaHV2LUZ2LW5CSzhWYXZPeFdBMDdzRFI1ZjRxcDA?oc=5\" target=\"_blank\">Micron (NASDAQ:MU) falls after GM contract, traders weigh AI memory bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock declined following a GM contract announcement; traders are evaluating AI memory exposure. The piece discusses trader sentiment and market reaction to existing news rather than reporting a new concrete development or earnings catalyst distinct from prior guidance."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "d8ce490f61945c6599d15ea6f6982e387689ee98",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Bank of America Revamps Sandisk Stock Price Target for 2027 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmt2RnIwUDZTLTlFaUZfWWY5MXRVLWtpSkJIaC1EQmotaXBpLUZJTkU5U2dZdFJ0aHA4cXBkX2RKZnctWmZLS0sxRHpFWkJEa1l3SUpuUlhCcnRDR2JYa2VsX2ZBVDdhT3pQTUsxNHB5YkpkOEdxaXZtR2hDMkNSemF1czhUUFM4a0dLNENhZnZSYVFYNjZQNmNYLUo3MzZlY1JaMEpFUENBVlZ0TkZFV25iTDZSVjh3OXZN?oc=5",
+  "published_at": "Wed, 01 Jul 2026 20:04:00 GMT",
+  "published_ts": 1782936240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmt2RnIwUDZTLTlFaUZfWWY5MXRVLWtpSkJIaC1EQmotaXBpLUZJTkU5U2dZdFJ0aHA4cXBkX2RKZnctWmZLS0sxRHpFWkJEa1l3SUpuUlhCcnRDR2JYa2VsX2ZBVDdhT3pQTUsxNHB5YkpkOEdxaXZtR2hDMkNSemF1czhUUFM4a0dLNENhZnZSYVFYNjZQNmNYLUo3MzZlY1JaMEpFUENBVlZ0TkZFV25iTDZSVjh3OXZN?oc=5\" target=\"_blank\">Bank of America Revamps Sandisk Stock Price Target for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of America revised its SanDisk price target for 2027. Price-target changes by analysts are opinion-based and reflect existing market information rather than new concrete events; they are relevant to the holding but represent soft analysis rather than a market-moving catalyst."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "69aca0da9a9c876b4e62e1fbb48090829a059ad1",
+  "source": "IT Brief Australia",
+  "topic": "industry",
+  "title": "AI demand to push memory fab spending past USD $50bn - IT Brief Australia",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3VMOHAxemxnOWtxdE1EUzlUOGZVdTRoclhsX0xsUnVXeTRmOHlFWW5wSjZOVGc0alZsYXRVTjFWc2RHbmdhZ0dlanIyUFREVXoyTl81OFE1ZHBxa3YzZWxBMndHT3pxUllrVnJWcGxQRzdqdXg3MUxyVlhXSWFZeTZjUWhJUEE?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:00:00 GMT",
+  "published_ts": 1782918000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3VMOHAxemxnOWtxdE1EUzlUOGZVdTRoclhsX0xsUnVXeTRmOHlFWW5wSjZOVGc0alZsYXRVTjFWc2RHbmdhZ0dlanIyUFREVXoyTl81OFE1ZHBxa3YzZWxBMndHT3pxUllrVnJWcGxQRzdqdXg3MUxyVlhXSWFZeTZjUWhJUEE?oc=5\" target=\"_blank\">AI demand to push memory fab spending past USD $50bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Brief Australia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IT Brief Australia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report forecasting that AI demand will drive memory fab capex spending above USD $50 billion. This is a forward-looking projection rather than a confirmed event or hard data point, making it analysis/opinion rather than concrete news. Relevant to the fund's holdings as it speaks to industry capacity decisions, but scored as 3 given it is a forecast/possibility rather than an announced capex commitment or actual spending figure."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "b875794c83a2debd629922ce6b6201e4420c1b28",
+  "source": "Channel Dive",
+  "topic": "industry",
+  "title": "Apple’s MacBook price hikes underscore memory cost woes - Channel Dive",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZl9OTlNVSDVuRndaSGtNUUhXZUVwUExLZFFwU2xLamN6dUpVLXlxeC1YdmozQ25TY0h6Y2h5dC1XbFFSdXJyUWVIUjFCaDduRXRvRmlqQmpoU0Z1eWdDbVNwbEtYUmxYX21VRTNZbW1TeDhpV2c?oc=5",
+  "published_at": "Tue, 30 Jun 2026 21:28:22 GMT",
+  "published_ts": 1782854902,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZl9OTlNVSDVuRndaSGtNUUhXZUVwUExLZFFwU2xLamN6dUpVLXlxeC1YdmozQ25TY0h6Y2h5dC1XbFFSdXJyUWVIUjFCaDduRXRvRmlqQmpoU0Z1eWdDbVNwbEtYUmxYX21VRTNZbW1TeDhpV2c?oc=5\" target=\"_blank\">Apple’s MacBook price hikes underscore memory cost woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel Dive</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Channel Dive"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Apple raising MacBook prices reflects elevated memory component costs, indicating sustained pricing pressure in the DRAM/memory market that affects both OEMs and semiconductor suppliers."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "3769abc06edba626cc80113dbabb3f24a7f309d5",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Sandisk Falls Despite BofA Target Hike - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcngtOXVVaEZ1N0ViN3drVmJhalppTldERWFvSnJSbnhoZ3BlN3Z5SU0tWUg1bk9VX0tKdm5NSllacldERzNseGJ0LWRtQnJGUk5yM21IQUNvS0VCQ2hZVWxDd3NpQnVycXRPNzgtN3JHQkdBNHRUcndUVnhvR0wzTTNtSTZlOE8xZ3NmZUZJS0pfekJLeGxnRHlZdjY5Q1U?oc=5",
+  "published_at": "Wed, 01 Jul 2026 20:03:21 GMT",
+  "published_ts": 1782936201,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcngtOXVVaEZ1N0ViN3drVmJhalppTldERWFvSnJSbnhoZ3BlN3Z5SU0tWUg1bk9VX0tKdm5NSllacldERzNseGJ0LWRtQnJGUk5yM21IQUNvS0VCQ2hZVWxDd3NpQnVycXRPNzgtN3JHQkdBNHRUcndUVnhvR0wzTTNtSTZlOE8xZ3NmZUZJS0pfekJLeGxnRHlZdjY5Q1U?oc=5\" target=\"_blank\">Sandisk Falls Despite BofA Target Hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) declined despite Bank of America raising its price target. The stock move contradicts the analyst upgrade, reflecting broader market sentiment rather than new company-specific information. Analyst target changes on existing holdings are relevant but represent soft opinion rather than concrete events."
+  },
+  "buffered_ts": 1782943148.4373007
+ },
+ {
+  "id": "0f709bd502095ac265903f72bf7549d50ad5b2c1",
+  "source": "IndexBox",
+  "topic": "industry",
+  "title": "Dram Module and Component Global Market Forecast Points Higher Toward 2035 on AI-Driven HBM Demand - IndexBox",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHU5LU13NlRqZENtVmNlLVhFbl9RelJ5N2x1dFpGcm9YUkJIem4xRFRhdHB5SjUzb045eTcxRWNxSEFJWERSaW1yZk80OFFIa1NxNUlDa2xwYnNIQV9PRFNSQTVfaUJSOHZPM1ZiVVltR2FSNjRpSmFCOWZuTFBibFJMQWFBSG9RYXUtTU0wNlRwZVFSUnFPR3dfVmlKU0gxSFltVkl3bTZ4TGd4ZFhZdEMxUzJ2LVhNMWFJUnBDY3IxYXg0a2dN?oc=5",
+  "published_at": "Wed, 01 Jul 2026 21:41:22 GMT",
+  "published_ts": 1782942082,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHU5LU13NlRqZENtVmNlLVhFbl9RelJ5N2x1dFpGcm9YUkJIem4xRFRhdHB5SjUzb045eTcxRWNxSEFJWERSaW1yZk80OFFIa1NxNUlDa2xwYnNIQV9PRFNSQTVfaUJSOHZPM1ZiVVltR2FSNjRpSmFCOWZuTFBibFJMQWFBSG9RYXUtTU0wNlRwZVFSUnFPR3dfVmlKU0gxSFltVkl3bTZ4TGd4ZFhZdEMxUzJ2LVhNMWFJUnBDY3IxYXg0a2dN?oc=5\" target=\"_blank\">Dram Module and Component Global Market Forecast Points Higher Toward 2035 on AI-Driven HBM Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IndexBox"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Market forecast report highlighting AI-driven HBM demand expected to support DRAM module and component market growth through 2035. Forecast-based analysis with no new concrete data or pricing information disclosed."
+  },
+  "buffered_ts": 1782943148.4373007
  }
 ]
