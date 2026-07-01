@@ -2577,5 +2577,605 @@
    "summary": "Article discusses how the data center boom is exacerbating memory shortages. This is relevant to DRAM holdings as it relates to AI-infrastructure capex driving memory demand, but the piece appears to be analysis/commentary rather than reporting a specific new event, capacity announcement, or pricing development."
   },
   "buffered_ts": 1782887040.1593568
+ },
+ {
+  "id": "d7fa1239c2ce6078644ae87d544b53761a721cd3",
+  "source": "Air Liquide",
+  "topic": "holding",
+  "title": "Air Liquide invests over 170M USD in the U.S. to support SK hynix’s ambition to build a global AI memory ecosystem - Air Liquide",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeWJCZU5ZdHUxaTk1eFNseGYtQlAwbll1Znk1SHB4MnZRbzhTUVUxdFBMWEpZODlmWF9zYWFHV0IwZVpsOVBFcnM5OHJUa2RsekQ5cHJZRFcyVWNXX0pSd0pxQXZ6c3pieWR4TVY0bzNCeGRKN0RJOEg5Rmp4OVI3UVctUk9hcWlkT3lCcXdRR3dGNkR4NHA0VHY2U2pSS3ROZnFOMHdzRl9FUjBfM1BDQW9CZmxjQncyYXUxTGFrM2tUZVVSYnhfYUVUdTQySW1kR28yMmp4bVRmR2ZuYmxkQU5jQTI3RjVnQ2RfX29FdEp6Zw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 06:43:20 GMT",
+  "published_ts": 1782888200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeWJCZU5ZdHUxaTk1eFNseGYtQlAwbll1Znk1SHB4MnZRbzhTUVUxdFBMWEpZODlmWF9zYWFHV0IwZVpsOVBFcnM5OHJUa2RsekQ5cHJZRFcyVWNXX0pSd0pxQXZ6c3pieWR4TVY0bzNCeGRKN0RJOEg5Rmp4OVI3UVctUk9hcWlkT3lCcXdRR3dGNkR4NHA0VHY2U2pSS3ROZnFOMHdzRl9FUjBfM1BDQW9CZmxjQncyYXUxTGFrM2tUZVVSYnhfYUVUdTQySW1kR28yMmp4bVRmR2ZuYmxkQU5jQTI3RjVnQ2RfX29FdEp6Zw?oc=5\" target=\"_blank\">Air Liquide invests over 170M USD in the U.S. to support SK hynix’s ambition to build a global AI memory ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Air Liquide</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Air Liquide"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide announced a $170M+ investment in the U.S. to support SK hynix's AI memory ecosystem expansion. This is a concrete, material infrastructure commitment by a major supplier backing a fund holding's (SK hynix) stated capex ambitions for AI-driven memory production."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "8a436bd2c0bafa76e9d19bb223a97225f6a8bd81",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "SK hynix targets Nasdaq funds to boost Korea fabs and adopt EUV for AI memory - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54eWxxVER3LTd2Z3h0WGNUcVRTQ05KRzI3bUlhNUtCMXVIN2otZk8yQ3RBMjhwUlIzcDB1ZUdsdWRwT3l1MFAtT1RfWmM1SDZuYW1Fdm5BeUpYeS1Yb2pOczNRVlFNMTl3ZnJueDRCSUM2RkcxbTE5eWlR0gGOAUFVX3lxTE9SWjlsUU83SUROdExleE9IdW82Y0NtZzI0NnNVU1I1M09QQmN0UmY2a2xjNmtKeGdrV0RhQXB6N005WmlTNXZXUzkwNm5zV184RGc4dF91elRoaklzbVFPZHZlOWYzaFhyRkVTUjE0aFZ5aTF1OEVoWkpvNjhRZ0hXUFBBbkd4ajg2OXpJWXc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 08:17:00 GMT",
+  "published_ts": 1782893820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54eWxxVER3LTd2Z3h0WGNUcVRTQ05KRzI3bUlhNUtCMXVIN2otZk8yQ3RBMjhwUlIzcDB1ZUdsdWRwT3l1MFAtT1RfWmM1SDZuYW1Fdm5BeUpYeS1Yb2pOczNRVlFNMTl3ZnJueDRCSUM2RkcxbTE5eWlR0gGOAUFVX3lxTE9SWjlsUU83SUROdExleE9IdW82Y0NtZzI0NnNVU1I1M09QQmN0UmY2a2xjNmtKeGdrV0RhQXB6N005WmlTNXZXUzkwNm5zV184RGc4dF91elRoaklzbVFPZHZlOWYzaFhyRkVTUjE0aFZ5aTF1OEVoWkpvNjhRZ0hXUFBBbkd4ajg2OXpJWXc?oc=5\" target=\"_blank\">SK hynix targets Nasdaq funds to boost Korea fabs and adopt EUV for AI memory - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced plans to target Nasdaq funds for investment to boost Korean fab capacity and adopt EUV (extreme ultraviolet) technology for AI memory production. This represents a concrete capital investment decision and strategic commitment to expand HBM/AI memory capacity, a material development for the holding."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "3fabb3de160b0abc78e69ad3c7d24ec5b3188e27",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Air Liquide To Invest $170 Mln In US To Supply Ultra-Pure Gas To SK Hynix - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVEVwOC1wT1Bwak56RVptQVRUNzd0c2RXemVCTlpDWHQtTW1qMDZjdXdobHJ6TVd6UFQ0Rnp0UDdVZUZyaVh2eUtINlN5ZWh3UnM1VERFVk5TSzdJYkE4alMya0hIblEzUFpwNjNSd0xoNjVOT05VR1c3dUt3d2NBSUVWWDlRSjFOZkwwNjBuUDN5VGoteUF4M2YxTjJTMk91Q1FZSFU4eXllR0trSUU4ZnJHQXg5ZjktSTVUZzd0cE0tcnNkREROTGtHUnViUjhVVXJGSmFVeFp1UQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 06:51:00 GMT",
+  "published_ts": 1782888660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVEVwOC1wT1Bwak56RVptQVRUNzd0c2RXemVCTlpDWHQtTW1qMDZjdXdobHJ6TVd6UFQ0Rnp0UDdVZUZyaVh2eUtINlN5ZWh3UnM1VERFVk5TSzdJYkE4alMya0hIblEzUFpwNjNSd0xoNjVOT05VR1c3dUt3d2NBSUVWWDlRSjFOZkwwNjBuUDN5VGoteUF4M2YxTjJTMk91Q1FZSFU4eXllR0trSUU4ZnJHQXg5ZjktSTVUZzd0cE0tcnNkREROTGtHUnViUjhVVXJGSmFVeFp1UQ?oc=5\" target=\"_blank\">Air Liquide To Invest $170 Mln In US To Supply Ultra-Pure Gas To SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide announced a $170 million investment in the US to supply ultra-pure gases to SK hynix, signaling concrete capital commitment to support a key holding's fab operations and capacity expansion."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "bed6e796a55cff3ffeac0d43e42544631d901203",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Memory Chip Giants Face US Class Action Over DRAM Price Fixing - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHcxYzhrME1CN0x1MEZRLW5CV09VSXYyNWJyY21CTVFyQUYxZGl6RlM1d2N4SUJhdmlqck5IY1NBMlRlNVlBMzU1emFZVWxFYkNWX3c1MU5WZVk0d0tiVk5MYWk1ZU1aZFoyYXFDZVVBUVFTTHByRGw3emVXRjA2eDFiUzN4RzdWMXVLQXNvUEgtS2dqM1ZTM2lQMUtHVVVmUnc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 05:07:07 GMT",
+  "published_ts": 1782882427,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHcxYzhrME1CN0x1MEZRLW5CV09VSXYyNWJyY21CTVFyQUYxZGl6RlM1d2N4SUJhdmlqck5IY1NBMlRlNVlBMzU1emFZVWxFYkNWX3c1MU5WZVk0d0tiVk5MYWk1ZU1aZFoyYXFDZVVBUVFTTHByRGw3emVXRjA2eDFiUzN4RzdWMXVLQXNvUEgtS2dqM1ZTM2lQMUtHVVVmUnc?oc=5\" target=\"_blank\">Memory Chip Giants Face US Class Action Over DRAM Price Fixing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Memory chip giants (likely including DRAM fund holdings such as Micron, SK hynix, and Samsung) face a US class action lawsuit alleging DRAM price fixing. This is a concrete legal development with potential material consequences for multiple fund holdings."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "72072285053921bb887a3d4bba8ed0e618618e0e",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "SK hynix files amended F-1 with SEC, as it begins US IPO process - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckstOWQwRS1FQUM1N09JMDFTQkpMSDhHVjNQN1FNbGlibFZOSVFmTEpxdXNKOUxtTnlyVmlHMFFkVHB2bktGUUFJRmxSWWdlY2R4QzJaTHRUdmJsSnZhcFMzRElBRGRsc1pXMjEtR296VHNoRmpaa05uUWdidWZXRTA5SHJZYjZodmw1WnZZb21oRUxOYXhWdTVlbk5zTUVTZVBET1lLQzBTRS1ZT25YSDN5dzdQSGxZb2VqMNIBwgFBVV95cUxQNFVETWwzWUhBdTl0b2dEZ3Y0STdNV1pYTVVrbkNjbUlSSVAwWjM4V3AyOU1xUHNPRDJ5Z1VtS3FtTEFJQjN6UlF0cGNtQnJsYUVWbEJCTm92eUQ0VktzRDRBY1VWRWVhck1YMzlUTkd6dkxHcW16RVZzUzJyQ3FqZ0xuakxwUHJ1S0YwcVEtbGNzWVNGbTFFQ2R6b2tFdmN6SFFSYzRQQ3FoNDRDaDVVbF9GeFptb3dHb3ZtVThZWGVNdw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 05:01:02 GMT",
+  "published_ts": 1782882062,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNckstOWQwRS1FQUM1N09JMDFTQkpMSDhHVjNQN1FNbGlibFZOSVFmTEpxdXNKOUxtTnlyVmlHMFFkVHB2bktGUUFJRmxSWWdlY2R4QzJaTHRUdmJsSnZhcFMzRElBRGRsc1pXMjEtR296VHNoRmpaa05uUWdidWZXRTA5SHJZYjZodmw1WnZZb21oRUxOYXhWdTVlbk5zTUVTZVBET1lLQzBTRS1ZT25YSDN5dzdQSGxZb2VqMNIBwgFBVV95cUxQNFVETWwzWUhBdTl0b2dEZ3Y0STdNV1pYTVVrbkNjbUlSSVAwWjM4V3AyOU1xUHNPRDJ5Z1VtS3FtTEFJQjN6UlF0cGNtQnJsYUVWbEJCTm92eUQ0VktzRDRBY1VWRWVhck1YMzlUTkd6dkxHcW16RVZzUzJyQ3FqZ0xuakxwUHJ1S0YwcVEtbGNzWVNGbTFFQ2R6b2tFdmN6SFFSYzRQQ3FoNDRDaDVVbF9GeFptb3dHb3ZtVThZWGVNdw?oc=5\" target=\"_blank\">SK hynix files amended F-1 with SEC, as it begins US IPO process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix files amended F-1 registration with SEC to begin its US IPO process. This is a concrete, officially disclosed regulatory filing representing a material corporate action by a major DRAM holding that will affect fund composition and potentially introduce new capital structure considerations."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "4368c198b1290f85fafea717fd41d2f828d785af",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Key facts: SanDisk adopts NAND LTAs; Jefferies raises SNDK PT $3,000 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRVaS1ldWNHeWE2eG1zZFRyQkJQRTJvNW1EaDZBTktIcEJPTTcyR1VURC1IbE53Yi05U3YtQnNYVUlBMUpraFN4ZmtDOU02YUJ6Snd4UWRGOTM1V3Vua21ackJaM1ctUnI2LXkxeDktaWFNa3BKRktCanNOTlZoSl9RUDRKb0FqYWNjUlFzYlhrT0pUZXNVSUpRaGUzREtDOWxTUWpUQUpoS2lmR0RBdVI4MjEwTFVEYUVzbjB4di1ObWhjRVE?oc=5",
+  "published_at": "Wed, 01 Jul 2026 07:13:33 GMT",
+  "published_ts": 1782890013,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRVaS1ldWNHeWE2eG1zZFRyQkJQRTJvNW1EaDZBTktIcEJPTTcyR1VURC1IbE53Yi05U3YtQnNYVUlBMUpraFN4ZmtDOU02YUJ6Snd4UWRGOTM1V3Vua21ackJaM1ctUnI2LXkxeDktaWFNa3BKRktCanNOTlZoSl9RUDRKb0FqYWNjUlFzYlhrT0pUZXNVSUpRaGUzREtDOWxTUWpUQUpoS2lmR0RBdVI4MjEwTFVEYUVzbjB4di1ObWhjRVE?oc=5\" target=\"_blank\">Key facts: SanDisk adopts NAND LTAs; Jefferies raises SNDK PT $3,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, has adopted NAND long-term agreements (LTAs), a concrete commercial development signaling demand commitment and supply security. Jefferies simultaneously raised its price target to $3,000, reflecting confidence in the move's strategic value."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "8491e1482c9f93054f5e3f81ceedf56c3b2485ae",
+  "source": "Seoul Economic Daily",
+  "topic": "pricing",
+  "title": "DRAM Prices Rise 5% in June; Up to 20% More Seen in Q3 - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3dKYU9oSXQ4RjZTTlhyUzdTZ09aTzNQckYwdEZkUWdULTZvWHVYSm9nQTJQTjFsV0ZhM2RVZW1QLVBvbnN0QWx0U0F1QWdOM053NTV1TGFBMUV5RzcyZFZ4NS1HZzNUUi1NYU8yOHlFbi1LTUx2VHFMNnRnYjhrQVItdG9ReEVBTFktdnVjX2NRb3pqMUJTNGFYVk4xWlk?oc=5",
+  "published_at": "Wed, 01 Jul 2026 08:55:10 GMT",
+  "published_ts": 1782896110,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3dKYU9oSXQ4RjZTTlhyUzdTZ09aTzNQckYwdEZkUWdULTZvWHVYSm9nQTJQTjFsV0ZhM2RVZW1QLVBvbnN0QWx0U0F1QWdOM053NTV1TGFBMUV5RzcyZFZ4NS1HZzNUUi1NYU8yOHlFbi1LTUx2VHFMNnRnYjhrQVItdG9ReEVBTFktdnVjX2NRb3pqMUJTNGFYVk4xWlk?oc=5\" target=\"_blank\">DRAM Prices Rise 5% in June; Up to 20% More Seen in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "DRAM spot prices rose 5% in June with forecasts of an additional 20% increase in Q3, signaling a material shift in the pricing cycle that typically precedes earnings moves for memory semiconductor holdings like Micron, SK hynix, and Samsung."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "d4752582c643e2a4b18905af7b344d91285be849",
+  "source": "gasworld",
+  "topic": "holding",
+  "title": "Air Liquide to build gas plants for SK Hynix’s US chip facility - gasworld",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnJPQzlIczZ5WUZ1VkpOdTJhYUhKTlhyTnpITEVkQjNkSmZKbkY2N05sY2t1REt0MGVIREc3aDNIeEt4RDZGaVNZVkNhbTFiLUJjTElwWjVaZV9pRWc3UWM4SEllUTFYdjlRaURlV3BMU3pHOVdjRDhhN2poNXZROGlpemZLVFV6Ukx0djZ3dXI4ZFAxOFhyUHV2LUZBb092MUFMLWJDRjByUHR4V1ZJ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 08:08:02 GMT",
+  "published_ts": 1782893282,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnJPQzlIczZ5WUZ1VkpOdTJhYUhKTlhyTnpITEVkQjNkSmZKbkY2N05sY2t1REt0MGVIREc3aDNIeEt4RDZGaVNZVkNhbTFiLUJjTElwWjVaZV9pRWc3UWM4SEllUTFYdjlRaURlV3BMU3pHOVdjRDhhN2poNXZROGlpemZLVFV6Ukx0djZ3dXI4ZFAxOFhyUHV2LUZBb092MUFMLWJDRjByUHR4V1ZJ?oc=5\" target=\"_blank\">Air Liquide to build gas plants for SK Hynix’s US chip facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gasworld</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "gasworld"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide to build gas plants supporting SK Hynix's US chip facility expansion—a concrete infrastructure commitment enabling material capacity increase by a key fund holding."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "e5401867b421ba15ee93ef02909bfbf44efcbf48",
+  "source": "富途牛牛",
+  "topic": "pricing",
+  "title": "Management prioritizes 'pricing and profit margins,' NAND capacity expansion remains limited, and Goldman Sachs has again raised its target price for Kioxia. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHJuZGtzdDFtZ0xCNHZOQzZHeXZtV2YxSENieHFUMWhHWEJVZkFNdmJ5TE5wZnJYRXI1Sk1fbWpoMXNKdnBMMVRDLU9zZU91YVpnaGJHY1BDSFBIU0lnVVVpdmFCVW9Ec2s0UXVEOGo2eDdQdXowTXRoMjdzbFRWQko1c0I4ZDNXamw3cVRiMmIwLWoxajRzNnZsTEwtTHRfczc2UzFoTkExWnNhamRrVDNtZHVPenBIWnltYTJqUQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 07:08:25 GMT",
+  "published_ts": 1782889705,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHJuZGtzdDFtZ0xCNHZOQzZHeXZtV2YxSENieHFUMWhHWEJVZkFNdmJ5TE5wZnJYRXI1Sk1fbWpoMXNKdnBMMVRDLU9zZU91YVpnaGJHY1BDSFBIU0lnVVVpdmFCVW9Ec2s0UXVEOGo2eDdQdXowTXRoMjdzbFRWQko1c0I4ZDNXamw3cVRiMmIwLWoxajRzNnZsTEwtTHRfczc2UzFoTkExWnNhamRrVDNtZHVPenBIWnltYTJqUQ?oc=5\" target=\"_blank\">Management prioritizes 'pricing and profit margins,' NAND capacity expansion remains limited, and Goldman Sachs has again raised its target price for Kioxia.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Kioxia management prioritizing pricing and profit margins with limited NAND capacity expansion; Goldman Sachs raised price target. Relevant to DRAM fund as NAND pricing dynamics and supply constraints affect memory sector sentiment, though Kioxia is not a direct holding. The pricing discipline and capacity restraint are soft signals (analyst action and management commentary) rather than concrete events."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "61cf16d5b44b889096cd2197b0a440a41d1fdce2",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[Insights] Memory Spot Price Update: DRAM Spot Prices See Gains in Low-Density DDR4 and DDR3 Amid Sideways Market - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVRLZTV2bTVNbW55SFdiYUdSc0VHQ3VnTnB1am9nakxlQzY5X09ucERCNHFtXzZ5UU5ERWJ0YTVaSFNVQVU0ejcwdHR2R3kyaUFHU0p2QUpzNi1VWUM2MlB0UFZyUjk1Q2FhYzh4UEQ0NENKV09veFZzU25vX3djRDVfT1Q1SHktb0JidE1iaDVrUC10OVpiT2FzQUlOV25hNUhUMXk5Y25rM2FmT2JseGZJMG42TkN0SXVPR2VKeTFSdzJWa3psUkJpQ0xzekF6ZVRCVGxlTzNCY0VHckxhQmVxSmFRZXRPaGc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 04:17:22 GMT",
+  "published_ts": 1782879442,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVRLZTV2bTVNbW55SFdiYUdSc0VHQ3VnTnB1am9nakxlQzY5X09ucERCNHFtXzZ5UU5ERWJ0YTVaSFNVQVU0ejcwdHR2R3kyaUFHU0p2QUpzNi1VWUM2MlB0UFZyUjk1Q2FhYzh4UEQ0NENKV09veFZzU25vX3djRDVfT1Q1SHktb0JidE1iaDVrUC10OVpiT2FzQUlOV25hNUhUMXk5Y25rM2FmT2JseGZJMG42TkN0SXVPR2VKeTFSdzJWa3psUkJpQ0xzekF6ZVRCVGxlTzNCY0VHckxhQmVxSmFRZXRPaGc?oc=5\" target=\"_blank\">[Insights] Memory Spot Price Update: DRAM Spot Prices See Gains in Low-Density DDR4 and DDR3 Amid Sideways Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce reports spot price gains in low-density DDR4 and DDR3 DRAM amid a sideways market. Spot prices are a leading indicator of memory cycle health and typically precede moves in holdings like Micron, SK hynix, and Samsung, but this is market analysis/observation rather than a concrete event or hard number with specific magnitudes."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "56d49cebe2d15bbe9314dc2c20448c89061fad1b",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "Apple CEO Tim Cook Flags 'Extreme Shortage' While DRAM ETF Smashes $25 Billion, Surging Over 170% Since L - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNazVuN2xmUnFhTVBfUzFTQ0FRUktub0JaYnd0YlpNTG4xejhualJiVWlkUUYtbUFTTG9xdEcwQ0l0d01KTXp6RUFLMzNjeG9WVFBqV1ZyVEhVLTl2czMwRGlVNzluRGtKN0lzVV8xSktDdGQwbWloUDFnRklKRkxlXy1JTDdsQTFmZGgyTjJHMnB5b0liU3U4ME9xblJTTm82SE92b3VmS3V0cG9VdS1jdHpyaXlDVnJENXRwRWJJSEoxc1dwQUwtME43cWVSUHRyVFhtLWU0ZDBiTzAzOG1ESTFtSmo5Yk5OaFViUG5ZZ19CRlQ3bVE?oc=5",
+  "published_at": "Wed, 01 Jul 2026 07:44:21 GMT",
+  "published_ts": 1782891861,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNazVuN2xmUnFhTVBfUzFTQ0FRUktub0JaYnd0YlpNTG4xejhualJiVWlkUUYtbUFTTG9xdEcwQ0l0d01KTXp6RUFLMzNjeG9WVFBqV1ZyVEhVLTl2czMwRGlVNzluRGtKN0lzVV8xSktDdGQwbWloUDFnRklKRkxlXy1JTDdsQTFmZGgyTjJHMnB5b0liU3U4ME9xblJTTm82SE92b3VmS3V0cG9VdS1jdHpyaXlDVnJENXRwRWJJSEoxc1dwQUwtME43cWVSUHRyVFhtLWU0ZDBiTzAzOG1ESTFtSmo5Yk5OaFViUG5ZZ19CRlQ3bVE?oc=5\" target=\"_blank\">Apple CEO Tim Cook Flags 'Extreme Shortage' While DRAM ETF Smashes $25 Billion, Surging Over 170% Since L</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Benzinga reports on DRAM ETF's strong performance—$25B AUM and 170%+ surge—alongside Tim Cook's remarks on chip shortages. The piece is fund-focused (AUM and returns) rather than a concrete catalyst; Apple's shortage comment is secondary framing and not a new announcement. Fund performance milestones and price moves driven by already-known market conditions are soft news."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "985d92edb62e491bac9395c994a1400715e0586e",
+  "source": "igor´sLAB",
+  "topic": "pricing",
+  "title": "Lenovo speaks of “RAMageddon” as the new normal: memory prices could remain a permanent problem - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm9mYUpNdTd5bWx0T2JHd0U0OVZ2Mk5jdUU5SXJhR2JCcGRnMzZDVXZJcjF1c3lKREZobjVZRGVOMWkyZnJZdXB2TTBHbUFUT3Z0RzJsanB2NlhCYVM3TU5GWW9GTVZaT0RnLTlQLUoyNTJSYzVTTEtVVUY2aUJDQUNRQWI3SHp0NWhkNHdKOGJwZlN0MVFNR0UtMC1Ra3FPZ3AyOWZZVTNsaHFvOUdQX0k2VFdXVmpRR29EOQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 04:00:00 GMT",
+  "published_ts": 1782878400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm9mYUpNdTd5bWx0T2JHd0U0OVZ2Mk5jdUU5SXJhR2JCcGRnMzZDVXZJcjF1c3lKREZobjVZRGVOMWkyZnJZdXB2TTBHbUFUT3Z0RzJsanB2NlhCYVM3TU5GWW9GTVZaT0RnLTlQLUoyNTJSYzVTTEtVVUY2aUJDQUNRQWI3SHp0NWhkNHdKOGJwZlN0MVFNR0UtMC1Ra3FPZ3AyOWZZVTNsaHFvOUdQX0k2VFdXVmpRR29EOQ?oc=5\" target=\"_blank\">Lenovo speaks of “RAMageddon” as the new normal: memory prices could remain a permanent problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "igor´sLAB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Lenovo commentary on persistent memory pricing pressures ('RAMageddon'), suggesting elevated DRAM costs may persist as a structural issue rather than a cyclical spike. Opinion-based pricing outlook with no concrete price data or supply event reported."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "b22340e45e061c54722b383f92f801d89458b0b1",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTdEU1N5aGVHMS1IR3NPUnBVMzVTdVVhSU9YZnFCbzFmNmlOTTFkM3h5djZONE5hV0lUWnFuWEFkam5BSWotblBZYXBqaDA4dXdOVGFpX19LYkdteXVwbk1MRUZ6X0FQT0tKcHQ2M2RBV2hSY1JxVnRuMkVhS1NmS25JZ1pEbVhLSjgw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 07:31:39 GMT",
+  "published_ts": 1782891099,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTdEU1N5aGVHMS1IR3NPUnBVMzVTdVVhSU9YZnFCbzFmNmlOTTFkM3h5djZONE5hV0lUWnFuWEFkam5BSWotblBZYXBqaDA4dXdOVGFpX19LYkdteXVwbk1MRUZ6X0FQT0tKcHQ2M2RBV2hSY1JxVnRuMkVhS1NmS25JZ1pEbVhLSjgw?oc=5\" target=\"_blank\">Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are planning southwest fab expansion in South Korea's Gwangju region, connecting to regional silicon photonics development. The story discusses strategic fab positioning by two major fund holdings but reports plans and ambitions rather than confirmed capacity decisions or a concrete production/investment announcement."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "b90245c3c1b0c558a11706b8fc3f97942b3026be",
+  "source": "Indiatimes",
+  "topic": "holding",
+  "title": "World's three largest memory chipmakers sued in US over DRAM supply shift to AI memory - Indiatimes",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWEZsMm14aWl2eXF3cFM5SmluRFpRdlFLd2paYnZRaUhHRlNsbWNkOXlTcnlQcTI4RUN6VTljbncydXkzQW0wZXVzb1ZWNFFpM09SampKaENlVlZ5bXlmZWhXa19BNjdkMklyOWdjOTJwa0xyVFYydUFiV1R5RncxN3dfbk5mTk8yX1JQTVZia0k2OFJ2ZDBrUFZjd1ZmZzFGSURPampPU01TMERZMkhGbk9VWkdVSVl2dHI5c202QVJYSEgzUVJtWXV6VHNycmVxWEdIUk9sWDBROTjSAeABQVVfeXFMTnJrdFlITjZnVWRmNk1URVpybG8teFljZkJDZGJYczhCMkdRelJiNHVRdzVyYXJNZlpJSFZOX3RLdnl6UW9XbzFoOS1DRWUtTWd2dFNaNnVGRTdOakZQT0F1Ym1CZEk0SWp3UWdjNjBRWHN1bThTSDlyLW1rWk5rMVNxUnBqVUx4bFlXLUlFSjFMcUlrdWZ2UDJ5Sk1iNTgzeWZJTm45cG9Db05HNlBXMC1PT0p0Z2p0SUNvUmVBdTRxdk84OXZyZ1J6S2RpTFB3SDQwTTNBR1hBUjQ5cnQtM2M?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:36:13 GMT",
+  "published_ts": 1782837373,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWEZsMm14aWl2eXF3cFM5SmluRFpRdlFLd2paYnZRaUhHRlNsbWNkOXlTcnlQcTI4RUN6VTljbncydXkzQW0wZXVzb1ZWNFFpM09SampKaENlVlZ5bXlmZWhXa19BNjdkMklyOWdjOTJwa0xyVFYydUFiV1R5RncxN3dfbk5mTk8yX1JQTVZia0k2OFJ2ZDBrUFZjd1ZmZzFGSURPampPU01TMERZMkhGbk9VWkdVSVl2dHI5c202QVJYSEgzUVJtWXV6VHNycmVxWEdIUk9sWDBROTjSAeABQVVfeXFMTnJrdFlITjZnVWRmNk1URVpybG8teFljZkJDZGJYczhCMkdRelJiNHVRdzVyYXJNZlpJSFZOX3RLdnl6UW9XbzFoOS1DRWUtTWd2dFNaNnVGRTdOakZQT0F1Ym1CZEk0SWp3UWdjNjBRWHN1bThTSDlyLW1rWk5rMVNxUnBqVUx4bFlXLUlFSjFMcUlrdWZ2UDJ5Sk1iNTgzeWZJTm45cG9Db05HNlBXMC1PT0p0Z2p0SUNvUmVBdTRxdk84OXZyZ1J6S2RpTFB3SDQwTTNBR1hBUjQ5cnQtM2M?oc=5\" target=\"_blank\">World's three largest memory chipmakers sued in US over DRAM supply shift to AI memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Indiatimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "World's three largest memory chipmakers (likely SK hynix, Samsung, Micron) sued in US over DRAM supply shift to AI memory. Litigation alleges anticompetitive conduct around memory allocation to AI applications. This is a legal development with potential regulatory/competition implications for the industry, but the actual outcome and impact on supply/pricing remain uncertain at this stage."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "b0c2d942bb0cb9a63be4e4cff128f4fbcc2f1e45",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "KLA (KLAC) Could See Fresh Demand From Samsung And SK Hynix's $1.3 Trillion Plan - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNalYzalpWRzRPTWxSOEVyMEw5Tkh3bHl4Zl8xaXg3eXN4aGJRS1BhRUY0anBsQW1BTjFZb0dEbzhvdFFYNFV0bkxuVnZWek83bGE0R25TcmNaMFN5NG5veUgtZU4tQXU2b21nZEJkRmx3WWc0emFsLWxocW1MYmJYUWtXMGNqejJxenlOWlZpcVJDc2c?oc=5",
+  "published_at": "Wed, 01 Jul 2026 00:16:00 GMT",
+  "published_ts": 1782864960,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNalYzalpWRzRPTWxSOEVyMEw5Tkh3bHl4Zl8xaXg3eXN4aGJRS1BhRUY0anBsQW1BTjFZb0dEbzhvdFFYNFV0bkxuVnZWek83bGE0R25TcmNaMFN5NG5veUgtZU4tQXU2b21nZEJkRmx3WWc0emFsLWxocW1MYmJYUWtXMGNqejJxenlOWlZpcVJDc2c?oc=5\" target=\"_blank\">KLA (KLAC) Could See Fresh Demand From Samsung And SK Hynix's $1.3 Trillion Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix's announced $1.3 trillion investment plan to boost semiconductor capacity could drive demand for KLA's equipment. While this signals strong industry capex intentions that support memory demand, the story is analysis of potential downstream effects rather than a confirmed new order or contract. The plan itself appears previously disclosed, making this a forward-looking commentary rather than a fresh concrete event."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "fce069d1544a97cf0effe982a09d043f7db3fd31",
+  "source": "NAI500",
+  "topic": "holding",
+  "title": "SanDisk’s 858% Surge Is No Fluke—Three Days of Turmoil Only Strengthened the Case - NAI500",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMEdaaHhjbl9paDRfbGVXUVNfSFhPdnBER0F4ZVp5RGM3UFlhV0V0QjRILUV2TUljYm0xbGduN2tnV0t3QldoSloxWmhsdW94Mm0yMkhWZnNSV2xmdlhxYmt2akpaM3FlcFV1cWJ4eVZIbkprOTNMVjMwX2ZWaHpNcFdZcHU3VlNVMDZPRGVxSmdGNFNOMThlMXdoNGpjNlFRNTBjcFU2QkVlc2hnWXhhazBR?oc=5",
+  "published_at": "Wed, 01 Jul 2026 08:57:52 GMT",
+  "published_ts": 1782896272,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMEdaaHhjbl9paDRfbGVXUVNfSFhPdnBER0F4ZVp5RGM3UFlhV0V0QjRILUV2TUljYm0xbGduN2tnV0t3QldoSloxWmhsdW94Mm0yMkhWZnNSV2xmdlhxYmt2akpaM3FlcFV1cWJ4eVZIbkprOTNMVjMwX2ZWaHpNcFdZcHU3VlNVMDZPRGVxSmdGNFNOMThlMXdoNGpjNlFRNTBjcFU2QkVlc2hnWXhhazBR?oc=5\" target=\"_blank\">SanDisk’s 858% Surge Is No Fluke—Three Days of Turmoil Only Strengthened the Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NAI500</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NAI500"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece analyzing SanDisk's recent 858% stock surge and arguing the gains are justified despite market turmoil. No new concrete developments about the company's memory business, operations, or earnings—analysis and market commentary on an existing price move."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "5931be0ba4045498e6b727826ac7afffff94a4e5",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Overseas Research Daily 0701 | Bernstein Raises SanDisk's Target Price to $3,000 - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEFGbk53anNGSWxJNEtlUGZTLXhOMW11UHBmR2VyM2h5TU5NLUJmZUxNM3Q4bEJNbzF0MU02UVVFcVhSWk4wMXpidlNtTW1FUEtNNzlRMkJHQVJ1SjdDYnBTS3AtMnJ4T1lRbmtBVWZNaXhQckl4MkFqTGlKNy1iY28yZi1sVk1ZSktHdXhCU2g1WG5maGMxSzkzX1BHeUFidEthNE1aR0ZKeGVWU3c?oc=5",
+  "published_at": "Wed, 01 Jul 2026 09:23:29 GMT",
+  "published_ts": 1782897809,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEFGbk53anNGSWxJNEtlUGZTLXhOMW11UHBmR2VyM2h5TU5NLUJmZUxNM3Q4bEJNbzF0MU02UVVFcVhSWk4wMXpidlNtTW1FUEtNNzlRMkJHQVJ1SjdDYnBTS3AtMnJ4T1lRbmtBVWZNaXhQckl4MkFqTGlKNy1iY28yZi1sVk1ZSktHdXhCU2g1WG5maGMxSzkzX1BHeUFidEthNE1aR0ZKeGVWU3c?oc=5\" target=\"_blank\">Overseas Research Daily 0701 | Bernstein Raises SanDisk's Target Price to $3,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bernstein raises SanDisk's price target to $3,000. Price-target changes by analysts represent soft, opinion-based forecasts rather than concrete market-moving events; they reflect analyst sentiment but do not constitute new hard information about the company's fundamentals or a confirmed corporate action."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "d1a2949d35ce8dbe9e71cf462d8e9a87dbc48465",
+  "source": "Indiatimes",
+  "topic": "industry",
+  "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - Indiatimes",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkoxcEJtY05OWTNLaFFYVkQyNTZUVzBzZkFESVNwNHF5YjNMbENYWXhoX0VRaEE3dl9oOU9ONzg0UFpLb29icEVxQ1BuMHF0TUdLejg1UHdxa2tWckxxaHVWZGJQMnRPalR0ZjNEeUJPejJOZFpyMHJZdU1STHdPdGZOelVYMUZqR0QxN0x4Zm13VU9FblZhRHo3NTFDWjVEaVdUOVZGNzZxV00zbGdva1AwbVpTRDZSSEN0dU1QUG5wR1BXNEx2WWotR1JoNldEZ0tzRG42cE1SYnFvcWZZ0gHkAUFVX3lxTE5rV1d0QXp5UFpGdk9vdU55Q2lmQzJXVERHR2ZSTktpWk02UG9kN1M4MWVNM2NuQ09hVGNVZ2NCeml5VUVUS0ZWXzJjcXRvZW1WMHlkamtTcHM2T2kzZHJtOTg2OWE1ZEY0VGxKOHloZXI5WFFkNENUNDE1QmdlNDBGVVprUmZZTHU3aFB6c2ZSeHVfRzJIblZYaVh2bUZheHFpUFJTRUJqMHdwVUVUMGRJYS1GRmgxdXEwM091WGJsb1FWYzBKblJwU0JFc2ZHbHZvbFVuOHgtSjdtMy1vS0NfZlh4TA?oc=5",
+  "published_at": "Tue, 30 Jun 2026 16:46:01 GMT",
+  "published_ts": 1782837961,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkoxcEJtY05OWTNLaFFYVkQyNTZUVzBzZkFESVNwNHF5YjNMbENYWXhoX0VRaEE3dl9oOU9ONzg0UFpLb29icEVxQ1BuMHF0TUdLejg1UHdxa2tWckxxaHVWZGJQMnRPalR0ZjNEeUJPejJOZFpyMHJZdU1STHdPdGZOelVYMUZqR0QxN0x4Zm13VU9FblZhRHo3NTFDWjVEaVdUOVZGNzZxV00zbGdva1AwbVpTRDZSSEN0dU1QUG5wR1BXNEx2WWotR1JoNldEZ0tzRG42cE1SYnFvcWZZ0gHkAUFVX3lxTE5rV1d0QXp5UFpGdk9vdU55Q2lmQzJXVERHR2ZSTktpWk02UG9kN1M4MWVNM2NuQ09hVGNVZ2NCeml5VUVUS0ZWXzJjcXRvZW1WMHlkamtTcHM2T2kzZHJtOTg2OWE1ZEY0VGxKOHloZXI5WFFkNENUNDE1QmdlNDBGVVprUmZZTHU3aFB6c2ZSeHVfRzJIblZYaVh2bUZheHFpUFJTRUJqMHdwVUVUMGRJYS1GRmgxdXEwM091WGJsb1FWYzBKblJwU0JFc2ZHbHZvbFVuOHgtSjdtMy1vS0NfZlh4TA?oc=5\" target=\"_blank\">Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Indiatimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix are making significant capital investments in chip production as part of a major gamble on sustained AI cycle demand. The story discusses strategic capex decisions and industry capacity expansion plans, but lacks concrete new numbers, official capacity announcements, or confirmed production decisions beyond the framing of their optimism and risk exposure."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "f6d9bbdbb0b35b7b3a3d61a0e636e4d161000117",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "SK Group topped Samsung Group in 2025 operating profit: Data - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjBaR2hVRWkxbFhuU3dwQTZ2Ykg5aUkxRXU0RlpucVBLbU1sLVhKMFlEN2E1bTNkXzBESEwyWGxyUGxmZEJTeC1VbEhPMUxkLVJWMWN5XzJlTldLYVh5U2ZfaS1RZXd3MnN3MThGUHA1d0RIMTlYYzYwLTdmMlFRMVNGN3NiZGgxWHg3N1dPal83ZmFFWmVyY2lSdjl2Q1FSV21BMEZfdGJmNURDRVdzekxB?oc=5",
+  "published_at": "Wed, 01 Jul 2026 07:25:41 GMT",
+  "published_ts": 1782890741,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjBaR2hVRWkxbFhuU3dwQTZ2Ykg5aUkxRXU0RlpucVBLbU1sLVhKMFlEN2E1bTNkXzBESEwyWGxyUGxmZEJTeC1VbEhPMUxkLVJWMWN5XzJlTldLYVh5U2ZfaS1RZXd3MnN3MThGUHA1d0RIMTlYYzYwLTdmMlFRMVNGN3NiZGgxWHg3N1dPal83ZmFFWmVyY2lSdjl2Q1FSV21BMEZfdGJmNURDRVdzekxB?oc=5\" target=\"_blank\">SK Group topped Samsung Group in 2025 operating profit: Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Group (parent of SK hynix, a top DRAM/NAND holding) outperformed Samsung Group in 2025 operating profit. This is a backward-looking conglomerate earnings comparison with no new memory-segment specifics, production announcements, or pricing moves disclosed—relevant as a holding health check but soft data."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "920000da1c8d08a215f7dd141597f007719b6a98",
+  "source": "Koreabizwire",
+  "topic": "holding",
+  "title": "SK Hynix Revises SEC Filing to Include U.S. DRAM Antitrust Claims - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWU5am5fQU93ZWlkcGxWM1Rudk10SVlXa2p6eXZtTXJidmp2MFFqYzd0VENNeVVwR003dy1VeVBxdDZENWltWTZhUmxMeXVpRm84MHIzdUU2QzVNVHphWTlxaVBJMVVDS2lFVjFzMUpsSjJXUExDWXVOYTFWYkRDV0lGQ2pGZVRNNm1VVmkzMlQwUE4tTC1UdFFScw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 08:21:26 GMT",
+  "published_ts": 1782894086,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWU5am5fQU93ZWlkcGxWM1Rudk10SVlXa2p6eXZtTXJidmp2MFFqYzd0VENNeVVwR003dy1VeVBxdDZENWltWTZhUmxMeXVpRm84MHIzdUU2QzVNVHphWTlxaVBJMVVDS2lFVjFzMUpsSjJXUExDWXVOYTFWYkRDV0lGQ2pGZVRNNm1VVmkzMlQwUE4tTC1UdFFScw?oc=5\" target=\"_blank\">SK Hynix Revises SEC Filing to Include U.S. DRAM Antitrust Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Koreabizwire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix revised an SEC filing to include disclosure of U.S. DRAM antitrust claims. This is a substantive legal/regulatory development affecting a core fund holding, but the nature of the revision (adding disclosures of existing claims rather than announcing new legal action) and lack of detail on materiality or potential liability makes it a soft 3 rather than a concrete 4."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "6e45acfdc74fc69450046d0db65eb5d0a9858b27",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix- South Korean Mega-Cap Listing in US Amid AI Gold Rush - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblo0UlBzSWNjNnhfSGRXNUtMTkJKVzhCMUdWa2xjS0w1SFBPQzV0WWtvaUhLSkRFR0xxQnFWdllOZDRaVkdjMTdldmE2NzFPVXNDNGFWWnd2azJrVGJhLVhJYlpqV1AxOVpuX001aENXZk1ibFpTMV9KR0lMaVh5Qi1sZlY1bVplUXVyOEdEbVZPeUJj?oc=5",
+  "published_at": "Tue, 30 Jun 2026 05:01:00 GMT",
+  "published_ts": 1782795660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQblo0UlBzSWNjNnhfSGRXNUtMTkJKVzhCMUdWa2xjS0w1SFBPQzV0WWtvaUhLSkRFR0xxQnFWdllOZDRaVkdjMTdldmE2NzFPVXNDNGFWWnd2azJrVGJhLVhJYlpqV1AxOVpuX001aENXZk1ibFpTMV9KR0lMaVh5Qi1sZlY1bVplUXVyOEdEbVZPeUJj?oc=5\" target=\"_blank\">SK Hynix- South Korean Mega-Cap Listing in US Amid AI Gold Rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix (a major DRAM ETF holding) is pursuing a US listing amid AI-driven memory demand. The listing itself, if announced officially, would be concrete and material; however, this headline frames it as part of an 'AI gold rush' narrative without confirming a formal announcement or timeline, suggesting the story is exploratory or in-progress rather than a settled event. Until an official filing or announcement is made, this is analysis/possibility rather than confirmed development."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "f951089aee4d3c7f04498387142de41d9b4831e5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Looks Fully Valued After A Very Large Run - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEZJTVI3bDNLTTZrTEk3a0I5WjlsaFYwTTNzRkxPUGw2enlzY2tIVUNOaVpsNkprNlNIdXZKU2hKYUVFYm9QeTVNRzBSdUtIWXNiTEVKTGdoUlFKc0FDSWxrbWI4M2lIWDNIYXdsNkRoVGhXbWNEVDc5aG1NY1FQTWNqZTZnMjdNQncyWS0tOVdRMzItckVYekpJaw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 02:09:00 GMT",
+  "published_ts": 1782871740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEZJTVI3bDNLTTZrTEk3a0I5WjlsaFYwTTNzRkxPUGw2enlzY2tIVUNOaVpsNkprNlNIdXZKU2hKYUVFYm9QeTVNRzBSdUtIWXNiTEVKTGdoUlFKc0FDSWxrbWI4M2lIWDNIYXdsNkRoVGhXbWNEVDc5aG1NY1FQTWNqZTZnMjdNQncyWS0tOVdRMzItckVYekpJaw?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Looks Fully Valued After A Very Large Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst opinion that SanDisk stock appears fully valued following a significant recent rally. This is valuation commentary and market reaction analysis rather than a concrete development or new information about the company's fundamentals, capacity, or memory pricing."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "2aefa698ca4e65addb807cef8a6cd344718e11d6",
+  "source": "Techzine Global",
+  "topic": "industry",
+  "title": "Memory shortages are only partly due to AI, says Micron - Techzine Global",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2VGTi13VVBhd1hoNld1bFJZZjRfdEFHUnFLY0w4SGwtQjNNZGk5Vk0yVjBGN2tfaWxiaHgyMU1RMVFXVHZPQzJUUzM2am5yWFdfdWRHbnhZNm13T3VFRVItSmRjdVRZdVZHRjBMNHlPaWgta0FoN2c1U1BlR0RoVUVaalhQaGtUNDdLeTlmRG1GQnRLV2tIUm9raWp4QWFaN3NHNGZ3aldlUQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 09:34:00 GMT",
+  "published_ts": 1782898440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2VGTi13VVBhd1hoNld1bFJZZjRfdEFHUnFLY0w4SGwtQjNNZGk5Vk0yVjBGN2tfaWxiaHgyMU1RMVFXVHZPQzJUUzM2am5yWFdfdWRHbnhZNm13T3VFRVItSmRjdVRZdVZHRjBMNHlPaWgta0FoN2c1U1BlR0RoVUVaalhQaGtUNDdLeTlmRG1GQnRLV2tIUm9raWp4QWFaN3NHNGZ3aldlUQ?oc=5\" target=\"_blank\">Memory shortages are only partly due to AI, says Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Techzine Global"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron comments on memory shortages, noting AI is only a partial driver. An executive perspective on demand dynamics relevant to the holding and industry cycle, but lacks hard data or concrete developments beyond the stated opinion."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "1654e10b86b4520e38f5f0f4e26fdc1e8528cd84",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Just Sent a Huge Warning to Micron Investors - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlhrU0oxT0VzT3pqdm9QQTM1U0hyaWdxekV3Q0x0RnVqOEZscVNqOWxrZW5nbXpyYVpJVlhSTjE3dTB3MUxxUG55ZS1LdWlEd24zTVJkS1h3aGtScDRGejNBaHkyX2VqdFJWcG9JU3FQWllyNTJXaEJnN1gxdWhyNVB0ekF2TXB4R1JMZUV6RWpsUQ?oc=5",
+  "published_at": "Mon, 29 Jun 2026 10:50:00 GMT",
+  "published_ts": 1782730200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlhrU0oxT0VzT3pqdm9QQTM1U0hyaWdxekV3Q0x0RnVqOEZscVNqOWxrZW5nbXpyYVpJVlhSTjE3dTB3MUxxUG55ZS1LdWlEd24zTVJkS1h3aGtScDRGejNBaHkyX2VqdFJWcG9JU3FQWllyNTJXaEJnN1gxdWhyNVB0ekF2TXB4R1JMZUV6RWpsUQ?oc=5\" target=\"_blank\">SK Hynix Just Sent a Huge Warning to Micron Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix warning to Micron investors — likely commentary or analysis on competitive positioning, pricing pressure, or market conditions affecting both memory-semiconductor holdings. Without the full article, this appears to be editorial interpretation of SK Hynix's position or statements rather than a concrete event, making it analysis-grade rather than a hard catalyst."
+  },
+  "buffered_ts": 1782901825.7716103
+ },
+ {
+  "id": "62f75f6595e38b6f7a606039892b3e07cbf498fc",
+  "source": "조선일보",
+  "topic": "pricing",
+  "title": "DRAM Price Growth Slows in June Amid AI Demand Shifts - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWMza2NSOXJBRFU2UGZqanBqdFlFckRCRFI5NnhqRXh1THNiRW84Z0xiTFBwMTRZTGoxcFJlVXowRVpueFRQTnNxV2h2ZmF3NVdYaGZobUMxa1VLRUt4SVpHWW1KS3dNUmpsSEw3dE9tXzlZNEhobkxPUkFzYkpHcmNib3NIdEFw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 06:39:56 GMT",
+  "published_ts": 1782887996,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWMza2NSOXJBRFU2UGZqanBqdFlFckRCRFI5NnhqRXh1THNiRW84Z0xiTFBwMTRZTGoxcFJlVXowRVpueFRQTnNxV2h2ZmF3NVdYaGZobUMxa1VLRUt4SVpHWW1KS3dNUmpsSEw3dE9tXzlZNEhobkxPUkFzYkpHcmNib3NIdEFw?oc=5\" target=\"_blank\">DRAM Price Growth Slows in June Amid AI Demand Shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "DRAM spot pricing growth moderated in June as AI demand patterns shifted. Pricing is a leading indicator for memory-semiconductor stocks, but this reports a slowdown trend rather than a concrete price level or a sharp move tied to a specific catalyst, making it analysis/commentary rather than a hard event."
+  },
+  "buffered_ts": 1782901825.7716103
  }
 ]
