@@ -166,5 +166,344 @@
    "summary": "Bernstein analyst raises SanDisk price target from $1,700 to $3,000. This is an analyst opinion/price-target change rather than a concrete market event or new fundamental disclosure, placing it at impact 3—relevant to a key holding but soft analyst sentiment rather than hard news."
   },
   "buffered_ts": 1782911943.9912734
+ },
+ {
+  "id": "ee21e0ff03d19dc4bbd7f8de98bb089a2d236571",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "Nvidia Supplier SK Hynix Files For Nasdaq Debut Under Symbol SKHY - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV25Nd2JwMU83Rjl5ZERxUTNsX3I0V1pCUFpZQUwzbzQyNm01c2N1T292TEpYdGhQOGJmUVJqVjRRU0hsN2lKRzVMNllKdEU4MGFCSXVzUmlSWFpzS2FJLWtLdHEtT3lUa2VwaTlrZGVqVXptaFllLURPc2tYa3Fwd2hMSlVnWmI1MjFWVTJTTDZ0bE5ndTY4Uk1aQ1FxazBjSFJ3RDRaampiOW5TYnZOZkp5Y2Q5bXlPYjIyYQ?oc=5",
+  "published_at": "Tue, 30 Jun 2026 22:02:49 GMT",
+  "published_ts": 1782856969,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV25Nd2JwMU83Rjl5ZERxUTNsX3I0V1pCUFpZQUwzbzQyNm01c2N1T292TEpYdGhQOGJmUVJqVjRRU0hsN2lKRzVMNllKdEU4MGFCSXVzUmlSWFpzS2FJLWtLdHEtT3lUa2VwaTlrZGVqVXptaFllLURPc2tYa3Fwd2hMSlVnWmI1MjFWVTJTTDZ0bE5ndTY4Uk1aQ1FxazBjSFJ3RDRaampiOW5TYnZOZkp5Y2Q5bXlPYjIyYQ?oc=5\" target=\"_blank\">Nvidia Supplier SK Hynix Files For Nasdaq Debut Under Symbol SKHY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM/HBM supplier to Nvidia and a core holding of the DRAM ETF, has filed for a Nasdaq listing under ticker SKHY. This is a concrete, officially announced corporate action that will materially affect the fund's ability to track and hold the company, and represents a significant structural change for the holding."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "f6c1205f36097cd09edf75d4dd47d8162950163b",
+  "source": "moneywise.com",
+  "topic": "industry",
+  "title": "Samsung, Micron and SK Hynix face class-action lawsuit over alleged 700% DRAM price-fixing scheme - moneywise.com",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2VsUXhJaU1LakRTLWw3b0JUUkJzM3RJUUJ2UDVQYnJ0dXdGM3FFVExPaWdYdWRybXJnalR4OWg0Ry1ORVV6SVVqR3lNTTBhYjdyczBESXJ0RmZtQ1QyN3NYSnFSS1AzZHoySUsxc1hoRUE5UXdzbm56amxWcjJQQ3ljZ1VLdW1WcWtRYktNenFLZw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:00:22 GMT",
+  "published_ts": 1782914422,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2VsUXhJaU1LakRTLWw3b0JUUkJzM3RJUUJ2UDVQYnJ0dXdGM3FFVExPaWdYdWRybXJnalR4OWg0Ry1ORVV6SVVqR3lNTTBhYjdyczBESXJ0RmZtQ1QyN3NYSnFSS1AzZHoySUsxc1hoRUE5UXdzbm56amxWcjJQQ3ljZ1VLdW1WcWtRYktNenFLZw?oc=5\" target=\"_blank\">Samsung, Micron and SK Hynix face class-action lawsuit over alleged 700% DRAM price-fixing scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">moneywise.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "moneywise.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung, Micron, and SK hynix named in a class-action lawsuit alleging a DRAM price-fixing scheme with claimed 700% price increases. This is a legal action against three major fund holdings, but the lawsuit itself is an allegation and not a settled or confirmed event, making it material but not yet a concrete development affecting the companies' operations or financials."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "b46645ccd6ae5eea30ee55b114a312af27d8a654",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "BofA Securities Adjusts Sandisk Price Target to $2,500 From $2,100, Maintains Buy Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGVrcmdxMWozYVpFVm9Danh3VnVwWUxQTWRQRGJRcV96bjdKZ25rSnNHN0RiamhWby16WGo1U1YxbmtNb0RVS3VEbVNYX0c0cUg2aGp5d1RFV0lkdUFMeWpoUktvZVllMjZKcHJxRE1CR3liWTRUSDBFblpxN1I5ZVJ0M2hiSURYa1puSXZ0LWFLV2Rua3ctVkdNS3E5TTBMTXNIektSY0J2aVMxR2RwMGNiYnBRNWd3WnBIc0paM1JpQTNXcXFKdVRJMHFFLVZPMHRQYQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:08:39 GMT",
+  "published_ts": 1782914919,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGVrcmdxMWozYVpFVm9Danh3VnVwWUxQTWRQRGJRcV96bjdKZ25rSnNHN0RiamhWby16WGo1U1YxbmtNb0RVS3VEbVNYX0c0cUg2aGp5d1RFV0lkdUFMeWpoUktvZVllMjZKcHJxRE1CR3liWTRUSDBFblpxN1I5ZVJ0M2hiSURYa1puSXZ0LWFLV2Rua3ctVkdNS3E5TTBMTXNIektSY0J2aVMxR2RwMGNiYnBRNWd3WnBIc0paM1JpQTNXcXFKdVRJMHFFLVZPMHRQYQ?oc=5\" target=\"_blank\">BofA Securities Adjusts Sandisk Price Target to $2,500 From $2,100, Maintains Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BofA Securities raised SanDisk price target from $2,100 to $2,500 while maintaining Buy rating. Analyst upgrade reflects positive sentiment on the holding but is opinion-based rather than a concrete market event or new fundamental catalyst."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "d348d07e4cd9c182e394dd63b25255b47eedf9b0",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "State-Led Capex Is Bad News For Memory Producers, Especially SK hynix (Pending:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXhMRnF6Q1p5MU9BZ0JueXp4VkFYSGYwUlVUcGhVWk5tVk5PS3dMXzEzQmNqcTlJbExURXloVFBxWUpUeTBaSDJEdVpTeTA2bWtuNkdvZ2xYR1pvY1hEaWlLZ2lURVhQNDViQThEamx4aEhoVXhlOUdWenVWbG50OS1KbFBxakQ5WlljWEtGZmVRY2pLS20tbUVYSnFMZGo4RDZ1U0NxelhaTkZxcGc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:00:17 GMT",
+  "published_ts": 1782914417,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXhMRnF6Q1p5MU9BZ0JueXp4VkFYSGYwUlVUcGhVWk5tVk5PS3dMXzEzQmNqcTlJbExURXloVFBxWUpUeTBaSDJEdVpTeTA2bWtuNkdvZ2xYR1pvY1hEaWlLZ2lURVhQNDViQThEamx4aEhoVXhlOUdWenVWbG50OS1KbFBxakQ5WlljWEtGZmVRY2pLS20tbUVYSnFMZGo4RDZ1U0NxelhaTkZxcGc?oc=5\" target=\"_blank\">State-Led Capex Is Bad News For Memory Producers, Especially SK hynix (Pending:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Seeking Alpha opinion piece arguing that state-led semiconductor capex initiatives are negative for memory producers, particularly SK hynix. This is analysis and commentary on industry dynamics rather than a confirmed event or new hard data, making it a soft relevancy to fund holdings and the memory cycle."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "0e0e543c30bd95b6994b389f0afc50779086fa8d",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjg4dGd0VE9BLVo2Y0lZN09UMlNJVmJrMmVsOXd5cEVLQXRUcGFtRUlWemhFMm55azltV190MTZaaWxyT2xEZjhoNDhBTFd3clp0OWx2Mk5jZzR4eC1SZjBfLUF2UEFWUDExd09wbUhlYlNPUEF1c2E5MzZLNEZidmpwcnNxa3d6a1VDdFZTNGJscWx1YXN3Wmd1M3l2bFdsNmc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 12:52:00 GMT",
+  "published_ts": 1782910320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjg4dGd0VE9BLVo2Y0lZN09UMlNJVmJrMmVsOXd5cEVLQXRUcGFtRUlWemhFMm55azltV190MTZaaWxyT2xEZjhoNDhBTFd3clp0OWx2Mk5jZzR4eC1SZjBfLUF2UEFWUDExd09wbUhlYlNPUEF1c2E5MzZLNEZidmpwcnNxa3d6a1VDdFZTNGJscWx1YXN3Wmd1M3l2bFdsNmc?oc=5\" target=\"_blank\">Sandisk and Micron Dominated the First Half of 2026. Which Is the Best Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece comparing SanDisk and Micron's performance in H1 2026 and evaluating which is the better buy. This is post-hoc commentary on existing price action rather than new concrete events or earnings data, making it soft analysis typical of investment opinion."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "6def94467b997e50a0b61b5544a65b60ba8de986",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC Stock 12‑Month Price Target Raised to $960.36 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMlB4dzJxbF85T0JNclpVd2JpRjhwRHRrRng4TkhqY1BsaVhZa3o0ak1mNHdlYkRpNEtPVnRrT1JudzdmNEQ0Wk4xRjRLNTY2ZHd2UXA1Y2tNT3JYb0hHaU9MOHltZjc4ZzVBWDF1a21YR3E3RVA3Q0lXZl9PSndscnJfdlN6YmhuRGVJSnh3QktkeWpleWFFcmNFMFhUQlo1TDNpRXYxQVhyb2dhaE5IMnJqSlFUTk5OUmdvSVJTMUdGQnFzTXhDeTBvQnRwa0d3b2RkQw?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:20:08 GMT",
+  "published_ts": 1782915608,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMlB4dzJxbF85T0JNclpVd2JpRjhwRHRrRng4TkhqY1BsaVhZa3o0ak1mNHdlYkRpNEtPVnRrT1JudzdmNEQ0Wk4xRjRLNTY2ZHd2UXA1Y2tNT3JYb0hHaU9MOHltZjc4ZzVBWDF1a21YR3E3RVA3Q0lXZl9PSndscnJfdlN6YmhuRGVJSnh3QktkeWpleWFFcmNFMFhUQlo1TDNpRXYxQVhyb2dhaE5IMnJqSlFUTk5OUmdvSVJTMUdGQnFzTXhDeTBvQnRwa0d3b2RkQw?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC Stock 12‑Month Price Target Raised to $960.36</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst price target raised for Seagate (STX), a memory/storage fund holding. Price-target changes reflect analyst sentiment but are opinion-based forecasts, not concrete events; the impact is material but soft."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "6bcdbdc68daa50178a2ab0c8532908b3e06a395a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung, Micron and SK Hynix accused of spiking memory chip prices by 700% - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVpQNUZFNlFxNWpKaWFUQ3V5NmdvdTJmRW1jSGhXNUJHZ25MZjBaVjFfR2owSTlfc2dlM3ptNDJJd3g0OEw2X0pJWGxyWHBDZmJsNjE4WnNGUzN3blZmSTJvWTdvTDZlZEswMVAzZUliVGtkUC16TWtTYTFlLUNzZDZVRnppYlF0Wml3aDVVaVdXTDRCanRZ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:30:00 GMT",
+  "published_ts": 1782916200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVpQNUZFNlFxNWpKaWFUQ3V5NmdvdTJmRW1jSGhXNUJHZ25MZjBaVjFfR2owSTlfc2dlM3ptNDJJd3g0OEw2X0pJWGxyWHBDZmJsNjE4WnNGUzN3blZmSTJvWTdvTDZlZEswMVAzZUliVGtkUC16TWtTYTFlLUNzZDZVRnppYlF0Wml3aDVVaVdXTDRCanRZ?oc=5\" target=\"_blank\">Samsung, Micron and SK Hynix accused of spiking memory chip prices by 700%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung, Micron, and SK Hynix face accusations of price-spiking in memory chips by up to 700%. While pricing pressure is directly material to the fund's holdings, this is an accusation/allegation rather than a confirmed regulatory finding or settled event. The allegation is relevant to memory pricing dynamics but lacks concrete resolution or confirmed impact."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "7cd34203ad6ae8ce703c1e11e0289eb20cb8eec0",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk Is One of the Biggest Winners After Micron's Blowout Earnings - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEcyMEVXdWU3anFERUMzYnRDam45cWhIV0ZfZzBaTE9WM0dGTGhvNmZaZlhzemh1UzJJYVZ5MG9mYVZHbHBJZHFVZWRQLXpvdVFTT0duSFZHYUdPbXhkUE1PU1IxQ2ZFVGJwVGVxRjVkckgtSkdldENoaXlVeFp5Nm1EOTNtS2pSeXpJU3Y5TQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:54:35 GMT",
+  "published_ts": 1782917675,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEcyMEVXdWU3anFERUMzYnRDam45cWhIV0ZfZzBaTE9WM0dGTGhvNmZaZlhzemh1UzJJYVZ5MG9mYVZHbHBJZHFVZWRQLXpvdVFTT0duSFZHYUdPbXhkUE1PU1IxQ2ZFVGJwVGVxRjVkckgtSkdldENoaXlVeFp5Nm1EOTNtS2pSeXpJU3Y5TQ?oc=5\" target=\"_blank\">Sandisk Is One of the Biggest Winners After Micron's Blowout Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "AOL.com"
+   ],
+   "titles": [
+    "Sandisk Is One of the Biggest Winners After Micron's Blowout Earnings - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk positioned as beneficiary of Micron's strong earnings results. This is analyst commentary on stock performance following Micron's earnings release rather than a new concrete event; the market reaction to already-reported results warrants a 3 rather than 4-5."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "e20fb14c53d9a6aa948b25e8c267741a3643a37f",
+  "source": "DataCenterNews Asia Pacific",
+  "topic": "industry",
+  "title": "AI demand to push memory fab spending past USD $50bn - DataCenterNews Asia Pacific",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkJqM2hydUF4ZThzRW5BVkJ2ZWk1dzNyTlpnWWlHQXBOUHZkaGRwcTU1Q1VTbl9GZE1oVENrU18taENYS1hwek81eVhLQ1MtMG9nSlgyaXRrbkNRUW9FMGVDdmxaZkJnQ3UzUDhiVzRaVVRHNlFjdFhadDVGRmpFLThnX2Z1VHBabFEwdGRn?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:00:00 GMT",
+  "published_ts": 1782918000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkJqM2hydUF4ZThzRW5BVkJ2ZWk1dzNyTlpnWWlHQXBOUHZkaGRwcTU1Q1VTbl9GZE1oVENrU18taENYS1hwek81eVhLQ1MtMG9nSlgyaXRrbkNRUW9FMGVDdmxaZkJnQ3UzUDhiVzRaVVRHNlFjdFhadDVGRmpFLThnX2Z1VHBabFEwdGRn?oc=5\" target=\"_blank\">AI demand to push memory fab spending past USD $50bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DataCenterNews Asia Pacific</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "DataCenterNews Asia Pacific"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report forecasting that AI demand will drive memory fab capital spending above $50 billion. This is forward-looking analysis/prediction rather than a confirmed event or hard capacity announcement, making it relevant to the memory cycle but soft on impact—typical analyst projection territory."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "c55faee4f4d53cb44e1d766180e0279b36cb54c1",
+  "source": "ProPakistani",
+  "topic": "industry",
+  "title": "Samsung and SK Hynix Sued for Alleged RAM Price Fixing - ProPakistani",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUJnbklWYW85em8tcTNtN0NtcjF5S0RJcVdVOHRTMUNRai1iaDFmY1djY09rVVludjJsNmFsR0ZLcDdQdy1aWnJuRUJ5cTVKb3d6WHkwWi1RbVQ0WlJSdS1TbnVvUjZuTS15c3ZSSS11ei1NYWZiNEU1Mk5lVW1KUjNPU3pBSU0wZUZCWVFfU1NsajhCYnRhaFFR0gGaAUFVX3lxTE5FQmduSVZhbzl6by1xM203Q21yMXlLRElxV1U4dFMxQ1FqLWJoMWZjV2NjT2tVWW52Mmw2YWxHRktwN1B3LVpacm5FQnlxNUpvd3pYeTBaLVFtVDRaUlJ1LVNudW9SNm5NLXlzdlJJLXV6LU1hZmI0RTUyTmVVbUpSM09TekFJTTBlRkJZUV9TU2xqOEJidGFoUVE?oc=5",
+  "published_at": "Wed, 01 Jul 2026 12:16:18 GMT",
+  "published_ts": 1782908178,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORUJnbklWYW85em8tcTNtN0NtcjF5S0RJcVdVOHRTMUNRai1iaDFmY1djY09rVVludjJsNmFsR0ZLcDdQdy1aWnJuRUJ5cTVKb3d6WHkwWi1RbVQ0WlJSdS1TbnVvUjZuTS15c3ZSSS11ei1NYWZiNEU1Mk5lVW1KUjNPU3pBSU0wZUZCWVFfU1NsajhCYnRhaFFR0gGaAUFVX3lxTE5FQmduSVZhbzl6by1xM203Q21yMXlLRElxV1U4dFMxQ1FqLWJoMWZjV2NjT2tVWW52Mmw2YWxHRktwN1B3LVpacm5FQnlxNUpvd3pYeTBaLVFtVDRaUlJ1LVNudW9SNm5NLXlzdlJJLXV6LU1hZmI0RTUyTmVVbUpSM09TekFJTTBlRkJZUV9TU2xqOEJidGFoUVE?oc=5\" target=\"_blank\">Samsung and SK Hynix Sued for Alleged RAM Price Fixing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ProPakistani"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix face lawsuit alleging DRAM price fixing. Both are major DRAM suppliers and holdings-adjacent (Samsung memory division, SK hynix is a core holding). Lawsuit is a concrete legal action but impact depends on outcome and damages; current filing is opinion-stage for market impact until discovery or settlement details emerge."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "83753073fa393984f76c14291eb3bff45c3419ef",
+  "source": "Forbes",
+  "topic": "holding",
+  "title": "Can Micron Stock Survive China’s Memory Playbook? - Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmpHbVJDelZsREJLUTE3LUZqZ3MtTkR1Qk53S0dwYTBwcURJRmJTdExZeDVNSlJQczZVbFN5RG5QRXBMUXZPN3pFSmZPa0lOOTdIUExjbzRJbFNSOEd2WnRiTGUwYkVKU2ZXdTJ4SlFZcEVPVXhjbG92RkQxYTV0OXBwdGNXZzFVSUVpb1FJbWpBWVZQTW5TcWw0bXpaRmxBaTZKZkVPYWdhQQ?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:28:46 GMT",
+  "published_ts": 1782919726,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmpHbVJDelZsREJLUTE3LUZqZ3MtTkR1Qk53S0dwYTBwcURJRmJTdExZeDVNSlJQczZVbFN5RG5QRXBMUXZPN3pFSmZPa0lOOTdIUExjbzRJbFNSOEd2WnRiTGUwYkVKU2ZXdTJ4SlFZcEVPVXhjbG92RkQxYTV0OXBwdGNXZzFVSUVpb1FJbWpBWVZQTW5TcWw0bXpaRmxBaTZKZkVPYWdhQQ?oc=5\" target=\"_blank\">Can Micron Stock Survive China’s Memory Playbook?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Forbes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Forbes opinion piece analyzing whether Micron can navigate China's memory semiconductor strategy and competitive pressures. Addresses relevant holding (Micron) and industry dynamics, but is analytical commentary rather than reporting a concrete event or material development."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "d362ad3a3a35501d186f1a437aee6ba38c813ed9",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is SanDisk Stock Falling Wednesday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0NKNWVHQ2l5YU9xbHR5ektHalFSUFB1VEJ5RmxZWnloeWFKOEx3anN5dWV3MXhvTzRLUnNndk5sQnVwZUY3ZGw2NnpvWmRHZ01qSXBFYk1vem5CZXNCRHBMVEFILXdzVTdGcjJKR2Zfbm5kQW4tcTBkMXRUWENfRXB3NUZzVlExUFBQam5mLVhIZXhrRDgwNldlYTlHb0Yt?oc=5",
+  "published_at": "Wed, 01 Jul 2026 13:27:19 GMT",
+  "published_ts": 1782912439,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0NKNWVHQ2l5YU9xbHR5ektHalFSUFB1VEJ5RmxZWnloeWFKOEx3anN5dWV3MXhvTzRLUnNndk5sQnVwZUY3ZGw2NnpvWmRHZ01qSXBFYk1vem5CZXNCRHBMVEFILXdzVTdGcjJKR2Zfbm5kQW4tcTBkMXRUWENfRXB3NUZzVlExUFBQam5mLVhIZXhrRDgwNldlYTlHb0Yt?oc=5\" target=\"_blank\">Why Is SanDisk Stock Falling Wednesday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Benzinga article questioning why SanDisk stock is falling on a given day. Without the full article text, this appears to be a post-price-move analysis of a known holding. Such pieces typically explain existing stock moves rather than reporting new concrete catalysts, warranting a 3 (analysis/reaction to market movement)."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "0ce4e106351c94656840310ab0d689c7705e31a4",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Why are Micron, SanDisk, and other semiconductor stocks falling today? - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ29hVUN1bjFXdjVGNDNiSlN3TFk1dmpJemNobmhWUEp5djBMb2VBak5KNi1ZeHBrRUVBSEQycWhiTUNYcTUwTUFKYUFhZ1hIempfZkdRU1M2QmZBREFlZ0RZNWhiQ1BraWpoVVUwT3E5RkxWdlR6dEVkT0x4a2J5U3U3ZlRDWmpWYkZYdEowVXpDQTNFZEQwOS1UUE1hRE1BemlHWHNn?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:36:29 GMT",
+  "published_ts": 1782920189,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ29hVUN1bjFXdjVGNDNiSlN3TFk1dmpJemNobmhWUEp5djBMb2VBak5KNi1ZeHBrRUVBSEQycWhiTUNYcTUwTUFKYUFhZ1hIempfZkdRU1M2QmZBREFlZ0RZNWhiQ1BraWpoVVUwT3E5RkxWdlR6dEVkT0x4a2J5U3U3ZlRDWmpWYkZYdEowVXpDQTNFZEQwOS1UUE1hRE1BemlHWHNn?oc=5\" target=\"_blank\">Why are Micron, SanDisk, and other semiconductor stocks falling today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Article asking why semiconductor stocks including holdings Micron and SanDisk are falling, but no specific catalyst or concrete news provided—appears to be a generic price-move explainer without substantive information about memory demand, pricing, or company fundamentals."
+  },
+  "buffered_ts": 1782921936.8382142
+ },
+ {
+  "id": "4442c2387a3a50ca6a584713d0565aecb6141f84",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Trending Industry Today: SanDisk Leads Losses In Data Storage Stock - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb21KNjI4ZXJRbWtjN2xIWTBXUXY3LU1tLUtRVGYxMnhvVmhZRDhWTkg1NS1kUzFZX05QR3FXUlQ0cFpBRU1XT3JTOGRac29XTW9IQ29NYi10N0syc1BORmVyNlFpaV9iQk0zeGRzOTJzSDdBeGhyRlNaUTQ5bF9Zbzl2dmphLVZiYl9FektRZ1dpdi11QkhUS081b0RmaDhxV0dVWF9rLU5IaVEx?oc=5",
+  "published_at": "Wed, 01 Jul 2026 14:12:34 GMT",
+  "published_ts": 1782915154,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNb21KNjI4ZXJRbWtjN2xIWTBXUXY3LU1tLUtRVGYxMnhvVmhZRDhWTkg1NS1kUzFZX05QR3FXUlQ0cFpBRU1XT3JTOGRac29XTW9IQ29NYi10N0syc1BORmVyNlFpaV9iQk0zeGRzOTJzSDdBeGhyRlNaUTQ5bF9Zbzl2dmphLVZiYl9FektRZ1dpdi11QkhUS081b0RmaDhxV0dVWF9rLU5IaVEx?oc=5\" target=\"_blank\">Trending Industry Today: SanDisk Leads Losses In Data Storage Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) is mentioned as leading losses in data storage stocks. No specific catalyst, news, or material development is stated—only a price observation. This is a passing mention of stock performance without underlying news substance."
+  },
+  "buffered_ts": 1782921936.8382142
  }
 ]
