@@ -1399,5 +1399,221 @@
    "summary": "Direxion is launching SKHL, a 2X leveraged daily ETF tracking SK hynix. While SK hynix is a key DRAM fund holding, this is a new competing product announcement that does not materially affect SK hynix fundamentals, operations, or the memory cycle itself. It is a minor market structure development."
   },
   "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "d4875e01bd2223c6fd1add9ea9336f026c3b6cf5",
+  "source": "IndexBox",
+  "topic": "holding",
+  "title": "Air Liquide Invests Over $170 Million to Supply Ultra-Pure Gases for SK hynix's First U.S. Chip Facility in Indiana - IndexBox",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSU5xNTVVbVM2c3oxSGYybnRQclJWTE5CSW9uNHk4WHlqMW5ETFFReFA3LXF5cnlpNDZjOFk0Q1JBNmZkUHFiZjRVeExZcW50WmN1c1FKUlVWVGFzNjZHWG1YenNaVXYzdjVoT1Nxc2ZHTHhtOGgzWWlDME5CVkFaWkVpSGtZNlZaN0QwNjdmUzZSNnJCVktFUUstRXpiSm9WWFV5RndxNFlFTnRwY2hMdUNuWmdpZGlPazF1aTBDSGxhV0I5U2ZrUHM3TUl4ZHdzTWg0Z2p6MWY?oc=5",
+  "published_at": "Thu, 02 Jul 2026 19:10:00 GMT",
+  "published_ts": 1783019400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSU5xNTVVbVM2c3oxSGYybnRQclJWTE5CSW9uNHk4WHlqMW5ETFFReFA3LXF5cnlpNDZjOFk0Q1JBNmZkUHFiZjRVeExZcW50WmN1c1FKUlVWVGFzNjZHWG1YenNaVXYzdjVoT1Nxc2ZHTHhtOGgzWWlDME5CVkFaWkVpSGtZNlZaN0QwNjdmUzZSNnJCVktFUUstRXpiSm9WWFV5RndxNFlFTnRwY2hMdUNuWmdpZGlPazF1aTBDSGxhV0I5U2ZrUHM3TUl4ZHdzTWg0Z2p6MWY?oc=5\" target=\"_blank\">Air Liquide Invests Over $170 Million to Supply Ultra-Pure Gases for SK hynix's First U.S. Chip Facility in Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IndexBox"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide announced a $170M+ investment to supply ultra-pure gases for SK hynix's new U.S. chip facility in Indiana. This is a concrete, officially announced capital commitment supporting a major capacity expansion by a fund holding (SK hynix), directly enabling memory production in the U.S. and representing material infrastructure progress for the company."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "b07d6fe83470a5eb5f9f0f36f46a49edaf7c6174",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Beijing Ingenic Signals Continued Memory Chip Price Hikes as Global DRAM Spot Prices Hit Record High - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OY0VlaWhqd0xzNGdrTWtMSEtvOUJFLU02N2RjYkIyRURLWEJ1VFVSWTVXeV84djBLQ0ZNY2VFWGROSWt4bU9pc3NqbEZYdUVEcGFwNTdVa3hNUTIyQ2YwNjlFY0ZUbjhoYUZpQ01VZVV6V29HOWc?oc=5",
+  "published_at": "Thu, 02 Jul 2026 14:05:00 GMT",
+  "published_ts": 1783001100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1OY0VlaWhqd0xzNGdrTWtMSEtvOUJFLU02N2RjYkIyRURLWEJ1VFVSWTVXeV84djBLQ0ZNY2VFWGROSWt4bU9pc3NqbEZYdUVEcGFwNTdVa3hNUTIyQ2YwNjlFY0ZUbjhoYUZpQ01VZVV6V29HOWc?oc=5\" target=\"_blank\">Beijing Ingenic Signals Continued Memory Chip Price Hikes as Global DRAM Spot Prices Hit Record High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Global DRAM spot prices have hit record highs, with Beijing Ingenic signaling continued price increases. This concrete pricing data is a leading indicator of strong demand and margin expansion for DRAM holdings in the fund, potentially moving equity valuations ahead of earnings reports."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "c41cae7d2f697cdeb036781ab52a0085910975aa",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "PC DRAM Hits Record $21; NAND Flash Extends Rally to 18 Months - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPT0pjaGFfSU55YVZTclBBQTNtbzBvengyZnV3c3VMSERRSktjWHBGVTBrZ2FRMWRuZWtBOWxpNmVMMm1SWUtJMFFQX0VmU3hsV1g4ZlVJWjdYX0FsWXZ0TUFYc1ZWQVV2VnNqb1VfRF95SW1uWWc?oc=5",
+  "published_at": "Wed, 01 Jul 2026 04:25:00 GMT",
+  "published_ts": 1782879900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBPT0pjaGFfSU55YVZTclBBQTNtbzBvengyZnV3c3VMSERRSktjWHBGVTBrZ2FRMWRuZWtBOWxpNmVMMm1SWUtJMFFQX0VmU3hsV1g4ZlVJWjdYX0FsWXZ0TUFYc1ZWQVV2VnNqb1VfRF95SW1uWWc?oc=5\" target=\"_blank\">PC DRAM Hits Record $21; NAND Flash Extends Rally to 18 Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "PC DRAM spot prices hit record $21 per gigabyte while NAND flash extended a rally spanning 18 months. Concrete price milestones are leading indicators that typically precede memory-stock moves and reflect tightening supply/demand fundamentals."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "85c6ba611e8dc89e6c3f7cc077aef7ea9d5030d5",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Dow, Nasdaq Diverge With Tech-Heavy Index Falling Below Key Level; Micron, Sandisk, Tesla Plunge - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pwVnlqbTZUVFJOR1p6MVdZXzR2ZFZmWWktRnFjUm05Zzl5LU91QnhYcU5pRUloU2hhWlc4bDJZMVhBYl8wUFN4R05NZF9UeEZ0b1FjVmVjRk5hMFVJQ3pzVFl2VTN6VzQ4OV9Od1l1czNxNXVQdnJDbEs0Wi1BZ0hHdkdOM0k2aFNIOUo3X0Utc0d3SzFxTXBQSWp3X3dz?oc=5",
+  "published_at": "Thu, 02 Jul 2026 21:44:00 GMT",
+  "published_ts": 1783028640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pwVnlqbTZUVFJOR1p6MVdZXzR2ZFZmWWktRnFjUm05Zzl5LU91QnhYcU5pRUloU2hhWlc4bDJZMVhBYl8wUFN4R05NZF9UeEZ0b1FjVmVjRk5hMFVJQ3pzVFl2VTN6VzQ4OV9Od1l1czNxNXVQdnJDbEs0Wi1BZ0hHdkdOM0k2aFNIOUo3X0Utc0d3SzFxTXBQSWp3X3dz?oc=5\" target=\"_blank\">Dow, Nasdaq Diverge With Tech-Heavy Index Falling Below Key Level; Micron, Sandisk, Tesla Plunge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron and SanDisk experienced notable stock declines as part of a broader tech sector selloff. The headline identifies the price move but does not articulate a distinct catalyst beyond general market divergence; the decline is likely downstream of broader sentiment or macro conditions rather than holding-specific news."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "d588da56dbf6bc3364370c9b9fc879c115547fd8",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS1VxbU41c0hqcXFuUWRVYUFsNngtaFV6NGJ1ZURmWUlpM29HRzM0X2JkZWNlUlFsaXZmZTRVYU5TTnFMREk5NWtJT3oyQjNYRGRMV1Q4bDI0QUZ5bG1ZMm5nRXZBYU9MQi1BZkxzT2d1LTE3WmdEaDdTeGxHMXJ3TTR5TnJFWXpoaFRkMHRvZUlSTWJyQjhZUHdsSVlNb1JBdEZPdTUzU05oUlNEenJUQmdNVnU0TVNVN25SajBseV9SSUIzaDdmVjhPdkZPUnBzTzRTMmtNeXpzUG9LVG1UVXlxTQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:06:19 GMT",
+  "published_ts": 1783022779,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS1VxbU41c0hqcXFuUWRVYUFsNngtaFV6NGJ1ZURmWUlpM29HRzM0X2JkZWNlUlFsaXZmZTRVYU5TTnFMREk5NWtJT3oyQjNYRGRMV1Q4bDI0QUZ5bG1ZMm5nRXZBYU9MQi1BZkxzT2d1LTE3WmdEaDdTeGxHMXJ3TTR5TnJFWXpoaFRkMHRvZUlSTWJyQjhZUHdsSVlNb1JBdEZPdTUzU05oUlNEenJUQmdNVnU0TVNVN25SajBseV9SSUIzaDdmVjhPdkZPUnBzTzRTMmtNeXpzUG9LVG1UVXlxTQ?oc=5\" target=\"_blank\">Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StockStory"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, is falling along with MACOM and Lattice Semiconductor. The article title indicates price movement but provides no disclosed catalyst or earnings-driven context in the snippet. This is a price-move report lacking a distinct, novel cause—typical post-market analysis of stock declines without substantive news content."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "3a02fd30be77e09b12fa40a837a999d8efebbcfe",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3486814.03, Implies 36% Upside - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRDSlJia2ZXVzhtbjhOa0dMa29xSEdxdTFZbEI2WHFucFlSYTV6UjBiOWE2TEtTMHhxZG1mMVZERG1hWmlyRnhadEZCYjh6REZ3UHZSTDNmbS1VSjliVXFDQTlDZXBGbFl4ejhCNFJmdWdTeFRhV00zSWpLRW03UjE1djVwczAzTXFFdVNQYm5MdlRqd3NZQnNHNGE3R1Bucy02QU5FQVRtMWNjVFFiREJDYjVyQ3ptMVk0Rk83YzJFRk8tWk5XX2x4eEo3N1BmVXUtcEdwbURMZFdDZUE?oc=5",
+  "published_at": "Thu, 02 Jul 2026 21:20:00 GMT",
+  "published_ts": 1783027200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORkRDSlJia2ZXVzhtbjhOa0dMa29xSEdxdTFZbEI2WHFucFlSYTV6UjBiOWE2TEtTMHhxZG1mMVZERG1hWmlyRnhadEZCYjh6REZ3UHZSTDNmbS1VSjliVXFDQTlDZXBGbFl4ejhCNFJmdWdTeFRhV00zSWpLRW03UjE1djVwczAzTXFFdVNQYm5MdlRqd3NZQnNHNGE3R1Bucy02QU5FQVRtMWNjVFFiREJDYjVyQ3ptMVk0Rk83YzJFRk8tWk5XX2x4eEo3N1BmVXUtcEdwbURMZFdDZUE?oc=5\" target=\"_blank\">SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3486814.03, Implies 36% Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst price target raised for SK hynix to KRW 3.49M with 36% upside implication. This is analyst opinion on valuation rather than a concrete event or new fundamental development, making it a soft signal of market sentiment toward a key DRAM ETF holding."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "0b73b1e5d90faf11ea4fdd5376e8d76f6b9054f2",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Seagate, Kulicke and Soffa, and Lam Research Shares Plummet, What You Need To Know - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeWoxRjZHN3NhbTJtamxVZ2hSV0ZVQVcydFZEQlFHUEJYSFNYOXEwc1dlM3VNNXViZE9OcnVuVUpsb210OVhleFBDUmdlUlhKRE5TOWUxUkNmLTVTNzhEVmF0LXAzeFlTcTYwWnhhOUhJZ2pWSWIyMVcxTldWaUpTVUlvLTlPci1Ec2JxNWRfNGpwRHBXQjkwcm9QNWwyWWdWLVNidERIWGRwRUswajdESGhlUWE5V0lCVTRNbjVNWDAyd0JWVWtGTnJRdVNoTG9nUzVhbXhkMA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:06:19 GMT",
+  "published_ts": 1783022779,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeWoxRjZHN3NhbTJtamxVZ2hSV0ZVQVcydFZEQlFHUEJYSFNYOXEwc1dlM3VNNXViZE9OcnVuVUpsb210OVhleFBDUmdlUlhKRE5TOWUxUkNmLTVTNzhEVmF0LXAzeFlTcTYwWnhhOUhJZ2pWSWIyMVcxTldWaUpTVUlvLTlPci1Ec2JxNWRfNGpwRHBXQjkwcm9QNWwyWWdWLVNidERIWGRwRUswajdESGhlUWE5V0lCVTRNbjVNWDAyd0JWVWtGTnJRdVNoTG9nUzVhbXhkMA?oc=5\" target=\"_blank\">Seagate, Kulicke and Soffa, and Lam Research Shares Plummet, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StockStory"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a significant share price decline. The story reports the stock move but lacks a stated catalyst or concrete event distinct from market trading; it appears to be a post-event market reaction piece rather than news of a confirmed development."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "fa65edbe0b18baf741b7e63ec646dc563941d411",
+  "source": "富途牛牛",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF Options Spot-On: On July 1st, 382.44K Contracts Were Traded, With 1.63 Million Open Interest - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVdvTlJKVHpudXJwZExWT2RCMmFoRzVFNlRiTlFISnJYdkdBcTZEZTBmZVhacU5yNlM2RHRWRW5MUFVuMWpNNDlVcW9hMWNQTXk3NWpCbGM4dTZPM2pvWjczZ3lYUGZ1MGtZU1FOY1JHZkdtWjY5WEdCYkNWVlhwdVlaV0cxb09fY0ltNFFXU3hWVmtQOGFmNg?oc=5",
+  "published_at": "Wed, 01 Jul 2026 21:00:33 GMT",
+  "published_ts": 1782939633,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVdvTlJKVHpudXJwZExWT2RCMmFoRzVFNlRiTlFISnJYdkdBcTZEZTBmZVhacU5yNlM2RHRWRW5MUFVuMWpNNDlVcW9hMWNQTXk3NWpCbGM4dTZPM2pvWjczZ3lYUGZ1MGtZU1FOY1JHZkdtWjY5WEdCYkNWVlhwdVlaV0cxb09fY0ltNFFXU3hWVmtQOGFmNg?oc=5\" target=\"_blank\">Roundhill Memory ETF Options Spot-On: On July 1st, 382.44K Contracts Were Traded, With 1.63 Million Open Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "On July 1st, the Roundhill Memory ETF (DRAM) saw 382.44K options contracts traded with 1.63M open interest. This is routine fund activity data with no material news about holdings, pricing, or industry conditions."
+  },
+  "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "9125e02d41467a0192dd28f3138f39def19a5579",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Faces Major Losses Amid Nasdaq Tech Sell-Off - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0dxYkZVejVGTFVha1BzcTFOZDNJVW54dmtGTVJBU2RvR2JSazNzbldGVFc2MEdzUEJSd012VXduTUVXZDFubmxGWEZZS0M1Y0w1aDl2VzdVNlptNDhwZl9jVVZ1MUlILU5xOGhvZlh6YWx5Y1VKX2hYRVVhREZSd1dlOUw1eU9HRy1IVmNqamRfZy1UVENBZmNVZw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 21:02:29 GMT",
+  "published_ts": 1783026149,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0dxYkZVejVGTFVha1BzcTFOZDNJVW54dmtGTVJBU2RvR2JSazNzbldGVFc2MEdzUEJSd012VXduTUVXZDFubmxGWEZZS0M1Y0w1aDl2VzdVNlptNDhwZl9jVVZ1MUlILU5xOGhvZlh6YWx5Y1VKX2hYRVVhREZSd1dlOUw1eU9HRy1IVmNqamRfZy1UVENBZmNVZw?oc=5\" target=\"_blank\">Sandisk (SNDK) Faces Major Losses Amid Nasdaq Tech Sell-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, experienced losses during a broader Nasdaq tech sell-off. The story reports a price move without identifying a memory-specific catalyst or new concrete development."
+  },
+  "buffered_ts": 1783033317.3113132
  }
 ]
