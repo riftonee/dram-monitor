@@ -193,5 +193,365 @@
    "summary": "Brief price-movement headline about SanDisk (holding) declining without substantive news or catalyst disclosed. Clickbait-style question without concrete event or stated reason."
   },
   "buffered_ts": 1783000324.8843124
+ },
+ {
+  "id": "92f32ab57ab0d19fff0aa8d0f83cc3f0a09f0a28",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK hynix Unveils KRW 100T Cheongju Investment, Including KRW 80T NAND Fab Set for 1H29 Operations - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1UzdWlaNnA4RGVIWkZteVNXMFp2M3E3SFRfTWlmbUY0WXBudkZiY1ZIQzNkNW93VDFBaTZJQms4TjdsVmN1Wm1jbDVpTzVZMFVKSmZlWDJaX3AyVTZQNEVnTVhPRW14ZmhhTEh4UG45cHN6UzVwT2NDb2tDa3ZnTEF1VFY3VW5qZkJ3anFub0FVMi1MSGhDbGtpODVQV1JoX2ZudXVlMVJmRGFVSW9hZlEyTkZuUWhCdFYxY0lUdER1SzdYZzZPVVZhS1ZhOE1kZnVEQzVEWXdXUTRSQWpsemJraC1nbU90ZUk0?oc=5",
+  "published_at": "Thu, 02 Jul 2026 07:31:40 GMT",
+  "published_ts": 1782977500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1UzdWlaNnA4RGVIWkZteVNXMFp2M3E3SFRfTWlmbUY0WXBudkZiY1ZIQzNkNW93VDFBaTZJQms4TjdsVmN1Wm1jbDVpTzVZMFVKSmZlWDJaX3AyVTZQNEVnTVhPRW14ZmhhTEh4UG45cHN6UzVwT2NDb2tDa3ZnTEF1VFY3VW5qZkJ3anFub0FVMi1MSGhDbGtpODVQV1JoX2ZudXVlMVJmRGFVSW9hZlEyTkZuUWhCdFYxY0lUdER1SzdYZzZPVVZhS1ZhOE1kZnVEQzVEWXdXUTRSQWpsemJraC1nbU90ZUk0?oc=5\" target=\"_blank\">[News] SK hynix Unveils KRW 100T Cheongju Investment, Including KRW 80T NAND Fab Set for 1H29 Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a KRW 100 trillion (~USD 75B) investment in Cheongju, South Korea, including a KRW 80 trillion NAND fab scheduled to begin operations in H1 2029. This is a concrete, officially announced capacity investment by a major fund holding that signals material future production expansion in NAND memory."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "2c5486553d13f072f050b0e4f283824ab4f2870b",
+  "source": "93.3 The Drive",
+  "topic": "industry",
+  "title": "SK Hynix to spend $64 billion on flash memory chip plants under broader AI investment plan - 93.3 The Drive",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEVhQUh5UUc5NlR3TWpEa2ZtVjBRZkZRR0VFUEZXQUFKMEYwS3BrNy1JZGxZelQ2aXFpbHozbmdZQlhvM2JsX0hweFNWTk9iZ1pISW1xYVp5ZVkwdGdWREQ5ZUJHN0kwZmhLaTJuUHoxQ21YMDJsWkJpYjBpNDFBRVA4NngxZFp6NE9mZHVZeTF1NHBUNUNxc0hEcjhOalJ5NGdJ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 03:54:04 GMT",
+  "published_ts": 1782964444,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEVhQUh5UUc5NlR3TWpEa2ZtVjBRZkZRR0VFUEZXQUFKMEYwS3BrNy1JZGxZelQ2aXFpbHozbmdZQlhvM2JsX0hweFNWTk9iZ1pISW1xYVp5ZVkwdGdWREQ5ZUJHN0kwZmhLaTJuUHoxQ21YMDJsWkJpYjBpNDFBRVA4NngxZFp6NE9mZHVZeTF1NHBUNUNxc0hEcjhOalJ5NGdJ?oc=5\" target=\"_blank\">SK Hynix to spend $64 billion on flash memory chip plants under broader AI investment plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">93.3 The Drive</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "93.3 The Drive"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK Hynix announces $64 billion capex plan for flash memory (NAND) chip plants as part of broader AI infrastructure investment. This is a concrete, officially announced capacity/investment decision by a major memory supplier that directly signals production expansion to meet AI-driven demand."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "2b443d87c691e8da205020b22754efc9c0966425",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "South Korea to the rescue: The world's biggest chipmakers will drop $590 billion to end RAMageddon, but there's a catch - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHNPQzdoN01VNkQza1VQbGtLaXhta0tubC0zeGhnQ2lXZFpTb0tyOVpHX2J1WHJXczlUaEQ5cFR3QnE0akNEblF2VHM5WXZmTHBGSkRyWHpmVExnM0ZhMjBnQ29lQ0lwUFo2aXpzMHE5SURXUG5QLU9hQXBqekw3ZXBNY2kxN2NtVF9WbndqZmFhX0U1TjJoUWRR?oc=5",
+  "published_at": "Wed, 01 Jul 2026 11:35:00 GMT",
+  "published_ts": 1782905700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHNPQzdoN01VNkQza1VQbGtLaXhta0tubC0zeGhnQ2lXZFpTb0tyOVpHX2J1WHJXczlUaEQ5cFR3QnE0akNEblF2VHM5WXZmTHBGSkRyWHpmVExnM0ZhMjBnQ29lQ0lwUFo2aXpzMHE5SURXUG5QLU9hQXBqekw3ZXBNY2kxN2NtVF9WbndqZmFhX0U1TjJoUWRR?oc=5\" target=\"_blank\">South Korea to the rescue: The world's biggest chipmakers will drop $590 billion to end RAMageddon, but there's a catch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korean chipmakers (SK hynix, Samsung) planning $590 billion in capex to address DRAM/memory supply constraints. Reported as industry-wide investment commitment but framed as forward-looking strategy rather than a confirmed, binding commitment with specific timeline or capacity targets; lacks concrete details on timing and execution that would elevate to impact 4."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "5404a932cda13aa2e4b195af5268a637eda3a6a7",
+  "source": "Business Insider",
+  "topic": "industry",
+  "title": "A $12 billion electronics retailer says price increases are coming due to the memory chip shortage - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3g4bEFHY0xUOWlwWE9QUmhTMHY1RjRtZW5aNnlzWkl2MTRaQ0VJUTJTbkxPalhmaG55V0Z0V1cwMVYwX2Flc3hNRnROTVpkRUdYUGJNbDVaVDVFWGZMaWdDSUVLeUQ1S0M3UGdlZTVGZndMT2tDOTJlbnh5RTlLbDUyZnh5SGxDdVVRakNqOFpDY3JvNWZ5Skl4TQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 14:48:25 GMT",
+  "published_ts": 1783003705,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3g4bEFHY0xUOWlwWE9QUmhTMHY1RjRtZW5aNnlzWkl2MTRaQ0VJUTJTbkxPalhmaG55V0Z0V1cwMVYwX2Flc3hNRnROTVpkRUdYUGJNbDVaVDVFWGZMaWdDSUVLeUQ1S0M3UGdlZTVGZndMT2tDOTJlbnh5RTlLbDUyZnh5SGxDdVVRakNqOFpDY3JvNWZ5Skl4TQ?oc=5\" target=\"_blank\">A $12 billion electronics retailer says price increases are coming due to the memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Insider"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Electronics retailer citing memory chip shortage as driver of upcoming price increases. Indicates demand pressure and supply tightness in the memory market, but represents downstream commentary rather than a hard supply/pricing event."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "3bc44b476174833ebbf747517c1d4e9fe3aac412",
+  "source": "MSN",
+  "topic": "pricing",
+  "title": "DRAM prices are about to skyrocket — DDR4 and GDDR6 among formats that could increase in price by up to 45% - MSN",
+  "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQTl95eWdKaUJsdUdmVkl2OUhxNk4xejFtdXZSZ1NBaEtYZ3huOEhQNXdTOUo4S1E4dXBvYnhPNlhSRDA4Z1pWVzJMTFVQZVhGSTBJTXhuQVd1Rml4UXdtMEhOM3owTldhUUd4T19OWTdzQmppdG4xU1R3Vlh0ekUzSThPNW1waDg0dEg0S0dPNkd0WVY1WmpQN2FxSFlCM2hlSElqWlM3LXlxQ2doU2NZMlNUU29WeElQVXRMeHVybHZwa3lqUjM3RndQbU9DbkJldmFlZlduTlFHM3lpQzlrdkdnNm5pZFA3Ynd3aXU3RklsZWVNNmc4UFlVN2swbFBVOFhFN0JYcHZkVzVKdU12SmtXX295WFdPZHcxOUpqMUp6WVhaakpQc2FnWk5RLU5mZWtHYlFWcFp5cFdESzgyZXBJU3ZiN2FPQTA1Nzl1TkJSQWZpOE05cWYxNk1XTnVYM20tV3Y1RWN0ZUFldG9XZkdrOEFja3NSd2lqMVhaRVctbWVuSWpJ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 10:37:47 GMT",
+  "published_ts": 1782988667,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxQTl95eWdKaUJsdUdmVkl2OUhxNk4xejFtdXZSZ1NBaEtYZ3huOEhQNXdTOUo4S1E4dXBvYnhPNlhSRDA4Z1pWVzJMTFVQZVhGSTBJTXhuQVd1Rml4UXdtMEhOM3owTldhUUd4T19OWTdzQmppdG4xU1R3Vlh0ekUzSThPNW1waDg0dEg0S0dPNkd0WVY1WmpQN2FxSFlCM2hlSElqWlM3LXlxQ2doU2NZMlNUU29WeElQVXRMeHVybHZwa3lqUjM3RndQbU9DbkJldmFlZlduTlFHM3lpQzlrdkdnNm5pZFA3Ynd3aXU3RklsZWVNNmc4UFlVN2swbFBVOFhFN0JYcHZkVzVKdU12SmtXX295WFdPZHcxOUpqMUp6WVhaakpQc2FnWk5RLU5mZWtHYlFWcFp5cFdESzgyZXBJU3ZiN2FPQTA1Nzl1TkJSQWZpOE05cWYxNk1XTnVYM20tV3Y1RWN0ZUFldG9XZkdrOEFja3NSd2lqMVhaRVctbWVuSWpJ?oc=5\" target=\"_blank\">DRAM prices are about to skyrocket — DDR4 and GDDR6 among formats that could increase in price by up to 45%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "MSN reports DRAM prices (DDR4, GDDR6) could increase by up to 45%. While pricing forecasts are relevant to the memory cycle and fund holdings, this appears to be analyst or market commentary predicting future price moves rather than reporting a confirmed, concrete pricing event or transaction. Price forecasts and possibility-driven analysis score as impact 3 rather than 4-5."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "9099c85bc62c628d3192bef854537087cc7387ff",
+  "source": "TradingKey",
+  "topic": "industry",
+  "title": "Apple to Launch 5 New iPhone Models, Prepare 10 Million Foldables, Grab Share Amid Storage Shortage - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTk2bG9HRVc0eDJKMDBUWUp6dFlzQzFtcmRTd0RLalg2U0lBcUMzZkI1NDA0MUZIczNYbVhCNG1WZWRlRXJiZXFnOEtEYlJzTUhRX0Y2TUprSndsZTAtS25DakVKSHd4YkNtWjVpZmd6YTRDVk9CczFLMjRVMTMtbDRJUG0wX01BaW5lSlZwVE11NlVHTVRGeW9R?oc=5",
+  "published_at": "Thu, 02 Jul 2026 08:54:38 GMT",
+  "published_ts": 1782982478,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTk2bG9HRVc0eDJKMDBUWUp6dFlzQzFtcmRTd0RLalg2U0lBcUMzZkI1NDA0MUZIczNYbVhCNG1WZWRlRXJiZXFnOEtEYlJzTUhRX0Y2TUprSndsZTAtS25DakVKSHd4YkNtWjVpZmd6YTRDVk9CczFLMjRVMTMtbDRJUG0wX01BaW5lSlZwVE11NlVHTVRGeW9R?oc=5\" target=\"_blank\">Apple to Launch 5 New iPhone Models, Prepare 10 Million Foldables, Grab Share Amid Storage Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple planning 5 new iPhone models and 10 million foldables amid storage shortage could drive memory demand, but the story lacks concrete details on timing, specifications, or confirmed memory component orders that would materially impact DRAM holdings or prices."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "9c1f42eeded96c8304b7f16ff1c2dabdfe1396eb",
+  "source": "Cleanroom Technology",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix to be part of South Korea's new \"Three Mega Project\" AI push - Cleanroom Technology",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaXh0Y2NNbXF4MEhUMkQ2LUNrWWItRzNUZU4wVldaVXhVTGJGenBmTWRoWnB2QnA5RW9HbG80ZmwwaVNJM0N6Z2tBQ1I4NWdMS0NySzNZV3pOdlFReTNtMlJIeExrREdQdzduOGlnZ3pCX0FDZGpfT01R?oc=5",
+  "published_at": "Thu, 02 Jul 2026 14:44:34 GMT",
+  "published_ts": 1783003474,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaXh0Y2NNbXF4MEhUMkQ2LUNrWWItRzNUZU4wVldaVXhVTGJGenBmTWRoWnB2QnA5RW9HbG80ZmwwaVNJM0N6Z2tBQ1I4NWdMS0NySzNZV3pOdlFReTNtMlJIeExrREdQdzduOGlnZ3pCX0FDZGpfT01R?oc=5\" target=\"_blank\">Samsung and SK Hynix to be part of South Korea's new \"Three Mega Project\" AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleanroom Technology</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Cleanroom Technology"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix included in South Korea's new 'Three Mega Project' AI initiative. Positions both holdings to benefit from government-backed AI infrastructure investment, but the announcement lacks concrete detail on capex commitments, timelines, or production targets—it is a policy framework rather than a binding event."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "1e1651de8a7f9b87205caa9bb205718adfe19294",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Micron Stock Price Drops 10%—Why the AI Memory Bull Case Still Looks Intact - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUs0NW1YSUcxWDVvWHVrdVpENnVJcG95dHhOc2UzM01zcDlQU3N5OFVTdVJ4YVpyd29xUUZaaTVpWm1YaHpTZFprTGgzM0hYYV9NTllIU0VKMy1hMHg0bnQtQ3ZaeHoxeU5iSVNrUmwtT1BERTAzbXBuSWFnTGZOdDhDTUVfYzk3Z3ZPeFJmVDZfSmhHRFpGaC1LemgwcktJcEhhS3N6cE1QMnRIdExJSmR4ai1EbTBqeFVnYkppYWxWdXVicHI4clI3cVZCQ1F2bkNkTlh4UU9EQQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 13:04:48 GMT",
+  "published_ts": 1782997488,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUs0NW1YSUcxWDVvWHVrdVpENnVJcG95dHhOc2UzM01zcDlQU3N5OFVTdVJ4YVpyd29xUUZaaTVpWm1YaHpTZFprTGgzM0hYYV9NTllIU0VKMy1hMHg0bnQtQ3ZaeHoxeU5iSVNrUmwtT1BERTAzbXBuSWFnTGZOdDhDTUVfYzk3Z3ZPeFJmVDZfSmhHRFpGaC1LemgwcktJcEhhS3N6cE1QMnRIdExJSmR4ai1EbTBqeFVnYkppYWxWdXVicHI4clI3cVZCQ1F2bkNkTlh4UU9EQQ?oc=5\" target=\"_blank\">Micron Stock Price Drops 10%—Why the AI Memory Bull Case Still Looks Intact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) stock fell 10%, but analyst commentary maintains the AI memory bull thesis remains intact. This is a post-event price move with supporting opinion rather than a new concrete catalyst or earnings surprise distinct from prior guidance."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "1be185b1cfa1643cf10cf85b380aea3daf050dbb",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Micron Is Now Everyone Else's Problem (Rating Downgrade) (NASDAQ:MU) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFVhTjB1WGg0MDlPTnFfWVFQTFpfU0dfZk1pWU5KT3cwanFpUWNtcmlkbVAtWGRvekhYckQ2MEJiZ21zR29pVTlkdHI0ejBZVXI1enhOQW1TTGFoQVJHanVyUE80R01HcFN5Wnc0SUJJN1drRUZrY185ZVBfNWZkTllpWkJjeWpjeGF5UDRKclROZUpKMTVMNjR3?oc=5",
+  "published_at": "Wed, 01 Jul 2026 15:24:27 GMT",
+  "published_ts": 1782919467,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFVhTjB1WGg0MDlPTnFfWVFQTFpfU0dfZk1pWU5KT3cwanFpUWNtcmlkbVAtWGRvekhYckQ2MEJiZ21zR29pVTlkdHI0ejBZVXI1enhOQW1TTGFoQVJHanVyUE80R01HcFN5Wnc0SUJJN1drRUZrY185ZVBfNWZkTllpWkJjeWpjeGF5UDRKclROZUpKMTVMNjR3?oc=5\" target=\"_blank\">Micron Is Now Everyone Else's Problem (Rating Downgrade) (NASDAQ:MU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha publishes analyst opinion downgrading Micron (MU), a core DRAM ETF holding. Downgrade ratings and analyst commentary are relevant to the fund but represent market interpretation rather than new concrete company developments; stock reaction to such opinions typically lags or is absorbed into already-reported earnings news."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "6d982271e71dfbd1f4d72e048474638b549d703b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Can Seagate's Data Center Business Maintain its Growth Momentum? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGl0MWcxNTZhZlhHdUF0SEVVcFFPc2lnYTZ6T24zN19UTzFGSWNWbVpTbkc2RndrSUI2OTZmWXpTV1JBWGI5M2JrNTVvaWlfTmlHY2d6cEdlMkdjZGpyenFoSlJSU19Da003TlNTY2E5QTdqejJTUGEwT1d6ZFZxcEp6bDhzWmhPWmdtRG9La1Zuak5mMGV2aWxYTjRCbUVCcGxsNWJ3?oc=5",
+  "published_at": "Thu, 02 Jul 2026 13:58:00 GMT",
+  "published_ts": 1783000680,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGl0MWcxNTZhZlhHdUF0SEVVcFFPc2lnYTZ6T24zN19UTzFGSWNWbVpTbkc2RndrSUI2OTZmWXpTV1JBWGI5M2JrNTVvaWlfTmlHY2d6cEdlMkdjZGpyenFoSlJSU19Da003TlNTY2E5QTdqejJTUGEwT1d6ZFZxcEp6bDhzWmhPWmdtRG9La1Zuak5mMGV2aWxYTjRCbUVCcGxsNWJ3?oc=5\" target=\"_blank\">Can Seagate's Data Center Business Maintain its Growth Momentum?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on Seagate's data center business momentum. Seagate is a DRAM ETF holding, and data center trends drive memory demand, but this is opinion/analysis rather than a concrete event or new data."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "1d74a7e3c7f7d6af72d2a9fae96afdb14c84053c",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "Sandisk Stock Falls 10% to Start Q3: Is the AI Memory Rally Finally Over? - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVRbTNsR1BtTkZBT0FNaV9uTGR2akJKSEExOHMzcjJrYTRlVzQ2RUx1eWpWMGxwRHk5VERwaGRJR2w5dEJXdzBlU1loQ3gzMnhIT041a1ZKY1RGNV9nR0JaVlBBaWFya3dDZ1h3cmNKbS1DOVpFMkhsUGo3S2Rla2VVRFg5YTU0NXd6TTRMSG1mWC00QzJndg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 14:29:09 GMT",
+  "published_ts": 1783002549,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVRbTNsR1BtTkZBT0FNaV9uTGR2akJKSEExOHMzcjJrYTRlVzQ2RUx1eWpWMGxwRHk5VERwaGRJR2w5dEJXdzBlU1loQ3gzMnhIT041a1ZKY1RGNV9nR0JaVlBBaWFya3dDZ1h3cmNKbS1DOVpFMkhsUGo3S2Rla2VVRFg5YTU0NXd6TTRMSG1mWC00QzJndg?oc=5\" target=\"_blank\">Sandisk Stock Falls 10% to Start Q3: Is the AI Memory Rally Finally Over?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WEEX"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock fell 10% at the start of Q3. The article questions whether the AI memory rally is ending, but the decline itself is reported as a price move without a specific catalyst or event disclosed in the snippet. Lacking concrete news—earnings, guidance, production cuts, or pricing data—this reads as market reaction analysis rather than a triggered event. Scored as relevant soft news (opinion/analysis on holdings) rather than a concrete development."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "d3c37f385c820c74d2902a3bd3c2d4de5afd29f8",
+  "source": "SRN News",
+  "topic": "industry",
+  "title": "UK’s Currys warns memory chip shortage will push up prices - SRN News",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhsMHE2S0VPdVZVMk4tRkM4YkV4WFBFbUhqbmxIazlwYmZlZmpWWG4wbUF4MXVhM2wxOTVWM1dGcnZpUXRITWpUdXhjRFZQS0tGNjNqdGVHUFFvcUNzN0dxUUl1WmNtUG9ycmQ3aGV6MlBTaDdXSUtSS1N0Z2dyNmNIRGg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 10:49:10 GMT",
+  "published_ts": 1782989350,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhsMHE2S0VPdVZVMk4tRkM4YkV4WFBFbUhqbmxIazlwYmZlZmpWWG4wbUF4MXVhM2wxOTVWM1dGcnZpUXRITWpUdXhjRFZQS0tGNjNqdGVHUFFvcUNzN0dxUUl1WmNtUG9ycmQ3aGV6MlBTaDdXSUtSS1N0Z2dyNmNIRGg?oc=5\" target=\"_blank\">UK’s Currys warns memory chip shortage will push up prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRN News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SRN News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "UK retailer Currys warns that a memory chip shortage will result in higher prices for memory products. This reflects supply-side tightness in the memory market that could support pricing dynamics for DRAM holdings, though the warning is forward-looking and based on retailer commentary rather than confirmed supply disruption data."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "3a8a66403019c43e4c5e4f329d96f7b89136b254",
+  "source": "Pluang",
+  "topic": "holding",
+  "title": "Sandisk's growth fueled by AI-driven memory dem... - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnZhZzExN3pnVmdLUkdTZUIyZVprU09LSVYxMHBPZVRmMjRxRHV1VHhnRk5MS0dQaXpnS2ZLM3hoWTdTUzJONG9MMjlHX2hJQVVEdVdLM2tXUjhiMVJxSEZwUXEzUDViOUZ4V0tCREFVWFlUTjZxTC1rQ1kwRGoxUENOaGliTE1fdS1mY2RYZzZwTE85aWxSejhfNldkZDZER2RUVS1B?oc=5",
+  "published_at": "Thu, 02 Jul 2026 13:46:52 GMT",
+  "published_ts": 1783000012,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnZhZzExN3pnVmdLUkdTZUIyZVprU09LSVYxMHBPZVRmMjRxRHV1VHhnRk5MS0dQaXpnS2ZLM3hoWTdTUzJONG9MMjlHX2hJQVVEdVdLM2tXUjhiMVJxSEZwUXEzUDViOUZ4V0tCREFVWFlUTjZxTC1rQ1kwRGoxUENOaGliTE1fdS1mY2RYZzZwTE85aWxSejhfNldkZDZER2RUVS1B?oc=5\" target=\"_blank\">Sandisk's growth fueled by AI-driven memory dem...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk's growth is being driven by AI-related memory demand. This is relevant commentary on a fund holding, but the story appears to be analysis or discussion of trends rather than a concrete event or hard number, making it opinion-based rather than breaking news."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "c8be64f5da282a047cc551057dbc446df7ba4cab",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Themes ETFs Strikes First Again: Long and Short SK Hynix ETFs Launch Alongside One of AI's Most Anticipated IPOs - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONm9va3BwOXQ2YmxQRFVsODY2Q0I0WWx6UUM2T211TUZWeWtYQVRmLTNFTGo4ZFpvaDlrRUI3cy1tXy1JajRtUnJLcU5FaGppLWswaEpoSlRYbTdFeTFldUJHbEhpcjh4TEM0cGlwNWZmN3BVMkNnUkRodHNoWjYzY2RDMmJtcHllYlloOXg3VmNOX3A3dUZDc0I5aEZid2NJYmZJM1N6aTJkM0tqT2dIbWowcms2aWhULWdzYnJtTWYyRzVyQmtmOXFtT1Z4cHlfVDZwR1N1OVd2bFZZR2EwQ18zeDVzbUI2c09HS1F5YTFZNWN0dHFKc21wZ2xGTGdBWEE?oc=5",
+  "published_at": "Thu, 02 Jul 2026 13:00:00 GMT",
+  "published_ts": 1782997200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxONm9va3BwOXQ2YmxQRFVsODY2Q0I0WWx6UUM2T211TUZWeWtYQVRmLTNFTGo4ZFpvaDlrRUI3cy1tXy1JajRtUnJLcU5FaGppLWswaEpoSlRYbTdFeTFldUJHbEhpcjh4TEM0cGlwNWZmN3BVMkNnUkRodHNoWjYzY2RDMmJtcHllYlloOXg3VmNOX3A3dUZDc0I5aEZid2NJYmZJM1N6aTJkM0tqT2dIbWowcms2aWhULWdzYnJtTWYyRzVyQmtmOXFtT1Z4cHlfVDZwR1N1OVd2bFZZR2EwQ18zeDVzbUI2c09HS1F5YTFZNWN0dHFKc21wZ2xGTGdBWEE?oc=5\" target=\"_blank\">Themes ETFs Strikes First Again: Long and Short SK Hynix ETFs Launch Alongside One of AI's Most Anticipated IPOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Themes ETFs launches long and short SK hynix ETFs alongside an AI IPO. SK hynix is a major DRAM holding, but this is primarily fund-industry news about competing ETF products rather than a material development affecting DRAM itself or the Roundhill DRAM ETF's operations or holdings."
+  },
+  "buffered_ts": 1783008276.4302533
+ },
+ {
+  "id": "c0073277ae8e79b5d33951b515796309138740f3",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlRYcGJqVjNOclM3NXJzWmNNQUE1SGRXdy0yU3VFVWtxanlQbVBad2c0MDYwVVVWZldPOGJJNUVEOVBvQThXYjJtQzFnbC0yWi1CMjBSc19YYlkxNTFzQ2xJSUttT3BrZW03TWtzQVpjXzZIbHoxSi0xWm55cVNBSUpGS29JczdiTnpEeGo2Rkg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 04:00:00 GMT",
+  "published_ts": 1782964800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlRYcGJqVjNOclM3NXJzWmNNQUE1SGRXdy0yU3VFVWtxanlQbVBad2c0MDYwVVVWZldPOGJJNUVEOVBvQThXYjJtQzFnbC0yWi1CMjBSc19YYlkxNTFzQ2xJSUttT3BrZW03TWtzQVpjXzZIbHoxSi0xWm55cVNBSUpGS29JczdiTnpEeGo2Rkg?oc=5\" target=\"_blank\">MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (MU, SNDK, STX, WDC) experiencing a stock-price decline described as a 'memory pump fade' with retail trader commentary. This is a price-move story without a stated concrete catalyst beyond sentiment, making it a minor mention."
+  },
+  "buffered_ts": 1783008276.4302533
  }
 ]
