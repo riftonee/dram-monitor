@@ -1183,5 +1183,221 @@
    "summary": "SanDisk (SNDK), a fund holding, experienced a 13.35% stock decline on July 2. The article offers analysis but no stated catalyst or concrete event driving the move; without additional context on the underlying cause, this is a price move without distinct fundamental news."
   },
   "buffered_ts": 1783022502.9233258
+ },
+ {
+  "id": "34ad3a541e90bc8ad0868e601d150d4614e73d87",
+  "source": "Huawei Central",
+  "topic": "holding",
+  "title": "SK Hynix plans to invest $64 billion for AI memory chip plants - Huawei Central",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOODczYVZDcUVFNUM5c2lvT1JubkVveFBCRXJRX2N6TlgyNjZFbWI2M3NjRHJ2aVNFMjZlSFNvU1J2Y0NJMjEyaVY3QWxYX2lFd3BQS0djbDNGM1FMMDVvZFF6cW4tMjkyM3lJejE0RnBENDRJTUxFSlFJS0UtcmV1el9NT0lpNkRnVWVPOEFIdVhPZ0tJRE9B0gGcAUFVX3lxTFBWcVRyTVI3YUJfOTJnNk1kajFGdHlyLW5zOG9tU1hWT3hIanNvb2dOb1J3c0Foejc4anNldFV4ZU9LWEMyNzFiRWhPR0ZOOFZHcXpoQWZuQmh1cEYtNjh2enBKWDl5Q0JDTUNiMFktbno3VWxsSk92SFFQQlhZMXNqMWowTUNTZk5FM3dibXRSSGZPelAyNmRRYy1Ybg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 11:42:25 GMT",
+  "published_ts": 1782992545,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOODczYVZDcUVFNUM5c2lvT1JubkVveFBCRXJRX2N6TlgyNjZFbWI2M3NjRHJ2aVNFMjZlSFNvU1J2Y0NJMjEyaVY3QWxYX2lFd3BQS0djbDNGM1FMMDVvZFF6cW4tMjkyM3lJejE0RnBENDRJTUxFSlFJS0UtcmV1el9NT0lpNkRnVWVPOEFIdVhPZ0tJRE9B0gGcAUFVX3lxTFBWcVRyTVI3YUJfOTJnNk1kajFGdHlyLW5zOG9tU1hWT3hIanNvb2dOb1J3c0Foejc4anNldFV4ZU9LWEMyNzFiRWhPR0ZOOFZHcXpoQWZuQmh1cEYtNjh2enBKWDl5Q0JDTUNiMFktbno3VWxsSk92SFFQQlhZMXNqMWowTUNTZk5FM3dibXRSSGZPelAyNmRRYy1Ybg?oc=5\" target=\"_blank\">SK Hynix plans to invest $64 billion for AI memory chip plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei Central</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Huawei Central"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces $64 billion investment plan for AI memory chip plants, a concrete capital allocation decision directly tied to AI-driven HBM and memory demand expansion."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "88d6590fc72c320c110755ac7728bf8d7eace6e1",
+  "source": "Business Insider Africa",
+  "topic": "industry",
+  "title": "A $12 billion electronics retailer says price increases are coming due to the memory chip shortage - Business Insider Africa",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUmg2bUFscEQyQkJPU2xJUlgzWkJCcXk2ZkJoTnFZU2RodVNqV1RselRIdDRqUEtSd29CWFNLdlRYbTg2NTZvUzRJUVAzTHZvVnc0NnMzSFhWWG9jMDFGeXBfSHNkbldpX3pkeTc4ZGExMVBzWF9EV3A3d1NqbjlacjBVUXQ5MXhaTlJ4WWxZZHNmSC1FMEhMMDZtcnEwQVAzVmloR1Z1Q2RKbXQ3Ni1TMTA1VFhEYk5qaFEzeHZvcjc3VVV1dEIyMGYtaEQ2dw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 14:48:13 GMT",
+  "published_ts": 1783003693,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUmg2bUFscEQyQkJPU2xJUlgzWkJCcXk2ZkJoTnFZU2RodVNqV1RselRIdDRqUEtSd29CWFNLdlRYbTg2NTZvUzRJUVAzTHZvVnc0NnMzSFhWWG9jMDFGeXBfSHNkbldpX3pkeTc4ZGExMVBzWF9EV3A3d1NqbjlacjBVUXQ5MXhaTlJ4WWxZZHNmSC1FMEhMMDZtcnEwQVAzVmloR1Z1Q2RKbXQ3Ni1TMTA1VFhEYk5qaFEzeHZvcjc3VVV1dEIyMGYtaEQ2dw?oc=5\" target=\"_blank\">A $12 billion electronics retailer says price increases are coming due to the memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Insider Africa"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "A major electronics retailer signals that memory chip shortages are driving price increases for consumers. While this reflects underlying supply/demand tightness in DRAM/NAND markets, the story is primarily forward-looking commentary rather than a concrete pricing development or production announcement. It serves as a downstream indicator of memory supply constraints but lacks specific price points or timing detail."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "3ce14edd1d36574cc30acb20720ff1a1973afd74",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "SanDisk Slumps 10% But BofA Stays Bullish. Here Is How to Play SanDisk Stock Here. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjhyOXVRakVHX3dETGJSWVVGZDg1QmJUOXA1UXFSUU1ZbGxnaF83b3FmdDFnaDNYUzJrR0EzaW1HWVZ4N3o2MWV6X2VMcFBUWGVrUHIwbGJJa1JxajlXVnlMLVhHZXFheVVnNjVwcWNIMkQxNDI1VmFkTWRFaWZZOV9SNHliVlRhWGo5YVhDSVJhMmt5cTNDTVl3X2pDR1dLdEpiMENQSTV2ZWZydEplMHRJM09NUWkyM1JWY184Y0M?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:11:30 GMT",
+  "published_ts": 1783023090,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjhyOXVRakVHX3dETGJSWVVGZDg1QmJUOXA1UXFSUU1ZbGxnaF83b3FmdDFnaDNYUzJrR0EzaW1HWVZ4N3o2MWV6X2VMcFBUWGVrUHIwbGJJa1JxajlXVnlMLVhHZXFheVVnNjVwcWNIMkQxNDI1VmFkTWRFaWZZOV9SNHliVlRhWGo5YVhDSVJhMmt5cTNDTVl3X2pDR1dLdEpiMENQSTV2ZWZydEplMHRJM09NUWkyM1JWY184Y0M?oc=5\" target=\"_blank\">SanDisk Slumps 10% But BofA Stays Bullish. Here Is How to Play SanDisk Stock Here.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock declined 10% but Bank of America maintained a bullish stance. This is a post-move analyst reaction and opinion piece, not a concrete event or new development that moves the memory cycle."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "52d8877937d872f2358dfa773961574554bb3390",
+  "source": "Kiplinger",
+  "topic": "holding",
+  "title": "Nasdaq Surrenders 207 Points as Sandisk Sell-Off Continues: Stock Market Today - Kiplinger",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWhDYlVfWHZjaG9SQm9IRVVGb2wxNmxwRUpwMXc5dDZRWjM2U3RoS1NENEUwNEFfSEhDNDhMSjNraDh5Wkx2akEtUHFLejJDZi15MDRhSEdod3RrUW1DZmdmM1YtRER4VUJyalFSX0Y1TEs5MHpXbjZNVUVWOGNvX1QwSi1WMGtfbXVWa015Q2h2RmtyNWkzTW1MYm1MUGlSZW9takFjUQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:11:43 GMT",
+  "published_ts": 1783023103,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWhDYlVfWHZjaG9SQm9IRVVGb2wxNmxwRUpwMXc5dDZRWjM2U3RoS1NENEUwNEFfSEhDNDhMSjNraDh5Wkx2akEtUHFLejJDZi15MDRhSEdod3RrUW1DZmdmM1YtRER4VUJyalFSX0Y1TEs5MHpXbjZNVUVWOGNvX1QwSi1WMGtfbXVWa015Q2h2RmtyNWkzTW1MYm1MUGlSZW9takFjUQ?oc=5\" target=\"_blank\">Nasdaq Surrenders 207 Points as Sandisk Sell-Off Continues: Stock Market Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kiplinger</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Kiplinger"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, is experiencing a continued sell-off that contributed to a broader Nasdaq decline. The article reports on stock price movement and market reaction but does not provide a concrete catalyst or new information beyond the price action itself."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "02db64d250ac85e420c919ca446a47b01f82466d",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Micron's HBM surge could redefine the AI growth story - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEpPZmhEQWRQZG9fMjlwaXQwSHNjeWlmc0lwR1o5d19saDhBU1dmR1FPY2xiaWZxS2F6SUdwYjAxUkUzWUpnYmlEcWV2Wk12b1pveEcxZ1FIZDlISlZaaG5RdnVQZ3owWFJjTl8wZC1fWk1fREQ1ZUU2UXBJQ2dLei1iQ3VTVXVjSTFtRUlRRnA0QWVIck8xa2oza3k4TWhIamNqV2JOMjJKdw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:21:16 GMT",
+  "published_ts": 1782973276,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEpPZmhEQWRQZG9fMjlwaXQwSHNjeWlmc0lwR1o5d19saDhBU1dmR1FPY2xiaWZxS2F6SUdwYjAxUkUzWUpnYmlEcWV2Wk12b1pveEcxZ1FIZDlISlZaaG5RdnVQZ3owWFJjTl8wZC1fWk1fREQ1ZUU2UXBJQ2dLei1iQ3VTVXVjSTFtRUlRRnA0QWVIck8xa2oza3k4TWhIamNqV2JOMjJKdw?oc=5\" target=\"_blank\">Micron's HBM surge could redefine the AI growth story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece discussing Micron's HBM (high-bandwidth memory) potential as a driver of AI growth. This is opinion/forward-looking commentary rather than a concrete event or hard number, making it relevant to industry dynamics but not a confirmed market-moving development."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "9dff5dfdd4ed5bbd8b9453aa282dc6b06c189513",
+  "source": "The Chronicle-Journal",
+  "topic": "holding",
+  "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know - The Chronicle-Journal",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGowQU1LMEJzOWUxenk5VnlNc1FHZ3JsRHlxME91bnpmc2tIX2ZacUNreTBkcVJXRkt5NHJMSVZ2QTI4Z2xpYzFsRV8wb3RybmsxS3dCMnExSXlSeVJpOHhlYzloVEQ3ZXdKNDl4a2NQOUNLLTJxN2Z3dnp6Q2pFQ25rajJJUC1aU2Q0YUFzVWpfY1MyMjZ4aFIwYmdTb051UG1OZDd5dXFNQlcxLWhkZG5yZE51TlJlUjBqanIyT1N3bExEOE1SQ3NTNXNyaFp1N0kwOUozNldEVzJKLXdoZThabnRxTHVSVHU2M2dmcnV3X3VqM3JRVGo0elFwQQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 19:45:00 GMT",
+  "published_ts": 1783021500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGowQU1LMEJzOWUxenk5VnlNc1FHZ3JsRHlxME91bnpmc2tIX2ZacUNreTBkcVJXRkt5NHJMSVZ2QTI4Z2xpYzFsRV8wb3RybmsxS3dCMnExSXlSeVJpOHhlYzloVEQ3ZXdKNDl4a2NQOUNLLTJxN2Z3dnp6Q2pFQ25rajJJUC1aU2Q0YUFzVWpfY1MyMjZ4aFIwYmdTb051UG1OZDd5dXFNQlcxLWhkZG5yZE51TlJlUjBqanIyT1N3bExEOE1SQ3NTNXNyaFp1N0kwOUozNldEVzJKLXdoZThabnRxTHVSVHU2M2dmcnV3X3VqM3JRVGo0elFwQQ?oc=5\" target=\"_blank\">Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chronicle-Journal</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Chronicle-Journal"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital (WDC) shares are falling alongside MACOM and Lattice Semiconductor. The snippet provides no specific catalyst or concrete news beyond the stock price movement itself, making this a minor passing mention of a price move without stated cause."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "a06302439b5ab812014ab46d19b3ce1dfaf2e8f9",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Seagate, Kulicke and Soffa, and Lam Research Shares Plummet, What You Need To Know - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUFZnUGVXc0JsOE5FRGZjbU1LaUVXOE1XMVc1Skw3ZVVmenlnZ21nZ213UE92aFdtU181dExWMkUzaXJsR29sc0F3RlcydUY5SU5ud2JCN2d6Ylp5Ym9ENnp3cldrNWM0QjFteVlPcVBVV2lqUnoyRlZwcnBiQzdaWnkxRU9mSGE3VDAzNGs2NXQ5QnRMbDZJT29KRDBIOWdsUjlCMHhlc2dBSXRhMTRVc1k4YVFNR2ZGb1d4Z2NEb3V6THRObVYzTFlfLTJrQzVmV2RSYmJtdw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 19:45:40 GMT",
+  "published_ts": 1783021540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUFZnUGVXc0JsOE5FRGZjbU1LaUVXOE1XMVc1Skw3ZVVmenlnZ21nZ213UE92aFdtU181dExWMkUzaXJsR29sc0F3RlcydUY5SU5ud2JCN2d6Ylp5Ym9ENnp3cldrNWM0QjFteVlPcVBVV2lqUnoyRlZwcnBiQzdaWnkxRU9mSGE3VDAzNGs2NXQ5QnRMbDZJT29KRDBIOWdsUjlCMHhlc2dBSXRhMTRVc1k4YVFNR2ZGb1d4Z2NEb3V6THRObVYzTFlfLTJrQzVmV2RSYmJtdw?oc=5\" target=\"_blank\">Seagate, Kulicke and Soffa, and Lam Research Shares Plummet, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate shares plummeted, but the article provides no specific catalyst, cause, or concrete news—only reporting a stock price decline. This is a passing price-move mention without a distinct event or hard information about memory demand, supply, or the company's operations."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "2fba1a5d10c9612bf042fdbeb042bc3147a01961",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix Gets Dedicated Leveraged ETFs Ahead of High-Stakes AI Market Debut - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYl9DTE5zVWZZeFZNeU9TSjV1cXN0LUQyd3NRcVhub1oybDRhT0pLdVVpcDV1ZVVudmZUSkhEeXJYUlFnakp0WUZTa3U4cFVXWWszREpjS3pPOEQ0T2xtNnhxR0xjc0psMVVpUTJVbzl6VEh4OWFBVHl0VXNfVXc1RnBFRHJoQ0dIVG5Mc1VBVUJxTUc3ZHdiVEIxM2J6ekYtOS05Um14dHRieUFBRnRpTVBhWC1vNm9lWmY0X1lIZFdfTXd5UzU0Vw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:19:36 GMT",
+  "published_ts": 1783023576,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYl9DTE5zVWZZeFZNeU9TSjV1cXN0LUQyd3NRcVhub1oybDRhT0pLdVVpcDV1ZVVudmZUSkhEeXJYUlFnakp0WUZTa3U4cFVXWWszREpjS3pPOEQ0T2xtNnhxR0xjc0psMVVpUTJVbzl6VEh4OWFBVHl0VXNfVXc1RnBFRHJoQ0dIVG5Mc1VBVUJxTUc3ZHdiVEIxM2J6ekYtOS05Um14dHRieUFBRnRpTVBhWC1vNm9lWmY0X1lIZFdfTXd5UzU0Vw?oc=5\" target=\"_blank\">SK Hynix Gets Dedicated Leveraged ETFs Ahead of High-Stakes AI Market Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix (a holding in DRAM) is getting dedicated leveraged ETFs ahead of its AI market entry. This is minor fund/financial-product news about the holding itself rather than material business or market developments affecting the memory cycle or DRAM prices."
+  },
+  "buffered_ts": 1783028621.266738
+ },
+ {
+  "id": "7aeff70ce6f5e5d88552b99dfd4689aa87f83568",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkhaaDNlMUMwdi1vNkNvZFNaUTBpY3ludTdRWXNiUWJYVExCaW9Mc2VZbGZVb3hUNktKVDB2RGUtZnVadjQtUGl1Z0lGSk1xVHlnU2hoa0Fhd0F2QV9CckVhNEYwTUh5WTEtai1na05sTWQyRG5lNTFVTG1RX05UYU5TQUltX1BWS1BXMm5zeHFGZGQ5cEo2cEp3T0ZpcXFPS2VSSWg1OElrb0JlUDZ5REdhU0JCNW8xdWI4SmwwOA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 17:36:00 GMT",
+  "published_ts": 1783013760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkhaaDNlMUMwdi1vNkNvZFNaUTBpY3ludTdRWXNiUWJYVExCaW9Mc2VZbGZVb3hUNktKVDB2RGUtZnVadjQtUGl1Z0lGSk1xVHlnU2hoa0Fhd0F2QV9CckVhNEYwTUh5WTEtai1na05sTWQyRG5lNTFVTG1RX05UYU5TQUltX1BWS1BXMm5zeHFGZGQ5cEo2cEp3T0ZpcXFPS2VSSWg1OElrb0JlUDZ5REdhU0JCNW8xdWI4SmwwOA?oc=5\" target=\"_blank\">Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Direxion is launching SKHL, a 2X leveraged daily ETF tracking SK hynix. While SK hynix is a key DRAM fund holding, this is a new competing product announcement that does not materially affect SK hynix fundamentals, operations, or the memory cycle itself. It is a minor market structure development."
+  },
+  "buffered_ts": 1783028621.266738
  }
 ]
