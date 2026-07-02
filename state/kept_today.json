@@ -2380,5 +2380,370 @@
    "summary": "Meta's AI cloud infrastructure decision reportedly caused semiconductor stocks to decline. While relevant to memory-chip demand (AI infrastructure capex is a key demand driver for DRAM), the article appears to report a stock price reaction rather than a concrete new development or guidance change from Meta or the fund's holdings. Lacks specific detail on the nature of the move or its quantified impact on memory demand."
   },
   "buffered_ts": 1782971839.483004
+ },
+ {
+  "id": "ad62e13210645faef35f861026038e572beb182f",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Samsung, SK hynix to build HBM packaging fabs in Chungcheong region as part of $252.5 bil. in total investment - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQdIB-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 01:29:00 GMT",
+  "published_ts": 1782955740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQdIB-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQQ?oc=5\" target=\"_blank\">Samsung, SK hynix to build HBM packaging fabs in Chungcheong region as part of $252.5 bil. in total investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and SK hynix announced official plans to build HBM (high-bandwidth memory) packaging fabrication plants in South Korea's Chungcheong region as part of a $252.5 billion total investment commitment. This is a concrete, officially announced capacity decision directly tied to HBM supply expansion, a key demand driver for memory semiconductors and core to the fund's holdings."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "a41ee14c2ef1330fbbfbdc1a60d6a7bad1ae5a67",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "SK Hynix to spend US$64.4 billion on flash memory chip plants under broader AI investment plan - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTNSenhaTkZ0cVMtT2ViUUlaeWRFZkJ6X1YzM3BJbGpxZnZoUzlTam1OREpMOHUwRkRYSFlDeERpcXFmRnZaYWktcHBlY1VDZ2pRVVRud2NpYTRyVHRWbWZYSEh4dzBaVEJCVkt2bzYwZjN2NkFXVTBBQWJJQzJKZUdRUG53SnZ5dWROQUVTRWNqV2Z6SW1Mc2UtZ2tUekY4TDNTOW9LLUx1U0RNWjlUcFF3OEM4R3I3SHM5S29kbGtZbTlBWW1hUVZadlN0MGM?oc=5",
+  "published_at": "Thu, 02 Jul 2026 08:34:00 GMT",
+  "published_ts": 1782981240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTNSenhaTkZ0cVMtT2ViUUlaeWRFZkJ6X1YzM3BJbGpxZnZoUzlTam1OREpMOHUwRkRYSFlDeERpcXFmRnZaYWktcHBlY1VDZ2pRVVRud2NpYTRyVHRWbWZYSEh4dzBaVEJCVkt2bzYwZjN2NkFXVTBBQWJJQzJKZUdRUG53SnZ5dWROQUVTRWNqV2Z6SW1Mc2UtZ2tUekY4TDNTOW9LLUx1U0RNWjlUcFF3OEM4R3I3SHM5S29kbGtZbTlBWW1hUVZadlN0MGM?oc=5\" target=\"_blank\">SK Hynix to spend US$64.4 billion on flash memory chip plants under broader AI investment plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "The Business Times",
+    "marketscreener.com",
+    "WTAQ"
+   ],
+   "titles": [
+    "SK Hynix to spend $64 billion on flash memory chip plants under broader AI investment plan - marketscreener.com",
+    "SK Hynix to spend $64 billion on flash memory chip plants under broader AI investment plan - WTAQ"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces $64.4 billion capex plan for flash memory chip plants as part of broader AI infrastructure investment strategy. This is a concrete, officially announced capital commitment that signals material expansion in production capacity and reflects the company's strategic positioning in the AI-driven memory cycle."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "81f23d4bcd254cbd9c71baa9edee4dd36c642d26",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix to invest $64 billion in new AI memory chip facilities, Reuters reports By Investing.com - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGtjZVhyY1lBLWpsUnFxUXBzVVB3azBNNjM2bFlNVlJjZHp4cnIwOC1BVjRWeHgtN0NvWkU0YTluZEc4TlR3aG5CbUo0aDN3LTJja0R6ajVrTVVnNlMxUDJFWktlbFVDWTNHb2Vra0JsSFlwMkN3V0oydWplRzBtVjNVODJucmFVbzd5RkQyMWIxRW85blgxMUJBUHhiUlVJYkJmT0ZSMGh0V3NvOWp2S2JIX3J5cFZHV29xUnJhMTlHdThKT1d6WlJhYWZhQQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:30:52 GMT",
+  "published_ts": 1782973852,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGtjZVhyY1lBLWpsUnFxUXBzVVB3azBNNjM2bFlNVlJjZHp4cnIwOC1BVjRWeHgtN0NvWkU0YTluZEc4TlR3aG5CbUo0aDN3LTJja0R6ajVrTVVnNlMxUDJFWktlbFVDWTNHb2Vra0JsSFlwMkN3V0oydWplRzBtVjNVODJucmFVbzd5RkQyMWIxRW85blgxMUJBUHhiUlVJYkJmT0ZSMGh0V3NvOWp2S2JIX3J5cFZHV29xUnJhMTlHdThKT1d6WlJhYWZhQQ?oc=5\" target=\"_blank\">SK Hynix to invest $64 billion in new AI memory chip facilities, Reuters reports By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces $64 billion investment in new AI memory chip facilities. This is a concrete, officially announced capital commitment by a major fund holding that directly addresses AI-driven demand for memory capacity and signals material expansion of production capability."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "85011ee72a49aa5111ee6849c6d74b0f89ddd2dc",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK hynix Reportedly Removes Price Cap in Memory Long-Term Agreements, Diverging from Micron - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVB4N1htSGdWRmlFVXJoV0FjWVJLdTRCclNXeUM1UV9GWDBVS25IX3B0dm10dUVBZXFnNHVVeFhpdEVpTm5nMFo2LWRHQnFMNElXa05aVEFLMEFnZmxackdlMXM0aFJ0RjdBY0RlWGI0b0NKaGpRSkpNOGJhR0IzT1pWT2VGRG5JelJrcFlJTkRXLVNkWUk4R19WbVRNdUp2X0w2VE5YTVNUdHlEYnZzc25oSmMzVFZQODdpR0c2aUhkdXRDZGZfY25oUzBPUVo2NjN4a1h3?oc=5",
+  "published_at": "Thu, 02 Jul 2026 04:29:53 GMT",
+  "published_ts": 1782966593,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVB4N1htSGdWRmlFVXJoV0FjWVJLdTRCclNXeUM1UV9GWDBVS25IX3B0dm10dUVBZXFnNHVVeFhpdEVpTm5nMFo2LWRHQnFMNElXa05aVEFLMEFnZmxackdlMXM0aFJ0RjdBY0RlWGI0b0NKaGpRSkpNOGJhR0IzT1pWT2VGRG5JelJrcFlJTkRXLVNkWUk4R19WbVRNdUp2X0w2VE5YTVNUdHlEYnZzc25oSmMzVFZQODdpR0c2aUhkdXRDZGZfY25oUzBPUVo2NjN4a1h3?oc=5\" target=\"_blank\">[News] SK hynix Reportedly Removes Price Cap in Memory Long-Term Agreements, Diverging from Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "SK hynix reportedly removes price caps in memory long-term supply agreements, diverging from Micron's strategy. This is a concrete pricing and supply-chain development affecting contract structure for DRAM/NAND, a material shift in negotiating positions between major DRAM fund holdings."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "fdd88283236bd330f836eaabf260bfab65da3838",
+  "source": "Electronics For You BUSINESS",
+  "topic": "holding",
+  "title": "SK Hynix to invest $64 billion in chip plants as AI demand fuels expansion - Electronics For You BUSINESS",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHZTWmhVc3FmQUQ1TW5ocGh6ZVlHN2dJVkt2eHhPaFVENzBseld3WERmZGJBMzZub1lkTU5VNUpKUy1VRDg4Y2RFR1oxc1NSbTA2UkstMFRFRFZCbXIzaEQxOHh3N0Mxd0xZcmxoRUpCWVhVU2xsckgxaERwVkNFMWw0cmJobEJRbTR2ZGdzSHVIWWM1OVR3U1BXelFRRDNkOFVpanZIanJkRGxHbkMtcGpWLTdzU0ktcDg2S1p4MA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 07:38:09 GMT",
+  "published_ts": 1782977889,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHZTWmhVc3FmQUQ1TW5ocGh6ZVlHN2dJVkt2eHhPaFVENzBseld3WERmZGJBMzZub1lkTU5VNUpKUy1VRDg4Y2RFR1oxc1NSbTA2UkstMFRFRFZCbXIzaEQxOHh3N0Mxd0xZcmxoRUpCWVhVU2xsckgxaERwVkNFMWw0cmJobEJRbTR2ZGdzSHVIWWM1OVR3U1BXelFRRDNkOFVpanZIanJkRGxHbkMtcGpWLTdzU0ktcDg2S1p4MA?oc=5\" target=\"_blank\">SK Hynix to invest $64 billion in chip plants as AI demand fuels expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics For You BUSINESS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Electronics For You BUSINESS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $64 billion investment in chip plants driven by AI demand. This is a concrete, officially announced capital commitment by a major fund holding that signals material expansion of memory production capacity in response to strong demand fundamentals."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "e8f35518884dd1e2f1e9a6c0c08622a4d3982667",
+  "source": "Межа. Новини України.",
+  "topic": "holding",
+  "title": "SK Hynix commits 100 trillion won to build Cheongju chip plants - Межа. Новини України.",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LbmMyVmIwaXdlcnZiSFdNODY5VUVETXVrQWFMOEVpT2UxQTZQamMxWHJmaEsyZ2lYcVhRTllCWkp0M1RKamppMUp4Ykh3RVJXUnBWdTFXdXhiZko2S0w0c21rWXQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 07:20:01 GMT",
+  "published_ts": 1782976801,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LbmMyVmIwaXdlcnZiSFdNODY5VUVETXVrQWFMOEVpT2UxQTZQamMxWHJmaEsyZ2lYcVhRTllCWkp0M1RKamppMUp4Ykh3RVJXUnBWdTFXdXhiZko2S0w0c21rWXQ?oc=5\" target=\"_blank\">SK Hynix commits 100 trillion won to build Cheongju chip plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Межа. Новини України."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix officially commits 100 trillion won (~$75 billion USD) to build new chip manufacturing plants in Cheongju, South Korea. This is a concrete capital investment decision that materially expands memory production capacity and signals confidence in future demand, directly impacting a major fund holding."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "922578ebb1926a23d4e261f6dde8c016cb5ed12e",
+  "source": "Koreabizwire",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Lead $253 Billion Investment Drive in Central Korea - Koreabizwire",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVFnd2F0UlBuR1ZaS1JKM2xSWjNaRUNQbE04bmd2NlNwRktJWXpud2ZxMTVieE9wbnl1Q3B1VlRmYXRiOWRadUVUNjY4czJxOWR5XzAyenpmQ0RHZVNJMDRWM01ydmt0dUNnQzZIVDFBS0Fua283cmcwVjNOMFB0eTd6SFJjMmZKQTVtT2FWWmVxVy1RQkNETERhOUc2Z1U?oc=5",
+  "published_at": "Thu, 02 Jul 2026 08:21:57 GMT",
+  "published_ts": 1782980517,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVFnd2F0UlBuR1ZaS1JKM2xSWjNaRUNQbE04bmd2NlNwRktJWXpud2ZxMTVieE9wbnl1Q3B1VlRmYXRiOWRadUVUNjY4czJxOWR5XzAyenpmQ0RHZVNJMDRWM01ydmt0dUNnQzZIVDFBS0Fua283cmcwVjNOMFB0eTd6SFJjMmZKQTVtT2FWWmVxVy1RQkNETERhOUc2Z1U?oc=5\" target=\"_blank\">Samsung, SK Hynix Lead $253 Billion Investment Drive in Central Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koreabizwire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Koreabizwire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are leading a $253 billion investment initiative in Central Korea. This represents a concrete, officially announced capital commitment by two major DRAM ETF holdings to expand semiconductor manufacturing capacity, which is material to memory supply dynamics and the fund's core holdings."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "f71ed1686f74abee78525fe2991af98f44ea6388",
+  "source": "Finimize",
+  "topic": "holding",
+  "title": "SK Hynix Bets Big On New Memory Capacity In Cheongju - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTI2aVNaTWVackZrYUJTblNBWEk0d1BEV3N0aThocnlvUDhCc2F5ZDhLUTIzQUxfbS1NRkFTVkxOVnNfcmwxU1ZfUU12STRWQlFJNmhqS3pyb0xGd0FvSGlkZzRvV2pJMDhjczZOdnpRZFVmOXVwQXV6ZG1ZdWtEdzNzd3ZGQXlm?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:42:25 GMT",
+  "published_ts": 1782974545,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTI2aVNaTWVackZrYUJTblNBWEk0d1BEV3N0aThocnlvUDhCc2F5ZDhLUTIzQUxfbS1NRkFTVkxOVnNfcmwxU1ZfUU12STRWQlFJNmhqS3pyb0xGd0FvSGlkZzRvV2pJMDhjczZOdnpRZFVmOXVwQXV6ZG1ZdWtEdzNzd3ZGQXlm?oc=5\" target=\"_blank\">SK Hynix Bets Big On New Memory Capacity In Cheongju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has announced a significant new memory capacity expansion at its Cheongju facility, a concrete capital investment decision that directly affects production capacity for a major DRAM fund holding."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "f08c8582e506ba36d71fac4d4c7c730cdd8d3caf",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Korean Stocks Fall Again in Afternoon Session; KOSPI Drops Below 8000 Level as SK Hynix Plunges 9% and Samsung Slumps 7%. - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2YwSTlBVnpyVGxHQlVmNVpkMDdWYmFTS1VWY3g3Z2x1Wk5LcF9mRlBLRXp4Qk5qQ1BSb2xHR0dWZkVIZFNFSzBzQTlXalpJcktSSjQwck5aX0Q2SFh3VzNHV1h5Wm9FUGNYUURtVFVpODJaOWxTS0NvRjg3YnpmSFNnb2o4SmlGQWdWbTRQNjc3MjA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:04:30 GMT",
+  "published_ts": 1782972270,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2YwSTlBVnpyVGxHQlVmNVpkMDdWYmFTS1VWY3g3Z2x1Wk5LcF9mRlBLRXp4Qk5qQ1BSb2xHR0dWZkVIZFNFSzBzQTlXalpJcktSSjQwck5aX0Q2SFh3VzNHV1h5Wm9FUGNYUURtVFVpODJaOWxTS0NvRjg3YnpmSFNnb2o4SmlGQWdWbTRQNjc3MjA?oc=5\" target=\"_blank\">Korean Stocks Fall Again in Afternoon Session; KOSPI Drops Below 8000 Level as SK Hynix Plunges 9% and Samsung Slumps 7%.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung memory divisions fell sharply (9% and 7% respectively) in Korean market session, contributing to broader KOSPI decline below 8000. Stock moves reported without stated fundamental catalyst; likely reflects market sentiment or macro headwinds rather than company-specific news."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "379393d1da8ffac4bad51cb6b6db285a31a5688c",
+  "source": "semivision",
+  "topic": "holding",
+  "title": "Korea’s ₩800 Trillion Semiconductor Bet: Why the AI Chip War Has Become a National Race - semivision",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGR3lpa2Z1Tk5Dc0REalN2dzUycWFkMENQaUtqOURVank1SjBHQjg2b2lxRmJ6dV90WXRWaEhCUDBkdVF3ZjhUYWdYREo5a1J4a0xKWGJBbVpjd1ZsWkxFTzl4TTBfbi1xZDdYeUk3bG9pM3NidG9idEpBQVRySDA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 04:05:51 GMT",
+  "published_ts": 1782965151,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBGR3lpa2Z1Tk5Dc0REalN2dzUycWFkMENQaUtqOURVank1SjBHQjg2b2lxRmJ6dV90WXRWaEhCUDBkdVF3ZjhUYWdYREo5a1J4a0xKWGJBbVpjd1ZsWkxFTzl4TTBfbi1xZDdYeUk3bG9pM3NidG9idEpBQVRySDA?oc=5\" target=\"_blank\">Korea’s ₩800 Trillion Semiconductor Bet: Why the AI Chip War Has Become a National Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">semivision</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "semivision"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korea's ₩800 trillion (~$600B USD) semiconductor investment initiative highlights national-level AI chip infrastructure push. While strategically important to SK hynix and Samsung (both DRAM holdings), this is forward-looking policy/ambition rather than a concrete capacity or demand announcement affecting near-term memory cycle."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "c4e0aca3c641beb4d3987e311c51e76bcff03851",
+  "source": "WEEX",
+  "topic": "holding",
+  "title": "SK Hynix Stock Price Forecast 2026–2027: Structural HBM Shortage Analysis - WEEX",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWFRSGVnV2J4ZnRrM2dkZV9LUGZuakhra2Z5U3Zkckh4N0Rya2lJWGpCSDN5ZXI2U1g3TnFObF9ucnpuaEFGTUdQS0R0V3M5X05nY3h5SWtOaERWOEdkc0RxcFlLSUVoSS1JRXFxbEx5UHgwQnNvcG1QRm15SmhjSVJCTWF0WDh3VkZwdlQtWWpQY21INk9kc2R1Uk5jNzZiTUtUcDV5MjlCVGNXQ19pV0ZYUnBzZ0xjUTVkaEU4cnBkdklKeGxESDdB?oc=5",
+  "published_at": "Thu, 02 Jul 2026 08:35:34 GMT",
+  "published_ts": 1782981334,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWFRSGVnV2J4ZnRrM2dkZV9LUGZuakhra2Z5U3Zkckh4N0Rya2lJWGpCSDN5ZXI2U1g3TnFObF9ucnpuaEFGTUdQS0R0V3M5X05nY3h5SWtOaERWOEdkc0RxcFlLSUVoSS1JRXFxbEx5UHgwQnNvcG1QRm15SmhjSVJCTWF0WDh3VkZwdlQtWWpQY21INk9kc2R1Uk5jNzZiTUtUcDV5MjlCVGNXQ19pV0ZYUnBzZ0xjUTVkaEU4cnBkdklKeGxESDdB?oc=5\" target=\"_blank\">SK Hynix Stock Price Forecast 2026–2027: Structural HBM Shortage Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WEEX"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis forecasting a structural HBM shortage through 2026–2027 and its potential impact on SK Hynix stock price. This is speculative analysis and price prediction rather than a confirmed event or hard data, placing it at impact 3."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "532f2a5a217b56b8b8a31c862a40995d78250bc4",
+  "source": "The Economic Times",
+  "topic": "holding",
+  "title": "Seoul stocks plunge 8% as Samsung, SK hynix shares tumble - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEhnM1NyQzljSGVuUDRJUWNaTTZqNHdzNnJad0tRNmZyblE4bVhGcXhsSEVHYmlvOHNRSVQzMDBxb2FRcmpUSlJIMGJidVFmWWg2UjhOdVk5a1kyRENmenI4Wk0xa3BBalFpUDBSRXRTMzhwVUw1MDhEaHNSakJ2empIVW1yejZOcnhiVVV3MEJ6bmVHM2xjWTYybENjLWkzTlAyZzBvRWlMQVVUN0ZETnNmX1VPZFVrNmUwNXY1XzctM2_SAcgBQVVfeXFMTkFTS0ktOG8zREY2dTZ0Sm84RXpJQXFSZC1wZnljMnhfN05Qc1hNOVU5ekFJemktTFdXTFNSU2tSQ0hGN3YzWklIM3d6Z1pGLWVqaUlyTUNnM2lkTm13MzF3NFBsWS1BbnBaTloyOHNrOERSYUhUUWNvRklGQXFaWktPWXViYkxlYTZCeFdrY1V3X1doV1Q5MXdrZWhBS0RxYnpnMUxJclkzbk5kV04zNE9Na0lPb1U4R25UMG1hMXNLRGFyYno4a28?oc=5",
+  "published_at": "Thu, 02 Jul 2026 07:42:55 GMT",
+  "published_ts": 1782978175,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEhnM1NyQzljSGVuUDRJUWNaTTZqNHdzNnJad0tRNmZyblE4bVhGcXhsSEVHYmlvOHNRSVQzMDBxb2FRcmpUSlJIMGJidVFmWWg2UjhOdVk5a1kyRENmenI4Wk0xa3BBalFpUDBSRXRTMzhwVUw1MDhEaHNSakJ2empIVW1yejZOcnhiVVV3MEJ6bmVHM2xjWTYybENjLWkzTlAyZzBvRWlMQVVUN0ZETnNmX1VPZFVrNmUwNXY1XzctM2_SAcgBQVVfeXFMTkFTS0ktOG8zREY2dTZ0Sm84RXpJQXFSZC1wZnljMnhfN05Qc1hNOVU5ekFJemktTFdXTFNSU2tSQ0hGN3YzWklIM3d6Z1pGLWVqaUlyTUNnM2lkTm13MzF3NFBsWS1BbnBaTloyOHNrOERSYUhUUWNvRklGQXFaWktPWXViYkxlYTZCeFdrY1V3X1doV1Q5MXdrZWhBS0RxYnpnMUxJclkzbk5kV04zNE9Na0lPb1U4R25UMG1hMXNLRGFyYno4a28?oc=5\" target=\"_blank\">Seoul stocks plunge 8% as Samsung, SK hynix shares tumble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Economic Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix shares fell sharply in Seoul trading as part of a broader 8% stock market plunge. The report notes the decline but does not specify a distinct catalyst or concrete event tied to memory operations, capacity, pricing, or earnings. This is a price-move story without stated cause beyond general market conditions."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "37b2d9027c863c262e824e58bcc475bb638ef6b0",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "Here’s why Samsung, SK Hynix, and Kioxia stocks are diving today - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRElQVjJuZGhXUUFpaVlZaWxjdjdjS2hEcUpsUG1CcUlDYWlkTlhrRVBwWm5paDlsdFVNQW1rZTctQ2J2VllqbXRTdmdKdXZ2bWQ0V1d0cmM5bmZDY1loc0FKTGxNOEtjQU5vRjFsaTBLT1BTdVBPY21TM3VVWERKWWxyNWpEYUQyOXpSNlc5NEMtV0lxMG5feG9qWl9XZw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 01:45:35 GMT",
+  "published_ts": 1782956735,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRElQVjJuZGhXUUFpaVlZaWxjdjdjS2hEcUpsUG1CcUlDYWlkTlhrRVBwWm5paDlsdFVNQW1rZTctQ2J2VllqbXRTdmdKdXZ2bWQ0V1d0cmM5bmZDY1loc0FKTGxNOEtjQU5vRjFsaTBLT1BTdVBPY21TM3VVWERKWWxyNWpEYUQyOXpSNlc5NEMtV0lxMG5feG9qWl9XZw?oc=5\" target=\"_blank\">Here’s why Samsung, SK Hynix, and Kioxia stocks are diving today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece explaining intraday stock declines for Samsung, SK Hynix, and Kioxia. Without seeing the full article, this appears to be post-hoc commentary on price moves rather than reporting a concrete catalyst or new information; typical impact for market-reaction analysis."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "118ee835c5f49d5ef274b48774d7f4ebad5d6513",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "Bank of America revamps Sandisk stock price target - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTZHSld4d0hWcUg0TkhVbjV3d0Z3ZWJNalVFal9mRlVNMHBXVWFnaGF0QkhiMlVQOHFBenc4QW5fei1QMnZhaXpPYlRDc0RGSHZFNUtBOFR6N3N0OW0zbjFKcUFoMVgyTHdiZFJ4aW5HOURqajR1RlhlNERUR3FGcDVUSVFIOG92emdXenljNlVEYnhZNjVRcQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:03:00 GMT",
+  "published_ts": 1782972180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTZHSld4d0hWcUg0TkhVbjV3d0Z3ZWJNalVFal9mRlVNMHBXVWFnaGF0QkhiMlVQOHFBenc4QW5fei1QMnZhaXpPYlRDc0RGSHZFNUtBOFR6N3N0OW0zbjFKcUFoMVgyTHdiZFJ4aW5HOURqajR1RlhlNERUR3FGcDVUSVFIOG92emdXenljNlVEYnhZNjVRcQ?oc=5\" target=\"_blank\">Bank of America revamps Sandisk stock price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of America adjusts SanDisk (SNDK) price target. This is analyst sentiment on a fund holding, but a price-target change alone—without tied-to-concrete catalyst like earnings or a business event—is soft opinion rather than new material information."
+  },
+  "buffered_ts": 1782982543.2864873
+ },
+ {
+  "id": "62b228d52c03b9bc1ffd2d62f698290f091885a6",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK Hynix Seeks Fair Value With Nasdaq ADR - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02NTg5R1owNGJvT3JydHpUZlNBRFIyU2h3MVVqVERFVjc4T3FmcTJZS3ZzVU84RWJCdWs4dzRwdzk5M2ZvVVA4VDctUUdocDl3QTBzWl9UbTZPbS1RNF8yQjR2M3laZnNOX3kwLVpJZmZTb2ti?oc=5",
+  "published_at": "Thu, 02 Jul 2026 07:37:59 GMT",
+  "published_ts": 1782977879,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE02NTg5R1owNGJvT3JydHpUZlNBRFIyU2h3MVVqVERFVjc4T3FmcTJZS3ZzVU84RWJCdWs4dzRwdzk5M2ZvVVA4VDctUUdocDl3QTBzWl9UbTZPbS1RNF8yQjR2M3laZnNOX3kwLVpJZmZTb2ti?oc=5\" target=\"_blank\">SK Hynix Seeks Fair Value With Nasdaq ADR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Businesskorea"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is seeking fair valuation through a Nasdaq ADR listing. This is a corporate governance and capital markets move by a major fund holding, but does not directly impact memory pricing, demand, or production capacity. The news is relevant to the holding but represents a structural/listing development rather than a concrete operational or market event."
+  },
+  "buffered_ts": 1782982543.2864873
  }
 ]
