@@ -1615,5 +1615,176 @@
    "summary": "SanDisk (SNDK), a DRAM ETF holding, experienced losses during a broader Nasdaq tech sell-off. The story reports a price move without identifying a memory-specific catalyst or new concrete development."
   },
   "buffered_ts": 1783033317.3113132
+ },
+ {
+  "id": "92f7a23e7ec27cbb588d5fa1273a507d6d01c149",
+  "source": "TechPowerUp",
+  "topic": "holding",
+  "title": "Sandisk Announces Sampling of BiCS10 1 Tb TLC 3D NAND Flash Memory - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkxBT05GZldOSDhEWWF2dHh4TTFOSVNBTjRmWGxZbUR3Q2hLTFoyNFl4QXA3UldoWmltbjJWeU91cTJIejUyRGhSMmlHOG0zWFNaZWptbURFd3RqZDV6NHV3RV80elJkT3VnU3E0cUZlaUhBVGRHQTlmd3hwT2hmc041ZVowZy1FT3Z2RUFQMWlNY251R2FTRDl4cWZsaEhVUjVV0gGoAUFVX3lxTE9zZm9sTklFZnFjRlZIM0wycXh3dUppYnVHaUhmSHVDNVlrY3ZJdk1sUU9TbjF3YU9xdTBHZmtWb0xzLUpHckVCLXI1dTh5dUJwcHg2M1JLUGhTU3lBekRIaXlLU3NjODRhV2p5aUFCVTFZMFlWRmV0ZjA2TC03UWttT0hWR0J4ZDA3N2dqbE1qT3hUR0VDTE9rOEtydHA0RFRCV2RvT0Zlag?oc=5",
+  "published_at": "Thu, 02 Jul 2026 23:25:19 GMT",
+  "published_ts": 1783034719,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkxBT05GZldOSDhEWWF2dHh4TTFOSVNBTjRmWGxZbUR3Q2hLTFoyNFl4QXA3UldoWmltbjJWeU91cTJIejUyRGhSMmlHOG0zWFNaZWptbURFd3RqZDV6NHV3RV80elJkT3VnU3E0cUZlaUhBVGRHQTlmd3hwT2hmc041ZVowZy1FT3Z2RUFQMWlNY251R2FTRDl4cWZsaEhVUjVV0gGoAUFVX3lxTE9zZm9sTklFZnFjRlZIM0wycXh3dUppYnVHaUhmSHVDNVlrY3ZJdk1sUU9TbjF3YU9xdTBHZmtWb0xzLUpHckVCLXI1dTh5dUJwcHg2M1JLUGhTU3lBekRIaXlLU3NjODRhV2p5aUFCVTFZMFlWRmV0ZjA2TC03UWttT0hWR0J4ZDA3N2dqbE1qT3hUR0VDTE9rOEtydHA0RFRCV2RvT0Zlag?oc=5\" target=\"_blank\">Sandisk Announces Sampling of BiCS10 1 Tb TLC 3D NAND Flash Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechPowerUp"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk announced sampling of BiCS10 1Tb TLC 3D NAND flash memory, a concrete product development milestone representing advancement in 3D NAND technology and production capability for a fund holding."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "f0432795becd090311279a71dabab509b97f665f",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "GigaDevice Warns of Memory Price Peak Risks; Taiwan Chipmakers Say Supply Remains Tight, No Reversal Signals - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ndmZMdmc3c0lOOEJfTUh6Si1uNjY1bjNManRSb1E1ZlZFS3Nsc19iMkh5cC1IRVlwbEVkRUdmT0pJUDF3UjBfV3d0akdMVl92Qk5heUFhRzB2cUdmYTFXd0J0eWo5aDlQWUpSYUo5YW51blJaUkE?oc=5",
+  "published_at": "Thu, 02 Jul 2026 04:17:00 GMT",
+  "published_ts": 1782965820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ndmZMdmc3c0lOOEJfTUh6Si1uNjY1bjNManRSb1E1ZlZFS3Nsc19iMkh5cC1IRVlwbEVkRUdmT0pJUDF3UjBfV3d0akdMVl92Qk5heUFhRzB2cUdmYTFXd0J0eWo5aDlQWUpSYUo5YW51blJaUkE?oc=5\" target=\"_blank\">GigaDevice Warns of Memory Price Peak Risks; Taiwan Chipmakers Say Supply Remains Tight, No Reversal Signals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "GigaDevice warns of memory price peak risks while Taiwan chipmakers report tight supply with no signs of reversal. Commentary on supply dynamics and pricing trajectory relevant to DRAM cycle, but lacks concrete numbers or confirmed events—represents analyst/executive sentiment rather than a settled market development."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "e0adf4d1c796998c25e8cdbb094c9ce4b3c8289b",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Bargain Buying Returns to Samsung, SK Hynix a Day After Meta-Led Selloff - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TLXR4Y0NZN3diaXRCS1FkU3hFSDFqdnVOSWI1cjI0X3REWm9KUGFrZzl0VmphMVFMMnRyVnAzOWlNNklLbmtLY0xZcFdvWU43ZWE3MA?oc=5",
+  "published_at": "Fri, 03 Jul 2026 00:44:28 GMT",
+  "published_ts": 1783039468,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TLXR4Y0NZN3diaXRCS1FkU3hFSDFqdnVOSWI1cjI0X3REWm9KUGFrZzl0VmphMVFMMnRyVnAzOWlNNklLbmtLY0xZcFdvWU43ZWE3MA?oc=5\" target=\"_blank\">Bargain Buying Returns to Samsung, SK Hynix a Day After Meta-Led Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Post-selloff bargain buying activity in Samsung and SK Hynix following Meta-led market decline. Describes investor sentiment and stock price movement but lacks a concrete catalyst or new fundamental information distinct from the prior day's selloff."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "5b70fada73cde00edcbd373c470131211c511e7a",
+  "source": "Bloomberg.com",
+  "topic": "industry",
+  "title": "Chip Industry Urges US to Avoid Moves That Distort Memory Market - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzM0Q2lsMDlJQmo3aFFQRWpzMHlpd2pnYlRVMXZCcEJMcXk1bmdXNklNTlJnelVocWE3UzB1T1gwNzh5N3U3RE8yaHJyZHc1YmtGNFg5Y1NhQkFscmJSSEpkNEx6MlhaaGlUMk9Cb0k0RW91OWtWWFN4bXV2YWNBQzFLZVhUTVpaQVl0X3AzejM4Z3NHa1RLT09OZHBFaVBXc1dCcmZPN3VfcURKbHd4dGJQY0w5dw?oc=5",
+  "published_at": "Thu, 02 Jul 2026 23:59:59 GMT",
+  "published_ts": 1783036799,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzM0Q2lsMDlJQmo3aFFQRWpzMHlpd2pnYlRVMXZCcEJMcXk1bmdXNklNTlJnelVocWE3UzB1T1gwNzh5N3U3RE8yaHJyZHc1YmtGNFg5Y1NhQkFscmJSSEpkNEx6MlhaaGlUMk9Cb0k0RW91OWtWWFN4bXV2YWNBQzFLZVhUTVpaQVl0X3AzejM4Z3NHa1RLT09OZHBFaVBXc1dCcmZPN3VfcURKbHd4dGJQY0w5dw?oc=5\" target=\"_blank\">Chip Industry Urges US to Avoid Moves That Distort Memory Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Bloomberg.com",
+    "MSN"
+   ],
+   "titles": [
+    "Chip industry urges US to avoid moves that distort memory market - MSN"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Chip industry groups urge US policymakers to avoid actions that could distort the memory market, likely referencing trade, subsidy, or regulatory concerns. This is relevant to the memory cycle and fund holdings but represents advocacy and discussion rather than a concrete policy decision or market-moving event."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "a6b12ad42b34be62acd92560ee795f52d7300b6d",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Raising Fair Value Estimates for Samsung Electronics and SK Hynix - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2pzR2MxWGJDakZmcHh5M3hqWE1yUEM4V0JqUHlhY0MxWjlVdEp2TDQxX0I1UWI2OTh4OEhYMzFCNmp4dTVSekpHR3k5VWpiTnNHVno4VTFTY2NyNTNtWEx0VHZpYnlseVg1ZWRGZzNQYWtQWFVDdzROS1FiMFpQNWtBUktDbG1SOVZGZ3dXLUMyWUdvT0x2MnVHd2N2RDYwejJB?oc=5",
+  "published_at": "Thu, 02 Jul 2026 10:19:15 GMT",
+  "published_ts": 1782987555,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2pzR2MxWGJDakZmcHh5M3hqWE1yUEM4V0JqUHlhY0MxWjlVdEp2TDQxX0I1UWI2OTh4OEhYMzFCNmp4dTVSekpHR3k5VWpiTnNHVno4VTFTY2NyNTNtWEx0VHZpYnlseVg1ZWRGZzNQYWtQWFVDdzROS1FiMFpQNWtBUktDbG1SOVZGZ3dXLUMyWUdvT0x2MnVHd2N2RDYwejJB?oc=5\" target=\"_blank\">Raising Fair Value Estimates for Samsung Electronics and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morningstar raised fair value estimates for Samsung Electronics and SK Hynix, two major DRAM holdings. This represents analyst reassessment but not a concrete market event or new disclosed information from the companies themselves; it reflects analyst opinion on valuation."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "3598639d4791c5c34b90d2c44e9ed6b7d2e6279f",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "SanDisk stock slides 14% as AI chip selloff overshadows bullish calls - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXN0VUtjQ1kzQjREVnhrS2tMZWwtZlNNNGI0bS1uNS13UWdfT2ZTUUpTd3ZDRDRJSHVSdmxMRXJqb1RVLVJuUjhqdjlKNW9ZamF3dnBVWTdCRUVDVmNFT2hqNW5jRENTZnJRblc3bG5rbE1Yb2Z6djNQUWxDcnZacHlYcWpFTUp6Y1Q3bWVTaURFblpuMmFyR2hsUW1SaHhoaS0xV1FsMA?oc=5",
+  "published_at": "Thu, 02 Jul 2026 18:58:35 GMT",
+  "published_ts": 1783018715,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXN0VUtjQ1kzQjREVnhrS2tMZWwtZlNNNGI0bS1uNS13UWdfT2ZTUUpTd3ZDRDRJSHVSdmxMRXJqb1RVLVJuUjhqdjlKNW9ZamF3dnBVWTdCRUVDVmNFT2hqNW5jRENTZnJRblc3bG5rbE1Yb2Z6djNQUWxDcnZacHlYcWpFTUp6Y1Q3bWVTaURFblpuMmFyR2hsUW1SaHhoaS0xV1FsMA?oc=5\" target=\"_blank\">SanDisk stock slides 14% as AI chip selloff overshadows bullish calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock declined 14%, attributed to broad AI chip sector weakness rather than company-specific news. The move reflects market sentiment and digestion of existing conditions rather than a new concrete catalyst or earnings surprise."
+  },
+  "buffered_ts": 1783040956.1657038
+ },
+ {
+  "id": "426357a7ae9107f530784418fcdf218a1257614b",
+  "source": "TradingView",
+  "topic": "industry",
+  "title": "UK's Currys warns memory chip shortage will push up prices - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUtMNTFrMkZob0pqOUtOY1hQMy14elB5OHZsNXVLVkN0N1NtVTFYOTBITjA2MUNENzBYUVM0Z0x5NHRfTENIbnhKR1RfMS1mMV85MXFBZFp1N084LXZ5enhKU1preVV0elhFN2haTkI4OTM4czY3SzFZTk5XdXNkX292akhTSF9oSXFHNGxETDNMZ05KLWJKSXA5YTJ6eUpJSzEwdzJfZERzWUZXaXU1ckpOaVJkVll1dVBoMVNIZ3hpWGlyTjZF?oc=5",
+  "published_at": "Thu, 02 Jul 2026 06:42:00 GMT",
+  "published_ts": 1782974520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUtMNTFrMkZob0pqOUtOY1hQMy14elB5OHZsNXVLVkN0N1NtVTFYOTBITjA2MUNENzBYUVM0Z0x5NHRfTENIbnhKR1RfMS1mMV85MXFBZFp1N084LXZ5enhKU1preVV0elhFN2haTkI4OTM4czY3SzFZTk5XdXNkX292akhTSF9oSXFHNGxETDNMZ05KLWJKSXA5YTJ6eUpJSzEwdzJfZERzWUZXaXU1ckpOaVJkVll1dVBoMVNIZ3hpWGlyTjZF?oc=5\" target=\"_blank\">UK's Currys warns memory chip shortage will push up prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "UK retailer Currys warns of potential memory chip shortage and resulting price increases. While touching on memory chip supply, this is a retailer's cautionary statement rather than a concrete supply event or confirmed shortage affecting DRAM/NAND production or pricing."
+  },
+  "buffered_ts": 1783040956.1657038
  }
 ]
