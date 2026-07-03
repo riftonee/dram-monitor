@@ -913,5 +913,101 @@
    "summary": "TradingView asks why Samsung and SK hynix stocks are rebounding sharply; no specific catalyst or concrete event stated—appears to be a post-hoc price-move commentary without disclosed news driver."
   },
   "buffered_ts": 1783109550.483427
+ },
+ {
+  "id": "c52b97baff351837e515b2e00454736f0ef4f6d6",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix unveils $64B chip plan as AI selloff roils market - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNWZ4UUgzeUYzLWhQWkRycnhpRmFHNFNiZ0xuSVl2c2RFd19HaUJpYU5DRjJhZzI0eGtoOUpGMXVSMjVEQThNSTdjemw5cVcwamctTVpzamN4QWRSTjVlT2FWNVJQWDJ6QTJydnljU0hJUkhDMWo5QmlsUFZQLVdHa2YtTGwySGwzWlZLbmFqOWpEdE84X2ZxV0xIWFFvVFNQaGRhU1lXeTA0djhUcEVFSHN5MlZyd1JiQ0ctOHlJRlF1ZDZveGNzWmFLU3FUc05Wb0VhSjlHV1JlS2FOdVlGLUFWUWRsOENIVTFEeWlSVDY?oc=5",
+  "published_at": "Thu, 02 Jul 2026 09:05:15 GMT",
+  "published_ts": 1782983115,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNWZ4UUgzeUYzLWhQWkRycnhpRmFHNFNiZ0xuSVl2c2RFd19HaUJpYU5DRjJhZzI0eGtoOUpGMXVSMjVEQThNSTdjemw5cVcwamctTVpzamN4QWRSTjVlT2FWNVJQWDJ6QTJydnljU0hJUkhDMWo5QmlsUFZQLVdHa2YtTGwySGwzWlZLbmFqOWpEdE84X2ZxV0xIWFFvVFNQaGRhU1lXeTA0djhUcEVFSHN5MlZyd1JiQ0ctOHlJRlF1ZDZveGNzWmFLU3FUc05Wb0VhSjlHV1JlS2FOdVlGLUFWUWRsOENIVTFEeWlSVDY?oc=5\" target=\"_blank\">SK Hynix unveils $64B chip plan as AI selloff roils market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces a $64 billion chip investment plan, a concrete capital allocation decision by a major DRAM ETF holding that signals long-term capacity expansion and strategic commitment to memory production amid market volatility."
+  },
+  "buffered_ts": 1783114775.6142743
+ },
+ {
+  "id": "24e4d19e6880159ddcc6f84ac1df773162ec9273",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Seagate Technology focuses on data infrastructure as investors watch memory demand - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGRITXpXVnFicXVDdWdZNmZudVNPYmVqMU9ISTYxcUg1cGpOUXFLUFQwOGFQZklpdm1SYnRtczdpakpoaTEtZzFfSmd3eWdnTzd1RTVRc1Uza2hWTW5FNmJkTmFaV0c4V0p3dFBhNDQ5MnZHS0t5VmlEWWV4S05MT3lnMUZtMTNBUDRMbmJMS2FtMEtnUjY2eF85M1UxMmZRX0pvT2tNYWhqUUxLMGNqYXppdEUtS1dJYlhnTFpnblhjdk9yZ2c?oc=5",
+  "published_at": "Fri, 03 Jul 2026 20:33:27 GMT",
+  "published_ts": 1783110807,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGRITXpXVnFicXVDdWdZNmZudVNPYmVqMU9ISTYxcUg1cGpOUXFLUFQwOGFQZklpdm1SYnRtczdpakpoaTEtZzFfSmd3eWdnTzd1RTVRc1Uza2hWTW5FNmJkTmFaV0c4V0p3dFBhNDQ5MnZHS0t5VmlEWWV4S05MT3lnMUZtMTNBUDRMbmJMS2FtMEtnUjY2eF85M1UxMmZRX0pvT2tNYWhqUUxLMGNqYXppdEUtS1dJYlhnTFpnblhjdk9yZ2c?oc=5\" target=\"_blank\">Seagate Technology focuses on data infrastructure as investors watch memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is focusing on data infrastructure amid investor attention to memory demand trends. The story reports on company strategic positioning and investor interest rather than a concrete event, earnings result, or material development."
+  },
+  "buffered_ts": 1783114775.6142743
+ },
+ {
+  "id": "7a8cca9e61f64eabd489557610b702c483234f80",
+  "source": "Global Sources",
+  "topic": "industry",
+  "title": "Apple faces price hikes for iPhone 18 Pro amid global memory chip shortage - Global Sources",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0FTNkQzUC1hMjVDN0didHBvSGlmbHlWRnFhaXlHTy0zcThPLUtxSVdtUFpTbUFJRlFkbjFwSjVjTFpOSUtOOUpsdDdWTVNScGFYUGFEalNHcjJQSTZJZzU2ODg0clpnNkZ4THk2d0Z1Y3cyQXJYSXhEX25RZlBCd1hCc3M2UjJYTWpQdXFLb3JzZmJkaG5IMTUwdktRSV9GZlgtcy0wSEZ2QTJ1eTJVQXIzUGJkc1JwVkNoeHFGVQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 05:23:20 GMT",
+  "published_ts": 1783056200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0FTNkQzUC1hMjVDN0didHBvSGlmbHlWRnFhaXlHTy0zcThPLUtxSVdtUFpTbUFJRlFkbjFwSjVjTFpOSUtOOUpsdDdWTVNScGFYUGFEalNHcjJQSTZJZzU2ODg0clpnNkZ4THk2d0Z1Y3cyQXJYSXhEX25RZlBCd1hCc3M2UjJYTWpQdXFLb3JzZmJkaG5IMTUwdktRSV9GZlgtcy0wSEZ2QTJ1eTJVQXIzUGJkc1JwVkNoeHFGVQ?oc=5\" target=\"_blank\">Apple faces price hikes for iPhone 18 Pro amid global memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Sources</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Global Sources"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple reportedly facing price hikes for iPhone 18 Pro due to global memory chip shortage. This reflects potential DRAM/NAND demand pressure and pricing dynamics affecting memory supply, but the story is framed as a forward-looking possibility tied to iPhone 18 (future product) rather than a confirmed shortage event or hard price data already in market."
+  },
+  "buffered_ts": 1783114775.6142743
+ },
+ {
+  "id": "0cbd1dbbbafac1b3af372e2f01e7d150e41369ab",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Massive Insider Move Shakes Up Seagate Tech - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjhXVWU5cVNfbHJjWFNjaU14c2tVMFhHMHpyX1l6YXRORHA4Tm9OTFNRUzNvTEJTck5ZZm1acHkyUElidkNlTk1qTVQ2ZXVBU0JBZVNlX3h4X08teExRN3oycUxydDQxQ3Qxc0xnTVA0MkI4SDhuOU0tamNZRjB0azllcmo4aTlERUFJTnZaT1JWLTVXRlFFVVpVZWp4NnZZUlFrZEptWkFqWi1KNE1v?oc=5",
+  "published_at": "Fri, 03 Jul 2026 02:25:22 GMT",
+  "published_ts": 1783045522,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjhXVWU5cVNfbHJjWFNjaU14c2tVMFhHMHpyX1l6YXRORHA4Tm9OTFNRUzNvTEJTck5ZZm1acHkyUElidkNlTk1qTVQ2ZXVBU0JBZVNlX3h4X08teExRN3oycUxydDQxQ3Qxc0xnTVA0MkI4SDhuOU0tamNZRjB0azllcmo4aTlERUFJTnZaT1JWLTVXRlFFVVpVZWp4NnZZUlFrZEptWkFqWi1KNE1v?oc=5\" target=\"_blank\">Massive Insider Move Shakes Up Seagate Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "TipRanks reports on insider trading activity at Seagate (STX), a DRAM fund holding. Without specifics on the transaction size, direction, or timing, this appears to be a generic insider-move story with limited concrete information. Insider trades alone are rarely market-moving unless they signal a major shift in management confidence tied to material news—this headline suggests speculation rather than a substantive development."
+  },
+  "buffered_ts": 1783114775.6142743
  }
 ]
