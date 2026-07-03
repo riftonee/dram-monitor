@@ -214,5 +214,320 @@
    "summary": "A chip industry group warns against US government intervention in memory chip shortage policy. This is a policy/regulatory stance piece with no concrete announcement, deal, or supply event—it reflects industry lobbying and opinion rather than a settled development affecting memory demand, pricing, or capacity."
   },
   "buffered_ts": 1783084912.639869
+ },
+ {
+  "id": "8ea350218b1381b89f548bcd41da4278eabab1ea",
+  "source": "ChemAnalyst",
+  "topic": "holding",
+  "title": "Air Liquide Commits More Than USD 170 Million in the United States to Strengthen SK hynix’s AI Memory Manufacturing Expansion - ChemAnalyst",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2lUSDFsTzRkSUctT05KNjJGeGFpUWQ4d1BWN3ZjV2Ridy1oaUlrdkIxeG1RLWZKZjlwcVVSRVpwMURTVkZ6dHZsbVlzM3U2cEtZSzlYaDdsTlpmT2x0UTU5TUpwalpQRnRzSEdqMFN4ZndrX2NHeXBWNGFHSFM2eG82ZXNock45Nm9qelFnbTVDbjV6WXBaUmhwUzE0V1FuWVlVM1paZFJjT1VtcERuSzVHMzJnN084OVhLQXpJZ09TeTg?oc=5",
+  "published_at": "Fri, 03 Jul 2026 09:59:16 GMT",
+  "published_ts": 1783072756,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2lUSDFsTzRkSUctT05KNjJGeGFpUWQ4d1BWN3ZjV2Ridy1oaUlrdkIxeG1RLWZKZjlwcVVSRVpwMURTVkZ6dHZsbVlzM3U2cEtZSzlYaDdsTlpmT2x0UTU5TUpwalpQRnRzSEdqMFN4ZndrX2NHeXBWNGFHSFM2eG82ZXNock45Nm9qelFnbTVDbjV6WXBaUmhwUzE0V1FuWVlVM1paZFJjT1VtcERuSzVHMzJnN084OVhLQXpJZ09TeTg?oc=5\" target=\"_blank\">Air Liquide Commits More Than USD 170 Million in the United States to Strengthen SK hynix’s AI Memory Manufacturing Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChemAnalyst</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ChemAnalyst"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide commits $170M+ to support SK hynix's AI memory manufacturing expansion in the US, representing a concrete investment decision that strengthens a key holding's capacity for high-margin HBM production."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "dd9d568998a8a59479fc2b5a41c494436e2c22ac",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Kioxia And Sandisk Begin Production Of 10th-Generation 3D Flash Memory Products At Kitakami Plant - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUNvcUN5WVVYeDdjQzhrb202WmVrakE3Y3hSMWVheDlaMW43QmdGdEdibjRkenFEaVdUeldmUjhoYkstUTd5aEFCTmVQYnU1d3YtWjhnSk9vcjhaOVlkUFRlRTNROTVCeGtSR0huTGVONmwzZWRaTFFkSXIxXzBuWnM0N2dKd2lvQXo0S2t6NXNzN1JocG9mdjIwSm9Fai1ka1djbVBPWU1nbktzSFRhTXlzazB4aDZDT3lnTU92NkFtV3lmUXAtWDZPVklINzZMT3BlOXl4dFptYzVWdERrVEYwQWt4d0FSRW5teE51czNrUHFXSFU4TVEtQQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 14:09:45 GMT",
+  "published_ts": 1783087785,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUNvcUN5WVVYeDdjQzhrb202WmVrakE3Y3hSMWVheDlaMW43QmdGdEdibjRkenFEaVdUeldmUjhoYkstUTd5aEFCTmVQYnU1d3YtWjhnSk9vcjhaOVlkUFRlRTNROTVCeGtSR0huTGVONmwzZWRaTFFkSXIxXzBuWnM0N2dKd2lvQXo0S2t6NXNzN1JocG9mdjIwSm9Fai1ka1djbVBPWU1nbktzSFRhTXlzazB4aDZDT3lnTU92NkFtV3lmUXAtWDZPVklINzZMT3BlOXl4dFptYzVWdERrVEYwQWt4d0FSRW5teE51czNrUHFXSFU4TVEtQQ?oc=5\" target=\"_blank\">Kioxia And Sandisk Begin Production Of 10th-Generation 3D Flash Memory Products At Kitakami Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "TradingView",
+    "01net"
+   ],
+   "titles": [
+    "Kioxia and Sandisk Begin Production of 10th-Generation 3D Flash Memory Products at Kitakami Plant Fab2 - 01net"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia and SanDisk (a fund holding) have begun production of 10th-generation 3D NAND flash memory at their Kitakami plant. This is a concrete, officially announced milestone in capacity expansion and technology advancement that materially affects SanDisk's production capability and competitive position in the memory industry."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "5f7ba69b7b1146e0fee7d9bd41116287fc843f66",
+  "source": "IndexBox",
+  "topic": "holding",
+  "title": "SK hynix Announces 1,100 Trillion Won Investment Plan and Nasdaq Listing - IndexBox",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2dGWi1oZmUza0lCYjNtRzJuWXNDY21aT0I4cGlTYkVHWGJHY1gwQ1kydXYwRzE4YUtDV0FqVE95MUtqb3V2enB1QTRPSlJXX2ZibHh4bldaOWV0ZEJYYmUwMEozTWYxci0tQU9RYzh0RjJSMVotR1dNdklhdUhtamNZVTVoZzZEekNieFIzMldoMk1BS3ludG9FVEI0MGhNcThv?oc=5",
+  "published_at": "Fri, 03 Jul 2026 14:41:00 GMT",
+  "published_ts": 1783089660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2dGWi1oZmUza0lCYjNtRzJuWXNDY21aT0I4cGlTYkVHWGJHY1gwQ1kydXYwRzE4YUtDV0FqVE95MUtqb3V2enB1QTRPSlJXX2ZibHh4bldaOWV0ZEJYYmUwMEozTWYxci0tQU9RYzh0RjJSMVotR1dNdklhdUhtamNZVTVoZzZEekNieFIzMldoMk1BS3ludG9FVEI0MGhNcThv?oc=5\" target=\"_blank\">SK hynix Announces 1,100 Trillion Won Investment Plan and Nasdaq Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IndexBox"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a major 1,100 trillion won (~$850 billion USD) investment plan and disclosed plans for a Nasdaq listing. This is a concrete, material development for a key DRAM fund holding signaling significant capital commitment to memory production capacity and international market access."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "cfa30e6d411dde3fd609801d4882a7dfed09d289",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Kioxia and Sandisk Begin 10th-Gen 3D NAND Production - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmlOZGY0ajNvQlNhOFJ6NWZRalZMcG1TU3pXTFpteFowSUg2VUN2aEF2TXdsYkpPT3drYk9UdjBVeWp4X2RkZ25TT1NZYjFPS3lhaXQ1UmcwdnJXdU9LNjN2R3N1SUFkLS1TSmwwUnNNcXRfaXp1SEVweDhBOWNlanYyVkRVMHQ3Nk1MaVNsZ3hFRXZza2lYSUZn?oc=5",
+  "published_at": "Fri, 03 Jul 2026 10:26:39 GMT",
+  "published_ts": 1783074399,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObmlOZGY0ajNvQlNhOFJ6NWZRalZMcG1TU3pXTFpteFowSUg2VUN2aEF2TXdsYkpPT3drYk9UdjBVeWp4X2RkZ25TT1NZYjFPS3lhaXQ1UmcwdnJXdU9LNjN2R3N1SUFkLS1TSmwwUnNNcXRfaXp1SEVweDhBOWNlanYyVkRVMHQ3Nk1MaVNsZ3hFRXZza2lYSUZn?oc=5\" target=\"_blank\">Kioxia and Sandisk Begin 10th-Gen 3D NAND Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Let's Data Science"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia and SanDisk (a fund holding) have begun production of 10th-generation 3D NAND, a concrete capacity expansion milestone that signals advancing NAND supply and potential margin pressure or relief depending on demand conditions."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "3f5d88d0db9286832db9b5cd602efd73c9dba598",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix unveils $64B chip plan as AI selloff roils market - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHA2cnQ5ZXBkUGFXMXVyQ1FPTFFrOG43V2RDampWcHVRU0pzZlctVnZ4WFNhdncyd2h0ZlNqVThzZ0t4RkpTTXNpN0NGQUZrbk5JZ2VUMTVGTlJqT3loRU1uUHE0Vll1Nlo2S3BPdGwxa0xhZlJDa0RsQ1pMYWx4S0VnMlAxekMwN1A3TnA5WjBfZU5wUG5JSmpMWGktTGVscnMtQTF1aHEwc3Bocm1zUl9zY1gtaHR5X2pNQmVMRGs1SXFHU2FidzEydVFjZmlySFJCZkdIQXJRRXlBMEFLbg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 09:05:15 GMT",
+  "published_ts": 1782983115,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHA2cnQ5ZXBkUGFXMXVyQ1FPTFFrOG43V2RDampWcHVRU0pzZlctVnZ4WFNhdncyd2h0ZlNqVThzZ0t4RkpTTXNpN0NGQUZrbk5JZ2VUMTVGTlJqT3loRU1uUHE0Vll1Nlo2S3BPdGwxa0xhZlJDa0RsQ1pMYWx4S0VnMlAxekMwN1A3TnA5WjBfZU5wUG5JSmpMWGktTGVscnMtQTF1aHEwc3Bocm1zUl9zY1gtaHR5X2pNQmVMRGs1SXFHU2FidzEydVFjZmlySFJCZkdIQXJRRXlBMEFLbg?oc=5\" target=\"_blank\">SK Hynix unveils $64B chip plan as AI selloff roils market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announces a $64B investment plan amid AI-driven market volatility. This is a concrete, official capital commitment by a major fund holding that signals strategic positioning in memory production capacity and commitment to AI-infrastructure demand."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "fe0b4ff9f481d7f0903dc2b56d6ff1c3c206eb50",
+  "source": "EE Times",
+  "topic": "holding",
+  "title": "SK hynix Plans $713B Domestic Investment - EE Times",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2dWJaQWNXbXlRUDVfQm10cHhjNU03Q1hJRWJMSnpMUlFKYXJVWlUzaDhheVhEaEhna0phUm5ZODFOWUFuM3NUWEVsSXZ6R2d2MHJEeHo2eWRERUVYaVdPNGxYUWREUHZINU9xdElIYzFxUQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 13:58:09 GMT",
+  "published_ts": 1783087089,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA2dWJaQWNXbXlRUDVfQm10cHhjNU03Q1hJRWJMSnpMUlFKYXJVWlUzaDhheVhEaEhna0phUm5ZODFOWUFuM3NUWEVsSXZ6R2d2MHJEeHo2eWRERUVYaVdPNGxYUWREUHZINU9xdElIYzFxUQ?oc=5\" target=\"_blank\">SK hynix Plans $713B Domestic Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "EE Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announces a $713B domestic investment plan, a concrete capital commitment by a major DRAM/NAND fund holding signaling significant expansion of production capacity and future supply positioning in memory semiconductors."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "1931e58966ae24ef052044dc3382bd641f558c46",
+  "source": "TradingKey",
+  "topic": "pricing",
+  "title": "Samsung Sets Another 20% Price Hike Target After DRAM Rises for Two Quarters. AI Crowding Out Capacity Triggers Chain Reaction, Will Storage Giants Launch a New Round of Price Increases? - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjYySGh2UHhlWFdvbVdSaXNpa056MWxzRE1lMGN0ZzhBWHM2TVRXaUNVUUc5dmpjNThLYl8tRkQ3Vnd2blM1MGw3WUt4bTVRbTBDLVQwMUNNVmVpZVd4cXh6VDE2MlRDQnh2RDNWajVFM21Kb3NOZk1vbUZGT1piOEdpNTYyb0hIOTg4ZjlnYnVpeGlDdjFHa093RFFDbHVFdXNYR08zclhsUWd6bjgtaEQ0SHZxWnR5OEVDckt2NFZYampLWUVNOVJlT2sydw?oc=5",
+  "published_at": "Fri, 03 Jul 2026 13:27:21 GMT",
+  "published_ts": 1783085241,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONjYySGh2UHhlWFdvbVdSaXNpa056MWxzRE1lMGN0ZzhBWHM2TVRXaUNVUUc5dmpjNThLYl8tRkQ3Vnd2blM1MGw3WUt4bTVRbTBDLVQwMUNNVmVpZVd4cXh6VDE2MlRDQnh2RDNWajVFM21Kb3NOZk1vbUZGT1piOEdpNTYyb0hIOTg4ZjlnYnVpeGlDdjFHa093RFFDbHVFdXNYR08zclhsUWd6bjgtaEQ0SHZxWnR5OEVDckt2NFZYampLWUVNOVJlT2sydw?oc=5\" target=\"_blank\">Samsung Sets Another 20% Price Hike Target After DRAM Rises for Two Quarters. AI Crowding Out Capacity Triggers Chain Reaction, Will Storage Giants Launch a New Round of Price Increases?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung targets another 20% DRAM price hike following two consecutive quarters of price increases, attributed to AI demand crowding out fab capacity. The article speculates on potential storage-price follow-through but reports Samsung's stated pricing intention rather than confirmed transactions or binding contracts."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "799bd045353a6592a8edb82958d8261b88e15d38",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "DRAM Rally Unstoppable: SK Hynix Said to Scrap Long-Term Contract Price Caps, Samsung Pushes for Another 20% Hike in Q3 - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yMHVlZF8xRkYxSkNtZmYwWlZaV2RSYkFkXzV1bHBVVm1GMjBRSkFydWJYa3RGN2lTYmJxd0dJYUNPd0xYUU4xcm1STUVNMzJkR2pKbWc2Q3dvYnlMNnMyanBCaDFEaDhCLUFKVG9ESUh3YmpTMWc?oc=5",
+  "published_at": "Fri, 03 Jul 2026 12:25:00 GMT",
+  "published_ts": 1783081500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yMHVlZF8xRkYxSkNtZmYwWlZaV2RSYkFkXzV1bHBVVm1GMjBRSkFydWJYa3RGN2lTYmJxd0dJYUNPd0xYUU4xcm1STUVNMzJkR2pKbWc2Q3dvYnlMNnMyanBCaDFEaDhCLUFKVG9ESUh3YmpTMWc?oc=5\" target=\"_blank\">DRAM Rally Unstoppable: SK Hynix Said to Scrap Long-Term Contract Price Caps, Samsung Pushes for Another 20% Hike in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SK hynix reportedly scrapping long-term contract price caps and Samsung pushing for another 20% DRAM price hike in Q3. Reports of price movements and negotiations rather than confirmed executed transactions; classified as soft intelligence on pricing direction rather than a settled event."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "5e817232aa60cd6b41aa0cfe36fb3b1d2ef7dce1",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] Samsung Reportedly Seeks Up to 20% 3Q26 DRAM Price Increase; LPDDR Hikes May Exceed 20% - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2JQSWU2bzlJNVZlYVpZSHdpeVdzNTZFMzNVSFQtYUVpcE9SbjNNWWp3SE9jUFZVbWlPWG9kOW1EX0tYMWxfMkNCdFpSQUxLOEt1cVdhN2xPZ0lrdDVvZXdNMjVYTGZCSk1haU1ITVo0ajUzX2FQUE0yNUZMMmZTUjhVQm9ZcFc2Nm1EWk14bWFPWkY5VnhsS2J6c3pyUVdmNVRNaUlvUGJfNFFORFhqWndnU1BsY21wOVRYeFNrbE5GekU2OVpxZHhHUTc5QQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 10:50:21 GMT",
+  "published_ts": 1783075821,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2JQSWU2bzlJNVZlYVpZSHdpeVdzNTZFMzNVSFQtYUVpcE9SbjNNWWp3SE9jUFZVbWlPWG9kOW1EX0tYMWxfMkNCdFpSQUxLOEt1cVdhN2xPZ0lrdDVvZXdNMjVYTGZCSk1haU1ITVo0ajUzX2FQUE0yNUZMMmZTUjhVQm9ZcFc2Nm1EWk14bWFPWkY5VnhsS2J6c3pyUVdmNVRNaUlvUGJfNFFORFhqWndnU1BsY21wOVRYeFNrbE5GekU2OVpxZHhHUTc5QQ?oc=5\" target=\"_blank\">[News] Samsung Reportedly Seeks Up to 20% 3Q26 DRAM Price Increase; LPDDR Hikes May Exceed 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly seeking up to 20% DRAM price increase for Q3 2026, with LPDDR price hikes potentially exceeding 20%. Reported pricing guidance rather than confirmed transaction or signed contract; represents forward guidance/strategy discussion rather than a settled pricing outcome."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "93e4ebd73e0aff060765ded6d57a87813b309870",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix US Listing Is A Game-Changer For The Memory Industry (Pending:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzk0OTZmdEE1Njd2Tkl5OHFCbUgzSnRpQWQ5UnNyenpJNUVqeFE1aUdJeHNfTEdxMGk3R05TTjI2aVVYUDlxR2VDSm04bWlBaXdTTDF3MXg0SGRhTDhTdlVCWHRQaHZwNGpERDlQbW1lYXVRQW5pcE4tdkZjVnpsejJTQjJfY29KeGpGUHRCTFMwMnJxRmlZaDhuNVo?oc=5",
+  "published_at": "Fri, 03 Jul 2026 14:20:50 GMT",
+  "published_ts": 1783088450,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONzk0OTZmdEE1Njd2Tkl5OHFCbUgzSnRpQWQ5UnNyenpJNUVqeFE1aUdJeHNfTEdxMGk3R05TTjI2aVVYUDlxR2VDSm04bWlBaXdTTDF3MXg0SGRhTDhTdlVCWHRQaHZwNGpERDlQbW1lYXVRQW5pcE4tdkZjVnpsejJTQjJfY29KeGpGUHRCTFMwMnJxRmlZaDhuNVo?oc=5\" target=\"_blank\">SK Hynix US Listing Is A Game-Changer For The Memory Industry (Pending:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece analyzing SK Hynix's pending US listing (SKHY) as potentially transformative for the memory industry. The listing itself is a concrete event, but this article is analysis and commentary on its implications rather than reporting new information about the listing or a material development. Relevant because SK Hynix is a key DRAM fund holding, but impact is soft (analysis/opinion) rather than a hard announcement or catalyst."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "e5685f5d2010d7b34b73cb1012bbda2d72fb9a7c",
+  "source": "TradingView",
+  "topic": "pricing",
+  "title": "Can Higher Memory Prices Extend Micron Technology's Profit Boom? - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0t0SnFjMUZGQ1F5VndBbWlxcTFQTU4tVktOaUtkQmpBdURrNVhzVnM1d0h3SEVKTUV5b3RGb3VNYlBjNmRsZjhfckJBQy1QUEt3WnRrY054M0haeGFCTUsyRW9uVkNhNEtFMnFZaWRRMXltQnBUTk1MVExSbXlUOGpMWDBUYXR0bnJjYTUyRVVkWjBOVE1KQ3VmUHJScWhQUWRLME9aNnFyMFQ5NTU2T1BaTlJaSTJ0bGpR?oc=5",
+  "published_at": "Fri, 03 Jul 2026 13:00:00 GMT",
+  "published_ts": 1783083600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0t0SnFjMUZGQ1F5VndBbWlxcTFQTU4tVktOaUtkQmpBdURrNVhzVnM1d0h3SEVKTUV5b3RGb3VNYlBjNmRsZjhfckJBQy1QUEt3WnRrY054M0haeGFCTUsyRW9uVkNhNEtFMnFZaWRRMXltQnBUTk1MVExSbXlUOGpMWDBUYXR0bnJjYTUyRVVkWjBOVE1KQ3VmUHJScWhQUWRLME9aNnFyMFQ5NTU2T1BaTlJaSTJ0bGpR?oc=5\" target=\"_blank\">Can Higher Memory Prices Extend Micron Technology's Profit Boom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TradingView analysis exploring whether rising memory prices could sustain Micron's profitability. This is speculative commentary on price dynamics and their potential impact on a key holding, rather than reporting a concrete pricing event or material development."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "e0bd19965d9d2b0b8dc69b4f0a53568e8bd7419b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Stock Is Up More Than 6,000% Since Spinning Off From Western Digital. Is a Stock Split on the Horizon? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkctWERmQzJFMTJfUnI4Mnp0bS1FRnVaUlo4aWdWeDRwV0lrQmhHUk0xMTNJMzlkY2trQkxQYmxUMVIzU0hXQU9kVmhlS2lFZG14QWFWRWV1Z29oaVlXbnJIYWRSb1ZGdVlFT0FULWtmdGZPdDNxVkthdFhyYXlwX05oUDlIZlJPXzZRbWdweTBkVHc?oc=5",
+  "published_at": "Fri, 03 Jul 2026 13:15:00 GMT",
+  "published_ts": 1783084500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkctWERmQzJFMTJfUnI4Mnp0bS1FRnVaUlo4aWdWeDRwV0lrQmhHUk0xMTNJMzlkY2trQkxQYmxUMVIzU0hXQU9kVmhlS2lFZG14QWFWRWV1Z29oaVlXbnJIYWRSb1ZGdVlFT0FULWtmdGZPdDNxVkthdFhyYXlwX05oUDlIZlJPXzZRbWdweTBkVHc?oc=5\" target=\"_blank\">Sandisk Stock Is Up More Than 6,000% Since Spinning Off From Western Digital. Is a Stock Split on the Horizon?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance reports on SanDisk's stock performance since its spinoff from Western Digital, speculating about a potential stock split. While SanDisk is a fund holding, this is primarily a retrospective stock-performance piece with speculation about a corporate action rather than reporting a confirmed event or concrete market-moving development."
+  },
+  "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "ed190a08bb5f903804d4d05a6a5949482d910e37",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix Rebound 8%, 10% as Memory Stocks Shake Off Meta Concerns - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xcnJNSDJnTkxZWnJGdGx6YnA0OGxWS3FIZUlnVWZVTlFRYmE5MmIyQVkwWVVmeXRsYlJ5YlJ0cGFmb0tXZ1BsVzdhNmdXOXdZa0NicQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 11:42:01 GMT",
+  "published_ts": 1783078921,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xcnJNSDJnTkxZWnJGdGx6YnA0OGxWS3FIZUlnVWZVTlFRYmE5MmIyQVkwWVVmeXRsYlJ5YlJ0cGFmb0tXZ1BsVzdhNmdXOXdZa0NicQ?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix Rebound 8%, 10% as Memory Stocks Shake Off Meta Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix rebounded 8% and 10% respectively as memory stocks recovered from Meta-related concerns. This is a price-move story with no new fundamental catalyst disclosed—stocks are simply digesting prior sentiment shifts, making it a minor passing mention of holdings without material new information."
+  },
+  "buffered_ts": 1783092813.7066016
  }
 ]
