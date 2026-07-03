@@ -865,5 +865,53 @@
    "summary": "Earnings preview analyzing Samsung Electronics' HBM (high-bandwidth memory) competitive position ahead of earnings report. Brokerages are bullish on Samsung's HBM dominance prospects, but this is pre-earnings analyst opinion and speculation rather than confirmed results or concrete developments."
   },
   "buffered_ts": 1783104372.7245069
+ },
+ {
+  "id": "f1859cdc3098bbf8dce9f1f54179ed862b68d173",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "UK's Currys warns memory chip shortage will push up prices - MSN",
+  "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcFBTMDk0QjNlcU1uSGJ6cDlRQjlRaU14bVRMS3hSTGtBTEdUUnB3dkk1QmJuYUh2eWNtSjZVQjEzbHNPLVkxNWRMRWZRQmdIOUJSakZhWVBaR2IzNTlod0dLWFJpUEo5UnlkQU5nODNaSDhLQzlrdDFwSjJTMko5VkIyOFlldlNxc3FjVk1nMVdaWlZ0OXdqZlRwOUxTbFN4d0xaN1NSYXRZM0pMMkwxcGotQ2dUM25lY2lZX0o2MFpjSEtlR0ZEYWNiamVRSG80QUc3OUNyMVhMV09XSWR6dUJRRTZmOGdwYVFOOXF6aGlqZmQ2SVNSZXZia3dNMEQwaU5hNG5lOGN3U2hYdzhqWDc1NGhaS1JkSDRONFhoSW5xMGxxcUpReTlwVWNWTDN4WDJRRXlhNXo2eGMyWVlwbm5SUVF4UHM5R2ZDMS1RWEFhTGZHS0plNE13aTg0cnU5cXhzN3ctZjdYeDlkOEdSUTZlT2dRdFlPRWFROGF2Nm9JMDQ?oc=5",
+  "published_at": "Fri, 03 Jul 2026 08:03:11 GMT",
+  "published_ts": 1783065791,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwNBVV95cUxPcFBTMDk0QjNlcU1uSGJ6cDlRQjlRaU14bVRMS3hSTGtBTEdUUnB3dkk1QmJuYUh2eWNtSjZVQjEzbHNPLVkxNWRMRWZRQmdIOUJSakZhWVBaR2IzNTlod0dLWFJpUEo5UnlkQU5nODNaSDhLQzlrdDFwSjJTMko5VkIyOFlldlNxc3FjVk1nMVdaWlZ0OXdqZlRwOUxTbFN4d0xaN1NSYXRZM0pMMkwxcGotQ2dUM25lY2lZX0o2MFpjSEtlR0ZEYWNiamVRSG80QUc3OUNyMVhMV09XSWR6dUJRRTZmOGdwYVFOOXF6aGlqZmQ2SVNSZXZia3dNMEQwaU5hNG5lOGN3U2hYdzhqWDc1NGhaS1JkSDRONFhoSW5xMGxxcUpReTlwVWNWTDN4WDJRRXlhNXo2eGMyWVlwbm5SUVF4UHM5R2ZDMS1RWEFhTGZHS0plNE13aTg0cnU5cXhzN3ctZjdYeDlkOEdSUTZlT2dRdFlPRWFROGF2Nm9JMDQ?oc=5\" target=\"_blank\">UK's Currys warns memory chip shortage will push up prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UK retailer Currys warns of memory chip shortage driving up prices. A statement from a retailer about expected price increases due to supply constraints is relevant to memory-chip demand and pricing dynamics, but is opinion/warning rather than a confirmed hard event or binding price change."
+  },
+  "buffered_ts": 1783109550.483427
+ },
+ {
+  "id": "5fe162d7b23913f0fef665342c90cf6e977b680c",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Why are Samsung and SK Hynix stocks rebounding sharply today? - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjloVmJSMGZXMmxraHJEX09LUlVRS21DQnpsWnRKejFPUVkyZzczTzhzNVlNRWZxWVBBUElWX2YwckpjN196azhDQ2lXQVlfQ3NUUndINDJHTTd6aDlRLXlCMEpiNGtISHk2OGxUUkFKVVczQ2hEZnc2WWZpdDBzVVgybU1GRDh1dEVvdGw0aHlQUkcwbjBiTjBSeGY4VEhkT2dSbkI0cXZ1aWp2dlp2RVdVQUJWbDB5?oc=5",
+  "published_at": "Fri, 03 Jul 2026 03:36:00 GMT",
+  "published_ts": 1783049760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjloVmJSMGZXMmxraHJEX09LUlVRS21DQnpsWnRKejFPUVkyZzczTzhzNVlNRWZxWVBBUElWX2YwckpjN196azhDQ2lXQVlfQ3NUUndINDJHTTd6aDlRLXlCMEpiNGtISHk2OGxUUkFKVVczQ2hEZnc2WWZpdDBzVVgybU1GRDh1dEVvdGw0aHlQUkcwbjBiTjBSeGY4VEhkT2dSbkI0cXZ1aWp2dlp2RVdVQUJWbDB5?oc=5\" target=\"_blank\">Why are Samsung and SK Hynix stocks rebounding sharply today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "TradingView asks why Samsung and SK hynix stocks are rebounding sharply; no specific catalyst or concrete event stated—appears to be a post-hoc price-move commentary without disclosed news driver."
+  },
+  "buffered_ts": 1783109550.483427
  }
 ]
