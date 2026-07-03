@@ -793,5 +793,77 @@
    "summary": "Western Digital (WDC), a DRAM ETF holding, is mentioned as experiencing a share price decline, but no specific catalyst, earnings data, or material news event is disclosed in the snippet — merely a price move observation."
   },
   "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "0e45cc496b47db11b2bc8700cc70949340584ee2",
+  "source": "Moomoo",
+  "topic": "industry",
+  "title": "Dongwu Securities: AI computing power drives demand for HBM, spurring new requirements for testing equipment and accelerating breakthroughs by domestic equipment manufacturers. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVVHWVM3OEF3cnl0dnlCOExFVWZhMjJTQS1ET1YzVU1PUElsMmh0Z0wxYVUwUHFuWnlsdlp4bmZtZEQxUjZGY1d6WUxsSlRjdmhqTEhrSFVnSGFWNjVoaVRmelJRU3Vla25zWG1UXzM5TTNyWHVUR3BvZ1BCN01sbHJ0YjRobUQ1emg0OVY3NEZWV2kwZnBhekpYS2dlNUkwTVZvQkQ2T1pENldiZ3c?oc=5",
+  "published_at": "Fri, 03 Jul 2026 01:42:21 GMT",
+  "published_ts": 1783042941,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVVHWVM3OEF3cnl0dnlCOExFVWZhMjJTQS1ET1YzVU1PUElsMmh0Z0wxYVUwUHFuWnlsdlp4bmZtZEQxUjZGY1d6WUxsSlRjdmhqTEhrSFVnSGFWNjVoaVRmelJRU3Vla25zWG1UXzM5TTNyWHVUR3BvZ1BCN01sbHJ0YjRobUQ1emg0OVY3NEZWV2kwZnBhekpYS2dlNUkwTVZvQkQ2T1pENldiZ3c?oc=5\" target=\"_blank\">Dongwu Securities: AI computing power drives demand for HBM, spurring new requirements for testing equipment and accelerating breakthroughs by domestic equipment manufacturers.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analyst view from Dongwu Securities linking AI computing demand to HBM (high-bandwidth memory) demand growth and spurring testing equipment requirements and domestic semiconductor equipment breakthroughs. Relevant to fund's memory-semiconductor focus but is analyst opinion/commentary rather than a concrete event or hard data."
+  },
+  "buffered_ts": 1783104372.7245069
+ },
+ {
+  "id": "cefec5d9d823e9c638763a3366a7f2750585dd12",
+  "source": "Wccftech",
+  "topic": "pricing",
+  "title": "UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027 - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDdkc3gzSDZJWHQ4a0MyNUZkd3ktTHNFa2JBRl9pSFNyRmFiRVJnSUNUTUpYLTI3WVBhYWtHLXVoNXYwaXpMRWwySS05OVNlbW5yXzlDcEd2eS11SVN2ZUxNN1huOVFTOUVkWFVVNnM3b1Npb0lEcTJwOThXc003LUJnUTRYOFdNa2syR0g5dGVtU3VGajJkSS1fbkVpRkhlY0dKRDNwSlJjWFBCLWUzYUtyaG9wbnVjdXJRUtIBvAFBVV95cUxOUDdkc3gzSDZJWHQ4a0MyNUZkd3ktTHNFa2JBRl9pSFNyRmFiRVJnSUNUTUpYLTI3WVBhYWtHLXVoNXYwaXpMRWwySS05OVNlbW5yXzlDcEd2eS11SVN2ZUxNN1huOVFTOUVkWFVVNnM3b1Npb0lEcTJwOThXc003LUJnUTRYOFdNa2syR0g5dGVtU3VGajJkSS1fbkVpRkhlY0dKRDNwSlJjWFBCLWUzYUtyaG9wbnVjdXJRUg?oc=5",
+  "published_at": "Fri, 03 Jul 2026 15:59:00 GMT",
+  "published_ts": 1783094340,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDdkc3gzSDZJWHQ4a0MyNUZkd3ktTHNFa2JBRl9pSFNyRmFiRVJnSUNUTUpYLTI3WVBhYWtHLXVoNXYwaXpMRWwySS05OVNlbW5yXzlDcEd2eS11SVN2ZUxNN1huOVFTOUVkWFVVNnM3b1Npb0lEcTJwOThXc003LUJnUTRYOFdNa2syR0g5dGVtU3VGajJkSS1fbkVpRkhlY0dKRDNwSlJjWFBCLWUzYUtyaG9wbnVjdXJRUtIBvAFBVV95cUxOUDdkc3gzSDZJWHQ4a0MyNUZkd3ktTHNFa2JBRl9pSFNyRmFiRVJnSUNUTUpYLTI3WVBhYWtHLXVoNXYwaXpMRWwySS05OVNlbW5yXzlDcEd2eS11SVN2ZUxNN1huOVFTOUVkWFVVNnM3b1Npb0lEcTJwOThXc003LUJnUTRYOFdNa2syR0g5dGVtU3VGajJkSS1fbkVpRkhlY0dKRDNwSlJjWFBCLWUzYUtyaG9wbnVjdXJRUg?oc=5\" target=\"_blank\">UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS analyst doubles DRAM price forecast through 2027, citing demand outpacing supply by 17 percentage points. Forward-looking analyst view on pricing trajectory rather than a concrete price move or transaction, making this opinion/analysis rather than a settled event."
+  },
+  "buffered_ts": 1783104372.7245069
+ },
+ {
+  "id": "f18993f126bbb7a605768284dd80af32b58b2479",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Samsung Electronics Earnings Preview: Brokerages Bet Big on HBM Dominance - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DNlRoejhOdWtRekJxRjFCemZkQkNsdFlvMmo0ZkRiOUtKUkJ2ZkFESkZOYzhpMzNQOGMzR2xRRHh2Wkd0a1B5Z2NDRkJKbWdoSUFWMGZCVXBmZU5FbTRrc1liazdJdWRXb3pkMnpDc1JGN3hoMlE?oc=5",
+  "published_at": "Fri, 03 Jul 2026 08:17:00 GMT",
+  "published_ts": 1783066620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DNlRoejhOdWtRekJxRjFCemZkQkNsdFlvMmo0ZkRiOUtKUkJ2ZkFESkZOYzhpMzNQOGMzR2xRRHh2Wkd0a1B5Z2NDRkJKbWdoSUFWMGZCVXBmZU5FbTRrc1liazdJdWRXb3pkMnpDc1JGN3hoMlE?oc=5\" target=\"_blank\">Samsung Electronics Earnings Preview: Brokerages Bet Big on HBM Dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Earnings preview analyzing Samsung Electronics' HBM (high-bandwidth memory) competitive position ahead of earnings report. Brokerages are bullish on Samsung's HBM dominance prospects, but this is pre-earnings analyst opinion and speculation rather than confirmed results or concrete developments."
+  },
+  "buffered_ts": 1783104372.7245069
  }
 ]
