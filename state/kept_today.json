@@ -1009,5 +1009,80 @@
    "summary": "TipRanks reports on insider trading activity at Seagate (STX), a DRAM fund holding. Without specifics on the transaction size, direction, or timing, this appears to be a generic insider-move story with limited concrete information. Insider trades alone are rarely market-moving unless they signal a major shift in management confidence tied to material news—this headline suggests speculation rather than a substantive development."
   },
   "buffered_ts": 1783114775.6142743
+ },
+ {
+  "id": "b6e0135f1ce7be27d06d3ab0d44199d8805ee8d1",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Stock’s Upcoming U.S. Listing Is a Sign the Memory Trade Could Soon Topple. 2 Ways to Profit from the Pain. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVhQSDlBclF6NTlqTW1mb002QkJyeWt2bGJ2LTdrSUs2ZnBOc3JSaDNqUnFzTUJOdkRjNEFiX1dEVUR5Nzl4LUwwYkJrOW4xd0hXYzFSc1FsdGJBWk1JdUppLTNFSWZHeTZJWGtzdWlFSW5uN1RldEZwa2tnTWdVSmc2SXVMbDBlb2lfOC1oSWlJLUda?oc=5",
+  "published_at": "Fri, 03 Jul 2026 16:00:02 GMT",
+  "published_ts": 1783094402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVhQSDlBclF6NTlqTW1mb002QkJyeWt2bGJ2LTdrSUs2ZnBOc3JSaDNqUnFzTUJOdkRjNEFiX1dEVUR5Nzl4LUwwYkJrOW4xd0hXYzFSc1FsdGJBWk1JdUppLTNFSWZHeTZJWGtzdWlFSW5uN1RldEZwa2tnTWdVSmc2SXVMbDBlb2lfOC1oSWlJLUda?oc=5\" target=\"_blank\">SK Hynix Stock’s Upcoming U.S. Listing Is a Sign the Memory Trade Could Soon Topple. 2 Ways to Profit from the Pain.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "Barchart.com"
+   ],
+   "titles": [
+    "SK Hynix Stock’s Upcoming U.S. Listing Is a Sign the Memory Trade Could Soon Topple. 2 Ways to Profit from the Pain. - Barchart.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's upcoming U.S. listing is analyzed as a potential signal of memory market weakness. Article offers speculative analysis on profiting from anticipated downturn rather than reporting a concrete market-moving event or change in SK Hynix fundamentals."
+  },
+  "buffered_ts": 1783119525.228849
+ },
+ {
+  "id": "c81518665c8e98480f3e53c613b043ed010af16e",
+  "source": "thestreet.com",
+  "topic": "industry",
+  "title": "Jim Cramer gets Micron CEO to reveal what’s next for AI chips - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUFWNFVXeHNJY3ROeXRtWEpyQmZwM3Q0T1l1SHBBcVRSa1ZxeWF3Y1VYTDFRWmpEUHE0eGRJUWFYRVVMbEFweEp2Q2dEd0dIaTJiOHhZLUlXQTBvd3NuaHB6YUVvamZQSms0V2ZCdEtpUkFkY192OEczNm9hN2xuNy1POGpVaF91Z19yVXNoR1hvV3l2eDhObUl2UllJUUhDUWhrVjkzeGI2SmhMMDBWQjhTaXBrNjZkZGdLUHpUemVka3NWRUphQ2U4bExzZTRR?oc=5",
+  "published_at": "Fri, 03 Jul 2026 22:17:00 GMT",
+  "published_ts": 1783117020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUFWNFVXeHNJY3ROeXRtWEpyQmZwM3Q0T1l1SHBBcVRSa1ZxeWF3Y1VYTDFRWmpEUHE0eGRJUWFYRVVMbEFweEp2Q2dEd0dIaTJiOHhZLUlXQTBvd3NuaHB6YUVvamZQSms0V2ZCdEtpUkFkY192OEczNm9hN2xuNy1POGpVaF91Z19yVXNoR1hvV3l2eDhObUl2UllJUUhDUWhrVjkzeGI2SmhMMDBWQjhTaXBrNjZkZGdLUHpUemVka3NWRUphQ2U4bExzZTRR?oc=5\" target=\"_blank\">Jim Cramer gets Micron CEO to reveal what’s next for AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Jim Cramer interviews Micron CEO on AI chip strategy. This is commentary/discussion format rather than a concrete announcement of new product, capacity, or guidance—typical for media interviews. Relevant to the holding but soft on impact."
+  },
+  "buffered_ts": 1783119525.228849
+ },
+ {
+  "id": "95ce8d20d6fcd1a5fcc9d674c546ba69932fa80d",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron Stock Drops, Memory Rivals SK Hynix and Samsung Sink KOSPI - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTENzM1ZHdVN5aDREYjJ2dk11MlhtLTcwR29vMVFpMFJKNHE4MFV6eWhQQzRWa1dKWUpaQVBOeDJPaFhCYkNodTMwSWdBZlhvaTlyRHU0TVpaOXJtM1A0dFMtS0FWdm91Wkx3MHMxVEt4LS1KdjlycURMaEF4aUppS3Z1Q1cyRVktbktERUJGc1FSSUt3R0c0NzJ5dlFwWGZJV3d1VG8yWlhmLWNiZWhRTUhHT3dPcThaTUxtaW1MYWdnOUZyNUJUSk5nemdfS096MTN4N3c0cTFsUlpJTFR2SmxNR2xZZ3lQWVRWd1R4TkpHeUZ3Z3M0cU1uYUNkNHBhelJRX3JnYy1Nanh5Smc?oc=5",
+  "published_at": "Thu, 02 Jul 2026 09:42:03 GMT",
+  "published_ts": 1782985323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQTENzM1ZHdVN5aDREYjJ2dk11MlhtLTcwR29vMVFpMFJKNHE4MFV6eWhQQzRWa1dKWUpaQVBOeDJPaFhCYkNodTMwSWdBZlhvaTlyRHU0TVpaOXJtM1A0dFMtS0FWdm91Wkx3MHMxVEt4LS1KdjlycURMaEF4aUppS3Z1Q1cyRVktbktERUJGc1FSSUt3R0c0NzJ5dlFwWGZJV3d1VG8yWlhmLWNiZWhRTUhHT3dPcThaTUxtaW1MYWdnOUZyNUJUSk5nemdfS096MTN4N3c0cTFsUlpJTFR2SmxNR2xZZ3lQWVRWd1R4TkpHeUZ3Z3M0cU1uYUNkNHBhelJRX3JnYy1Nanh5Smc?oc=5\" target=\"_blank\">Micron Stock Drops, Memory Rivals SK Hynix and Samsung Sink KOSPI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Micron, SK hynix, and Samsung stocks declined, with SK hynix and Samsung pulling down the KOSPI index. No specific catalyst, earnings detail, or memory-market development cited—appears to be a stock-price movement piece without stated fundamental cause."
+  },
+  "buffered_ts": 1783119525.228849
  }
 ]
