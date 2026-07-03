@@ -529,5 +529,269 @@
    "summary": "Samsung Electronics and SK Hynix rebounded 8% and 10% respectively as memory stocks recovered from Meta-related concerns. This is a price-move story with no new fundamental catalyst disclosed—stocks are simply digesting prior sentiment shifts, making it a minor passing mention of holdings without material new information."
   },
   "buffered_ts": 1783092813.7066016
+ },
+ {
+  "id": "6106e9fb7de1b5b1e6e476d7b8151eb80498af56",
+  "source": "Business Wire",
+  "topic": "holding",
+  "title": "Kioxia and Sandisk Begin Production of 10th-Generation 3D Flash Memory Products at Kitakami Plant Fab2 - Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGVMX08tWkRjMmlRa0RQOWJOWm54NGpfSzY0bm9XTFZfYi1iTURrdm1yNlJlU19XRnk1elRzc3A3WGdpTEhIb3pRVVcxdmhhRkFVZ0tBQml1WU82T29JSHlHU2Roc0pBcUNQS1BVRTM2bXp2M1k3dldDbEc2Z2UzUUVaMWRfbXp3MUdBOEppNUQ2TXI1U0Z2MEd1Sll4VHZ6TjJkS281Q2R2eE9qY0JoQkdWcmlXOUJFNWZMbDRfTndyLUNIT25mYzM0UzV0OE1XZ0hsWS1lRG4zOXotMTB1MVdfeGt1UHhEQTBpNWJaVEw?oc=5",
+  "published_at": "Fri, 03 Jul 2026 10:19:00 GMT",
+  "published_ts": 1783073940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGVMX08tWkRjMmlRa0RQOWJOWm54NGpfSzY0bm9XTFZfYi1iTURrdm1yNlJlU19XRnk1elRzc3A3WGdpTEhIb3pRVVcxdmhhRkFVZ0tBQml1WU82T29JSHlHU2Roc0pBcUNQS1BVRTM2bXp2M1k3dldDbEc2Z2UzUUVaMWRfbXp3MUdBOEppNUQ2TXI1U0Z2MEd1Sll4VHZ6TjJkS281Q2R2eE9qY0JoQkdWcmlXOUJFNWZMbDRfTndyLUNIT25mYzM0UzV0OE1XZ0hsWS1lRG4zOXotMTB1MVdfeGt1UHhEQTBpNWJaVEw?oc=5\" target=\"_blank\">Kioxia and Sandisk Begin Production of 10th-Generation 3D Flash Memory Products at Kitakami Plant Fab2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Wire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia and SanDisk (a fund holding) have begun production of 10th-generation 3D NAND flash memory at the Kitakami Plant Fab2, representing a concrete advancement in fab capacity and product roadmap execution with material implications for SanDisk's production and competitive positioning."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "67105fc671e724afba7f28d4b075707b459cdc7f",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5",
+  "published_at": "Fri, 03 Jul 2026 05:49:34 GMT",
+  "published_ts": 1783057774,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5\" target=\"_blank\">AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce analysis indicates AI server demand continues supporting memory prices in Q3 2026, but with moderating gains due to weakening consumer demand and high base effects. This is forward-looking analyst commentary rather than a concrete price report or announced supply change."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "093f8d830fa705c770960687afaa7a1960ca6604",
+  "source": "PC Gamer",
+  "topic": "industry",
+  "title": "Meta magically merges DDR4 memory into a DDR5 server, thanks to the power of a custom CXL chip - PC Gamer",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ1pnTzVsUmk5dGp6NnRNZUF3QlF2QzJQR3VINUQtT0dlSTV3Ujc2bHNCQkQyQnh0RlVPaFcwTV9JZGdDdWgtZElxYS1kTV8wR0F4UTVjTjJrQUMtb3NZU1l0a0hEX0hsMG1RandLVVpZNVQwMFdOQnhZYWJjQTdZaG5sUjJMcFRhNmg3NUxNVVNJVGdnZUNzNG9JdktCSlFIRVhoaUlxWFdSRWhZOUw2aGUxTnE5RURRaGl4REw3dFJ5UmhhUWJ4RWJwWjhNZWgxdkNaRTlJM2lNV2JEZkplMmxtc2FkMDA3RjA3Z3FHT1VLNVdiRnA1bWhhMA?oc=5",
+  "published_at": "Fri, 03 Jul 2026 12:59:18 GMT",
+  "published_ts": 1783083558,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ1pnTzVsUmk5dGp6NnRNZUF3QlF2QzJQR3VINUQtT0dlSTV3Ujc2bHNCQkQyQnh0RlVPaFcwTV9JZGdDdWgtZElxYS1kTV8wR0F4UTVjTjJrQUMtb3NZU1l0a0hEX0hsMG1RandLVVpZNVQwMFdOQnhZYWJjQTdZaG5sUjJMcFRhNmg3NUxNVVNJVGdnZUNzNG9JdktCSlFIRVhoaUlxWFdSRWhZOUw2aGUxTnE5RURRaGl4REw3dFJ5UmhhUWJ4RWJwWjhNZWgxdkNaRTlJM2lNV2JEZkplMmxtc2FkMDA3RjA3Z3FHT1VLNVdiRnA1bWhhMA?oc=5\" target=\"_blank\">Meta magically merges DDR4 memory into a DDR5 server, thanks to the power of a custom CXL chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PC Gamer"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Meta has developed a custom CXL chip that allows DDR4 memory to be integrated into DDR5 servers, representing a technical innovation in memory infrastructure architecture. This reflects ongoing AI-infrastructure capex trends and memory capacity optimization but is a technical development rather than a confirmed order or production commitment that would immediately move memory demand or pricing."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "0207080a605025ddb04c6a1503cec5b14940aad9",
+  "source": "Wccftech",
+  "topic": "pricing",
+  "title": "UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027 - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2dsM25kT2w3ZnV1Uld1WWc0OFRHMXFJdDBLOTNWYmVoSno0WjVRektIcmxqS18xd3VmTkVVZlVCVHpobFc3ZzljZVlnbmJSVm84ODk4eDJpbXY0UG85Yy13NS1KaDlpQkJldlYwMU5ReG9aZHdGMF9PWEF2WHEtRjhpOFUzUHBmR1pKLVlHRnExQlE3T2ZRZzI5VTlHOUx5VEYxclV5akNlclMtMTNKYjVzWTJNNkHSAbwBQVVfeXFMTlA3ZHN4M0g2SVh0OGtDMjVGZHd5LUxzRWtiQUZfaUhTckZhYkVSZ0lDVE1KWC0yN1lQYWFrRy11aDV2MGl6TEVsMkktOTlTZW1ucl85Q3BHdnktdUlTdmVMTTdYbjlRUzlFZFhVVTZzN29TaW9JRHEycDk4V3NNNy1CZ1E0WDhXTWtrMkdIOXRlbVN1RmoyZEktX25FaUZIZWNHSkQzcEpSY1hQQi1lM2FLcmhvcG51Y3VyUVI?oc=5",
+  "published_at": "Fri, 03 Jul 2026 15:59:53 GMT",
+  "published_ts": 1783094393,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2dsM25kT2w3ZnV1Uld1WWc0OFRHMXFJdDBLOTNWYmVoSno0WjVRektIcmxqS18xd3VmTkVVZlVCVHpobFc3ZzljZVlnbmJSVm84ODk4eDJpbXY0UG85Yy13NS1KaDlpQkJldlYwMU5ReG9aZHdGMF9PWEF2WHEtRjhpOFUzUHBmR1pKLVlHRnExQlE3T2ZRZzI5VTlHOUx5VEYxclV5akNlclMtMTNKYjVzWTJNNkHSAbwBQVVfeXFMTlA3ZHN4M0g2SVh0OGtDMjVGZHd5LUxzRWtiQUZfaUhTckZhYkVSZ0lDVE1KWC0yN1lQYWFrRy11aDV2MGl6TEVsMkktOTlTZW1ucl85Q3BHdnktdUlTdmVMTTdYbjlRUzlFZFhVVTZzN29TaW9JRHEycDk4V3NNNy1CZ1E0WDhXTWtrMkdIOXRlbVN1RmoyZEktX25FaUZIZWNHSkQzcEpSY1hQQi1lM2FLcmhvcG51Y3VyUVI?oc=5\" target=\"_blank\">UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS doubles DRAM price forecast with demand outpacing supply by 17 points through 2027. Analyst forecast and outlook rather than a concrete market event or transaction, so impact is soft despite material relevance to pricing cycle."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "cbabd19a6b6c1ed56a4f6cb4222d21b7a3234391",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Samsung's 8% Rebound Conceals a Battle Between AI Pricing Power and Market Nerves - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWxXcEhGZW1EODBxak5GbEt1bk9KUnMwVThTbTlqb2VROV93T0tJZFZ0enJ3cVRVQnBjSFRVZHNhOWFKRWpBNUpGZVFQYlVib2tVelBkbnZJcVZwejk3UjEzWGVaRzBsUEFjZ0dfWUk2QUFNYWk0ZkxLbnlzNkxsMW1wc3N3LUxXVXhLNl9SalFWQkxMN29iaHZ5X3p0RkRfTF9hZ0paS3BfU2FYUjd5ZUFaTzByLXZqaTFkRGV6dkt1U0twOWMzRw?oc=5",
+  "published_at": "Fri, 03 Jul 2026 15:26:30 GMT",
+  "published_ts": 1783092390,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWxXcEhGZW1EODBxak5GbEt1bk9KUnMwVThTbTlqb2VROV93T0tJZFZ0enJ3cVRVQnBjSFRVZHNhOWFKRWpBNUpGZVFQYlVib2tVelBkbnZJcVZwejk3UjEzWGVaRzBsUEFjZ0dfWUk2QUFNYWk0ZkxLbnlzNkxsMW1wc3N3LUxXVXhLNl9SalFWQkxMN29iaHZ5X3p0RkRfTF9hZ0paS3BfU2FYUjd5ZUFaTzByLXZqaTFkRGV6dkt1U0twOWMzRw?oc=5\" target=\"_blank\">Samsung's 8% Rebound Conceals a Battle Between AI Pricing Power and Market Nerves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung stock rebounded 8%, attributed to market analysis of AI pricing power versus broader market uncertainty. Commentary on stock movement and sentiment analysis rather than a concrete event or hard catalyst."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "4212a64ddd02972643310e0413fab670f64390c6",
+  "source": "TwistedVoxel",
+  "topic": "pricing",
+  "title": "UBS Raises DRAM and NAND Price Forecasts as Memory Market Tightens - TwistedVoxel",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW0xUDc1TTh0VGZ6V2YzbGR4blZHMWw3MXlOU0g0UWxQUVgtMXFIejBVd1pPVDlKR2xEc1BqdUFYMWhRU0J6Zmc1MERxdVByUV8xZWZWOVE0QTJFc2RQOXo3T1NVNjdqcVlKa1RoSm1OenlLVmNUcHNVd3dDU293NFJVanVHVWgzUWgxMVJLRVRvQmhVTFNV?oc=5",
+  "published_at": "Fri, 03 Jul 2026 12:05:16 GMT",
+  "published_ts": 1783080316,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW0xUDc1TTh0VGZ6V2YzbGR4blZHMWw3MXlOU0g0UWxQUVgtMXFIejBVd1pPVDlKR2xEc1BqdUFYMWhRU0J6Zmc1MERxdVByUV8xZWZWOVE0QTJFc2RQOXo3T1NVNjdqcVlKa1RoSm1OenlLVmNUcHNVd3dDU293NFJVanVHVWgzUWgxMVJLRVRvQmhVTFNV?oc=5\" target=\"_blank\">UBS Raises DRAM and NAND Price Forecasts as Memory Market Tightens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TwistedVoxel</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TwistedVoxel"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS raises DRAM and NAND price forecasts citing memory market tightening. Analyst price forecast upgrade is relevant to the fund's holdings but represents opinion/analysis rather than a concrete market event or confirmed price move; typical of post-earnings or cyclical reassessment coverage."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "2beee915e9155a4bfb5b79814ff6f68fc8f5c6b7",
+  "source": "Let's Data Science",
+  "topic": "holding",
+  "title": "Lee Reviews Mega Chip Cluster Project Next Week - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREhLY1FBY1NRRzBjVkZuNVJpZFdHaDBUX3dzSWNzTHBaSEVYX0hUSFVlLUprLUVQZ2Q3MUp2XzhQU3lFYlBEZElHZVJkd0ZWMGZKNGo1SVV6Wm51OE5pUUtYdGZteXhxZVVuRE1NVVk4c1E4OXJ1MGM5V2NTa3R6ZndERGpoa3B4bVFoUTZmUTduOHM?oc=5",
+  "published_at": "Fri, 03 Jul 2026 13:17:02 GMT",
+  "published_ts": 1783084622,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNREhLY1FBY1NRRzBjVkZuNVJpZFdHaDBUX3dzSWNzTHBaSEVYX0hUSFVlLUprLUVQZ2Q3MUp2XzhQU3lFYlBEZElHZVJkd0ZWMGZKNGo1SVV6Wm51OE5pUUtYdGZteXhxZVVuRE1NVVk4c1E4OXJ1MGM5V2NTa3R6ZndERGpoa3B4bVFoUTZmUTduOHM?oc=5\" target=\"_blank\">Lee Reviews Mega Chip Cluster Project Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Let's Data Science"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix executive Lee is scheduled to review a major chip cluster project next week. This suggests ongoing capital investment and strategic focus on semiconductor manufacturing capacity, relevant to SK hynix's memory production capabilities, but the story is advance notice of a meeting rather than a concrete decision or announcement."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "6be2d473444e306ff5a2d6e495346116df851d17",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Korea Stocks Rebound 5.8% as Samsung, SK Hynix Jump - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkVKTTRlZ3phQnc5T1B4LTNMaXczSk5OZHcyNTRxXzh2bzNBcnhUdXczTDRFR01yZUt0cEwzNjFpdGp1dVkzNUpkdnZvQ25iaHZYemowUWJ4bzNRbFJmdFlJTHFQMWs4M0I1TTRxWUlCaEZQMlFiX1JiZ2tUZ1dTWUtheEJ1RUVRVFZrLURlSEt1Z3N6SC1iQVh1U0Ntcnl6djltbkhUTWlGM3cxQ2c?oc=5",
+  "published_at": "Fri, 03 Jul 2026 16:10:52 GMT",
+  "published_ts": 1783095052,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONkVKTTRlZ3phQnc5T1B4LTNMaXczSk5OZHcyNTRxXzh2bzNBcnhUdXczTDRFR01yZUt0cEwzNjFpdGp1dVkzNUpkdnZvQ25iaHZYemowUWJ4bzNRbFJmdFlJTHFQMWs4M0I1TTRxWUlCaEZQMlFiX1JiZ2tUZ1dTWUtheEJ1RUVRVFZrLURlSEt1Z3N6SC1iQVh1U0Ntcnl6djltbkhUTWlGM3cxQ2c?oc=5\" target=\"_blank\">Korea Stocks Rebound 5.8% as Samsung, SK Hynix Jump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix shares rallied as part of a broader 5.8% rebound in Korean stocks. Without stated catalyst or magnitude of the individual moves, this is a price-action report driven by market sentiment rather than a concrete company-specific event."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "5927b159304ac0ab2eba568adec732e9cfa6b65c",
+  "source": "Taipei Times",
+  "topic": "holding",
+  "title": "Memorychip makers warn price meddling could bite - Taipei Times",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NOTFGTHB4VktjaE16UWp1MW1Zd2tHN1A2TkdqSVBJQjBxOUVjVTJyZU5HVDMyd0RReG1fai1vZ1RaX2IyU1RmeUdQeHdCTnN2cUdVYzAyVGpCTzMzSTJOdmlOWW5uZHN5RnNwWjVqaGcyNzRsOWc?oc=5",
+  "published_at": "Fri, 03 Jul 2026 16:00:00 GMT",
+  "published_ts": 1783094400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5NOTFGTHB4VktjaE16UWp1MW1Zd2tHN1A2TkdqSVBJQjBxOUVjVTJyZU5HVDMyd0RReG1fai1vZ1RaX2IyU1RmeUdQeHdCTnN2cUdVYzAyVGpCTzMzSTJOdmlOWW5uZHN5RnNwWjVqaGcyNzRsOWc?oc=5\" target=\"_blank\">Memorychip makers warn price meddling could bite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taipei Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Taipei Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Memory chip makers warn that government price intervention or regulation could negatively impact the industry. This is commentary on policy risk rather than a concrete pricing development or confirmed event, making it opinion-based analysis rather than hard news."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "ca3908af6addbfdd8a470e964112cefae1f8ecf7",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "Micron Remains a Buy as AI Memory Demand Surges - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1ltdG1ldXBESkhiZmstYWcyRjFBZTFUcjRTWmRNME5DRHBFUV9BeEszekRrbHRvaGl3X2ljOGMzZERhV2loUERWbFBDazJZYzlIR1NEaVBWdUtZQXhyY0pzS2pMV0RRbzExWkZ1VDlFN0xTWVd6NmJGbGlhLXJkX21rRm85a2dXZzFuRWRnQjRsR1JiLXFr?oc=5",
+  "published_at": "Fri, 03 Jul 2026 16:59:03 GMT",
+  "published_ts": 1783097943,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1ltdG1ldXBESkhiZmstYWcyRjFBZTFUcjRTWmRNME5DRHBFUV9BeEszekRrbHRvaGl3X2ljOGMzZERhV2loUERWbFBDazJZYzlIR1NEaVBWdUtZQXhyY0pzS2pMV0RRbzExWkZ1VDlFN0xTWVd6NmJGbGlhLXJkX21rRm85a2dXZzFuRWRnQjRsR1JiLXFr?oc=5\" target=\"_blank\">Micron Remains a Buy as AI Memory Demand Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analyst note discussing Micron as a buy rating based on AI memory demand growth. This is opinion/analysis rather than a concrete event or hard number, placing it at impact 3."
+  },
+  "buffered_ts": 1783099325.7653632
+ },
+ {
+  "id": "281b08dc5f1c5907a230636e533be13e5528af8b",
+  "source": "FinancialContent",
+  "topic": "holding",
+  "title": "Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know - FinancialContent",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTdaWEF2RUNQNm40dnI2TWloNF9QeE5rNTJKWGpGbk1udmRJMzVkdkx3UXRDVm02NEwzSHZpLUMySWJWRjdkNkZIYzU5cElGdU81dlNJNmVQRnM0ZkdvZUxWTmRickhGdjhIY1ZwUUMxR2o3NnAxMHVPVFRXczhlRmpVdkVLem1IdVlQVF9OdnRXT01BbC1Nc3VZaE1rSk1Objc0ZFM3dnpjUi1tOTVpdGwtVTdobXpSOHVKUHN4NVFxdWx0YWV6eWNmLWU0WE1kUTlrYjR3Ui1Vc3VMRGprRzdWVzhkY2pMZzN0VHZmYThaUQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 19:45:00 GMT",
+  "published_ts": 1783021500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTdaWEF2RUNQNm40dnI2TWloNF9QeE5rNTJKWGpGbk1udmRJMzVkdkx3UXRDVm02NEwzSHZpLUMySWJWRjdkNkZIYzU5cElGdU81dlNJNmVQRnM0ZkdvZUxWTmRickhGdjhIY1ZwUUMxR2o3NnAxMHVPVFRXczhlRmpVdkVLem1IdVlQVF9OdnRXT01BbC1Nc3VZaE1rSk1Objc0ZFM3dnpjUi1tOTVpdGwtVTdobXpSOHVKUHN4NVFxdWx0YWV6eWNmLWU0WE1kUTlrYjR3Ui1Vc3VMRGprRzdWVzhkY2pMZzN0VHZmYThaUQ?oc=5\" target=\"_blank\">Western Digital, MACOM, and Lattice Semiconductor Shares Are Falling, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FinancialContent"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, is mentioned as experiencing a share price decline, but no specific catalyst, earnings data, or material news event is disclosed in the snippet — merely a price move observation."
+  },
+  "buffered_ts": 1783099325.7653632
  }
 ]
