@@ -1084,5 +1084,53 @@
    "summary": "Micron, SK hynix, and Samsung stocks declined, with SK hynix and Samsung pulling down the KOSPI index. No specific catalyst, earnings detail, or memory-market development cited—appears to be a stock-price movement piece without stated fundamental cause."
   },
   "buffered_ts": 1783119525.228849
+ },
+ {
+  "id": "8ecd2961972f552ee1d93263870c2d497cfa8cb2",
+  "source": "Evertiq",
+  "topic": "holding",
+  "title": "Air Liquide invests over $170M to back SK hynix’s US fab - Evertiq",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWpFTlFmc0x2ZXBrdHNxRXkwZTBSRlB4SkZXdDVkbnRXZUdLS21ZcXpZeVMxX1NFclZpZGJMcHZMeC03MUwzT1dWdGt6T05IYk1xZ20xdWxtNWxHLW5pY1piN21ucmxYaDlJaEI0b3hlYldIa1lEX2dOT1lnZXZaektreWNORU5WcmtZUFhfMWQ2U215?oc=5",
+  "published_at": "Fri, 03 Jul 2026 11:38:12 GMT",
+  "published_ts": 1783078692,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWpFTlFmc0x2ZXBrdHNxRXkwZTBSRlB4SkZXdDVkbnRXZUdLS21ZcXpZeVMxX1NFclZpZGJMcHZMeC03MUwzT1dWdGt6T05IYk1xZ20xdWxtNWxHLW5pY1piN21ucmxYaDlJaEI0b3hlYldIa1lEX2dOT1lnZXZaektreWNORU5WcmtZUFhfMWQ2U215?oc=5\" target=\"_blank\">Air Liquide invests over $170M to back SK hynix’s US fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Evertiq</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Evertiq"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Air Liquide commits over $170M investment to support SK hynix's US fab expansion, a concrete capital deployment decision that advances SK hynix's domestic production capacity and supports memory supply growth."
+  },
+  "buffered_ts": 1783123811.6500757
+ },
+ {
+  "id": "0b8001835441db3d4dc2abf71209f1a0ac0c391b",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026 - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3MyOVRteXpwZ2Nja1hVc25JZHlmdlc2dzZ0WWZxNHkyd3RDa3NfbmRCYmNrVzYyM3M4a1MxNUw5aG5xZm82UXBxSVM5WXVmd1dNSS0zejBuUTlwUERfdEZGUVIxRnJMVnByNUFXUUNEdXhEcUxEUkE3bE16RXNGTElsS1RFQnBVMUlHOVZDc3o5Vmc?oc=5",
+  "published_at": "Fri, 03 Jul 2026 23:55:38 GMT",
+  "published_ts": 1783122938,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3MyOVRteXpwZ2Nja1hVc25JZHlmdlc2dzZ0WWZxNHkyd3RDa3NfbmRCYmNrVzYyM3M4a1MxNUw5aG5xZm82UXBxSVM5WXVmd1dNSS0zejBuUTlwUERfdEZGUVIxRnJMVnByNUFXUUNEdXhEcUxEUkE3bE16RXNGTElsS1RFQnBVMUlHOVZDc3o5Vmc?oc=5\" target=\"_blank\">Samsung and SK Hynix seek substrate price cuts for the second half of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix are seeking price reductions on substrates for H2 2026. This reflects potential cost-management discussions but represents negotiating positions and future intentions rather than a confirmed agreement or concrete market development. While substrate costs are relevant to memory semiconductor economics, this is a preliminary discussion stage, not a settled event."
+  },
+  "buffered_ts": 1783123811.6500757
  }
 ]
