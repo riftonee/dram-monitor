@@ -1132,5 +1132,173 @@
    "summary": "Samsung and SK Hynix are seeking price reductions on substrates for H2 2026. This reflects potential cost-management discussions but represents negotiating positions and future intentions rather than a confirmed agreement or concrete market development. While substrate costs are relevant to memory semiconductor economics, this is a preliminary discussion stage, not a settled event."
   },
   "buffered_ts": 1783123811.6500757
+ },
+ {
+  "id": "3f69e13395294f5271d29a0779753e7dc549ef7f",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Samsung’s $36 Billion HBM Expansion and an Analyst Upgrade Trigger an 8% Jump – and a Market Sid - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlVKSTdnV3BhUmdSYVpCOENxMkY1eUlZSllzdDd3ZTljT2k4S1pFSG5QeU5rTzFzc1V4dVYyc3RjLWJKY2JJeUowb21fNXJ1TzFNQTk3WjRpMUNjZm5mQWFuWmROVV8xSkVPWTRQdDJONjZCcUpPeDBXYjlOX0hmd1ROUEl0cmJMNVN4S2ZIem5jbm8ydnRKTWpjUmdqeFVxRkhwWVVoU3M1ay1reDVJRHVnbzlSZVJxYm9OaEhTM1BJRW1ONjlfNQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 01:44:53 GMT",
+  "published_ts": 1783129493,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlVKSTdnV3BhUmdSYVpCOENxMkY1eUlZSllzdDd3ZTljT2k4S1pFSG5QeU5rTzFzc1V4dVYyc3RjLWJKY2JJeUowb21fNXJ1TzFNQTk3WjRpMUNjZm5mQWFuWmROVV8xSkVPWTRQdDJONjZCcUpPeDBXYjlOX0hmd1ROUEl0cmJMNVN4S2ZIem5jbm8ydnRKTWpjUmdqeFVxRkhwWVVoU3M1ay1reDVJRHVnbzlSZVJxYm9OaEhTM1BJRW1ONjlfNQ?oc=5\" target=\"_blank\">Samsung’s $36 Billion HBM Expansion and an Analyst Upgrade Trigger an 8% Jump – and a Market Sid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced a $36 billion HBM (high-bandwidth memory) expansion, triggering an 8% stock price jump. This is a concrete, officially announced capacity investment that materially impacts a core DRAM ETF holding and signals major demand for memory infrastructure."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "04fe8c59b6ac6d980369a6a688dd3e8c65c21e6a",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Nanya Technology's First-Half Revenue Surges Past NT$131.6 Billion, Up Over 6-Fold; President Says DRAM Shortage to Last Through 2027 - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zNExxbnZJSUxndUdqT0lCLXFLWklvM3REdzdEQ0FlcTh0Z2VmejNJaXhHcHZrNElUTW1tQ1dYdXg1WEdoazVJLTFvMTBsZkR3eURFOUlOdmRoa2NyTHpBT2poWlRmVnNhQ05iWXhXWUF5Um5oY1E?oc=5",
+  "published_at": "Fri, 03 Jul 2026 22:55:00 GMT",
+  "published_ts": 1783119300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0zNExxbnZJSUxndUdqT0lCLXFLWklvM3REdzdEQ0FlcTh0Z2VmejNJaXhHcHZrNElUTW1tQ1dYdXg1WEdoazVJLTFvMTBsZkR3eURFOUlOdmRoa2NyTHpBT2poWlRmVnNhQ05iWXhXWUF5Um5oY1E?oc=5\" target=\"_blank\">Nanya Technology's First-Half Revenue Surges Past NT$131.6 Billion, Up Over 6-Fold; President Says DRAM Shortage to Last Through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Nanya Technology reports first-half revenue surge of 6x+ and president forecasts DRAM shortage extending through 2027. While the revenue beat is concrete, the shortage forecast is forward-looking executive commentary rather than a market-moving event. Relevant to memory cycle outlook but not an immediate hard catalyst."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "eb7b13791b75f78c9cf2fd78b2980320f15df252",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix Rebound Sharply After Slump; Next Week Tests Staying Power - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbnBkaFU2ZVBFU1pKWnlwbzcySUczZE9BYnlCekNaNThRMHB5RUhxQkN5V2lndUVadkt6WndKTm9mcEtiU1duUGR4SFFzWEdpcVZSRQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 00:17:20 GMT",
+  "published_ts": 1783124240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbnBkaFU2ZVBFU1pKWnlwbzcySUczZE9BYnlCekNaNThRMHB5RUhxQkN5V2lndUVadkt6WndKTm9mcEtiU1duUGR4SFFzWEdpcVZSRQ?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix Rebound Sharply After Slump; Next Week Tests Staying Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix stocks rebounded sharply after a recent slump, with the piece questioning whether the recovery will hold. This is a price-movement analysis of two major fund holdings, but lacks a concrete catalyst or new information—it reports a stock move and speculates on near-term momentum rather than announcing earnings, guidance changes, supply/demand shifts, or other material events."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "9595dbfd4eb007d685097663beed711c01f11a6f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Western Digital (WDC) Stock Falls As Apple CXMT Talk Adds Memory Pressure - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0xLMjJhNzNfY180THJ0YXdLWTVnU3o1ZlRWZXhVMDNubVBERnhFVmE1dk9NWHZDR2dEcUtpdTV6S0NrNHNaY0JZNVhwUms0Rm9Vb2lTMTVlbjBhSUZ2dG1GblNOTjBMVHFjek85QW5Ud2xMZXBaY3A0VEFVVjlvdl9iSEREbDBMZmZpZnBoLTdNSVRlZ0x1elFjOVg?oc=5",
+  "published_at": "Fri, 03 Jul 2026 23:09:56 GMT",
+  "published_ts": 1783120196,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0xLMjJhNzNfY180THJ0YXdLWTVnU3o1ZlRWZXhVMDNubVBERnhFVmE1dk9NWHZDR2dEcUtpdTV6S0NrNHNaY0JZNVhwUms0Rm9Vb2lTMTVlbjBhSUZ2dG1GblNOTjBMVHFjek85QW5Ud2xMZXBaY3A0VEFVVjlvdl9iSEREbDBMZmZpZnBoLTdNSVRlZ0x1elFjOVg?oc=5\" target=\"_blank\">Western Digital (WDC) Stock Falls As Apple CXMT Talk Adds Memory Pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) stock declined amid reports of Apple's CXMT (custom memory) discussions, which could pressure memory pricing and demand. The story reflects market reaction and analyst concern about potential competitive dynamics rather than a confirmed contractual or supply event."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "55d9dc493804061077e4f6ed97f538510c722b6b",
+  "source": "Crypto Briefing",
+  "topic": "pricing",
+  "title": "UBS raises DRAM and NAND price forecasts amid AI demand surge - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZDY1RnBnWTA3a0JNMlMzOWlsNHgtMDJmTzVGdXpQZm00RGZEVUlLU213TlVHa0pWZHNvV0RrdHk1LTkteXExWlFJOG5BUG1GZlZXZVlGc0tDX3hscjc1a0RLVnJ5WUdGR1FhaG03NFI0ZE8t?oc=5",
+  "published_at": "Fri, 03 Jul 2026 20:56:04 GMT",
+  "published_ts": 1783112164,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZDY1RnBnWTA3a0JNMlMzOWlsNHgtMDJmTzVGdXpQZm00RGZEVUlLU213TlVHa0pWZHNvV0RrdHk1LTkteXExWlFJOG5BUG1GZlZXZVlGc0tDX3hscjc1a0RLVnJ5WUdGR1FhaG03NFI0ZE8t?oc=5\" target=\"_blank\">UBS raises DRAM and NAND price forecasts amid AI demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS raises DRAM and NAND price forecasts citing AI demand surge. Analyst price-target or forecast revision driven by existing market trends; represents opinion/analysis rather than a concrete new event or confirmed pricing transaction."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "c2ea8e851fa3ab8fd69d076d8f9b9e2ed6e53753",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Currys warns AI-driven chip shortage will push up electronics prices - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd25wZVJFQlFhMmtHZE9VMmliY3lPMWg3OFVpWHl4b3pOaUkxRWFkTXFzM2tESWRLWkFvOHcwOVJxY3I0TkhwckxTNjgwejVaalB6ZE9VSVFueXljWWNBTzhHV0FqMGo2Yl9lRnpjNEhySmNEX0ZnQ1VSZVJ2X2FOUWNELUpWMFBvWkNyLTIzdGNVZUdpeHZLX0UycDl6dmp6WUp3dFdrUFJGdWw5WkhZVFd6clBBSzhtZUlqaFVjMklvT1BqNHJmSHRpMjZ4dWJkaEZPa2xHbHN6NUFkYjBHbUdHT2hnNXNsM3ExX1FRUQ?oc=5",
+  "published_at": "Thu, 02 Jul 2026 20:47:33 GMT",
+  "published_ts": 1783025253,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd25wZVJFQlFhMmtHZE9VMmliY3lPMWg3OFVpWHl4b3pOaUkxRWFkTXFzM2tESWRLWkFvOHcwOVJxY3I0TkhwckxTNjgwejVaalB6ZE9VSVFueXljWWNBTzhHV0FqMGo2Yl9lRnpjNEhySmNEX0ZnQ1VSZVJ2X2FOUWNELUpWMFBvWkNyLTIzdGNVZUdpeHZLX0UycDl6dmp6WUp3dFdrUFJGdWw5WkhZVFd6clBBSzhtZUlqaFVjMklvT1BqNHJmSHRpMjZ4dWJkaEZPa2xHbHN6NUFkYjBHbUdHT2hnNXNsM3ExX1FRUQ?oc=5\" target=\"_blank\">Currys warns AI-driven chip shortage will push up electronics prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Currys warns that AI-driven chip shortage will increase electronics prices. This reflects industry concern about memory and semiconductor supply constraints driven by AI infrastructure demand, relevant to the memory cycle and fund holdings, but is a retailer's forward-looking warning rather than a confirmed supply event or concrete capacity announcement."
+  },
+  "buffered_ts": 1783138221.498
+ },
+ {
+  "id": "569e97e44ef37f8d6200edd3bfe9a366fecce01f",
+  "source": "The Business Times",
+  "topic": "industry",
+  "title": "Chip industry urges US to avoid moves that distort memory market - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0xrcDQwVGZmazFOZWJUck15cmZENno0STd3eVQxQWxsY1JmeUxQc2JQUGFVZUZycUE3SDBDNDV5UUdQRXp3NEJhMWVHbjAxaFd2WElRS0RvZjd5RS1FMFZwa2JndWRFUjRwRU5RWE14MEdVamRubnd4UV9jT3hsWUNLWmNrUWNJWEc2X0g5MW9sejVkTUw1RDJtcFlQSVQ1Rk03bGVUUjFYUXFGYWVpOUkxUFFyOHJSS2xhVzNaME12YWc?oc=5",
+  "published_at": "Fri, 03 Jul 2026 06:28:00 GMT",
+  "published_ts": 1783060080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0xrcDQwVGZmazFOZWJUck15cmZENno0STd3eVQxQWxsY1JmeUxQc2JQUGFVZUZycUE3SDBDNDV5UUdQRXp3NEJhMWVHbjAxaFd2WElRS0RvZjd5RS1FMFZwa2JndWRFUjRwRU5RWE14MEdVamRubnd4UV9jT3hsWUNLWmNrUWNJWEc2X0g5MW9sejVkTUw1RDJtcFlQSVQ1Rk03bGVUUjFYUXFGYWVpOUkxUFFyOHJSS2xhVzNaME12YWc?oc=5\" target=\"_blank\">Chip industry urges US to avoid moves that distort memory market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Chip industry advocates urge US to avoid policies that could distort the memory market. This is a general industry plea on policy matters with no concrete event or specific market impact disclosed in the snippet."
+  },
+  "buffered_ts": 1783138221.498
  }
 ]
