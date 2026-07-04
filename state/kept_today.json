@@ -70,5 +70,200 @@
    "summary": "Report on cooling memory prices as consumers hit affordability ceiling. Pricing trends are a leading indicator for the memory cycle, though this appears to be analysis/commentary rather than a hard data release or official price index update."
   },
   "buffered_ts": 1783168979.534639
+ },
+ {
+  "id": "431bb3199a477015d93bf142af338d21012fcc61",
+  "source": "Blocks & Files",
+  "topic": "holding",
+  "title": "Kioxia and Sandisk sample shipping 332-layer 3D NAND - Blocks & Files",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVThPWE84Q2JLdlZKQU45NkdWa2pjYmhDLXFGQzVsOHlfc1ZadFZLX0ZRZ0JmR3dvNTZPVzJMc3pwWHZic3lUeWxvUm5oT0ZHTkhWTWVqYkpZSFliQUVTS3NqckxhMVdtQnJ5SE93U3NFZ2ZLOGxXT2xraEFDNnNVRkNQeUc0T3FvWUJydmhLWXlsaHlRSXhkVDlBa2FGWTB4MHV6VVI0TlNUMnd6?oc=5",
+  "published_at": "Fri, 03 Jul 2026 11:26:18 GMT",
+  "published_ts": 1783077978,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVThPWE84Q2JLdlZKQU45NkdWa2pjYmhDLXFGQzVsOHlfc1ZadFZLX0ZRZ0JmR3dvNTZPVzJMc3pwWHZic3lUeWxvUm5oT0ZHTkhWTWVqYkpZSFliQUVTS3NqckxhMVdtQnJ5SE93U3NFZ2ZLOGxXT2xraEFDNnNVRkNQeUc0T3FvWUJydmhLWXlsaHlRSXhkVDlBa2FGWTB4MHV6VVI0TlNUMnd6?oc=5\" target=\"_blank\">Kioxia and Sandisk sample shipping 332-layer 3D NAND</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blocks & Files</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Blocks & Files"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia and SanDisk have begun sampling 332-layer 3D NAND flash memory, representing a concrete advancement in NAND technology and production capability. This is a material development for SanDisk (a DRAM ETF holding) and signals progress in next-generation memory capacity that affects the fund's semiconductor exposure."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "f155b3a8771c326a83bea4b9e8f214643f7700d0",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Seagate Technology outlines its data storage strategy as investors weigh long-term growth - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnhQSVN6YUEwcG4xcEFKUUxXaFhocG1OOWdBOUFHUENQZjBVZWE5WGFoQ3lYaFdZVW5UY0pQMWZEM01XU2UzWXFCNmJ6SVhLYWtoVnJWdXBDOHJQdlZfRjhuTDVzNnNRVnZIQVVRdDlkNmVRTGVHOUVEd1ZEQW1maC1HS29RRExSdXJ2VlZld1lzenpMamVJbDRfX2hTM0I5TWNWajRHQi03eTk0WmsxeXQyMnJ5dC1OLWF6LVNOTS1BNUNnRFUtTWJsSQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 07:36:46 GMT",
+  "published_ts": 1783150606,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnhQSVN6YUEwcG4xcEFKUUxXaFhocG1OOWdBOUFHUENQZjBVZWE5WGFoQ3lYaFdZVW5UY0pQMWZEM01XU2UzWXFCNmJ6SVhLYWtoVnJWdXBDOHJQdlZfRjhuTDVzNnNRVnZIQVVRdDlkNmVRTGVHOUVEd1ZEQW1maC1HS29RRExSdXJ2VlZld1lzenpMamVJbDRfX2hTM0I5TWNWajRHQi03eTk0WmsxeXQyMnJ5dC1OLWF6LVNOTS1BNUNnRFUtTWJsSQ?oc=5\" target=\"_blank\">Seagate Technology outlines its data storage strategy as investors weigh long-term growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, outlines its data storage strategy and long-term growth plans. This is forward-looking corporate strategy commentary rather than a concrete event or new financial data, making it relevant but soft analysis."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "0b435540d7eece56cdce3dd2ac472d00919a6a73",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is Sandisk (SNDK) Fully Valued Following Its Kioxia Production Update? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWk1YeGZaYU5MUmZFWDc0aXZlX3B3dlM2cVhxUkNSdXk4OTNZdl9kMktDbzA3WTNNWGxFM01MREh2eWFyNVIyZHJLTDdpSF9KUXpqd0NOTGJxZDE2dkJFaW4wdGVvanJtSGxkel9fajJiYk1SVjhFR0psREVUcHpFOE5nQ1BnYUdyTWkyYzNCN0JPdklmZXh3c0lYbmtES01pMlVxMG8zSGU1ZkRDc3ZySHpTbVFDS09qYUNvazZOSdIBxAFBVV95cUxPWHZ0bHgzRmlxUkdpM0FmR284TlFBa1dtaWl0OUUyRzFlODVWbVpoWVA2R3hhQnJWNnQ1elF1M0wwVTVuMUlHSGR1cWQxZkxCRkVoSlJJU0E1azl5LVZyZDczRElsNlhvR3JHY08wTGNMczQ1LVpYVGFkV3ExcVZBMTJiczQ4Ml9tTGN0Ny03a29IdzZJSFVWS1RsSUZoZ2FLbUlYa2pMdGRFNmZIU2FPbEJ6N2JNZzRfVlByZ1BzM2NoYUEt?oc=5",
+  "published_at": "Sat, 04 Jul 2026 13:54:06 GMT",
+  "published_ts": 1783173246,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWk1YeGZaYU5MUmZFWDc0aXZlX3B3dlM2cVhxUkNSdXk4OTNZdl9kMktDbzA3WTNNWGxFM01MREh2eWFyNVIyZHJLTDdpSF9KUXpqd0NOTGJxZDE2dkJFaW4wdGVvanJtSGxkel9fajJiYk1SVjhFR0psREVUcHpFOE5nQ1BnYUdyTWkyYzNCN0JPdklmZXh3c0lYbmtES01pMlVxMG8zSGU1ZkRDc3ZySHpTbVFDS09qYUNvazZOSdIBxAFBVV95cUxPWHZ0bHgzRmlxUkdpM0FmR284TlFBa1dtaWl0OUUyRzFlODVWbVpoWVA2R3hhQnJWNnQ1elF1M0wwVTVuMUlHSGR1cWQxZkxCRkVoSlJJU0E1azl5LVZyZDczRElsNlhvR3JHY08wTGNMczQ1LVpYVGFkV3ExcVZBMTJiczQ4Ml9tTGN0Ny03a29IdzZJSFVWS1RsSUZoZ2FLbUlYa2pMdGRFNmZIU2FPbEJ6N2JNZzRfVlByZ1BzM2NoYUEt?oc=5\" target=\"_blank\">Is Sandisk (SNDK) Fully Valued Following Its Kioxia Production Update?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis of whether SanDisk (SNDK) is fully valued following a Kioxia production update. This is analyst commentary and valuation assessment rather than a confirmed event or hard number from the company itself."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "bec6fb10847c3d968c51aefe46dfc84182ee2354",
+  "source": "The Globe and Mail",
+  "topic": "pricing",
+  "title": "Is Micron Stock a Buy as Revenue Continues to Surge? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHg0RWgtUjFjWkdMbkRoUFA4RjBIdzdNNkc4OW9VSExRTWVKVU9ka1ZHRWVYejByS0Rmdkx3aU5WUjlYRV9pdGJLWU9FOWpjbWRhVXZTYVoyV2hrLU1nN0xRY2xqbWhpNzZtWmFHNXVuZWNxVjhXYUdlYUNadnlPMmsyemFZbjZTbk51d3NhU0NwMTR2TDZLSG9JLWUwU1ZGcHNaZDVCZlRFWld1b3ZCdHl4Zm54azEyaThMQ2doNW5nQ2c0LVRzdmROclBGeC1kUWc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 13:09:13 GMT",
+  "published_ts": 1783170553,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHg0RWgtUjFjWkdMbkRoUFA4RjBIdzdNNkc4OW9VSExRTWVKVU9ka1ZHRWVYejByS0Rmdkx3aU5WUjlYRV9pdGJLWU9FOWpjbWRhVXZTYVoyV2hrLU1nN0xRY2xqbWhpNzZtWmFHNXVuZWNxVjhXYUdlYUNadnlPMmsyemFZbjZTbk51d3NhU0NwMTR2TDZLSG9JLWUwU1ZGcHNaZDVCZlRFWld1b3ZCdHl4Zm54azEyaThMQ2doNW5nQ2c0LVRzdmROclBGeC1kUWc?oc=5\" target=\"_blank\">Is Micron Stock a Buy as Revenue Continues to Surge?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's revenue growth and stock valuation. While Micron is a key DRAM holding, this is analyst opinion/commentary on the stock rather than a concrete event or new data point that moves the memory cycle. Stock commentary and valuation discussion without earnings or guidance news is a soft impact story."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "7783066325ca46d0e0b42129254b5d2b5fe5c4ab",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Reddit, Credo, Seagate, Simon, Circle: Insider Shock Moves - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2FHelhId2pUOTQ3U0RLNkpaQUVQODZuUmtkZGkydTNJSnBfUXVEZ2c2QXZRcW53LUI2M2FtTHJ0R2pLbVVSaURiOHhZQ21lOUs1RWNZR3B5a3dVM1ZjbUdEb3Bzb1IwbG5sN3p0RWpNUDYzQ2JzS242QkxqYnMtT3d4ZjdpV3AtNnI4VVkzb1R4azgzSXRXckVmOWdDQ2pr?oc=5",
+  "published_at": "Sat, 04 Jul 2026 13:08:48 GMT",
+  "published_ts": 1783170528,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2FHelhId2pUOTQ3U0RLNkpaQUVQODZuUmtkZGkydTNJSnBfUXVEZ2c2QXZRcW53LUI2M2FtTHJ0R2pLbVVSaURiOHhZQ21lOUs1RWNZR3B5a3dVM1ZjbUdEb3Bzb1IwbG5sN3p0RWpNUDYzQ2JzS242QkxqYnMtT3d4ZjdpV3AtNnI4VVkzb1R4azgzSXRXckVmOWdDQ2pr?oc=5\" target=\"_blank\">Reddit, Credo, Seagate, Simon, Circle: Insider Shock Moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TipRanks reports on insider trading activity at Seagate (STX), a DRAM ETF holding. Insider moves can signal management confidence or concern, but without specifics on the transaction size, direction, timing, or context, this is analysis/commentary rather than a concrete market event. Classified as relevant but soft impact."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "b106807aaf099f5c47fb88e0c9357e3295cf46d3",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk Stock Was the Biggest Winner in the First Half of 2026. What's Next for the Second Half? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTU1uVHIwVC1SMHQzeDdfSHBZNHM1WHcxVlRTV1ZwM2tGVVY1Z3VTaG5rcUh2WEl0Tnpudi1weS1KcEhBZnlHMlZ6X3NtaGt6U0xFSllHZE50M3JZMEhQX29JTG4tV1MwZjhweXV6T0kwQlg0S3pVOG56bmFiMXlIZXViMXpMN0JGS3dFTWhNckQyOG9aVzJB?oc=5",
+  "published_at": "Sat, 04 Jul 2026 14:06:25 GMT",
+  "published_ts": 1783173985,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTU1uVHIwVC1SMHQzeDdfSHBZNHM1WHcxVlRTV1ZwM2tGVVY1Z3VTaG5rcUh2WEl0Tnpudi1weS1KcEhBZnlHMlZ6X3NtaGt6U0xFSllHZE50M3JZMEhQX29JTG4tV1MwZjhweXV6T0kwQlg0S3pVOG56bmFiMXlIZXViMXpMN0JGS3dFTWhNckQyOG9aVzJB?oc=5\" target=\"_blank\">Sandisk Stock Was the Biggest Winner in the First Half of 2026. What's Next for the Second Half?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Sandisk Stock Was the Biggest Winner in the First Half of 2026. What's Next for the Second Half? - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Analysis piece on SanDisk's H1 2026 stock performance and speculation about H2 outlook. No new concrete developments, earnings data, or material catalysts reported."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "33a0d6752d99ce8c36388ce15e21359f757bde56",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Samsung Electronics steady on global chip demand as investors track long-term strategy - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDZqRFVWcThIMUd6dy01cTFKZl9ucHR1SkxxSm9vcW1FSmNDaUEzWkdXME5kZzN5enNKa2xSbDlWWUsxV0p2WXVNb1h0ZGJGLThpeGtTWThZM05lMXhCOXJtVWRhNkVtWW5DS1hWaUpBVVVEcmpaNmdoUGoxZGp4Q3pGVERfZEoyZER1cnNZYWVtR3NHNlFnWXF1enlnbFJvRW01dGRRaEJWWXNxZFB4OVZLd3A4TWRkaUg3MVFWY21nV2l4?oc=5",
+  "published_at": "Sat, 04 Jul 2026 12:43:47 GMT",
+  "published_ts": 1783169027,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDZqRFVWcThIMUd6dy01cTFKZl9ucHR1SkxxSm9vcW1FSmNDaUEzWkdXME5kZzN5enNKa2xSbDlWWUsxV0p2WXVNb1h0ZGJGLThpeGtTWThZM05lMXhCOXJtVWRhNkVtWW5DS1hWaUpBVVVEcmpaNmdoUGoxZGp4Q3pGVERfZEoyZER1cnNZYWVtR3NHNlFnWXF1enlnbFJvRW01dGRRaEJWWXNxZFB4OVZLd3A4TWRkaUg3MVFWY21nV2l4?oc=5\" target=\"_blank\">Samsung Electronics steady on global chip demand as investors track long-term strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics reported steady conditions on global chip demand with investors monitoring long-term strategy. This is a passing mention of Samsung's chip business without specific memory-sector developments, pricing data, or concrete events affecting DRAM or NAND operations."
+  },
+  "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "243b68629b41e25ca4cb55d807ba3e0484cba4c3",
+  "source": "Moomoo",
+  "topic": "fund",
+  "title": "$Roundhill Memory ETF (DRAM.US)$ damn RED for this wk. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdENUeHdJVlcxejdCNG9TbXZfckNvTElMSFhuMjM4TFZ5SVJUMVFKOFRoTXdLRFZ4RkpLOHBpdEZ5Y1VZTWZwTEhWSW12MGhGUFhla19LWTBKdXQ0ZkZqNFJlZl9kLUp3NEJ1dmw2WWFXZTFRS0c1azRSRnN5ajZMZWZnTGwzMVNzZVI5SW9OYURaak1HcWlqcWQ1UjhnZWNWaS1LUGVn?oc=5",
+  "published_at": "Fri, 03 Jul 2026 00:57:01 GMT",
+  "published_ts": 1783040221,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdENUeHdJVlcxejdCNG9TbXZfckNvTElMSFhuMjM4TFZ5SVJUMVFKOFRoTXdLRFZ4RkpLOHBpdEZ5Y1VZTWZwTEhWSW12MGhGUFhla19LWTBKdXQ0ZkZqNFJlZl9kLUp3NEJ1dmw2WWFXZTFRS0c1azRSRnN5ajZMZWZnTGwzMVNzZVI5SW9OYURaak1HcWlqcWQ1UjhnZWNWaS1LUGVn?oc=5\" target=\"_blank\">$Roundhill Memory ETF (DRAM.US)$ damn RED for this wk.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) posted negative weekly returns. Passing mention of fund performance without specific drivers, holdings moves, or material news."
+  },
+  "buffered_ts": 1783175203.702812
  }
 ]
