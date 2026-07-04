@@ -265,5 +265,29 @@
    "summary": "Roundhill Memory ETF (DRAM) posted negative weekly returns. Passing mention of fund performance without specific drivers, holdings moves, or material news."
   },
   "buffered_ts": 1783175203.702812
+ },
+ {
+  "id": "f88372d693049e00d8cab2d57ab90635f949ec1a",
+  "source": "Mashable",
+  "topic": "holding",
+  "title": "Samsung warns memory shortage will be worse next year - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90WmJKZVlramVwRm5ZWVVwMk4xOWpneG9nby1Ja016aFNIYmNpeWlKUWQ2TXJJTDlzMUJOcE1qblFaOUVDX29kQlQ3QzF1NG52RmNjNjB5SFpVWG9wQVhRNHpPSnpjZkpEOEZiZmY4a1FEcjBaWV9hVkFn?oc=5",
+  "published_at": "Sat, 04 Jul 2026 09:00:00 GMT",
+  "published_ts": 1783155600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE90WmJKZVlramVwRm5ZWVVwMk4xOWpneG9nby1Ja016aFNIYmNpeWlKUWQ2TXJJTDlzMUJOcE1qblFaOUVDX29kQlQ3QzF1NG52RmNjNjB5SFpVWG9wQVhRNHpPSnpjZkpEOEZiZmY4a1FEcjBaWV9hVkFn?oc=5\" target=\"_blank\">Samsung warns memory shortage will be worse next year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mashable"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung (a major DRAM ETF holding) has issued a warning that memory shortages will worsen next year. This is forward-looking commentary on supply conditions rather than a concrete announced production cut or binding capacity decision, making it an opinion/forecast rather than a settled event. While relevant to the memory cycle, the warning itself is not a firm operational announcement."
+  },
+  "buffered_ts": 1783179721.681411
  }
 ]
