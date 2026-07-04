@@ -553,5 +553,149 @@
    "summary": "The Motley Fool's general investment article on profiting from the AI memory supercycle. While thematically aligned with the DRAM ETF's focus, this is soft opinion and advice content without concrete market developments, new data, or fund-specific information."
   },
   "buffered_ts": 1783195637.90014
+ },
+ {
+  "id": "0634f987e70989da57213e32584f687fa3f2b1e3",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Nomura Debunks Two \"Fake Headwinds\" for Memory Chips: South Korea's Expansion Is a Distant Solution, and Meta's Compute Rental Actually Fuels AI Demand - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVVltWnNudkdYWFoyeFktLTZHYWc0UmFiRW1vQl9Hc1N6dlNfeTFCbDdlQXVNcDZicmRlZVc2MjU0UUZWdGVYUUxkRTVrQVlya2JYMC15dDVQdVQ3SGZ5TXNoM3diOUhxYWdDZWcza0FlRWI4Zmc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 16:25:00 GMT",
+  "published_ts": 1783182300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVVltWnNudkdYWFoyeFktLTZHYWc0UmFiRW1vQl9Hc1N6dlNfeTFCbDdlQXVNcDZicmRlZVc2MjU0UUZWdGVYUUxkRTVrQVlya2JYMC15dDVQdVQ3SGZ5TXNoM3diOUhxYWdDZWcza0FlRWI4Zmc?oc=5\" target=\"_blank\">Nomura Debunks Two \"Fake Headwinds\" for Memory Chips: South Korea's Expansion Is a Distant Solution, and Meta's Compute Rental Actually Fuels AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Nomura analysis argues that South Korean memory-chip capacity expansion is not an immediate supply risk and that Meta's compute rental model actually supports AI-driven memory demand, challenging bearish market narratives on supply and demand fundamentals."
+  },
+  "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "21023b4609e54a5628c732bc48a34e6d9de2c7a9",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "SEMI Urges Trump Administration: Don't Intervene in Memory Prices, Warning of AI-Driven Supply Shock - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxcFZzZU5MZmJCMkdvTEg1azNzM3ZnbVV3OFdXcnd0WGFHQ2FleEdROHZOelFZUlFUWE9nZGhZYUFMWWE5S21tZWNCQjFoOS04cGx2VG94ZUxGUlEtY1VnVmMyLVlvdkFHWWNNLWdFbzZRalExM0E?oc=5",
+  "published_at": "Sat, 04 Jul 2026 00:43:59 GMT",
+  "published_ts": 1783125839,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBxcFZzZU5MZmJCMkdvTEg1azNzM3ZnbVV3OFdXcnd0WGFHQ2FleEdROHZOelFZUlFUWE9nZGhZYUFMWWE5S21tZWNCQjFoOS04cGx2VG94ZUxGUlEtY1VnVmMyLVlvdkFHWWNNLWdFbzZRalExM0E?oc=5\" target=\"_blank\">SEMI Urges Trump Administration: Don't Intervene in Memory Prices, Warning of AI-Driven Supply Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SEMI industry group urges Trump administration against price intervention, citing AI-driven memory supply pressures. Relevant to memory demand cycle and industry dynamics, but represents advocacy/warning rather than a confirmed market event or policy decision."
+  },
+  "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "da8e8637e9ea13aac4506a44b3049b56778eeef2",
+  "source": "Wccftech",
+  "topic": "pricing",
+  "title": "UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027 - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2dsM25kT2w3ZnV1Uld1WWc0OFRHMXFJdDBLOTNWYmVoSno0WjVRektIcmxqS18xd3VmTkVVZlVCVHpobFc3ZzljZVlnbmJSVm84ODk4eDJpbXY0UG85Yy13NS1KaDlpQkJldlYwMU5ReG9aZHdGMF9PWEF2WHEtRjhpOFUzUHBmR1pKLVlHRnExQlE3T2ZRZzI5VTlHOUx5VEYxclV5akNlclMtMTNKYjVzWTJNNkE?oc=5",
+  "published_at": "Fri, 03 Jul 2026 15:59:53 GMT",
+  "published_ts": 1783094393,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2dsM25kT2w3ZnV1Uld1WWc0OFRHMXFJdDBLOTNWYmVoSno0WjVRektIcmxqS18xd3VmTkVVZlVCVHpobFc3ZzljZVlnbmJSVm84ODk4eDJpbXY0UG85Yy13NS1KaDlpQkJldlYwMU5ReG9aZHdGMF9PWEF2WHEtRjhpOFUzUHBmR1pKLVlHRnExQlE3T2ZRZzI5VTlHOUx5VEYxclV5akNlclMtMTNKYjVzWTJNNkE?oc=5\" target=\"_blank\">UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS analyst report doubling DRAM price forecast and projecting demand outpacing supply by 17 points through 2027. Analysis and forecast rather than a concrete market event or confirmed supply/demand shock, so impact is 3 rather than 4-5."
+  },
+  "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "4f196b5258fa38c7723be7d5ec3157c4eebdb69d",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "SK Hynix, Samsung Stocks Rebound after Tech Sell-Off — Analysts Stay Bullish on More Upside - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVRPUzhZQ3lTNXAtX19Uc1paWnl1azlRZHRtZVpianJJUnNUNXR0RHJhWGJvYmpka1R5U1NOY2hQLUlwR21RQVFNb0lqd3BfQkVLS0tjejJKOUg5RUhKblJRdXctX3pkLV9RaDJEVlpSM1Bxd3AxQ0RLM0Y2a2phMmJBMVQzUlJuX05ZSzhYTS02SHVvdXo1eEVlcXBjYlZ6UWhiUkJxM2dBSkVzTkY1ODJHcU03TjQzUVE?oc=5",
+  "published_at": "Fri, 03 Jul 2026 10:22:24 GMT",
+  "published_ts": 1783074144,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVRPUzhZQ3lTNXAtX19Uc1paWnl1azlRZHRtZVpianJJUnNUNXR0RHJhWGJvYmpka1R5U1NOY2hQLUlwR21RQVFNb0lqd3BfQkVLS0tjejJKOUg5RUhKblJRdXctX3pkLV9RaDJEVlpSM1Bxd3AxQ0RLM0Y2a2phMmJBMVQzUlJuX05ZSzhYTS02SHVvdXo1eEVlcXBjYlZ6UWhiUkJxM2dBSkVzTkY1ODJHcU03TjQzUVE?oc=5\" target=\"_blank\">SK Hynix, Samsung Stocks Rebound after Tech Sell-Off — Analysts Stay Bullish on More Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung stocks rebounded following a tech sector sell-off, with analysts maintaining bullish outlooks. This is analyst sentiment and price-action commentary on known holdings without new concrete catalysts or material developments."
+  },
+  "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "8a28cf52a2cd3b89712eac641d83e16bdee4d510",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "KOSPI tests 8000 as Samsung results and SK hynix ADR aim to revive Korea chips - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOER1VWV2bDI5V1BOQWJuSFd2bXNKRmlMYklOb0Q2TWxvXzZBaTJEVXRGUXYwQTB0dVRIVFhjYW85a1VsNmU4YUlmZXpMcUY1bmdpeVFzdHRNTjE2bDU4VWM5RDJnQXlnQlJqQkJIX05DVWVXdVdyM3VRbm9XZFRXU9IBlAFBVV95cUxOTzBhNWtNNW1fcXdiVGw0WWZoM1ZtVTRFX29nM0YtNmc2cDNydU5zQ2hJT09OQm56QS1mV2JKZEhYYzU1d3JQQjQ1elhFeFhYeE9ERDFOT3NaV3VNOXREWjI3NEN3S3FLQ09HX1MwaWUxMGZpTEF5LXU0YkFlR1lRamVzRUJOaWh6WGNhNk9Ka0I4QXBB?oc=5",
+  "published_at": "Sat, 04 Jul 2026 21:01:00 GMT",
+  "published_ts": 1783198860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPOER1VWV2bDI5V1BOQWJuSFd2bXNKRmlMYklOb0Q2TWxvXzZBaTJEVXRGUXYwQTB0dVRIVFhjYW85a1VsNmU4YUlmZXpMcUY1bmdpeVFzdHRNTjE2bDU4VWM5RDJnQXlnQlJqQkJIX05DVWVXdVdyM3VRbm9XZFRXU9IBlAFBVV95cUxOTzBhNWtNNW1fcXdiVGw0WWZoM1ZtVTRFX29nM0YtNmc2cDNydU5zQ2hJT09OQm56QS1mV2JKZEhYYzU1d3JQQjQ1elhFeFhYeE9ERDFOT3NaV3VNOXREWjI3NEN3S3FLQ09HX1MwaWUxMGZpTEF5LXU0YkFlR1lRamVzRUJOaWh6WGNhNk9Ka0I4QXBB?oc=5\" target=\"_blank\">KOSPI tests 8000 as Samsung results and SK hynix ADR aim to revive Korea chips - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korean stock index KOSPI approaching 8000 level as Samsung and SK hynix results are expected to support the market recovery. This is soft macro/market commentary tied to upcoming earnings from two major DRAM fund holdings, but does not constitute a concrete event or new information beyond market positioning ahead of results."
+  },
+  "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "c3dde821b22a57abce007f30587871ae5134181a",
+  "source": "Borneo Bulletin",
+  "topic": "holding",
+  "title": "Samsung expected to increase memory chip prices - Borneo Bulletin",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNck9pT1RXM0h0ZGlaMTdRdUxrckVSR19PdDd3djRkYjdGMVpkSWlGQ1ZnMHNqdkZiX2JTOGZFVGtEZ1M5RjdRcVlHZjVObmdWRXdBNHFEN05jcmliT2RvRXk0OE5uSGVEaWtLaGNBTFZwTkRaOTkyS2M2ZjB6V2hqZUpBcEM?oc=5",
+  "published_at": "Sat, 04 Jul 2026 21:06:42 GMT",
+  "published_ts": 1783199202,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNck9pT1RXM0h0ZGlaMTdRdUxrckVSR19PdDd3djRkYjdGMVpkSWlGQ1ZnMHNqdkZiX2JTOGZFVGtEZ1M5RjdRcVlHZjVObmdWRXdBNHFEN05jcmliT2RvRXk0OE5uSGVEaWtLaGNBTFZwTkRaOTkyS2M2ZjB6V2hqZUpBcEM?oc=5\" target=\"_blank\">Samsung expected to increase memory chip prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Borneo Bulletin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Borneo Bulletin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung is expected to increase memory chip prices. This is a soft signal about pricing trends in the memory market that could support margins for Samsung and peers, but it is forward-looking expectation rather than a confirmed price change or official announcement."
+  },
+  "buffered_ts": 1783200409.9952624
  }
 ]
