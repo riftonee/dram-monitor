@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "id": "9f05e7c457032e97cc8cc8db51af5b3080bb965f",
+  "source": "Stocktwits",
+  "topic": "fund",
+  "title": "AI Memory Play DRAM ETF Is Up 90% Since Launch: A Huge Korea Risk Unraveled It Today - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEN0amRySnZOSHFvNjhNMWxON3FiMzUyNERiNTRZQko3WHk0aTBSRldSZkswWVJ2T2VmcGwtUEt5ODVGUGM0TXhlV0FLakN0NXRmZGlTSjRWcG1jaE1uZzZMQ3l0dFlGdzZnMWs3ODg5dG1oUm1obGhBMkhUdGNHaXNfS3d4aEM5enJXMlRKVmZhZkxTNEVzRTlsM21qMl9PXzJOX09na1Eyb0tlbEZOLTQweVBJQjNLM1RLamRQTzBMM0VxcklZWGlqMTlXLVBvS3FveXFxNTZQaldQd093?oc=5",
+  "published_at": "Fri, 03 Jul 2026 11:16:51 GMT",
+  "published_ts": 1783077411,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEN0amRySnZOSHFvNjhNMWxON3FiMzUyNERiNTRZQko3WHk0aTBSRldSZkswWVJ2T2VmcGwtUEt5ODVGUGM0TXhlV0FLakN0NXRmZGlTSjRWcG1jaE1uZzZMQ3l0dFlGdzZnMWs3ODg5dG1oUm1obGhBMkhUdGNHaXNfS3d4aEM5enJXMlRKVmZhZkxTNEVzRTlsM21qMl9PXzJOX09na1Eyb0tlbEZOLTQweVBJQjNLM1RLamRQTzBMM0VxcklZWGlqMTlXLVBvS3FveXFxNTZQaldQd093?oc=5\" target=\"_blank\">AI Memory Play DRAM ETF Is Up 90% Since Launch: A Huge Korea Risk Unraveled It Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Commentary on DRAM ETF performance (up 90% since launch) and mention of a Korea-related risk event that affected the fund today. The story references a concrete price move but lacks specifics on the underlying catalyst or the nature of the 'Korea risk' disclosed, making it analysis/commentary rather than reporting a distinct new event."
+  },
+  "buffered_ts": 1783168979.534639
+ },
+ {
+  "id": "5c95cb45a2e7179df0eef576161750f26adcc211",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix Eyes 0.5% Fee for Banks on Potential $26.5 Billion U.S. Listing - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSl9hZ1ZvZFJieEw3MlJhaUgyNGp1djk2ZGpSRVJiUUV0cXZ2RUUwRmxKOVNQV3BsdTBYUnl3akY0Y2VialcyYWF4cGV6TWxzbnJ5WmNhaTBPQVFOLW12TU0xb0NQbGxPMEhFdUtHSTEwOVRTT3c?oc=5",
+  "published_at": "Sat, 04 Jul 2026 06:15:00 GMT",
+  "published_ts": 1783145700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSl9hZ1ZvZFJieEw3MlJhaUgyNGp1djk2ZGpSRVJiUUV0cXZ2RUUwRmxKOVNQV3BsdTBYUnl3akY0Y2VialcyYWF4cGV6TWxzbnJ5WmNhaTBPQVFOLW12TU0xb0NQbGxPMEhFdUtHSTEwOVRTT3c?oc=5\" target=\"_blank\">SK Hynix Eyes 0.5% Fee for Banks on Potential $26.5 Billion U.S. Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is exploring a potential $26.5 billion U.S. listing and negotiating bank fees. While a significant corporate event for a major DRAM holding, this is at an exploratory/discussion stage rather than a confirmed, officially announced listing. The listing itself would be material if announced, but current reporting reflects ongoing deliberation rather than a settled decision."
+  },
+  "buffered_ts": 1783168979.534639
+ },
+ {
+  "id": "38ef3880f5686d0e901f0293f55e8b1135d60639",
+  "source": "Let's Data Science",
+  "topic": "pricing",
+  "title": "Memory Prices Cool as Consumers Reach Affordability Limit - Let's Data Science",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3lEaDNlenFWVUhPdDIzZXZQQTlVX0lBdU1yVlVtdGZiQ2lQZlMwWTRia2VwMy1ld0hvaTk3VjNpcVB6MkVfUi1ncHFqQk5Ha3V0OUtSYk5ieWVucmVDc25RbkdwYlo1SUFUZ3Q3d1BIbFV2ZVVLM2FNdXI5RlMxdmgwM0lFOVQ2VF84Qk1QTHQzLXM4SklzcGhTVlV0TmF6?oc=5",
+  "published_at": "Sat, 04 Jul 2026 11:47:34 GMT",
+  "published_ts": 1783165654,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3lEaDNlenFWVUhPdDIzZXZQQTlVX0lBdU1yVlVtdGZiQ2lQZlMwWTRia2VwMy1ld0hvaTk3VjNpcVB6MkVfUi1ncHFqQk5Ha3V0OUtSYk5ieWVucmVDc25RbkdwYlo1SUFUZ3Q3d1BIbFV2ZVVLM2FNdXI5RlMxdmgwM0lFOVQ2VF84Qk1QTHQzLXM4SklzcGhTVlV0TmF6?oc=5\" target=\"_blank\">Memory Prices Cool as Consumers Reach Affordability Limit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Let's Data Science"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report on cooling memory prices as consumers hit affordability ceiling. Pricing trends are a leading indicator for the memory cycle, though this appears to be analysis/commentary rather than a hard data release or official price index update."
+  },
+  "buffered_ts": 1783168979.534639
+ }
+]
