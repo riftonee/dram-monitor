@@ -433,5 +433,125 @@
    "summary": "Analysis of SK Hynix's F-6 filing and investment risks. This is an analytical piece examining regulatory filings and risk factors for a core DRAM fund holding, relevant but not reporting a concrete new event or material development that would move the stock or memory cycle."
   },
   "buffered_ts": 1783184456.1263986
+ },
+ {
+  "id": "eca5feec436f28cfd6394920de40f93d85bc369a",
+  "source": "HotHardware",
+  "topic": "holding",
+  "title": "Samsung And SK Hynix Launch Huge $518 Billion Chip Plant Expansion - HotHardware",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9haV9LZ2pnaEs1Tm0wOFRsYnZHOFVEQWdCX1JfUm5TZ0VBUzA0QzVvUWpUTS1iQ1BzWWliRUh3djIxZ1dyb3ZCMHdYZFJ3S2N1dkZneG9EVDV3Q05XQVVid1l1SEdhOFU2RGVLMXIwSlNlUHRT?oc=5",
+  "published_at": "Sat, 04 Jul 2026 17:00:00 GMT",
+  "published_ts": 1783184400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9haV9LZ2pnaEs1Tm0wOFRsYnZHOFVEQWdCX1JfUm5TZ0VBUzA0QzVvUWpUTS1iQ1BzWWliRUh3djIxZ1dyb3ZCMHdYZFJ3S2N1dkZneG9EVDV3Q05XQVVid1l1SEdhOFU2RGVLMXIwSlNlUHRT?oc=5\" target=\"_blank\">Samsung And SK Hynix Launch Huge $518 Billion Chip Plant Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HotHardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "HotHardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix announced a major $518 billion chip plant expansion. This is a concrete, officially announced capital investment decision by two major memory semiconductor holdings that directly signals capacity growth and commitment to memory production, materially relevant to the fund's exposure to the memory cycle and these key holdings."
+  },
+  "buffered_ts": 1783195637.90014
+ },
+ {
+  "id": "d0e4e8efce9f69298c6e70b34d8bca8fdfcb08e1",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Despite Peak-Out Fears, Brokerages Set Samsung at ₩670,000, SK Hynix at ₩4.2 Million Targets - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPMGNuZnpSUmJxMnRfVS1peXBPM29ZcFYyWnJGMXF4WXJPY1R2elRkZWlBQ0xxRnBBN3JFN19KWWN6djBqYnhCMXVLbWFUVFNkZG9NZFpjQmd4bWZMa2piejZGYWxnYm9VU1A3X2Fnanp4UTIzemc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 16:25:00 GMT",
+  "published_ts": 1783182300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBPMGNuZnpSUmJxMnRfVS1peXBPM29ZcFYyWnJGMXF4WXJPY1R2elRkZWlBQ0xxRnBBN3JFN19KWWN6djBqYnhCMXVLbWFUVFNkZG9NZFpjQmd4bWZMa2piejZGYWxnYm9VU1A3X2Fnanp4UTIzemc?oc=5\" target=\"_blank\">Despite Peak-Out Fears, Brokerages Set Samsung at ₩670,000, SK Hynix at ₩4.2 Million Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Brokerages set price targets for Samsung (₩670,000) and SK Hynix (₩4.2 million) despite peak-out concerns. Price-target changes by analysts constitute soft opinion rather than concrete market-moving events, especially when tied to existing narrative (peak concerns). This is relevant to two major DRAM ETF holdings but represents analyst positioning, not new fundamental information."
+  },
+  "buffered_ts": 1783195637.90014
+ },
+ {
+  "id": "095f0dc272c8b2c39478114d0ca54f5f626b9fbe",
+  "source": "Android Headlines",
+  "topic": "holding",
+  "title": "Samsung Pushes 20% RAM Price Hike in Q3 2026 and Your Next Tech Device Will Feel It - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMy1WcXcxODNqZVdzeXFXUUUzeThod3NPWkJGcXVKaVV2ekZXeGV4ckdRQTVmMG9YWmdiUmZiRlBQc2xWcXYxNUl1YnlWcFBiM3lGUjZPRDNPVE9FckZFMC1oRzh3Wm5TVGlDdVM5d2RlVXFBcktaUmVKSi0tRk1rS3BNMzRIclhHQk9Kbw?oc=5",
+  "published_at": "Sat, 04 Jul 2026 18:29:04 GMT",
+  "published_ts": 1783189744,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMy1WcXcxODNqZVdzeXFXUUUzeThod3NPWkJGcXVKaVV2ekZXeGV4ckdRQTVmMG9YWmdiUmZiRlBQc2xWcXYxNUl1YnlWcFBiM3lGUjZPRDNPVE9FckZFMC1oRzh3Wm5TVGlDdVM5d2RlVXFBcktaUmVKSi0tRk1rS3BNMzRIclhHQk9Kbw?oc=5\" target=\"_blank\">Samsung Pushes 20% RAM Price Hike in Q3 2026 and Your Next Tech Device Will Feel It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Android Headlines"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung is reportedly pushing for a 20% RAM price increase in Q3 2026. This is a pricing signal relevant to memory-cycle dynamics, but the report is forward-looking and lacks confirmation of actual contract negotiations or signed deals, making it speculative rather than a concrete event."
+  },
+  "buffered_ts": 1783195637.90014
+ },
+ {
+  "id": "0b735f88cd27b4e483c1b1ea8b94ed74ccd8ca5c",
+  "source": "ANI News",
+  "topic": "pricing",
+  "title": "Samsung reportedly plans 20% DRAM price hike in Q3 - ANI News",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFEyc29kZ3FFcHBBYzhVemJNZkljZmtaR1NsZXhQUW1qVlpzT005SUg0bkY3SWt2M3EwblR5dE5CN3JrNXYxNU5BM2pEZXBJNHFmcDl2dXNjb04yTkhkZHRsUHpBdVlwOFpKOU5FVmgzb1JjSjliWFNkVWhndWdGcTNkSEkzUXBDVGx3NHJRMU9wY0hYS0lUN20ybUx6SlV2cWc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 11:37:00 GMT",
+  "published_ts": 1783165020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFEyc29kZ3FFcHBBYzhVemJNZkljZmtaR1NsZXhQUW1qVlpzT005SUg0bkY3SWt2M3EwblR5dE5CN3JrNXYxNU5BM2pEZXBJNHFmcDl2dXNjb04yTkhkZHRsUHpBdVlwOFpKOU5FVmgzb1JjSjliWFNkVWhndWdGcTNkSEkzUXBDVGx3NHJRMU9wY0hYS0lUN20ybUx6SlV2cWc?oc=5\" target=\"_blank\">Samsung reportedly plans 20% DRAM price hike in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ANI News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly planning a 20% DRAM price hike in Q3. This is a reported plan rather than a confirmed executed event, making it forward-looking guidance/intention rather than a settled market development. Price hikes that are announced or executed move the cycle; those merely planned or discussed are softer signals."
+  },
+  "buffered_ts": 1783195637.90014
+ },
+ {
+  "id": "69d32545d7721fc830f08fb5819f1b98d6364968",
+  "source": "The Motley Fool",
+  "topic": "fund",
+  "title": "The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100 - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazl3cHZDdzFzYU9wSGZDOXI2bXN4VTZOYjYxSi1JRHp5LWduTzBtcXpjOHdpX0lhWUg5NHlPNVNNM1JnaWI0UHZQQ09ZbzBTaHI0U1RJVjRKcHRvODRyT1g1WE5PWm82S2lab0hkYjZma2xRZU9oT2J0UzNLeHVBQ3JWSjhFM1h5OU9ja3VBYktJQmhUa2tYSw?oc=5",
+  "published_at": "Sat, 04 Jul 2026 19:51:12 GMT",
+  "published_ts": 1783194672,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQazl3cHZDdzFzYU9wSGZDOXI2bXN4VTZOYjYxSi1JRHp5LWduTzBtcXpjOHdpX0lhWUg5NHlPNVNNM1JnaWI0UHZQQ09ZbzBTaHI0U1RJVjRKcHRvODRyT1g1WE5PWm82S2lab0hkYjZma2xRZU9oT2J0UzNLeHVBQ3JWSjhFM1h5OU9ja3VBYktJQmhUa2tYSw?oc=5\" target=\"_blank\">The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "The Motley Fool's general investment article on profiting from the AI memory supercycle. While thematically aligned with the DRAM ETF's focus, this is soft opinion and advice content without concrete market developments, new data, or fund-specific information."
+  },
+  "buffered_ts": 1783195637.90014
  }
 ]
