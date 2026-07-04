@@ -1516,5 +1516,317 @@
    "summary": "Samsung, a major DRAM producer and fund holding, reportedly plans a 20% DRAM price hike in Q3. This is meaningful pricing signal but remains a report/plan rather than a confirmed executed price move or binding contract, warranting impact 3 rather than 4."
   },
   "buffered_ts": 1783149724.3081417
+ },
+ {
+  "id": "25e7924c1a89c7a50b6af3e73a4501cd9e5372ce",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "SK hynix targets ADR listing in U.S., sets 0.5% underwriter fee near 200b won - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmdsMFU5UzNMZ2dNbTQ4bUhicFEyY3JnVVpla0RnNm9QakdmVDJpMl9XVmpENzBQRmRMLUJSdmh3c2FNS2ZaLTJtVG1qS2gxOTItc2NuTF9OQ2ZRQ25FWFBzYXB1MnRob0lrMWZSQ0xSa2FTWnJfMERQVGo5YXlYN9IBlAFBVV95cUxQbi1FVTNnWEpETnBFZTlmYThsbFgtdVZON2o1a0hSbDIxN3kyV1FWaTFWZkJNQlVIamJ1dUZrSG5Qd1RkN0loTHMxVHVza0pFTlN5UUhWbHNqWjJTYmZpTjVfV0EwX1RnRkR5WUVBOWtyUzVXRFFjMEliU25INUMwQkI3bHlWTHpDT3U3TmgzX3Y4azdo?oc=5",
+  "published_at": "Sat, 04 Jul 2026 08:32:00 GMT",
+  "published_ts": 1783153920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmdsMFU5UzNMZ2dNbTQ4bUhicFEyY3JnVVpla0RnNm9QakdmVDJpMl9XVmpENzBQRmRMLUJSdmh3c2FNS2ZaLTJtVG1qS2gxOTItc2NuTF9OQ2ZRQ25FWFBzYXB1MnRob0lrMWZSQ0xSa2FTWnJfMERQVGo5YXlYN9IBlAFBVV95cUxQbi1FVTNnWEpETnBFZTlmYThsbFgtdVZON2o1a0hSbDIxN3kyV1FWaTFWZkJNQlVIamJ1dUZrSG5Qd1RkN0loTHMxVHVza0pFTlN5UUhWbHNqWjJTYmZpTjVfV0EwX1RnRkR5WUVBOWtyUzVXRFFjMEliU25INUMwQkI3bHlWTHpDT3U3TmgzX3Y4azdo?oc=5\" target=\"_blank\">SK hynix targets ADR listing in U.S., sets 0.5% underwriter fee near 200b won - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM/memory semiconductor holding, is targeting a U.S. ADR listing with underwriter fees set near 200 billion won (approximately 0.5%). This is a concrete, officially announced capital-markets development that increases U.S. market accessibility and investor participation in a core fund holding."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "03a0c53599f52954a4abff2617a50dfdf38d27cd",
+  "source": "Chosunbiz",
+  "topic": "pricing",
+  "title": "Samsung pushes 20% DRAM price hike in Q3 amid Korea-led supply squeeze - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NMTdMWmNRRFV0YzhhWEdXQms2T2hkRmpNb2ZCTmt1MlRST1lfVXRPR1B6cXVIUllMN1pzLVhYeWJQd3pHZHZrLWQwRENfQkJvREQtU3czekVWT2htZ2ZYYVRSX1FIbi0zV1dMYTd6VFo0aHpzbk5FVEd30gGOAUFVX3lxTE9QNXdqeUkxelNPZDdwM0pfekhrVEo0VlF2WDE4UFJ2ZWRzdDBtQVVPUnVXOW1lX3VtQ2ZlMGJ2aFgwRUV2ZGZ5cTBsOG1UZThqWFdkM21LSUJ0V3lVYl93NmVkQ1VRb04ycW9sOHlZZzJwLXdiSF84UFRoeWtiZnF5MzByLThnTi1MWFBFTEE?oc=5",
+  "published_at": "Sat, 04 Jul 2026 07:25:00 GMT",
+  "published_ts": 1783149900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1NMTdMWmNRRFV0YzhhWEdXQms2T2hkRmpNb2ZCTmt1MlRST1lfVXRPR1B6cXVIUllMN1pzLVhYeWJQd3pHZHZrLWQwRENfQkJvREQtU3czekVWT2htZ2ZYYVRSX1FIbi0zV1dMYTd6VFo0aHpzbk5FVEd30gGOAUFVX3lxTE9QNXdqeUkxelNPZDdwM0pfekhrVEo0VlF2WDE4UFJ2ZWRzdDBtQVVPUnVXOW1lX3VtQ2ZlMGJ2aFgwRUV2ZGZ5cTBsOG1UZThqWFdkM21LSUJ0V3lVYl93NmVkQ1VRb04ycW9sOHlZZzJwLXdiSF84UFRoeWtiZnF5MzByLThnTi1MWFBFTEE?oc=5\" target=\"_blank\">Samsung pushes 20% DRAM price hike in Q3 amid Korea-led supply squeeze - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung is pushing for a 20% DRAM price increase in Q3 amid a Korea-led supply squeeze. This is a concrete pricing development from a major memory supplier and holding (Samsung's semiconductor arm), signaling tightening supply conditions that directly impact DRAM spot/contract pricing — a leading indicator for memory-cycle stocks in the fund."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "4aef355447c231e89e034b73181ac4d353ed7ffc",
+  "source": "아시아경제",
+  "topic": "pricing",
+  "title": "\"Samsung Electronics Plans 20% DRAM Price Hike in Q3... Notifies Some Customers\" - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51RlI0ajB3QkxSOHpZN3ZncllZbmcwY0xRQU1Rd3ZQN2FFcUlOS2xua1A2SmFlclIwNzRTVmFqaWhCUGxsZ3RfUmQxU0Jjc0NEX2lmT2V0MFh1d2tudC1KcEw4TUc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 07:13:59 GMT",
+  "published_ts": 1783149239,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51RlI0ajB3QkxSOHpZN3ZncllZbmcwY0xRQU1Rd3ZQN2FFcUlOS2xua1A2SmFlclIwNzRTVmFqaWhCUGxsZ3RfUmQxU0Jjc0NEX2lmT2V0MFh1d2tudC1KcEw4TUc?oc=5\" target=\"_blank\">\"Samsung Electronics Plans 20% DRAM Price Hike in Q3... Notifies Some Customers\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung Electronics plans to implement a 20% DRAM price increase in Q3 and has begun notifying customers. This is a concrete pricing action by a major memory supplier and a key holding (Samsung's semiconductor/memory division), signaling a material shift in the DRAM spot/contract market that typically precedes earnings moves."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "3dafd10264a97a26e82202500a077721ef696571",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix weighs 0.5% underwriting fee for blockbuster U.S. share sale - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHZNMFhaVENqWDBwOEdEOEZvTm1ydTh3OVlZeFNLTzYtRlJSRDZFeXFkaG5fak5FMkttbmhJZXdTTHpjNjdpUEFuWDdFU0tvZDRNZXdyZXZDTGhZLS1jRHhhWDdxbHg4YVFxRGtjakV1cm1DSjNiV29VMm9mNmJHaWRTeE51dmtqRXBIaA?oc=5",
+  "published_at": "Sat, 04 Jul 2026 05:13:00 GMT",
+  "published_ts": 1783141980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHZNMFhaVENqWDBwOEdEOEZvTm1ydTh3OVlZeFNLTzYtRlJSRDZFeXFkaG5fak5FMkttbmhJZXdTTHpjNjdpUEFuWDdFU0tvZDRNZXdyZXZDTGhZLS1jRHhhWDdxbHg4YVFxRGtjakV1cm1DSjNiV29VMm9mNmJHaWRTeE51dmtqRXBIaA?oc=5\" target=\"_blank\">SK Hynix weighs 0.5% underwriting fee for blockbuster U.S. share sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is planning a major U.S. share sale with discussions underway regarding a 0.5% underwriting fee, indicating a concrete capital-raising event for one of the fund's core holdings. Such a substantial equity offering is a material corporate action with potential implications for share structure and investor sentiment."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "36917dede97139e083245d694da01a4f1f1d1363",
+  "source": "ixbt.games",
+  "topic": "holding",
+  "title": "Media: Samsung Raises Memory Prices Again - PCs and Smartphones Under Threat - ixbt.games",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajJHUkZsQlVHd19vaksyNGMxbzYwb25WQWx6d3VKS0JZbHFIeHJIOXRiN0RuZW96d2w0d2FzbTBPWVU1U0cwMENOMmtROTRxQTZRc2hlWVBPbEphZm16Y3hIbFRlVlgySUxWV2hjM0FKMENFWi1KWlRuRGdKWFd0SWFWazdra1FnTzctT3ZVWEJwU1VHUnN6NDNUR29tWEpDQVVyNGpseVptamNudUVGYkgxLUFTNnU0c1U00gHAAUFVX3lxTE9oMkcyTXhHMHBTRnVRZmxWeUNKVEJ1Q0FhOThKY25uSFM3dGN2VkpjdVNoU3FhQ3pyc3NyNElKMGFPRHlPeDJqNVpLR0hyZUM4UGlvSWpxRFFCLVB2eHlKWHNOaW9ISmFVY2FHajA5RksxOG9vRDk5NkxFcWdwTDZFc1o3X3R3TG5nS1RYV095NnE4OUM3Z083TEN4eE1BUHFuX2VEekRKRFN3c3JlcC1xWWpmLVBxUUotYWVyeUNlZQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 08:21:18 GMT",
+  "published_ts": 1783153278,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajJHUkZsQlVHd19vaksyNGMxbzYwb25WQWx6d3VKS0JZbHFIeHJIOXRiN0RuZW96d2w0d2FzbTBPWVU1U0cwMENOMmtROTRxQTZRc2hlWVBPbEphZm16Y3hIbFRlVlgySUxWV2hjM0FKMENFWi1KWlRuRGdKWFd0SWFWazdra1FnTzctT3ZVWEJwU1VHUnN6NDNUR29tWEpDQVVyNGpseVptamNudUVGYkgxLUFTNnU0c1U00gHAAUFVX3lxTE9oMkcyTXhHMHBTRnVRZmxWeUNKVEJ1Q0FhOThKY25uSFM3dGN2VkpjdVNoU3FhQ3pyc3NyNElKMGFPRHlPeDJqNVpLR0hyZUM4UGlvSWpxRFFCLVB2eHlKWHNOaW9ISmFVY2FHajA5RksxOG9vRDk5NkxFcWdwTDZFc1o3X3R3TG5nS1RYV095NnE4OUM3Z083TEN4eE1BUHFuX2VEekRKRFN3c3JlcC1xWWpmLVBxUUotYWVyeUNlZQ?oc=5\" target=\"_blank\">Media: Samsung Raises Memory Prices Again - PCs and Smartphones Under Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ixbt.games</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ixbt.games"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly raising memory prices, citing pressure on PC and smartphone markets. Pricing movements are leading indicators for memory stocks, but this is a report/analysis rather than an official Samsung announcement or confirmed transaction data."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "8b46ef9b1d82349d3c20dbd03236d45ed3b9a906",
+  "source": "The Globe and Mail",
+  "topic": "industry",
+  "title": "Is the Memory Rally Still Alive After the Semiconductor Sell-Off? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE9jZDFwdlFLQ3ZLdXZzMGJyQTE0V1JrRHB4dDlxS0x6NDdQU1NHcjc5RFZ0VzZTRzc1ZnZVajRXZFhodkJsNUxpU1E4Z0lJVHg3WEFMcjdOUXpLRTZ1V2FjejdkTTJ0QlFaWlc3a25ncDNGbHhMd0RaSkp0SnJfMnJYSE5CM3pyUng4dVVybGlZeWhoTzVLYS02R1hiUU0zdzY4b0hPNGd4Rlg0OW9JbjBqV2RHWTVDM3RkMDFzM19Db2hyWU10bTRsQk9wNGJhc3RaT3hjSEFITTVqblVQYg?oc=5",
+  "published_at": "Thu, 02 Jul 2026 11:35:00 GMT",
+  "published_ts": 1782992100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE9jZDFwdlFLQ3ZLdXZzMGJyQTE0V1JrRHB4dDlxS0x6NDdQU1NHcjc5RFZ0VzZTRzc1ZnZVajRXZFhodkJsNUxpU1E4Z0lJVHg3WEFMcjdOUXpLRTZ1V2FjejdkTTJ0QlFaWlc3a25ncDNGbHhMd0RaSkp0SnJfMnJYSE5CM3pyUng4dVVybGlZeWhoTzVLYS02R1hiUU0zdzY4b0hPNGd4Rlg0OW9JbjBqV2RHWTVDM3RkMDFzM19Db2hyWU10bTRsQk9wNGJhc3RaT3hjSEFITTVqblVQYg?oc=5\" target=\"_blank\">Is the Memory Rally Still Alive After the Semiconductor Sell-Off?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece examining whether the memory semiconductor rally remains intact following a broader semiconductor sector sell-off. This is opinion/analysis on market trends rather than a concrete event or hard data on pricing, demand, or holdings."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "2733b6ab6166a4e1207a41daafadb18e05f18671",
+  "source": "The Globe and Mail",
+  "topic": "pricing",
+  "title": "Can Higher Memory Prices Extend Micron Technology's Profit Boom? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcjc2MG00UlRkZ1hubjN0bEdOMklhTmNsTUxjMU5zVC1rUzNaLVlnYkhlb1B3NFNHZzRHVWlCMkJNRkozc1ZoWGFKV1B6NkhmdGRxdW4xX2M0TE1ja2VtMFQ2d3oxa2NUYjJENDhVQkUycGc5NmtUQTc4SUI2aS1lejZUTW5pcm8ycUdyTlVSWERnak5ZOXZvcGxGd0tLZDR4S2YwWlc4ZEFURzdnLWRDR253SUh2NXpzYUtKZE9tSnFnUDVkQ284bVEtbTZDZFZuazFDYk5WNmxraHZWVlE?oc=5",
+  "published_at": "Fri, 03 Jul 2026 14:10:16 GMT",
+  "published_ts": 1783087816,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcjc2MG00UlRkZ1hubjN0bEdOMklhTmNsTUxjMU5zVC1rUzNaLVlnYkhlb1B3NFNHZzRHVWlCMkJNRkozc1ZoWGFKV1B6NkhmdGRxdW4xX2M0TE1ja2VtMFQ2d3oxa2NUYjJENDhVQkUycGc5NmtUQTc4SUI2aS1lejZUTW5pcm8ycUdyTlVSWERnak5ZOXZvcGxGd0tLZDR4S2YwWlc4ZEFURzdnLWRDR253SUh2NXpzYUtKZE9tSnFnUDVkQ284bVEtbTZDZFZuazFDYk5WNmxraHZWVlE?oc=5\" target=\"_blank\">Can Higher Memory Prices Extend Micron Technology's Profit Boom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece examining whether higher memory prices could sustain Micron's profitability. This is opinion/forecast rather than a concrete pricing event or new data point, making it soft commentary on the pricing environment rather than a hard catalyst."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "f88cdc85c5eba9d220b7a26d439e6e92c76bfa6c",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "SK Hynix is said to weigh 0.5% fee payout in mega ADR offering - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1Z1SXFLQXV0a3A2azE5dDFBdzVpUWdlamp5VnRNamlSSEVmSzRmTzZtZVhWYk1XVnFBUGlJNmJOY3BKUUN5T3hJSC04aDBfdzJUazlUZ0Y1b19QU0tldFZjR2IxdE1XNVVYcS1wQjJsc3BoNFZKVGQ4ZmZGQTlhdnVLeUNSMmVpWW5wOWtEVFMzMlVnLWloNGgtYXpXbkFyemZxbEpn?oc=5",
+  "published_at": "Sat, 04 Jul 2026 08:15:00 GMT",
+  "published_ts": 1783152900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1Z1SXFLQXV0a3A2azE5dDFBdzVpUWdlamp5VnRNamlSSEVmSzRmTzZtZVhWYk1XVnFBUGlJNmJOY3BKUUN5T3hJSC04aDBfdzJUazlUZ0Y1b19QU0tldFZjR2IxdE1XNVVYcS1wQjJsc3BoNFZKVGQ4ZmZGQTlhdnVLeUNSMmVpWW5wOWtEVFMzMlVnLWloNGgtYXpXbkFyemZxbEpn?oc=5\" target=\"_blank\">SK Hynix is said to weigh 0.5% fee payout in mega ADR offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is considering a 0.5% fee payout structure for a mega ADR (American Depositary Receipt) offering. This is a capital-markets or financing activity for the holding company itself, not a memory-business operational development. The story reports discussion/exploration ('weigh,' 'said to') rather than a confirmed deal, making it soft news relevant to the holding but not a concrete market-moving event."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "feb12fb3bfdda07c1ed666d65a2c3ca87cf08624",
+  "source": "Seoul Economic Daily",
+  "topic": "pricing",
+  "title": "Chinese Media: Samsung Aims to Raise Q3 DRAM Prices 20% - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVQ1RjFDaHZUZkk1VnkxWW80R0NGYnBsd1ZvazlEMWRYWkgxclpHOTZwUG1nLXZfanVVYlJ4bHJHY2hGX0lBNElZdVkxN09jSU5XMXUxalkxalVMS0ZwYmcyaC1WLWNxUmJ3RHczNEh2aUxtSFQ2cUNPMmJPN19SMmJnX3Zpd09hNlB4dDczWmxWbmtDUVJSczNkYw?oc=5",
+  "published_at": "Sat, 04 Jul 2026 07:20:46 GMT",
+  "published_ts": 1783149646,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVQ1RjFDaHZUZkk1VnkxWW80R0NGYnBsd1ZvazlEMWRYWkgxclpHOTZwUG1nLXZfanVVYlJ4bHJHY2hGX0lBNElZdVkxN09jSU5XMXUxalkxalVMS0ZwYmcyaC1WLWNxUmJ3RHczNEh2aUxtSFQ2cUNPMmJPN19SMmJnX3Zpd09hNlB4dDczWmxWbmtDUVJSczNkYw?oc=5\" target=\"_blank\">Chinese Media: Samsung Aims to Raise Q3 DRAM Prices 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly aims to raise Q3 DRAM prices by 20% according to Seoul Economic Daily, citing Chinese media. This is a price signal relevant to the memory cycle, but as a reported aim/target rather than a confirmed executed price, it carries the weight of intention or market expectation rather than a settled transaction."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "e232a78a5312f2f0b93894d60660cb815f8933f7",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Currys warns AI-driven chip shortage will push up electronics prices - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVsS19iZjFpaE1DVS0yQkhXWF85OTJudFNPb09vQThOTDc2MW9XM3kyRXpENUw4TTh2TjBheWl0S05jNGhudjQ1X3FrQTFMVlVDY2plcjM2VFd1REE2YVExVWhBQ3otUmlPR0hOR2tkOVFndDFocTRDWlFQcU5FdmJueG9Pdk5Talk4Q2IwcUxzdWRKdlhzX2k0U1E0dEM3Y2RrTEp2cW5Na215TDE2UURmSms2WWk0dnZ5NTBrVnNyQTB4NXl1enlqcGRQY1RheTMxdVZCcUVsdld0b2IyN0EwR2hrM01WSzQ4OHRVRTdwV21xMUFIUmJaRkN1dFU?oc=5",
+  "published_at": "Fri, 03 Jul 2026 08:15:16 GMT",
+  "published_ts": 1783066516,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVsS19iZjFpaE1DVS0yQkhXWF85OTJudFNPb09vQThOTDc2MW9XM3kyRXpENUw4TTh2TjBheWl0S05jNGhudjQ1X3FrQTFMVlVDY2plcjM2VFd1REE2YVExVWhBQ3otUmlPR0hOR2tkOVFndDFocTRDWlFQcU5FdmJueG9Pdk5Talk4Q2IwcUxzdWRKdlhzX2k0U1E0dEM3Y2RrTEp2cW5Na215TDE2UURmSms2WWk0dnZ5NTBrVnNyQTB4NXl1enlqcGRQY1RheTMxdVZCcUVsdld0b2IyN0EwR2hrM01WSzQ4OHRVRTdwV21xMUFIUmJaRkN1dFU?oc=5\" target=\"_blank\">Currys warns AI-driven chip shortage will push up electronics prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Currys, a UK electronics retailer, warns that AI-driven chip shortages will increase electronics prices. This reflects industry concern about demand-supply dynamics for semiconductors driven by AI infrastructure buildout, which affects memory demand and pricing—relevant to DRAM holdings—but is retailer commentary rather than a confirmed shortage or pricing announcement from manufacturers or capacity cuts."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "6616ca4371176f202590a91c15e28031d2faaef7",
+  "source": "applemust.com",
+  "topic": "holding",
+  "title": "RAM-ageddon continues: Samsung eyes another 20% DRAM hike - applemust.com",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3hWVGtSX29zR1N6MHJLVzlDVzBmTTRUb3hWUmpmMHBwRm55dEZqcU1LQ0hMUXJNRDF5ek4zR0RURGpOSFV6ckdxYm9fNVFwdUhyN3NkWmx0ZHBhNFRwd1V4UW0xWnNIbkdqM0J0XzlEM3R3Vlktb1VKa3huR3FHR1dHNDB5ZTJFcnc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 08:18:09 GMT",
+  "published_ts": 1783153089,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3hWVGtSX29zR1N6MHJLVzlDVzBmTTRUb3hWUmpmMHBwRm55dEZqcU1LQ0hMUXJNRDF5ek4zR0RURGpOSFV6ckdxYm9fNVFwdUhyN3NkWmx0ZHBhNFRwd1V4UW0xWnNIbkdqM0J0XzlEM3R3Vlktb1VKa3huR3FHR1dHNDB5ZTJFcnc?oc=5\" target=\"_blank\">RAM-ageddon continues: Samsung eyes another 20% DRAM hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">applemust.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "applemust.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly considering another 20% DRAM price increase as part of ongoing industry pricing dynamics. This is pricing-relevant but characterized as speculation or intention ('eyes') rather than a confirmed announcement or executed price move."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "4a850e5898598f91737b4441a791d82f645fd573",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Bloomberg Says SK Hynix Weighs 0.5% Fee for ADR Listing - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YbzlZTG15YllwS3BFMEgwLWp2VHk5Ujcyd3lhUEg4ckNHM3F5M3dydng4b2VqeTFsM1VLQ2IwUUo1V08ySWp4U0V1RDh5RUotVV91cQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 08:08:21 GMT",
+  "published_ts": 1783152501,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YbzlZTG15YllwS3BFMEgwLWp2VHk5Ujcyd3lhUEg4ckNHM3F5M3dydng4b2VqeTFsM1VLQ2IwUUo1V08ySWp4U0V1RDh5RUotVV91cQ?oc=5\" target=\"_blank\">Bloomberg Says SK Hynix Weighs 0.5% Fee for ADR Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly considering a 0.5% fee structure for an ADR (American Depositary Receipt) listing. This is a strategic corporate development for a major DRAM ETF holding, but remains at the exploration/discussion stage rather than a confirmed announcement, making it a soft signal of potential market access improvements."
+  },
+  "buffered_ts": 1783157741.5666914
+ },
+ {
+  "id": "6ad0e8bb04e15d8ec1cccf9e7b65473502f59e6c",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "SK hynix considers lower Wall Street fees for ADR listing - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2tuSk9QamktdUl5MV9pNlpwcEhUZ1FZeVJ5MFUyeUZZRnVCaDRxS1R5blMwOVpwVHJUTjMzcGpPdURjQ0d1cm9ZUThaWlk3ZGlYdUxFYnp5R1NlTGZ6NGxPX2lKdU00LXJabzVGelJYc2tNRENWZGZwYndMWm9nR1R2eWk4SjZjRUs4VFdTYWlJQXotejlMZ1ZPTjFoanYwWVM1V3luWEpGT0poOS1R?oc=5",
+  "published_at": "Sat, 04 Jul 2026 09:20:47 GMT",
+  "published_ts": 1783156847,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2tuSk9QamktdUl5MV9pNlpwcEhUZ1FZeVJ5MFUyeUZZRnVCaDRxS1R5blMwOVpwVHJUTjMzcGpPdURjQ0d1cm9ZUThaWlk3ZGlYdUxFYnp5R1NlTGZ6NGxPX2lKdU00LXJabzVGelJYc2tNRENWZGZwYndMWm9nR1R2eWk4SjZjRUs4VFdTYWlJQXotejlMZ1ZPTjFoanYwWVM1V3luWEpGT0poOS1R?oc=5\" target=\"_blank\">SK hynix considers lower Wall Street fees for ADR listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix is exploring options to reduce Wall Street fees associated with its ADR (American Depositary Receipt) listing. This is a corporate finance/listing matter with minimal direct impact on memory chip supply, demand, pricing, or fund performance."
+  },
+  "buffered_ts": 1783157741.5666914
  }
 ]
