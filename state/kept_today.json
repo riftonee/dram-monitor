@@ -484,5 +484,173 @@
    "summary": "SK Hynix and Samsung stocks rose as part of a broader memory-driven KOSPI rebound. The story reports stock price movements tied to 'memory frenzy' but does not specify a concrete catalyst, new earnings data, or material news beyond market sentiment. Stock moves without a distinct, newly-disclosed event are typically soft signals."
   },
   "buffered_ts": 1783272941.7917204
+ },
+ {
+  "id": "7759116016c7c4d5d66d1275077d95891825f7e1",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "NAND and DRAM Prices Surge as China's YMTC and CXMT Shake Up South Korea-Dominated Market - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05dGQ5YmZPSUcyRUhtWWNzWTR2SHdrenMwQnZ1ZGtMWjJzYVZQeld0WU05Y1RfNFphbTF6N2M2MWpHUTBBbDMzNmpDSGl2RUJDc2pDbkVoWFBCMk9DUnpRblBWYnNPdkVfLUVQM041cExRaTZtUVE?oc=5",
+  "published_at": "Sun, 05 Jul 2026 17:36:00 GMT",
+  "published_ts": 1783272960,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE05dGQ5YmZPSUcyRUhtWWNzWTR2SHdrenMwQnZ1ZGtMWjJzYVZQeld0WU05Y1RfNFphbTF6N2M2MWpHUTBBbDMzNmpDSGl2RUJDc2pDbkVoWFBCMk9DUnpRblBWYnNPdkVfLUVQM041cExRaTZtUVE?oc=5\" target=\"_blank\">NAND and DRAM Prices Surge as China's YMTC and CXMT Shake Up South Korea-Dominated Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "NAND and DRAM prices are surging as Chinese competitors YMTC and CXMT disrupt the South Korea-dominated memory market, directly affecting pricing dynamics for DRAM holdings and the broader memory semiconductor cycle."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "72cd313726a2edd7861df1c39839fe32756e8d35",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "SK Hynix’s $29.4 Billion Nasdaq Debut Arrives Amid a Fierce Reckoning Over AI Demand - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3VzNzhSNUxpdG9MTUdPck1sM25QSDh2V185ejhXbVhvUl9aWFEzcVp2bjJ1cjRXb3Z6NW1DSWZJZ2R3WDdXWkt2WG1EeG1fNTBqVU9OZzV1Nkt4cGphVmZqN0pOUEtoVGNJNlFSZnFSeUN6TE9LY3lfdHpFcTNUX2ctN2trUTB0NjBSQ1ZfNXVLUTk0dTNOV3BZT3U2b3lHSGRsdnpsUjVud0U5eWsxT3FkeGRBZEwxRWdQYjJzNHk3STNrVHc?oc=5",
+  "published_at": "Sun, 05 Jul 2026 17:49:18 GMT",
+  "published_ts": 1783273758,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3VzNzhSNUxpdG9MTUdPck1sM25QSDh2V185ejhXbVhvUl9aWFEzcVp2bjJ1cjRXb3Z6NW1DSWZJZ2R3WDdXWkt2WG1EeG1fNTBqVU9OZzV1Nkt4cGphVmZqN0pOUEtoVGNJNlFSZnFSeUN6TE9LY3lfdHpFcTNUX2ctN2trUTB0NjBSQ1ZfNXVLUTk0dTNOV3BZT3U2b3lHSGRsdnpsUjVud0U5eWsxT3FkeGRBZEwxRWdQYjJzNHk3STNrVHc?oc=5\" target=\"_blank\">SK Hynix’s $29.4 Billion Nasdaq Debut Arrives Amid a Fierce Reckoning Over AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completes $29.4 billion Nasdaq listing, a major structural change for the memory-semiconductor company and a DRAM fund holding. This is a concrete corporate event that increases market accessibility and optionality for the holding."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "78dd711b16ad4ace9fd0fd530acdfd8aea37cf39",
+  "source": "Stocks Down Under",
+  "topic": "holding",
+  "title": "Western Digital (NASDAQ:WDC) Falls 10% in the Memory Rout, but Analysts Just Raised Targets to US$732 - Stocks Down Under",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JbUtBX0R5WEJzdnBIRVhXWlBNRTZUa2RGTFNkd2hOb2NQNlVLeDRFd1E4dVFTTXJ4bGRWSGgwU0pTckhqamE4LWQ3ZEhGUU5PMWhrczVTcGVTT2pRai1xRE8wWnV4WHNEMGlJQkZISk9sQQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 18:00:01 GMT",
+  "published_ts": 1783274401,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5JbUtBX0R5WEJzdnBIRVhXWlBNRTZUa2RGTFNkd2hOb2NQNlVLeDRFd1E4dVFTTXJ4bGRWSGgwU0pTckhqamE4LWQ3ZEhGUU5PMWhrczVTcGVTT2pRai1xRE8wWnV4WHNEMGlJQkZISk9sQQ?oc=5\" target=\"_blank\">Western Digital (NASDAQ:WDC) Falls 10% in the Memory Rout, but Analysts Just Raised Targets to US$732</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocks Down Under</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocks Down Under"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a core DRAM ETF holding, fell 10% amid a broader memory sector decline, but analysts raised price targets to $732. The stock move reflects market sentiment during a memory rout, and the analyst target increase is opinion-based rather than a concrete new event. Without stated fundamental catalysts beyond the price decline itself, this is relevant but soft impact."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "7d0db85b0a0826e148642e4af33a84b8b5deff44",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmItN3NRdXFRdkZsb1dzYkhLMlBmZHZZT280VFRlaE5BblBvejZHY3pPUE9ER2JoelRMRmo0RVQ4eGhoZjhfNXNpblFTemJpcVRyTkRHRmE5SW1NVC1VbEVPWi13WUxrUm1iRmFab25ZY0dJd2M3US1qUHZVT2V2OVVrVG5iZlFPb3NKaFZUQkRmbG1TTXhad3pKZjhTUQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 15:14:00 GMT",
+  "published_ts": 1783264440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMmItN3NRdXFRdkZsb1dzYkhLMlBmZHZZT280VFRlaE5BblBvejZHY3pPUE9ER2JoelRMRmo0RVQ4eGhoZjhfNXNpblFTemJpcVRyTkRHRmE5SW1NVC1VbEVPWi13WUxrUm1iRmFab25ZY0dJd2M3US1qUHZVT2V2OVVrVG5iZlFPb3NKaFZUQkRmbG1TTXhad3pKZjhTUQ?oc=5\" target=\"_blank\">SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Article discusses SK Hynix alongside SpaceX and Alphabet as market signal; likely commentary on AI/infrastructure capex trends and memory demand, but headline-only snippet lacks concrete details on material developments, deals, or guidance changes. Requires full text review for specifics."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "d7363c6568605375928310677cbd84a7abc10824",
+  "source": "Taipei Times",
+  "topic": "holding",
+  "title": "SK Hynix mulls 0.5 percent fee payout in mega-offering - Taipei Times",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xd2JtTTY1ek14cjJibGJiUkh1MWVMRkY1Mlh0TmZ4QmxZWXJhdHFLcmN6YXRJenJmZ2xyNl9qNi1IcnhEMXk4S2dRdHpwN2JxcE1HODRNZ2ZmM2JhSTlvQVk3WUZtejFtcThyOWtvN1ZSYVRhUHc?oc=5",
+  "published_at": "Sun, 05 Jul 2026 16:00:00 GMT",
+  "published_ts": 1783267200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8xd2JtTTY1ek14cjJibGJiUkh1MWVMRkY1Mlh0TmZ4QmxZWXJhdHFLcmN6YXRJenJmZ2xyNl9qNi1IcnhEMXk4S2dRdHpwN2JxcE1HODRNZ2ZmM2JhSTlvQVk3WUZtejFtcThyOWtvN1ZSYVRhUHc?oc=5\" target=\"_blank\">SK Hynix mulls 0.5 percent fee payout in mega-offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taipei Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Taipei Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is considering a 0.5% fee payout structure in connection with a mega-offering, likely a capital raise or secondary offering. This is a financial/corporate action by a major DRAM ETF holding, but the snippet lacks detail on deal terms, timing, or material impact on the company's operations or memory business. Without concrete announcement or specific offering details, this rates as soft news—relevant to the holding but speculative in nature."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "70bf9e0ecabe4d46e055b5d6fea1e89665c2e309",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "DRAM Stock Drops 25% as Its Biggest Risks Start Unfolding - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk5jRXJIVmVjLVNOVUY3MFdaWXh6ZWNCVXZQaU00MHZmbGZJQ1gtNEx4aGJfUGtPeG5XaF9PQUNOX3hOSnV5SXhoWHNEUHc2UHpPa2hLNHhjVVQ5QnZUVFo5X3VoSXJrUGdJbXg3VVUwdFJWSnBKY1FBY3JFTFRITnJiWm5DTnNNQmdQbTNZOEpFZWlIZTZSWER1b2R0TWJvSUVCVlBtaU41Yk9kd1AyOGRCUQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 18:51:19 GMT",
+  "published_ts": 1783277479,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk5jRXJIVmVjLVNOVUY3MFdaWXh6ZWNCVXZQaU00MHZmbGZJQ1gtNEx4aGJfUGtPeG5XaF9PQUNOX3hOSnV5SXhoWHNEUHc2UHpPa2hLNHhjVVQ5QnZUVFo5X3VoSXJrUGdJbXg3VVUwdFJWSnBKY1FBY3JFTFRITnJiWm5DTnNNQmdQbTNZOEpFZWlIZTZSWER1b2R0TWJvSUVCVlBtaU41Yk9kd1AyOGRCUQ?oc=5\" target=\"_blank\">DRAM Stock Drops 25% as Its Biggest Risks Start Unfolding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "A Benzinga opinion piece discusses DRAM ETF holdings declining 25% amid unfolding risks. This is commentary on price movement and risk analysis rather than a concrete new event or catalyst—likely a retrospective on already-known earnings or market conditions. Without a stated specific trigger distinct from prior disclosures, the stock move itself warrants impact 3 rather than 4."
+  },
+  "buffered_ts": 1783278723.8371549
+ },
+ {
+  "id": "e002fc1599855678f4773e6f653f88d395c9c021",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Semiconductor Giants Race to Expand AI Memory Production - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmF2REkwdmxRQk5XaVZKWjhZbzgyb0NnZTVaMkpkWS1wVkFxN2NXUl92eTFuTE9qVTBVR1RuR29GSGhIQ01tS0NCVlprN3F4c2pqRVZPa2w1cVNsaVRVYmhTd0t1UzhOYkRfWW1NM2Vaa29HejNTNUd5eDNJdzhIbGtJTDNPbVBL?oc=5",
+  "published_at": "Sun, 05 Jul 2026 16:00:06 GMT",
+  "published_ts": 1783267206,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmF2REkwdmxRQk5XaVZKWjhZbzgyb0NnZTVaMkpkWS1wVkFxN2NXUl92eTFuTE9qVTBVR1RuR29GSGhIQ01tS0NCVlprN3F4c2pqRVZPa2w1cVNsaVRVYmhTd0t1UzhOYkRfWW1NM2Vaa29HejNTNUd5eDNJdzhIbGtJTDNPbVBL?oc=5\" target=\"_blank\">Semiconductor Giants Race to Expand AI Memory Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korean media reports that semiconductor giants are racing to expand AI memory production. This is relevant to the memory cycle and HBM demand drivers, but lacks concrete specifics on capacity numbers, timelines, or named production commitments—it reads as general industry commentary rather than a confirmed expansion announcement."
+  },
+  "buffered_ts": 1783278723.8371549
  }
 ]
