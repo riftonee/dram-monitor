@@ -412,5 +412,77 @@
    "summary": "Report that NAND flash prices are surging and approaching DRAM price levels amid AI boom. This is relevant pricing information for the memory sector but appears to be analysis/commentary rather than reporting a concrete price data point or market-moving announcement. Classified as soft pricing intelligence rather than hard data-driven news."
   },
   "buffered_ts": 1783267480.5480359
+ },
+ {
+  "id": "8bfd10649ccfe2a0d292ed91dfade4b535be2aa2",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "DRAM Prices Surge Fivefold, Forcing an Industry Reckoning: AMD, Apple, Marvell, and SanDisk Wage a Memory Replacement War - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMGVKeVdlWlhZZE8tSi13VnhRbnJIaVk5M3FpdzQ1RlJMS2NaZHVTX250amtEckQ0SmZ1SHE1UWtrTUM2dnpvUGZkY0VsV1ZsdEtIZHlmU1NCa1g4OEtvNkM0WTIzMDRWcTN2UWo3bTRaOEw5X1E?oc=5",
+  "published_at": "Sun, 05 Jul 2026 05:05:00 GMT",
+  "published_ts": 1783227900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9wMGVKeVdlWlhZZE8tSi13VnhRbnJIaVk5M3FpdzQ1RlJMS2NaZHVTX250amtEckQ0SmZ1SHE1UWtrTUM2dnpvUGZkY0VsV1ZsdEtIZHlmU1NCa1g4OEtvNkM0WTIzMDRWcTN2UWo3bTRaOEw5X1E?oc=5\" target=\"_blank\">DRAM Prices Surge Fivefold, Forcing an Industry Reckoning: AMD, Apple, Marvell, and SanDisk Wage a Memory Replacement War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "DRAM prices have surged fivefold, representing a major concrete pricing event that impacts memory demand dynamics and the cost structure for key customers. SanDisk is a direct DRAM ETF holding; AMD, Apple, and Marvell are significant DRAM consumers whose margin pressure will affect memory demand cycle. This is a hard pricing move with immediate competitive implications across the memory supply chain."
+  },
+  "buffered_ts": 1783272941.7917204
+ },
+ {
+  "id": "973e35c8cb1836a70bd4866891043f8cbb1f971a",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix eyes $26.5B Nasdaq debut with low 0.5% fee - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOW90b1J1YTFJczlaM0FpVjY5ZTRsSDhZNWlSRnlOT2Y0NkhMRldoemdTTmo0blR4UVZILU4wOFV6VXhLR3hIX0pfX2JobFlXVVlmTFJqemxnOTBEV2N4LUFuUHhyOUVuQ2lSTEJ3QnFsWk56dHdLMjB0Mk5Qay1rQ1ROY2g5N2FhQ1RNVV9kQURpaFNjNW9tb1dmczlkcC1yWUxESDJ2NkRjQlhlUk9YWEUzdEVZdUlBNG40a1FqRnEtZzZkVTl5RzU4aDNFOHJiempBSElR?oc=5",
+  "published_at": "Sun, 05 Jul 2026 11:25:01 GMT",
+  "published_ts": 1783250701,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOW90b1J1YTFJczlaM0FpVjY5ZTRsSDhZNWlSRnlOT2Y0NkhMRldoemdTTmo0blR4UVZILU4wOFV6VXhLR3hIX0pfX2JobFlXVVlmTFJqemxnOTBEV2N4LUFuUHhyOUVuQ2lSTEJ3QnFsWk56dHdLMjB0Mk5Qay1rQ1ROY2g5N2FhQ1RNVV9kQURpaFNjNW9tb1dmczlkcC1yWUxESDJ2NkRjQlhlUk9YWEUzdEVZdUlBNG40a1FqRnEtZzZkVTl5RzU4aDNFOHJiempBSElR?oc=5\" target=\"_blank\">SK Hynix eyes $26.5B Nasdaq debut with low 0.5% fee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is preparing a $26.5 billion Nasdaq IPO debut with a 0.5% fee structure. This is a concrete, officially announced corporate action by a major DRAM ETF holding that will materially change its public market status and capital structure."
+  },
+  "buffered_ts": 1783272941.7917204
+ },
+ {
+  "id": "8cc9fda79be6a352dfe19f5a9f3b3c033f201573",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix stock, Samsung surge as memory frenzy drives KOSPI rebound - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWNxdWFtVkRnNndsbkh3ZkE2Y0sxTjZLOTNENjU5Z3hTRTRaNjdZTVlJYVdrM1Z0dzFQMFhmOG5vT0hkdFZxOGZvNF9XRlZCVnJodXVleFVPZFA2c0c1dzVpRXR1SEtVcjYyeTU3aU9rdUdzX3JURUxrTVdQQWJUVl9POVZrcXN4NXZDdGdzZ09PSEFodkdhUE5hakJYeHJqZzlZNklyVmNGQk9IUnN3aFdWdmo2eXlKWWstak5sZ3NvTWhSSHF4MQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 02:23:25 GMT",
+  "published_ts": 1783218205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWNxdWFtVkRnNndsbkh3ZkE2Y0sxTjZLOTNENjU5Z3hTRTRaNjdZTVlJYVdrM1Z0dzFQMFhmOG5vT0hkdFZxOGZvNF9XRlZCVnJodXVleFVPZFA2c0c1dzVpRXR1SEtVcjYyeTU3aU9rdUdzX3JURUxrTVdQQWJUVl9POVZrcXN4NXZDdGdzZ09PSEFodkdhUE5hakJYeHJqZzlZNklyVmNGQk9IUnN3aFdWdmo2eXlKWWstak5sZ3NvTWhSSHF4MQ?oc=5\" target=\"_blank\">SK Hynix stock, Samsung surge as memory frenzy drives KOSPI rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung stocks rose as part of a broader memory-driven KOSPI rebound. The story reports stock price movements tied to 'memory frenzy' but does not specify a concrete catalyst, new earnings data, or material news beyond market sentiment. Stock moves without a distinct, newly-disclosed event are typically soft signals."
+  },
+  "buffered_ts": 1783272941.7917204
  }
 ]
