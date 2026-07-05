@@ -289,5 +289,128 @@
    "summary": "Micron CEO states memory chip shortage will persist until 2028. This is forward-looking commentary on industry supply/demand dynamics rather than a concrete event or hard number, making it analyst-opinion territory rather than a market-moving disclosure. Stock price impact would depend on whether this represents a change from prior guidance."
   },
   "buffered_ts": 1783262329.873804
+ },
+ {
+  "id": "ba279496112982138ec873847ccd84379b598acf",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0diUTF3cmJsLTRqTlpvbGVrOFhYSDBKam5tWm1ISm1NZnUwakNsa0dFbDhTa0pROHZZeTNSRWE0MEZaNm1CRzNINHB6UEVYbEg1TVBPa1g5ZWhxZkNyZHpobWJ1MkV1Y0xoS25fbjdrLUYwV3FZaVFfV3MyTlBFSXNCVEVvOGxobTNkYXFMS0lQMXUtNEpRbGotLXl2MmJyUndyMWJoUzRTQzdPSEpMM0ttYw?oc=5",
+  "published_at": "Sun, 05 Jul 2026 13:00:00 GMT",
+  "published_ts": 1783256400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0diUTF3cmJsLTRqTlpvbGVrOFhYSDBKam5tWm1ISm1NZnUwakNsa0dFbDhTa0pROHZZeTNSRWE0MEZaNm1CRzNINHB6UEVYbEg1TVBPa1g5ZWhxZkNyZHpobWJ1MkV1Y0xoS25fbjdrLUYwV3FZaVFfV3MyTlBFSXNCVEVvOGxobTNkYXFMS0lQMXUtNEpRbGotLXl2MmJyUndyMWJoUzRTQzdPSEpMM0ttYw?oc=5\" target=\"_blank\">SK Hynix Seeks Access to AI Investors in $29 Billion US Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is pursuing a $29 billion US listing to access AI investors, a concrete strategic move by a major DRAM ETF holding that signals capital deployment for AI-driven memory demand and represents a material corporate event."
+  },
+  "buffered_ts": 1783267480.5480359
+ },
+ {
+  "id": "4aad3786bdea3fecb53eea58c51871d6eddd4b30",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXpHU2J4bEhjQmhkd0U0ck8wRjFub2YxTk9Nb3VCZHRPT0dlakVvb19rLU1FdlozcWQxemVndGxWZFI1Q2dVUGRCamsyVi1KRGpVZzltUDN6YlIydHp1VlF0NnRhWTk4SDR1bkdLNzF5c05tZUd5RGZJcjBZczkwV2NUTkJJWDRKNXdkZUhONXVXNUxpcTVr?oc=5",
+  "published_at": "Sun, 05 Jul 2026 14:56:22 GMT",
+  "published_ts": 1783263382,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXpHU2J4bEhjQmhkd0U0ck8wRjFub2YxTk9Nb3VCZHRPT0dlakVvb19rLU1FdlozcWQxemVndGxWZFI1Q2dVUGRCamsyVi1KRGpVZzltUDN6YlIydHp1VlF0NnRhWTk4SDR1bkdLNzF5c05tZUd5RGZJcjBZczkwV2NUTkJJWDRKNXdkZUhONXVXNUxpcTVr?oc=5\" target=\"_blank\">SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "AOL.com"
+   ],
+   "titles": [
+    "SpaceX, Alphabet, and SK Hynix Are Sending a Big Signal to the Market, and No One Is Talking About It - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece suggesting SK Hynix (a DRAM ETF holding) along with SpaceX and Alphabet are signaling something significant to the market. Without access to the full article, the claim appears speculative or analytical rather than reporting a concrete event or hard number. Likely commentary on strategic positioning or market trends rather than a material development."
+  },
+  "buffered_ts": 1783267480.5480359
+ },
+ {
+  "id": "20026c0eaead597a6ed6630ad00d7a1e50a0c9b5",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses - MSN",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMlNxbWNpQUR2Y2tIX1dYdUVaMWlOUFUyVnN5dG1LcHhjQWhxdHZ0cW5PY1RKa3A0WVVlam04eG5lc0RKRVJfZ3hwYzhCLU1KT0ZudWlzZmNPdFdlc0NEU1NCZFdmbnI5QzV2TEtNczFDWnFVT3VGYTFBeEdPWWpoVTNLcE95QjRQSEstYnk4Y25TLVNKQzlQdThHYVYyNXI1QjNjSzl1dHFOQ19GWjlldUpDaFdLX0hOeGdvR212VWMzNWpyRE83YUZzNDU4VTZBR19tQWFrMlE2ZnVLajcyUHBiZmdLM2phVjVncUllV0NTblhfdDM0cEJacXhxaUxPTkx0QWdmcUF3eWViYU13?oc=5",
+  "published_at": "Sun, 05 Jul 2026 15:57:30 GMT",
+  "published_ts": 1783267050,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQMlNxbWNpQUR2Y2tIX1dYdUVaMWlOUFUyVnN5dG1LcHhjQWhxdHZ0cW5PY1RKa3A0WVVlam04eG5lc0RKRVJfZ3hwYzhCLU1KT0ZudWlzZmNPdFdlc0NEU1NCZFdmbnI5QzV2TEtNczFDWnFVT3VGYTFBeEdPWWpoVTNLcE95QjRQSEstYnk4Y25TLVNKQzlQdThHYVYyNXI1QjNjSzl1dHFOQ19GWjlldUpDaFdLX0hOeGdvR212VWMzNWpyRE83YUZzNDU4VTZBR19tQWFrMlE2ZnVLajcyUHBiZmdLM2phVjVncUllV0NTblhfdDM0cEJacXhxaUxPTkx0QWdmcUF3eWViYU13?oc=5\" target=\"_blank\">Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Micron stocks declined amid broader rotation trading, with analyst commentary suggesting supply shortages may limit further downside. This is a post-trade stock-move story tied to market dynamics rather than company-specific memory fundamentals or earnings."
+  },
+  "buffered_ts": 1783267480.5480359
+ },
+ {
+  "id": "fdb8b1a92a86ffe55c96741b16105f1e3e9aa458",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung Earnings, SK Hynix Nasdaq Debut to Shape 'Top Two' Semiconductor Stocks - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN202RjRlMDQzVDY2a21pbTk4Zjd4djN4VmRldHF0UWJudXF6R21qamJJQ0pUV092TWJneGo2dlo1X1RrOUlQc3VvbEpDYnF1ZzlmdHpHWm9YMTQ2bEFicEFCa0NFbWh0LUxvRTR5cVdYeU9QRTBDRTBTZTBSOExUYVRaZThOc2g2YjE3V0xB?oc=5",
+  "published_at": "Sun, 05 Jul 2026 15:33:35 GMT",
+  "published_ts": 1783265615,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN202RjRlMDQzVDY2a21pbTk4Zjd4djN4VmRldHF0UWJudXF6R21qamJJQ0pUV092TWJneGo2dlo1X1RrOUlQc3VvbEpDYnF1ZzlmdHpHWm9YMTQ2bEFicEFCa0NFbWh0LUxvRTR5cVdYeU9QRTBDRTBTZTBSOExUYVRaZThOc2g2YjE3V0xB?oc=5\" target=\"_blank\">Samsung Earnings, SK Hynix Nasdaq Debut to Shape 'Top Two' Semiconductor Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korean coverage noting Samsung earnings and SK hynix's Nasdaq debut as shaping factors for the top two semiconductor stocks. These are concrete events (earnings release, listing) affecting two major fund holdings, but the story appears to be forward-looking commentary rather than reporting new material information beyond the events themselves."
+  },
+  "buffered_ts": 1783267480.5480359
+ },
+ {
+  "id": "93bfda05491d5029ad6cf791c02ea8b42b4dec46",
+  "source": "조선일보",
+  "topic": "pricing",
+  "title": "NAND Flash Prices Surge, Rivaling DRAM Amid AI Boom - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDNYZEFSLTRmenJMT0RJYjY4S2tXeWxRd2ZmRzdva2pvdGhqTlRZeVVPU1RFaVhmbUtLOG5KZmNTTHNNSjBKQ2F2UWQwa056RDR2TjRVamFraVVJMUEzb0VMUFQ2YUNjYXEwTExPeldCRUpUX2tSSkJneEZoMG5TOGR2NDZ1dkNh?oc=5",
+  "published_at": "Sun, 05 Jul 2026 15:49:54 GMT",
+  "published_ts": 1783266594,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDNYZEFSLTRmenJMT0RJYjY4S2tXeWxRd2ZmRzdva2pvdGhqTlRZeVVPU1RFaVhmbUtLOG5KZmNTTHNNSjBKQ2F2UWQwa056RDR2TjRVamFraVVJMUEzb0VMUFQ2YUNjYXEwTExPeldCRUpUX2tSSkJneEZoMG5TOGR2NDZ1dkNh?oc=5\" target=\"_blank\">NAND Flash Prices Surge, Rivaling DRAM Amid AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report that NAND flash prices are surging and approaching DRAM price levels amid AI boom. This is relevant pricing information for the memory sector but appears to be analysis/commentary rather than reporting a concrete price data point or market-moving announcement. Classified as soft pricing intelligence rather than hard data-driven news."
+  },
+  "buffered_ts": 1783267480.5480359
  }
 ]
