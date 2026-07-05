@@ -697,5 +697,101 @@
    "summary": "Samsung is expected to increase memory chip prices. This is a soft signal about pricing trends in the memory market that could support margins for Samsung and peers, but it is forward-looking expectation rather than a confirmed price change or official announcement."
   },
   "buffered_ts": 1783200409.9952624
+ },
+ {
+  "id": "1732bbd8b84ce9451b81a107d26516615a4b705c",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Memory Shortage Sends Chip Prices Up 4.6-Fold; Samsung's Z Fold8 Likely to See Price Hike - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTZMVnB2LUhtc1FqYVJMaXRJM3loSm1abG1lWWdHNktOSThiclVNc2RYd25GQkNCVXNtemFkSm1CNF9BQURQeGxxZS0xck94c3kxVk44aTF4dk5pQmlrbF9xUXdPSXpVMXVYN1RzN3NjM3pYRThUajhPZUpGMjljZFJickx4UUtuTVlIZkRGeFJGWFpPaWt1OGVhZFV1Zw?oc=5",
+  "published_at": "Sun, 05 Jul 2026 01:11:18 GMT",
+  "published_ts": 1783213878,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOTZMVnB2LUhtc1FqYVJMaXRJM3loSm1abG1lWWdHNktOSThiclVNc2RYd25GQkNCVXNtemFkSm1CNF9BQURQeGxxZS0xck94c3kxVk44aTF4dk5pQmlrbF9xUXdPSXpVMXVYN1RzN3NjM3pYRThUajhPZUpGMjljZFJickx4UUtuTVlIZkRGeFJGWFpPaWt1OGVhZFV1Zw?oc=5\" target=\"_blank\">Memory Shortage Sends Chip Prices Up 4.6-Fold; Samsung's Z Fold8 Likely to See Price Hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report indicates memory shortage has driven chip prices up 4.6-fold, with potential price implications for Samsung's Z Fold8 device. While the price movement is significant, this appears to be analysis/commentary rather than a confirmed supply event or official pricing announcement. Samsung's consumer device pricing is secondary to memory semiconductor fundamentals, though the underlying shortage signal is relevant to the memory cycle."
+  },
+  "buffered_ts": 1783219460.9921076
+ },
+ {
+  "id": "bac99d232a91117f38c3c7680a3ecea124180a03",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Face 'Super Week' as Earnings, ADR Listing Test Kospi Rally - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R0JsMkowYjNZTWJxS2UwQkZ3Rmx5Q0xrd3EzTDNrcjlRT09tUTQzOVFiVW1zZUJfeTlKNzNYamdDTHp2TnhieEhPLVlmTnZCUDRBTw?oc=5",
+  "published_at": "Sun, 05 Jul 2026 01:06:28 GMT",
+  "published_ts": 1783213588,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2R0JsMkowYjNZTWJxS2UwQkZ3Rmx5Q0xrd3EzTDNrcjlRT09tUTQzOVFiVW1zZUJfeTlKNzNYamdDTHp2TnhieEhPLVlmTnZCUDRBTw?oc=5\" target=\"_blank\">Samsung, SK Hynix Face 'Super Week' as Earnings, ADR Listing Test Kospi Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are entering a major week featuring earnings announcements and SK Hynix's ADR listing, both significant events for two major DRAM ETF holdings. The earnings reports themselves are concrete and scheduled, but this headline is primarily framing/anticipation rather than reporting actual results or guidance changes. ADR listing is a corporate event but not memory-specific news. Will be relevant once actual earnings/guidance are released."
+  },
+  "buffered_ts": 1783219460.9921076
+ },
+ {
+  "id": "41074ee32246a00d9824ec4a18546986cff95b11",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung Earnings, SK Hynix Nasdaq Listing Decide Memory Stock Fate - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
+  "published_at": "Sun, 05 Jul 2026 02:09:22 GMT",
+  "published_ts": 1783217362,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5\" target=\"_blank\">Samsung Earnings, SK Hynix Nasdaq Listing Decide Memory Stock Fate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung earnings and SK Hynix's Nasdaq listing decision are framed as material events that will determine memory stock performance. These are concrete developments affecting two major DRAM ETF holdings, but the article appears to be forward-looking analysis rather than reporting settled outcomes, making it soft rather than a hard event trigger."
+  },
+  "buffered_ts": 1783219460.9921076
+ },
+ {
+  "id": "6a0576097ab00b52f363063ee71e014b90d675d2",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Investors' attention has been focused on Samsung Electronics and SK Hynix, which are set to release - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUTc0VmZyYks1eXRoN2JNQUVZU0RKQXFFNHRxcXZyaEdMVFc4Y0dXb0h2Q1MxajNXVlpWM1U4Wlc2ZktJQXNOZ25DRWtzOUE?oc=5",
+  "published_at": "Sun, 05 Jul 2026 02:21:46 GMT",
+  "published_ts": 1783218106,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUTc0VmZyYks1eXRoN2JNQUVZU0RKQXFFNHRxcXZyaEdMVFc4Y0dXb0h2Q1MxajNXVlpWM1U4Wlc2ZktJQXNOZ25DRWtzOUE?oc=5\" target=\"_blank\">Investors' attention has been focused on Samsung Electronics and SK Hynix, which are set to release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix are approaching earnings releases. Investors are paying attention to their upcoming results, but no concrete event or guidance has been announced yet."
+  },
+  "buffered_ts": 1783219460.9921076
  }
 ]
