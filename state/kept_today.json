@@ -190,5 +190,104 @@
    "summary": "Bank of Korea issues a warning about leveraged ETFs tracking Samsung and SK Hynix due to 'volatility bomb' risks. While the holdings are mentioned, this is a regulatory caution about derivative products rather than news affecting the memory-semiconductor business fundamentals or DRAM ETF operations."
   },
   "buffered_ts": 1783255767.6896105
+ },
+ {
+  "id": "b7b6d8a1bdd894f9106231673e82fe2a7392ee1f",
+  "source": "Insider Monkey",
+  "topic": "holding",
+  "title": "Kioxia and Sandisk (SNDK) Begin Production of 10th-Generation 3D Flash Memory - Insider Monkey",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE1fNUoxZDA0aHNCTTd1d0NZb1BDT0dONWlQT1kxY0ppdXRTOGZNUGsxcm84NXRsQzMxNTg2VHA0Wk42bXgxNEFFMDBlZ0xGeDY3d1QxdXJtcl9kRk5veXRBNnBuSlhKOVpQdVVjbXoxVHNBdGZmQXBHTUltUGpkYUFfV3JFbUVsTThSdEd5R3BMblRUTENtWWdpU0s3SFpxT1RpaDgwQ19Lck1SUVo0ZmlNXzl6QTdMdHJj0gHDAUFVX3lxTE1yVzdmcmdvVGJ1S3BveWdkZHdocHJEV3oxc3IxWFBySXhGMmRHem5NOTFJQXdwSWxYdGtEQlFsUXUyUUw0Zl9zWE9nOWVmTHJ2YXFRV05CVnc4TFh3UE53cFpSS2hkM1hOV2V1eFFwQUhyTWdoVWUtSk1hZHEyTDBzNktiTjZ0YjFEelZhc3lRSVV5VmJ2bHNYZnlMUHZMZXVkdDd2STVqTzZMLVRkejJaUFlmTG15UzJqVWhKX1FhYkUzVQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 13:02:18 GMT",
+  "published_ts": 1783256538,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE1fNUoxZDA0aHNCTTd1d0NZb1BDT0dONWlQT1kxY0ppdXRTOGZNUGsxcm84NXRsQzMxNTg2VHA0Wk42bXgxNEFFMDBlZ0xGeDY3d1QxdXJtcl9kRk5veXRBNnBuSlhKOVpQdVVjbXoxVHNBdGZmQXBHTUltUGpkYUFfV3JFbUVsTThSdEd5R3BMblRUTENtWWdpU0s3SFpxT1RpaDgwQ19Lck1SUVo0ZmlNXzl6QTdMdHJj0gHDAUFVX3lxTE1yVzdmcmdvVGJ1S3BveWdkZHdocHJEV3oxc3IxWFBySXhGMmRHem5NOTFJQXdwSWxYdGtEQlFsUXUyUUw0Zl9zWE9nOWVmTHJ2YXFRV05CVnc4TFh3UE53cFpSS2hkM1hOV2V1eFFwQUhyTWdoVWUtSk1hZHEyTDBzNktiTjZ0YjFEelZhc3lRSVV5VmJ2bHNYZnlMUHZMZXVkdDd2STVqTzZMLVRkejJaUFlmTG15UzJqVWhKX1FhYkUzVQ?oc=5\" target=\"_blank\">Kioxia and Sandisk (SNDK) Begin Production of 10th-Generation 3D Flash Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Insider Monkey",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Kioxia and Sandisk (SNDK) Begin Production of 10th-Generation 3D Flash Memory - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Kioxia and SanDisk (a fund holding) have begun production of 10th-generation 3D NAND flash memory, representing a concrete advancement in NAND capacity and technology that affects memory supply dynamics and SanDisk's operational footprint."
+  },
+  "buffered_ts": 1783262329.873804
+ },
+ {
+  "id": "be28db7fc178f2e8c0cad9d10c374afd60f76584",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "SK Hynix seeks access to AI investors in US$29 billion Nasdaq listing - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHhhUkVzTjVRR0QweUc1Q2FlTUwwVF9BOTZwaHBuVjc5eVNibldpT1U0RXhqeHJ3NFJLVENIbm8zQ1NnRmIza0tNZXllcnZGMHZPRC0xbExaWldfazFnQXBrelYtY0NnUjEtODRxbmtmUXdxQW5ER0k4WEJwRjhpeWZEOFg2dzUzOUMxYUhwR29jY21DeTZHNEFjQU1BY0tTSzJzbEtEdk94cE9SN2JicnMwQQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 14:19:00 GMT",
+  "published_ts": 1783261140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHhhUkVzTjVRR0QweUc1Q2FlTUwwVF9BOTZwaHBuVjc5eVNibldpT1U0RXhqeHJ3NFJLVENIbm8zQ1NnRmIza0tNZXllcnZGMHZPRC0xbExaWldfazFnQXBrelYtY0NnUjEtODRxbmtmUXdxQW5ER0k4WEJwRjhpeWZEOFg2dzUzOUMxYUhwR29jY21DeTZHNEFjQU1BY0tTSzJzbEtEdk94cE9SN2JicnMwQQ?oc=5\" target=\"_blank\">SK Hynix seeks access to AI investors in US$29 billion Nasdaq listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a core DRAM holding, is pursuing a US$29 billion Nasdaq listing to access AI investors. This is a concrete corporate action by a major fund holding that signals capital-raising and strategic repositioning to tap AI-driven demand, representing a material development for the fund's portfolio."
+  },
+  "buffered_ts": 1783262329.873804
+ },
+ {
+  "id": "27054450162995ecf7b04a6860bc3937f8fdd0d8",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "SK Hynix plans $29B US listing, potentially largest by foreign firm - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90bHA1NG5abzJ6cTlUNW1BdEQwRmdMTGFaSjVuMzFCVmVyaVFpQzRkckIzTlZSaF9NS1dvejRMTmVFZjlJamlkeV8za3VWYjR1bHFLRS04X3drdTZ5UmJUS1U4cU1fZDIwXzQ5VQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 13:18:15 GMT",
+  "published_ts": 1783257495,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE90bHA1NG5abzJ6cTlUNW1BdEQwRmdMTGFaSjVuMzFCVmVyaVFpQzRkckIzTlZSaF9NS1dvejRMTmVFZjlJamlkeV8za3VWYjR1bHFLRS04X3drdTZ5UmJUS1U4cU1fZDIwXzQ5VQ?oc=5\" target=\"_blank\">SK Hynix plans $29B US listing, potentially largest by foreign firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM/memory holding of the fund, is planning a $29B US listing, potentially the largest by a foreign firm. This is a concrete, officially announced capital-market event with material implications for the company's valuation, liquidity, and market presence."
+  },
+  "buffered_ts": 1783262329.873804
+ },
+ {
+  "id": "7f79a0d3e8005fb2e7ec9569b3439c7658a1264d",
+  "source": "Blockonomi",
+  "topic": "industry",
+  "title": "Micron (MU) Stock: CEO Reveals Memory Chip Shortage Won’t End Until 2028 - Blockonomi",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEhyZW5VdDdUYkJTcEtrUWFCaFVoQXhVZXA5M0lJMm5nM2pUeTlCWDYtZlFKaXc5N3h3enNJU3hwTTFZS3VaUmpqbnNoOUV0eENxSEQxQm16RlV5RFJ1bTFSMFVQN3lCNDktaFBFTy1BY0g1MFpmbnhnVTRVT1BfWmt3RWVxcWd6MmFyeWVJV2JqQUdETmtr?oc=5",
+  "published_at": "Sun, 05 Jul 2026 14:15:07 GMT",
+  "published_ts": 1783260907,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEhyZW5VdDdUYkJTcEtrUWFCaFVoQXhVZXA5M0lJMm5nM2pUeTlCWDYtZlFKaXc5N3h3enNJU3hwTTFZS3VaUmpqbnNoOUV0eENxSEQxQm16RlV5RFJ1bTFSMFVQN3lCNDktaFBFTy1BY0g1MFpmbnhnVTRVT1BfWmt3RWVxcWd6MmFyeWVJV2JqQUdETmtr?oc=5\" target=\"_blank\">Micron (MU) Stock: CEO Reveals Memory Chip Shortage Won’t End Until 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Blockonomi"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron CEO states memory chip shortage will persist until 2028. This is forward-looking commentary on industry supply/demand dynamics rather than a concrete event or hard number, making it analyst-opinion territory rather than a market-moving disclosure. Stock price impact would depend on whether this represents a change from prior guidance."
+  },
+  "buffered_ts": 1783262329.873804
  }
 ]
