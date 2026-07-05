@@ -961,5 +961,125 @@
    "summary": "DRAM spot prices are cooling after a surge, indicating a moderation in the memory pricing cycle as consumer demand softens. This is relevant pricing intelligence but lacks specific price levels or a concrete catalyst, making it soft rather than a confirmed event."
   },
   "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "b61cda017d00ae5dca124ed660be6e137a20285c",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Week Ahead | June FOMC Minutes Release! SK Hynix ADR Set for U.S. Listing on Friday; SpaceX to Join Nasdaq-100; Zhipu AI, MiniMax, and Tianshu Zhixin Face Major Lock-up Expiry Test - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVMyNmdSMkZneUVoMEdYUlUwT2FMS3A1cFhMbkJUd2hiN1VSN2NiUkxVQnZfbTQyTHNCZUhWVWhOMWdaNlVtVW1rMER3UGE1VEVUcGJINUhQWHpJbzVidGUxMVJMZnN3aHRfYTZfME55SWRpOGNGR25Za1hyekF0eG95dTRya3NuWGdjbFNqREt6MmZiU0czZlZraw?oc=5",
+  "published_at": "Sun, 05 Jul 2026 07:30:52 GMT",
+  "published_ts": 1783236652,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVMyNmdSMkZneUVoMEdYUlUwT2FMS3A1cFhMbkJUd2hiN1VSN2NiUkxVQnZfbTQyTHNCZUhWVWhOMWdaNlVtVW1rMER3UGE1VEVUcGJINUhQWHpJbzVidGUxMVJMZnN3aHRfYTZfME55SWRpOGNGR25Za1hyekF0eG95dTRya3NuWGdjbFNqREt6MmZiU0czZlZraw?oc=5\" target=\"_blank\">Week Ahead | June FOMC Minutes Release! SK Hynix ADR Set for U.S. Listing on Friday; SpaceX to Join Nasdaq-100; Zhipu AI, MiniMax, and Tianshu Zhixin Face Major Lock-up Expiry Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix ADR set for U.S. listing on Friday. This is a concrete, officially announced corporate action affecting a key DRAM ETF holding, enabling direct U.S. trading access."
+  },
+  "buffered_ts": 1783244430.8034842
+ },
+ {
+  "id": "f2982f098c4e6cdcb64c645fdb7022698daa6718",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Memory Price Rally Hitting a Wall? Samsung Reportedly Seeks Another 20% Hike in Q3, Consumer Electronics Makers Cry Foul - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eGMxX211OXYxUG84LXJUV1pQVkNGNTFtcFVkalRUQ0JRLTR5S2ZoSzhsOEFGaG9Da2tvMzJiNThiTmgzOC15NFRqRWo1QkpLckV1b0Y0aW9JYjItVldPcS15ZndYTDNPNkt5aU91aFNDQXpiYUE?oc=5",
+  "published_at": "Sun, 05 Jul 2026 04:55:00 GMT",
+  "published_ts": 1783227300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE93eGMxX211OXYxUG84LXJUV1pQVkNGNTFtcFVkalRUQ0JRLTR5S2ZoSzhsOEFGaG9Da2tvMzJiNThiTmgzOC15NFRqRWo1QkpLckV1b0Y0aW9JYjItVldPcS15ZndYTDNPNkt5aU91aFNDQXpiYUE?oc=5\" target=\"_blank\">Memory Price Rally Hitting a Wall? Samsung Reportedly Seeks Another 20% Hike in Q3, Consumer Electronics Makers Cry Foul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung reportedly seeking 20% memory price increase in Q3, with consumer electronics makers pushing back. Report indicates pricing dynamics and potential supply-demand tension, but is based on 'reportedly' and lacks official confirmation of the price movement or Samsung's actual contract terms."
+  },
+  "buffered_ts": 1783244430.8034842
+ },
+ {
+  "id": "f631254ed6c20e11ee93fca8a14ecafcf23968d8",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Bank of Korea warns single-stock leveraged ETFs tied to Samsung and SK Hynix are rattling markets - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUxNZGhXdkxjN1I1QVp5WGNtNExnMFdJa203cjNNNXBLZWRLRjZQTV8zNXRnMks4UmxkSE9Xb00tYkNIYWxab3VfSnJST2FDTWdqLUtIVzE4dkh3dU9Pc3pJM1oyeW4tR05WTURKNFJuZ19oT2UtcGUtM3I4ZmZTdXlMV3FLQQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 06:52:11 GMT",
+  "published_ts": 1783234331,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUxNZGhXdkxjN1I1QVp5WGNtNExnMFdJa203cjNNNXBLZWRLRjZQTV8zNXRnMks4UmxkSE9Xb00tYkNIYWxab3VfSnJST2FDTWdqLUtIVzE4dkh3dU9Pc3pJM1oyeW4tR05WTURKNFJuZ19oT2UtcGUtM3I4ZmZTdXlMV3FLQQ?oc=5\" target=\"_blank\">Bank of Korea warns single-stock leveraged ETFs tied to Samsung and SK Hynix are rattling markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bank of Korea warns that single-stock leveraged ETFs tied to Samsung and SK Hynix are causing market volatility. This is a regulatory/macro concern about leverage and market stability rather than a concrete event affecting the holdings' fundamentals or the DRAM fund itself, but it does flag potential volatility in two major holdings."
+  },
+  "buffered_ts": 1783244430.8034842
+ },
+ {
+  "id": "f841ce178f470c52973139c44f80b555ca58a1ad",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "China’s Memory Push Rattles Samsung, SK Hynix as ‘Golden Window’ Narrows - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbFJtOXlWWFdIY1NVQ1o5RVAyYVdqdVdVZGN5MWJuZFQwem1VNm1xWTVjTDFQa3JvcTE5emdrblppUlVHVkJySzJyM1VCSDUzb01yNQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 08:50:09 GMT",
+  "published_ts": 1783241409,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbFJtOXlWWFdIY1NVQ1o5RVAyYVdqdVdVZGN5MWJuZFQwem1VNm1xWTVjTDFQa3JvcTE5emdrblppUlVHVkJySzJyM1VCSDUzb01yNQ?oc=5\" target=\"_blank\">China’s Memory Push Rattles Samsung, SK Hynix as ‘Golden Window’ Narrows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis of China's memory semiconductor expansion and competitive pressure on Samsung and SK Hynix, framed as narrowing their market advantage window. This is opinion-driven commentary on competitive dynamics rather than a confirmed material event or hard data point."
+  },
+  "buffered_ts": 1783244430.8034842
+ },
+ {
+  "id": "3fa64b21e563b2556e3096554e901f2088a65fd2",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "TrendForce: Traditional DRAM Prices Expected to Rise by 13% to 18% in Q3 - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aYnlpVXNkaGdfblpINUJLeUNBdkFFQzc0bURSSGFOdG1KcFk1TUJsRDNuY3otSmJFS2pnR0lVSHRWMmlCUWZYS3EtRGhWX0w4WC0yWUlwWjl2WlhldXfSAWNBVV95cUxQVXhENTdEQU56dHdLeFphTnd6WjM5T29iZkdxc3c5OWxLRHdkd3B5Z1lmYmRHcklCNUc4enJGM3lRQUxFTWd0YzlBOUJseVVpb3lkQmg1clBDTlI1SlFHV3B5Mlk?oc=5",
+  "published_at": "Sat, 04 Jul 2026 01:25:16 GMT",
+  "published_ts": 1783128316,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aYnlpVXNkaGdfblpINUJLeUNBdkFFQzc0bURSSGFOdG1KcFk1TUJsRDNuY3otSmJFS2pnR0lVSHRWMmlCUWZYS3EtRGhWX0w4WC0yWUlwWjl2WlhldXfSAWNBVV95cUxQVXhENTdEQU56dHdLeFphTnd6WjM5T29iZkdxc3c5OWxLRHdkd3B5Z1lmYmRHcklCNUc4enJGM3lRQUxFTWd0YzlBOUJseVVpb3lkQmg1clBDTlI1SlFHV3B5Mlk?oc=5\" target=\"_blank\">TrendForce: Traditional DRAM Prices Expected to Rise by 13% to 18% in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce forecasts traditional DRAM prices will rise 13-18% in Q3. This is analyst/market research prediction rather than a confirmed event or hard market data, making it soft guidance on future pricing trends."
+  },
+  "buffered_ts": 1783244430.8034842
  }
 ]
