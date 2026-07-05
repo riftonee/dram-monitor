@@ -793,5 +793,173 @@
    "summary": "Samsung Electronics and SK Hynix are approaching earnings releases. Investors are paying attention to their upcoming results, but no concrete event or guidance has been announced yet."
   },
   "buffered_ts": 1783219460.9921076
+ },
+ {
+  "id": "6693dd9e2ab0c6de336282e894e5a1431ce1d556",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SK Hynix eyes $26.5B Nasdaq debut with low 0.5% fee - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUkZMMmtlaHM0bkJQTFBuVFRFVG9wX0o1YzZQTWFaSzNNZ0I5MTU4WHVrSFV1aHlfYUFGTUpuWVVQZjZxbnpOenREWEluWDVRNklyeWpXdGhyUFpEd2U3bDFmMXhDRjZCMmlUQ0d6UjBnMWhIdHZUYk9yMUNERG9ockFOdDVVQUNBUzNXQnRGdDVsVGJRS0hsZlE5bEloeHJCeVFJbENjNHFRUno4VV9TZVROMUpKcjhwMDV1ZUtGckktZlFqWWVWRjFEc1liX2puQUwwTW1DYmFJZHctUXZkaUdVUnZYQQ?oc=5",
+  "published_at": "Sat, 04 Jul 2026 17:09:55 GMT",
+  "published_ts": 1783184995,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUkZMMmtlaHM0bkJQTFBuVFRFVG9wX0o1YzZQTWFaSzNNZ0I5MTU4WHVrSFV1aHlfYUFGTUpuWVVQZjZxbnpOenREWEluWDVRNklyeWpXdGhyUFpEd2U3bDFmMXhDRjZCMmlUQ0d6UjBnMWhIdHZUYk9yMUNERG9ockFOdDVVQUNBUzNXQnRGdDVsVGJRS0hsZlE5bEloeHJCeVFJbENjNHFRUno4VV9TZVROMUpKcjhwMDV1ZUtGckktZlFqWWVWRjFEc1liX2puQUwwTW1DYmFJZHctUXZkaUdVUnZYQQ?oc=5\" target=\"_blank\">SK Hynix eyes $26.5B Nasdaq debut with low 0.5% fee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM holding, is preparing a $26.5B Nasdaq IPO debut with a 0.5% fee. This is a concrete, officially announced capital markets event that materially affects a core portfolio company's structure and accessibility to investors."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "f990b0eabe5cca55d92a77a97823c1770b38f2a9",
+  "source": "AD HOC NEWS",
+  "topic": "holding",
+  "title": "Samsung's Double Narrative: Anthropic's 2nm Inquiry and the Memory Price Surge Collide in an 8% Rebo - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWm5VZjg1bXdOenF6T3NLak9WeEZxalltM2dRMVBDckFrV1V2anNLc2p1OTgwMVdmVUpYWk0xR0d0TGFXYzl1M3BZcVROVjYyeGtDb2VaMG1jMnZ1MFhudG1NOGtfQXNqbGNRejNfVUF2cE11Yk5yVVhrVlNnX1dvbmo2Rm91bWl0NHppSVFoREFkcFFROXA1THFaMEdBdjVuSXFDNlQxUDdxYksxUy0tNHZSOGdXY09DVnBSMEE4UGJCaE9ZS0RmNXJB?oc=5",
+  "published_at": "Sun, 05 Jul 2026 05:23:03 GMT",
+  "published_ts": 1783228983,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWm5VZjg1bXdOenF6T3NLak9WeEZxalltM2dRMVBDckFrV1V2anNLc2p1OTgwMVdmVUpYWk0xR0d0TGFXYzl1M3BZcVROVjYyeGtDb2VaMG1jMnZ1MFhudG1NOGtfQXNqbGNRejNfVUF2cE11Yk5yVVhrVlNnX1dvbmo2Rm91bWl0NHppSVFoREFkcFFROXA1THFaMEdBdjVuSXFDNlQxUDdxYksxUy0tNHZSOGdXY09DVnBSMEE4UGJCaE9ZS0RmNXJB?oc=5\" target=\"_blank\">Samsung's Double Narrative: Anthropic's 2nm Inquiry and the Memory Price Surge Collide in an 8% Rebo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's stock rebounded 8% amid two narratives: Anthropic's inquiry regarding 2nm chip technology and a memory price surge. The price surge is relevant to the memory cycle, but the 8% move is attributed to market digestion of these factors rather than a concrete new event. Anthropic's 2nm inquiry is speculative and not yet a confirmed order or deal. The memory price surge element is material but lacks specific pricing data or confirmation of magnitude."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "136ee2296b7483334f720e0f83cb7ae4bb7fe96d",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Unfazed by pullbacks! UBS Group raises SK Hynix's target price, forecasting 'three major catalysts' ahead - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlBEb1d3Wl9MRVNscU56bnZaMS1tRkh0NzhTNW9WYVV0cjA4eWNJQk5fWGxwdGtlaFVSMG4zRUhib1l5LUNnXzI1bkRsWnZ1c3BXbEViZHJ6RzI5U2FZMTBDUnJRN3lpTzVBeVpuT052ODExZjcxdHpOMGZUVnRMdTJ0UG9xVHRpd3FVbnJyOWF3emd4X2NsR2FUaE4?oc=5",
+  "published_at": "Sun, 05 Jul 2026 03:04:01 GMT",
+  "published_ts": 1783220641,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlBEb1d3Wl9MRVNscU56bnZaMS1tRkh0NzhTNW9WYVV0cjA4eWNJQk5fWGxwdGtlaFVSMG4zRUhib1l5LUNnXzI1bkRsWnZ1c3BXbEViZHJ6RzI5U2FZMTBDUnJRN3lpTzVBeVpuT052ODExZjcxdHpOMGZUVnRMdTJ0UG9xVHRpd3FVbnJyOWF3emd4X2NsR2FUaE4?oc=5\" target=\"_blank\">Unfazed by pullbacks! UBS Group raises SK Hynix's target price, forecasting 'three major catalysts' ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "UBS raises SK Hynix target price and forecasts three major catalysts ahead. Analyst price-target upgrade on a core holding; lacks concrete event details but represents professional reassessment of the stock's prospects."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "91cd5db59e39398a413e15d4c396f6046dde9d5c",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Weekend Reading | SK Hynix Targets Nasdaq: Is the AI Era’s Ultimate 'Shovel Seller' Here? - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUlUUVN3aHdzNjA5UjRfeEFTTzEtU3oxcHA3N2xPZlAySDk3RnViOG1sRXk1Y0tFYnpKX3QtSWNuWjFVT0NEM05xZGllQnVvXzdlSnNiZ0gtZms3cDRjY3VZbDdjVGtfVWx1bDh5S2RBYzNMOTFGTi1ka3JIaWV4aU0tUDhyajV6RU1fM1Z4Z2pOMXdGclRxQ2JR?oc=5",
+  "published_at": "Sun, 05 Jul 2026 03:49:38 GMT",
+  "published_ts": 1783223378,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUlUUVN3aHdzNjA5UjRfeEFTTzEtU3oxcHA3N2xPZlAySDk3RnViOG1sRXk1Y0tFYnpKX3QtSWNuWjFVT0NEM05xZGllQnVvXzdlSnNiZ0gtZms3cDRjY3VZbDdjVGtfVWx1bDh5S2RBYzNMOTFGTi1ka3JIaWV4aU0tUDhyajV6RU1fM1Z4Z2pOMXdGclRxQ2JR?oc=5\" target=\"_blank\">Weekend Reading | SK Hynix Targets Nasdaq: Is the AI Era’s Ultimate 'Shovel Seller' Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix considering a Nasdaq listing. This is strategic news about a major DRAM holding, but represents exploration/consideration rather than a confirmed decision or imminent event. Relevant to fund holdings but not yet a concrete development."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "088859279d235c1ca8b6e33905e599c1ff237c4a",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix eyeing 0.5% fee rate in Nasdaq debut (SKHY:Pending) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU29WNGE0dDVaeDkwdGcwZHhEZkw3OGttbnBoTFVURkFlclc1d3dnOXd1QUdicjdDdF9VNFBFSTl4dFhqV0VrbDFNV2ZPWWVEYU9aNUhQbUE1djNwRHdCaUZCS3NGa014dUVUTnMzU21VV21nZzNkcmY5TWJDMzBIR2hGN1pmdWs0?oc=5",
+  "published_at": "Sat, 04 Jul 2026 17:01:56 GMT",
+  "published_ts": 1783184516,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU29WNGE0dDVaeDkwdGcwZHhEZkw3OGttbnBoTFVURkFlclc1d3dnOXd1QUdicjdDdF9VNFBFSTl4dFhqV0VrbDFNV2ZPWWVEYU9aNUhQbUE1djNwRHdCaUZCS3NGa014dUVUTnMzU21VV21nZzNkcmY5TWJDMzBIR2hGN1pmdWs0?oc=5\" target=\"_blank\">SK Hynix eyeing 0.5% fee rate in Nasdaq debut (SKHY:Pending)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is preparing for a Nasdaq listing (ticker SKHY pending) with a target 0.5% fee rate. This is a corporate action for a major DRAM fund holding, but the news is procedural rather than a concrete market event—the IPO itself is still forthcoming and details like the fee rate are preliminary guidance, not a settled transaction."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "6a815a2121f5face91e647e961ef1e147e5068fe",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "NPS trims Samsung, adds SK hynix in rebalancing - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yXzBFRnFlQ0pwem1xa0V4NlM5TXVLQXRTbUIwR1BrU1FtVHZNMWw4d0tweUNCTkpzNkpUeTBrQTBBMHc4TmFrcnhfVXNOOHphZlA2a3F5bw?oc=5",
+  "published_at": "Sun, 05 Jul 2026 05:38:40 GMT",
+  "published_ts": 1783229920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yXzBFRnFlQ0pwem1xa0V4NlM5TXVLQXRTbUIwR1BrU1FtVHZNMWw4d0tweUNCTkpzNkpUeTBrQTBBMHc4TmFrcnhfVXNOOHphZlA2a3F5bw?oc=5\" target=\"_blank\">NPS trims Samsung, adds SK hynix in rebalancing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "National Pension Service (NPS) rebalances holdings by reducing Samsung position and increasing SK hynix position. While both are fund holdings, this is a passive rebalancing action by a large institutional investor rather than a concrete market event or new information about the companies' memory businesses or financial performance."
+  },
+  "buffered_ts": 1783233504.0073965
+ },
+ {
+  "id": "82cc2ee5c75b6d88f95f273ddd901188b514f677",
+  "source": "inkl",
+  "topic": "pricing",
+  "title": "Memory price surge begins to cool as consumers hit… - inkl",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdUwtMG02NThzLVVTWnZzRFB2SE1MODFlNU9NSmNfaExjcnUzXzRTbUxlQXFHWl9nTzVPUTd2MERYRDREOUkzUjRKUVZRN29vRjFGdGltb0d5T3hkSmdyQkg2YVBDaUFCRmNDOTZTTjU0YWFmS2VxQmNoYjIwMUpoOFNDNzZTblZsOEx1a3hDZndRSGhHVDdZN2NkVjN0Y2I4aHBpSi1oOVJEMUlpNGxDbFB5YmN6b3RXUUJvSkN2TUMyeV91SUFRc2VSTWtYWTdzbmVsSHczemZMd1VYSGhpY0RVZTFrWEVNNFpybExOVmhITy1nUkNB?oc=5",
+  "published_at": "Sat, 04 Jul 2026 11:47:34 GMT",
+  "published_ts": 1783165654,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdUwtMG02NThzLVVTWnZzRFB2SE1MODFlNU9NSmNfaExjcnUzXzRTbUxlQXFHWl9nTzVPUTd2MERYRDREOUkzUjRKUVZRN29vRjFGdGltb0d5T3hkSmdyQkg2YVBDaUFCRmNDOTZTTjU0YWFmS2VxQmNoYjIwMUpoOFNDNzZTblZsOEx1a3hDZndRSGhHVDdZN2NkVjN0Y2I4aHBpSi1oOVJEMUlpNGxDbFB5YmN6b3RXUUJvSkN2TUMyeV91SUFRc2VSTWtYWTdzbmVsSHczemZMd1VYSGhpY0RVZTFrWEVNNFpybExOVmhITy1nUkNB?oc=5\" target=\"_blank\">Memory price surge begins to cool as consumers hit…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "inkl"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "DRAM spot prices are cooling after a surge, indicating a moderation in the memory pricing cycle as consumer demand softens. This is relevant pricing intelligence but lacks specific price levels or a concrete catalyst, making it soft rather than a confirmed event."
+  },
+  "buffered_ts": 1783233504.0073965
  }
 ]
