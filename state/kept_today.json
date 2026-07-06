@@ -1598,5 +1598,557 @@
    "summary": "Western Digital (WDC), a DRAM ETF holding, experienced a sharp share price move. Article mentions the move but provides no concrete catalyst or new material information — it is a price-action summary without underlying news that would drive memory demand or WDC's fundamentals."
   },
   "buffered_ts": 1783358495.658377
+ },
+ {
+  "id": "c3f99e7c05eeab346a4072a6023467e4bdaa5f6b",
+  "source": "StorageReview.com",
+  "topic": "holding",
+  "title": "SK hynix Pours KRW 100 Trillion ($65B USD) Into Cheongju as AI Pushes NAND Demand Past Supply - StorageReview.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRF9jdVpQcGpYaHJITV93dnYxemU2QXNmVF9HY0ZmdU9jSENiRkEwX0hyWVpLSWJhQ01SU1pYMUtuNFJBNUVESDkwUFNIaDAxbTMwY2tFMjZOMWhXYjVteFFQcjV4OGhJTl9nSzB2QW84OUlPWVdQdndINm9NRjB2UUNzbmlnNHNTcE9kVkVXOUlORERjNjRPQnItTmJhc2l2V2JMUmlFWElFMEFmLWFyQWoxUEh3WkhuM3RnOWRraGg3NjjSAcgBQVVfeXFMT3NPQm4wRGdjWXlLN0cwVGFvTjI4N2RQTHJjRU5LaHltVlFzVXRBNEk1cUFBMkNIdEhpZV9ORi16WWdxRmFDVFpRZExpbkhxMWpJN1EzNUJIMllmN3pNb19JT3FaM0lrZXdpWjNMNl9GNy0zYzJVdVJac0FaaTlGTzE5N19nS2FwRUo3SXdub18takFudlN0dmIxNXR2QmxTb1BSaDhGWjNzVmoyWDh6MG1RRzlCb0V4VmVHRVF2OE4zMVB3cktHZEE?oc=5",
+  "published_at": "Mon, 06 Jul 2026 16:28:36 GMT",
+  "published_ts": 1783355316,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRF9jdVpQcGpYaHJITV93dnYxemU2QXNmVF9HY0ZmdU9jSENiRkEwX0hyWVpLSWJhQ01SU1pYMUtuNFJBNUVESDkwUFNIaDAxbTMwY2tFMjZOMWhXYjVteFFQcjV4OGhJTl9nSzB2QW84OUlPWVdQdndINm9NRjB2UUNzbmlnNHNTcE9kVkVXOUlORERjNjRPQnItTmJhc2l2V2JMUmlFWElFMEFmLWFyQWoxUEh3WkhuM3RnOWRraGg3NjjSAcgBQVVfeXFMT3NPQm4wRGdjWXlLN0cwVGFvTjI4N2RQTHJjRU5LaHltVlFzVXRBNEk1cUFBMkNIdEhpZV9ORi16WWdxRmFDVFpRZExpbkhxMWpJN1EzNUJIMllmN3pNb19JT3FaM0lrZXdpWjNMNl9GNy0zYzJVdVJac0FaaTlGTzE5N19nS2FwRUo3SXdub18takFudlN0dmIxNXR2QmxTb1BSaDhGWjNzVmoyWDh6MG1RRzlCb0V4VmVHRVF2OE4zMVB3cktHZEE?oc=5\" target=\"_blank\">SK hynix Pours KRW 100 Trillion ($65B USD) Into Cheongju as AI Pushes NAND Demand Past Supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StorageReview.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StorageReview.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix officially announces KRW 100 trillion (~$65B USD) investment in Cheongju facility to expand NAND capacity in response to AI-driven demand surge exceeding supply. This is a concrete, material capital commitment by a major fund holding that directly addresses memory supply dynamics."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "ab534a8fc0d9f76f09b09c00bdf712bf91476598",
+  "source": "Mezha",
+  "topic": "pricing",
+  "title": "Samsung is raising DRAM prices by up to 20 per cent in the third quarter of this year - Mezha",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXpRME1RVFFKVFp4eDNKUXFPck9jV1BqbHVqczNkLXI4RGZ0UXVBb1JibFB0MVd2TlZ4amRVVHYtcThWcXdtek1Cb0E1U3lmODdrWlFhZUhOVjhHS05ieXR0Smc5c21CclF4Z3diNGZtTTNTUFNiZG5xUk41bm45QkJn0gGCAUFVX3lxTE1lelEwTVFUUUpUWnh4M0pRcU9yT2NXUGpsdWpzM2QtcjhEZnRRdUFvUmJsUHQxV3ZOVnhqZFVUdi1xOFZxd216TUJvQTVTeWY4N2taUWFlSE5WOEdLTmJ5dHRKZzlzbUJyUXhnd2I0Zm1NM1NQU2JkbnFSTjVubjlCQmc?oc=5",
+  "published_at": "Sat, 04 Jul 2026 20:55:00 GMT",
+  "published_ts": 1783198500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXpRME1RVFFKVFp4eDNKUXFPck9jV1BqbHVqczNkLXI4RGZ0UXVBb1JibFB0MVd2TlZ4amRVVHYtcThWcXdtek1Cb0E1U3lmODdrWlFhZUhOVjhHS05ieXR0Smc5c21CclF4Z3diNGZtTTNTUFNiZG5xUk41bm45QkJn0gGCAUFVX3lxTE1lelEwTVFUUUpUWnh4M0pRcU9yT2NXUGpsdWpzM2QtcjhEZnRRdUFvUmJsUHQxV3ZOVnhqZFVUdi1xOFZxd216TUJvQTVTeWY4N2taUWFlSE5WOEdLTmJ5dHRKZzlzbUJyUXhnd2I0Zm1NM1NQU2JkbnFSTjVubjlCQmc?oc=5\" target=\"_blank\">Samsung is raising DRAM prices by up to 20 per cent in the third quarter of this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mezha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung announced a DRAM price increase of up to 20% for Q3, a concrete pricing action that signals market tightening and is a leading indicator for memory-semiconductor demand and profitability across holdings."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "311eda4058d4992aa4598e2ab904f203ba4b0e9a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Chipmaker Hynix’s $28 Billion Listing Is Testing Investor Appetite - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1lZR0E5MG5nZ01laWZrZTB0VTlCTnNZT043RV9TRl8xWklBVzlqNFVERmFDR1pfZGRmMm9yMWJ1bDAzLTkzZ1lPM2pPVHkxZHJQZ3l0WERndjJKbnVJNDV6WEs1N1pjZlQyUGtnem52c0hydmlsalRVU3NRVXQxeHdzMnlIekg0SW5JbFo0Umw4VU4tVlBFeWg2ZTNRd196?oc=5",
+  "published_at": "Mon, 06 Jul 2026 16:13:41 GMT",
+  "published_ts": 1783354421,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1lZR0E5MG5nZ01laWZrZTB0VTlCTnNZT043RV9TRl8xWklBVzlqNFVERmFDR1pfZGRmMm9yMWJ1bDAzLTkzZ1lPM2pPVHkxZHJQZ3l0WERndjJKbnVJNDV6WEs1N1pjZlQyUGtnem52c0hydmlsalRVU3NRVXQxeHdzMnlIekg0SW5JbFo0Umw4VU4tVlBFeWg2ZTNRd196?oc=5\" target=\"_blank\">Chipmaker Hynix’s $28 Billion Listing Is Testing Investor Appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix is conducting a $28 billion listing, a major capital market event for a core DRAM fund holding. This concrete corporate action directly affects shareholder structure and fund composition."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "8270ae91c929b00bac201354c12638122b9b29fd",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUNvV2V6RXlrZFkwOXpneE9HZG43MzAwWmdkR1BDRjV2d09DNHR4Z0VIZUpTVEtLZkZ1dk5tRFpjeVFXXy02aUFuT2l3Tkt4RWltQkxfalF6eTV2bUZ6RW82NmRGYUZQcnZNWGhvNjlzOE5vQXI4T3hSS0JuNDRXaE41YnZEUDk1cmlRMnFlaXJLSmVzWmZRS2lxRmpzczhaZjZaNHVwX2JZU0xXcFpj?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:43:12 GMT",
+  "published_ts": 1783359792,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUNvV2V6RXlrZFkwOXpneE9HZG43MzAwWmdkR1BDRjV2d09DNHR4Z0VIZUpTVEtLZkZ1dk5tRFpjeVFXXy02aUFuT2l3Tkt4RWltQkxfalF6eTV2bUZ6RW82NmRGYUZQcnZNWGhvNjlzOE5vQXI4T3hSS0JuNDRXaE41YnZEUDk1cmlRMnFlaXJLSmVzWmZRS2lxRmpzczhaZjZaNHVwX2JZU0xXcFpj?oc=5\" target=\"_blank\">Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has officially initiated a $28 billion US listing, a concrete capital-markets development for a major DRAM fund holding. This is a material corporate event that affects the company's structure and investor base."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "ee32ff3648b63349efe7cc7fb9f4230f12c7dcf8",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "SK Hynix Trims Fundraising Target for U.S. Listing to $28 Billion - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQU04eUpheGRteEFMZXdldUVrZkFYbmU5U280YThNa0s0QjhOUEZETVB3NTh5N2ppZHpxMFBsbnBtWGNWZklhbDl2QUdfQkt4dFpBLUxhaS1DdFYxWmg1OWVabmk4ZGNUbnFjbnQwTVg2SHR0N0VuemtCREZtLTJuVXYybHFma2FvcjdQTUViODg0eHdQcG1Gano0R1pTUQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 10:58:00 GMT",
+  "published_ts": 1783335480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQU04eUpheGRteEFMZXdldUVrZkFYbmU5U280YThNa0s0QjhOUEZETVB3NTh5N2ppZHpxMFBsbnBtWGNWZklhbDl2QUdfQkt4dFpBLUxhaS1DdFYxWmg1OWVabmk4ZGNUbnFjbnQwTVg2SHR0N0VuemtCREZtLTJuVXYybHFma2FvcjdQTUViODg0eHdQcG1Gano0R1pTUQ?oc=5\" target=\"_blank\">SK Hynix Trims Fundraising Target for U.S. Listing to $28 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has officially trimmed its U.S. listing fundraising target from a higher initial goal to $28 billion. This is a concrete, material corporate action by a major DRAM ETF holding that signals a shift in capital-raise strategy and market conditions; it represents an actual decision with potential implications for the company's capex and competitive positioning in memory manufacturing."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "caae09ba99c2f1e8d08f498a69706ac1ce57ae75",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "SK Hynix to list on Nasdaq on Friday - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXVCTHNfRnZESl8wLXNGXzdIMUpyamN5NmxWSURzVXE3RW5fZjhWOUVVc09scG5LTXB2QWY5dlJKOUZJV0VlSlJSUkJ4d1R2VEpJbENCM3NLT0l0SHZCMDdXdnV1SmM1STJ0NU1kc3RhdkIxdERFVkplNGJyMU4yTU1pZkwtUQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 14:46:00 GMT",
+  "published_ts": 1783349160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXVCTHNfRnZESl8wLXNGXzdIMUpyamN5NmxWSURzVXE3RW5fZjhWOUVVc09scG5LTXB2QWY5dlJKOUZJV0VlSlJSUkJ4d1R2VEpJbENCM3NLT0l0SHZCMDdXdnV1SmM1STJ0NU1kc3RhdkIxdERFVkplNGJyMU4yTU1pZkwtUQ?oc=5\" target=\"_blank\">SK Hynix to list on Nasdaq on Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major holding in the DRAM ETF, is listing on Nasdaq on Friday. This is a concrete, material corporate event—a significant milestone for one of the fund's core memory-semiconductor holdings that affects its trading and accessibility in US markets."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "ad04e1c56bd978b844560e524c2c5eb9c5557182",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "SK Hynix’s Offering Attracts $7B Interest From Investment Firms – This Investor Believes Demand Will ‘Remain Relatively Robust’ - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeE9jaTBWb1BsUFBxMHVKMUpUSFE1UHRucU8xbS1GMWFBbDlhSGJ4X0dIajA2Z2Z2cFVsVHJSTDhFSjlxWm43M1lDTnI0NXg4dGlqMmQ2dzR5M2lzQXkyQ0FWZzZDRVhNSU5Gc1FjZEVGc2VOeGtFNU5NSlc0YzJDUnlGc1RTOXpld2V1d1ZiVWRoWXVXaFh3d09GRUlWVW5rUno4VUZtdEpPYkxhbVBYSENaMTVZalNyMTlVcmZWRHA4UFdCTjF2cHdmQ2c?oc=5",
+  "published_at": "Mon, 06 Jul 2026 13:03:00 GMT",
+  "published_ts": 1783342980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeE9jaTBWb1BsUFBxMHVKMUpUSFE1UHRucU8xbS1GMWFBbDlhSGJ4X0dIajA2Z2Z2cFVsVHJSTDhFSjlxWm43M1lDTnI0NXg4dGlqMmQ2dzR5M2lzQXkyQ0FWZzZDRVhNSU5Gc1FjZEVGc2VOeGtFNU5NSlc0YzJDUnlGc1RTOXpld2V1d1ZiVWRoWXVXaFh3d09GRUlWVW5rUno4VUZtdEpPYkxhbVBYSENaMTVZalNyMTlVcmZWRHA4UFdCTjF2cHdmQ2c?oc=5\" target=\"_blank\">SK Hynix’s Offering Attracts $7B Interest From Investment Firms – This Investor Believes Demand Will ‘Remain Relatively Robust’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix secondary offering attracted $7B in investor interest; an investor commented that memory demand will remain relatively robust. This is relevant as SK Hynix is a major DRAM fund holding, but the story is primarily about capital-raising sentiment and forward-looking investor opinion rather than a concrete market development or new demand/supply data."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "8cad1129895a9b3c32b620b11f5b91b9877ba0c6",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Memory Sector's Three Scares Overblown? BofA Says AI Demand Myth Intact; Samsung Q2 Profit Seen Surging 18-Fold - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nMGFRTWREeVA0NVprS3RpRDNLM0lMUUxXcDhBcGNsczJyYXc0XzUwUlZmeGktVzdBUXBwUnJ3RlFIcEVkalVaZ1hYeXN1cEQzODFqN2twV2hQVjR5TUlrSG9NVXBqLXZ1ZXBIekVMUnlLMnNDR1E?oc=5",
+  "published_at": "Mon, 06 Jul 2026 10:49:00 GMT",
+  "published_ts": 1783334940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9nMGFRTWREeVA0NVprS3RpRDNLM0lMUUxXcDhBcGNsczJyYXc0XzUwUlZmeGktVzdBUXBwUnJ3RlFIcEVkalVaZ1hYeXN1cEQzODFqN2twV2hQVjR5TUlrSG9NVXBqLXZ1ZXBIekVMUnlLMnNDR1E?oc=5\" target=\"_blank\">Memory Sector's Three Scares Overblown? BofA Says AI Demand Myth Intact; Samsung Q2 Profit Seen Surging 18-Fold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "BofA analyst commentary that AI demand for memory remains robust despite sector concerns; Samsung Q2 profit forecast of 18-fold surge. This is forward-looking analyst opinion and earnings-expectation framing rather than a confirmed event or concrete development, placing it at impact 3."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "c8e2518e64cd70469da17c6a100ada074637421b",
+  "source": "International Business Times",
+  "topic": "holding",
+  "title": "SK Hynix Is Seeking To Capitalize The AI Boom Through One of The Biggest Tech Listings Ever - International Business Times",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFdST2FwUXh1aXRrNlUzN3NSNXBjZzJvV0hXWC1zMHAzUkI3Z0RwclliR2VjZzVUa1VGdHNUanpEX3BWVHR2dE04WWplSFowQnI1SjJwMy1KV0VneFVmRTNNbWIzVEFtck9OcEJ2UVVlb2hSbi1NUnRVOTFMNjRMQW80blk0UzVjM1EwWTZheWdwbjhuWmJPdXhIdFNwMjZoVW1pd0xxVFdqQQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:30:17 GMT",
+  "published_ts": 1783359017,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFdST2FwUXh1aXRrNlUzN3NSNXBjZzJvV0hXWC1zMHAzUkI3Z0RwclliR2VjZzVUa1VGdHNUanpEX3BWVHR2dE04WWplSFowQnI1SjJwMy1KV0VneFVmRTNNbWIzVEFtck9OcEJ2UVVlb2hSbi1NUnRVOTFMNjRMQW80blk0UzVjM1EwWTZheWdwbjhuWmJPdXhIdFNwMjZoVW1pd0xxVFdqQQ?oc=5\" target=\"_blank\">SK Hynix Is Seeking To Capitalize The AI Boom Through One of The Biggest Tech Listings Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "International Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is pursuing a major tech listing (likely a subsidiary or spinoff) to capitalize on AI-driven memory demand. This signals the company's strategic positioning around AI infrastructure but is a plan/pursuit rather than a confirmed event or concrete development yet."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "247b939fffe4d6e071d39f2cce3583309ce21aec",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Hybrid Bonding Was HBM4’s Headline Upgrade, Yet Samsung and SK hynix May Sideline it Over Relaxed JEDEC rules - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU5jd08tRjFLblN1M2ZYdjNoVzlWZVZTMGlKWVZWdHVXcG5BeHdreWlEOGx1c1g1Z3QtaXk2V251NFc1c0IzT0UtYm9KQ2tCcnVSNnFLeG4zbGxiNlplLVA1Q3VkNGIzTU80SEQ3dGY3OHh6Mmh1LVY4THJWTzNfbFRIVzVjUkc1VmhjTWhVZ2t0YjcxU2Fmc0pUdmVYcXFZUGgtZ19KWFNWUGsxTm9ILVQ2NFdja3hyQi1qSl9meUtoaUUxT0JpWtIBzgFBVV95cUxQMU5FaXM1cFhXUWExYXY0dEJUX3Y5QUtyY0c3RGFaR2hPdGdUcFRXdjR0WEJ6WmQyeFg4Smx3bGlYbjR5M05fOFZsbUFvWFo5aTVzZVRyZG1YRXlxSVdnZ0tmM3J6RXpCU2FBNUg0NjZYdlVBMWVGRzRJcXVaM0pZWjJtaEVteHpoRUJMYTdNY2RDeGxFWXNrZ0FEZkVweFFtY1ktNnZJRm5ZeFBrYzB0UXhpMjBaVkRqNWkzR2JUTC1fWTFTLUZlX2ZzTEJZQQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:30:05 GMT",
+  "published_ts": 1783362605,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU5jd08tRjFLblN1M2ZYdjNoVzlWZVZTMGlKWVZWdHVXcG5BeHdreWlEOGx1c1g1Z3QtaXk2V251NFc1c0IzT0UtYm9KQ2tCcnVSNnFLeG4zbGxiNlplLVA1Q3VkNGIzTU80SEQ3dGY3OHh6Mmh1LVY4THJWTzNfbFRIVzVjUkc1VmhjTWhVZ2t0YjcxU2Fmc0pUdmVYcXFZUGgtZ19KWFNWUGsxTm9ILVQ2NFdja3hyQi1qSl9meUtoaUUxT0JpWtIBzgFBVV95cUxQMU5FaXM1cFhXUWExYXY0dEJUX3Y5QUtyY0c3RGFaR2hPdGdUcFRXdjR0WEJ6WmQyeFg4Smx3bGlYbjR5M05fOFZsbUFvWFo5aTVzZVRyZG1YRXlxSVdnZ0tmM3J6RXpCU2FBNUg0NjZYdlVBMWVGRzRJcXVaM0pZWjJtaEVteHpoRUJMYTdNY2RDeGxFWXNrZ0FEZkVweFFtY1ktNnZJRm5ZeFBrYzB0UXhpMjBaVkRqNWkzR2JUTC1fWTFTLUZlX2ZzTEJZQQ?oc=5\" target=\"_blank\">Hybrid Bonding Was HBM4’s Headline Upgrade, Yet Samsung and SK hynix May Sideline it Over Relaxed JEDEC rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix may deprioritize hybrid bonding technology in HBM4 production due to relaxed JEDEC specifications, potentially affecting HBM roadmap and competitive positioning but remaining speculative about actual production decisions."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "185edf8b15b617667df0173cf009b6750058bd01",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SK Hynix and Samsung Have a $2 Trillion Warning for Micron Stock Investors. Is This a Signal to Sell? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ09aZ0VIYThkMEwzNW1SQ2xIdTFQOTlteTRYdDVkZjJ3N2p3NnVIM0h0WmlVRGVWc2E0QlFvN3N4aFJESW03NmVwWm1GRFB2RGZGUVMzX1hBSC1WZGx5cmUyY1ZGVjRzWTJhUUk4eVk1TU9Hd0l1Sm1GNDA2VnpzQWdzWHN5ak5BekFwNnBaY3VmR2VvWmo1bA?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:23:54 GMT",
+  "published_ts": 1783362234,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ09aZ0VIYThkMEwzNW1SQ2xIdTFQOTlteTRYdDVkZjJ3N2p3NnVIM0h0WmlVRGVWc2E0QlFvN3N4aFJESW03NmVwWm1GRFB2RGZGUVMzX1hBSC1WZGx5cmUyY1ZGVjRzWTJhUUk4eVk1TU9Hd0l1Sm1GNDA2VnpzQWdzWHN5ak5BekFwNnBaY3VmR2VvWmo1bA?oc=5\" target=\"_blank\">SK Hynix and Samsung Have a $2 Trillion Warning for Micron Stock Investors. Is This a Signal to Sell?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "The Motley Fool commentary on SK hynix and Samsung's $2 trillion warning and its implications for Micron stock investors. This is analyst opinion and interpretation of competitive dynamics rather than a concrete event or confirmed development affecting Micron or the memory cycle directly."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "66e33d716cfc6bf69d9b53a3e3982f1be58b313d",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Memory Price Surge Shows Signs of Cooling: Q3 DRAM, NAND Growth Forecast in Late Teens - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAteEV5eE1udzhuNGtMV3RCWDVxNU5sMU1WT190a2twUzRtVWpaTFFvcUptdEpYVFdPTGN1WTFNRmo0dTB3YkdNczhtMUo5ZXFESGNWTk11SU5FbG5DQnJXaGNVbkJZMlp1QUJWdnFaSFFOdm54Smc?oc=5",
+  "published_at": "Mon, 06 Jul 2026 09:45:00 GMT",
+  "published_ts": 1783331100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAteEV5eE1udzhuNGtMV3RCWDVxNU5sMU1WT190a2twUzRtVWpaTFFvcUptdEpYVFdPTGN1WTFNRmo0dTB3YkdNczhtMUo5ZXFESGNWTk11SU5FbG5DQnJXaGNVbkJZMlp1QUJWdnFaSFFOdm54Smc?oc=5\" target=\"_blank\">Memory Price Surge Shows Signs of Cooling: Q3 DRAM, NAND Growth Forecast in Late Teens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report on Q3 DRAM and NAND pricing growth forecasts in the late teens percentage range, with indications that the memory price surge is cooling. This is relevant pricing analysis but represents a forecast/analyst view rather than a confirmed hard number or transaction, placing it at impact 3."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "cd3e611d546a5767444babc2e5e1cbf82681e073",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Goldman Sachs Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,200 - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzduVEJLdW5GN2M4bEtlOXlnMHJHaGVHN1RsTTVLMTFvcU5Zd2k0UGVWeFZUNnJVU2RwNkZURjJ6akM1Z2J2MlQ2U0tYWE9kQVlaZTM3TVFTdHZJSFZscFV2Y0F4cjBDRndFaHlRN0E4RWtILVNGTk9yZmw2Zjg5S1dQUjd3VnE4WjFpQjlrbnYzODJoTFF3VDhQb0dJRzVEMFFFN3ZYVFRnanltTHc?oc=5",
+  "published_at": "Mon, 06 Jul 2026 12:44:06 GMT",
+  "published_ts": 1783341846,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzduVEJLdW5GN2M4bEtlOXlnMHJHaGVHN1RsTTVLMTFvcU5Zd2k0UGVWeFZUNnJVU2RwNkZURjJ6akM1Z2J2MlQ2U0tYWE9kQVlaZTM3TVFTdHZJSFZscFV2Y0F4cjBDRndFaHlRN0E4RWtILVNGTk9yZmw2Zjg5S1dQUjd3VnE4WjFpQjlrbnYzODJoTFF3VDhQb0dJRzVEMFFFN3ZYVFRnanltTHc?oc=5\" target=\"_blank\">Goldman Sachs Maintains SanDisk(SNDK.US) With Buy Rating, Raises Target Price to $2,200</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Goldman Sachs maintains Buy rating on SanDisk (SNDK), a fund holding, and raises price target to $2,200. This is analyst commentary and a target-price change, not a concrete event or new fundamental catalyst; it reflects analyst sentiment but does not constitute market-moving new information about the company's operations or the memory cycle."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "8d65f990dee2f7e2dedd288559656a8eb3408b56",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnRicXNFN3BabmtBaXEyMkV4b0ZNY0xzNDNsMndubndtVHU2blpxUG1ieHp6dVRKWGhTYU5tVVNBMXlFbWtWbzhvMlozQXU0MmpqblA5Wkw0c19Kby10cnpSVUsybzRnSzViNEFCZGxHcnU3a3h6VWdvdk9VTTR6LUtJVEt1TXFZUGh1TklMek01QlVfN0s2NXZRemlTSlJXeERrYnVQS0w5YTBJallaQ3dxOGd2T3c1U29acUcxaUZ1alJo?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:48:43 GMT",
+  "published_ts": 1783360123,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnRicXNFN3BabmtBaXEyMkV4b0ZNY0xzNDNsMndubndtVHU2blpxUG1ieHp6dVRKWGhTYU5tVVNBMXlFbWtWbzhvMlozQXU0MmpqblA5Wkw0c19Kby10cnpSVUsybzRnSzViNEFCZGxHcnU3a3h6VWdvdk9VTTR6LUtJVEt1TXFZUGh1TklMek01QlVfN0s2NXZRemlTSlJXeERrYnVQS0w5YTBJallaQ3dxOGd2T3c1U29acUcxaUZ1alJo?oc=5\" target=\"_blank\">Semi Stocks Gain Ahead Of Samsung Earnings And SK Hynix US Listing; Yields Ease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Semiconductor stocks, including Samsung and SK Hynix (both DRAM ETF holdings), are rising ahead of Samsung earnings and SK Hynix's US listing. This is market anticipation and positioning rather than a concrete event or confirmed catalyst—earnings have not yet been reported and the listing is still upcoming. Stock gains driven by forward-looking sentiment qualify as impact 3 rather than 4-5."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "f14784da7e12cdeb861542fd06059c7952766f2c",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SanDisk Shares Jump After Goldman Unleashes 80% Price Target Hike - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3luSnZQZzNfVjUxZ25ReFR4X09kQnM1elhpZzBOQzFmTmF5NlJuaUtfR0RlTHJUOE1zcFFfVVdTdGw3c0JKRnpaTks0Um5iUjhKckhmNzdTUmxOZW9EY0JxNTBaRi1TZXRheFMzSFR6a0lCZXgyZHYwR3gzdUJWbUphcGZjVmhLYXdMWUU4VmprQVBtc2haYnhmVEtHRnRhaElfX3AtQ2FXSHhiZVBVSUk4Y3dxQVk3MlV3Q3VtZlhDQQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:46:57 GMT",
+  "published_ts": 1783360017,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3luSnZQZzNfVjUxZ25ReFR4X09kQnM1elhpZzBOQzFmTmF5NlJuaUtfR0RlTHJUOE1zcFFfVVdTdGw3c0JKRnpaTks0Um5iUjhKckhmNzdTUmxOZW9EY0JxNTBaRi1TZXRheFMzSFR6a0lCZXgyZHYwR3gzdUJWbUphcGZjVmhLYXdMWUU4VmprQVBtc2haYnhmVEtHRnRhaElfX3AtQ2FXSHhiZVBVSUk4Y3dxQVk3MlV3Q3VtZlhDQQ?oc=5\" target=\"_blank\">SanDisk Shares Jump After Goldman Unleashes 80% Price Target Hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWJfM292WndibEgxM0huR2x2T3o1dkxlNkFsYUdRYWlKTkdxd2pkWjl2eENiQUxjYWltYVhRUFc3Z3lONVVsZFFuRlNGa2VnNm1XQjkydXdWV1c0N1B2ZmpVOVpCZl9UczdxLWlGVTZscXJfRGc2c2I0RDQtYWRJSzZVaVdjYk5Lb01ZRG0wM1RpRVQ2YnlUTg?oc=5\" target=\"_blank\">Sandisk: The 0.08x PEG Is Correct, But It May Not Last (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2h3akotLVNMMzYxZGNmZlVWMTBydV9vdUQwQmp6M0hHNG5YUjd4eWNKaGJpako0YkY1em52OHZMN29taHU2eVp3VHozbGxiYmVycGdvT3B0a1R4M1lMOUxrZzVUZWRiRlM1UWtQR3ZJUnhJdTd5LUVFVjZSaFRzZmU5RVEwMExXNXdJVllhMXNrRE5keEVrS1d3UG1TV0hCTHpHaVpn?oc=5\" target=\"_blank\">Bernstein Lifts PT on Sandisk Corporation (SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Goldman Sachs raised its price target on SanDisk by 80%, triggering a stock price increase. This is an analyst action reflecting market sentiment but does not represent a new concrete development about the company's business, memory demand, or financial results."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "554307790fd90cb4f9ee837f6424d422cf01a6bb",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Why SanDisk, Intel stocks will lead the tech rebound into earnings season - MSN",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZW5wdWVBRWZiWjRWTUZlQmpndUlKZS1ZYkEzdlR1b0hVRmU4X0dfWS0wbUxBYWRqN1RaNVpucFg4VjZYOW0xT2Vua0lTNWtoUVo4cXJSZlE1ZzI3UV9mMXJtU0x4SzR1RkpDTVBaYklxb3VrMm1QcjJ5SnpsdjBiT3N4SEQ2RjFzRTlhS2FLN2ZzUndueWVXSDBYMGdTNWFVOUZ3dkVKVkhnaHdWem9YYVZhalp0ekhvM3hnV1VUaW1YdVVl?oc=5",
+  "published_at": "Mon, 06 Jul 2026 11:47:40 GMT",
+  "published_ts": 1783338460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZW5wdWVBRWZiWjRWTUZlQmpndUlKZS1ZYkEzdlR1b0hVRmU4X0dfWS0wbUxBYWRqN1RaNVpucFg4VjZYOW0xT2Vua0lTNWtoUVo4cXJSZlE1ZzI3UV9mMXJtU0x4SzR1RkpDTVBaYklxb3VrMm1QcjJ5SnpsdjBiT3N4SEQ2RjFzRTlhS2FLN2ZzUndueWVXSDBYMGdTNWFVOUZ3dkVKVkhnaHdWem9YYVZhalp0ekhvM3hnV1VUaW1YdVVl?oc=5\" target=\"_blank\">Why SanDisk, Intel stocks will lead the tech rebound into earnings season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece predicting SanDisk stock will lead a tech rebound into earnings season. SanDisk is a fund holding, but this is analyst opinion/speculation about future performance rather than a concrete event or new information about memory fundamentals or the company itself."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "b6b2c22cc93bd41cc42c252fc15df1fd0866bf5d",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung's AI Earnings Could Decide Chip Stocks' Next Move - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3VIVGRiYWlRblRLS0dnQkRyRDZHRDFPZkJFWU82YXZQeWtXa0QzSURZLTZzZjBYSmRaaG9renFuTmFTVHR2ZFVlZFhscm9SX0JHbDk5NVNIekk0Z0M2MWhhT1NNMVdlZFpLVWVVMEpsdjRkREYySVdkdTdEd3V1SFREaWJkMU9lci1vTGRmeGFZMEJFSXdrU0w4UzNidw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 16:55:35 GMT",
+  "published_ts": 1783356935,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQY3VIVGRiYWlRblRLS0dnQkRyRDZHRDFPZkJFWU82YXZQeWtXa0QzSURZLTZzZjBYSmRaaG9renFuTmFTVHR2ZFVlZFhscm9SX0JHbDk5NVNIekk0Z0M2MWhhT1NNMVdlZFpLVWVVMEpsdjRkREYySVdkdTdEd3V1SFREaWJkMU9lci1vTGRmeGFZMEJFSXdrU0w4UzNidw?oc=5\" target=\"_blank\">Samsung's AI Earnings Could Decide Chip Stocks' Next Move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece speculating that Samsung's upcoming AI-related earnings results could influence the broader chip stock sector. This is opinion/forecast rather than a confirmed event or hard number, making it a soft but relevant story about a key DRAM ETF holding."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "32ac6421a6bb9c590c966f68711d30b1627b5c87",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Samsung plans to raise DRAM prices by 20% in Q3: report - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDhzWXpscXJRdWtxSllpM0Y0RExHTTF5OVFaZ09aQ2pmN0dsYWFRaTRPbXA3VktELTNrcjBsNnp3ZWRTYU9KaEZoNEdPUE1ZZFMyTTlJdWxVR3dCcTh0aDg1aW1ibDBYUlpxRWVsa1lZQnZFRlBQVk9GZXNEQngtVEdTTlNRWGNDWE5waQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 12:54:10 GMT",
+  "published_ts": 1783342450,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDhzWXpscXJRdWtxSllpM0Y0RExHTTF5OVFaZ09aQ2pmN0dsYWFRaTRPbXA3VktELTNrcjBsNnp3ZWRTYU9KaEZoNEdPUE1ZZFMyTTlJdWxVR3dCcTh0aDg1aW1ibDBYUlpxRWVsa1lZQnZFRlBQVk9GZXNEQngtVEdTTlNRWGNDWE5waQ?oc=5\" target=\"_blank\">Samsung plans to raise DRAM prices by 20% in Q3: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung plans to raise DRAM prices by 20% in Q3 according to reports. This is a pricing signal relevant to memory cycle dynamics, but it is a plan/intention rather than a confirmed, executed price move, and lacks hard transactional evidence. Pricing guidance and plans are typically followed by market confirmation; the actual realization of the price increase would be a higher-impact event."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "bce58a2758e4c5a0814333b163b6be76018ff925",
+  "source": "TradingView",
+  "topic": "pricing",
+  "title": "UBS Stays Bullish on Micron as Memory Prices Rise - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnhRT2hrbzVOeXBXMUlmakxGd1RLYnpjU2RBaEN4cmJQVG9TU0c5bDQ3RjRIMG5HTklIWVBKX0NBMGRvZEljXzNEUGVBd3kyMU9uamRwZDdUR0VuZ2VCYWc1TFpob3lsc3FYSmVWa3pkYWhFcUozSnp6RWFiQWxsRFYxd2NuNXhZbTg1NHBHSmdvUnBZbkt1SnZiYnFpZHBUdmpzMURGYkZGbjFsaEE?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:00:23 GMT",
+  "published_ts": 1783357223,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnhRT2hrbzVOeXBXMUlmakxGd1RLYnpjU2RBaEN4cmJQVG9TU0c5bDQ3RjRIMG5HTklIWVBKX0NBMGRvZEljXzNEUGVBd3kyMU9uamRwZDdUR0VuZ2VCYWc1TFpob3lsc3FYSmVWa3pkYWhFcUozSnp6RWFiQWxsRFYxd2NuNXhZbTg1NHBHSmdvUnBZbkt1SnZiYnFpZHBUdmpzMURGYkZGbjFsaEE?oc=5\" target=\"_blank\">UBS Stays Bullish on Micron as Memory Prices Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "UBS maintains bullish stance on Micron (MU, a key DRAM ETF holding) amid rising memory prices. This is analyst commentary and price-target positioning tied to a known pricing trend rather than a concrete new development; the rising prices themselves are the underlying catalyst, but the analyst reaction is opinion/analysis."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "0b273a2145d1463ae37362d2c5d500be1dab81dd",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Bounced Back Today - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFhMVplWHpGMHpnbmNySG4zT1g4VlVSLU95Ykd1LTRnYS1yRVVkaEVKWDlILWZYbkFCUmdZaFV3cVhtdlI0MzI5clRLVHZaMFNhYnMwWXhwMEd5X1JES1NZbktpZnBuZURjU1JnYTZ0RFR4eEJtYUxodzM5aW5rMUxscmxYUQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:58:27 GMT",
+  "published_ts": 1783364307,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFhMVplWHpGMHpnbmNySG4zT1g4VlVSLU95Ykd1LTRnYS1yRVVkaEVKWDlILWZYbkFCUmdZaFV3cVhtdlI0MzI5clRLVHZaMFNhYnMwWXhwMEd5X1JES1NZbktpZnBuZURjU1JnYTZ0RFR4eEJtYUxodzM5aW5rMUxscmxYUQ?oc=5\" target=\"_blank\">Why Sandisk Stock Bounced Back Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock price movement piece. Without access to the full article, this appears to be post-market analysis of a daily price bounce. Stock moves themselves warrant scoring only if tied to a concrete catalyst (earnings, guidance, deal, capacity announcement). A 'bounced back today' headline typically reflects market digestion of known news or technical trading rather than new material information. Relevant as SanDisk is a holding but impact is soft pending details on what drove the bounce."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "522e6dd02e66dd81fc5043226018ca44aaa83d12",
+  "source": "FXLeaders",
+  "topic": "holding",
+  "title": "SanDisk SNDK Stock Risks Breakdown If Support Goes, Despite NAND Expansion as Asian Chip Selloff Weighs - FXLeaders",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUZUUDhpN2J3X0M3U21MaEtxY21SZ2xzWFhGOTh6VW5namdQOENlY3oxN2g1WGpRUUFQYUxpMWhNdFJLUEJPbEFzbWV6S2lGSHRGNzRFTUcyV2xUaC1OLWxwbGtiY3R1WWNYYjI0VGdReEh2bGVlOEV2OHVEQmw3djd4MWVKNmtWRmJKeExwZEZBSHBldHFLRkZRS2RITzVDQnRrOFlheFpfU3dwNlprajUzMGx3TF80aldQRUxtY0ZNOXdFV1VwSkNpNEpjR21lVWtGY01MNlg0RGJVUlE?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:01:46 GMT",
+  "published_ts": 1783360906,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUZUUDhpN2J3X0M3U21MaEtxY21SZ2xzWFhGOTh6VW5namdQOENlY3oxN2g1WGpRUUFQYUxpMWhNdFJLUEJPbEFzbWV6S2lGSHRGNzRFTUcyV2xUaC1OLWxwbGtiY3R1WWNYYjI0VGdReEh2bGVlOEV2OHVEQmw3djd4MWVKNmtWRmJKeExwZEZBSHBldHFLRkZRS2RITzVDQnRrOFlheFpfU3dwNlprajUzMGx3TF80aldQRUxtY0ZNOXdFV1VwSkNpNEpjR21lVWtGY01MNlg0RGJVUlE?oc=5\" target=\"_blank\">SanDisk SNDK Stock Risks Breakdown If Support Goes, Despite NAND Expansion as Asian Chip Selloff Weighs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXLeaders</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXLeaders"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Technical analysis of SanDisk stock noting chart support levels and NAND expansion plans amid broader Asian chip sector weakness. No concrete news or catalysts reported."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "daf70615ede0e20046e6cf67bd98f1a44ba0c274",
+  "source": "Yahoo Finance",
+  "topic": "fund",
+  "title": "Should You Buy the Roundhill Memory ETF Before July 10? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamlZUl9PdW9SQW1aOGpRRnMtZE9yMmRjMDkzbGxEOFk5YlJXREtxVER2Yk9uWWt2dW00bkt4elI0YVZDWFl0X25XdzNUN2s3T2lTZlc5Q29xM1U0TFdHMlBKcllSUEVLOEprSHlEeU5YTUxLcVdaWVhQWV9ERkZoNE53QVFFdGFnVDNsdXpaeDRjb1FMd3UtMVhB?oc=5",
+  "published_at": "Mon, 06 Jul 2026 17:18:19 GMT",
+  "published_ts": 1783358299,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOamlZUl9PdW9SQW1aOGpRRnMtZE9yMmRjMDkzbGxEOFk5YlJXREtxVER2Yk9uWWt2dW00bkt4elI0YVZDWFl0X25XdzNUN2s3T2lTZlc5Q29xM1U0TFdHMlBKcllSUEVLOEprSHlEeU5YTUxLcVdaWVhQWV9ERkZoNE53QVFFdGFnVDNsdXpaeDRjb1FMd3UtMVhB?oc=5\" target=\"_blank\">Should You Buy the Roundhill Memory ETF Before July 10?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Yahoo Finance opinion piece asking whether investors should buy the Roundhill Memory ETF (DRAM) before July 10. This is a soft, speculative take on fund timing with no concrete news, catalysts, or material developments disclosed."
+  },
+  "buffered_ts": 1783365329.7475026
+ },
+ {
+  "id": "cbd0636f4499a05b4432c9cd117ec4a676de5acc",
+  "source": "StocksToTrade",
+  "topic": "fund",
+  "title": "RAM Leverage ETF Slides As DRAM Momentum Cools - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3dVWHRzMURpZWJFZHhIbkRsall2T1E2dEMzb1FHWVVkMElsVW1YM2JtQXNZVlo4UjFydDBZVjRLSldkaWNTMzdDbm5TWGM1Y19QcXZoa3JXX2cwWEdQN3YxXy1EQVZwbHBGRldSdkNOSEt0TFVLWFkxMlBEYkJfa25DUUx1cG1mTGNSV3ZtSW1hMTNjYm1iRw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:06:00 GMT",
+  "published_ts": 1783361160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3dVWHRzMURpZWJFZHhIbkRsall2T1E2dEMzb1FHWVVkMElsVW1YM2JtQXNZVlo4UjFydDBZVjRLSldkaWNTMzdDbm5TWGM1Y19QcXZoa3JXX2cwWEdQN3YxXy1EQVZwbHBGRldSdkNOSEt0TFVLWFkxMlBEYkJfa25DUUx1cG1mTGNSV3ZtSW1hMTNjYm1iRw?oc=5\" target=\"_blank\">RAM Leverage ETF Slides As DRAM Momentum Cools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "A RAM/DRAM leverage ETF experienced a decline as DRAM momentum slowed. This is a passing mention of fund performance without concrete holdings news, pricing data, or market-moving catalyst—a minor observation of ETF price movement tied to general sector softness rather than a specific event."
+  },
+  "buffered_ts": 1783365329.7475026
  }
 ]
