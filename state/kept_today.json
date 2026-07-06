@@ -2582,5 +2582,125 @@
    "summary": "Melius Research initiates coverage of Seagate Technology (STX), a fund holding. An analyst initiation with no disclosed price target, rating, or specific thesis details provided in the snippet is a routine event with minimal near-term market impact."
   },
   "buffered_ts": 1783372253.6454706
+ },
+ {
+  "id": "f8aa45e89c1e8f96d89c0e5ff403d0ad838fadd0",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "SK Hynix’s Planned $28 Billion Offering Brings Korean Market Fever to the U.S. - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpfamlrakJCRllaWTZDbkV5UDEyRmVBOUtqMFN2Y1VXU0JBQW1hMDVaNzltTEsyQjY0Z1Jla3c3bkRlYUJBZGozQ3BjaEVlRWJ3M00yeGNYT3hqdVFvd3F6LVp0b3Q1WnlXV0V6OFR4cGpCOUl0cDBJQlVQOU1ya1JPUFNVcHM4VFkzcXNR?oc=5",
+  "published_at": "Mon, 06 Jul 2026 20:57:00 GMT",
+  "published_ts": 1783371420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpfamlrakJCRllaWTZDbkV5UDEyRmVBOUtqMFN2Y1VXU0JBQW1hMDVaNzltTEsyQjY0Z1Jla3c3bkRlYUJBZGozQ3BjaEVlRWJ3M00yeGNYT3hqdVFvd3F6LVp0b3Q1WnlXV0V6OFR4cGpCOUl0cDBJQlVQOU1ya1JPUFNVcHM4VFkzcXNR?oc=5\" target=\"_blank\">SK Hynix’s Planned $28 Billion Offering Brings Korean Market Fever to the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a planned $28 billion offering, a concrete capital-raising event that signals the company's strategic investment plans and financial positioning. As a major holding in DRAM, this is material to the fund."
+  },
+  "buffered_ts": 1783377891.2188401
+ },
+ {
+  "id": "b408b8be31d83e4bf49ce9fd6bbb999bbd413bf4",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "Wait! Michael Burry Is Right About the Memory Boom Ending? This Analyst Says Yes - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW9SMzZwMlk2ZklFeFVZdFZUVFNXeWlXeVVqWi1OaVBhQmFUbU90YUttMk1YYktEWEN2QWJpV0pCb0E3YnBIOW56bUpkWk52eHdnRjFRcUIxQ01RdVRUeDNiV19DNW1FMmdxcVE2NWV0WFFXMExjN05YQkdSNEpuWk1aRkNlMUpxbTI4RV9KcW1MOFAxblNNU3NB?oc=5",
+  "published_at": "Mon, 06 Jul 2026 15:18:25 GMT",
+  "published_ts": 1783351105,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW9SMzZwMlk2ZklFeFVZdFZUVFNXeWlXeVVqWi1OaVBhQmFUbU90YUttMk1YYktEWEN2QWJpV0pCb0E3YnBIOW56bUpkWk52eHdnRjFRcUIxQ01RdVRUeDNiV19DNW1FMmdxcVE2NWV0WFFXMExjN05YQkdSNEpuWk1aRkNlMUpxbTI4RV9KcW1MOFAxblNNU3NB?oc=5\" target=\"_blank\">Wait! Michael Burry Is Right About the Memory Boom Ending? This Analyst Says Yes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analyst commentary suggesting the memory semiconductor boom may be ending, aligned with Michael Burry's bearish view. This is opinion/analysis on industry cycle direction rather than a concrete event or hard data point, making it relevant to the memory cycle but soft on impact."
+  },
+  "buffered_ts": 1783377891.2188401
+ },
+ {
+  "id": "9e29ed287a97cebee8cccd6a7ea6fd75b8050e8a",
+  "source": "Financial Times",
+  "topic": "holding",
+  "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnlMdzBCc0NQOFlyNG52T04xc2E0bnNMVjE1RjZFR3Bpd1YtODVtU1F4MV9KYlFSUEZhbHE1QTdoVjFaXzFRelpxcnNsWkpFQXRxdVVyaC1pZ0hzSUpJSVIwNHVxaXFGZDEyUVRUZjVPaUd6ZGpCMExUVFQ3bmRJWElxeUs?oc=5",
+  "published_at": "Mon, 06 Jul 2026 18:08:25 GMT",
+  "published_ts": 1783361305,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnlMdzBCc0NQOFlyNG52T04xc2E0bnNMVjE1RjZFR3Bpd1YtODVtU1F4MV9KYlFSUEZhbHE1QTdoVjFaXzFRelpxcnNsWkpFQXRxdVVyaC1pZ0hzSUpJSVIwNHVxaXFGZDEyUVRUZjVPaUd6ZGpCMExUVFQ3bmRJWElxeUs?oc=5\" target=\"_blank\">Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Financial Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "A hedge fund is positioning for a potential SK Hynix US IPO. While SK Hynix is a major DRAM holding, this story reports speculation and positioning rather than a confirmed, concrete development. No official IPO announcement or timeline has been disclosed—it remains a possibility being discussed/pursued by investors."
+  },
+  "buffered_ts": 1783377891.2188401
+ },
+ {
+  "id": "a44577084c603f94eaeb0796db45bb9722817341",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "SK Hynix’s Nasdaq debut could be the market’s next stress test - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dW9aQzZCaHZUT3NJU1VFVG80US16M1dwc3FOTGszanY4elVvOV9uTF9mbFYwbU9qMkhDem1XZnFqR2hvMlRld1JkUDhqS01WMmpVckhoMGZLTUg1cVMxTDVNV04yb2Q3TTlrM2JVbzkyX2c5RlMzdzZncW1UdjQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:03:00 GMT",
+  "published_ts": 1783375380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00dW9aQzZCaHZUT3NJU1VFVG80US16M1dwc3FOTGszanY4elVvOV9uTF9mbFYwbU9qMkhDem1XZnFqR2hvMlRld1JkUDhqS01WMmpVckhoMGZLTUg1cVMxTDVNV04yb2Q3TTlrM2JVbzkyX2c5RlMzdzZncW1UdjQ?oc=5\" target=\"_blank\">SK Hynix’s Nasdaq debut could be the market’s next stress test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on SK Hynix's potential Nasdaq listing as a market event. Discusses the implications of the debut but contains no confirmed announcement, timeline, or concrete development—speculation and commentary on a rumored or potential listing."
+  },
+  "buffered_ts": 1783377891.2188401
+ },
+ {
+  "id": "4752ad2d13d26a436472ac3da347df4edf044271",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Why Dan Ives Sees NVDA And Korea Memory Stocks Driving AI Demand - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzNscXJ5dFRpckxDX01ZbzJVZ1g4U1FQXzhnN1FVNUJSMmoxOUtma3ZzdXczbERMQ1RqaTlNRVpNSlFZblFmLUhDN3JKc1NabWFFYS0tVnI2LXptLTJNVy1zbjlxaEtMVS1NQm9WODBUa3JGT3JETWlNUTRzbWQ2QTBqeGpjRVowZHJJcXktaXVxUURvaEllekNrSU5IOHpUXy1VX1p0bTBoQVhYMTlobU9zekVORXEyU3RPMGpNZmlISm8?oc=5",
+  "published_at": "Mon, 06 Jul 2026 21:25:12 GMT",
+  "published_ts": 1783373112,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzNscXJ5dFRpckxDX01ZbzJVZ1g4U1FQXzhnN1FVNUJSMmoxOUtma3ZzdXczbERMQ1RqaTlNRVpNSlFZblFmLUhDN3JKc1NabWFFYS0tVnI2LXptLTJNVy1zbjlxaEtMVS1NQm9WODBUa3JGT3JETWlNUTRzbWQ2QTBqeGpjRVowZHJJcXktaXVxUURvaEllekNrSU5IOHpUXy1VX1p0bTBoQVhYMTlobU9zekVORXEyU3RPMGpNZmlISm8?oc=5\" target=\"_blank\">Why Dan Ives Sees NVDA And Korea Memory Stocks Driving AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analyst Dan Ives commentary on NVDA and Korean memory stocks (SK hynix, Samsung) as drivers of AI infrastructure demand. Represents expert opinion on the AI-memory demand cycle but lacks concrete new data or events."
+  },
+  "buffered_ts": 1783377891.2188401
  }
 ]
