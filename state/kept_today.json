@@ -748,5 +748,255 @@
    "summary": "TrendForce forecasts traditional DRAM prices will rise 13–18% in Q3. This is a pricing forecast (not a confirmed spot/contract price movement or a binding commitment), so it rates as soft analysis rather than a concrete event. Relevant to DRAM fund holdings whose margins and revenue depend on price trends, but the predictive nature and lack of hard confirmation limit impact to 3."
   },
   "buffered_ts": 1783292731.4980388
+ },
+ {
+  "id": "1541515a8a60296883822e1c96162e4e27234965",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZXlZQkVpNFFtcGstVmFfR28tV3dEcS1tRVBwWGw4blMzNU5odEpKZnVxNjNTZjFTYmVYV25qTUE1Um1VaXV1SG84RUFESFVkVExnTjVfZ1VKSHUyTTNfZTBPdXVmWEMxMmlGYk14SnhlYnRIbXhLN21SWGhDOWVfSlpOWG80NnlGamFXSkxSVHJ2SW5RU2pIMy1PMG1mTHppSWEtWDNpZFVlcUM4cmpSNGZHNzdfNW96YW5YY1I4cWtHbDc0a2Z5SU12Y05sdWRvWG5LbFBNWjRmalFwcGwxcA?oc=5",
+  "published_at": "Mon, 06 Jul 2026 00:13:00 GMT",
+  "published_ts": 1783296780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZXlZQkVpNFFtcGstVmFfR28tV3dEcS1tRVBwWGw4blMzNU5odEpKZnVxNjNTZjFTYmVYV25qTUE1Um1VaXV1SG84RUFESFVkVExnTjVfZ1VKSHUyTTNfZTBPdXVmWEMxMmlGYk14SnhlYnRIbXhLN21SWGhDOWVfSlpOWG80NnlGamFXSkxSVHJ2SW5RU2pIMy1PMG1mTHppSWEtWDNpZFVlcUM4cmpSNGZHNzdfNW96YW5YY1I4cWtHbDc0a2Z5SU12Y05sdWRvWG5LbFBNWjRmalFwcGwxcA?oc=5\" target=\"_blank\">South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "TradingView",
+    "Reuters",
+    "CNA"
+   ],
+   "titles": [
+    "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave - Reuters",
+    "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave - CNA"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $28 billion US listing, a major concrete capital event by one of the fund's core holdings that signals commitment to AI-driven memory demand and represents a significant corporate action."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "1463356a9e1878d2440d025951ea299c005644c6",
+  "source": "Finimize",
+  "topic": "holding",
+  "title": "SK Hynix Lines Up A $28 Billion Nasdaq Listing - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CekNydGdkOTFKM0p6Rk0yeUwxQjhwZ2pNeHpkNE05WlNjRVhIeUhpQWlvWnNadEZsRUNqanYyWWJVVkNZVld6a0UtbUFQTFU3WEN6X1l2MWhnUGFxaEZNVFl6bDA2LU5iWHE5S05rTXJrcnNRWnhuc1d0RmRKWTQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 00:02:45 GMT",
+  "published_ts": 1783296165,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CekNydGdkOTFKM0p6Rk0yeUwxQjhwZ2pNeHpkNE05WlNjRVhIeUhpQWlvWnNadEZsRUNqanYyWWJVVkNZVld6a0UtbUFQTFU3WEN6X1l2MWhnUGFxaEZNVFl6bDA2LU5iWHE5S05rTXJrcnNRWnhuc1d0RmRKWTQ?oc=5\" target=\"_blank\">SK Hynix Lines Up A $28 Billion Nasdaq Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM and NAND producer and core DRAM ETF holding, is preparing a $28 billion Nasdaq listing. This is a concrete, officially announced capital structure event that materially affects one of the fund's largest holdings and signals confidence in the memory market."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "8fdac643e3c1b95b204d9602b8444c3754d85ca5",
+  "source": "marketscreener.com",
+  "topic": "pricing",
+  "title": "Samsung targets 20% DRAM price hike - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnRiRUlTUFQyTk5WZmJtWTlCNHdLSWlmaHJsWi1UdjItSV9QWlVySndGa2MxTHJiWVY0SlFnSVI5MWVkMXFab1NpUmlzVVY1b2c4TW52bUpLR1F4Szh3aDF2QnhSZUlFVTlZcUVLdDRqSnhrZmNSdUZEbHBBMFptZUdFSkx6U2dQSlY5WXN4eXA?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:30:08 GMT",
+  "published_ts": 1783294208,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnRiRUlTUFQyTk5WZmJtWTlCNHdLSWlmaHJsWi1UdjItSV9QWlVySndGa2MxTHJiWVY0SlFnSVI5MWVkMXFab1NpUmlzVVY1b2c4TW52bUpLR1F4Szh3aDF2QnhSZUlFVTlZcUVLdDRqSnhrZmNSdUZEbHBBMFptZUdFSkx6U2dQSlY5WXN4eXA?oc=5\" target=\"_blank\">Samsung targets 20% DRAM price hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung, a major memory manufacturer and holding via its semiconductor arm, is targeting a 20% DRAM price increase. This is a concrete pricing development that represents a material shift in contract/spot pricing expectations and directly affects memory-sector fundamentals and fund holdings."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "c260037a1d37e1feef4af4d143c1d94762946d29",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "SK Hynix plans $29b US listing - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWkJHeFB1N2p5X1lWNVpScU90b2hBUkFZUGktNEJiSVZBZnVkajdRRmNKR3Vybm1KeTJRR1pJY09BREVodmVoYmpXSzZrN052OElTcnNMOEhWeUJwQnc5UFFoUXV6a19pSkE?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:17:00 GMT",
+  "published_ts": 1783293420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWkJHeFB1N2p5X1lWNVpScU90b2hBUkFZUGktNEJiSVZBZnVkajdRRmNKR3Vybm1KeTJRR1pJY09BREVodmVoYmpXSzZrN052OElTcnNMOEhWeUJwQnc5UFFoUXV6a19pSkE?oc=5\" target=\"_blank\">SK Hynix plans $29b US listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech in Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a core DRAM ETF holding, plans a $29 billion US listing. This is a concrete corporate action by a major fund constituent that signals capital-raising and strategic repositioning, materially relevant to the fund's largest non-US exposure."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "730313c8e2ba46914a1d5c28d8b2e789aee5acce",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Unfazed by pullbacks! UBS Group raises SK Hynix's target price, forecasting 'three major catalysts' ahead - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelRObmRycFBVTHBIMHNWRXdlLUFOdG9CWTNrR18ybGUwM2lnRmJVeGEyRVl5VjVLRXVkWEF3bzJLSkhCUmh5eWZ2dUxTNmFHMXE0dkNQMncwcWdUT08tZGFWaG5vdDVBaFJ3anJ3eHdJbnpQQkZrcm9Uc2h3LUluWUpfQTh0RERVaC12dHBMV3FFOVF5TGlxRW1iakg3QQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 02:28:09 GMT",
+  "published_ts": 1783218489,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQelRObmRycFBVTHBIMHNWRXdlLUFOdG9CWTNrR18ybGUwM2lnRmJVeGEyRVl5VjVLRXVkWEF3bzJLSkhCUmh5eWZ2dUxTNmFHMXE0dkNQMncwcWdUT08tZGFWaG5vdDVBaFJ3anJ3eHdJbnpQQkZrcm9Uc2h3LUluWUpfQTh0RERVaC12dHBMV3FFOVF5TGlxRW1iakg3QQ?oc=5\" target=\"_blank\">Unfazed by pullbacks! UBS Group raises SK Hynix's target price, forecasting 'three major catalysts' ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "UBS raises SK Hynix price target and forecasts three major catalysts ahead. Analyst price-target changes and forward-looking commentary are relevant to the holding but represent soft opinion rather than a confirmed event or hard number; stock reaction and impact will depend on whether those catalysts materialize."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "0ffb5e43c6b5c3c479a0532db48921bc71bada7b",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory By Reuters - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUmtBOFBEWVE5Q2VhZDIycVViS1QzbVJQM2U4MkNSZ2VGNUt5S1RhSW94M2hQS29Uc1htNm4zbGNxT0RTY29WR0VwVjRCekJiZDd0RE83RmtxSF9pV3Fua190bzQtem5PSGxST2g3VUQ3Z2t2YXVTc3MwalBNN0RpQ1dIeFlEbkpQTkZCTkc5cWNaU21IVlJ1bjl0TVBmaUpDNDFwdjBsYW9yR0ROZVpTaFRhZXlJSHUyV3h5Um1XUlg2eFRNY2U0YkxhZTJnUQ?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:15:38 GMT",
+  "published_ts": 1783293338,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUmtBOFBEWVE5Q2VhZDIycVViS1QzbVJQM2U4MkNSZ2VGNUt5S1RhSW94M2hQS29Uc1htNm4zbGNxT0RTY29WR0VwVjRCekJiZDd0RE83RmtxSF9pV3Fua190bzQtem5PSGxST2g3VUQ3Z2t2YXVTc3MwalBNN0RpQ1dIeFlEbkpQTkZCTkc5cWNaU21IVlJ1bjl0TVBmaUpDNDFwdjBsYW9yR0ROZVpTaFRhZXlJSHUyV3h5Um1XUlg2eFRNY2U0YkxhZTJnUQ?oc=5\" target=\"_blank\">Samsung likely to post 18-fold jump in profit on surging AI demand for memory By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "marketscreener.com",
+    "WTAQ"
+   ],
+   "titles": [
+    "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - marketscreener.com",
+    "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - WTAQ"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung expected to report 18x profit increase driven by AI-driven memory demand. This is a pre-earnings forecast/expectation rather than a confirmed earnings release or concrete guidance change, making it analysis/opinion rather than a settled event."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "6fcfe4001cbbc0e146da64baf33ef04b75644a9b",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Meritz Sees Samsung Profit Topping 90 Trillion Won, Targets 500,000 Won - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0JfZHJyaURVTjBCNzlvdzRhMHRnTXZmcTJmbHpVNU1zYzZBclZ3SjB6ZmNCM012TWVWb29wdjVWS21QVFVUbUl5Szg5LThlSklidVdQR0VGOTFPVUIwSGpkR281d291ZXBPY0RfdUNwMlE3SlE0ZzNRbkhqeVVneE1KQk50NVZHRXdfeUxNY0pDLUVOWmJreno1Mk50YlNpV0E?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:16:20 GMT",
+  "published_ts": 1783293380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0JfZHJyaURVTjBCNzlvdzRhMHRnTXZmcTJmbHpVNU1zYzZBclZ3SjB6ZmNCM012TWVWb29wdjVWS21QVFVUbUl5Szg5LThlSklidVdQR0VGOTFPVUIwSGpkR281d291ZXBPY0RfdUNwMlE3SlE0ZzNRbkhqeVVneE1KQk50NVZHRXdfeUxNY0pDLUVOWmJreno1Mk50YlNpV0E?oc=5\" target=\"_blank\">Meritz Sees Samsung Profit Topping 90 Trillion Won, Targets 500,000 Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Meritz analyst projects Samsung profit exceeding 90 trillion won with a 500,000 won stock price target. This is analyst opinion and price target rather than a confirmed event or material new information about Samsung's memory business or earnings."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "47b84b9156b7f8565dda3c84257544afa22d7537",
+  "source": "investingLive",
+  "topic": "holding",
+  "title": "Samsung set for 18-fold profit jump as AI memory demand surges - investingLive",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1U4RHU0cWZGVFAyWGdLcllDQk5jdFkzQzZyWVJPaEV0ME1oRGJsYTVYSzJZYWRWRXlzVkNwT2Z1V0JYbUk3YXIyV3c1cXlCN2JPVDZXb25iT3NyUWVFT0RYeTY4MkZ0TFNVRVhyb3ZjVEREUjZUeTBuS183ME1pY25HMmFVcGQ5VEtoa09Td1k3YXhueDh3Wk82QlhqeDdvR1U5aHNpSFY?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:39:24 GMT",
+  "published_ts": 1783294764,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1U4RHU0cWZGVFAyWGdLcllDQk5jdFkzQzZyWVJPaEV0ME1oRGJsYTVYSzJZYWRWRXlzVkNwT2Z1V0JYbUk3YXIyV3c1cXlCN2JPVDZXb25iT3NyUWVFT0RYeTY4MkZ0TFNVRVhyb3ZjVEREUjZUeTBuS183ME1pY25HMmFVcGQ5VEtoa09Td1k3YXhueDh3Wk82QlhqeDdvR1U5aHNpSFY?oc=5\" target=\"_blank\">Samsung set for 18-fold profit jump as AI memory demand surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "investingLive"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung expected to see significant profit increase driven by AI memory demand surge. This is a forecast/analyst expectation based on known AI trends, not a concrete event or earnings release with new data, making it opinion-driven rather than a market-moving disclosure."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "f0d17b2cde836b073c9a5cf1c7643cf7c432caac",
+  "source": "Devdiscourse",
+  "topic": "holding",
+  "title": "Samsung's Profit Surge Amid Global Memory Chip Crunch - Devdiscourse",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3c1QVdfT0dVRkhRenB2LWRlOGpRUkdhYmJGZlRuWUp2eXBzU05aaUwySlpYSEVPMEItTXVkTnR6bjFmckJWMm1FajFPdjFHcWNGMnY0dy1NRlYtam05ZmdGdjU2TnR4ZVBkQm1GYzdqNU5wMjlBMklrYW5IYmc4RHN0bWgyekhFYXNaeUptMFBNeFJTR2wzNzlURTNRRmtlM3paNmk0dnNoaEpV0gGyAUFVX3lxTE5UbG9WbTlkbVBGMnZNZEdxVGNibnk1X1NkVzB0a0kwM0NoUEJ3dHhOQnBQRXh3VzNoNmpkNFl2YTBQWHM1UGpGeF9fVGxJLVhYREl2blBEZG40WklXSEZNYXZQTmM2NUN4MFVMbUFQc1Nyby1CcXpMZkQ1NWtKbGZURWNRMHNYaHB6dlg5U3B4QV9SNXBFdTR0dFhZM3VHNjdSalhuZ05uUmNsc0p0VUFON3c?oc=5",
+  "published_at": "Sun, 05 Jul 2026 23:00:41 GMT",
+  "published_ts": 1783292441,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3c1QVdfT0dVRkhRenB2LWRlOGpRUkdhYmJGZlRuWUp2eXBzU05aaUwySlpYSEVPMEItTXVkTnR6bjFmckJWMm1FajFPdjFHcWNGMnY0dy1NRlYtam05ZmdGdjU2TnR4ZVBkQm1GYzdqNU5wMjlBMklrYW5IYmc4RHN0bWgyekhFYXNaeUptMFBNeFJTR2wzNzlURTNRRmtlM3paNmk0dnNoaEpV0gGyAUFVX3lxTE5UbG9WbTlkbVBGMnZNZEdxVGNibnk1X1NkVzB0a0kwM0NoUEJ3dHhOQnBQRXh3VzNoNmpkNFl2YTBQWHM1UGpGeF9fVGxJLVhYREl2blBEZG40WklXSEZNYXZQTmM2NUN4MFVMbUFQc1Nyby1CcXpMZkQ1NWtKbGZURWNRMHNYaHB6dlg5U3B4QV9SNXBFdTR0dFhZM3VHNjdSalhuZ05uUmNsc0p0VUFON3c?oc=5\" target=\"_blank\">Samsung's Profit Surge Amid Global Memory Chip Crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Devdiscourse"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reports profit surge tied to global memory chip shortage. While Samsung is a DRAM ETF holding and memory pricing/demand are core to the fund, this is a general earnings-driven commentary piece without concrete new information (specific profit figures, guidance changes, or production/capacity announcements). The story reflects market digestion of results rather than a distinct market-moving event."
+  },
+  "buffered_ts": 1783300525.2965968
+ },
+ {
+  "id": "7263af2230149b53f979cfec2f62e90af11d1278",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Retail Investors Snap Up 1.8 Trillion Won of Samsung-SK hynix Leverage ETFs - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1ROajNHeEhZU0ViQlBpTHZhYzl5UTlXWXNxMTdsYld5QlhmMTVuTzl5RDg4ekRVS3I0UHNwUjhwTTI2UXk4d1ZWY3BvNng3ZWxjOHpsUF9sZFp1bzNybkZEVU9kUWVMQkZPVkYzWnZjUE5kWldGaDd4SVVLNE9IbjZoa3NyelFuX1g5Ym41OGVJbDdfWUozaTctZ24?oc=5",
+  "published_at": "Sun, 05 Jul 2026 22:55:05 GMT",
+  "published_ts": 1783292105,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1ROajNHeEhZU0ViQlBpTHZhYzl5UTlXWXNxMTdsYld5QlhmMTVuTzl5RDg4ekRVS3I0UHNwUjhwTTI2UXk4d1ZWY3BvNng3ZWxjOHpsUF9sZFp1bzNybkZEVU9kUWVMQkZPVkYzWnZjUE5kWldGaDd4SVVLNE9IbjZoa3NyelFuX1g5Ym41OGVJbDdfWUozaTctZ24?oc=5\" target=\"_blank\">Retail Investors Snap Up 1.8 Trillion Won of Samsung-SK hynix Leverage ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Retail investors in South Korea purchased 1.8 trillion won (~$1.4B USD) of leveraged ETFs tracking Samsung and SK hynix. While it shows retail interest in memory-semiconductor equities, this is a fund/flow story with no new information about the holdings themselves, memory pricing, capacity, or demand—merely evidence of investor positioning."
+  },
+  "buffered_ts": 1783300525.2965968
  }
 ]
