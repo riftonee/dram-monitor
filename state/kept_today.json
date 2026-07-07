@@ -2338,5 +2338,197 @@
    "summary": "The DRAM ETF experienced a price decline following a sharp run-up, attributed to increased market volatility. This is a price-movement report with no underlying catalyst or concrete event disclosed."
   },
   "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "c8d32e102ab455b68fca73c7cbd61afabca18809",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVI2LV9zTkRQTHpEWUhkSHJVVl9oM3Y5TmI4emVSOERzQklEQTl0WHZNZHRKSW1oVVhCeVUtNUlBVEkwZXpmVzJoWVNQMXBBR3hzY2FSOHFkUzByTXFCTnFtTkdfY3NUWlAxdFdpOTNZR1VsSzRGcmJjbkJRbXFYOUZiQkU0SEJfSHFocmVnbTNUZw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 16:00:00 GMT",
+  "published_ts": 1783440000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVI2LV9zTkRQTHpEWUhkSHJVVl9oM3Y5TmI4emVSOERzQklEQTl0WHZNZHRKSW1oVVhCeVUtNUlBVEkwZXpmVzJoWVNQMXBBR3hzY2FSOHFkUzByTXFCTnFtTkdfY3NUWlAxdFdpOTNZR1VsSzRGcmJjbkJRbXFYOUZiQkU0SEJfSHFocmVnbTNUZw?oc=5\" target=\"_blank\">SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major holding in DRAM ETF, is pursuing a significant U.S. listing. This is a concrete corporate action that could materially affect the holding's market structure, liquidity, and fund composition/weighting."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "187e2388bcb365a2790f076a0c48613f73c89db5",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Top 20 by Trading Volume | Intel fell nearly 10%, SanDisk dropped over 7%; SpaceX declined 7% on its first day in the index, hitting a new revenue low; Meta makes another move in the AI race; Microsoft accelerates in-house development to compress costs - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblF3RVVGOHZWUHFQTXhvclNsZnpldE5hUWdFVVcyOUtQekdwWHdIUlN0WEJoQVRSaGt2Y0RJSlpHb0k5d0xHeVc2YTh2UEVFN0hBRmpXSkV4aEV1ZE9HZFdrNGNaMHQ3NWNjQ3E4QW1OZGJNZVMwZGtZa09HOHZjbkVXY1dwcDBlMDdrZmZOTEZRYmtoa3dTTWtn?oc=5",
+  "published_at": "Tue, 07 Jul 2026 21:36:09 GMT",
+  "published_ts": 1783460169,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOblF3RVVGOHZWUHFQTXhvclNsZnpldE5hUWdFVVcyOUtQekdwWHdIUlN0WEJoQVRSaGt2Y0RJSlpHb0k5d0xHeVc2YTh2UEVFN0hBRmpXSkV4aEV1ZE9HZFdrNGNaMHQ3NWNjQ3E4QW1OZGJNZVMwZGtZa09HOHZjbkVXY1dwcDBlMDdrZmZOTEZRYmtoa3dTTWtn?oc=5\" target=\"_blank\">Top 20 by Trading Volume | Intel fell nearly 10%, SanDisk dropped over 7%; SpaceX declined 7% on its first day in the index, hitting a new revenue low; Meta makes another move in the AI race; Microsoft accelerates in-house development to compress costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM fund holding) dropped over 7% in trading volume; the story attributes moves to market dynamics but provides no specific catalyst beyond price movement itself. Intel also fell ~10%. Without a distinct news driver beyond the price moves, this is relevant but soft market reaction reporting."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "367e80bb8443cdda4105aa09b0a505c6edf3f2ad",
+  "source": "Yahoo Finance Singapore",
+  "topic": "holding",
+  "title": "Seagate (STX) Stock Trades At A Premium As Its 14x Run Tests Fair Value - Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEo0QU9DZlpRMjA2RFBxTmd6X3F4aTFNS1JBS19hUlBRNmZaNkRCRGtiXzR6TEFGX19FNVFZcS1Td3AtemlmYm5RbldFV3VMSElPRXdWVVoxdzJFWEVsQkRoMDdSYldHVmtkeEZOUVNaZ0I1NzFNM2ZtaC1GeFBHYWFJSG9aMV9M?oc=5",
+  "published_at": "Tue, 07 Jul 2026 17:15:29 GMT",
+  "published_ts": 1783444529,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEo0QU9DZlpRMjA2RFBxTmd6X3F4aTFNS1JBS19hUlBRNmZaNkRCRGtiXzR6TEFGX19FNVFZcS1Td3AtemlmYm5RbldFV3VMSElPRXdWVVoxdzJFWEVsQkRoMDdSYldHVmtkeEZOUVNaZ0I1NzFNM2ZtaC1GeFBHYWFJSG9aMV9M?oc=5\" target=\"_blank\">Seagate (STX) Stock Trades At A Premium As Its 14x Run Tests Fair Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance Singapore"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, has rallied 14x and now trades at a premium valuation; analyst piece questioning whether current price reflects fair value. Relevant as STX is a core holding, but this is valuation commentary and price-target analysis on an already-known run, not a new catalyst or concrete event."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "82c4d74e12203fd650ca9219089071be9d504d48",
+  "source": "marketplace.org",
+  "topic": "holding",
+  "title": "Samsung posted 1800% profit growth. Its stock fell anyway. - marketplace.org",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUU4eWFCSHV6dnNFMV9feTh0V0NBU29lNnV0Zmlod1lmNzA4N05yWlozZzBMekNwd0sxb25TOHVkWmotdTNkbTZVSE9IS1BrZERySnRpbjlZTFFOZkZLZzRYZ0VYSW5fWWhTY2s1dGxydk05QWdpbEQ4dFJIRUp6M284cDdtUjU0cGx2Wms0MUI2RTRaXzJoMXRB?oc=5",
+  "published_at": "Tue, 07 Jul 2026 21:00:00 GMT",
+  "published_ts": 1783458000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUU4eWFCSHV6dnNFMV9feTh0V0NBU29lNnV0Zmlod1lmNzA4N05yWlozZzBMekNwd0sxb25TOHVkWmotdTNkbTZVSE9IS1BrZERySnRpbjlZTFFOZkZLZzRYZ0VYSW5fWWhTY2s1dGxydk05QWdpbEQ4dFJIRUp6M284cDdtUjU0cGx2Wms0MUI2RTRaXzJoMXRB?oc=5\" target=\"_blank\">Samsung posted 1800% profit growth. Its stock fell anyway.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketplace.org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketplace.org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported 1800% profit growth but stock declined anyway. This reflects market digestion of already-reported earnings; the magnitude of the move and the counterintuitive direction suggest sentiment on memory pricing or forward guidance may be softening despite strong current results, but this is post-earnings price action rather than a new concrete catalyst."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "60ce655debb058d303ad475b232d30b7c360bc5d",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "The Number That Could Test The New SanDisk Stock Story - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZXcUE4aUdTNk1ybm90eWxVd3V0QXJjOWlqNU8waERWTEtEOFh3dGlrd253LTRqVjNwWTZNSTRVR0NIRjl5dUpzRDUzNGZkOWZ4aUNQUzVhSWtwbnY3M0pSX2RvdC13WU43cjdBaFlRYlRMcTdEX2pXdy1RQU1TVU8wVUViRXBzU1BCdjFPUFJfVk5HZ0tfTlZGSTk4T0dua3MzRk5MVnEtMGVDNjFPbkM2Ykhmdw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 21:47:52 GMT",
+  "published_ts": 1783460872,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZXcUE4aUdTNk1ybm90eWxVd3V0QXJjOWlqNU8waERWTEtEOFh3dGlrd253LTRqVjNwWTZNSTRVR0NIRjl5dUpzRDUzNGZkOWZ4aUNQUzVhSWtwbnY3M0pSX2RvdC13WU43cjdBaFlRYlRMcTdEX2pXdy1RQU1TVU8wVUViRXBzU1BCdjFPUFJfVk5HZ0tfTlZGSTk4T0dua3MzRk5MVnEtMGVDNjFPbkM2Ykhmdw?oc=5\" target=\"_blank\">The Number That Could Test The New SanDisk Stock Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Trefis analysis piece examining a key metric that could validate or challenge SanDisk's recent stock narrative; forward-looking analysis rather than a concrete event or new data point."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "937050f1f5bb62a03b609ba5af51b617910d1ecf",
+  "source": "Axios",
+  "topic": "holding",
+  "title": "Chips stocks plunge despite strong report from Samsung - Axios",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kTzRWYUNKaDV4TXRhMm9vT1hjNlNETUNrS3hTRUpwM1o2Zkg2Z1dhcW9TYVVObmdzTHZ1R3RRaHFZQldPczVuUkFQNk9SNzhsQVhYTDRyQ3ZuaUlGYkQtcUhYN1FCZkVQWFdQRmdjQWRBUQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 20:32:58 GMT",
+  "published_ts": 1783456378,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1kTzRWYUNKaDV4TXRhMm9vT1hjNlNETUNrS3hTRUpwM1o2Zkg2Z1dhcW9TYVVObmdzTHZ1R3RRaHFZQldPczVuUkFQNk9SNzhsQVhYTDRyQ3ZuaUlGYkQtcUhYN1FCZkVQWFdQRmdjQWRBUQ?oc=5\" target=\"_blank\">Chips stocks plunge despite strong report from Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Axios"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported strong results, but the broader chip sector declined despite the positive report. This reflects market sentiment on semiconductor stocks including memory players, but the decline is not directly tied to Samsung's earnings as a novel catalyst—it appears to be a market-wide pullback that happens to coincide with Samsung's report."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "1af30220ecc4ac9b312aab6f974f88904b2c29dc",
+  "source": "Taipei Times",
+  "topic": "holding",
+  "title": "Samsung results trigger stock rotation - Taipei Times",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SmFIakg1NWNSN0ZyR1V4Q1d6X1EzR2NZZEhHX0pmdXpQWmtGdDFWLUw3cFZQOGFvMjBwMHBqdmZsNkhsQi1DWGZyRXBkdWtFTlRkRFl6YjJIMTVGZHhQWXEzbm9RNm8tbU1XLTBObVBOa3hZLUE?oc=5",
+  "published_at": "Tue, 07 Jul 2026 16:00:00 GMT",
+  "published_ts": 1783440000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41SmFIakg1NWNSN0ZyR1V4Q1d6X1EzR2NZZEhHX0pmdXpQWmtGdDFWLUw3cFZQOGFvMjBwMHBqdmZsNkhsQi1DWGZyRXBkdWtFTlRkRFl6YjJIMTVGZHhQWXEzbm9RNm8tbU1XLTBObVBOa3hZLUE?oc=5\" target=\"_blank\">Samsung results trigger stock rotation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taipei Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Taipei Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's results are reported to have triggered stock rotation activity. This is a post-earnings market reaction piece—the earnings themselves have already been released and the market is digesting the results. Stock moves and analyst rotation decisions driven by known earnings data are relevant to the fund but scored at impact 3 rather than 4-5, as they represent the market processing already-disclosed information rather than introducing a concrete new event or material guidance surprise."
+  },
+  "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "2e6699ad93a13a76ee30329ca72e980bdb0eed9d",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Stock Market Today: Nasdaq Is Day's Biggest Loser; Sandisk, Micron Tumble, Eli Lilly Shines - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUZxc2lRNXJKblpDVVZhRGNFOFBpc04tbU1ZOEN4dWpJRmZFbFNiNGZWcUxpZ00ySWthMVA4R2M0VzRHZzJXeVRKMjNnQXN3SzhsbWxFZ2lzd1lYSEx6emM5RjFPbTVoeVM0NGtvWXlEdHJOWjhlLWJ6X25YdlBFcWRLNEZ6YmdHWDNsNVFqUE5wVHVIbzdXRzQxYURhS0lGbXdKUFYyTQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 20:35:00 GMT",
+  "published_ts": 1783456500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUZxc2lRNXJKblpDVVZhRGNFOFBpc04tbU1ZOEN4dWpJRmZFbFNiNGZWcUxpZ00ySWthMVA4R2M0VzRHZzJXeVRKMjNnQXN3SzhsbWxFZ2lzd1lYSEx6emM5RjFPbTVoeVM0NGtvWXlEdHJOWjhlLWJ6X25YdlBFcWRLNEZ6YmdHWDNsNVFqUE5wVHVIbzdXRzQxYURhS0lGbXdKUFYyTQ?oc=5\" target=\"_blank\">Stock Market Today: Nasdaq Is Day's Biggest Loser; Sandisk, Micron Tumble, Eli Lilly Shines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk and Micron stock prices declined on a day when Nasdaq was the market's biggest loser. The headline notes the price movement but provides no specific catalyst or news catalyst tied to memory-semiconductor fundamentals, earnings, guidance, or industry developments—it is a general market report mentioning holdings in passing."
+  },
+  "buffered_ts": 1783461239.1482632
  }
 ]
