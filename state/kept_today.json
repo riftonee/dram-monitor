@@ -2607,5 +2607,101 @@
    "summary": "SanDisk mentioned alongside Intel in a broad chip-sector sell-off and technical analysis piece. No memory-specific news, pricing data, or material developments reported—only price-action commentary on a market wobble affecting semiconductor stocks generally."
   },
   "buffered_ts": 1783465074.980466
+ },
+ {
+  "id": "a4750570b387fe7ccaf81a077152898d24241280",
+  "source": "Samsung Global Newsroom",
+  "topic": "holding",
+  "title": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure - Samsung Global Newsroom",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamk4VzBhM1FXOF9HaTFvczU5V2RoaERTTWg5UzFZMUpGYXF4ZnZYX2lwMnQ0LXhXNUQ5LXF6cTlIWjhPVHpiMnlMSWdla0cyRk8xX3I1RllRSkMwdjhhTVExUUFjY29EM2F4dXhtb1lZZVVLeDQzT21Ed1pkeHFNMFBaNkt5b0NrWDBtM2NoS0g4eExWNGZiaVUycG1LZG83MlAtZGx2MVZVaFFMOVFXTk9SQVNKNXE1WXloOXBpYXB1dw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 23:00:00 GMT",
+  "published_ts": 1783465200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamk4VzBhM1FXOF9HaTFvczU5V2RoaERTTWg5UzFZMUpGYXF4ZnZYX2lwMnQ0LXhXNUQ5LXF6cTlIWjhPVHpiMnlMSWdla0cyRk8xX3I1RllRSkMwdjhhTVExUUFjY29EM2F4dXhtb1lZZVVLeDQzT21Ed1pkeHFNMFBaNkt5b0NrWDBtM2NoS0g4eExWNGZiaVUycG1LZG83MlAtZGx2MVZVaFFMOVFXTk9SQVNKNXE1WXloOXBpYXB1dw?oc=5\" target=\"_blank\">Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung Global Newsroom</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Samsung Global Newsroom"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung has begun mass production of the PM1763 SSD optimized for next-generation AI infrastructure, a concrete capacity expansion event that directly supports AI-driven memory demand and represents a material development by a fund holding."
+  },
+  "buffered_ts": 1783468774.977358
+ },
+ {
+  "id": "c3bc1861822b7648499b76d11dd30d76c38f4755",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix targets $28B US IPO to fund AI-driven chip expansion - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmJOeW9idlNtWWhfOWdpMUxUSVZ6YkpFeVpBMTQyMEtjckU1SWI0TUlrbzdmSDJ4cTZBcUNxdFFPTnN4NDBHNEFWYThpb0RDYUl3aDlsamUxaHpPNHFYemViSlNnMG16OXhHVE1abUtqWmhIMVBzT3JleWtPQmk4d2FOanhPd1JIWnV1VUpWVDVPZw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 15:47:00 GMT",
+  "published_ts": 1783352820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONmJOeW9idlNtWWhfOWdpMUxUSVZ6YkpFeVpBMTQyMEtjckU1SWI0TUlrbzdmSDJ4cTZBcUNxdFFPTnN4NDBHNEFWYThpb0RDYUl3aDlsamUxaHpPNHFYemViSlNnMG16OXhHVE1abUtqWmhIMVBzT3JleWtPQmk4d2FOanhPd1JIWnV1VUpWVDVPZw?oc=5\" target=\"_blank\">SK Hynix targets $28B US IPO to fund AI-driven chip expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is targeting a $28B US IPO to fund AI-driven chip expansion. This is a concrete, officially announced capital raise and strategic move to increase memory-chip production capacity in response to AI infrastructure demand."
+  },
+  "buffered_ts": 1783468774.977358
+ },
+ {
+  "id": "1f9e1144fdf62f9c8e6176fa27edd8e41cb49053",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung and AI chip stocks fall after 19-fold rise in profit fails to impress investors - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUzBQRUU1MVJzX251Qm8zbGV5dXd4UFgzLTdoTVVtcDg2ckpHRlkzd2tvbGpyY2kzeDk2WGFmZXk0Z1IzRWVueHFDLXhKckdsZ3pmN3RqYTl0LXpWdmdwT0JIVzJSVzRwT1JvSmh5UExIOTZaUWhDQ2dqYnpaR011UDRVb1dzUE5pUUtqcUNVUFk0SW9CLTVsTkZFc2FZQmRBN045T0RwcXcwcmo2MEd3LUY0R2xrWWlGTWRhUk9weWlUcXlQekZ1Y2tUd2Q5SnZuY2FSQ1BIRzhRb2V4a0xDMA?oc=5",
+  "published_at": "Tue, 07 Jul 2026 20:43:29 GMT",
+  "published_ts": 1783457009,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUzBQRUU1MVJzX251Qm8zbGV5dXd4UFgzLTdoTVVtcDg2ckpHRlkzd2tvbGpyY2kzeDk2WGFmZXk0Z1IzRWVueHFDLXhKckdsZ3pmN3RqYTl0LXpWdmdwT0JIVzJSVzRwT1JvSmh5UExIOTZaUWhDQ2dqYnpaR011UDRVb1dzUE5pUUtqcUNVUFk0SW9CLTVsTkZFc2FZQmRBN045T0RwcXcwcmo2MEd3LUY0R2xrWWlGTWRhUk9weWlUcXlQekZ1Y2tUd2Q5SnZuY2FSQ1BIRzhRb2V4a0xDMA?oc=5\" target=\"_blank\">Samsung and AI chip stocks fall after 19-fold rise in profit fails to impress investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung stock declined despite a 19-fold profit increase, indicating market sentiment shifted to disappointment with results. The story covers post-earnings market reaction rather than new earnings information itself, and reflects investor sentiment rather than a concrete new development affecting the memory cycle."
+  },
+  "buffered_ts": 1783468774.977358
+ },
+ {
+  "id": "33f0a42ec300a380a7d7d54fa18ed58a7390d5e4",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "SK hynix ADR draws heavy demand before U.S. listing despite price swings - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUZLN3dYRHNKQ0RaS0oxSjFLY3A1dUxHbHh4eDA1SUZvOXZNa1h1RHd5N2hWSWMyaHRaVC1JdWEwQUtXbnFBM3doSkJ5VVA3Tkx0aHppaXVsR0NmbDlMVHpET3dTeG4zNF9KUnpSaU9wQ09udHZlTjZIN3o1MVRmadIBlAFBVV95cUxNTTJRNnBiMlV0dU5DX1RWaEZPSHpCTVpEYV83QTl1NmZXX0pfczdaTjI2bDZNMTd6Z0xsd1dNQmU1T2NUN3MxWFdGRW1hY29KbTNBcC05bjhjMm1LNGFmUmt5cU51WGM2VXBJcWh6ZUNjd3JGSkNtdkJEcXNBWXN0NlR6X1QzR3Y0NVJ3eVNKMVF3b2FS?oc=5",
+  "published_at": "Tue, 07 Jul 2026 23:07:00 GMT",
+  "published_ts": 1783465620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUZLN3dYRHNKQ0RaS0oxSjFLY3A1dUxHbHh4eDA1SUZvOXZNa1h1RHd5N2hWSWMyaHRaVC1JdWEwQUtXbnFBM3doSkJ5VVA3Tkx0aHppaXVsR0NmbDlMVHpET3dTeG4zNF9KUnpSaU9wQ09udHZlTjZIN3o1MVRmadIBlAFBVV95cUxNTTJRNnBiMlV0dU5DX1RWaEZPSHpCTVpEYV83QTl1NmZXX0pfczdaTjI2bDZNMTd6Z0xsd1dNQmU1T2NUN3MxWFdGRW1hY29KbTNBcC05bjhjMm1LNGFmUmt5cU51WGM2VXBJcWh6ZUNjd3JGSkNtdkJEcXNBWXN0NlR6X1QzR3Y0NVJ3eVNKMVF3b2FS?oc=5\" target=\"_blank\">SK hynix ADR draws heavy demand before U.S. listing despite price swings - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix ADR drawing heavy demand ahead of U.S. listing. Market interest noted but no concrete event, pricing, or fund-material development reported; pricing swings mentioned but no specific data or catalyst disclosed."
+  },
+  "buffered_ts": 1783468774.977358
  }
 ]
