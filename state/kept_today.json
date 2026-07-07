@@ -1,1 +1,578 @@
-[]
+[
+ {
+  "id": "7fe9ada1d9a7b64a4e8647d769fdc76f13be1f88",
+  "source": "TradingView",
+  "topic": "fund",
+  "title": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdl9GMnZPMlJhNC1PTjBHYzhncDdDWFktc0ZrbzRweHZVc1RTS2ZteUdzamtTSmRpVjRKOFVFN1lnRUNicnZwNzZUYUtyVmVTWU5xbTQ4NVVrTWp5VF9uWGIxTmNDaWFWSWh5QWZ5TXQ5YUw3MDhLTUpZNTVtYXNGRHVoc2toM2w0QlNKQzNPNTY0ZWtLOTZXdXNENU1zYWxOam9jQmgzUktuUmpyT3BWOWtNXzJiaWpybTN4Q2RLWUw4czRfbzd6Z1RJSnhiSk1jWVpOWE9zNndjMmgtbG5NR3ZXdVJaOWxqbXM5RUkwWndXemF0ZU9WSFF4SDdnX21LbVVSWjlB?oc=5",
+  "published_at": "Mon, 06 Jul 2026 03:32:00 GMT",
+  "published_ts": 1783308720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQdl9GMnZPMlJhNC1PTjBHYzhncDdDWFktc0ZrbzRweHZVc1RTS2ZteUdzamtTSmRpVjRKOFVFN1lnRUNicnZwNzZUYUtyVmVTWU5xbTQ4NVVrTWp5VF9uWGIxTmNDaWFWSWh5QWZ5TXQ5YUw3MDhLTUpZNTVtYXNGRHVoc2toM2w0QlNKQzNPNTY0ZWtLOTZXdXNENU1zYWxOam9jQmgzUktuUmpyT3BWOWtNXzJiaWpybTN4Q2RLWUw4czRfbzd6Z1RJSnhiSk1jWVpOWE9zNndjMmgtbG5NR3ZXdVJaOWxqbXM5RUkwWndXemF0ZU9WSFF4SDdnX21LbVVSWjlB?oc=5\" target=\"_blank\">SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Memory stocks (SNDK, WDC, MU) rebounded after an intra-day selloff tied to Anthropic news; traders await Samsung earnings. This is a price-move narrative linked to a known trigger (Anthropic event) rather than a new memory-sector catalyst. Post-reaction commentary without new holdings-specific fundamentals warrants impact 3."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "4057435835686a5721199556ea3c595b7836412d",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Earnings Surge 19-Fold Fails to Stop Profit-Taking, Samsung’s Results Drag Down Micron With Pre-Market Drop of Over 5% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9ZTFVvcm9yd3JGT0N1NXVtam1BR0w0NHdHUnIzQTlTMXpJUkhZTjJxR2F3Q0t2RXExVFV4QnBGT1cyNEo4RlNtTXdmN29oS2QzWElNeS05dkJtWXpCY2NHVElxcUNKQm1BWHBNT0F2bGRWYVMyeG9rX0FmR3V3RWRmcmUwSmtNdXFXcVpuZ1dtUHZlV3BJXzdzdTNlUXZCTkNZZndTamRRcms2ZktVN3d4bFZhOUNTa3c3WnJNSUdvUQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:36:44 GMT",
+  "published_ts": 1783424204,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9ZTFVvcm9yd3JGT0N1NXVtam1BR0w0NHdHUnIzQTlTMXpJUkhZTjJxR2F3Q0t2RXExVFV4QnBGT1cyNEo4RlNtTXdmN29oS2QzWElNeS05dkJtWXpCY2NHVElxcUNKQm1BWHBNT0F2bGRWYVMyeG9rX0FmR3V3RWRmcmUwSmtNdXFXcVpuZ1dtUHZlV3BJXzdzdTNlUXZCTkNZZndTamRRcms2ZktVN3d4bFZhOUNTa3c3WnJNSUdvUQ?oc=5\" target=\"_blank\">Earnings Surge 19-Fold Fails to Stop Profit-Taking, Samsung’s Results Drag Down Micron With Pre-Market Drop of Over 5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and Micron reported earnings with a 19x surge, but Micron faced a pre-market drop exceeding 5% despite the results. The stock move appears driven by profit-taking rather than new fundamental information, as the earnings themselves have already been disclosed. Post-earnings price action without a novel catalyst is below the threshold for impact 4."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "ec563f8ed72603d0c1235aec196c6e81b2eb2f8c",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Samsung Electronics Q2 Operating Profit Hits ₩89 Trillion; Excluding Bonuses, It Tops ₩100 Trillion - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LaUhycnhMTXQtam8yN3pZSF85cU53NmllMkVyT1hLYU1jQld1MVo3Yk9WQ2ROV2hqRGlmM0pSb21iREZxMUgzRkVXQWdESVNGQ0dpYXJfMTJCZFVVSlFDQXI2cGFUMFRoZ3pTQm41Z2tpTGt1bHc?oc=5",
+  "published_at": "Tue, 07 Jul 2026 00:25:00 GMT",
+  "published_ts": 1783383900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1LaUhycnhMTXQtam8yN3pZSF85cU53NmllMkVyT1hLYU1jQld1MVo3Yk9WQ2ROV2hqRGlmM0pSb21iREZxMUgzRkVXQWdESVNGQ0dpYXJfMTJCZFVVSlFDQXI2cGFUMFRoZ3pTQm41Z2tpTGt1bHc?oc=5\" target=\"_blank\">Samsung Electronics Q2 Operating Profit Hits ₩89 Trillion; Excluding Bonuses, It Tops ₩100 Trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics reported Q2 operating profit of ₩89 trillion (over ₩100 trillion excluding bonuses). As a major memory semiconductor manufacturer and DRAM ETF holding, this earnings result is relevant to fund performance, though the headline alone does not specify memory segment profitability or provide forward guidance distinct from prior expectations."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "38e8d9abcecb0fec7dd62d6561e9fe511314c188",
+  "source": "Proactive financial news",
+  "topic": "holding",
+  "title": "Samsung plunges despite earnings beat, sparking fresh AI stock jitters for Nasdaq names - Proactive financial news",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS0ZYS3pxUWFjUVRha2I1TFhnTGxqWU42TDQ2NDljUjR0RHltQmJETVRXVHdfVnhySW9Fd0tzdzBzVEJSM2lKdHJVZnZyWDNBdHdTSnltOF9SZ25mNWk1cU9JTXB4aHhuMjZUQzNyNHBnRFBwX0dLYU9QVExCQ2x5akFpSHRMSWl1bXVLVHdKVUpNYWVOX0RfYWI5cUFISFdlb2pfRFVVdFUwbzhOVUZxNTZ5ZEg2dEh1UmpCaWZkVzREWTN4WXlGSlJ2WDlOQ2VxOHdCUWxPTEt2V1JNNEY5NGl2VmNCcmlxdTc0dnB3?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:09:00 GMT",
+  "published_ts": 1783422540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS0ZYS3pxUWFjUVRha2I1TFhnTGxqWU42TDQ2NDljUjR0RHltQmJETVRXVHdfVnhySW9Fd0tzdzBzVEJSM2lKdHJVZnZyWDNBdHdTSnltOF9SZ25mNWk1cU9JTXB4aHhuMjZUQzNyNHBnRFBwX0dLYU9QVExCQ2x5akFpSHRMSWl1bXVLVHdKVUpNYWVOX0RfYWI5cUFISFdlb2pfRFVVdFUwbzhOVUZxNTZ5ZEg2dEh1UmpCaWZkVzREWTN4WXlGSlJ2WDlOQ2VxOHdCUWxPTEt2V1JNNEY5NGl2VmNCcmlxdTc0dnB3?oc=5\" target=\"_blank\">Samsung plunges despite earnings beat, sparking fresh AI stock jitters for Nasdaq names</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Proactive financial news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung stock fell despite beating earnings expectations, reflecting market concerns about AI-related semiconductor demand. While Samsung is a major memory-chip holding in DRAM ETF, this story reports a stock price move driven by existing earnings results and sentiment, not a new concrete development or guidance change. The 'jitters' framing indicates reaction to known information rather than a market-moving announcement."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "035a3b75e1d19256f168953027fb56d2cca027ae",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "AI memory, chip stocks fall despite Samsung's Q2 profit surge as worries around AI boom loom - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTl5bEIyMmNmMEwzZU9BSnlPellVU0xoMDhiRkdEWS1hMDNZRll0VlJ4SzdzdGFRWkpqem5weXhaNTE1aWplVXltdzJsZUZRTjVHdV9xY1U3U0U5bEFPUFFmSkR5czVmRDVjX01NOHBPTWRubzY0UmlMRjM5NUcwVFd6SjhBdWxaSENMUE9GcG1BOXFlbFZabkNSdjNVOThrUnpUNWNvYjhrTXFFZlZGaEpNSlJ4MzJoRndQUHdjU3NGZmY5ZGk0?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:46:41 GMT",
+  "published_ts": 1783424801,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTl5bEIyMmNmMEwzZU9BSnlPellVU0xoMDhiRkdEWS1hMDNZRll0VlJ4SzdzdGFRWkpqem5weXhaNTE1aWplVXltdzJsZUZRTjVHdV9xY1U3U0U5bEFPUFFmSkR5czVmRDVjX01NOHBPTWRubzY0UmlMRjM5NUcwVFd6SjhBdWxaSENMUE9GcG1BOXFlbFZabkNSdjNVOThrUnpUNWNvYjhrTXFFZlZGaEpNSlJ4MzJoRndQUHdjU3NGZmY5ZGk0?oc=5\" target=\"_blank\">AI memory, chip stocks fall despite Samsung's Q2 profit surge as worries around AI boom loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung posted Q2 profit surge, but AI memory and chip stocks fell amid concerns about AI boom sustainability. Market reaction to earnings is soft sentiment/worry rather than a concrete new development."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "203bc5ee69c3f02dd22823985481b8922f87cd54",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Samsung Electronics: Preliminary Figures Slightly Soft; We Expect Memory Price Hikes to Taper - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2Q5aGYtYUo1NU5KdVdVOFZCSmZPUndFbWYxcVVpZUlCMzlKdWFYendGX2ZYLWpoZUtHZDc5SlRubmcwamF5eGFPMGd0UmdoNGZCcUVrN2hOOThxYjNDOUVHN0hLXzM1YWdSWkdUcThta09ManY2QzVtN3hEZlk2RGhwdE94b29NTFliNFRibEkwZnBkTnRtQnNsYkRuMklRVTVlbVZsZi1BdnFmWTJRXzh6U0RHcFhCS3FSR2FRNk43T2VQU1J1S25UR3o?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:38:14 GMT",
+  "published_ts": 1783417094,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2Q5aGYtYUo1NU5KdVdVOFZCSmZPUndFbWYxcVVpZUlCMzlKdWFYendGX2ZYLWpoZUtHZDc5SlRubmcwamF5eGFPMGd0UmdoNGZCcUVrN2hOOThxYjNDOUVHN0hLXzM1YWdSWkdUcThta09ManY2QzVtN3hEZlk2RGhwdE94b29NTFliNFRibEkwZnBkTnRtQnNsYkRuMklRVTVlbVZsZi1BdnFmWTJRXzh6U0RHcFhCS3FSR2FRNk43T2VQU1J1S25UR3o?oc=5\" target=\"_blank\">Samsung Electronics: Preliminary Figures Slightly Soft; We Expect Memory Price Hikes to Taper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Morningstar analysis of Samsung's preliminary earnings notes soft results and expects memory price increases to moderate going forward. This is analyst opinion on pricing trends rather than a confirmed event, and Samsung's earnings have likely already been reported separately."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "08d46c529c5d5d70c58b4219ca5fddb88b023532",
+  "source": "Blockonomi",
+  "topic": "holding",
+  "title": "SanDisk (SNDK) Shares Plunge 6% as Samsung's Blockbuster Results Trigger Memory Stock Rout - Blockonomi",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjZkRnVLbEtxR3poNXN0UzBrQWdDZTRSSDUwUUVFenE3bDBuOC1VU2tqUzZIbDNzMDZiUDN5akI3NlhHWUdzTzIzS0ZzcDd1RVJhNHFTWm92ck5wRnh1TG9sSW9PbFlyemEtXzZYNHNUVWdsdmxpX3BXUTI2ZjdCRzF3b2FHRl9vaHhYdmgwUWw1ZXFFY1Yxck03RzhsN0ZZQkE1S3NDaGxUSG1GZXhN?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:44:21 GMT",
+  "published_ts": 1783424661,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjZkRnVLbEtxR3poNXN0UzBrQWdDZTRSSDUwUUVFenE3bDBuOC1VU2tqUzZIbDNzMDZiUDN5akI3NlhHWUdzTzIzS0ZzcDd1RVJhNHFTWm92ck5wRnh1TG9sSW9PbFlyemEtXzZYNHNUVWdsdmxpX3BXUTI2ZjdCRzF3b2FHRl9vaHhYdmgwUWw1ZXFFY1Yxck03RzhsN0ZZQkE1S3NDaGxUSG1GZXhN?oc=5\" target=\"_blank\">SanDisk (SNDK) Shares Plunge 6% as Samsung's Blockbuster Results Trigger Memory Stock Rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Blockonomi"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk shares fell 6% following Samsung's earnings report, which triggered a broader memory sector sell-off. The move reflects market reaction to Samsung's results rather than a distinct SanDisk catalyst."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "4653025d0680e162ca4ac86c943d7780325c7899",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "Samsung loses over $100bn in market value despite record AI-driven profit - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHl0Yl83SEpseHpOZEdseDA4N3djNl9XQTFRRW9DRFlYaVhEN1RlaGhGcjZWaVJnV3hoRlBtUWtISDNBNzFnZlZuZnp2ZWtsUzRkcXFKN0lyUVFjaG15aVNOVVFGaWVkOGw2MXFMVDFGZlZRbVZ0YldZMGRUY3JVSTNfRGpTcUE?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:34:47 GMT",
+  "published_ts": 1783416887,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHl0Yl83SEpseHpOZEdseDA4N3djNl9XQTFRRW9DRFlYaVhEN1RlaGhGcjZWaVJnV3hoRlBtUWtISDNBNzFnZlZuZnp2ZWtsUzRkcXFKN0lyUVFjaG15aVNOVVFGaWVkOGw2MXFMVDFGZlZRbVZ0YldZMGRUY3JVSTNfRGpTcUE?oc=5\" target=\"_blank\">Samsung loses over $100bn in market value despite record AI-driven profit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's market cap declined over $100bn despite reporting record AI-driven profits. While Samsung is a DRAM fund holding, the headline reflects market sentiment and valuation reset rather than a concrete operational or supply change. The stock move appears driven by multiple factors (valuation concerns, macro conditions) rather than a memory-specific catalyst, and the underlying profit achievement is already reflected in earnings disclosure."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "50e6e535e1efb219e59d16b7a819660dd7f09fc2",
+  "source": "Scripps News",
+  "topic": "industry",
+  "title": "Apple is hiking the prices of MacBooks and iPads due to the memory chip shortage - Scripps News",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVBweXhCMnJYdjNYb2VvaUgyT0lCU0RfVHdrVm13QTZoS0VHNVE3ZnQ1clNmUWJaMEMtMVBnRTNScWhJNnpBQUJHVHZlZFB3Y2JxVWxJamlPZzduQjVOcGRLbWVZSWRocjdOdlE4TkFVb2NfbWxfWkFUcGd3SVRhbUZ2bFdCZEFJbmtYSHF2bnNhaHJkcjJ1c1ExdHRLV1h4cFEtWHVPX1dOaXdfRkVLUkZMc3lSRFFSbWU0S2MyZWlGMlE?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:02:50 GMT",
+  "published_ts": 1783422170,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVBweXhCMnJYdjNYb2VvaUgyT0lCU0RfVHdrVm13QTZoS0VHNVE3ZnQ1clNmUWJaMEMtMVBnRTNScWhJNnpBQUJHVHZlZFB3Y2JxVWxJamlPZzduQjVOcGRLbWVZSWRocjdOdlE4TkFVb2NfbWxfWkFUcGd3SVRhbUZ2bFdCZEFJbmtYSHF2bnNhaHJkcjJ1c1ExdHRLV1h4cFEtWHVPX1dOaXdfRkVLUkZMc3lSRFFSbWU0S2MyZWlGMlE?oc=5\" target=\"_blank\">Apple is hiking the prices of MacBooks and iPads due to the memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Scripps News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Apple is raising MacBook and iPad prices citing memory chip shortage, indicating increased demand pressure and potential pricing power for DRAM/NAND suppliers including fund holdings like Micron and Western Digital; however, this is a downstream market reaction to the supply situation rather than a primary supply or demand announcement from the semiconductor makers themselves."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "648caf8d7c4bc2fb5e765f6e745a35e7bf3b5864",
+  "source": "PC Gamer",
+  "topic": "holding",
+  "title": "Analysts think we could see a substantial drop in memory pricing by the end of 2028 - PC Gamer",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS1VfRVh4ejE2WEdjX3JYYkVZTE9hdUUwWEZTVk1OUS1SWTkzTDBUTUhUZWpJcElJSmF1YldlYnpJanNvUGJpWlRjUlZ6dGViaHZhM0pVLVowQUtDVUp0dU9abGdQb1BCQ0VlTlpyNzFSZlA3YWRuZi12Z0libEtjaG1kNFRFdy1BU0Y3M0owanIzWGFhNC1SazZSZ0lVS1AzdlZXZFBLMnllVE1mSVA0OTVfRVhnVG9aRnVIZ3dSMmpkb2x2WHVRanhpZUwzamNxZ1FQZzFPSVM3U0FVa1cxQTZLazRLeHAxV1FXLUJ2dHNyRDRvbFZvc3BGT1dyUQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:24:35 GMT",
+  "published_ts": 1783427075,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS1VfRVh4ejE2WEdjX3JYYkVZTE9hdUUwWEZTVk1OUS1SWTkzTDBUTUhUZWpJcElJSmF1YldlYnpJanNvUGJpWlRjUlZ6dGViaHZhM0pVLVowQUtDVUp0dU9abGdQb1BCQ0VlTlpyNzFSZlA3YWRuZi12Z0libEtjaG1kNFRFdy1BU0Y3M0owanIzWGFhNC1SazZSZ0lVS1AzdlZXZFBLMnllVE1mSVA0OTVfRVhnVG9aRnVIZ3dSMmpkb2x2WHVRanhpZUwzamNxZ1FQZzFPSVM3U0FVa1cxQTZLazRLeHAxV1FXLUJ2dHNyRDRvbFZvc3BGT1dyUQ?oc=5\" target=\"_blank\">Analysts think we could see a substantial drop in memory pricing by the end of 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PC Gamer"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysts forecast a substantial drop in memory pricing by end of 2028. This is forward-looking analyst opinion on pricing trends, not a confirmed event or hard data on current or near-term pricing, so it registers as soft forward guidance rather than a concrete market development."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "da0789027f2c00f3a0451e8a2bcb02f835227420",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK hynix (KOSE:A000660) Weighs New Share Issue As Undervalued Narrative Holds - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmdBX2xQeU40MVZvTVd5Vk5HX1lDdExMWVBqc2p2eTJrMy1rX19yUVFoYmxoUEJfMmlZMmNUU09sUlJwLUxPWkVaY3F6SDdUYXBQc2xLZk04OURkQURGT0w2c29Jc3ZsMl84bEdyQzRFOG5xQS1qZkJXc3JiZFg0eGo1WnNLdU5mUU9nejNlZnZvdlFKMXh0VA?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:15:36 GMT",
+  "published_ts": 1783426536,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmdBX2xQeU40MVZvTVd5Vk5HX1lDdExMWVBqc2p2eTJrMy1rX19yUVFoYmxoUEJfMmlZMmNUU09sUlJwLUxPWkVaY3F6SDdUYXBQc2xLZk04OURkQURGT0w2c29Jc3ZsMl84bEdyQzRFOG5xQS1qZkJXc3JiZFg0eGo1WnNLdU5mUU9nejNlZnZvdlFKMXh0VA?oc=5\" target=\"_blank\">SK hynix (KOSE:A000660) Weighs New Share Issue As Undervalued Narrative Holds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix considering a new share issuance amid market view that the stock is undervalued. This is a corporate finance discussion/possibility rather than a confirmed event, and does not directly move memory demand, pricing, or production capacity, though capital-raising could signal management confidence or fund future capex plans."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "f45fa6af14128c606e490da6a452a97713d0c480",
+  "source": "The Times of India",
+  "topic": "holding",
+  "title": "Samsung beats Nvidia to become world's most-profitable company with ... - The Times of India",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFBNRGhxWlU3QldNaDhDb1VSSEo4dnBMOGtvTXlGY0hVaVk1eTRPOWdzUk9aa1hUZW84TnRRLWVNRV9KcUcwMWFnZ21FaEtncTNXNEtYWi01WVRZVGtxWEJKX3puNWdzdnI0UDVPd2FCZXFIajVPRHhrb3VBREpNU1FTdTV4bVEwNlZHeHl0NzM3a2RkdXJNR0NzcnlxUWZTZzRtbGVPNXdyTC1Cd1Exa1VNcE1SVWE3RXR6WjRwaTRlalk0SUhidVVPcjd4ZjF1ZjE2dDBxcE5pLW01cjBVM0RBdGjSAeoBQVVfeXFMTkRLQVFDRkt6UXJPLVpLdnBfQy1KX2V6UmVWN2Z4N0hNQXRYOC1uUm96WnFkQ1RUSnJqNl94WWN1MXFfeVBuemcwQnU4RXpXT2t4ZHBMUXBrdlp3UWFUMzc1QkQxZk42RU13UTd6Z01RT2NPRXdVbWV2eHN6QXo3OFpxeGliWnRKVDNjQmhDWHNpbEQ2TEpEc1ZZQ0xRbG5jZDVFRV9TSVU0Nkt4dTZTNjU1SUNJU0tiZkkxNGUtZzBraGsxVFZsalJpX1NRcnlxaHVQUGFCakxWSFdodTY2Q0NrakwzWVkzWjVB?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:01:00 GMT",
+  "published_ts": 1783425660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFBNRGhxWlU3QldNaDhDb1VSSEo4dnBMOGtvTXlGY0hVaVk1eTRPOWdzUk9aa1hUZW84TnRRLWVNRV9KcUcwMWFnZ21FaEtncTNXNEtYWi01WVRZVGtxWEJKX3puNWdzdnI0UDVPd2FCZXFIajVPRHhrb3VBREpNU1FTdTV4bVEwNlZHeHl0NzM3a2RkdXJNR0NzcnlxUWZTZzRtbGVPNXdyTC1Cd1Exa1VNcE1SVWE3RXR6WjRwaTRlalk0SUhidVVPcjd4ZjF1ZjE2dDBxcE5pLW01cjBVM0RBdGjSAeoBQVVfeXFMTkRLQVFDRkt6UXJPLVpLdnBfQy1KX2V6UmVWN2Z4N0hNQXRYOC1uUm96WnFkQ1RUSnJqNl94WWN1MXFfeVBuemcwQnU4RXpXT2t4ZHBMUXBrdlp3UWFUMzc1QkQxZk42RU13UTd6Z01RT2NPRXdVbWV2eHN6QXo3OFpxeGliWnRKVDNjQmhDWHNpbEQ2TEpEc1ZZQ0xRbG5jZDVFRV9TSVU0Nkt4dTZTNjU1SUNJU0tiZkkxNGUtZzBraGsxVFZsalJpX1NRcnlxaHVQUGFCakxWSFdodTY2Q0NrakwzWVkzWjVB?oc=5\" target=\"_blank\">Samsung beats Nvidia to become world's most-profitable company with ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Times of India"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported beating Nvidia to become the world's most-profitable company. While Samsung is a significant DRAM holding, this headline emphasizes overall profitability and competitive standing rather than memory-specific demand, pricing, capacity, or segment performance. The story lacks concrete details on memory-chip pricing, HBM demand, or production decisions that would directly move the memory cycle."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "9e907a942acf34af44bf884e43305fabed4cb338",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Micron shares retreat as Samsung earnings trigger memory chip selloff (MU) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdldpbkVTVjFPeEV0Z3hxQ1lJQ2pCZkFiYXBKaENpSWoxaGR4Q2Zrc2Z3UnZjajZwRjZDMmpWcnlIVjRRcTRDRXN4aDk3ZEs1Zm03YXZtMzBmR21Xcm0wYlBiNXdaTWFqcUhlczAxdHp0cGt5aG5zVk5Odzk5Qk9iTmZqNEdXRVR4ZVp0c1ZsTlVoTWRuRm9wNzM3dGhLZnFYMkpnZmR3?oc=5",
+  "published_at": "Tue, 07 Jul 2026 10:43:06 GMT",
+  "published_ts": 1783420986,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdldpbkVTVjFPeEV0Z3hxQ1lJQ2pCZkFiYXBKaENpSWoxaGR4Q2Zrc2Z3UnZjajZwRjZDMmpWcnlIVjRRcTRDRXN4aDk3ZEs1Zm03YXZtMzBmR21Xcm0wYlBiNXdaTWFqcUhlczAxdHp0cGt5aG5zVk5Odzk5Qk9iTmZqNEdXRVR4ZVp0c1ZsTlVoTWRuRm9wNzM3dGhLZnFYMkpnZmR3?oc=5\" target=\"_blank\">Micron shares retreat as Samsung earnings trigger memory chip selloff (MU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron shares declined following Samsung's earnings release, which triggered a broader memory chip sector selloff. This represents a market reaction to Samsung's reported results rather than a new concrete event specific to Micron itself."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "e8774e1e046dd3524a5e1e9a9ef35e5182c804db",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Seagate Technology’s SWOT analysis: stock gains traction on tight supply - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkVib2hGX1I0b250Y0M2cDBWcTlBckJpV05nNWVJcWJsOHEwdm00eWNlNVNzUklUWEFjVld4Y09PZW5vWHd2LTVPcHZ1UzV1dWpEd0M5OUYxdjJCQXM5LWRIcjFESmRRWjJ4S3FuamtIR0VNaHVienE1S3lCNDQ0ZWRuNkZHMjlNR3M1a1FlazA4bnF0YTZBbkVmb01CUmUyQmJRMEpCR3VBRm9jSjRQcllXdHhNeEZ1aDR1cGdOUEZZQmJWUkI4?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:24:51 GMT",
+  "published_ts": 1783427091,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkVib2hGX1I0b250Y0M2cDBWcTlBckJpV05nNWVJcWJsOHEwdm00eWNlNVNzUklUWEFjVld4Y09PZW5vWHd2LTVPcHZ1UzV1dWpEd0M5OUYxdjJCQXM5LWRIcjFESmRRWjJ4S3FuamtIR0VNaHVienE1S3lCNDQ0ZWRuNkZHMjlNR3M1a1FlazA4bnF0YTZBbkVmb01CUmUyQmJRMEpCR3VBRm9jSjRQcllXdHhNeEZ1aDR1cGdOUEZZQmJWUkI4?oc=5\" target=\"_blank\">Seagate Technology’s SWOT analysis: stock gains traction on tight supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Investing.com SWOT analysis of Seagate (STX, a DRAM fund holding) noting stock gains attributed to tight supply conditions. The article is analytical commentary on the company's strengths, weaknesses, opportunities, and threats in the context of current market dynamics, rather than a confirmed supply event or material development."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "b0ddec93721bf821a15d1c94176b78eeb6e92f9f",
+  "source": "Android Headlines",
+  "topic": "holding",
+  "title": "The Memory Crisis Is Making Samsung Obscenely Profitable Right Now - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnRNMzFVTlVtTkhTQ0M0ZXBnSW1CcnZ2N242bnE4TktRNkZWVTVsclE0ZjZmZU0tMkF4a2s1a3lPQmI2bTlka2p3bFVKd1ZScTA0UFRzbnZZdFFDaURDZlBzcUsySmdRTmdidU5pZlZRRnBjNTdiTmdkZWNlZzBUS1ZyWXB2SDFaVHNtaEYxOG1vLUg5WTU2c2dKVFk4SlVLN29ReXp3R25KQXNyaEpHcFN3?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:34:17 GMT",
+  "published_ts": 1783424057,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnRNMzFVTlVtTkhTQ0M0ZXBnSW1CcnZ2N242bnE4TktRNkZWVTVsclE0ZjZmZU0tMkF4a2s1a3lPQmI2bTlka2p3bFVKd1ZScTA0UFRzbnZZdFFDaURDZlBzcUsySmdRTmdidU5pZlZRRnBjNTdiTmdkZWNlZzBUS1ZyWXB2SDFaVHNtaEYxOG1vLUg5WTU2c2dKVFk4SlVLN29ReXp3R25KQXNyaEpHcFN3?oc=5\" target=\"_blank\">The Memory Crisis Is Making Samsung Obscenely Profitable Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Android Headlines"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's memory business is experiencing elevated profitability amid current memory market conditions. While relevant to a key holding, this appears to be analysis/commentary on Samsung's current state rather than reporting a concrete new event, earnings surprise, or pricing/capacity announcement that would constitute a market-moving catalyst."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "f987258e8876ceb2e0873e49f7b549816259e272",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Sandisk Stock: Why the Market’s Hottest Memory Play Is Suddenly Going Cold - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTUwb0xEdUFsUnhlaFRzb0pNZ2NOTEpXemg3Q3RwLUpkWjNMQndMX3duOGNBQjFMT1ZMemp2NWpzbUFKZTF6R0VsWF9lc1N1c05lZk53THZQTDg0QjdrVGVJdGltcmlzNjI5SzJCYThydjJteWNVVl9VbVVKLVEycmVR?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:49:00 GMT",
+  "published_ts": 1783428540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTUwb0xEdUFsUnhlaFRzb0pNZ2NOTEpXemg3Q3RwLUpkWjNMQndMX3duOGNBQjFMT1ZMemp2NWpzbUFKZTF6R0VsWF9lc1N1c05lZk53THZQTDg0QjdrVGVJdGltcmlzNjI5SzJCYThydjJteWNVVl9VbVVKLVEycmVR?oc=5\" target=\"_blank\">Sandisk Stock: Why the Market’s Hottest Memory Play Is Suddenly Going Cold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's analysis of SanDisk stock performance and sentiment shift. Discusses why the memory play has cooled, likely reflecting market reassessment of the holding but without concrete new developments or hard numbers tied to DRAM fundamentals."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "f65eb7a549336e91caca8bc19aebe006b2c899f1",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "DRAM ETF falls 6.5% after Samsung earnings as expert warns on memory stocks - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDVCbkg3RklzZlA0dEdTZmkybEs0TDhHOV92Q21qUnFrOTc1UnNVVkYxSjlST19SVW81cVBoc3FWT0ZmUHo2cmh0ZUNlYWNYWjRMNmdKOXRCamlldTRpa0RrUHNSTl9WRFVVUnFJeVJfZHl2M1N6a0RGS2llNHFJVi0wQTRyVkNMRXhtSGhNVHM0TG5BQ1lGelF6d3lGb19ScERPVEhfMnU4R3VnUzVYMXZhNFJNSEF6Smow?oc=5",
+  "published_at": "Tue, 07 Jul 2026 11:09:47 GMT",
+  "published_ts": 1783422587,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDVCbkg3RklzZlA0dEdTZmkybEs0TDhHOV92Q21qUnFrOTc1UnNVVkYxSjlST19SVW81cVBoc3FWT0ZmUHo2cmh0ZUNlYWNYWjRMNmdKOXRCamlldTRpa0RrUHNSTl9WRFVVUnFJeVJfZHl2M1N6a0RGS2llNHFJVi0wQTRyVkNMRXhtSGhNVHM0TG5BQ1lGelF6d3lGb19ScERPVEhfMnU4R3VnUzVYMXZhNFJNSEF6Smow?oc=5\" target=\"_blank\">DRAM ETF falls 6.5% after Samsung earnings as expert warns on memory stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF declined 6.5% following Samsung earnings release. The stock move reflects market digestion of Samsung's reported results and analyst commentary on memory stocks, rather than a new or unexpected catalyst distinct from the earnings themselves."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "bb6b8bf32d54edef8f90da03b6f23fa9c6bf6bbd",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "New Buy Rating for Seagate Tech (STX), the Technology Giant - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjhUQWF4ZlBTWW1LNHVYdjZrNk5Qc3l6MTNlMGVsY3lKUE5EZmdybWFLVGhhdWhiaTZHSHZCQ0lUSkg3QVRmTXV6N0NyWENzaWRTRkFXM2NKUXN0am1jTVpGbVFhZjMtTXNkQ0ZiQldZanhRQ1RTQkZCT3NhSVJFZGRDMXR3aTI4WVpCTnZyMW1VdlJYUktoaGZRLTczenRSRE1fbE9uQjFtNzJpZVlFd0drSl9nRWtwX29acllqTGMyLU42bjdmbWtKTURUVFRXTzNvc1JLUkNSZw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:19:20 GMT",
+  "published_ts": 1783426760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjhUQWF4ZlBTWW1LNHVYdjZrNk5Qc3l6MTNlMGVsY3lKUE5EZmdybWFLVGhhdWhiaTZHSHZCQ0lUSkg3QVRmTXV6N0NyWENzaWRTRkFXM2NKUXN0am1jTVpGbVFhZjMtTXNkQ0ZiQldZanhRQ1RTQkZCT3NhSVJFZGRDMXR3aTI4WVpCTnZyMW1VdlJYUktoaGZRLTczenRSRE1fbE9uQjFtNzJpZVlFd0drSl9nRWtwX29acllqTGMyLU42bjdmbWtKTURUVFRXTzNvc1JLUkNSZw?oc=5\" target=\"_blank\">New Buy Rating for Seagate Tech (STX), the Technology Giant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst issued a new buy rating on Seagate (STX), a DRAM ETF holding. While positive sentiment on a holding is relevant, a rating change alone without concrete catalysts, price targets, or material new information about the business is opinion-driven and therefore rated as soft impact."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "3c38fee63d23f54ca2bab42c31f6e954b17e376c",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Extreme SK Hynix Stock Swings Add Wild Card to $28 Billion Deal - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak9IRUV3NU05Q1R4bzlWbnMzNUFFMkdGWl8xZVJ6WUFvYVAtUHcwU2JvT1I3VW01MjZTS0xaMmZmYUVCMEhmd1VhU1VMeXdtRFkyeVcxSFJQaE9KRGxJZWF6cnJlMzRvTXpLSXRtOWlEZzlqdWhmZnJEY2JHYURKUHZ3Z0RYZXJzNDlyR1BZUExOemU0anhQTmlXWThncnZ3bEwwTFdReTNweDRJNEpxeUQ5SQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:06:01 GMT",
+  "published_ts": 1783415161,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOak9IRUV3NU05Q1R4bzlWbnMzNUFFMkdGWl8xZVJ6WUFvYVAtUHcwU2JvT1I3VW01MjZTS0xaMmZmYUVCMEhmd1VhU1VMeXdtRFkyeVcxSFJQaE9KRGxJZWF6cnJlMzRvTXpLSXRtOWlEZzlqdWhmZnJEY2JHYURKUHZ3Z0RYZXJzNDlyR1BZUExOemU0anhQTmlXWThncnZ3bEwwTFdReTNweDRJNEpxeUQ5SQ?oc=5\" target=\"_blank\">Extreme SK Hynix Stock Swings Add Wild Card to $28 Billion Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock volatility is complicating a $28 billion deal (likely a major acquisition or investment). The stock swings create uncertainty around deal terms/execution, but the story is about price movements and deal dynamics rather than a confirmed concrete event or new material information about memory demand/supply."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "a82d9461f55416bf524169fad692290f55a80f81",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Samsung foldable prices to rise amid AI-driven memory crunch - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVBaS3RyQy0zYWF5UkVka29lZUlWODhpd29SUXV1UWFLSTNMOUg2NUxmLWdvMl81UTU5VWdkbXNvMGpERDV6WTducVB4T2FJdHRHUDhoeE9iQ1N5MFUzYS04VWY1S2t2OGo1Y2wyUUxXaDRHT0swdVQwZ1dRWXVhTjBEdC1rR3NmcGhILW0wdVN0RFZEYkZVQ1FlcjBscFBvSHlIdUhEVkczZWMxeFUtRm8tRjZCaEZmeU8yRVBZNEZxNmpWbWZkOF9TbS00US1lSXJFVVBEbmRRMUtQZ0dWd1NxcVJhU2RPVDlwZmRfVUFvcFM1?oc=5",
+  "published_at": "Tue, 07 Jul 2026 04:38:47 GMT",
+  "published_ts": 1783399127,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVBaS3RyQy0zYWF5UkVka29lZUlWODhpd29SUXV1UWFLSTNMOUg2NUxmLWdvMl81UTU5VWdkbXNvMGpERDV6WTducVB4T2FJdHRHUDhoeE9iQ1N5MFUzYS04VWY1S2t2OGo1Y2wyUUxXaDRHT0swdVQwZ1dRWXVhTjBEdC1rR3NmcGhILW0wdVN0RFZEYkZVQ1FlcjBscFBvSHlIdUhEVkczZWMxeFUtRm8tRjZCaEZmeU8yRVBZNEZxNmpWbWZkOF9TbS00US1lSXJFVVBEbmRRMUtQZ0dWd1NxcVJhU2RPVDlwZmRfVUFvcFM1?oc=5\" target=\"_blank\">Samsung foldable prices to rise amid AI-driven memory crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung foldable device prices expected to rise due to AI-driven memory demand constraints. This reflects pricing pressure on Samsung's semiconductor memory business from elevated AI infrastructure capex pulling on HBM and memory supply, but the headline is forward-looking commentary rather than a confirmed price change or earnings revision."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "6429636733e9c31aad29c5439b5164d6a0e44e55",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Samsung Confirmed the Boom — So Why Did Memory Fall? - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWU9KejZuT2VyNE0tTGM5UTEwYm8zUlJSbklzdGo5LV9mM19ibGNzSmdsM2RqY01ZX0IxWWNWTGUwUFBMemVZaFZVdFlvYzRPVEs0UHNZcG1WVEZnSEZxbG5QdG1tS3ZVaXU3cDdRUlB2d2lfbkxyMUFXV2hfY016TDFMZkk2eXg2SjBZemdJdlAxeU9XWUhReU5ENEpoWlhzdU5EeVJ3?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:50:14 GMT",
+  "published_ts": 1783417814,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWU9KejZuT2VyNE0tTGM5UTEwYm8zUlJSbklzdGo5LV9mM19ibGNzSmdsM2RqY01ZX0IxWWNWTGUwUFBMemVZaFZVdFlvYzRPVEs0UHNZcG1WVEZnSEZxbG5QdG1tS3ZVaXU3cDdRUlB2d2lfbkxyMUFXV2hfY016TDFMZkk2eXg2SjBZemdJdlAxeU9XWUhReU5ENEpoWlhzdU5EeVJ3?oc=5\" target=\"_blank\">Samsung Confirmed the Boom — So Why Did Memory Fall?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's confirmation of memory demand strength contrasts with a subsequent decline in memory prices or stock performance, suggesting market sentiment shift despite positive fundamentals; analyst commentary on the disconnect rather than a concrete event."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "8cec26d01435acdcce1fda94049dae81f8e87651",
+  "source": "appeconomyinsights.com",
+  "topic": "holding",
+  "title": "🧠 SK Hynix Bets AI Broke the Cycle - appeconomyinsights.com",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNDZOTkNKZExZSHpCUlNZN1V3TFd0U09sUms2S29YaEhIZ3FLQXZXUWpiRjZrakhBelA3ODZCS1ZlY1lMTExHUlpSQlk3VEtxZVBNOW1OYU9DY1Q3ZDlUbXRYZTBzVXQ0WDNmdG9EWkg0aW5mT0FCcw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:06:09 GMT",
+  "published_ts": 1783425969,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNDZOTkNKZExZSHpCUlNZN1V3TFd0U09sUms2S29YaEhIZ3FLQXZXUWpiRjZrakhBelA3ODZCS1ZlY1lMTExHUlpSQlk3VEtxZVBNOW1OYU9DY1Q3ZDlUbXRYZTBzVXQ0WDNmdG9EWkg0aW5mT0FCcw?oc=5\" target=\"_blank\">🧠 SK Hynix Bets AI Broke the Cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">appeconomyinsights.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "appeconomyinsights.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix commentary on AI fundamentally altering the traditional memory demand cycle. While thematically relevant to a memory-focused fund, this appears to be opinion/analysis rather than a concrete event or new quantified data point."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "7b6c5ecdff5d980bb2db833904058e0b2f1fecfc",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Corgi to List SK: A 2x Long SK Hynix ETF Launching July 13 at a 0.50% Expense Ratio, One of the Lowest Among Single-Stock 2x ETFs - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdW9TMFNZN0tiQWFrdVVOTEk5NkE2dG1nWW1TWHdCbHM3VjJKZ21maXhrRzhvNTI2SElOQW5oRGw3UVhNb0p6ZEk2ZjE3eDh0cXBrenpBdGNxRDkxdlF1cUwwbzM4eXRzQTNmS2t2dDVLVjZOQld3XzdnaGstcE5ueFc5Y3F3bXFnS3pnSWoyQ2RnUDBiajhOdU1WMkRkYWU5QU1hVV9kSjdmMUNLeFBaMFdTWi1FUWRJNGphTUFWcEdEQmE5SXk1ZjBkbXlHd1FGTEFpS1lEM2EtNWV2bWRnanRlSlBmVjdHbkV1NEdRZU9HZ1dDbl9pOUpxQk9iOVN5S3M3bmJKbHFpLS05cTg4TmZyMmxhQQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 13:00:00 GMT",
+  "published_ts": 1783429200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQdW9TMFNZN0tiQWFrdVVOTEk5NkE2dG1nWW1TWHdCbHM3VjJKZ21maXhrRzhvNTI2SElOQW5oRGw3UVhNb0p6ZEk2ZjE3eDh0cXBrenpBdGNxRDkxdlF1cUwwbzM4eXRzQTNmS2t2dDVLVjZOQld3XzdnaGstcE5ueFc5Y3F3bXFnS3pnSWoyQ2RnUDBiajhOdU1WMkRkYWU5QU1hVV9kSjdmMUNLeFBaMFdTWi1FUWRJNGphTUFWcEdEQmE5SXk1ZjBkbXlHd1FGTEFpS1lEM2EtNWV2bWRnanRlSlBmVjdHbkV1NEdRZU9HZ1dDbl9pOUpxQk9iOVN5S3M3bmJKbHFpLS05cTg4TmZyMmxhQQ?oc=5\" target=\"_blank\">Corgi to List SK: A 2x Long SK Hynix ETF Launching July 13 at a 0.50% Expense Ratio, One of the Lowest Among Single-Stock 2x ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Corgi is launching a 2x leveraged long ETF tracking SK hynix with a 0.50% expense ratio, effective July 13. While SK hynix is a fund holding, this is a competing leveraged product launch with minimal direct impact on the DRAM ETF itself."
+  },
+  "buffered_ts": 1783431224.048994
+ },
+ {
+  "id": "4cd90de6040afb6d9fa6d991f5887269d0140710",
+  "source": "The Korea Economic Daily Global Edition",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix‑linked leveraged ETFs sink below listing prices - The Korea Economic Daily Global Edition",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBydkx2RTM2UGl2b1c4TzFoc2Q5a01HMHlpdDV3dE9HNFVYNzNFWVplZkZ1YTlkQUMta2ctRjhIWWlmUG0xZkdEZjBKX3pJWE95cG16cDJsbVR3VkRXNC1nUHBVeTJCejdqdTNUQUxlOTVuazNXQ1lfc0FR?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:41:00 GMT",
+  "published_ts": 1783428060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBydkx2RTM2UGl2b1c4TzFoc2Q5a01HMHlpdDV3dE9HNFVYNzNFWVplZkZ1YTlkQUMta2ctRjhIWWlmUG0xZkdEZjBKX3pJWE95cG16cDJsbVR3VkRXNC1nUHBVeTJCejdqdTNUQUxlOTVuazNXQ1lfc0FR?oc=5\" target=\"_blank\">Samsung, SK Hynix‑linked leveraged ETFs sink below listing prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Economic Daily Global Edition</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Economic Daily Global Edition"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix-linked leveraged ETFs have fallen below their listing prices. While the holdings are relevant to DRAM, this is a minor market observation about leveraged products tracking these companies rather than news about the companies' memory business fundamentals, capacity, pricing, or performance."
+  },
+  "buffered_ts": 1783431224.048994
+ }
+]
