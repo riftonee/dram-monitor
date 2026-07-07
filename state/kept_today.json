@@ -1834,5 +1834,509 @@
    "summary": "SanDisk (SNDK), a DRAM ETF holding, declined as part of a broader memory-sector selloff led by Samsung. The article reports a stock price movement without identifying a specific catalyst or new information; it appears to be a market reaction piece rather than reporting a concrete event or pricing development."
   },
   "buffered_ts": 1783449007.1747718
+ },
+ {
+  "id": "7debd79430b0a651820e592a5fadd0554e8f096b",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix’s Offering Reportedly Oversubscribed Multiple Times Amid Prolonged Memory Stocks Sell-Off - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnZQVFQ2Mmp1UkpZVkpVWHdhMVNJN3JaRU1MSXJFZjRvUF9PMnJKNUk0ai02MEFMNUFBSmtIa2hUaWJLMUN4aGMwVlBJdmlrNkJpWjdiRjRtZXZhTlM4T2kyVF9XYXRMZG0teWoxV2ZRaE1ITTkxdTF5aWJiOHFYbjRNLUF1WXZmR2xVcWlnNU1SSk1TWHdnUFlobkNMS2liaHFqVUhLYWMxakxzU2RXV1lSZWZtYTZ4US1LNENBSF9UcVd4RjE2LXJkVDBIc2hLODdHVEVHZTQ2SnJ4c0RPV3BZakJ1akJ0dXZHU21IdEw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 17:25:49 GMT",
+  "published_ts": 1783445149,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnZQVFQ2Mmp1UkpZVkpVWHdhMVNJN3JaRU1MSXJFZjRvUF9PMnJKNUk0ai02MEFMNUFBSmtIa2hUaWJLMUN4aGMwVlBJdmlrNkJpWjdiRjRtZXZhTlM4T2kyVF9XYXRMZG0teWoxV2ZRaE1ITTkxdTF5aWJiOHFYbjRNLUF1WXZmR2xVcWlnNU1SSk1TWHdnUFlobkNMS2liaHFqVUhLYWMxakxzU2RXV1lSZWZtYTZ4US1LNENBSF9UcVd4RjE2LXJkVDBIc2hLODdHVEVHZTQ2SnJ4c0RPV3BZakJ1akJ0dXZHU21IdEw?oc=5\" target=\"_blank\">SK Hynix’s Offering Reportedly Oversubscribed Multiple Times Amid Prolonged Memory Stocks Sell-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix's capital offering was oversubscribed multiple times, indicating strong institutional demand for the company despite ongoing memory-sector weakness. This is a concrete corporate action demonstrating market confidence in a major DRAM fund holding."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "a6ea86f3cce9703b55ad6e4fe2dc4dfb0eda5e4b",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung forecasts record quarterly profit, beating estimates on AI memory demand - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZFExdmJHUmtkRlBDTVowdHdTbFFoM3ZPNWdCUjlVS2REV1hfTm1qRFgxSFdPTkxoNUNmOUJkRE4wUndlUXA0cms5eTRrRXV6bzJ4bGxaZjYyQXR5ejd4clZDVmRrSHQ3cTFFMUNhYzhaUHpiVTlickJtU1BpelNxZVlKUjhKWUpDcGRMa3JwTnJSZDQtZUpIajEwTU5kM0EtNzRSUXVkNUlOeVV0ZGEzbGlYT2FzTWRkR0FodWI1VldvZXlsdGdaa2dMc3ItWUkzbElLd0tuakU1OHVkZ0ZXUk9tZS1iQQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:46:58 GMT",
+  "published_ts": 1783378018,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZFExdmJHUmtkRlBDTVowdHdTbFFoM3ZPNWdCUjlVS2REV1hfTm1qRFgxSFdPTkxoNUNmOUJkRE4wUndlUXA0cms5eTRrRXV6bzJ4bGxaZjYyQXR5ejd4clZDVmRrSHQ3cTFFMUNhYzhaUHpiVTlickJtU1BpelNxZVlKUjhKWUpDcGRMa3JwTnJSZDQtZUpIajEwTU5kM0EtNzRSUXVkNUlOeVV0ZGEzbGlYT2FzTWRkR0FodWI1VldvZXlsdGdaa2dMc3ItWUkzbElLd0tuakU1OHVkZ0ZXUk9tZS1iQQ?oc=5\" target=\"_blank\">Samsung forecasts record quarterly profit, beating estimates on AI memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung reported record quarterly profit that beat estimates, driven by AI memory demand. This is a confirmed earnings beat with concrete results from a major fund holding, representing a material development in the memory cycle."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "27108af68983f9a43c5368af6524cbdffc5d31e2",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Forget SpaceX—SK Hynix’s Record US IPO Tests the AI Trade’s Hottest Corner - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzRqRlRwZ09vNzM1V0dPTkR4MEVacG0wOVpZNGtaajBQdlpCVXozZ0pweEFheVl3QzNIOHA4SGtCTDBWN19LQXJRVml4eGpUQzZTcDk2b3VTMTZQTDBmVDdaMGd2WlNtem5DeElrRVB1WEZINTU0THRTMUJxMy1GemM4bjBQZExnOGF5RlZ0S1M1TXdMRC14Z2R2MkxXYmlKRTBnNw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 20:01:24 GMT",
+  "published_ts": 1783454484,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONzRqRlRwZ09vNzM1V0dPTkR4MEVacG0wOVpZNGtaajBQdlpCVXozZ0pweEFheVl3QzNIOHA4SGtCTDBWN19LQXJRVml4eGpUQzZTcDk2b3VTMTZQTDBmVDdaMGd2WlNtem5DeElrRVB1WEZINTU0THRTMUJxMy1GemM4bjBQZExnOGF5RlZ0S1M1TXdMRC14Z2R2MkxXYmlKRTBnNw?oc=5\" target=\"_blank\">Forget SpaceX—SK Hynix’s Record US IPO Tests the AI Trade’s Hottest Corner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix (a fund holding) completed a record US IPO, a concrete market event that increases the company's US market visibility and liquidity. This is a material development for the holding itself, though not directly tied to memory pricing or demand shifts."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "5a937e5b17e3fce0c4dc4c8885f0e6f1b7a110a6",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Philadelphia Semiconductor Index Falls Over 6% as Chip and Memory Stock Selloff Intensifies. Micron Drops Below $900, While Samsung’s Mixed Earnings Spread Panic. - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR25WakszRFRZNWprT0dfS2FYbDlFYzVVQnlpVmxpXzV2d0RCWkl4czgwQm1QeEhMM2lrSE4yX21BX3lreVRqd1p5X1VtZVRjWE0xN09TazBvNkwxaGduc21FV0lUMnZKU1lPdHVsaVc5YzItNFJxZTF6cjVWX09xRGUzMnJSUEVXNnJiUnJ6MGRPUkNzSGs0UU8xclV0UTdaT0U4Y3ljRmRRaW9HVUNaOGNBQ3pqWU44RVJPQ1cydHpVRERpeFFxM0ZEUnBJdw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 18:42:02 GMT",
+  "published_ts": 1783449722,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOR25WakszRFRZNWprT0dfS2FYbDlFYzVVQnlpVmxpXzV2d0RCWkl4czgwQm1QeEhMM2lrSE4yX21BX3lreVRqd1p5X1VtZVRjWE0xN09TazBvNkwxaGduc21FV0lUMnZKU1lPdHVsaVc5YzItNFJxZTF6cjVWX09xRGUzMnJSUEVXNnJiUnJ6MGRPUkNzSGs0UU8xclV0UTdaT0U4Y3ljRmRRaW9HVUNaOGNBQ3pqWU44RVJPQ1cydHpVRERpeFFxM0ZEUnBJdw?oc=5\" target=\"_blank\">Philadelphia Semiconductor Index Falls Over 6% as Chip and Memory Stock Selloff Intensifies. Micron Drops Below $900, While Samsung’s Mixed Earnings Spread Panic.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron and Samsung (both DRAM ETF holdings) declined sharply as part of a broader semiconductor selloff, with Micron dropping below $900. Samsung's mixed earnings results cited as a driver. This is a post-earnings price-move report with no new information beyond already-reported results; the selloff reflects market digestion of known data rather than a fresh catalyst."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "d7fa0b4119594f4e0626cc1448ed09bec499fa2d",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Western Digital Stock Drops 8.5%: Why Samsung’s Profit Surge Triggered a Tech Selloff - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUpYUVZiajY4bEZ6ci04M3RBR2VRNkl0Um41NFBqZEYtVWIyNVNrR2NfMzR5Nmltd1g5cEZqczdGTDBBNFppN3k4eFE4UjhsRjFwbzFzZXFkX3lHTk1fX0RTclBtNUgwV3p4Q1JveGV6S3Nyd0FqTUFtWmwyUnpLZ2cwbFNuWUltMWpHeUJPdFdLTzlxLWlNUmJoMy0zZ2pOemNlMTNDc29xYzhmVE9kcU54LWUwSjd6YUZ2ZG5MNEl6OExmMWVHMnVnUWhIZzla?oc=5",
+  "published_at": "Tue, 07 Jul 2026 16:06:57 GMT",
+  "published_ts": 1783440417,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUpYUVZiajY4bEZ6ci04M3RBR2VRNkl0Um41NFBqZEYtVWIyNVNrR2NfMzR5Nmltd1g5cEZqczdGTDBBNFppN3k4eFE4UjhsRjFwbzFzZXFkX3lHTk1fX0RTclBtNUgwV3p4Q1JveGV6S3Nyd0FqTUFtWmwyUnpLZ2cwbFNuWUltMWpHeUJPdFdLTzlxLWlNUmJoMy0zZ2pOemNlMTNDc29xYzhmVE9kcU54LWUwSjd6YUZ2ZG5MNEl6OExmMWVHMnVnUWhIZzla?oc=5\" target=\"_blank\">Western Digital Stock Drops 8.5%: Why Samsung’s Profit Surge Triggered a Tech Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) stock dropped 8.5%, apparently triggered by Samsung's profit surge. This is a post-move explanation piece analyzing stock price action in a fund holding; the drop itself is a market reaction to known earnings results rather than new concrete information, making it a softer 3 rather than a 4 or 5."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "d7e2cef4bd97887f33b040638ce13b67531fc2ab",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JeHdqaVA5ZlRYd1hyMWhZUU5sTzJtbFZUQWw5MzZsdEUwLWpjTEk3S0ZXd040TDZWYTlqRi1RTVhZWlQxNGRha0JETXRBRlRUYU12Y1F6Q20tUHBsRFNYWjNFamQ5ZXU4RzFuajhnckJERmtMZFlYQ1pMRjY?oc=5",
+  "published_at": "Tue, 07 Jul 2026 16:00:00 GMT",
+  "published_ts": 1783440000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5JeHdqaVA5ZlRYd1hyMWhZUU5sTzJtbFZUQWw5MzZsdEUwLWpjTEk3S0ZXd040TDZWYTlqRi1RTVhZWlQxNGRha0JETXRBRlRUYU12Y1F6Q20tUHBsRFNYWjNFamQ5ZXU4RzFuajhnckJERmtMZFlYQ1pMRjY?oc=5\" target=\"_blank\">SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly considering a U.S. listing, which would be a significant corporate action for a major DRAM ETF holding. However, the story is speculative—'eyes', 'likely to gain'—rather than an announced or confirmed decision. Until an official announcement is made, this is analytical commentary on a possibility rather than a concrete event."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "56501e1f58ce989fe13843a0e45d2ed859a47d88",
+  "source": "FXStreet",
+  "topic": "holding",
+  "title": "What SK Hynix’s Nasdaq debut and SpaceX’s Nasdaq 100 entry mean for investors - FXStreet",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHRqMFVJODB2bTc5TER5OE1YRlVlU0JDYU5CRFBnMUFrMFdTR1FUaVZ1ZnM1WUtDRHMxXzFVa25Uai1BWXlEQ3AtV1RnMjNmRTlsLUJhWmpIa1VGd3BVY2ZGNkQ4czQ3b3hlMktOSHp5bG5xbUdNWUoxVDAxOVI3b3Bjd2N3R1ZVWFNvNHRNVERFcG50Sno2OVZ4V2Q3bXc2U0pvaVRURTJLUXp6Z29ISWJJUVNFWkJHY0E?oc=5",
+  "published_at": "Tue, 07 Jul 2026 18:29:17 GMT",
+  "published_ts": 1783448957,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHRqMFVJODB2bTc5TER5OE1YRlVlU0JDYU5CRFBnMUFrMFdTR1FUaVZ1ZnM1WUtDRHMxXzFVa25Uai1BWXlEQ3AtV1RnMjNmRTlsLUJhWmpIa1VGd3BVY2ZGNkQ4czQ3b3hlMktOSHp5bG5xbUdNWUoxVDAxOVI3b3Bjd2N3R1ZVWFNvNHRNVERFcG50Sno2OVZ4V2Q3bXc2U0pvaVRURTJLUXp6Z29ISWJJUVNFWkJHY0E?oc=5\" target=\"_blank\">What SK Hynix’s Nasdaq debut and SpaceX’s Nasdaq 100 entry mean for investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXStreet"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix Nasdaq debut is a corporate milestone affecting a major DRAM fund holding, but the story appears to focus on index implications and investor positioning rather than memory-market fundamentals or company-specific operational news."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "30185e04c50a9ec5aef4b9eb569fb4bb38f873dd",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Price Falls 25% In Memory Selloff After Record Run - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2RURUdDdVYzTzBmbG9oTzNLUU1yRExRYllPUjdVVUFZcDVqZWNnRXZwQWZNMVg2QXNXWEo3ajNiUTYxUkRhVEc1UzdyQU5ZSDNSMFl5LXU4cnk2VXpBWU05cjhnWWM2Rzg2TlB5S2ZiYWlkOUJjRWtudk1CSTlaRWJXU19RUU41c0lfZGk5VjV5WlVrdlFRXzROYTdiM2gzVG5ORXRETDFvamYzNU9ScFJheDl3TnVUQ2NlLWZCWdIBxAFBVV95cUxNWDJRSzNPQ2RrQkItN0R6VU91WUMzTDNESW9HeDdoM05MZHRfQTZiNWFpSWdpY3NEMUIwNk1HdkRkY0pGUEdvMHI3c3JhSjk5Z2NPM3ZKQXkxcUl0SWJrbjloRHhPUDh3bGFZRHVEczVrNFNrVkk4QlNLb0toaGRqNm11cTctMmNNVU5GX1NOTEZ0ZkhNczljVE9PSXVJak1IV19WODZydk44Zkd5ZEM0TUVQQ29xQlZTN3l1NHNkOEc4Q1F5?oc=5",
+  "published_at": "Tue, 07 Jul 2026 19:41:04 GMT",
+  "published_ts": 1783453264,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2RURUdDdVYzTzBmbG9oTzNLUU1yRExRYllPUjdVVUFZcDVqZWNnRXZwQWZNMVg2QXNXWEo3ajNiUTYxUkRhVEc1UzdyQU5ZSDNSMFl5LXU4cnk2VXpBWU05cjhnWWM2Rzg2TlB5S2ZiYWlkOUJjRWtudk1CSTlaRWJXU19RUU41c0lfZGk5VjV5WlVrdlFRXzROYTdiM2gzVG5ORXRETDFvamYzNU9ScFJheDl3TnVUQ2NlLWZCWdIBxAFBVV95cUxNWDJRSzNPQ2RrQkItN0R6VU91WUMzTDNESW9HeDdoM05MZHRfQTZiNWFpSWdpY3NEMUIwNk1HdkRkY0pGUEdvMHI3c3JhSjk5Z2NPM3ZKQXkxcUl0SWJrbjloRHhPUDh3bGFZRHVEczVrNFNrVkk4QlNLb0toaGRqNm11cTctMmNNVU5GX1NOTEZ0ZkhNczljVE9PSXVJak1IV19WODZydk44Zkd5ZEM0TUVQQ29xQlZTN3l1NHNkOEc4Q1F5?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Price Falls 25% In Memory Selloff After Record Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock fell 25% in a memory-sector selloff after a prior rally. The article reports a price move and sector context but does not cite a specific catalyst, earnings release, or concrete event distinct from market sentiment. This is a post-move analysis without a stated triggering event."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "7e4d35d3f47918780f25e057818b5f3f28dad96e",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Samsung Just Out-Earned Apple and Nvidia, and the Stock Tanked 7% - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF83LUFNNlpLRDJFanJpcHN3d3VVRTQ2anZ4aVdkMHJPWGJVSlRsUWEzWTJkZ3ljV0FTOExiTzNOd0FJd0pvSUExamlIR2FrUnVWQ2JYU2FOMTN1WW9CMU4wRnBBUmpkSWQ1Z2ZQZElQOGtvRHJTVVU0VWNZbzkzem5pQ2JYeFZERUtlVlNxTmhEdXRmSHc3V05BS2M0SXVfbUxDamVyTTNYQ3M?oc=5",
+  "published_at": "Tue, 07 Jul 2026 19:50:33 GMT",
+  "published_ts": 1783453833,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeF83LUFNNlpLRDJFanJpcHN3d3VVRTQ2anZ4aVdkMHJPWGJVSlRsUWEzWTJkZ3ljV0FTOExiTzNOd0FJd0pvSUExamlIR2FrUnVWQ2JYU2FOMTN1WW9CMU4wRnBBUmpkSWQ1Z2ZQZElQOGtvRHJTVVU0VWNZbzkzem5pQ2JYeFZERUtlVlNxTmhEdXRmSHc3V05BS2M0SXVfbUxDamVyTTNYQ3M?oc=5\" target=\"_blank\">Samsung Just Out-Earned Apple and Nvidia, and the Stock Tanked 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported earnings that exceeded Apple and Nvidia's results, but the stock fell 7% following the announcement. The decline appears market-driven despite strong earnings, likely reflecting concerns about memory pricing, supply dynamics, or forward guidance rather than a new catalyst independent of the earnings release itself."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "560d8783c41fbde92a06e82a71e86380cffab531",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix US Listing Said to Be Multiple Times Oversubscribed - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEJXbGdhYWtqRVVJU1l5aGo5ZkJzS0dRQ2t5MlpDb096RnlCcGJYbTdHRTJQZWsya3lEVGtJSnRIcEx0R2Nvdl9ZX3VsVHBMYkQ1V3RjYjVfT0ZUeEJwQkZheFJpcnlOMzAtcG1fNUpZYUVzdnoyNXZDa1dZYVQ0RlEtTm1HNUdSdXoybkNPY2M1OHpnckFjeE9aR3hIV2RWWUFlTW9udHBia1NhdnZrSg?oc=5",
+  "published_at": "Tue, 07 Jul 2026 15:44:11 GMT",
+  "published_ts": 1783439051,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEJXbGdhYWtqRVVJU1l5aGo5ZkJzS0dRQ2t5MlpDb096RnlCcGJYbTdHRTJQZWsya3lEVGtJSnRIcEx0R2Nvdl9ZX3VsVHBMYkQ1V3RjYjVfT0ZUeEJwQkZheFJpcnlOMzAtcG1fNUpZYUVzdnoyNXZDa1dZYVQ0RlEtTm1HNUdSdXoybkNPY2M1OHpnckFjeE9aR3hIV2RWWUFlTW9udHBia1NhdnZrSg?oc=5\" target=\"_blank\">SK Hynix US Listing Said to Be Multiple Times Oversubscribed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix US listing said to be multiple times oversubscribed, indicating strong investor demand. This is a corporate action for a major fund holding but is based on reporting of subscription interest rather than a confirmed, finalized event—the listing itself has not yet closed."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "93e0b9f25306af2af72f4f8e218ce95fb42519e8",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOVliTWtHSlRKWVpqMWtWRW1lM0ZOWjdOWjlKTkROUVdPeV9QWW9iRVVpd2lmYlRSMnd6TFZQRDNSeVZqdFplRUtqdGlwcWtFbjZYcTVWdE0xdXZ1WWtHcEhDNDlJakhWWVhWRFNrS0p5ZFd4WWfSAXtBVV95cUxQVXhmZ1lrQnFzd1lfS2pLRVRzX3Rsak0tSU4wVHdQSS01MVlma2NkQXNsTXhqTFZLcncyVGZYTHd3TTBxaGJ2Q1J5bkxsemJMTUdVanNDTUxuenktdVpJOUJPZXRnOTFFU01wb0d1bVhhWXV0MTdVSFdKYzg?oc=5",
+  "published_at": "Tue, 07 Jul 2026 17:16:51 GMT",
+  "published_ts": 1783444611,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOVliTWtHSlRKWVpqMWtWRW1lM0ZOWjdOWjlKTkROUVdPeV9QWW9iRVVpd2lmYlRSMnd6TFZQRDNSeVZqdFplRUtqdGlwcWtFbjZYcTVWdE0xdXZ1WWtHcEhDNDlJakhWWVhWRFNrS0p5ZFd4WWfSAXtBVV95cUxQVXhmZ1lrQnFzd1lfS2pLRVRzX3Rsak0tSU4wVHdQSS01MVlma2NkQXNsTXhqTFZLcncyVGZYTHd3TTBxaGJ2Q1J5bkxsemJMTUdVanNDTUxuenktdVpJOUJPZXRnOTFFU01wb0d1bVhhWXV0MTdVSFdKYzg?oc=5\" target=\"_blank\">Chip stocks sell off after Samsung earnings fall short of high AI bar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported earnings that disappointed relative to elevated AI-driven expectations, triggering a chip sector selloff. While Samsung is a fund holding with a memory business, this story reports on post-earnings market reaction and analyst sentiment rather than a concrete new development or guidance change distinct from the earnings themselves."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "efc98b180487d73ca56bd4aaa612a81ef8aa24b3",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "US Memory Chip Sector Weakens Following Samsung's Earnings (MU) - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0lCMWF1UE50aFNKQnZUYXR1a2ZTN2xPampiM1Q5WTBDN3c5cklEb3ZwZEpWc3ZHSVkwZEpoNEdFd0pVbDBaWkR4M2JQbHYwNDROYlFLRkRlUGFTTk50X2RBUHlDVlVwQ2pjQW54TnhQU2Z3TlBMWUc3cEVXLXpYMW1LMms5UEMxTFJzTnlrb2Q1bVpyZVdJZjBjY3UxdnBT?oc=5",
+  "published_at": "Tue, 07 Jul 2026 14:51:36 GMT",
+  "published_ts": 1783435896,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0lCMWF1UE50aFNKQnZUYXR1a2ZTN2xPampiM1Q5WTBDN3c5cklEb3ZwZEpWc3ZHSVkwZEpoNEdFd0pVbDBaWkR4M2JQbHYwNDROYlFLRkRlUGFTTk50X2RBUHlDVlVwQ2pjQW54TnhQU2Z3TlBMWUc3cEVXLXpYMW1LMms5UEMxTFJzTnlrb2Q1bVpyZVdJZjBjY3UxdnBT?oc=5\" target=\"_blank\">US Memory Chip Sector Weakens Following Samsung's Earnings (MU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung earnings reported; sector sentiment weakens. Post-earnings market reaction to known results rather than a new catalyst or guidance change, so impact is soft analysis/digestion rather than concrete new information."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "aeb0ebb27c92d7a39913d2321580e094fb6033d9",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung's 19-Fold Profit Surge Fails to Stop 10% Stock Drop - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2VYekQ2THRwUm5CVVdIQ0RycEFPNHd5OW1RRzZVcHgwNDNrdFNOTGRLUEJzOXVSY1VzZ00xcVh2TUdzZzNkU2lqaVRhMllJX2IwWVBKdU9tOFJ3YjlNUE8wMFNHV0F0T2JoY0tEc1F6NURXWWRfUzl3LW1ua0FlaTFHc1hNZVp3bG1LamtBLU16NmJFTXYwT2RQa05EV21CQUt5VjdYQzlGT2Y3RV9aOTdpcFNIZVpHbXc?oc=5",
+  "published_at": "Tue, 07 Jul 2026 19:15:33 GMT",
+  "published_ts": 1783451733,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2VYekQ2THRwUm5CVVdIQ0RycEFPNHd5OW1RRzZVcHgwNDNrdFNOTGRLUEJzOXVSY1VzZ00xcVh2TUdzZzNkU2lqaVRhMllJX2IwWVBKdU9tOFJ3YjlNUE8wMFNHV0F0T2JoY0tEc1F6NURXWWRfUzl3LW1ua0FlaTFHc1hNZVp3bG1LamtBLU16NmJFTXYwT2RQa05EV21CQUt5VjdYQzlGT2Y3RV9aOTdpcFNIZVpHbXc?oc=5\" target=\"_blank\">Samsung's 19-Fold Profit Surge Fails to Stop 10% Stock Drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported a 19-fold profit surge but stock fell 10%, likely driven by memory pricing outlook or guidance rather than the earnings beat itself. The disconnect between earnings strength and stock weakness suggests market concerns about future memory demand or pricing trajectory."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "07a1e73125249d527e58c151ceb2dddc38e51204",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung Profit Jumps 19-Fold, But Stock Slides Over 10% - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUdLQmVVQURIWC0xNXdkRUxza2M5eVNweVRPcHYyOFFMSUxHckx1cUUxX2pFdXZ0WnBHYkFMamY3d0QxaVZZWTdmSTVzbE16dlIybGxsWlN6QUczMjBaYlg3NXJ1YnlnSUdHYjR0THJNYjFmTnFWa2RCSk54Q0VTeE13Q2YxaHN4YWtiNy1RWnpHaDY4VS1BUjNVazFaRzNaTjhKa0ZfaEEwT3R6TzVQdDJ5UQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 18:55:52 GMT",
+  "published_ts": 1783450552,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUdLQmVVQURIWC0xNXdkRUxza2M5eVNweVRPcHYyOFFMSUxHckx1cUUxX2pFdXZ0WnBHYkFMamY3d0QxaVZZWTdmSTVzbE16dlIybGxsWlN6QUczMjBaYlg3NXJ1YnlnSUdHYjR0THJNYjFmTnFWa2RCSk54Q0VTeE13Q2YxaHN4YWtiNy1RWnpHaDY4VS1BUjNVazFaRzNaTjhKa0ZfaEEwT3R6TzVQdDJ5UQ?oc=5\" target=\"_blank\">Samsung Profit Jumps 19-Fold, But Stock Slides Over 10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported a 19-fold profit increase, but the stock declined over 10%. This represents market digestion of earnings results rather than a new catalyst distinct from the reported figures; the stock move is a reaction to the known earnings release. While Samsung is a key DRAM holding, the post-earnings price action and analyst sentiment are secondary to the underlying earnings data itself."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "8f9995dc1143ee42f33d40c3e5192a4fcd79026c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung is making bank on the AI-fueled memory craze - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTViNEZ2cXZISklSOGhUbXhMbFo4UXVUMHRLN0lkemZlb09mcjd0ejI2REw3Vlk0M1YzRFZmZ1hldmR4YUhZTkhwWHF2QUVFbXhrencxc2JteDhwdnV4aU0wSTJrQ0ZjUHI5Z3R0aDdMbVZsS1ZURi1aTkxNX3VpOWFaNkx4UWF4NDUwckR5S0dsSWJR?oc=5",
+  "published_at": "Mon, 06 Jul 2026 13:39:10 GMT",
+  "published_ts": 1783345150,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTViNEZ2cXZISklSOGhUbXhMbFo4UXVUMHRLN0lkemZlb09mcjd0ejI2REw3Vlk0M1YzRFZmZ1hldmR4YUhZTkhwWHF2QUVFbXhrencxc2JteDhwdnV4aU0wSTJrQ0ZjUHI5Z3R0aDdMbVZsS1ZURi1aTkxNX3VpOWFaNkx4UWF4NDUwckR5S0dsSWJR?oc=5\" target=\"_blank\">Samsung is making bank on the AI-fueled memory craze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance commentary on Samsung's financial performance benefiting from AI-driven demand for memory products. This is analyst/market commentary on an existing trend rather than a new concrete development, and lacks specific numbers or new information beyond general observations about Samsung's AI-memory opportunity."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "f0a6a6a8b10b4cc64a5e69f5d4f7f5cbea9a764e",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "UBS Says Buy SK Hynix ADRs After 220% Stock Surge - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUt4clUxYWtNWFJkQ2NOWjdfLUxWUmxsOHVhanpBcUd6cDQtVFVvLTlqOGRtTERfbUh1cXpnUnhrQk1pMnB0M29RWFBJNEpHT19iWVNJNXFrbVVSLXhpTVIzLVdOMjdfZjlGTGp3OHpWVTFDbWFDUW4yMS1rVGlhdWNKWS05ZUVLRVQzZlJpUHRvN0hPYnAxeG5BWUk3S09jLVR2RTQ3TVJhWWNH?oc=5",
+  "published_at": "Tue, 07 Jul 2026 19:20:24 GMT",
+  "published_ts": 1783452024,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUt4clUxYWtNWFJkQ2NOWjdfLUxWUmxsOHVhanpBcUd6cDQtVFVvLTlqOGRtTERfbUh1cXpnUnhrQk1pMnB0M29RWFBJNEpHT19iWVNJNXFrbVVSLXhpTVIzLVdOMjdfZjlGTGp3OHpWVTFDbWFDUW4yMS1rVGlhdWNKWS05ZUVLRVQzZlJpUHRvN0hPYnAxeG5BWUk3S09jLVR2RTQ3TVJhWWNH?oc=5\" target=\"_blank\">UBS Says Buy SK Hynix ADRs After 220% Stock Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "UBS analyst upgrade/positive call on SK Hynix ADRs following a 220% stock surge. Analyst recommendation and price-target action on an already-moved stock; the surge itself appears to be driven by prior events (earnings/cycle recovery) rather than this note. This is a post-move analyst reaction, not a fresh catalyst."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "c2c25942bc4e088d262395ced2d8aa5b078a8c9e",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Samsung profit surge triggers global memory stock selloff - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdEc0bFh3UG9VMWYxZ3Z0X2d0a21iQ08zMndoVVdpT2xuclFackZraFotalpNOWhVclZ0RDdwYld6RUdMdWhxeXdtUWhrQnNQejZNa0ExN2JFaldGU19QaS1SMU9jQ0p4ZWhyYWczLXRsZjN4QjRLdmd1NktNajFHNWVheHltdnc3Y3RoOGdxTkRnd3hDMnhjWnBRNHc0NFRrSkFLekhQM3hGSjZ3X1E0aXRSM2QyaGhNU2U1UUhoYV9CZDBnSVYwRldUbkhmZFdvV1lOZ3FJY1g2ZzZNbEpsTTY1ZjFsRU0yZHRGeFVyY2w?oc=5",
+  "published_at": "Tue, 07 Jul 2026 12:35:32 GMT",
+  "published_ts": 1783427732,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdEc0bFh3UG9VMWYxZ3Z0X2d0a21iQ08zMndoVVdpT2xuclFackZraFotalpNOWhVclZ0RDdwYld6RUdMdWhxeXdtUWhrQnNQejZNa0ExN2JFaldGU19QaS1SMU9jQ0p4ZWhyYWczLXRsZjN4QjRLdmd1NktNajFHNWVheHltdnc3Y3RoOGdxTkRnd3hDMnhjWnBRNHc0NFRrSkFLekhQM3hGSjZ3X1E0aXRSM2QyaGhNU2U1UUhoYV9CZDBnSVYwRldUbkhmZFdvV1lOZ3FJY1g2ZzZNbEpsTTY1ZjFsRU0yZHRGeFVyY2w?oc=5\" target=\"_blank\">Samsung profit surge triggers global memory stock selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung reported strong profit results, triggering a selloff in global memory stocks including Samsung itself. This is a post-earnings market reaction to already-disclosed financial results rather than a new concrete catalyst; the stock move reflects market digestion of the earnings report rather than a distinct forward-looking development."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "8eb1f87fd85dafbaa522d718b4131597ed53d204",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Just Crashed - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUkzcGNrcW13YWdEdWs2U2Vla05vNEZnMy1KVUtPNFVVUU4wdENtMnR2RVpfVUlURXYyUWV5QmFiRzlCbHhvbW1iNE5pcGZuRUl3c0k5eHFDWmt2OG1rX0tzM3BQSV84VVpWMjNBS1dnb0FHM3AyQWpWQjBZcmF1XzFMVmkzVmx3ampubDA3b2s1R3JDekpuYm14WVhMUHl2MmVtMGVvOWJPSVdTbXJtLU5QMHFCUQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 15:13:03 GMT",
+  "published_ts": 1783437183,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUkzcGNrcW13YWdEdWs2U2Vla05vNEZnMy1KVUtPNFVVUU4wdENtMnR2RVpfVUlURXYyUWV5QmFiRzlCbHhvbW1iNE5pcGZuRUl3c0k5eHFDWmt2OG1rX0tzM3BQSV84VVpWMjNBS1dnb0FHM3AyQWpWQjBZcmF1XzFMVmkzVmx3ampubDA3b2s1R3JDekpuYm14WVhMUHl2MmVtMGVvOWJPSVdTbXJtLU5QMHFCUQ?oc=5\" target=\"_blank\">Why Sandisk Stock Just Crashed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock experienced a significant decline. Without access to the full article text, the impact is scored as 3 (relevant but likely reporting a price move or market reaction) rather than 4-5, as headline-only crash announcements typically describe stock movements driven by previously disclosed information or analyst sentiment rather than new concrete events. A full article review would be needed to confirm if there is a distinct, newly announced catalyst."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "4b7932e238f6c90bdfd8b54a0c8ab31f8ff9c4b9",
+  "source": "PR Newswire",
+  "topic": "holding",
+  "title": "Corgi to List SK: A 2x Long SK Hynix ETF Launching July 13 at a 0.50% Expense Ratio, One of the Lowest Among Single-Stock 2x ETFs - PR Newswire",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVGhqNWxxNnNlNDlHUkt6d2M1OFljQWowM3lsQUZTNXphcFNmRUJiSGIyLU9QUS1WUGFuNG5YWGoyV1Z3VGN2MGVfM2lESElIY05ob044cV9MRjNVX3ZLRDc3OEk0M0xEY3otejRNQlZxTmp5TzhWVHVnNXFDZGdpVzFNa1NpRWd1S1A5T0VCNXRWZDFTd0VkNk1YMmtOQkZjWGZBSmRhSjBRT1IwX3hlVE5wNThIVmxmRndQSGNQVG44TzRkeDJWUEdfSXMzZGpOV0lvdkFDWEMzc0FYR2U2TnZrdmdDQTktRDF2Q3pGdDQtSGVXYlZ6Mllkc2lKb3lRczVnaDBKQ3lDSkk3OHpZ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 13:00:00 GMT",
+  "published_ts": 1783429200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQVGhqNWxxNnNlNDlHUkt6d2M1OFljQWowM3lsQUZTNXphcFNmRUJiSGIyLU9QUS1WUGFuNG5YWGoyV1Z3VGN2MGVfM2lESElIY05ob044cV9MRjNVX3ZLRDc3OEk0M0xEY3otejRNQlZxTmp5TzhWVHVnNXFDZGdpVzFNa1NpRWd1S1A5T0VCNXRWZDFTd0VkNk1YMmtOQkZjWGZBSmRhSjBRT1IwX3hlVE5wNThIVmxmRndQSGNQVG44TzRkeDJWUEdfSXMzZGpOV0lvdkFDWEMzc0FYR2U2TnZrdmdDQTktRDF2Q3pGdDQtSGVXYlZ6Mllkc2lKb3lRczVnaDBKQ3lDSkk3OHpZ?oc=5\" target=\"_blank\">Corgi to List SK: A 2x Long SK Hynix ETF Launching July 13 at a 0.50% Expense Ratio, One of the Lowest Among Single-Stock 2x ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PR Newswire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Corgi is launching a 2x leveraged long SK Hynix ETF on July 13 with a 0.50% expense ratio. While SK Hynix is a DRAM fund holding, this is a third-party leveraged product announcement with minimal direct impact on the Roundhill Memory ETF itself."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "39d5d153c8150cf19c73c02ade93cf78529d3bdc",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHgwSTFMNnRFUnh0bFh5ZFk4QXlBUGEzMDRpdFZRUmhuOWd5ZHZYamRQOHV0OHU4Z3ZRNE14eF9qZ0M0Z1FHSF9meVM5clBjbHpYUkJCTFV2ZVNfc0VERFgzdHV4elI3aDdHTEdzcy1SZU5KY25TVjRzVnBxd1VhRzh6WmZaNlhVZVBEb1g2TzUwbzlMRE5STXFoZk1Td0xaUkJhZ2d2cWZKMGo1cWNaUlU5Wk56YVZqYzdvT25Odm5oZEI5VHVTWllHTU1hUDBqSEMxaEstMnZ1WW9UM0hkYnRPUGg2QmVFQnJIbzJuOFpOREFpc1JxOG82Yw?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:25:57 GMT",
+  "published_ts": 1783416357,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHgwSTFMNnRFUnh0bFh5ZFk4QXlBUGEzMDRpdFZRUmhuOWd5ZHZYamRQOHV0OHU4Z3ZRNE14eF9qZ0M0Z1FHSF9meVM5clBjbHpYUkJCTFV2ZVNfc0VERFgzdHV4elI3aDdHTEdzcy1SZU5KY25TVjRzVnBxd1VhRzh6WmZaNlhVZVBEb1g2TzUwbzlMRE5STXFoZk1Td0xaUkJhZ2d2cWZKMGo1cWNaUlU5Wk56YVZqYzdvT25Odm5oZEI5VHVTWllHTU1hUDBqSEMxaEstMnZ1WW9UM0hkYnRPUGg2QmVFQnJIbzJuOFpOREFpc1JxOG82Yw?oc=5\" target=\"_blank\">MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "DRAM fund holdings (MU, SNDK, WDC) and key suppliers (Samsung, SK hynix) fell in premarket/Korea trading. A brief stock move tied to Kospi weakness—no new concrete catalyst stated beyond market sentiment. Passing reference to holdings without memory-specific news driving the move."
+  },
+  "buffered_ts": 1783456086.3950474
+ },
+ {
+  "id": "66de1df97731dd35be987984ed18be2d03730afc",
+  "source": "StocksToTrade",
+  "topic": "fund",
+  "title": "RAM ETF Slides After Parabolic Run As Volatility Spikes - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3RrV1dyVzdyNzU2ZkVnOF9hNGpLY2ZPYXdSbExySTJTT0xZdlBOYzN2a19SZWxPWklpbXNya1ZRUDZoeGVOVkpGZzBNLU5tQTRYZ0UzLW5DOWMyLVg5SXlRVVA3RUlWTmMwa212U0pjbUl6OW53SFJUOXdnbUx1OEtvSURBZk9GQmppUTh6MWZ2U2NvNFJtRUV6SQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 18:04:00 GMT",
+  "published_ts": 1783447440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3RrV1dyVzdyNzU2ZkVnOF9hNGpLY2ZPYXdSbExySTJTT0xZdlBOYzN2a19SZWxPWklpbXNya1ZRUDZoeGVOVkpGZzBNLU5tQTRYZ0UzLW5DOWMyLVg5SXlRVVA3RUlWTmMwa212U0pjbUl6OW53SFJUOXdnbUx1OEtvSURBZk9GQmppUTh6MWZ2U2NvNFJtRUV6SQ?oc=5\" target=\"_blank\">RAM ETF Slides After Parabolic Run As Volatility Spikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "The DRAM ETF experienced a price decline following a sharp run-up, attributed to increased market volatility. This is a price-movement report with no underlying catalyst or concrete event disclosed."
+  },
+  "buffered_ts": 1783456086.3950474
  }
 ]
