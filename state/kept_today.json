@@ -2530,5 +2530,82 @@
    "summary": "SanDisk and Micron stock prices declined on a day when Nasdaq was the market's biggest loser. The headline notes the price movement but provides no specific catalyst or news catalyst tied to memory-semiconductor fundamentals, earnings, guidance, or industry developments—it is a general market report mentioning holdings in passing."
   },
   "buffered_ts": 1783461239.1482632
+ },
+ {
+  "id": "cb1f510ce7b5fd3fa047f2f2b9ac4e5b4e0a71c3",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Jumped 34% in June - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNmRTNBUVV0cnFPU1QyR2tic2l6Q2FIcFdVRzdrNHhVb21JSUF1OS0xTlpVNzNpM3lsSGQ0SFU2UG4yRnhHSnIxRXl1aDhWOXBrLVNNbnYxQTZNOE04dEo2dk5nWk1yRUE1N2dVUFM5YmV4NHZaUWNKb3BwX25KaWVqdU8?oc=5",
+  "published_at": "Tue, 07 Jul 2026 21:58:47 GMT",
+  "published_ts": 1783461527,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNmRTNBUVV0cnFPU1QyR2tic2l6Q2FIcFdVRzdrNHhVb21JSUF1OS0xTlpVNzNpM3lsSGQ0SFU2UG4yRnhHSnIxRXl1aDhWOXBrLVNNbnYxQTZNOE04dEo2dk5nWk1yRUE1N2dVUFM5YmV4NHZaUWNKb3BwX25KaWVqdU8?oc=5\" target=\"_blank\">Why Sandisk Stock Jumped 34% in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance",
+    "AOL.com"
+   ],
+   "titles": [
+    "Why Sandisk Stock Jumped 34% in June - Yahoo Finance",
+    "Why Sandisk Stock Jumped 34% in June - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rose 34% in June. The article likely attributes this to market sentiment around memory pricing recovery or demand improvements, but a 34% stock move in a single month driven by already-known earnings or guidance is a post-event analysis piece rather than a new catalyst. Relevant to the holding but not a concrete new event."
+  },
+  "buffered_ts": 1783465074.980466
+ },
+ {
+  "id": "c227aef8acf8ada50fab8845b9d7caf25e2fa752",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "Is SK Hynix Stock a Bargain? - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdF9QeGpSTVBIT1NjbkI5OEw3Rm8ySTVMT0ZrR296TzEyMVVDQkFQY1RvRmJtYnpjRmRiQ2VtR3ltVEQ3dnZPUlN3TFlaeFZmOWFwTTAwT1BicFlZMzJmY0t0M1Y1SFZSaWlsVURYU0FUUGFXWlRCa0NkVWdWeVl6c3Vqazh2N05VMEpFc3czWFdMZ0hicmdwdGlXSUl3QWVkUFBRaThzbUpxSWt6S040VzNlRU9aaGZiME11amg1ZExhR3pPTlJXc2pXVjF5bnRP?oc=5",
+  "published_at": "Tue, 07 Jul 2026 20:40:46 GMT",
+  "published_ts": 1783456846,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdF9QeGpSTVBIT1NjbkI5OEw3Rm8ySTVMT0ZrR296TzEyMVVDQkFQY1RvRmJtYnpjRmRiQ2VtR3ltVEQ3dnZPUlN3TFlaeFZmOWFwTTAwT1BicFlZMzJmY0t0M1Y1SFZSaWlsVURYU0FUUGFXWlRCa0NkVWdWeVl6c3Vqazh2N05VMEpFc3czWFdMZ0hicmdwdGlXSUl3QWVkUFBRaThzbUpxSWt6S040VzNlRU9aaGZiME11amg1ZExhR3pPTlJXc2pXVjF5bnRP?oc=5\" target=\"_blank\">Is SK Hynix Stock a Bargain?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOLUlFWXdRTU5xWGN0RXNERzRBNHMybS12TU04V1g0eTBEcWs4NnEwZzNOLTRxaGItcU9RVGlZeC1WNk9kaEx6VWREV2ltTDRyVUJhQ0RtQjdFdTVfWW9IdWxBcHV4WkxncXJDemx6ZXp5bGM4Y1RkN3c1MDBONVJ4c3dRaDNKU1VyeXJteURNbW5GaGhzTkE1emVaNkh4ZUVoZTJMR3IyRFhxLTRwY1Y5UjNaR2poSk8xUEowTXhuQXVXYjRmUDRvS1Z3?oc=5\" target=\"_blank\">SK Hynix seeks $28 billion in US IPO listing as memory maker rides AI wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONzRqRlRwZ09vNzM1V0dPTkR4MEVacG0wOVpZNGtaajBQdlpCVXozZ0pweEFheVl3QzNIOHA4SGtCTDBWN19LQXJRVml4eGpUQzZTcDk2b3VTMTZQTDBmVDdaMGd2WlNtem5DeElrRVB1WEZINTU0THRTMUJxMy1GemM4bjBQZExnOGF5RlZ0S1M1TXdMRC14Z2R2MkxXYmlKRTBnNw?oc=5\" target=\"_blank\">Forget SpaceX—SK Hynix’s Record US IPO Tests the AI Trade’s Hottest Corner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li></ol>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "WSJ opinion piece asking whether SK Hynix stock represents a bargain valuation. This is analysis and commentary rather than reporting of a concrete event or new information, making it a soft relevance item typical of post-earnings or market-reaction coverage."
+  },
+  "buffered_ts": 1783465074.980466
+ },
+ {
+  "id": "55187e8bd5d1576d731b780f837341bfdf83d73b",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Chip Sell-Off Hits Nasdaq As Stock Market Uptrend Wobbles; Sandisk, Intel Give Sell Signals - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnRlVkpNYmhvYlVIVU5qSjFGaWVIZnpmZDFuSkF4aTU0Q1oyM0lhQ2doR3RzemZUQnV6NFd1dHMyQjluZ3N3bHRxVEpibEhEVi1Kdno0bl93M05tV1Z4bnpQQ2hsdkNZTWtJNFFFZUlkcllOejlOZlRlMG42dTlmblVZUXFoWGdQZXYxWElFMFhmcElhcnBrY0EzVDlvZlphYVE?oc=5",
+  "published_at": "Tue, 07 Jul 2026 21:57:00 GMT",
+  "published_ts": 1783461420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnRlVkpNYmhvYlVIVU5qSjFGaWVIZnpmZDFuSkF4aTU0Q1oyM0lhQ2doR3RzemZUQnV6NFd1dHMyQjluZ3N3bHRxVEpibEhEVi1Kdno0bl93M05tV1Z4bnpQQ2hsdkNZTWtJNFFFZUlkcllOejlOZlRlMG42dTlmblVZUXFoWGdQZXYxWElFMFhmcElhcnBrY0EzVDlvZlphYVE?oc=5\" target=\"_blank\">Chip Sell-Off Hits Nasdaq As Stock Market Uptrend Wobbles; Sandisk, Intel Give Sell Signals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk mentioned alongside Intel in a broad chip-sector sell-off and technical analysis piece. No memory-specific news, pricing data, or material developments reported—only price-action commentary on a market wobble affecting semiconductor stocks generally."
+  },
+  "buffered_ts": 1783465074.980466
  }
 ]
