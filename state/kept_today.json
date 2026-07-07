@@ -2702,5 +2702,422 @@
    "summary": "Analyst Dan Ives commentary on NVDA and Korean memory stocks (SK hynix, Samsung) as drivers of AI infrastructure demand. Represents expert opinion on the AI-memory demand cycle but lacks concrete new data or events."
   },
   "buffered_ts": 1783377891.2188401
+ },
+ {
+  "id": "3ce02443dab98588a377f36451005e725e0a9480",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Samsung Electronics reported Q2 sales of KRW 171 trillion, exceeding expectations, with quarterly profit surging 19-fold on stronger-than-expected demand for AI memory chips. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnZrbU03UGNXeWptUWkzaUU0WjYxa3RzbXM0X3Rsc3BkQUdPcGVlUExBMGZXU0RZTnFOZEJJbkFVNTZnWHo0WTdnY3lSdlJRZmxadzkxTVhwMFVNek9hejZENGdmMldjeHdhVTJkSUlQckE3T1EtbDhkdHdSYTFxRmJfcmZFT1NneHRMM2ZZQUU2TW13ekFNT1QzMG54UWlNMm9uTTZsaEFmTjBW?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:11:00 GMT",
+  "published_ts": 1783379460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnZrbU03UGNXeWptUWkzaUU0WjYxa3RzbXM0X3Rsc3BkQUdPcGVlUExBMGZXU0RZTnFOZEJJbkFVNTZnWHo0WTdnY3lSdlJRZmxadzkxTVhwMFVNek9hejZENGdmMldjeHdhVTJkSUlQckE3T1EtbDhkdHdSYTFxRmJfcmZFT1NneHRMM2ZZQUU2TW13ekFNT1QzMG54UWlNMm9uTTZsaEFmTjBW?oc=5\" target=\"_blank\">Samsung Electronics reported Q2 sales of KRW 171 trillion, exceeding expectations, with quarterly profit surging 19-fold on stronger-than-expected demand for AI memory chips.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung Electronics reported Q2 results exceeding expectations with KRW 171 trillion in sales and a 19-fold surge in quarterly profit driven by stronger-than-expected demand for AI memory chips. This is a confirmed earnings release with concrete new financial results and explicit demand strength catalyst."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "c675936c4543fbd6428813fc9a49484eda330a42",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Samsung Posts A Shocking Miss On Revenue For Q2 2026 At A Time When Investors Were Positioned For A Pristine Print - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUp2UTF2cjEzbk1LdGJuUjR4WkJNQ3RHWk9JcUd0S3VIeHdHNWRRNVJFbWtOVGJVMjBFWkp3ZlV6UGZzOUNfV1A3Vi0tX1dUOTBqNjdCbXJtOE9nMXVYcndiLTBiU0lQVlN6NXVDdURncFl3Y0djMkhzU2xBZXRmaU9mdktYSUlMU0lxUk9tM2hVQWNJNjlzNFhYMDIxZXQyVE16b2lqYWpsNnhQckZMejVNX2lZaWJpMC1NY012VmNPOUE3YVBaS21ObFZCY2U3bWfSAdcBQVVfeXFMUHBQcGJUZXBjNHpDZWw4eUozcnljbVlDM3VNbUJORXo5cGI0NlNTdnNDd2ZGUlNnUmt5U3ZRQU9BY1dfYWl1ZmV2LW85M1hqZWVwTk1BeTlCTzB6RHNJa2VJMXZENWw5Umpnai1jQUJUQWdSSzZIa0tKV1JrS0JNVVdtYkVJc1pwM0ROLTRmVi1GQkM2UVBRS1IyRkhXaFU4Tk9MYnlENlJ4OV9zYTg5bXZ2X05GV3V5Y3BSZERxVTBjeFoyTDg4Wl93eDdNc2gwTy1MdjRNdmc?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:09:31 GMT",
+  "published_ts": 1783379371,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUp2UTF2cjEzbk1LdGJuUjR4WkJNQ3RHWk9JcUd0S3VIeHdHNWRRNVJFbWtOVGJVMjBFWkp3ZlV6UGZzOUNfV1A3Vi0tX1dUOTBqNjdCbXJtOE9nMXVYcndiLTBiU0lQVlN6NXVDdURncFl3Y0djMkhzU2xBZXRmaU9mdktYSUlMU0lxUk9tM2hVQWNJNjlzNFhYMDIxZXQyVE16b2lqYWpsNnhQckZMejVNX2lZaWJpMC1NY012VmNPOUE3YVBaS21ObFZCY2U3bWfSAdcBQVVfeXFMUHBQcGJUZXBjNHpDZWw4eUozcnljbVlDM3VNbUJORXo5cGI0NlNTdnNDd2ZGUlNnUmt5U3ZRQU9BY1dfYWl1ZmV2LW85M1hqZWVwTk1BeTlCTzB6RHNJa2VJMXZENWw5Umpnai1jQUJUQWdSSzZIa0tKV1JrS0JNVVdtYkVJc1pwM0ROLTRmVi1GQkM2UVBRS1IyRkhXaFU4Tk9MYnlENlJ4OV9zYTg5bXZ2X05GV3V5Y3BSZERxVTBjeFoyTDg4Wl93eDdNc2gwTy1MdjRNdmc?oc=5\" target=\"_blank\">Samsung Posts A Shocking Miss On Revenue For Q2 2026 At A Time When Investors Were Positioned For A Pristine Print</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung reports Q2 2026 revenue miss against investor expectations, marking a significant earnings disappointment for the major memory semiconductor holding."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "261ddab5596bbe2ea838fe8d08c17e9bc6e5cfc8",
+  "source": "Firstpost",
+  "topic": "holding",
+  "title": "Samsung expects Q2 profit to surge 19-fold to a record high as AI memory boom lifts chip prices - Firstpost",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUZmWUtzYWgxVzdqcUpiU3RTU19PZk1VMjZMUnphYVJKb3A1TTRyVTI0bXRrS1JLLVJ3OGVDM3FuRUNOYWRCZi1nUDhOWkZlRHRhTHNDZ1lCVWtkYURVQi15TmRqUFRIMGFPQUViMkJwMmhSd19YTnRCbG5HNHdMYXBPSTNKdTlkR0VxVXZDcEFjREhtNWpKUnFpMmtyQdIBowFBVV95cUxOekZwTEljWVNLa1ZhMXRpWm95YktaYjc4SlFZMEtCNFVESG80c3ppWmVpSExQZ2FNUnBKZVY4dW5zSTcta1NSdFNiSUV0a25mY2EyM05WeXl4YXNOY3Nta1MyUk54LXJ6a0Q5X1lvVEJaV3hEMzQ5R1lYZXQtRlZBb014X0xzOXc0aVdmTVJVbWpibDhIdHVyN2tjTGdyakVNYTZ3?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:48:03 GMT",
+  "published_ts": 1783381683,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWUZmWUtzYWgxVzdqcUpiU3RTU19PZk1VMjZMUnphYVJKb3A1TTRyVTI0bXRrS1JLLVJ3OGVDM3FuRUNOYWRCZi1nUDhOWkZlRHRhTHNDZ1lCVWtkYURVQi15TmRqUFRIMGFPQUViMkJwMmhSd19YTnRCbG5HNHdMYXBPSTNKdTlkR0VxVXZDcEFjREhtNWpKUnFpMmtyQdIBowFBVV95cUxOekZwTEljWVNLa1ZhMXRpWm95YktaYjc4SlFZMEtCNFVESG80c3ppWmVpSExQZ2FNUnBKZVY4dW5zSTcta1NSdFNiSUV0a25mY2EyM05WeXl4YXNOY3Nta1MyUk54LXJ6a0Q5X1lvVEJaV3hEMzQ5R1lYZXQtRlZBb014X0xzOXc0aVdmTVJVbWpibDhIdHVyN2tjTGdyakVNYTZ3?oc=5\" target=\"_blank\">Samsung expects Q2 profit to surge 19-fold to a record high as AI memory boom lifts chip prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Firstpost"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung reports Q2 profit expected to surge 19-fold to record high driven by AI memory boom lifting chip prices, directly impacting a core DRAM ETF holding with concrete earnings guidance and pricing acceleration."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "c70e26d90cec7acbe500615235cac0c612b517b3",
+  "source": "The Straits Times",
+  "topic": "industry",
+  "title": "Samsung flags 1,800% jump in quarterly profit, beating forecasts, on AI memory demand - The Straits Times",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemlfdHotOFVOQVVWSG51TzBubk5YZ0E1LTRPejNEcnAzbWxHajFmSDVRTWctU3FPMnd0aEw0UDFKdW9CdXVSaGoxaHRfdlZSMWN2WUdkM1JDcW9SdVBMaFJHR3V4LTR5QTl4ZkF3LVRaT1ZEX2gzTzNQdEthWXk1aW5OZjdPZlQwNWt6bmEzamt2X0dXU0w1SjNydVpoVTczNGQtcEdMVFNyLXVOOURBc2hBcjhldXVZTkJJdDRxX0o5T0ViMW5nVEVxM3dPTnRhR1U0?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:33:08 GMT",
+  "published_ts": 1783380788,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemlfdHotOFVOQVVWSG51TzBubk5YZ0E1LTRPejNEcnAzbWxHajFmSDVRTWctU3FPMnd0aEw0UDFKdW9CdXVSaGoxaHRfdlZSMWN2WUdkM1JDcW9SdVBMaFJHR3V4LTR5QTl4ZkF3LVRaT1ZEX2gzTzNQdEthWXk1aW5OZjdPZlQwNWt6bmEzamt2X0dXU0w1SjNydVpoVTczNGQtcEdMVFNyLXVOOURBc2hBcjhldXVZTkJJdDRxX0o5T0ViMW5nVEVxM3dPTnRhR1U0?oc=5\" target=\"_blank\">Samsung flags 1,800% jump in quarterly profit, beating forecasts, on AI memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Straits Times",
+    "The Spokesman-Review"
+   ],
+   "titles": [
+    "Samsung forecasts record quarterly profit, beating estimates on AI memory demand - The Spokesman-Review"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung reported an 1,800% quarterly profit jump, beating forecasts, driven by AI memory demand. This is a confirmed earnings result with concrete hard numbers that materially impacts a major fund holding's financial performance and validates the memory-cycle recovery thesis."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "530b842e2596524e5d3086397415282243602f1b",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "Samsung profit surges past estimates on AI memory chip demand - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVhhbXVMeTN4TGtPRUZPSG5LeldHMlVXVExzQnRuclZsRHdhcUdmcVB1bWlKaVFFWHRYZ2JNWHJESmcwVHllTFBoa1RhSGF6YXY0eS1ZUkZ5dnJEbHpnclh1T2FZTEZIeTZ0d0lac2duUV9fbVVuOC1ISG5uZlJIbjNHcVBsdkFvNVFBazdYR3M5XzVzU0R6TjlONkxpUERsTVdPbmJWUk1qTk1hUW5FVlV3bjVoTmZtdDkycHdhOE1zQmJfY1E?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:34:00 GMT",
+  "published_ts": 1783380840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVhhbXVMeTN4TGtPRUZPSG5LeldHMlVXVExzQnRuclZsRHdhcUdmcVB1bWlKaVFFWHRYZ2JNWHJESmcwVHllTFBoa1RhSGF6YXY0eS1ZUkZ5dnJEbHpnclh1T2FZTEZIeTZ0d0lac2duUV9fbVVuOC1ISG5uZlJIbjNHcVBsdkFvNVFBazdYR3M5XzVzU0R6TjlONkxpUERsTVdPbmJWUk1qTk1hUW5FVlV3bjVoTmZtdDkycHdhOE1zQmJfY1E?oc=5\" target=\"_blank\">Samsung profit surges past estimates on AI memory chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Business Times",
+    "The Edge Malaysia"
+   ],
+   "titles": [
+    "Samsung profit surges past estimates on AI memory chip demand - The Edge Malaysia"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung reported profit results that exceeded estimates, driven by AI memory chip demand. This is a confirmed earnings result with concrete financial performance that directly impacts a major fund holding and reflects strong memory-chip fundamentals driven by AI infrastructure capex."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "b7f22493c4f1fe931cd0b315df40271222097af4",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "Samsung Q2 profit hits record W89.4tr, beats estimates - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndXFlR016VWpYRE1RNUc2U3MtMW5ydjU1cjJuQTZhcE05UEE5Smw5eGh1RVl0WnJtZzE4MVR4ZlBBemFhQTJVM29KTWtCdXlUaXBlcEExOA?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:48:30 GMT",
+  "published_ts": 1783378110,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndXFlR016VWpYRE1RNUc2U3MtMW5ydjU1cjJuQTZhcE05UEE5Smw5eGh1RVl0WnJtZzE4MVR4ZlBBemFhQTJVM29KTWtCdXlUaXBlcEExOA?oc=5\" target=\"_blank\">Samsung Q2 profit hits record W89.4tr, beats estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Samsung reported Q2 profit of W89.4tr, beating estimates and hitting a record. This is a confirmed earnings result for a major DRAM fund holding with concrete new financial data that moves the memory cycle narrative."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "0e0a71397f7a5d3cb2aaaf19121c30df3d08b637",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung estimates 19-fold rise in Q2 operating profit, beating expectations - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakZmNnF0QlZIb29lN0pNbHhOazdDMEswWDlnYzhzU0ltOGhSX2drQlQzUnRCd1plX294Qm5hRXEwTVRsVEZtT1dKVXQ1dHFlQ1l6di05cUhoczgybXVyNklDX1Voc2hnb3kzbjM4RG5sdmhSa3otVDRjenAyOHAyYndYSlc4OXR1OWlpb3dYalplR2hLNXIwM0p0VQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:45:38 GMT",
+  "published_ts": 1783377938,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPakZmNnF0QlZIb29lN0pNbHhOazdDMEswWDlnYzhzU0ltOGhSX2drQlQzUnRCd1plX294Qm5hRXEwTVRsVEZtT1dKVXQ1dHFlQ1l6di05cUhoczgybXVyNklDX1Voc2hnb3kzbjM4RG5sdmhSa3otVDRjenAyOHAyYndYSlc4OXR1OWlpb3dYalplR2hLNXIwM0p0VQ?oc=5\" target=\"_blank\">Samsung estimates 19-fold rise in Q2 operating profit, beating expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "Reuters"
+   ],
+   "titles": [
+    "Samsung estimates 19-fold rise in Q2 operating profit, beating expectations - Reuters"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung reports Q2 operating profit estimate of 19-fold increase, beating expectations. This is a concrete earnings development from a major DRAM ETF holding with material implications for the memory semiconductor cycle and fund performance."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "d4a492fbbd6ce83641293683663d5f19dada227d",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Samsung Scores Profit Beat Due to Runaway Demand for AI Memory - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXlBQTJVQk9CdHJjRUFlbEs5ZXNXZThNbXhpQklkWmNtemZhckI0UjhJUHpHQXNfRllJY2VDcll1VFRmTi12TzdUQUJRcC1DWHZzTGdpXzc3azJ6RDJiSFJKRWFYcVdWMXJ0Mzl2bnlhZTdDWDBzYzJXNmNqRFBBV2VHUUFENVRLTEVHQnYxTnFna1lJakZrSDRScTlUQ3Y1VmkxUmZBVE13OHVpV2RaaF9wRQ?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:46:56 GMT",
+  "published_ts": 1783378016,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXlBQTJVQk9CdHJjRUFlbEs5ZXNXZThNbXhpQklkWmNtemZhckI0UjhJUHpHQXNfRllJY2VDcll1VFRmTi12TzdUQUJRcC1DWHZzTGdpXzc3azJ6RDJiSFJKRWFYcVdWMXJ0Mzl2bnlhZTdDWDBzYzJXNmNqRFBBV2VHUUFENVRLTEVHQnYxTnFna1lJakZrSDRScTlUQ3Y1VmkxUmZBVE13OHVpV2RaaF9wRQ?oc=5\" target=\"_blank\">Samsung Scores Profit Beat Due to Runaway Demand for AI Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung reported a profit beat driven by strong AI memory demand, indicating robust HBM/DRAM demand and a concrete positive earnings result for a key DRAM ETF holding."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "f00813a36451e897e8f16400f833861e5e186d54",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix's Nasdaq Listing Draws Top Investors, Aims Record Valuation - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM09tNURwZWJSUl91VXh0clFkU04yLUlmY1Uxbm1ETUxzTEhPbmZNVWRBaGVmM01rRGhDY3U4TE0zRXJtQngwQkpnbkt2YXlNTFo3T2hIbWpoTW42WldNNzhKc2JGZmpWblVjUDFhd2pyWHJ4WEF2eVVvME1zVEV5MXNXa2s5Zy0wYm4tOV9R?oc=5",
+  "published_at": "Tue, 07 Jul 2026 00:02:56 GMT",
+  "published_ts": 1783382576,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM09tNURwZWJSUl91VXh0clFkU04yLUlmY1Uxbm1ETUxzTEhPbmZNVWRBaGVmM01rRGhDY3U4TE0zRXJtQngwQkpnbkt2YXlNTFo3T2hIbWpoTW42WldNNzhKc2JGZmpWblVjUDFhd2pyWHJ4WEF2eVVvME1zVEV5MXNXa2s5Zy0wYm4tOV9R?oc=5\" target=\"_blank\">SK Hynix's Nasdaq Listing Draws Top Investors, Aims Record Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is pursuing a Nasdaq listing that is attracting top-tier investors and targeting a record valuation. This is a concrete corporate action with material implications for the fund's largest holdings and potential portfolio restructuring."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "223080e30419ee4276fc3dc5ea64593919eb8aac",
+  "source": "HPCwire",
+  "topic": "holding",
+  "title": "Sandisk Announces Sampling of BiCS10 1Tb TLC 3D NAND Flash Memory - HPCwire",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGgzRTh6R2VIUUxIMGZ6TE5ZUUMxMUN0QVpwNmx0RHBjeklFNkNmQ0VxME9zTWVSZUhYMmx1NS1MV0ZudHV2YWJzOVpWWEVwZkZsbWlwcXpHS09qTVYzR2p1MzNzSDAzUk91UEN4d201Um5VZWRUdlhoZVgwVDNnU1psMFZDa3QybFJpX0RNSUwxS041LU9mLVBqWVNMcW9ZOEhXeTFRcWlJZTIt?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:50:15 GMT",
+  "published_ts": 1783381815,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGgzRTh6R2VIUUxIMGZ6TE5ZUUMxMUN0QVpwNmx0RHBjeklFNkNmQ0VxME9zTWVSZUhYMmx1NS1MV0ZudHV2YWJzOVpWWEVwZkZsbWlwcXpHS09qTVYzR2p1MzNzSDAzUk91UEN4d201Um5VZWRUdlhoZVgwVDNnU1psMFZDa3QybFJpX0RNSUwxS041LU9mLVBqWVNMcW9ZOEhXeTFRcWlJZTIt?oc=5\" target=\"_blank\">Sandisk Announces Sampling of BiCS10 1Tb TLC 3D NAND Flash Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "HPCwire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk announced sampling of BiCS10 1Tb TLC 3D NAND Flash Memory, a concrete technology milestone representing advancement in NAND production capacity and next-generation memory supply. This is a material development for a fund holding with direct bearing on future product competitive positioning and supply dynamics in the memory market."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "1fc4f2eaf1badd169d780326fa3920d116b5bd1b",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Samsung plans to raise DRAM prices by 20% in Q3: report - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFQ1dXJ5WjgxeGNkbGVrSkk0OWY1TFdJMkxHQ01LSXpwQkdab0RRTXpHVHhsclJJQjBJdlBVTi04TVVFRjNRZnFlbFM2ZXpTUjQ2LWk3cEZDeTNPTEJlaFBhbUNya0NMeHpEZWZBUVVFS0ZNcUx4TWdKS0xacW5xSE1udXRIN0JGcFNNMmd0cmVGSnczcVhISFBvcHRQLVRvX2FjbVM3SnhZa1k?oc=5",
+  "published_at": "Mon, 06 Jul 2026 14:53:34 GMT",
+  "published_ts": 1783349614,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFQ1dXJ5WjgxeGNkbGVrSkk0OWY1TFdJMkxHQ01LSXpwQkdab0RRTXpHVHhsclJJQjBJdlBVTi04TVVFRjNRZnFlbFM2ZXpTUjQ2LWk3cEZDeTNPTEJlaFBhbUNya0NMeHpEZWZBUVVFS0ZNcUx4TWdKS0xacW5xSE1udXRIN0JGcFNNMmd0cmVGSnczcVhISFBvcHRQLVRvX2FjbVM3SnhZa1k?oc=5\" target=\"_blank\">Samsung plans to raise DRAM prices by 20% in Q3: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung plans to raise DRAM prices by 20% in Q3, a concrete pricing action that signals shift in memory market dynamics and directly impacts DRAM ETF holdings (Samsung is a major memory producer). This is a material development distinct from sentiment or speculation."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "6807ca2a2714edef0fe7a62b58d923b077e8d07d",
+  "source": "PressReader",
+  "topic": "holding",
+  "title": "Samsung likely to post 18-fold jump in profit on surging AI demand - PressReader",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96MWpEdVFudmQ3dU5ST0lnYngyNlFOaWhCa18tMU5FbXhsMGM4UDY2cEdFd2Z3QmpnVWpDM2U2Y0FUcXdkZTdubVc1d1d2SnpTTkVjcjRjMWtueVgtSnQ2TzdpSXAtRC1vV1JoYWVhbjEyOFExSXhncUhB?oc=5",
+  "published_at": "Tue, 07 Jul 2026 00:01:01 GMT",
+  "published_ts": 1783382461,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE96MWpEdVFudmQ3dU5ST0lnYngyNlFOaWhCa18tMU5FbXhsMGM4UDY2cEdFd2Z3QmpnVWpDM2U2Y0FUcXdkZTdubVc1d1d2SnpTTkVjcjRjMWtueVgtSnQ2TzdpSXAtRC1vV1JoYWVhbjEyOFExSXhncUhB?oc=5\" target=\"_blank\">Samsung likely to post 18-fold jump in profit on surging AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PressReader</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PressReader"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung expected to report a substantial profit increase driven by AI-driven memory demand, but this is a pre-earnings forecast rather than confirmed results or new guidance from the company itself."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "6d10d51ab9efe0a1535045e6e66f5106ddd4941a",
+  "source": "Seeking Alpha",
+  "topic": "fund",
+  "title": "DRAM: Buckle Up As The AI Memory Bottleneck Peaks (BATS:DRAM) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclVCMGpxUVBXejdueDZQV1lTYWNKX0VaWUxGeVBFTFBMMTZEcmxkdC02eTJaUU84WExJcHpMSnIyY0JqR2Z0ZXBqNGZYUDVNMlhLQTJta2JEMWtCV25JT2JONnAwMmY4d3lVclNHV19fSnJaTk5lNk5qYmcwQkZ5YXBGTGpCZXM1RkQ3amxxSHQwR2s?oc=5",
+  "published_at": "Mon, 06 Jul 2026 22:54:31 GMT",
+  "published_ts": 1783378471,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNclVCMGpxUVBXejdueDZQV1lTYWNKX0VaWUxGeVBFTFBMMTZEcmxkdC02eTJaUU84WExJcHpMSnIyY0JqR2Z0ZXBqNGZYUDVNMlhLQTJta2JEMWtCV25JT2JONnAwMmY4d3lVclNHV19fSnJaTk5lNk5qYmcwQkZ5YXBGTGpCZXM1RkQ3amxxSHQwR2s?oc=5\" target=\"_blank\">DRAM: Buckle Up As The AI Memory Bottleneck Peaks (BATS:DRAM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Seeking Alpha opinion piece on DRAM ETF discussing AI memory bottleneck dynamics. Analysis and commentary on fund thesis rather than a concrete event or new data point."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "cbf9b645daf63288c4e2e91db4de88f5875955ed",
+  "source": "Finimize",
+  "topic": "holding",
+  "title": "Samsung Sees AI Memory Demand Lift Profits Again - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ3ljNXN2Y3J1ZTNuNU9oQV9zTmtSV0YyYzAtbXVweTRYZmJqS3I0SnpWU3JGWlZnajZUeFBfc1lZNnRHU0dfb0Z5dm9INm1yQUd2SEhZdzY1bnhWUjcyQkp3U2xvXy1OMnczZzR4bFJOM1U4S2p6WXRpWGpXU0hiWkZpbw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:00:36 GMT",
+  "published_ts": 1783378836,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ3ljNXN2Y3J1ZTNuNU9oQV9zTmtSV0YyYzAtbXVweTRYZmJqS3I0SnpWU3JGWlZnajZUeFBfc1lZNnRHU0dfb0Z5dm9INm1yQUd2SEhZdzY1bnhWUjcyQkp3U2xvXy1OMnczZzR4bFJOM1U4S2p6WXRpWGpXU0hiWkZpbw?oc=5\" target=\"_blank\">Samsung Sees AI Memory Demand Lift Profits Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's AI memory demand is expected to boost profits. This is relevant as Samsung is a major DRAM/memory-chip holding in the fund, but the story appears to be analysis/outlook rather than a concrete earnings release or announced development—score reflects forward-looking commentary about profit uplift potential."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "8887a38f547124cc3acbf94e5ead660dee9babf8",
+  "source": "Pluang",
+  "topic": "fund",
+  "title": "Round Hill Memory ETF offers focused AI memory chip exposure but faces risks from supply and cycle shifts. - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50UVc5MVNteGFHb0VmSTh2NjBDNzFrWFZPTUUtQXFRbHdjN1dhWnY3UHk0b0RQSnBrdWpGUnR5ay1tcE41UnJJVzZFUWVzWW5JNGdaSUxlZllWWTV0LXNxZjNmeUVwN0lxeWNYc0JHU0phZw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:14:59 GMT",
+  "published_ts": 1783379699,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE50UVc5MVNteGFHb0VmSTh2NjBDNzFrWFZPTUUtQXFRbHdjN1dhWnY3UHk0b0RQSnBrdWpGUnR5ay1tcE41UnJJVzZFUWVzWW5JNGdaSUxlZllWWTV0LXNxZjNmeUVwN0lxeWNYc0JHU0phZw?oc=5\" target=\"_blank\">Round Hill Memory ETF offers focused AI memory chip exposure but faces risks from supply and cycle shifts.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Pluang article discussing the Roundhill Memory ETF's positioning for AI memory chip exposure and noting supply and cycle risks; general fund commentary without new concrete developments, flows, or NAV information."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "4af9961d07667c69c3072d77ce2374f98d9d3a67",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Meet the Unstoppable Memory ETF With 74.7% of Its Portfolio Parked in Micron, Samsung, and SK Hynix - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TYXctOXJDU2VXRXkzbUdGV1NTQjFhUkp1QkxYQkFWZVpZNUM1c01FME9sNHJaMlNaYVVNTmZtbWlrVjYwMFN3UENPSndTTU5KMUNCYXhUZGtzblBHbk5qVEs3aTVIWXZ3dURzN1o0MFpLczhKSzZYcWY5QkVudw?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:17:52 GMT",
+  "published_ts": 1783379872,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9TYXctOXJDU2VXRXkzbUdGV1NTQjFhUkp1QkxYQkFWZVpZNUM1c01FME9sNHJaMlNaYVVNTmZtbWlrVjYwMFN3UENPSndTTU5KMUNCYXhUZGtzblBHbk5qVEs3aTVIWXZ3dURzN1o0MFpLczhKSzZYcWY5QkVudw?oc=5\" target=\"_blank\">Meet the Unstoppable Memory ETF With 74.7% of Its Portfolio Parked in Micron, Samsung, and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "AOL article highlighting the DRAM ETF's concentration in Micron, Samsung, and SK hynix (74.7% of portfolio). This is fund-specific coverage but lacks concrete news—it appears to be an informational/profile piece on the ETF's holdings composition rather than reporting a material event, flow, rebalance, or NAV change."
+  },
+  "buffered_ts": 1783382719.66882
+ },
+ {
+  "id": "8393b3cf77f98f1456076dc11160a69d1f08f8a4",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "SpaceX joins Nasdaq 100, SK Hynix makes US debut: What to Watch - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHNMVnBfd2NZTXBLUTFQSGFaQUt6Q0ZxWXJxaWVjRHlSZUl5by1wSnRtc1VSWngxZGhXR2NWeWt6R2NtS3NpUERQenZnNlVLem5LeDd2NU1TYVVXV0VsRkZnWG13Y0FhbkZVMlZTOHpxdEpvYmJaYU1YdGM4XzVVS1ZLdll3c3Jidkl2QTRTNGU2eFVkRzJadWkzX2gwcEc5S29IRERKWVZIY0NNZ1BKMA?oc=5",
+  "published_at": "Mon, 06 Jul 2026 23:00:00 GMT",
+  "published_ts": 1783378800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHNMVnBfd2NZTXBLUTFQSGFaQUt6Q0ZxWXJxaWVjRHlSZUl5by1wSnRtc1VSWngxZGhXR2NWeWt6R2NtS3NpUERQenZnNlVLem5LeDd2NU1TYVVXV0VsRkZnWG13Y0FhbkZVMlZTOHpxdEpvYmJaYU1YdGM4XzVVS1ZLdll3c3Jidkl2QTRTNGU2eFVkRzJadWkzX2gwcEc5S29IRERKWVZIY0NNZ1BKMA?oc=5\" target=\"_blank\">SpaceX joins Nasdaq 100, SK Hynix makes US debut: What to Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix (a DRAM ETF holding) makes US market debut. Mentioned alongside SpaceX Nasdaq inclusion in a 'What to Watch' roundup; no specific details on timing, pricing, or market impact provided."
+  },
+  "buffered_ts": 1783382719.66882
  }
 ]
