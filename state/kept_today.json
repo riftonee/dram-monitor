@@ -873,5 +873,77 @@
    "summary": "Casual social media comment on Roundhill Memory ETF (DRAM) current performance; no concrete data, catalyst, or material event provided."
   },
   "buffered_ts": 1783546793.2151263
+ },
+ {
+  "id": "d9ab83c57d52cf05ccbc26ef678e383430b3fde5",
+  "source": "GlobeNewswire",
+  "topic": "holding",
+  "title": "SK Hynix hits Nasdaq July 10. SKUU and SKDD are expected to launch on July 13. - GlobeNewswire",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQk1zSEI0bnBfUmEzMXJya3FiRC1QVWQ5THZFVVJZSlJWVEZLcl9rczNvT0NnNkNZLUpBemdkLThYZHBZNk5jbmVEa2pNWTQwTDFUQVRMd1FjeGhpNmFjeHE2UDNibkFmYWZZMnFEaHdaSGg0cDZRWHc3Z0s0b3U3RHVXVEEtREtiMUF5Q1k5QUMzTE5MMy15aUV0SkRNYnBIUlljQzFlNVhQbWNucGlEeXVNazFMX2VGXzdNdUU1RS1TTFNwaWhqdFBaNkRlaVBiX2VkOGphT2pibkdzOERuc3JB?oc=5",
+  "published_at": "Wed, 08 Jul 2026 22:20:00 GMT",
+  "published_ts": 1783549200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQk1zSEI0bnBfUmEzMXJya3FiRC1QVWQ5THZFVVJZSlJWVEZLcl9rczNvT0NnNkNZLUpBemdkLThYZHBZNk5jbmVEa2pNWTQwTDFUQVRMd1FjeGhpNmFjeHE2UDNibkFmYWZZMnFEaHdaSGg0cDZRWHc3Z0s0b3U3RHVXVEEtREtiMUF5Q1k5QUMzTE5MMy15aUV0SkRNYnBIUlljQzFlNVhQbWNucGlEeXVNazFMX2VGXzdNdUU1RS1TTFNwaWhqdFBaNkRlaVBiX2VkOGphT2pibkdzOERuc3JB?oc=5\" target=\"_blank\">SK Hynix hits Nasdaq July 10. SKUU and SKDD are expected to launch on July 13.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GlobeNewswire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, is listing on Nasdaq on July 10 with ADR tickers SKUU and SKDD launching July 13. This is a concrete, officially announced event that materially increases accessibility and liquidity for the holding within US markets."
+  },
+  "buffered_ts": 1783551762.4478204
+ },
+ {
+  "id": "d6c01cbb04ef76c4aba489ee72f4874d1e3d8674",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Ross Gerber Says Chip Sell Off 'a Gift' for Those That Want to Retire Even as SK Hynix US Debut Nears: 'Captured by Very Short-Term Thinking' - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVk00NWlINWZlcVd5NkswMnU3NkFTUmxhMWtkQmdBbnRmT1hkUUdjSUNiazdGV3Z4RjcyT282Q1UxY1VHUzdwMU5VSk1jVUpoSm8tenVDV2xrZUVHcW5QUXh2dWxUOEZ4X0NHNlIyaS1uR0FYQVEtTHlCM1FWa3g2UHJCWTZIb21nVUF5ZHFjTkVSakpTZXc?oc=5",
+  "published_at": "Wed, 08 Jul 2026 02:47:00 GMT",
+  "published_ts": 1783478820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVk00NWlINWZlcVd5NkswMnU3NkFTUmxhMWtkQmdBbnRmT1hkUUdjSUNiazdGV3Z4RjcyT282Q1UxY1VHUzdwMU5VSk1jVUpoSm8tenVDV2xrZUVHcW5QUXh2dWxUOEZ4X0NHNlIyaS1uR0FYQVEtTHlCM1FWa3g2UHJCWTZIb21nVUF5ZHFjTkVSakpTZXc?oc=5\" target=\"_blank\">Ross Gerber Says Chip Sell Off 'a Gift' for Those That Want to Retire Even as SK Hynix US Debut Nears: 'Captured by Very Short-Term Thinking'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Ross Gerber commentary on chip sector selloff and SK hynix US market entry. SK hynix is a major DRAM holding, and the US debut is a material strategic move, but this piece is primarily opinion/analysis on market sentiment rather than a confirmed event or hard development about SK hynix's operations or the fund itself."
+  },
+  "buffered_ts": 1783551762.4478204
+ },
+ {
+  "id": "48485d425b97d48e9894e61a2fe891c734772844",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Samsung Electronics: Preliminary Figures Slightly Soft; We Expect Memory Price Hikes to Taper - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUzNDdjRDTER2Q3k3bDVHYlFSUHljaDlrLW5WcWFDa1JsN05KR1gwVTExaU9vR3U5ZlBOb08tUXBoSWJsVGZRaTR1WlpPdm1PY1V5NE1ybEJPclVFTmQ5dXk0Z0xsMmlwcm92Nlg5WFlfc0VybVJNa2luZGdQTXFhVVV6WW9DRG9zdVpQcVRTRVRvcGM5c3lhV09hZmVZSUZkUWl0VGs2XzB0TDctT01DMm4zWVFNZ25SaDNDZ1NaYmpYTkVLNC1ySzZXSl9EUDd6aklyektNT3d1c1dsZmxROE8xejdVdU95N21vb25ic2dqb2E0?oc=5",
+  "published_at": "Tue, 07 Jul 2026 07:49:44 GMT",
+  "published_ts": 1783410584,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUzNDdjRDTER2Q3k3bDVHYlFSUHljaDlrLW5WcWFDa1JsN05KR1gwVTExaU9vR3U5ZlBOb08tUXBoSWJsVGZRaTR1WlpPdm1PY1V5NE1ybEJPclVFTmQ5dXk0Z0xsMmlwcm92Nlg5WFlfc0VybVJNa2luZGdQTXFhVVV6WW9DRG9zdVpQcVRTRVRvcGM5c3lhV09hZmVZSUZkUWl0VGs2XzB0TDctT01DMm4zWVFNZ25SaDNDZ1NaYmpYTkVLNC1ySzZXSl9EUDd6aklyektNT3d1c1dsZmxROE8xejdVdU95N21vb25ic2dqb2E0?oc=5\" target=\"_blank\">Samsung Electronics: Preliminary Figures Slightly Soft; We Expect Memory Price Hikes to Taper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morningstar analysis of Samsung Electronics' preliminary figures showing slightly soft results with expectation that memory price increases will moderate. This is analyst opinion on pricing trends rather than a confirmed event, and the preliminary figures themselves are not yet official earnings data."
+  },
+  "buffered_ts": 1783551762.4478204
  }
 ]
