@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "id": "a59f76b40adbcb1e3ca4153e64612c4ce9afbd4b",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] Memory Rally Extends as ADATA Reportedly Sees Q3 DRAM Prices Up 20-30%, NAND Up 35-40% - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmlXSVZpd3JGb1JHZ0cycmswZ1hYX19vUDhYbE5tcHlJbkU0VkJVQ05lMlZNVnoyWXlrZVJZYjdPZDE5aHdxZkJvT0psSzh1UXhYeHNFZVNPd3JKaGRaczR0TktOQUlVLVFIVGhwcnozemF6bkcwX2dTUk1razl5UDRlREc0LXl2NjR2RVpxeFk0SUctcXc3R0xWSVZraC1WWTh6S2pzTTJiWEtwZjVFRUtGQ3lXZVFhRGl2RURVYzZadGYyMnozTDN1WHRkZXdBWlNZeF9BMHJDaXdRVUx1d2hPU2tPeFk?oc=5",
+  "published_at": "Wed, 08 Jul 2026 07:12:37 GMT",
+  "published_ts": 1783494757,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmlXSVZpd3JGb1JHZ0cycmswZ1hYX19vUDhYbE5tcHlJbkU0VkJVQ05lMlZNVnoyWXlrZVJZYjdPZDE5aHdxZkJvT0psSzh1UXhYeHNFZVNPd3JKaGRaczR0TktOQUlVLVFIVGhwcnozemF6bkcwX2dTUk1razl5UDRlREc0LXl2NjR2RVpxeFk0SUctcXc3R0xWSVZraC1WWTh6S2pzTTJiWEtwZjVFRUtGQ3lXZVFhRGl2RURVYzZadGYyMnozTDN1WHRkZXdBWlNZeF9BMHJDaXdRVUx1d2hPU2tPeFk?oc=5\" target=\"_blank\">[News] Memory Rally Extends as ADATA Reportedly Sees Q3 DRAM Prices Up 20-30%, NAND Up 35-40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "ADATA reports Q3 DRAM prices up 20-30% and NAND up 35-40%, indicating a memory pricing rally. While a concrete price observation, this is a reported/analyst-sourced forecast for Q3 rather than a confirmed transaction or an already-settled quarter, making it a forward indicator rather than a hard event."
+  },
+  "buffered_ts": 1783515613.5806618
+ },
+ {
+  "id": "95d73a832c55c56d96dd1a7a8b2d7bc86ecee6ae",
+  "source": "The Japan Times",
+  "topic": "holding",
+  "title": "Samsung’s soaring profit fails to lift shares after AI rally - The Japan Times",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm1PaFluVDYtNG1uaF85eG12T3FiVWl0Sjh2Sm9mQXpFN3h0RE9yZ2RSTGZWT0M0T1dFMmFSX2lPenk5MHRJbU4xLU1ER2dtc0pMQ1BDeVdMYXNteFJGMGxvLTZEMXFCTnVhbGJ4MlE5aks5LVV3dE1ocUw4Ull3ei1KMjMyQQ?oc=5",
+  "published_at": "Tue, 07 Jul 2026 02:15:00 GMT",
+  "published_ts": 1783390500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm1PaFluVDYtNG1uaF85eG12T3FiVWl0Sjh2Sm9mQXpFN3h0RE9yZ2RSTGZWT0M0T1dFMmFSX2lPenk5MHRJbU4xLU1ER2dtc0pMQ1BDeVdMYXNteFJGMGxvLTZEMXFCTnVhbGJ4MlE5aks5LVV3dE1ocUw4Ull3ei1KMjMyQQ?oc=5\" target=\"_blank\">Samsung’s soaring profit fails to lift shares after AI rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Japan Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's profitable results fail to drive stock appreciation despite AI momentum. This reflects market digestion of already-reported earnings and sentiment disconnect rather than new information about memory demand or capacity."
+  },
+  "buffered_ts": 1783515613.5806618
+ },
+ {
+  "id": "b707ff2781bae625a485227f7aba1d288dbc5f9c",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Sandisk Stock Was Red-Hot but It’s Starting to Go Cold - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHh4ZjcyVWxJclBEbW5JenZJRGdoQzJTMy1vNEM4cU1nOFlWakszTGVWUkRWOTQ0a3R2d3dteGhnVlVBcW9rMFEtZ1oxMUpJRlh4ZGlOQWVvYVZwYmRkVkhlZWZLZ09OWTdOck5EY2h2eWRQNGxFcU1yeDR1MGpXczFmQi1hRkhvSHpWQXJ4SEk?oc=5",
+  "published_at": "Tue, 07 Jul 2026 09:47:00 GMT",
+  "published_ts": 1783417620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHh4ZjcyVWxJclBEbW5JenZJRGdoQzJTMy1vNEM4cU1nOFlWakszTGVWUkRWOTQ0a3R2d3dteGhnVlVBcW9rMFEtZ1oxMUpJRlh4ZGlOQWVvYVZwYmRkVkhlZWZLZ09OWTdOck5EY2h2eWRQNGxFcU1yeDR1MGpXczFmQi1hRkhvSHpWQXJ4SEk?oc=5\" target=\"_blank\">Sandisk Stock Was Red-Hot but It’s Starting to Go Cold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's analysis of SanDisk stock performance and sentiment shift. Commentary on stock momentum rather than a concrete catalyst or new information about the memory cycle or company fundamentals."
+  },
+  "buffered_ts": 1783515613.5806618
+ }
+]
