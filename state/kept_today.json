@@ -534,5 +534,125 @@
    "summary": "Intel patent filing reveals XBM (experimental/next-gen memory architecture) that could match HBM4 performance without interposers, but commercialization not expected until after 2030. Long-term technology development with no immediate impact on current memory demand cycle or fund holdings."
   },
   "buffered_ts": 1783529920.2149107
+ },
+ {
+  "id": "d94d388fe3eededfddce2c62d2fe804e9f2ba0f2",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Wall Street Insider Says SK Hynix IPO Could Overwhelm the Market. Here’s the Risk Beyond Memory Stocks. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFlLakpmeXZxYm9mcEVSZU5vU0dnMEFmT0wyc3Y4TGFuaThEMVdFUlpSYm0tSm1wLUtaOEhQVXd0N1ZyajRURWo1dUhpdGduTGpnRWp1VjhTY2EzbjM1dGF6WUVCNXlWSnBJMlVrSGV4bXVpZHhrUVFLWXZRbDItN1NSSEdEaElEOUIwYUVEd045X1FzT3FZ?oc=5",
+  "published_at": "Wed, 08 Jul 2026 16:17:13 GMT",
+  "published_ts": 1783527433,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONFlLakpmeXZxYm9mcEVSZU5vU0dnMEFmT0wyc3Y4TGFuaThEMVdFUlpSYm0tSm1wLUtaOEhQVXd0N1ZyajRURWo1dUhpdGduTGpnRWp1VjhTY2EzbjM1dGF6WUVCNXlWSnBJMlVrSGV4bXVpZHhrUVFLWXZRbDItN1NSSEdEaElEOUIwYUVEd045X1FzT3FZ?oc=5\" target=\"_blank\">Wall Street Insider Says SK Hynix IPO Could Overwhelm the Market. Here’s the Risk Beyond Memory Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wall Street commentary on potential SK hynix IPO and market implications. An IPO would be a material corporate action for a major DRAM ETF holding, but this is speculative commentary rather than a confirmed IPO announcement or official company guidance."
+  },
+  "buffered_ts": 1783534899.034592
+ },
+ {
+  "id": "b39adad29778ed196beda01a5b39232b7418d1e2",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is Seagate (STX) Quietly Becoming an AI Infrastructure Linchpin With Its Nearline Storage Strategy? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSU1CdXVmWjZFc2d2NzB6VTJ6dm1aY2xiQi1OeTVSUVdKa21KVjctem1wZlpuWldoWUNnb0FsVWVqTlVRRXpYeGFpcG96SmFxemNHeFktWi01bmFSUUZZMm92M3FLaWtsbE1ic3MyU19DYXl6TkVTY3hXM0d3U3p0WXNFcGE2ZWhqdEh5eVJGVG5KSTl1LW9qWGFhR0xncXAtUWI2SjdOdnJyTjREVXVEWFNINUhNOU14V05Gd2hWMmtnenZVS2s0aWV0YWpSaTkyM2FWdzhKa1nSAd4BQVVfeXFMT24wSWdPeXFEWFFmWVhRc05FZU9DQ205cjB4eHY3SUVibjJlTjdoYmtMR3NUSTdtaC1yUEswbTladS1CVE9MeEhIY1B6MWxWeHlrdEFGRy1pN2hiTDdscWRIYWNwSHVSUmoyRzVhVG54WW5sMm84NzdTWVdoYzBYTE85Zlhzc0x5ZE9PUF9WZHZ4c09RTjFrVkI1RDY5ZnBHbkdEcnRBVTAzRWtJV292c3dSR2ZGTklYcW55NEVrTDkybklLa1RFWjZGV3dWNVNac09YZVNIUkpITllLV0JB?oc=5",
+  "published_at": "Wed, 08 Jul 2026 17:39:39 GMT",
+  "published_ts": 1783532379,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSU1CdXVmWjZFc2d2NzB6VTJ6dm1aY2xiQi1OeTVSUVdKa21KVjctem1wZlpuWldoWUNnb0FsVWVqTlVRRXpYeGFpcG96SmFxemNHeFktWi01bmFSUUZZMm92M3FLaWtsbE1ic3MyU19DYXl6TkVTY3hXM0d3U3p0WXNFcGE2ZWhqdEh5eVJGVG5KSTl1LW9qWGFhR0xncXAtUWI2SjdOdnJyTjREVXVEWFNINUhNOU14V05Gd2hWMmtnenZVS2s0aWV0YWpSaTkyM2FWdzhKa1nSAd4BQVVfeXFMT24wSWdPeXFEWFFmWVhRc05FZU9DQ205cjB4eHY3SUVibjJlTjdoYmtMR3NUSTdtaC1yUEswbTladS1CVE9MeEhIY1B6MWxWeHlrdEFGRy1pN2hiTDdscWRIYWNwSHVSUmoyRzVhVG54WW5sMm84NzdTWVdoYzBYTE85Zlhzc0x5ZE9PUF9WZHZ4c09RTjFrVkI1RDY5ZnBHbkdEcnRBVTAzRWtJV292c3dSR2ZGTklYcW55NEVrTDkybklLa1RFWjZGV3dWNVNac09YZVNIUkpITllLV0JB?oc=5\" target=\"_blank\">Is Seagate (STX) Quietly Becoming an AI Infrastructure Linchpin With Its Nearline Storage Strategy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece exploring Seagate's nearline storage strategy and potential positioning as an AI infrastructure supplier. Contains strategic speculation and analysis rather than a concrete event or material development with confirmed impact."
+  },
+  "buffered_ts": 1783534899.034592
+ },
+ {
+  "id": "6962ac8e325c55f710489e79dfc7ee1dc8f36433",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "Micron's Structural Shift: How HBM Demand Is Reshaping the Memory Market — and Why New Fabs Take Y - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm5ILXF6Z0lxV3l0UGNybHVLM3NaR1d2VzJ4djkwWTNweDJ1Qi1OQ3FWUDlSdk5zMDZrdTVxSm13MkdYUHlJV1ZFVzVYRkw5RmZCZi1xNFdYb0RLRWRCVlNsUFRFU2RfVXN2Qk8zZUVnaEtwVVUtRDU2WmdJeFFoclNXS1dpckc5VFMtSWp6OHNVcExlV0ZheEhnRVdNUzN1UGJCNlBoWS1YMk4yMUtsWkQ4WTVWRVR2WHpjcVBmMXVSYVV5REdLaU1B?oc=5",
+  "published_at": "Wed, 08 Jul 2026 17:15:03 GMT",
+  "published_ts": 1783530903,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm5ILXF6Z0lxV3l0UGNybHVLM3NaR1d2VzJ4djkwWTNweDJ1Qi1OQ3FWUDlSdk5zMDZrdTVxSm13MkdYUHlJV1ZFVzVYRkw5RmZCZi1xNFdYb0RLRWRCVlNsUFRFU2RfVXN2Qk8zZUVnaEtwVVUtRDU2WmdJeFFoclNXS1dpckc5VFMtSWp6OHNVcExlV0ZheEhnRVdNUzN1UGJCNlBoWS1YMk4yMUtsWkQ4WTVWRVR2WHpjcVBmMXVSYVV5REdLaU1B?oc=5\" target=\"_blank\">Micron's Structural Shift: How HBM Demand Is Reshaping the Memory Market — and Why New Fabs Take Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece examining how HBM demand is reshaping the memory market and the implications of new fab capacity timelines for Micron. This is relevant industry commentary on HBM trends and fab dynamics affecting a key holding, but appears to be opinion/analysis rather than reporting a concrete new event or official announcement."
+  },
+  "buffered_ts": 1783534899.034592
+ },
+ {
+  "id": "a618e8bd31fad55979f941ae432c0f7017194f57",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SanDisk and Micron Risk Profit Squeeze from Chinese Memory Threat - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzczSzdUbE41WGdKZFhHREM1T05FZm5oVjlTUk1MYV9FZGdPZlVxZ1FSVG12TGJoYUNiTnZwQ0c2TEZLWnlPdzJic2N6ZU9RdjRyYVFHS2JuWGZXbThCZGJBeDFpQzN2aGFMSXE2OGZMRkFWX3hab1RrR25KUzlRUkJ3WnAwWTFMakE3b1g4dGhJUDFfVkdwZlY0ZXkyWTVSLUoxTFRwZGdhY0NGemRPakZzSUlLaWw4UXc?oc=5",
+  "published_at": "Wed, 08 Jul 2026 18:08:42 GMT",
+  "published_ts": 1783534122,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzczSzdUbE41WGdKZFhHREM1T05FZm5oVjlTUk1MYV9FZGdPZlVxZ1FSVG12TGJoYUNiTnZwQ0c2TEZLWnlPdzJic2N6ZU9RdjRyYVFHS2JuWGZXbThCZGJBeDFpQzN2aGFMSXE2OGZMRkFWX3hab1RrR25KUzlRUkJ3WnAwWTFMakE3b1g4dGhJUDFfVkdwZlY0ZXkyWTVSLUoxTFRwZGdhY0NGemRPakZzSUlLaWw4UXc?oc=5\" target=\"_blank\">SanDisk and Micron Risk Profit Squeeze from Chinese Memory Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Opinion piece discussing potential profit pressure on SanDisk (SNDK) and Micron (MU) from Chinese memory chip competition. Competitive threat is ongoing concern but no new concrete development, production cut, capacity change, or pricing shift is reported."
+  },
+  "buffered_ts": 1783534899.034592
+ },
+ {
+  "id": "12b05a0d7761a3746d57f2d6886e65f6d3c7693f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Can SanDisk Outperform the Semiconductor Sector in 2026? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1jLV8tRGhSVVUwUm9aMG1yX0RLYUF6VTlzeGZsbHFZeTJLRUR4cERDNkhjcVBjSFFoUHRPM1pWc1Q4aXVOdmEwODJEdkRWZHZ4RDBfNHJSck50S2tUNkJmbU1iUkVLeWdkdV9FUmhIeWdyM3V0M3dZOGdRaVhELUs1ZGxZcEd2YWhxR0MwRFEwZ1h5Z0JnRlFoQ3BxdnljRjNLZGZQajRsQS05cmc?oc=5",
+  "published_at": "Wed, 08 Jul 2026 16:45:46 GMT",
+  "published_ts": 1783529146,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1jLV8tRGhSVVUwUm9aMG1yX0RLYUF6VTlzeGZsbHFZeTJLRUR4cERDNkhjcVBjSFFoUHRPM1pWc1Q4aXVOdmEwODJEdkRWZHZ4RDBfNHJSck50S2tUNkJmbU1iUkVLeWdkdV9FUmhIeWdyM3V0M3dZOGdRaVhELUs1ZGxZcEd2YWhxR0MwRFEwZ1h5Z0JnRlFoQ3BxdnljRjNLZGZQajRsQS05cmc?oc=5\" target=\"_blank\">Can SanDisk Outperform the Semiconductor Sector in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion/analysis piece asking whether SanDisk can outperform semiconductors in 2026. No concrete news, earnings data, or material developments reported — purely speculative commentary on a DRAM fund holding."
+  },
+  "buffered_ts": 1783534899.034592
  }
 ]
