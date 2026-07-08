@@ -654,5 +654,128 @@
    "summary": "Opinion/analysis piece asking whether SanDisk can outperform semiconductors in 2026. No concrete news, earnings data, or material developments reported — purely speculative commentary on a DRAM fund holding."
   },
   "buffered_ts": 1783534899.034592
+ },
+ {
+  "id": "288d1dde3f17762a188c5efd1ec7e0116de5a9b4",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix IPO to give US investors bigger bite of the memory pie, as shortages persist - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVlpScVl4OEkyUEN3U2xRLXRjUlAyVkVScDZuRk9Ma2M4SkViektHRDZ4UVVjbWUxUFpFS3ZxYXZJMnlKWEt4Q0FiUVYxRDRnRURpbEZiZk9SZ0p1UUkwZHhsWUpMTTVmNXBweGNUY3IteGRWUEJnN3ZDOEdRSENzOTFTOEVkY2Z0STFUOHhTbkFnOVlmeUlkc3ROWl9XNmpOWXBvTHRFTHNGc0NJZUlCc1N5QmotdFVTQUxPai1PWEJCMk9pQVlMWkVoN05jXzlnYVpPOFROSUI3OFNV?oc=5",
+  "published_at": "Wed, 08 Jul 2026 19:38:24 GMT",
+  "published_ts": 1783539504,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVlpScVl4OEkyUEN3U2xRLXRjUlAyVkVScDZuRk9Ma2M4SkViektHRDZ4UVVjbWUxUFpFS3ZxYXZJMnlKWEt4Q0FiUVYxRDRnRURpbEZiZk9SZ0p1UUkwZHhsWUpMTTVmNXBweGNUY3IteGRWUEJnN3ZDOEdRSENzOTFTOEVkY2Z0STFUOHhTbkFnOVlmeUlkc3ROWl9XNmpOWXBvTHRFTHNGc0NJZUlCc1N5QmotdFVTQUxPai1PWEJCMk9pQVlMWkVoN05jXzlnYVpPOFROSUI3OFNV?oc=5\" target=\"_blank\">SK Hynix IPO to give US investors bigger bite of the memory pie, as shortages persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM and NAND producer and key DRAM ETF holding, is pursuing a US IPO to increase US investor access to the company. This is a concrete corporate action affecting a core fund holding's capital structure and accessibility."
+  },
+  "buffered_ts": 1783540947.4403367
+ },
+ {
+  "id": "9bcd33e569748fee8db0d059c0cfca19cbf3252e",
+  "source": "Sun TCI",
+  "topic": "holding",
+  "title": "South Korean tech giants to build a $518 billion chipmaking hub to serve soaring AI demand - Sun TCI",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekZKV2hfdDNzRUtCa1d1SnZodGtRWjE1NUQ5a1BiVVRkR0VKLWxPTzBmbElITVdwR3dNSXp5WXN6NDU0QjY5NWpmVTEySjNVd3Z6MWJNMHlqSGdNOTFLUTluUHNJUkpienE2MlRYQndsMFVRTVRybTN2ZDJOMnpZbzNFU0lTcXFOZ1UyaHRQekVVYjNQUTNkaVJNMFJGMUxZQzZOVWhqYw?oc=5",
+  "published_at": "Wed, 08 Jul 2026 18:55:10 GMT",
+  "published_ts": 1783536910,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQekZKV2hfdDNzRUtCa1d1SnZodGtRWjE1NUQ5a1BiVVRkR0VKLWxPTzBmbElITVdwR3dNSXp5WXN6NDU0QjY5NWpmVTEySjNVd3Z6MWJNMHlqSGdNOTFLUTluUHNJUkpienE2MlRYQndsMFVRTVRybTN2ZDJOMnpZbzNFU0lTcXFOZ1UyaHRQekVVYjNQUTNkaVJNMFJGMUxZQzZOVWhqYw?oc=5\" target=\"_blank\">South Korean tech giants to build a $518 billion chipmaking hub to serve soaring AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sun TCI</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Sun TCI"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "South Korean tech giants (likely Samsung and SK hynix) announced a $518 billion chipmaking hub investment to address AI demand. This is a concrete, officially announced capacity expansion decision by two major DRAM fund holdings that directly signals increased memory production capacity in response to AI infrastructure buildout."
+  },
+  "buffered_ts": 1783540947.4403367
+ },
+ {
+  "id": "c36646913263349cc22f9bfec5cdf70ac719a20a",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Apple Raised Prices, Samsung Raised Profits — Micron Predicted Both - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjh2Sk1pWVRhN2pJMmRJdHVLTWtLdEw2eHJRSTkzOE9ONGgwWHNqR1RQcDUyaFB3SmxGekVtUnlicHhPQUprejZNSEpCSU80b3RpaEdXWHBHSlNXdmV5ajdlNG92V3BDNTVJaGtRbExuNGJQSWxQZ0NPb3NURlVlTXEtWGlqYzVvQVNqUzFkZ0xUcExSOUlRazE3Wmh1eTEtVE9HQjNRSllKNU9hRXFuWHJvbU5CV1hjR05VTGxKMHdfaTNjU1VtaQ?oc=5",
+  "published_at": "Wed, 08 Jul 2026 18:10:07 GMT",
+  "published_ts": 1783534207,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjh2Sk1pWVRhN2pJMmRJdHVLTWtLdEw2eHJRSTkzOE9ONGgwWHNqR1RQcDUyaFB3SmxGekVtUnlicHhPQUprejZNSEpCSU80b3RpaEdXWHBHSlNXdmV5ajdlNG92V3BDNTVJaGtRbExuNGJQSWxQZ0NPb3NURlVlTXEtWGlqYzVvQVNqUzFkZ0xUcExSOUlRazE3Wmh1eTEtVE9HQjNRSllKNU9hRXFuWHJvbU5CV1hjR05VTGxKMHdfaTNjU1VtaQ?oc=5\" target=\"_blank\">Apple Raised Prices, Samsung Raised Profits — Micron Predicted Both</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing how Micron's prior statements or forecasts aligned with subsequent Apple pricing actions and Samsung profit outcomes. This is post-hoc commentary on analyst/management commentary rather than a new concrete event, earning release, or price catalyst distinct from already-disclosed information."
+  },
+  "buffered_ts": 1783540947.4403367
+ },
+ {
+  "id": "e1bd1a38d86da75c78bc3f18678ed3534d3364ca",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Every Memory Stock Is Now in a Bear Market: Is Micron, SanDisk, or Applied Materials the Best Buy? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzZ6REtncFdxalE5ZUVZUmpCekFuYjJiRWxiUUdQR29hcEZtV3hKbHRtZG1MaFhaZjlqeEZ6bS1TMkQ5SGEwNmV5NHVDY1pGdVdaUF93ODJtbFlqRVNNOVRIc0dWSEJNVTBORVk0X0lscmJsUTc2M2oteUdxVHRjdU9ZMUE0U1N4eV8zcVAyRGZEQUpXWnR3?oc=5",
+  "published_at": "Wed, 08 Jul 2026 18:55:09 GMT",
+  "published_ts": 1783536909,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzZ6REtncFdxalE5ZUVZUmpCekFuYjJiRWxiUUdQR29hcEZtV3hKbHRtZG1MaFhaZjlqeEZ6bS1TMkQ5SGEwNmV5NHVDY1pGdVdaUF93ODJtbFlqRVNNOVRIc0dWSEJNVTBORVk0X0lscmJsUTc2M2oteUdxVHRjdU9ZMUE0U1N4eV8zcVAyRGZEQUpXWnR3?oc=5\" target=\"_blank\">Every Memory Stock Is Now in a Bear Market: Is Micron, SanDisk, or Applied Materials the Best Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St."
+   ],
+   "titles": [
+    "Every Memory Stock Is Now in a Bear Market: Is Micron, SanDisk, or Applied Materials the Best Buy? - 24/7 Wall St."
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece questioning whether memory stocks (including holdings Micron and SanDisk) trading in bear markets represent buying opportunities. No concrete news or catalyst; pure commentary on valuation and stock selection."
+  },
+  "buffered_ts": 1783540947.4403367
+ },
+ {
+  "id": "eabde6de412f45b9808e7cc8d3c81f1c1acd713d",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Melius Research Starts Coverage of Seagate Technology Holdings plc (STX) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkZ3YzdnaWdvS3M2YURaRi1IZDV1MWxESTZMWFFpOUZFb2VnSGlpMTVaRHlsTktPbERQeEJBaWtzRWwxUk56a3Z4SXYyRlRXQWlCd3FJUUVEM0tRR1EtVk9wcUdXZ01WS25KRzh1Z0lHQkVYRlBQLVB5TnI2OWxHRnlUUmZUazc1RTJzUW9lVTBDM3oxTzV0bFBZd2pMSUFfX1haN2VsQQ?oc=5",
+  "published_at": "Wed, 08 Jul 2026 18:49:35 GMT",
+  "published_ts": 1783536575,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkZ3YzdnaWdvS3M2YURaRi1IZDV1MWxESTZMWFFpOUZFb2VnSGlpMTVaRHlsTktPbERQeEJBaWtzRWwxUk56a3Z4SXYyRlRXQWlCd3FJUUVEM0tRR1EtVk9wcUdXZ01WS25KRzh1Z0lHQkVYRlBQLVB5TnI2OWxHRnlUUmZUazc1RTJzUW9lVTBDM3oxTzV0bFBZd2pMSUFfX1haN2VsQQ?oc=5\" target=\"_blank\">Melius Research Starts Coverage of Seagate Technology Holdings plc (STX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Melius Research initiated coverage of Seagate (STX), a DRAM ETF holding. While this confirms analyst attention to the stock, an initiation of coverage alone is a minor event without new substantive information about the company's business, guidance, or market conditions."
+  },
+  "buffered_ts": 1783540947.4403367
  }
 ]
