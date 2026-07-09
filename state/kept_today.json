@@ -1367,5 +1367,293 @@
    "summary": "CNBC Trade Tracker reports that investor Bryn Talkington purchased shares of the Roundhill Memory ETF (DRAM). This is a minor fund flow mention with no material information about fund performance, holdings, or market conditions."
   },
   "buffered_ts": 1783619577.230002
+ },
+ {
+  "id": "13b07aa83686b6d6c6d4f7a63a6b4557ba1589be",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Samsung Hikes 5nm and 4nm Wafer Prices 15%, Breaking From TSMC’s Broad Increases as AI Demand Rewrites the Rules – Report - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFFjbWY0dE9KWDFHNzlVNHkwN1VaUXRac0tHLUNLbF9QOUNqUThxZ3VwZGhUc2dWTHN3TmdBdVkwTTJza3BWU0JUTWpnR2xGWjNQU2dKVENYRVY1cDB1Zl9QOXFzaDhPTnVfWm83RVdaRXVUcWhOeXQxaEhhU3dneU1hc3BLT2JKdDRnVTlBVmN3ZTR5b1VzT1N0d0JJVXU1UElBVDg2Z2N3SE4xRU9KWGkyMFp6MllOdEZCRHZtcVY3YkQ3T1YyMGFZZlNWYVlONkZDX9IB2gFBVV95cUxQV0k4UUlwTmNvLXkydnd1dGlyNFRra1otRzFWcDJVTk5vd3pQa1NVZW5HcjZrbk91d1h0Ujl0QVJ0YW9fZFVKYlhzSnlvemZKdG9OTDRaRGtGYjhiUGpfVUx0cjFOaVVKbGZvbXJUVTQ4RWVkWUExSmh5dEFUWm1TRDlvUEl6LVowTWZfdkxNbi1kV1AzWjE1SVUxUWJLUjJ1dUtMN3RMdUtvbXZGbVAzOTJkbko0QXdlU1dWMWRucjlxY3Z0RmtXaGE3WTIxdWhZZ19wM3REdHROUQ?oc=5",
+  "published_at": "Thu, 09 Jul 2026 17:59:13 GMT",
+  "published_ts": 1783619953,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFFjbWY0dE9KWDFHNzlVNHkwN1VaUXRac0tHLUNLbF9QOUNqUThxZ3VwZGhUc2dWTHN3TmdBdVkwTTJza3BWU0JUTWpnR2xGWjNQU2dKVENYRVY1cDB1Zl9QOXFzaDhPTnVfWm83RVdaRXVUcWhOeXQxaEhhU3dneU1hc3BLT2JKdDRnVTlBVmN3ZTR5b1VzT1N0d0JJVXU1UElBVDg2Z2N3SE4xRU9KWGkyMFp6MllOdEZCRHZtcVY3YkQ3T1YyMGFZZlNWYVlONkZDX9IB2gFBVV95cUxQV0k4UUlwTmNvLXkydnd1dGlyNFRra1otRzFWcDJVTk5vd3pQa1NVZW5HcjZrbk91d1h0Ujl0QVJ0YW9fZFVKYlhzSnlvemZKdG9OTDRaRGtGYjhiUGpfVUx0cjFOaVVKbGZvbXJUVTQ4RWVkWUExSmh5dEFUWm1TRDlvUEl6LVowTWZfdkxNbi1kV1AzWjE1SVUxUWJLUjJ1dUtMN3RMdUtvbXZGbVAzOTJkbko0QXdlU1dWMWRucjlxY3Z0RmtXaGE3WTIxdWhZZ19wM3REdHROUQ?oc=5\" target=\"_blank\">Samsung Hikes 5nm and 4nm Wafer Prices 15%, Breaking From TSMC’s Broad Increases as AI Demand Rewrites the Rules – Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung announced a 15% price increase for 5nm and 4nm wafer capacity, driven by AI infrastructure demand. This is a concrete pricing action distinct from TSMC's prior increases, signaling tight memory/advanced-node capacity and stronger demand environment for semiconductor manufacturing."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "a63166fffa6da62c9fc63f540bc515bc7910b23a",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Micron Boosts U.S. Investment to $250 Billion as AI Demand Accelerates Memory Expansion - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tYWtWcjJpMFZ2cDZxMmdkeWxuMkg4Rmp6OVlLX3RCZzFhYVE2Qm9UcDdVVlVxOU51OTZ6Z3dXRXNpS2R6X0dXbXdjZ3lWbld6clAtZTZWSmtfQkJhSi1DOUp4ejQ2LUlqeldjODRHS0ZpaDlZT1E?oc=5",
+  "published_at": "Thu, 09 Jul 2026 16:25:00 GMT",
+  "published_ts": 1783614300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5tYWtWcjJpMFZ2cDZxMmdkeWxuMkg4Rmp6OVlLX3RCZzFhYVE2Qm9UcDdVVlVxOU51OTZ6Z3dXRXNpS2R6X0dXbXdjZ3lWbld6clAtZTZWSmtfQkJhSi1DOUp4ejQ2LUlqeldjODRHS0ZpaDlZT1E?oc=5\" target=\"_blank\">Micron Boosts U.S. Investment to $250 Billion as AI Demand Accelerates Memory Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron announces a $250 billion U.S. investment commitment driven by accelerating AI demand for memory, representing a concrete capital allocation decision that signals confidence in sustained memory cycle growth and directly impacts a major DRAM ETF holding."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "9119eab1c3cef8091fa03127c9961996cb340472",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "SK Hynix's US listing more than seven times oversubscribed, source says - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZ3FvWkpKUDlmcGZ6MEszOVVXU2gxbk1Qb2k0RU9RNmVsUEVCNUsybnIwODQzYnhWRnR1QUNnYTNFdUl1eUY4Uk4zS2ZrWWlHRjRPc2hZN1RLeEhpbm96MEJnUEJNMTQ?oc=5",
+  "published_at": "Thu, 09 Jul 2026 16:07:46 GMT",
+  "published_ts": 1783613266,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZ3FvWkpKUDlmcGZ6MEszOVVXU2gxbk1Qb2k0RU9RNmVsUEVCNUsybnIwODQzYnhWRnR1QUNnYTNFdUl1eUY4Uk4zS2ZrWWlHRjRPc2hZN1RLeEhpbm96MEJnUEJNMTQ?oc=5\" target=\"_blank\">SK Hynix's US listing more than seven times oversubscribed, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Reuters"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix's US listing is significantly oversubscribed at over 7x, indicating strong investor demand for the direct US-traded shares of this major DRAM holding. This is a concrete development affecting a core fund position's accessibility and liquidity in US markets."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "f02ecc762fb5e83a61805e07d1dd01b8bb4fb9eb",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2ppN3JkeG84NUprSXh1RnpYQTRFcGVrcHFhMXhwemU1TEFiYnpPZGR1MVZFN0ZTVFBHZm8wWW8tXzFEN3F2TFA0Tzd1OUhvVEVKQ2ZPVGoxZ3BBZ1FMSnFzYjVQVWpod1UyRk5SSjh2UVJxM2lGRlRGUVhfWjRuMnFMakM0VmFpeWVKczZFNGxyZ2NKRzliMThDWXJ2YWI3WmN5NVptYjFuMHZYVUpncV9GY3BiTzVmRk5faGtkRTNqNV9LWHR0MkJGTmhKZzE3SzRaSzBpcXc4c2VwVjBHRUZ4SzFZUQ?oc=5",
+  "published_at": "Thu, 09 Jul 2026 18:24:40 GMT",
+  "published_ts": 1783621480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2ppN3JkeG84NUprSXh1RnpYQTRFcGVrcHFhMXhwemU1TEFiYnpPZGR1MVZFN0ZTVFBHZm8wWW8tXzFEN3F2TFA0Tzd1OUhvVEVKQ2ZPVGoxZ3BBZ1FMSnFzYjVQVWpod1UyRk5SSjh2UVJxM2lGRlRGUVhfWjRuMnFMakM0VmFpeWVKczZFNGxyZ2NKRzliMThDWXJ2YWI3WmN5NVptYjFuMHZYVUpncV9GY3BiTzVmRk5faGtkRTNqNV9LWHR0MkJGTmhKZzE3SzRaSzBpcXc4c2VwVjBHRUZ4SzFZUQ?oc=5\" target=\"_blank\">SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix IPO oversubscribed 7x, boosting semiconductor sector sentiment. Mixed positive signal for the holding and industry, but the oversubscription itself reflects investor confidence rather than a concrete material event for memory demand or pricing."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "558fba1383563b4160cd955b886f1d1b3cf7eac4",
+  "source": "Wccftech",
+  "topic": "pricing",
+  "title": "NAND Becomes The Biggest Cost Component For Apple’s iPhone 18 Pro Max (1TB) At Over $250 Per Unit - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnctVXdfaVdmbFA4YXJJdHk5NGg3dFJVaTlhV1l1MDdReE1oR282U3VSSzlUc2FPTlNCNTZzOGR4c3ZNNFJyN2dXVjh4QXd6ZEUzTUNmMG5GTmhDUlEwTXJRMjRoaS1faERrLVJpMVVFRUFETjJYLW9yMG0tcEY2UERUN0RxN29zeUhGWlRyOVh6OUN1S3RoWERLbTJySmhUTEZpeGpqcWdzOFZJS2xzUE5IeEdhUdIBuwFBVV95cUxPajQzbUVZcWdWRmQ5ejdwbUlsQ2F6WUVrcy1tcVBjZXVpV1JkUFJ3QWJqajBvZmZPcjJoVDNXWXljclEzQy1ZSFBKWF9qMi0zVXIwOV9SU2xqU2M3Tzd1OGIzLVV3MUVTQmNGNUVpTHA4YlpQY09RU3V0QnpFM0FwZkozVWFCRGhhY0dBb3RmRjRTRGJkZEZNV09UZTgxeVhVODRBTDM2Tkk4V2dqU3hTUDZGc0laVUxwc1VF?oc=5",
+  "published_at": "Thu, 09 Jul 2026 15:50:53 GMT",
+  "published_ts": 1783612253,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnctVXdfaVdmbFA4YXJJdHk5NGg3dFJVaTlhV1l1MDdReE1oR282U3VSSzlUc2FPTlNCNTZzOGR4c3ZNNFJyN2dXVjh4QXd6ZEUzTUNmMG5GTmhDUlEwTXJRMjRoaS1faERrLVJpMVVFRUFETjJYLW9yMG0tcEY2UERUN0RxN29zeUhGWlRyOVh6OUN1S3RoWERLbTJySmhUTEZpeGpqcWdzOFZJS2xzUE5IeEdhUdIBuwFBVV95cUxPajQzbUVZcWdWRmQ5ejdwbUlsQ2F6WUVrcy1tcVBjZXVpV1JkUFJ3QWJqajBvZmZPcjJoVDNXWXljclEzQy1ZSFBKWF9qMi0zVXIwOV9SU2xqU2M3Tzd1OGIzLVV3MUVTQmNGNUVpTHA4YlpQY09RU3V0QnpFM0FwZkozVWFCRGhhY0dBb3RmRjRTRGJkZEZNV09UZTgxeVhVODRBTDM2Tkk4V2dqU3hTUDZGc0laVUxwc1VF?oc=5\" target=\"_blank\">NAND Becomes The Biggest Cost Component For Apple’s iPhone 18 Pro Max (1TB) At Over $250 Per Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "NAND pricing analysis showing NAND as a major cost component (~$250/unit) for Apple's iPhone 18 Pro Max 1TB model. This is a pricing/cost-structure analysis rather than a confirmed spot-price move or supply shock, making it a relevant but speculative assessment of memory component demand and cost dynamics affecting the smartphone supply chain and NAND demand."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "aff4512c0017ea0b5f95862503ddadfc9aadad03",
+  "source": "Seeking Alpha",
+  "topic": "fund",
+  "title": "DRAM's Meltdown and Cyclical Memory/Oversupply Risks Discussed, Initiate Hold (BATS:DRAM) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUcyQlExWHFfQ1RmN2h1cC1vbDBMeGt0Y0YyVHVTdy1xd2RNMzVxMWRoam94d0xibXBkNzJRaE9iZE9kS1NrdTRpYVI1eTV6alJseU9ENmg5b0JNSk02UjNXcTZqZWJWZ3dJUVZpWHY5elZKVmlIeDB2NmI0QVZFaGt4VnJzZ1k5UjZOQTh1ci1WWlRfOVFIbS1aUW1EbXhSRGVGSWY5blZNTWpobmNXbVdkYXh5Zw?oc=5",
+  "published_at": "Thu, 09 Jul 2026 18:20:17 GMT",
+  "published_ts": 1783621217,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUcyQlExWHFfQ1RmN2h1cC1vbDBMeGt0Y0YyVHVTdy1xd2RNMzVxMWRoam94d0xibXBkNzJRaE9iZE9kS1NrdTRpYVI1eTV6alJseU9ENmg5b0JNSk02UjNXcTZqZWJWZ3dJUVZpWHY5elZKVmlIeDB2NmI0QVZFaGt4VnJzZ1k5UjZOQTh1ci1WWlRfOVFIbS1aUW1EbXhSRGVGSWY5blZNTWpobmNXbVdkYXh5Zw?oc=5\" target=\"_blank\">DRAM's Meltdown and Cyclical Memory/Oversupply Risks Discussed, Initiate Hold (BATS:DRAM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Seeking Alpha analyst initiates Hold rating on DRAM ETF, citing concerns about cyclical oversupply risks and recent meltdown in memory pricing; opinion-based recommendation rather than concrete event."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "e2003e34e5174369169a58170f4ac6f68a1bb73d",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate (STX) Stock Fair Value Rises After AI Storage Driven Analyst Target Increases - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEpIdndqQ1o3djlQWUpCUUR2c0F6OHpDYUhPVE1wZEgwaFJoZjZJbVRrZkVHWWZ6N0xOcUEzSmxxeVpqZUhVQnRUUUhxaDJpOVVBalVoUTlwSjZEVGcyTy1kdk02U21wc2kwakRSRE9pQUI4czlaZ1lBQi11MWhXWjQzTlNHUGc2bUlvTzZ1c3Rna2VRM0hJRg?oc=5",
+  "published_at": "Thu, 09 Jul 2026 19:11:52 GMT",
+  "published_ts": 1783624312,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEpIdndqQ1o3djlQWUpCUUR2c0F6OHpDYUhPVE1wZEgwaFJoZjZJbVRrZkVHWWZ6N0xOcUEzSmxxeVpqZUhVQnRUUUhxaDJpOVVBalVoUTlwSjZEVGcyTy1kdk02U21wc2kwakRSRE9pQUI4czlaZ1lBQi11MWhXWjQzTlNHUGc2bUlvTzZ1c3Rna2VRM0hJRg?oc=5\" target=\"_blank\">Seagate (STX) Stock Fair Value Rises After AI Storage Driven Analyst Target Increases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst target price increase for Seagate (STX) based on AI storage demand outlook; stock fair value rises. This is analyst opinion/target revision driven by existing market narratives rather than a new concrete event or earnings surprise."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "8fef29c77f1fe99035e3e077fa7bd95e010c3383",
+  "source": "Proactive financial news",
+  "topic": "holding",
+  "title": "SanDisk set for earnings upside as Wedbush lifts price target - Proactive financial news",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGRDSmgweEp5ZXBmR1p3RWg2dTdhWTFfdzk5TmJQU1VQWW1KN3lNbUpxU2F0YVRQRTR4S2FLXzNHN2wycGV5eG9BdGtva1IzMWYwWHZxQ1VGaWk4UXdPV05GMjNFSS1rMmRNMHBnUUR0SzZzM2FWX1RtQTRzUFpOZ2dIci1FSlhoMzV2S2pMbkJlVEx2Vi13N0dxejlweUstelM0MlJ4a0w0all4VEZ3S0lyYVJ3clFFN25aVmxkZldIS0ZTbmdGdmQxYnM?oc=5",
+  "published_at": "Thu, 09 Jul 2026 14:03:00 GMT",
+  "published_ts": 1783605780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGRDSmgweEp5ZXBmR1p3RWg2dTdhWTFfdzk5TmJQU1VQWW1KN3lNbUpxU2F0YVRQRTR4S2FLXzNHN2wycGV5eG9BdGtva1IzMWYwWHZxQ1VGaWk4UXdPV05GMjNFSS1rMmRNMHBnUUR0SzZzM2FWX1RtQTRzUFpOZ2dIci1FSlhoMzV2S2pMbkJlVEx2Vi13N0dxejlweUstelM0MlJ4a0w0all4VEZ3S0lyYVJ3clFFN25aVmxkZldIS0ZTbmdGdmQxYnM?oc=5\" target=\"_blank\">SanDisk set for earnings upside as Wedbush lifts price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Proactive financial news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wedbush analyst lifts SanDisk (SNDK) price target ahead of earnings, citing expected upside. This is analyst opinion and price-target revision rather than a concrete event; market reaction will depend on actual earnings results."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "c8f7862b55ec54190d1df6cfaf52daf7bcc13702",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Western Digital Stock Lifts Following Micron's $250 Billion Investment - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdk90T3lUY3dib19MdjA0cnk2SkwtQW5TcWNKVUV2UHlheVROekFDREg1LVVkREVmUVhSWmJzZVA4cmNvdGplTEx6RnlvWHVNMmVkQ3JCcGFPUkdBUEVRTnltZnpTMTdUZFhjV0lWZFNTSUVzdktVZzJIZEpRcFZsQWpWR0laOVpZMTF3MVhVSTZjN2xxcF9mQ0NrbjduMGlYYkdYOGI5dEc2aFoyT3Q3Zkw3WEx4Sm03ZGE1STZVakRqOS0zbzZLWg?oc=5",
+  "published_at": "Thu, 09 Jul 2026 19:14:42 GMT",
+  "published_ts": 1783624482,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdk90T3lUY3dib19MdjA0cnk2SkwtQW5TcWNKVUV2UHlheVROekFDREg1LVVkREVmUVhSWmJzZVA4cmNvdGplTEx6RnlvWHVNMmVkQ3JCcGFPUkdBUEVRTnltZnpTMTdUZFhjV0lWZFNTSUVzdktVZzJIZEpRcFZsQWpWR0laOVpZMTF3MVhVSTZjN2xxcF9mQ0NrbjduMGlYYkdYOGI5dEc2aFoyT3Q3Zkw3WEx4Sm03ZGE1STZVakRqOS0zbzZLWg?oc=5\" target=\"_blank\">Western Digital Stock Lifts Following Micron's $250 Billion Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital stock rose following news of Micron's $250 billion investment announcement. This is a market reaction to a peer holding's capex commitment, which signals industry strength in memory demand/capacity but represents analyst interpretation of known news rather than a new concrete event for WDC itself."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "eba8b22a4c1d4e8efee53d1f5d0970e8fe622845",
+  "source": "Samsung Semiconductor",
+  "topic": "holding",
+  "title": "Breaking AI Memory Limits with CXL Memory Pooling - Samsung Semiconductor",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjhBcVV5ME9lc1FvZ2JRUklKNExxX3JxVGlPQXpKVWZqUEJtZHVGMDJrZXNzMHluSk1SX192aGdsaHRpMnk3Y1lSTUpQdkpWSl9NalBBbmtfU0x6WG13aEpsN012cGJqbWhYQ09qeWFtWlJ2S0VUTDRQZ0VDZndfa2JhdVNxdUZkRmc1YVpKTlpHT010Ry1JbWw2YkczTDRJcE4ybUJyMjRqdw?oc=5",
+  "published_at": "Wed, 08 Jul 2026 22:45:01 GMT",
+  "published_ts": 1783550701,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjhBcVV5ME9lc1FvZ2JRUklKNExxX3JxVGlPQXpKVWZqUEJtZHVGMDJrZXNzMHluSk1SX192aGdsaHRpMnk3Y1lSTUpQdkpWSl9NalBBbmtfU0x6WG13aEpsN012cGJqbWhYQ09qeWFtWlJ2S0VUTDRQZ0VDZndfa2JhdVNxdUZkRmc1YVpKTlpHT010Ry1JbWw2YkczTDRJcE4ybUJyMjRqdw?oc=5\" target=\"_blank\">Breaking AI Memory Limits with CXL Memory Pooling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung Semiconductor</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Samsung Semiconductor"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Semiconductor published analysis on CXL Memory Pooling as a solution for AI memory constraints. This represents Samsung's technical positioning on emerging memory architecture trends relevant to AI infrastructure demand, but is primarily thought-leadership/analysis rather than a concrete product announcement, capacity decision, or market event."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "0574c764ce2c7b33584cc2c699ae7b4f69d41261",
+  "source": "StocksToTrade",
+  "topic": "holding",
+  "title": "SNDK Stock Rallies As Bernstein Targets $3,000 - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83alkzZU9ST2MwTkpmMWt0MDRtUWJxNUo0M015bWlBS0dNRlNRZEFOQzJLZzMtTUJNVjN6eVA3ckthaGQ2UDRfeHNBNlRILUcweldBU0Exd0hjemdVR1lueEZQcjFENldvcjBBUWpoeGVDcjRITEtHYm03R3g?oc=5",
+  "published_at": "Thu, 09 Jul 2026 18:03:00 GMT",
+  "published_ts": 1783620180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83alkzZU9ST2MwTkpmMWt0MDRtUWJxNUo0M015bWlBS0dNRlNRZEFOQzJLZzMtTUJNVjN6eVA3ckthaGQ2UDRfeHNBNlRILUcweldBU0Exd0hjemdVR1lueEZQcjFENldvcjBBUWpoeGVDcjRITEtHYm03R3g?oc=5\" target=\"_blank\">SNDK Stock Rallies As Bernstein Targets $3,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bernstein analyst sets $3,000 price target for SanDisk (SNDK), a fund holding. Stock rallies on the target revision. This is analyst opinion/price target change, which is relevant but soft — not a concrete event like earnings or a deal announcement."
+  },
+  "buffered_ts": 1783626012.6839538
+ },
+ {
+  "id": "f16d2e2d1bb92650580c722bb88c7db469fa054f",
+  "source": "Tech Brew",
+  "topic": "holding",
+  "title": "Is this the peak of the memory boom? - Tech Brew",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXpwSDdTOFdZR01hRHJqTHFDc0tqVXdUS3A4dDVjTHdaQWdDSWcycVYxbndLLXBNejFjSUgtMmtlbWZLM1M2N1gzNTJvQWp4Y3RJd1ZGa3pTTkxZZUFhSlBzZjV5WGdsM3ZlNk4yLVVOMmN1dVMzeFkydHlGSlh1bTdiMVY?oc=5",
+  "published_at": "Thu, 09 Jul 2026 18:18:07 GMT",
+  "published_ts": 1783621087,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORXpwSDdTOFdZR01hRHJqTHFDc0tqVXdUS3A4dDVjTHdaQWdDSWcycVYxbndLLXBNejFjSUgtMmtlbWZLM1M2N1gzNTJvQWp4Y3RJd1ZGa3pTTkxZZUFhSlBzZjV5WGdsM3ZlNk4yLVVOMmN1dVMzeFkydHlGSlh1bTdiMVY?oc=5\" target=\"_blank\">Is this the peak of the memory boom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Brew</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Brew"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Opinion/analysis piece questioning whether the current memory cycle has peaked. Relevant to the fund's holdings and the DRAM industry cycle, but represents commentary and speculation rather than a concrete event or hard data point."
+  },
+  "buffered_ts": 1783626012.6839538
  }
 ]
