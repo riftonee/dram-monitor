@@ -3210,5 +3210,317 @@
    "summary": "Jim Cramer opines that SK Hynix may be the last major IPO of 2026 unless a hyperscaler surprises the market. This is analyst commentary and speculation about future capital markets activity, not a confirmed event or material development affecting the holding or memory cycle."
   },
   "buffered_ts": 1783720736.393541
+ },
+ {
+  "id": "905ad6139238ce221f4886574559313ce7669500",
+  "source": "富途牛牛",
+  "topic": "pricing",
+  "title": "Following a 70% quarterly surge in NAND prices, SK Hynix has restarted Phase II of its Dalian facility, accelerating its competition with Samsung's Xi'an operations. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEhkSGRkT19oTGMwR0E5VUd5RzJQcDA4MmZrSk12aFNrR3BzVHRESS1iQUgyWFoxcVl2RG9UVm9HRFEwTXZBQUtQdWFWLXJhX1RjUHdqN0s0b2ZsVEdTcmVSVUtjX0RmZkR1a1hvbU5CLXU2bUxXazd1S0lrYVRxRnpBUTQzNGxZcEVzako3a1BJOEFCdllkNE1LR0ZicndRVnE4ZFRaWjZDZ0FEai1fQ3BRUnYxQzR4X0pYQTN0WXVnQzVpZmdVTEJR?oc=5",
+  "published_at": "Fri, 10 Jul 2026 06:45:13 GMT",
+  "published_ts": 1783665913,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEhkSGRkT19oTGMwR0E5VUd5RzJQcDA4MmZrSk12aFNrR3BzVHRESS1iQUgyWFoxcVl2RG9UVm9HRFEwTXZBQUtQdWFWLXJhX1RjUHdqN0s0b2ZsVEdTcmVSVUtjX0RmZkR1a1hvbU5CLXU2bUxXazd1S0lrYVRxRnpBUTQzNGxZcEVzako3a1BJOEFCdllkNE1LR0ZicndRVnE4ZFRaWjZDZ0FEai1fQ3BRUnYxQzR4X0pYQTN0WXVnQzVpZmdVTEJR?oc=5\" target=\"_blank\">Following a 70% quarterly surge in NAND prices, SK Hynix has restarted Phase II of its Dalian facility, accelerating its competition with Samsung's Xi'an operations.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK Hynix has restarted Phase II of its Dalian facility following a 70% quarterly surge in NAND prices, directly impacting memory production capacity and competitive dynamics between SK Hynix and Samsung—both key holdings in DRAM ETF."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "053a88f5236fcac79227c4f2cba511817f45d494",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Chip giant SK Hynix closed out its market debut roughly 13% higher on Friday. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0l5ZVcyaUwzY2ZZVW1HdjNWd2pxZU5qVW1KS3F6RFUwVmwwQnJyY3dheVhHYWZuQTE3cGtLYWpjYnpOLVhIVmdYbWs4QS1jMDRGTjBJVFFzQzNHNGx4aXY3MlBsYWFLQ0RTZnc4QUV1a0pTZ2VGWUxGdFM3UGY3RmZaWWlXU2Q0NkZEdkNERWJXZWhWMkNtUm1kTWktQi1Sb0dMZjhPY1Yyd0k?oc=5",
+  "published_at": "Fri, 10 Jul 2026 20:04:35 GMT",
+  "published_ts": 1783713875,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0l5ZVcyaUwzY2ZZVW1HdjNWd2pxZU5qVW1KS3F6RFUwVmwwQnJyY3dheVhHYWZuQTE3cGtLYWpjYnpOLVhIVmdYbWs4QS1jMDRGTjBJVFFzQzNHNGx4aXY3MlBsYWFLQ0RTZnc4QUV1a0pTZ2VGWUxGdFM3UGY3RmZaWWlXU2Q0NkZEdkNERWJXZWhWMkNtUm1kTWktQi1Sb0dMZjhPY1Yyd0k?oc=5\" target=\"_blank\">Chip giant SK Hynix closed out its market debut roughly 13% higher on Friday.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, closed its market debut approximately 13% higher on Friday, representing a significant confirmed stock move tied to a concrete corporate event (market listing/debut)."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "81016922dc93063497431e7592da80d8d0fde683",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Stock Soars in Biggest US Listing Ever by a Foreign Company - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTZiLWRLVFVYdXhXZFc5ckNyX2J0NWpDc3Y1eTBQNmtCYzYyaDlLTXpzRzhmdU5kNkVnQ05ZVF8zUVBmMzhiSEd5VTNkUENvdXlIZzBMcXNycjljSk8zckRjQ2hvajZhbnI5WURQWVlQNDFTdkpFWGs4VklobFZGTVhuNWk5a2Y2cUYwemR6c1FJN3I5V0lzUg?oc=5",
+  "published_at": "Fri, 10 Jul 2026 17:49:36 GMT",
+  "published_ts": 1783705776,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTZiLWRLVFVYdXhXZFc5ckNyX2J0NWpDc3Y1eTBQNmtCYzYyaDlLTXpzRzhmdU5kNkVnQ05ZVF8zUVBmMzhiSEd5VTNkUENvdXlIZzBMcXNycjljSk8zckRjQ2hvajZhbnI5WURQWVlQNDFTdkpFWGs4VklobFZGTVhuNWk5a2Y2cUYwemR6c1FJN3I5V0lzUg?oc=5\" target=\"_blank\">SK Hynix Stock Soars in Biggest US Listing Ever by a Foreign Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix achieves record US listing, marking a major corporate event for the memory-semiconductor holding. The headline indicates a significant market development for this core DRAM ETF constituent, though the snippet does not provide specific valuation or capital-raise details needed to assess full financial impact on the fund."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "dec3b4b55c5119cef5f475c3a2fa480e1d2cb2e1",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "SK Hynix makes historic NASDAQ debut amid AI-driven demand - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJN2FsaHktUEZUTVZjR3BldVFqSXBGeVBtemdSQlZoamxKNG9rNXJoSlQzYmpZaWNxMDJYN1ByLV9wb1JuM0dfV2dITm96OGJMY3JQT25SbWpzQXc2VlMxS21FRFIzRmRUd0tz?oc=5",
+  "published_at": "Fri, 10 Jul 2026 22:20:21 GMT",
+  "published_ts": 1783722021,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBJN2FsaHktUEZUTVZjR3BldVFqSXBGeVBtemdSQlZoamxKNG9rNXJoSlQzYmpZaWNxMDJYN1ByLV9wb1JuM0dfV2dITm96OGJMY3JQT25SbWpzQXc2VlMxS21FRFIzRmRUd0tz?oc=5\" target=\"_blank\">SK Hynix makes historic NASDAQ debut amid AI-driven demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM ETF holding, completed its historic NASDAQ listing. This is a concrete, material corporate event that increases accessibility to US investors and may affect fund composition and trading dynamics."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "45c55f321229ed1c2767240c1ae4cf0a95e3ecdf",
+  "source": "Dallas Express",
+  "topic": "holding",
+  "title": "SK Hynix Makes History: $26.5 Billion Nasdaq Debut - Dallas Express",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1hkeXVsX29VR1dLNmpYNG5nRDByNFV4d2ZJa1NIYWxLc29XZjJTQXVmSzU2M3F0eUxmMWQtSlhPRUc4Z25jVTFkLVhoVFUzVkdseXBHMkdrZUQ5WDZOTTJfVU05YlJqVlUwcm4wMWNmXzJjNE9SQ0lwTi1ENkRia1JZQjl6ckpZNHhPb2V4UVpwQkVUOGVF?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:33:57 GMT",
+  "published_ts": 1783719237,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1hkeXVsX29VR1dLNmpYNG5nRDByNFV4d2ZJa1NIYWxLc29XZjJTQXVmSzU2M3F0eUxmMWQtSlhPRUc4Z25jVTFkLVhoVFUzVkdseXBHMkdrZUQ5WDZOTTJfVU05YlJqVlUwcm4wMWNmXzJjNE9SQ0lwTi1ENkRia1JZQjl6ckpZNHhPb2V4UVpwQkVUOGVF?oc=5\" target=\"_blank\">SK Hynix Makes History: $26.5 Billion Nasdaq Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas Express</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Dallas Express"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completes its $26.5 billion Nasdaq listing, a major corporate milestone for one of the fund's core holdings. This is a concrete, officially announced event that represents a significant liquidity and market-access development for a major memory-semiconductor company in the DRAM ETF's portfolio."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "b138c7bcb0b14a35e2982ee7de240f33907a0588",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Stock Market Gains As SK Hynix Soars On Debut; Warsh Testimony, New Earnings Season Due - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXBjSWRNenBrYWNRZTNGLUt5OE9qSFY5cFJnRWxXakpXaTk0bEliLW00UkdzUWlmTjVSSkpHZ2YyYUFkRVd1UUR4WmRfS2NsbkZfdC1rUWxTVEUwUHZJbG9JYkRTZGlkc0ZzYUdoLWJmZWNTaTJHVmpFS3JPYl9HMTEyZ1NGcy1Rb2F2ZEdqRXo0UjFndTVHR1VoVzB3UXIyMHlvYUxST3dGbmh3cGJfY3QwRTEzTUwtem1WbDE0MUhFZjNKRWZlTlhwLWRhZ1VOeHBwcjhsODQ?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:36:00 GMT",
+  "published_ts": 1783719360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXBjSWRNenBrYWNRZTNGLUt5OE9qSFY5cFJnRWxXakpXaTk0bEliLW00UkdzUWlmTjVSSkpHZ2YyYUFkRVd1UUR4WmRfS2NsbkZfdC1rUWxTVEUwUHZJbG9JYkRTZGlkc0ZzYUdoLWJmZWNTaTJHVmpFS3JPYl9HMTEyZ1NGcy1Rb2F2ZEdqRXo0UjFndTVHR1VoVzB3UXIyMHlvYUxST3dGbmh3cGJfY3QwRTEzTUwtem1WbDE0MUhFZjNKRWZlTlhwLWRhZ1VOeHBwcjhsODQ?oc=5\" target=\"_blank\">Stock Market Gains As SK Hynix Soars On Debut; Warsh Testimony, New Earnings Season Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock soared on its market debut. This is a positive development for a major DRAM ETF holding, but the article appears to be a market-roundup piece mixing multiple unrelated stories (Warsh testimony, earnings season). The SK hynix move itself lacks specific catalyst details beyond the debut event, making it a soft positive rather than a concrete newsmaker."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "1fd9331b7a94126bde397f6a675d63199303060d",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SanDisk vs. Micron: AI Memory Boom Masks a Deep Structural Divide in Risk - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RF82d2RkS1NXWGUxMDlUdDBBenktbHVHQkxBYkZ2WW9qRUhrMWJRZkRvZE9VU2JUM2ViSExxcEdkbklfSDVzeGZ5T2laZlVIV2JZZ3NqeGtWUjljNFRzRjFpQnpWYmtPZE5fdmlpTEkwVlkzcUE?oc=5",
+  "published_at": "Fri, 10 Jul 2026 16:25:00 GMT",
+  "published_ts": 1783700700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RF82d2RkS1NXWGUxMDlUdDBBenktbHVHQkxBYkZ2WW9qRUhrMWJRZkRvZE9VU2JUM2ViSExxcEdkbklfSDVzeGZ5T2laZlVIV2JZZ3NqeGtWUjljNFRzRjFpQnpWYmtPZE5fdmlpTEkwVlkzcUE?oc=5\" target=\"_blank\">SanDisk vs. Micron: AI Memory Boom Masks a Deep Structural Divide in Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis comparing SanDisk and Micron's exposure to the AI memory boom, examining structural risk differences between the two DRAM fund holdings. Opinion/analysis piece rather than a concrete event or new hard data, but relevant to understanding competitive positioning of major fund components."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "0549699567dd8c652e7c8cd15e8309e2375d635d",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzEyTUxhS3JzN0ktRXdielp4WDRQR291SGtFVjRjS0MzSEFHRXpsdnNfMTJ4c2tuX2duUVJNREFuNWxIYnNwVUhUVlZFdWV3b3JJNDBHMjNQUW9GSEpQczNHOEFTRWVZTENsUmZMRGwtcXV4VG5ZeF9tZlJ3cktTQmxaXzZfVENvZ005WGZQVk1VMFdsQVE2akxGbVFDbTM1b0lGdU5UVi15UUVnLVhkNUdnZlk?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:52:56 GMT",
+  "published_ts": 1783720376,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzEyTUxhS3JzN0ktRXdielp4WDRQR291SGtFVjRjS0MzSEFHRXpsdnNfMTJ4c2tuX2duUVJNREFuNWxIYnNwVUhUVlZFdWV3b3JJNDBHMjNQUW9GSEpQczNHOEFTRWVZTENsUmZMRGwtcXV4VG5ZeF9tZlJ3cktTQmxaXzZfVENvZ005WGZQVk1VMFdsQVE2akxGbVFDbTM1b0lGdU5UVi15UUVnLVhkNUdnZlk?oc=5\" target=\"_blank\">SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bloomberg analysis of SK Hynix's market debut as a bet that AI demand will stabilize the memory chip cycle, breaking the historical boom-and-bust pattern. This is commentary and analyst perspective on the thesis underlying the holding rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "bab6bf40f0bf28448ef78b5ff5326cd5f5db1a65",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Market Talk: AI euphoria drives strong US demand for SK Hynix - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWt1RnhlYkJwSzVzM3pFaTg5UWtzVmpXSG92NkVnVlgwcHZIRTZPWExNdnFoTDB4bnhMa2ZueVJ0WEs0OW5DbUo4endqTFJSWklnYTFzOFJtUThDQXVVNWZIS1ZPWTY1T2Nod0tCSG42YkdBSW5ETFBYcVNYa1llX3NYSQ?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:59:43 GMT",
+  "published_ts": 1783720783,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWt1RnhlYkJwSzVzM3pFaTg5UWtzVmpXSG92NkVnVlgwcHZIRTZPWExNdnFoTDB4bnhMa2ZueVJ0WEs0OW5DbUo4endqTFJSWklnYTFzOFJtUThDQXVVNWZIS1ZPWTY1T2Nod0tCSG42YkdBSW5ETFBYcVNYa1llX3NYSQ?oc=5\" target=\"_blank\">Market Talk: AI euphoria drives strong US demand for SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Market commentary on strong US demand for SK Hynix driven by AI euphoria. Reflects positive sentiment toward a fund holding but represents analyst/market talk rather than a concrete event or earnings announcement."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "3651b8ec0ceb691c778b1407cdff9f9c4c46a12a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK hynix surges on first day of trading on Wall Street - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWlZcC1TTlVzMEI2VWhwV2hkb3FxWVZvOHhTUWxEVnIwUGhmTHlHQkxaWS1jbDhVSjV3OU9Zdmdodk9Xd1pGR1Zka3lVYkNVelRwVkhhR1h2bnZheHEtMGh2c1hfeVJXOEh0U01xeUJsQnlKdkloUWxPd3NLZHJzNVhVXzdxZVZRYXRZVjZGbzFrTDRR?oc=5",
+  "published_at": "Fri, 10 Jul 2026 20:21:06 GMT",
+  "published_ts": 1783714866,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWlZcC1TTlVzMEI2VWhwV2hkb3FxWVZvOHhTUWxEVnIwUGhmTHlHQkxaWS1jbDhVSjV3OU9Zdmdodk9Xd1pGR1Zka3lVYkNVelRwVkhhR1h2bnZheHEtMGh2c1hfeVJXOEh0U01xeUJsQnlKdkloUWxPd3NLZHJzNVhVXzdxZVZRYXRZVjZGbzFrTDRR?oc=5\" target=\"_blank\">SK hynix surges on first day of trading on Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix shares surged on their first day of trading on Wall Street. This marks a symbolic milestone for the major memory-chip holding but is a price-movement story without new fundamental information about supply, demand, or earnings."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "9f5e7421a36c61775c2b1f8ab46825d0fc9d2795",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "Hynix Soars, Chips Stay Grounded - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0x6bkdsSmoyTE5PekFCSmhwMFRrbVR0UWJWb2pVMlN2bGo4dXlrWGIxQ0RjT2JwUEJlX1VWdTE2bl9mVDhIQkJkWnJXaEIyV2RHV3YtMWJTYTdDVE5VR25GWUd6Q1ExYlg5LVBDREJwTUZPM3lERXZoTmdCYkFZcw?oc=5",
+  "published_at": "Fri, 10 Jul 2026 20:28:00 GMT",
+  "published_ts": 1783715280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0x6bkdsSmoyTE5PekFCSmhwMFRrbVR0UWJWb2pVMlN2bGo4dXlrWGIxQ0RjT2JwUEJlX1VWdTE2bl9mVDhIQkJkWnJXaEIyV2RHV3YtMWJTYTdDVE5VR25GWUd6Q1ExYlg5LVBDREJwTUZPM3lERXZoTmdCYkFZcw?oc=5\" target=\"_blank\">Hynix Soars, Chips Stay Grounded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock price movement reported by WSJ. Without access to the full article text, the headline suggests a stock price move, likely driven by market sentiment or existing news rather than a new concrete catalyst. Such price-movement stories tied to known events or sentiment are typically soft—they reflect market digestion of available information rather than new developments."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "7e164b7ac534efdb638036954a1c9e9a52af0ed2",
+  "source": "Tech Times",
+  "topic": "pricing",
+  "title": "Copilot+ PC Deals Up to $900 Off at Best Buy Before DRAM Price Hikes Hit - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFRnR0RLOXQwczh2bTgyaW02c3AzcXRwUHRHWXdzb0xaVi13MUNKRTBmYzRxYVFJSDY1dXI0MXhVd1llSTNkNkRnaWtfc1RwQ2VicmhKWDNuYlV3eWZYS25EZTRVZ1NQVWgtcE9OdjBCSkxic1EtaUhncFI4SmktTzRFdHBLb28xYmU0VEdSNHpTc0NBM0hHb1MzaUJIMnQtVzhjaXRZSHBmbnN2MEdOZ0t2Nm1qdWs?oc=5",
+  "published_at": "Fri, 10 Jul 2026 22:31:51 GMT",
+  "published_ts": 1783722711,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFRnR0RLOXQwczh2bTgyaW02c3AzcXRwUHRHWXdzb0xaVi13MUNKRTBmYzRxYVFJSDY1dXI0MXhVd1llSTNkNkRnaWtfc1RwQ2VicmhKWDNuYlV3eWZYS25EZTRVZ1NQVWgtcE9OdjBCSkxic1EtaUhncFI4SmktTzRFdHBLb28xYmU0VEdSNHpTc0NBM0hHb1MzaUJIMnQtVzhjaXRZSHBmbnN2MEdOZ0t2Nm1qdWs?oc=5\" target=\"_blank\">Copilot+ PC Deals Up to $900 Off at Best Buy Before DRAM Price Hikes Hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "pricing",
+   "summary": "Tech Times reports Best Buy is offering deep discounts on Copilot+ PCs ahead of anticipated DRAM price increases. The article mentions upcoming price hikes but provides no concrete data on timing, magnitude, or confirmed pricing changes—only promotional activity and speculation about future pricing pressure."
+  },
+  "buffered_ts": 1783724535.8446615
+ },
+ {
+  "id": "a31a85cfe1793ee683fa3cb21bd8a201afaff656",
+  "source": "Moomoo",
+  "topic": "fund",
+  "title": "$Roundhill Memory ETF (DRAM.US)$ - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzdTTEF3S2JsM2pQaF94dXZQM0xXTnpLSDNGb1RxWjBSdm5LaUg5WEJCSWFmbzBYdUFkWFdsMDNpOHYxMUYzaXA4YXk4UVBnMlFzRmhyQXVIYkhNN1U2YUc0T0Jwdk5hN0VRay1YdmZyZU1Cd0kydVhzMTZoUXl4WGhnV0NPWDhjNkE?oc=5",
+  "published_at": "Thu, 09 Jul 2026 13:39:00 GMT",
+  "published_ts": 1783604340,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzdTTEF3S2JsM2pQaF94dXZQM0xXTnpLSDNGb1RxWjBSdm5LaUg5WEJCSWFmbzBYdUFkWFdsMDNpOHYxMUYzaXA4YXk4UVBnMlFzRmhyQXVIYkhNN1U2YUc0T0Jwdk5hN0VRay1YdmZyZU1Cd0kydVhzMTZoUXl4WGhnV0NPWDhjNkE?oc=5\" target=\"_blank\">$Roundhill Memory ETF (DRAM.US)$</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 1,
+   "category": "fund",
+   "summary": "Moomoo reference to the Roundhill Memory ETF (DRAM) ticker symbol with no substantive news or fund-specific developments reported."
+  },
+  "buffered_ts": 1783724535.8446615
  }
 ]
