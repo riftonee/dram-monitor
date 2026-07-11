@@ -94,5 +94,29 @@
    "summary": "SK Hynix completed its Nasdaq debut, a concrete corporate event that increases U.S. market accessibility for one of the fund's core holdings and represents a material listing milestone."
   },
   "buffered_ts": 1783779625.1746328
+ },
+ {
+  "id": "e598067c40e61c501895f231756cc8fb15a95359",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Apple faces rising costs as AI-driven memory shortage reshapes hardware markets - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdkhIZmFGZjZoN0Q0bXJZMURXRFkzaXQ4ZGlnbUljREtBdHhHSHNSUms2SWRERkNRa3JxUGdrV28tb0FXX25CckZhclZaVWlXR012d21sU2FRRHl4UXg1S24xb0ZHM2w0U2c?oc=5",
+  "published_at": "Sat, 11 Jul 2026 14:06:40 GMT",
+  "published_ts": 1783778800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdkhIZmFGZjZoN0Q0bXJZMURXRFkzaXQ4ZGlnbUljREtBdHhHSHNSUms2SWRERkNRa3JxUGdrV28tb0FXX25CckZhclZaVWlXR012d21sU2FRRHl4UXg1S24xb0ZHM2w0U2c?oc=5\" target=\"_blank\">Apple faces rising costs as AI-driven memory shortage reshapes hardware markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses AI-driven memory shortage impacting hardware costs and market dynamics. While relevant to DRAM demand and the memory cycle, the headline and snippet lack concrete specifics (no pricing data, production cuts, or confirmed supply constraints), and reads more as analysis or possibility rather than a settled event affecting the holdings or fund."
+  },
+  "buffered_ts": 1783787271.6415124
  }
 ]
