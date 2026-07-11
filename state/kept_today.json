@@ -358,5 +358,53 @@
    "summary": "Wells Fargo upgraded Seagate Technology (STX), a DRAM ETF holding, to Overweight. This is an analyst action reflecting a positive view, but represents opinion and recommendation rather than a concrete market event or new fundamental information about the company or memory cycle."
   },
   "buffered_ts": 1783804447.4695895
+ },
+ {
+  "id": "744c51edf467123998822c4d10638fd5381160cd",
+  "source": "jawlah.co",
+  "topic": "industry",
+  "title": "SK Hynix CEO expects memory chip crisis to persist beyond 2030 - jawlah.co",
+  "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5zNUVPUG9rWmpILUtBWlZmWG5odU5EbF8yeWNuZW9oYWZlMlVXV2h6OEcwcWg2dWtVOFd3TDdfZw?oc=5",
+  "published_at": "Sat, 11 Jul 2026 19:43:09 GMT",
+  "published_ts": 1783798989,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE5zNUVPUG9rWmpILUtBWlZmWG5odU5EbF8yeWNuZW9oYWZlMlVXV2h6OEcwcWg2dWtVOFd3TDdfZw?oc=5\" target=\"_blank\">SK Hynix CEO expects memory chip crisis to persist beyond 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jawlah.co</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "jawlah.co"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO forecasts that the memory chip shortage/crisis will extend beyond 2030, signaling continued supply-demand imbalance in the memory semiconductor industry. This is forward-looking commentary on industry conditions rather than a concrete announced event or capacity decision."
+  },
+  "buffered_ts": 1783807964.0222507
+ },
+ {
+  "id": "4636082f1f80e257a3ad97ac58a3da0f43149223",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix: Micron Is Still Better After The IPO (SKHYV) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmx0OS1KbllXWlEwNVFMQmYzNS10bHNWY0ZxZ1VTR0Q5UDRzR2lDNU13X3BtUktLclh0MWJQaXBaRXNKbEEwc2Nob3k5OVROeUJ5Zkt4SHZHdW5VSEV5NFEzSXJwLVdIMkkzVjE2dG00UWUwNV8zLUlwS1hkUFpPRU5ReXd3T1BSWGJSQnhjbw?oc=5",
+  "published_at": "Fri, 10 Jul 2026 16:50:01 GMT",
+  "published_ts": 1783702201,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmx0OS1KbllXWlEwNVFMQmYzNS10bHNWY0ZxZ1VTR0Q5UDRzR2lDNU13X3BtUktLclh0MWJQaXBaRXNKbEEwc2Nob3k5OVROeUJ5Zkt4SHZHdW5VSEV5NFEzSXJwLVdIMkkzVjE2dG00UWUwNV8zLUlwS1hkUFpPRU5ReXd3T1BSWGJSQnhjbw?oc=5\" target=\"_blank\">SK hynix: Micron Is Still Better After The IPO (SKHYV)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece comparing SK hynix and Micron post-IPO, analyzing relative valuations and performance. This is analyst commentary and valuation comparison rather than a concrete event or hard data point affecting the memory cycle or fund holdings."
+  },
+  "buffered_ts": 1783807964.0222507
  }
 ]
