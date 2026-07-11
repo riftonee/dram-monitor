@@ -238,5 +238,77 @@
    "summary": "SK Hynix completed a record-setting IPO on NASDAQ under ticker SKHYV, a concrete corporate action that increases accessibility of the holding to U.S. investors and potentially affects fund composition and trading dynamics for the DRAM ETF."
   },
   "buffered_ts": 1783796208.8438857
+ },
+ {
+  "id": "ba827a962030c5f940a48e1a51747418fc85cd4a",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUs2M0x0MjNFNzlVS0ZkdXMwVTk1N1YwN3JHVFBOeWpiUVJhNDV0b0tZdWUwUGx5N0MzbkZaRmVUSUJKakYzeUUzM29iQ2lscmJwaVg2bGgtaGRoWllEVmRTODRDUTF3amViUmpmRlJ5LWFSYW5sNExkN3luS2J6S3VHUVZUelBlaGpleGhQNkdXcXBCOVlv?oc=5",
+  "published_at": "Sat, 11 Jul 2026 19:00:00 GMT",
+  "published_ts": 1783796400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUs2M0x0MjNFNzlVS0ZkdXMwVTk1N1YwN3JHVFBOeWpiUVJhNDV0b0tZdWUwUGx5N0MzbkZaRmVUSUJKakYzeUUzM29iQ2lscmJwaVg2bGgtaGRoWllEVmRTODRDUTF3amViUmpmRlJ5LWFSYW5sNExkN3luS2J6S3VHUVZUelBlaGpleGhQNkdXcXBCOVlv?oc=5\" target=\"_blank\">SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed its Nasdaq debut as the largest U.S. listing by a foreign company. This is a concrete, market-moving corporate event for a major DRAM ETF holding that changes its trading accessibility and capital structure in the U.S. market."
+  },
+  "buffered_ts": 1783800322.7445781
+ },
+ {
+  "id": "912687b18f33b3a189aa7b2ca4e01fb5809f50e5",
+  "source": "Tekedia",
+  "topic": "industry",
+  "title": "SK Hynix CEO Warns Memory Industry Faces Record Supply Shortage In 2027 As AI Demand Outpaces Capacity - Tekedia",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGp6VE5ZMTRtR1ZBdUpMZGFrMHNuVGFDcHgzT1VldWM1LV9ueEpOQXVCUF9CaVVRaWpMMEltcWRNRzZfWkNDUzVfTEk1dDlBVjlGR2JVUVhTZTNZc29hd2JtU2hyT1ZUQmZSOXRTMzF1ckxXTmtaMHVrSHVvZWlIRnJ0S0FzSnEzQUFhSzVkWEZjUzIwNzlUNUNxTV9LWlZncGVjRzdsMU5FVVRSMU1ZYWdfZ2pyMXZBdjUzNDRwNkJlNUNzSUE?oc=5",
+  "published_at": "Sat, 11 Jul 2026 15:38:28 GMT",
+  "published_ts": 1783784308,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGp6VE5ZMTRtR1ZBdUpMZGFrMHNuVGFDcHgzT1VldWM1LV9ueEpOQXVCUF9CaVVRaWpMMEltcWRNRzZfWkNDUzVfTEk1dDlBVjlGR2JVUVhTZTNZc29hd2JtU2hyT1ZUQmZSOXRTMzF1ckxXTmtaMHVrSHVvZWlIRnJ0S0FzSnEzQUFhSzVkWEZjUzIwNzlUNUNxTV9LWlZncGVjRzdsMU5FVVRSMU1ZYWdfZ2pyMXZBdjUzNDRwNkJlNUNzSUE?oc=5\" target=\"_blank\">SK Hynix CEO Warns Memory Industry Faces Record Supply Shortage In 2027 As AI Demand Outpaces Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tekedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns of record memory supply shortage in 2027 as AI demand outpaces capacity. This is forward guidance and commentary rather than a concrete, already-occurring event or hard number, making it analysis/possibility rather than a settled development. It is relevant to the memory cycle and a DRAM fund holding, but does not meet the 4-5 bar for a confirmed event with new material information."
+  },
+  "buffered_ts": 1783800322.7445781
+ },
+ {
+  "id": "925b4a9e1ab8d11ca167f61272314f557e306a45",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Here’s Why Buying the Dip in Sandisk Stock May Pay Off - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXVCOVRkM21acFl2N2JTbU8yY3hFUHNPcy1DcG5kbHdzanJzNmNXY1hSTzBES3RWb1l4c1cxaUFGbEYwLWE0ckN4S25OSnhER2RERGctWkJkSU94emE3bVphTUwxdWVjaGc5VHVIODQ2OTZRZjQyMGFoZEprMWo2Q0VYVlNESEQ5LVQ2djllemxraWRCTm56Qg?oc=5",
+  "published_at": "Sat, 11 Jul 2026 13:00:03 GMT",
+  "published_ts": 1783774803,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXVCOVRkM21acFl2N2JTbU8yY3hFUHNPcy1DcG5kbHdzanJzNmNXY1hSTzBES3RWb1l4c1cxaUFGbEYwLWE0ckN4S25OSnhER2RERGctWkJkSU94emE3bVphTUwxdWVjaGc5VHVIODQ2OTZRZjQyMGFoZEprMWo2Q0VYVlNESEQ5LVQ2djllemxraWRCTm56Qg?oc=5\" target=\"_blank\">Here’s Why Buying the Dip in Sandisk Stock May Pay Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece on SanDisk (SNDK), a DRAM fund holding, discussing potential upside from buying the stock at current levels. Analyst commentary and investment thesis rather than a concrete event or new material development."
+  },
+  "buffered_ts": 1783800322.7445781
  }
 ]
