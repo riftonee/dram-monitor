@@ -46,5 +46,53 @@
    "summary": "A major electronics retailer signals forthcoming price increases attributed to memory chip shortage, indicating pricing pressure in the market. This is forward-looking commentary on pricing trends rather than a confirmed price move or hard data on actual spot/contract prices."
   },
   "buffered_ts": 1783773080.6303735
+ },
+ {
+  "id": "946ebcd86551a987d6f16ced9039d4351b3fa8f3",
+  "source": "Tom's Hardware",
+  "topic": "holding",
+  "title": "SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 — CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRndoZ2lHUFZQeldKQU1SZnZDeUEzVHVRNXNwY1pIV3J1R2FPUVJqSGNtYmRuM3hpd2Y1U0dwRlcwVnlTbnk4dHJzZFo2elBxVDZ1cXNzS2tNRlVhWHlvUC0wbXJCampjUTBsVmZfZU9Yb2NmZFZiNGVlZmVqenlBT1hYbmpHcnM4bXpWNFJyN2Z5d09IZFc5REV4Z2lMcC1tbnRmZHlwM1BFV3JJWjVrNVZ6eXl2akdMZjhLZjhzTy1US0RsaUdCQk1ZMVdtVUpfMVJhTnQxb2RGM1cteG9POHo5Q0JlOEs2TGNDN0U3ZldKZTE1LVRDaFdmeGJTbC14VmZiXzJTT0FGTXBzT3ZHYkpCWndaTzNSU2F4dktGOHVxQnlSbk90T3dvR3VERFBrcUlucFR3?oc=5",
+  "published_at": "Sat, 11 Jul 2026 13:00:00 GMT",
+  "published_ts": 1783774800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxQRndoZ2lHUFZQeldKQU1SZnZDeUEzVHVRNXNwY1pIV3J1R2FPUVJqSGNtYmRuM3hpd2Y1U0dwRlcwVnlTbnk4dHJzZFo2elBxVDZ1cXNzS2tNRlVhWHlvUC0wbXJCampjUTBsVmZfZU9Yb2NmZFZiNGVlZmVqenlBT1hYbmpHcnM4bXpWNFJyN2Z5d09IZFc5REV4Z2lMcC1tbnRmZHlwM1BFV3JJWjVrNVZ6eXl2akdMZjhLZjhzTy1US0RsaUdCQk1ZMVdtVUpfMVJhTnQxb2RGM1cteG9POHo5Q0JlOEs2TGNDN0U3ZldKZTE1LVRDaFdmeGJTbC14VmZiXzJTT0FGTXBzT3ZHYkpCWndaTzNSU2F4dktGOHVxQnlSbk90T3dvR3VERFBrcUlucFR3?oc=5\" target=\"_blank\">SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 — CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tom's Hardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix CEO forecasts severe memory shortage peaking in 2027 and persisting until 2030, announced on the day of the company's Nasdaq listing. This is a concrete forward guidance from a major DRAM fund holding on supply/demand fundamentals that will drive memory pricing and margins over the medium term."
+  },
+  "buffered_ts": 1783779625.1746328
+ },
+ {
+  "id": "2f745c95e6619e16c4c3c09770216d9330ba27bc",
+  "source": "People's Daily Online",
+  "topic": "holding",
+  "title": "U.S. stocks edge higher after SK Hynix's Nasdaq debut - People's Daily Online",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RUTBlbTczWWVydHBYWTdJQmVvSzBITTkwMWhkLVJXdGZjc081YXZvSDFkWVF6ajFUcjJlSjdGZml6NjZFcXF0cjdlakhfUU1ON05QdGpldFU2R1lrZlhFdmlNeTg?oc=5",
+  "published_at": "Sat, 11 Jul 2026 07:15:00 GMT",
+  "published_ts": 1783754100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RUTBlbTczWWVydHBYWTdJQmVvSzBITTkwMWhkLVJXdGZjc081YXZvSDFkWVF6ajFUcjJlSjdGZml6NjZFcXF0cjdlakhfUU1ON05QdGpldFU2R1lrZlhFdmlNeTg?oc=5\" target=\"_blank\">U.S. stocks edge higher after SK Hynix's Nasdaq debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People's Daily Online</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "People's Daily Online"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed its Nasdaq debut, a concrete corporate event that increases U.S. market accessibility for one of the fund's core holdings and represents a material listing milestone."
+  },
+  "buffered_ts": 1783779625.1746328
  }
 ]
