@@ -166,5 +166,77 @@
    "summary": "SK hynix U.S. market debut is mentioned as a trending topic dominating Wall Street this week. This is a concrete development for a key DRAM fund holding, but the snippet provides no specifics on timing, valuation, or strategic implications—it is a soft mention in a roundup of weekly trending stocks."
   },
   "buffered_ts": 1783791045.1929884
+ },
+ {
+  "id": "ef537edc6f493a91e2a9bbc2fa76e1cedb0abf80",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTl9zUnQwVjY5cVBTYU1NVGloNXFSYk5IcHhiWGhON0ZraTIza0E3Q1RId0E5WjNrQ2JQWXZJdFFmNWtuNk55UVJBZ0gzZjRGS3p4YnhKNXFoSlNCZGdvMlRoQlcybjZMRkdQMzlSTk9OWFY3N3FGS0VYd0laNnRELUhhQU54Q0h1UmxrVDVXa28ycjZESXVr?oc=5",
+  "published_at": "Sat, 11 Jul 2026 18:48:10 GMT",
+  "published_ts": 1783795690,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTl9zUnQwVjY5cVBTYU1NVGloNXFSYk5IcHhiWGhON0ZraTIza0E3Q1RId0E5WjNrQ2JQWXZJdFFmNWtuNk55UVJBZ0gzZjRGS3p4YnhKNXFoSlNCZGdvMlRoQlcybjZMRkdQMzlSTk9OWFY3N3FGS0VYd0laNnRELUhhQU54Q0h1UmxrVDVXa28ycjZESXVr?oc=5\" target=\"_blank\">SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, completed its Nasdaq debut as the largest U.S. listing by a foreign company. This is a concrete, material corporate event affecting a core fund holding's market structure and accessibility to U.S. investors."
+  },
+  "buffered_ts": 1783796208.8438857
+ },
+ {
+  "id": "a5c6e8750b50a886475ae811bd1a77acbbbfefdb",
+  "source": "MLQ.ai",
+  "topic": "holding",
+  "title": "SK Hynix Surges 13% in Nasdaq Debut, Raising $26.5B in Largest Foreign US IPO - MLQ.ai",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbURZNG5YNFRyWlV2UkJaQzBZbDdBWGpkTGlmNlpxWEFZUXhWYldkS1FiSW03M1Y0bVUtekkxbENxTDRoZkVQQ252eUdma19uNW9iVnlTOVZqeVBSQTJpRUs1SFB6RjNVSlRXRzgyY2MtTVd3dW9pMlF4QlR4eTBTazhwZDQyR2ctQXQzb0NwZTh1b0JtcWd4WnNB?oc=5",
+  "published_at": "Sat, 11 Jul 2026 18:49:37 GMT",
+  "published_ts": 1783795777,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbURZNG5YNFRyWlV2UkJaQzBZbDdBWGpkTGlmNlpxWEFZUXhWYldkS1FiSW03M1Y0bVUtekkxbENxTDRoZkVQQ252eUdma19uNW9iVnlTOVZqeVBSQTJpRUs1SFB6RjNVSlRXRzgyY2MtTVd3dW9pMlF4QlR4eTBTazhwZDQyR2ctQXQzb0NwZTh1b0JtcWd4WnNB?oc=5\" target=\"_blank\">SK Hynix Surges 13% in Nasdaq Debut, Raising $26.5B in Largest Foreign US IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MLQ.ai"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed its Nasdaq IPO, raising $26.5B and surging 13% on debut. This is a major capital event for one of the fund's largest holdings and marks a significant shift in shareholder structure and accessibility to US investors, materially affecting the fund's position."
+  },
+  "buffered_ts": 1783796208.8438857
+ },
+ {
+  "id": "261117cc71f13c6caf1c040032de44dd33262233",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix jolts analysts amid record-setting IPO (SKHYV:NASDAQ) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajIyS21MWjlVbWJOUS16Y0JZTHpfdGREQmIwYTdsSHRGNVRQTDFXVUN3ZnBpSzQxUHFlclVjNjRJbXkySWwxb2hZeXM3eVRlWVlONDd5eFFyLTNvb3JUZ3ZfUVVyTG9udFV1cG4zUjNQcUZhWXQzdm9IY2tZdHU3VTF4ZXBVMkk?oc=5",
+  "published_at": "Sat, 11 Jul 2026 18:06:07 GMT",
+  "published_ts": 1783793167,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQajIyS21MWjlVbWJOUS16Y0JZTHpfdGREQmIwYTdsSHRGNVRQTDFXVUN3ZnBpSzQxUHFlclVjNjRJbXkySWwxb2hZeXM3eVRlWVlONDd5eFFyLTNvb3JUZ3ZfUVVyTG9udFV1cG4zUjNQcUZhWXQzdm9IY2tZdHU3VTF4ZXBVMkk?oc=5\" target=\"_blank\">SK Hynix jolts analysts amid record-setting IPO (SKHYV:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed a record-setting IPO on NASDAQ under ticker SKHYV, a concrete corporate action that increases accessibility of the holding to U.S. investors and potentially affects fund composition and trading dynamics for the DRAM ETF."
+  },
+  "buffered_ts": 1783796208.8438857
  }
 ]
