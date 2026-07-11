@@ -4770,5 +4770,29 @@
    "summary": "Western Digital stock holds steady as storage demand supports long-term outlook. A passing mention of WDC sentiment without concrete new information, earnings data, or material developments."
   },
   "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "d235d62f37e66f9941787e2082f45e6d8386c7e6",
+  "source": "The Japan Times",
+  "topic": "holding",
+  "title": "SK Hynix debut is a bet that AI breaks boom-and-bust chip cycle - The Japan Times",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGx1RzZwMkhWaWxOZkJzSEFfcTl0d3hvME9NeGExRWRReXdtQ2VadWQwYkxkOTIyR1QtRGd0TjBIUjhKVy02U1BSOW9MZ0lrdjhrOWJYMUtuc3ZKV3VxNTlTRXM4TmF2X0ZkbExpTnJYNFE0OXIxaklMeHhCN0xzNW0wWQ?oc=5",
+  "published_at": "Sat, 11 Jul 2026 00:38:00 GMT",
+  "published_ts": 1783730280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGx1RzZwMkhWaWxOZkJzSEFfcTl0d3hvME9NeGExRWRReXdtQ2VadWQwYkxkOTIyR1QtRGd0TjBIUjhKVy02U1BSOW9MZ0lrdjhrOWJYMUtuc3ZKV3VxNTlTRXM4TmF2X0ZkbExpTnJYNFE0OXIxaklMeHhCN0xzNW0wWQ?oc=5\" target=\"_blank\">SK Hynix debut is a bet that AI breaks boom-and-bust chip cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Japan Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix (a major DRAM ETF holding) is making a strategic bet that AI demand will stabilize the traditionally cyclical memory chip market. The story reflects analyst/management thesis on the company's positioning rather than reporting a concrete event or new financial development."
+  },
+  "buffered_ts": 1783769355.0708137
  }
 ]
