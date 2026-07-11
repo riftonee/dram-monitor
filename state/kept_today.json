@@ -118,5 +118,53 @@
    "summary": "Article discusses AI-driven memory shortage impacting hardware costs and market dynamics. While relevant to DRAM demand and the memory cycle, the headline and snippet lack concrete specifics (no pricing data, production cuts, or confirmed supply constraints), and reads more as analysis or possibility rather than a settled event affecting the holdings or fund."
   },
   "buffered_ts": 1783787271.6415124
+ },
+ {
+  "id": "9371f212472a7971e1c68d6bbd70b56edb855b74",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "SK Hynix Sets Nasdaq Foreign Listing Record as CEO Warns of Worsening AI Memory Crunch - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRzVBOFNyRlVLVHByV21OZHNFSHdBZWkwUVowQzBWcHVPZkVWb281RXh4eHUxd21Oc3phZ3BzSnVHUDFYQTN1bnFSUVgtN0g1NTlIM05YaV9zMUJlajBURHhQd0tIdnltLXhaaUFaaVBXTnRLS0JzRklpU0FRT293WUd1LXU5bmlFWGMyVGszSURmTG9oTl92dkZHVHJOYV9pSkh2TTBhYm5yc2I0UmxuMk16cHhiLU0yTVRiSFhJMnVMSmVqekZhQjdSTHhEUlZ6?oc=5",
+  "published_at": "Sat, 11 Jul 2026 10:37:11 GMT",
+  "published_ts": 1783766231,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRzVBOFNyRlVLVHByV21OZHNFSHdBZWkwUVowQzBWcHVPZkVWb281RXh4eHUxd21Oc3phZ3BzSnVHUDFYQTN1bnFSUVgtN0g1NTlIM05YaV9zMUJlajBURHhQd0tIdnltLXhaaUFaaVBXTnRLS0JzRklpU0FRT293WUd1LXU5bmlFWGMyVGszSURmTG9oTl92dkZHVHJOYV9pSkh2TTBhYm5yc2I0UmxuMk16cHhiLU0yTVRiSFhJMnVMSmVqekZhQjdSTHhEUlZ6?oc=5\" target=\"_blank\">SK Hynix Sets Nasdaq Foreign Listing Record as CEO Warns of Worsening AI Memory Crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix achieved a Nasdaq foreign listing record, and the CEO warned of a worsening AI memory crunch. The CEO's statement on memory supply constraints is a concrete warning signal of industry demand dynamics that directly affects the fund's holdings."
+  },
+  "buffered_ts": 1783791045.1929884
+ },
+ {
+  "id": "0acb0386c8df980cda38f7a17a6d74b55009c432",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Trending stocks this week: Iran tensions, Pepsi results, SK hynix U.S. debut dominate Wall Street - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjZmR3E3dy1yWEdOUHlPNGtvUG9RbGZzZEJXdGNleDJCeDhJc1lWRFRtVnRkdGN2LS00bzRTeE04aFd3ZXEtbXRNbEhTMWU4QU5WX1ZqZElQYXdJVUFXbjF0MXdIdzNMa0cwMDRyaWxYRk5kOEE0WXl5VUN4bFJ6MTJMOU5ZQm00WHdKOXpiSDhlSUNQcF9pV3Y2a1A1cnEwc3BCOUpWM09ZRWYwRnU4b0hxYUdXcFpKN1JRRzRJOTZGeElQMWdBWk9B?oc=5",
+  "published_at": "Sat, 11 Jul 2026 17:21:05 GMT",
+  "published_ts": 1783790465,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjZmR3E3dy1yWEdOUHlPNGtvUG9RbGZzZEJXdGNleDJCeDhJc1lWRFRtVnRkdGN2LS00bzRTeE04aFd3ZXEtbXRNbEhTMWU4QU5WX1ZqZElQYXdJVUFXbjF0MXdIdzNMa0cwMDRyaWxYRk5kOEE0WXl5VUN4bFJ6MTJMOU5ZQm00WHdKOXpiSDhlSUNQcF9pV3Y2a1A1cnEwc3BCOUpWM09ZRWYwRnU4b0hxYUdXcFpKN1JRRzRJOTZGeElQMWdBWk9B?oc=5\" target=\"_blank\">Trending stocks this week: Iran tensions, Pepsi results, SK hynix U.S. debut dominate Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix U.S. market debut is mentioned as a trending topic dominating Wall Street this week. This is a concrete development for a key DRAM fund holding, but the snippet provides no specifics on timing, valuation, or strategic implications—it is a soft mention in a roundup of weekly trending stocks."
+  },
+  "buffered_ts": 1783791045.1929884
  }
 ]
