@@ -4482,5 +4482,149 @@
    "summary": "SanDisk is expected to implement a stock split to improve retail investor appeal. Stock splits are corporate actions that can affect fund composition and trading dynamics, but this is a governance/capital-structure move without direct bearing on memory demand, pricing, or production capacity."
   },
   "buffered_ts": 1783751641.0466137
+ },
+ {
+  "id": "a1328d8648c650e2c12eef06a37edc93761e3f30",
+  "source": "Investopedia",
+  "topic": "holding",
+  "title": "Markets News, July 10, 2026: S&P 500, Nasdaq Post Weekly Gains; Stocks Inch Higher; SK Hynix Soars in US Debut - Investopedia",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVBjRmI0cmVwdXJ4Y2hTZzlQN283VzNxVGlfblo1SGhaV0V3TWNpeFVtTzFpM0kteVZqRjdlSUVwZ0ZpRl9iVmdIM3RRdmktVFByME5XclRMdEFMODJFR2NBNk1xV0N3SnpWSWlRVkxVczdkQUwzdEh0THlnbXM0ckJqS1NQRXJ3VDZVU0FkOHA?oc=5",
+  "published_at": "Fri, 10 Jul 2026 19:38:01 GMT",
+  "published_ts": 1783712281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVBjRmI0cmVwdXJ4Y2hTZzlQN283VzNxVGlfblo1SGhaV0V3TWNpeFVtTzFpM0kteVZqRjdlSUVwZ0ZpRl9iVmdIM3RRdmktVFByME5XclRMdEFMODJFR2NBNk1xV0N3SnpWSWlRVkxVczdkQUwzdEh0THlnbXM0ckJqS1NQRXJ3VDZVU0FkOHA?oc=5\" target=\"_blank\">Markets News, July 10, 2026: S&amp;P 500, Nasdaq Post Weekly Gains; Stocks Inch Higher; SK Hynix Soars in US Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investopedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix completes US market debut, marking a significant milestone for a major DRAM ETF holding. Direct listing or IPO of a core portfolio company is a concrete corporate event with potential implications for fund composition, trading liquidity, and shareholder structure."
+  },
+  "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "7ef2a08e75a8f8f214286392525fbc90a29d91bc",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "SK hynix (KOSE:A000660) Completes $26.5b ADS Offering, Is The Recent Pullback A Buying Opportunity? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3Mzcl83TmtqUXJ3TEpFZHNyQ2wzM1lSOHBhbzU0Y0RLU2tFSXZSdXdaSmt6YUR2cTVqOW9nTzFUM3RLQUFVZnlPeldMdnpkRGM3M1JnOWNwcHpZVXdLd21lMWhkeXl1Sl9Db3U1aEVkaTNqVWNhMU1iNnJJRXFBYVNnbjdLZzFqUjhsU2xYcVg2ZVVxd3lHS2gwWnVPb3JQSWRiemZUYU1vMTFDNFlEY1B2emVxUlIyOXN4ZmhOZmtyZk9SWDhEWGI2ZlFDQ3U1SEtReXhfMXLSAd4BQVVfeXFMTWJBTWFKcFdnN25aX1ZINWkxNzNoTGhqN1FDb0RHQ3UxTmJRYWZ1VE56SjVXNlJEaW51dWp0cXhaMDVidzBRT0hpLVpEUUJSV2p0ZWZMUWtMNHR4RF9KR3BaTmtUSmFrUkJJYUtaSl9TRGJISlFLMzY3ekNPMHFyOWNaNDVGOHd5ZHgzRlZEYUVfMjVBeXFpNmRWYWhsT3lDZmRtNnBza3ZmSmJVUkFtLUxJaERwVlRNRXN4cGlmQ3ZHMlZTalZwQmRteTBiOW5DV1FiYVhSM0NwQlNJOXZn?oc=5",
+  "published_at": "Sat, 11 Jul 2026 08:37:43 GMT",
+  "published_ts": 1783759063,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3Mzcl83TmtqUXJ3TEpFZHNyQ2wzM1lSOHBhbzU0Y0RLU2tFSXZSdXdaSmt6YUR2cTVqOW9nTzFUM3RLQUFVZnlPeldMdnpkRGM3M1JnOWNwcHpZVXdLd21lMWhkeXl1Sl9Db3U1aEVkaTNqVWNhMU1iNnJJRXFBYVNnbjdLZzFqUjhsU2xYcVg2ZVVxd3lHS2gwWnVPb3JQSWRiemZUYU1vMTFDNFlEY1B2emVxUlIyOXN4ZmhOZmtyZk9SWDhEWGI2ZlFDQ3U1SEtReXhfMXLSAd4BQVVfeXFMTWJBTWFKcFdnN25aX1ZINWkxNzNoTGhqN1FDb0RHQ3UxTmJRYWZ1VE56SjVXNlJEaW51dWp0cXhaMDVidzBRT0hpLVpEUUJSV2p0ZWZMUWtMNHR4RF9KR3BaTmtUSmFrUkJJYUtaSl9TRGJISlFLMzY3ekNPMHFyOWNaNDVGOHd5ZHgzRlZEYUVfMjVBeXFpNmRWYWhsT3lDZmRtNnBza3ZmSmJVUkFtLUxJaERwVlRNRXN4cGlmQ3ZHMlZTalZwQmRteTBiOW5DV1FiYVhSM0NwQlNJOXZn?oc=5\" target=\"_blank\">SK hynix (KOSE:A000660) Completes $26.5b ADS Offering, Is The Recent Pullback A Buying Opportunity?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix completes $26.5 billion ADS (American Depositary Shares) offering. This is a concrete capital-raising event by a major DRAM ETF holding that affects the company's balance sheet and financial position."
+  },
+  "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "d73a106357ee7fd46eab51411b3f09b4c837d234",
+  "source": "The Arkansas Democrat-Gazette",
+  "topic": "holding",
+  "title": "Stocks rise as chipmaker SK Hynix debuts in US - The Arkansas Democrat-Gazette",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1ltaXFnYVpEa3BJclJGOXZPcDZUaERubHZ1NmUyd093WjdjNXlRS0xsLXBxVUVGdHJpNXR0TUJacF9FU2RiWmY5T0FieG1FY29qUDFZUkZsbzJoY3NNYUMtdzFYWTd4VFZDVzR1eFp4d3hyMUlxYk9IcUV6SHVtQU5WeFk4bzlsRmtjcEVNZzEzSkVzWlR4ZGlxRQ?oc=5",
+  "published_at": "Sat, 11 Jul 2026 06:47:00 GMT",
+  "published_ts": 1783752420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1ltaXFnYVpEa3BJclJGOXZPcDZUaERubHZ1NmUyd093WjdjNXlRS0xsLXBxVUVGdHJpNXR0TUJacF9FU2RiWmY5T0FieG1FY29qUDFZUkZsbzJoY3NNYUMtdzFYWTd4VFZDVzR1eFp4d3hyMUlxYk9IcUV6SHVtQU5WeFk4bzlsRmtjcEVNZzEzSkVzWlR4ZGlxRQ?oc=5\" target=\"_blank\">Stocks rise as chipmaker SK Hynix debuts in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Arkansas Democrat-Gazette"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM holding in the fund, has debuted its US listing or presence. This is a concrete corporate event that may affect the holding's accessibility, trading dynamics, and market profile."
+  },
+  "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "d2af784ddba996ce591d3d45b97ba457c75eeaf2",
+  "source": "富途牛牛",
+  "topic": "industry",
+  "title": "Will the worst-ever 'chip shortage' hit next year? SK Hynix CEO: Supply will fall short of demand for the next decade - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnZYdi1yc1pJMnhDcHU4cmJzWnBZUFYwaDBhS2V3TnpvTVZpS3NaSHNfM0dodERoSjlEME5BcFJzcFZydXJpblRPMHI3MnBSNGNmbDVhYjh4RFJkUWlGVzNURnN4OVBsUWJXT09KR3ZNQ0hkbE1KQjg1TGFsOWFaRzU0RTlxTHJZQ3U2YU40S21aTzBvUHc?oc=5",
+  "published_at": "Sat, 11 Jul 2026 00:52:45 GMT",
+  "published_ts": 1783731165,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnZYdi1yc1pJMnhDcHU4cmJzWnBZUFYwaDBhS2V3TnpvTVZpS3NaSHNfM0dodERoSjlEME5BcFJzcFZydXJpblRPMHI3MnBSNGNmbDVhYjh4RFJkUWlGVzNURnN4OVBsUWJXT09KR3ZNQ0hkbE1KQjg1TGFsOWFaRzU0RTlxTHJZQ3U2YU40S21aTzBvUHc?oc=5\" target=\"_blank\">Will the worst-ever 'chip shortage' hit next year? SK Hynix CEO: Supply will fall short of demand for the next decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO states supply will fall short of demand for memory chips over the next decade, suggesting a structural supply constraint. This is relevant to memory industry dynamics and demand/capacity outlook, but represents executive commentary and forward-looking opinion rather than a confirmed event or hard shipment data, warranting a 3."
+  },
+  "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "7742500b6b53bc648b319f73c307c4698af7212e",
+  "source": "富途牛牛",
+  "topic": "industry",
+  "title": "Overview: Chipmakers Face Pressure on Pricing Power; Memory Chip Shortage Could Persist Beyond 2030 - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXZjZ3Y0T0ljN19HZFgtQUxHTkpaUlhIUkRnMkdRUU1OTEFYSHZBbmVEVVpVMXRBcElkMWpCY29kRVZGVmVKRFpJa3RZZW9pS25oOHdyV05kNnN6Z0ZnbmhSbE5xWjNGWndrblFVUGVGanVCY09ZQ1RuSUNHcUkxWTR4N0xvS3drVXBQeEl6cFFuUDBwVXA3UmM3N3g2NENVUFItM1FOZzcwSGJQblFVYUln?oc=5",
+  "published_at": "Sat, 11 Jul 2026 02:10:42 GMT",
+  "published_ts": 1783735842,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXZjZ3Y0T0ljN19HZFgtQUxHTkpaUlhIUkRnMkdRUU1OTEFYSHZBbmVEVVpVMXRBcElkMWpCY29kRVZGVmVKRFpJa3RZZW9pS25oOHdyV05kNnN6Z0ZnbmhSbE5xWjNGWndrblFVUGVGanVCY09ZQ1RuSUNHcUkxWTR4N0xvS3drVXBQeEl6cFFuUDBwVXA3UmM3N3g2NENVUFItM1FOZzcwSGJQblFVYUln?oc=5\" target=\"_blank\">Overview: Chipmakers Face Pressure on Pricing Power; Memory Chip Shortage Could Persist Beyond 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on chipmakers facing pricing pressure and potential memory chip shortage extending beyond 2030. This is analysis/forecast rather than a confirmed event, and the pricing-power pressure claim lacks specific numbers or concrete developments tied to current market conditions or earnings. Relevant to the memory cycle and fund holdings but soft on specifics."
+  },
+  "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "de968e3e5f756e823d5c8ad633eeb960100184b5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "AI Storage Tailwinds Lift STX Shares 506% in a Year: More Upside Left? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1dSRUFFQ1RnUTlDeE5hanlRR21qTWNKOGhUOTlFUWpnNDNIUHpBY2tzTkUxWjJZVEcxTHdrVUk5bWhKNHR6S3ZNQm5WdHMtYWpIQTRRQjh0UzFTd0ZSYjUwY3JfZ2hMUVRtenAzY1NKNHFhdEZoVDEwM2lKcVhYWTlBR1VkZV85cUJRSkhRQTJLSEFG?oc=5",
+  "published_at": "Thu, 09 Jul 2026 14:18:00 GMT",
+  "published_ts": 1783606680,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1dSRUFFQ1RnUTlDeE5hanlRR21qTWNKOGhUOTlFUWpnNDNIUHpBY2tzTkUxWjJZVEcxTHdrVUk5bWhKNHR6S3ZNQm5WdHMtYWpIQTRRQjh0UzFTd0ZSYjUwY3JfZ2hMUVRtenAzY1NKNHFhdEZoVDEwM2lKcVhYWTlBR1VkZV85cUJRSkhRQTJLSEFG?oc=5\" target=\"_blank\">AI Storage Tailwinds Lift STX Shares 506% in a Year: More Upside Left?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, has risen 506% over the past year driven by AI storage tailwinds. The article discusses the stock move and asks whether further upside remains, but reports no new concrete event or catalyst—it is analysis/commentary on the existing price move and market conditions."
+  },
+  "buffered_ts": 1783759490.6980956
  }
 ]
