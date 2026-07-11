@@ -4626,5 +4626,149 @@
    "summary": "Seagate (STX), a fund holding, has risen 506% over the past year driven by AI storage tailwinds. The article discusses the stock move and asks whether further upside remains, but reports no new concrete event or catalyst—it is analysis/commentary on the existing price move and market conditions."
   },
   "buffered_ts": 1783759490.6980956
+ },
+ {
+  "id": "a811b3ba3263c686304ad4f83eb5afdd35885660",
+  "source": "Startup Fortune",
+  "topic": "industry",
+  "title": "SK Hynix's Nasdaq Debut Shows Wall Street Betting Big on the Memory Chip Boom - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcURoT1RPcmdlNzFFUXplWVpBRXI1dmo5WFJtUHl0XzRSSEgwTjZnbmd5UGdwQnZVM2dzcEM0Zmw2QTBRWHJaT0d0RkRLZUptUkpJU1RwTnEwWV9VeW5sT1J2U0otdmQ5QXo3VHZkTkYtUG94c3hWeF9Rc21KZHVXLUZJb0RzQnk5YWtEbnpremFSQS1NLUxFenBBMDlfTUp3dnY4QW1IQQ?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:44:30 GMT",
+  "published_ts": 1783719870,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcURoT1RPcmdlNzFFUXplWVpBRXI1dmo5WFJtUHl0XzRSSEgwTjZnbmd5UGdwQnZVM2dzcEM0Zmw2QTBRWHJaT0d0RkRLZUptUkpJU1RwTnEwWV9VeW5sT1J2U0otdmQ5QXo3VHZkTkYtUG94c3hWeF9Rc21KZHVXLUZJb0RzQnk5YWtEbnpremFSQS1NLUxFenBBMDlfTUp3dnY4QW1IQQ?oc=5\" target=\"_blank\">SK Hynix's Nasdaq Debut Shows Wall Street Betting Big on the Memory Chip Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's Nasdaq listing debut signals Wall Street confidence in the memory chip cycle. This is a significant corporate milestone for a major DRAM fund holding, but the story reflects market sentiment and analyst positioning rather than a concrete operational or pricing development. The listing itself is a known event; the article appears to be commentary on market reaction and outlook."
+  },
+  "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "bb3a49697465fadd9e57a8f0bba0ac7bcceb8ba3",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "SK Hynix stock debuts for US investors tomorrow. The DRAM ETF could be the biggest loser. - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTdldnA1TVdUZU5QT0xQYmRkeTVaaHJaUFlaQW9HUlE1MVNpOVRMcm1SaDBaZ0EwNndtTUltcVpJOWhHRFVLNWUyZmlwMmF5cXNrY1NPM0I5V1lXNktMcU1ZeDU5SF9HTm5UR1RGaWdqTGkwc3UtQ0VUclY0WG1vbGd0VzY4TVpDeGs4OHUxUHRzMzJjM0JqU01DdEJha25HLUc5RzhjdjFieVVWc1d4N2FhX1JXcGFzU1gwdVdfeENWbkJ5QndYdF85RWtEUTdmVnBFbXRqUW00V09HYTc3SVdMZEI?oc=5",
+  "published_at": "Sat, 11 Jul 2026 08:18:23 GMT",
+  "published_ts": 1783757903,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTdldnA1TVdUZU5QT0xQYmRkeTVaaHJaUFlaQW9HUlE1MVNpOVRMcm1SaDBaZ0EwNndtTUltcVpJOWhHRFVLNWUyZmlwMmF5cXNrY1NPM0I5V1lXNktMcU1ZeDU5SF9HTm5UR1RGaWdqTGkwc3UtQ0VUclY0WG1vbGd0VzY4TVpDeGs4OHUxUHRzMzJjM0JqU01DdEJha25HLUc5RzhjdjFieVVWc1d4N2FhX1JXcGFzU1gwdVdfeENWbkJ5QndYdF85RWtEUTdmVnBFbXRqUW00V09HYTc3SVdMZEI?oc=5\" target=\"_blank\">SK Hynix stock debuts for US investors tomorrow. The DRAM ETF could be the biggest loser.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "SK Hynix, a major DRAM holding, is debuting for US investors tomorrow. The article speculates on potential negative impact to the DRAM ETF, likely due to dilution or portfolio composition changes, but this is commentary and analysis rather than a confirmed material event with concrete financial impact quantified."
+  },
+  "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "5153316331f5b38d1cb38bb2cde07a63990b1b42",
+  "source": "Startup Fortune",
+  "topic": "industry",
+  "title": "SK Hynix's CEO Says the Memory Chip Crunch Will Outlast This Decade - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFlUa05kZHVSRWQxc2JYZy1WR3RmNXVVcTFOcmhGbzNYaExvc045dkowNUJtcVFkOGdneU5Nc0dyUDZIc0laVzZMV3NTTFpUajE4WGNLbkIzR2h2RHU0c1dhejQyR0Y0TG80MUxJSTFjQXFwbEtxWEJmaEF5M1V3Z3FXaEI4SjJJRWs5S28tQW9kQmVUenR1QnB3?oc=5",
+  "published_at": "Sat, 11 Jul 2026 02:50:17 GMT",
+  "published_ts": 1783738217,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFlUa05kZHVSRWQxc2JYZy1WR3RmNXVVcTFOcmhGbzNYaExvc045dkowNUJtcVFkOGdneU5Nc0dyUDZIc0laVzZMV3NTTFpUajE4WGNLbkIzR2h2RHU0c1dhejQyR0Y0TG80MUxJSTFjQXFwbEtxWEJmaEF5M1V3Z3FXaEI4SjJJRWs5S28tQW9kQmVUenR1QnB3?oc=5\" target=\"_blank\">SK Hynix's CEO Says the Memory Chip Crunch Will Outlast This Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO forecasts that memory chip supply constraints will persist beyond this decade, indicating sustained structural tightness in the memory market. This is a forward-looking statement on industry supply/demand dynamics rather than a concrete near-term event."
+  },
+  "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "08f4543dbc130e17f632afa9056f806d32f04e9a",
+  "source": "Bitget",
+  "topic": "industry",
+  "title": "SK Hynix CEO: Memory chip shortage may persist beyond 2030 - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yR1R2aVQtOUJ3R2Q4cUhKNHZObU0tUU1NRU9aQ0ZTdTduRDBFZ3QzU3lSbUxLbmotZWZWWm1MTGp4TXN6UGNOUXBwc19IRDJtLVFSZkxDcDRuRUtlWWxDcXRoQW4tNFVsNnfSAWpBVV95cUxNckdUdmlULTlCd0dkOHFISjR2Tm1NLVFNTUVPWkNGU3U3bkQwRWd0M1N5Um1MS25qLWVmVlptTExqeE1zelBjTlFwcHNfSEQybS1RUmZMQ3A0bkVLZVlsQ3F0aEFuLTRVbDZ3?oc=5",
+  "published_at": "Fri, 10 Jul 2026 23:22:58 GMT",
+  "published_ts": 1783725778,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1yR1R2aVQtOUJ3R2Q4cUhKNHZObU0tUU1NRU9aQ0ZTdTduRDBFZ3QzU3lSbUxLbmotZWZWWm1MTGp4TXN6UGNOUXBwc19IRDJtLVFSZkxDcDRuRUtlWWxDcXRoQW4tNFVsNnfSAWpBVV95cUxNckdUdmlULTlCd0dkOHFISjR2Tm1NLVFNTUVPWkNGU3U3bkQwRWd0M1N5Um1MS25qLWVmVlptTExqeE1zelBjTlFwcHNfSEQybS1RUmZMQ3A0bkVLZVlsQ3F0aEFuLTRVbDZ3?oc=5\" target=\"_blank\">SK Hynix CEO: Memory chip shortage may persist beyond 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO suggests memory chip shortage may persist beyond 2030, indicating tight supply conditions in the memory industry cycle. This is forward-looking commentary on supply dynamics rather than a concrete event, and represents executive opinion on market outlook."
+  },
+  "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "95e09a371566bb8a4524a2c31c0812fce854dd2d",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUlJQ1JhbGx6QUZZZkltUDI0YmU1UUV6ZC1iZnA2bTBIN0FRMnBVVWtsSl9YX3o0ajVPY1RRNGtBcG9HNWxEaVJhb1NvLW1lWUtNMnFuZFpuSDc5UTFiZmVfVDVCQzNRVmEzLTRySXB5MGdwV2NYY2UtZEhMWGdWTnpCREtrbThTenE2eEFrTVMzU0dhMjVjanQwLVR2SlBMVTVKYk9R0gGrAUFVX3lxTFBJeERmMkZkYlQzVWdfcXljNmQ1NWlNNVlOUUxtYUt0c2JmazNybHFldTFaTEdsaEI3VGQ4RUxIcXhxak1XRDJZQTMtZEhYenVvbENaTURLUWNuaTREbGxlTHlHSGFlNUhDaUM3SEpfS1FRNWhSdzdock1jbUQ4TmYxTDhTN1c4NHVzUmIzeWNvOTJtZHhSOFJLaExtQ0VteWszR2dpYTF3R1dZcw?oc=5",
+  "published_at": "Sat, 11 Jul 2026 07:55:59 GMT",
+  "published_ts": 1783756559,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUlJQ1JhbGx6QUZZZkltUDI0YmU1UUV6ZC1iZnA2bTBIN0FRMnBVVWtsSl9YX3o0ajVPY1RRNGtBcG9HNWxEaVJhb1NvLW1lWUtNMnFuZFpuSDc5UTFiZmVfVDVCQzNRVmEzLTRySXB5MGdwV2NYY2UtZEhMWGdWTnpCREtrbThTenE2eEFrTVMzU0dhMjVjanQwLVR2SlBMVTVKYk9R0gGrAUFVX3lxTFBJeERmMkZkYlQzVWdfcXljNmQ1NWlNNVlOUUxtYUt0c2JmazNybHFldTFaTEdsaEI3VGQ4RUxIcXhxak1XRDJZQTMtZEhYenVvbENaTURLUWNuaTREbGxlTHlHSGFlNUhDaUM3SEpfS1FRNWhSdzdock1jbUQ4TmYxTDhTN1c4NHVzUmIzeWNvOTJtZHhSOFJLaExtQ0VteWszR2dpYTF3R1dZcw?oc=5\" target=\"_blank\">iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Rumor that iPhone 18 Pro will not use CXMT DRAM due to Samsung and SK hynix integration with A20 Pro packaging, with an unspecified silver lining mentioned. This is speculative supply-chain gossip with no concrete event or confirmed development; naming Samsung and SK hynix (both fund holdings) does not elevate a rumor to material status."
+  },
+  "buffered_ts": 1783764743.1469347
+ },
+ {
+  "id": "11ac509c3f37d19f600be30b3bbefa3f1ffdbab8",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Western Digital stock holds steady as storage demand underpins long-term outlook - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZmd4aUY0M1pEbDRSUGY1YUVFQ2RCQTJub3ZsNXFqOFhEcGlZZTF0bEl0dFNmTEZQa1RMT2pfNU14UGxCRnhFcVNfSi1jRVlmMTVrSDdBcXo0bXEtd1ZWSl95cnBqNlFLY2RhVkg1aG96SmszellJc2FKV3RoMC1adG9ENURWa1JXLWN0cEFES2VsZzVZVTJHQ3FJMzlFRURLdDYtUkpUMkI3U2JvdDIyNHlUR3JQR2UwRE1kTDdNejdwVjNfX3o0QldUZw?oc=5",
+  "published_at": "Sat, 11 Jul 2026 09:07:58 GMT",
+  "published_ts": 1783760878,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZmd4aUY0M1pEbDRSUGY1YUVFQ2RCQTJub3ZsNXFqOFhEcGlZZTF0bEl0dFNmTEZQa1RMT2pfNU14UGxCRnhFcVNfSi1jRVlmMTVrSDdBcXo0bXEtd1ZWSl95cnBqNlFLY2RhVkg1aG96SmszellJc2FKV3RoMC1adG9ENURWa1JXLWN0cEFES2VsZzVZVTJHQ3FJMzlFRURLdDYtUkpUMkI3U2JvdDIyNHlUR3JQR2UwRE1kTDdNejdwVjNfX3o0QldUZw?oc=5\" target=\"_blank\">Western Digital stock holds steady as storage demand underpins long-term outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital stock holds steady as storage demand supports long-term outlook. A passing mention of WDC sentiment without concrete new information, earnings data, or material developments."
+  },
+  "buffered_ts": 1783764743.1469347
  }
 ]
