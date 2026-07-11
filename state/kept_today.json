@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "id": "7099e273859e53b03febf4a7d1da62a8f27333fe",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "Smart Investor: Second-Half Stock and Bond Market Opportunities, Globalization Isn’t Dead, and the SK Hynix IPO. - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWVmMVZSRjdlWWZ0OUJURXc2N092a3NmbkVVWkdDNms5QWtLSlY2YTQ4eUNXR0pkYUItU0VRY1VudVA0bXdXcEYzeUIwTXhoNVpacTNQNWprQ3B1eDJ6aGVUMDdHUzJEallQQm1qM25McGVraUlrd1ZHMllvczV3eGRCMVhYQVF2SlFqSDcxTDVCTnIyUUdmbEpBTXg1ZU54M0lobzR1cFlOUGQ2X2E3THQ0T253VDRqWTNLMlJPdTdCRzNZTGk5eTUwdw?oc=5",
+  "published_at": "Sat, 11 Jul 2026 12:13:19 GMT",
+  "published_ts": 1783771999,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWVmMVZSRjdlWWZ0OUJURXc2N092a3NmbkVVWkdDNms5QWtLSlY2YTQ4eUNXR0pkYUItU0VRY1VudVA0bXdXcEYzeUIwTXhoNVpacTNQNWprQ3B1eDJ6aGVUMDdHUzJEallQQm1qM25McGVraUlrd1ZHMllvczV3eGRCMVhYQVF2SlFqSDcxTDVCTnIyUUdmbEpBTXg1ZU54M0lobzR1cFlOUGQ2X2E3THQ0T253VDRqWTNLMlJPdTdCRzNZTGk5eTUwdw?oc=5\" target=\"_blank\">Smart Investor: Second-Half Stock and Bond Market Opportunities, Globalization Isn’t Dead, and the SK Hynix IPO.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Morningstar commentary mentions SK Hynix IPO as part of a broader market opportunities discussion. SK Hynix is a major DRAM holding, and an IPO would be a significant corporate event, but this appears to be opinion/analysis rather than reporting a confirmed IPO timeline or concrete development."
+  },
+  "buffered_ts": 1783773080.6303735
+ },
+ {
+  "id": "221bce9b7d1a1b7d414b87c9dbcd3e0787cab871",
+  "source": "AOL.com",
+  "topic": "industry",
+  "title": "A $12 billion electronics retailer says price increases are coming due to the memory chip shortage - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVJ3NDhXU3NzdjlzdWpKMlJzTEtiTThtWTRCNnNRRzYzalBqS2E1NUg4N2c4dGdZazRKd1JPRzRTSVBrNEN2YWRoSTQyemdadU9sOUw4dkN5clBVYmRERy1RaUFSSEQyQUFzYWw4ekVVeWdUTWRmbFdLWlBUX0RpUU9UUHp3ZU0?oc=5",
+  "published_at": "Sat, 11 Jul 2026 08:15:37 GMT",
+  "published_ts": 1783757737,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONVJ3NDhXU3NzdjlzdWpKMlJzTEtiTThtWTRCNnNRRzYzalBqS2E1NUg4N2c4dGdZazRKd1JPRzRTSVBrNEN2YWRoSTQyemdadU9sOUw4dkN5clBVYmRERy1RaUFSSEQyQUFzYWw4ekVVeWdUTWRmbFdLWlBUX0RpUU9UUHp3ZU0?oc=5\" target=\"_blank\">A $12 billion electronics retailer says price increases are coming due to the memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "A major electronics retailer signals forthcoming price increases attributed to memory chip shortage, indicating pricing pressure in the market. This is forward-looking commentary on pricing trends rather than a confirmed price move or hard data on actual spot/contract prices."
+  },
+  "buffered_ts": 1783773080.6303735
+ }
+]
