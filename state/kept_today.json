@@ -310,5 +310,53 @@
    "summary": "Opinion piece on SanDisk (SNDK), a DRAM fund holding, discussing potential upside from buying the stock at current levels. Analyst commentary and investment thesis rather than a concrete event or new material development."
   },
   "buffered_ts": 1783800322.7445781
+ },
+ {
+  "id": "1bffecb56833aa940ecb51e3435b973888fa861f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix's US listing sparks rush of single-stock ETF filings - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2U4VWpsekdZRHRHY3FhLUFYOTd2THBRNFd5djB1aWhYb0xqZ3BMeldBb19yTFk1OUtPM3QtMm1vRTA4X3JQbzhVa2ZQaUwxTTJVSDhGakFSN0ozcjZDYjZYRlNHbnlYaFNEYUNmRDlIMVdwZHJXQ2FzbkJTNURGRXhZalV5NkxsR05FZUhCZ3BVR2tkSGVmTQ?oc=5",
+  "published_at": "Fri, 10 Jul 2026 08:52:31 GMT",
+  "published_ts": 1783673551,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2U4VWpsekdZRHRHY3FhLUFYOTd2THBRNFd5djB1aWhYb0xqZ3BMeldBb19yTFk1OUtPM3QtMm1vRTA4X3JQbzhVa2ZQaUwxTTJVSDhGakFSN0ozcjZDYjZYRlNHbnlYaFNEYUNmRDlIMVdwZHJXQ2FzbkJTNURGRXhZalV5NkxsR05FZUhCZ3BVR2tkSGVmTQ?oc=5\" target=\"_blank\">SK Hynix's US listing sparks rush of single-stock ETF filings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's US listing is generating interest in single-stock ETF filings. While this is a material development for the holding, the story is primarily about ETF product filings rather than a concrete business or market event affecting SK Hynix's operations, earnings, or the memory cycle itself. It is relevant to DRAM as a holding but represents structural market activity rather than a hard catalyst."
+  },
+  "buffered_ts": 1783804447.4695895
+ },
+ {
+  "id": "698a7d8555612df24d201853a1f0ac9ed1660daa",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Wells Fargo Upgrades Seagate Technology (STX) to Overweight, Rai - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjdQMWE4Tk4wdXNEOWluNlg4dGhJdG5qWE1pQV90QlVCbmFBWkN2ODYyalBNQjZsbFVfSlc0NjlXeEVuZ3NMUW1mNVJHV3pSS2xERE5PMmRReUo0dEZZN2tKdW0wVlB2d2E1eEtldVpGdWJ6bWZvZE41NEpjeWpJTGFuWEw0YVF5ODFVM1d2SktMUng0OUtpVzl1cVRVMzN4WkJGYl9BUEhOUi1sNFFPNXFUaVVXcU5ZQlJSY0Ywc0xkM0lNSGxJ?oc=5",
+  "published_at": "Fri, 10 Jul 2026 16:08:35 GMT",
+  "published_ts": 1783699715,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjdQMWE4Tk4wdXNEOWluNlg4dGhJdG5qWE1pQV90QlVCbmFBWkN2ODYyalBNQjZsbFVfSlc0NjlXeEVuZ3NMUW1mNVJHV3pSS2xERE5PMmRReUo0dEZZN2tKdW0wVlB2d2E1eEtldVpGdWJ6bWZvZE41NEpjeWpJTGFuWEw0YVF5ODFVM1d2SktMUng0OUtpVzl1cVRVMzN4WkJGYl9BUEhOUi1sNFFPNXFUaVVXcU5ZQlJSY0Ywc0xkM0lNSGxJ?oc=5\" target=\"_blank\">Wells Fargo Upgrades Seagate Technology (STX) to Overweight, Rai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wells Fargo upgraded Seagate Technology (STX), a DRAM ETF holding, to Overweight. This is an analyst action reflecting a positive view, but represents opinion and recommendation rather than a concrete market event or new fundamental information about the company or memory cycle."
+  },
+  "buffered_ts": 1783804447.4695895
  }
 ]
