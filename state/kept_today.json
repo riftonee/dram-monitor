@@ -505,5 +505,77 @@
    "summary": "Speculation piece on SanDisk stock price potential; lacks concrete catalyst or material news tied to DRAM/memory fundamentals."
   },
   "buffered_ts": 1783879275.2010422
+ },
+ {
+  "id": "94f00d044f75f22c4cafe17c8f337547dc739b31",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Completes $26.5 Billion Nasdaq Listing For U.S. Investors - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDFpamcydkw5cWNIOWx5SW12U0VJQkU3ZmZHM2MwUmE3RXpUSldLcm5sNTZnbFUybXdhWUNGUVV2ODFSdEZvN2E3S0pkREw1aWR0Wk5sbHdBVDRKVDhPakdVTkxkQmM1N05ENzVlZzY1WjJWT3FTTmMwX3dZLXVWTjVxb0pzblRGTkI5WEtWZDhHX0ttbzFBUTJqanY?oc=5",
+  "published_at": "Sun, 12 Jul 2026 18:09:17 GMT",
+  "published_ts": 1783879757,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDFpamcydkw5cWNIOWx5SW12U0VJQkU3ZmZHM2MwUmE3RXpUSldLcm5sNTZnbFUybXdhWUNGUVV2ODFSdEZvN2E3S0pkREw1aWR0Wk5sbHdBVDRKVDhPakdVTkxkQmM1N05ENzVlZzY1WjJWT3FTTmMwX3dZLXVWTjVxb0pzblRGTkI5WEtWZDhHX0ttbzFBUTJqanY?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Completes $26.5 Billion Nasdaq Listing For U.S. Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completes $26.5 billion Nasdaq listing, making its U.S.-listed shares directly accessible to American investors including DRAM ETF. This is a concrete corporate action that affects the holding's liquidity, index eligibility, and fund composition."
+  },
+  "buffered_ts": 1783885066.0275044
+ },
+ {
+  "id": "4459bb4b6827a0310478638a13b7b06775188261",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "The AI Memory Chip Market Could Reach $476 Billion by 2030. Here Are 2 Stocks Positioned to Win. - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS044NDFlWXVlazNSNVdIYTRudWlvTmpyaERBVEMwMC12c2tEN3ZXREV0TzFoMXI4QzFSNG10Z2w2RFZydmVxZVFpUHR6V3lKQlVGRUZNYURKTkx1aFROazllQXowZUtGR3dKMF9vbjg1dzNsQW5ZaUpfenZsR0h3MG1pTDVBNlgxRVBNaFRjelJWdlVFQWF2Y0dMYXNfRERLb0JoeURvTzVwNS05Z0NNZmVGMUNXSkoxUUt0TlpsQVFGVVZDQXFGODRsLVFyc0h3YnFOcmIxdHVNQ2RVeTdxcGtZS2Q2RmJ5RXA2MkdyTjIwV1BRa3BMZUhxU2NtdTAzbVE?oc=5",
+  "published_at": "Sun, 12 Jul 2026 18:24:30 GMT",
+  "published_ts": 1783880670,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQS044NDFlWXVlazNSNVdIYTRudWlvTmpyaERBVEMwMC12c2tEN3ZXREV0TzFoMXI4QzFSNG10Z2w2RFZydmVxZVFpUHR6V3lKQlVGRUZNYURKTkx1aFROazllQXowZUtGR3dKMF9vbjg1dzNsQW5ZaUpfenZsR0h3MG1pTDVBNlgxRVBNaFRjelJWdlVFQWF2Y0dMYXNfRERLb0JoeURvTzVwNS05Z0NNZmVGMUNXSkoxUUt0TlpsQVFGVVZDQXFGODRsLVFyc0h3YnFOcmIxdHVNQ2RVeTdxcGtZS2Q2RmJ5RXA2MkdyTjIwV1BRa3BMZUhxU2NtdTAzbVE?oc=5\" target=\"_blank\">The AI Memory Chip Market Could Reach $476 Billion by 2030. Here Are 2 Stocks Positioned to Win.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article forecasts AI memory chip market growth to $476 billion by 2030 and identifies two stocks positioned to benefit. This is market analysis and forward-looking commentary rather than a concrete event or confirmed development, making it opinion-based rather than news of a settled market-moving event."
+  },
+  "buffered_ts": 1783885066.0275044
+ },
+ {
+  "id": "450b7956a05d40b6d07a2498e12afcb5bc5ed6ef",
+  "source": "TechRadar",
+  "topic": "holding",
+  "title": "Enterprise SSD prices could explode past $300,000 - TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMXhOV2J1R1lMWGZLdDJlbkpSMHZiQ1dTREFJemhYUkdrbW0wTXFabGFub1pMX0NYQXVhLV9Ra3lBQXpwTHhDNUp5Z0VITm5SRWZ2ZmhETTN5N1V0cEZWbzlZX3BNR1VQVXZ4cjRhRWdacUpObTlkX08yenR5ZGNydW9rckRueWpjY0J6VmF4dmxkei04OHd5VDFLcnpoVGVmeUR1d01velF0bWoxYm5BMF9TaWo3bTFFUW1jWkNjcnZYWFVrOXgtMU5qOGk5YVU3YWF3dzl2ZG1qZ3d2dDBNNkN5Z1NGSGoxYzdqbW1xZXlrd2c?oc=5",
+  "published_at": "Sun, 12 Jul 2026 18:05:00 GMT",
+  "published_ts": 1783879500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMXhOV2J1R1lMWGZLdDJlbkpSMHZiQ1dTREFJemhYUkdrbW0wTXFabGFub1pMX0NYQXVhLV9Ra3lBQXpwTHhDNUp5Z0VITm5SRWZ2ZmhETTN5N1V0cEZWbzlZX3BNR1VQVXZ4cjRhRWdacUpObTlkX08yenR5ZGNydW9rckRueWpjY0J6VmF4dmxkei04OHd5VDFLcnpoVGVmeUR1d01velF0bWoxYm5BMF9TaWo3bTFFUW1jWkNjcnZYWFVrOXgtMU5qOGk5YVU3YWF3dzl2ZG1qZ3d2dDBNNkN5Z1NGSGoxYzdqbW1xZXlrd2c?oc=5\" target=\"_blank\">Enterprise SSD prices could explode past $300,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechRadar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TechRadar reports enterprise SSD prices could surge past $300,000. SSD pricing is a leading indicator for memory-semiconductor demand and margins, relevant to NAND-exposed holdings like Western Digital and Seagate, but the headline uses speculative language ('could') rather than reporting a confirmed price move or supply shock."
+  },
+  "buffered_ts": 1783885066.0275044
  }
 ]
