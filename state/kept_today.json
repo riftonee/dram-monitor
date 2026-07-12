@@ -912,5 +912,101 @@
    "summary": "Opinion piece asking whether Micron Technology stock represents a good investment entry point. This is analyst commentary and valuation discussion rather than new material information about the company or its products; it contains no concrete event or hard numbers tied to a market catalyst."
   },
   "buffered_ts": 1783848432.1121967
+ },
+ {
+  "id": "077dcdc8f9943b531dbc4f63a6b3dcb2bb2445a8",
+  "source": "eciks.org",
+  "topic": "holding",
+  "title": "South Korean chip maker SK Hynix jumps 13% on Nasdaq in record $26.5 billion U.S. listing - eciks.org",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUk5RcmVhbjdpc0I2Mm8tMUttMGRjSGlrSVM1RzRiME05NUFLalFhcWI1b2lEU0JJWFBtNzBtbVZQNmxyT0w1Vm52b1p4WTFQRm9wSFZIREFvdGdrU1FlS3dzOTBIS3RHZzhCcDd2RQ?oc=5",
+  "published_at": "Sun, 12 Jul 2026 08:41:05 GMT",
+  "published_ts": 1783845665,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUk5RcmVhbjdpc0I2Mm8tMUttMGRjSGlrSVM1RzRiME05NUFLalFhcWI1b2lEU0JJWFBtNzBtbVZQNmxyT0w1Vm52b1p4WTFQRm9wSFZIREFvdGdrU1FlS3dzOTBIS3RHZzhCcDd2RQ?oc=5\" target=\"_blank\">South Korean chip maker SK Hynix jumps 13% on Nasdaq in record $26.5 billion U.S. listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "eciks.org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed a record $26.5 billion U.S. listing on Nasdaq with the stock jumping 13% on debut. This is a concrete, material corporate event for a major DRAM ETF holding that increases its accessibility to U.S. investors and signals confidence in the company's market position."
+  },
+  "buffered_ts": 1783853620.7642217
+ },
+ {
+  "id": "ca85f86833097a89b3caad3cd39a421a9dac9186",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "SK Hynix CEO Warns 2027 Will Be Memory’s “Worst Year” Ever, With Shortages Set To Outlast The Decade - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdE9VZjRGc3RBN0R6eHB6TnU1dW1Nc1FDdHJNNDFEMkxhbVQtVmstZXRTYloxdTZPWDJLaGtaT0FnZzNxNGVPRWJuN3NPNXg2ZC1aSzQyZElWOGJESmxiOWZ0MlVfeUVkNHA0cWthcEZMM3FodmJpZGpCeWtqVlhIUEtPMThFaE8zYnFJUFFkeXZaSDVrTkdaa292QjFvbC11S2VHRHhJTdIBrAFBVV95cUxQd1AtdmhmcHkyRUcxOUtnTkIxOUxCak9RcndSbmI5VThMMWxSOXU0eDFrRE9pdTVtSlZyb2FpWWd1NlZqOWtQM2dDRG5QdmsxbFNhNWJIM2JrTm1ScnRGQ2lqby1oc01JV1ktM0FMdDZDckNHb29yenYzTk9XLTRKSVpKWjdVdFJicjNtTDVCQmo5MWpyd0IyS01BY2ZiTWxPSU5Fb1RvM21Zc0RF?oc=5",
+  "published_at": "Sun, 12 Jul 2026 10:45:21 GMT",
+  "published_ts": 1783853121,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdE9VZjRGc3RBN0R6eHB6TnU1dW1Nc1FDdHJNNDFEMkxhbVQtVmstZXRTYloxdTZPWDJLaGtaT0FnZzNxNGVPRWJuN3NPNXg2ZC1aSzQyZElWOGJESmxiOWZ0MlVfeUVkNHA0cWthcEZMM3FodmJpZGpCeWtqVlhIUEtPMThFaE8zYnFJUFFkeXZaSDVrTkdaa292QjFvbC11S2VHRHhJTdIBrAFBVV95cUxQd1AtdmhmcHkyRUcxOUtnTkIxOUxCak9RcndSbmI5VThMMWxSOXU0eDFrRE9pdTVtSlZyb2FpWWd1NlZqOWtQM2dDRG5QdmsxbFNhNWJIM2JrTm1ScnRGQ2lqby1oc01JV1ktM0FMdDZDckNHb29yenYzTk9XLTRKSVpKWjdVdFJicjNtTDVCQmo5MWpyd0IyS01BY2ZiTWxPSU5Fb1RvM21Zc0RF?oc=5\" target=\"_blank\">SK Hynix CEO Warns 2027 Will Be Memory’s “Worst Year” Ever, With Shortages Set To Outlast The Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns that 2027 will be memory's 'worst year' with shortages persisting into the next decade. This is executive commentary and forecast about future market conditions rather than a confirmed event or concrete development with immediate market impact."
+  },
+  "buffered_ts": 1783853620.7642217
+ },
+ {
+  "id": "4e5212c4bd2f8829f6757ebc857a35e92f73ab64",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: Strong Numbers Today, Uncertain 2027 HBM Strategy (NASDAQ:SKHYV) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHdUWU5DWGlHY3R4UFo3MzVsS1VUTHl3OXczZzJ2Y0NSMFBCOVo1RnhZNklTRS15blY1RE42T2RQNlFFQTVVcTdHMEN5bE9mVnVqZXY3UzlGYUhsRHhaQ2x0X2pHT0tWamF6Q3pZT01idVh3QXZ5dmE0b1ptODZmQVlFa2lYN1phS3p4YW5JSkl1THR3NkwyRkpLUDFKaGs?oc=5",
+  "published_at": "Sun, 12 Jul 2026 09:46:07 GMT",
+  "published_ts": 1783849567,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObHdUWU5DWGlHY3R4UFo3MzVsS1VUTHl3OXczZzJ2Y0NSMFBCOVo1RnhZNklTRS15blY1RE42T2RQNlFFQTVVcTdHMEN5bE9mVnVqZXY3UzlGYUhsRHhaQ2x0X2pHT0tWamF6Q3pZT01idVh3QXZ5dmE0b1ptODZmQVlFa2lYN1phS3p4YW5JSkl1THR3NkwyRkpLUDFKaGs?oc=5\" target=\"_blank\">SK Hynix: Strong Numbers Today, Uncertain 2027 HBM Strategy (NASDAQ:SKHYV)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix analyst commentary on recent earnings results (strong current numbers) with uncertainty expressed about HBM strategy into 2027. Mix of concrete results and speculative forward outlook; qualifies as relevant holding news but without new concrete developments, making it analysis/opinion rather than a market-moving event."
+  },
+  "buffered_ts": 1783853620.7642217
+ },
+ {
+  "id": "3093f42864cafc271fc1a0bfa055539013958dfe",
+  "source": "dev.ua",
+  "topic": "industry",
+  "title": "SK Hynix CEO predicts global memory chip shortage until at least 2030 - dev.ua",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwQTBVdUotb3NSWE9ZNG1YTE1IZVpSWUhPeEZOOGRRaGptOWlPeTk0QTZIeV80RHgwT2VkdjRyNUpVeHE4Y0RJR3NuRDNsYzh3NzM0NG05bmdTVUF3c1ZuV3k2NXdmbzRGWnotaUhvbw?oc=5",
+  "published_at": "Sun, 12 Jul 2026 09:14:00 GMT",
+  "published_ts": 1783847640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAwQTBVdUotb3NSWE9ZNG1YTE1IZVpSWUhPeEZOOGRRaGptOWlPeTk0QTZIeV80RHgwT2VkdjRyNUpVeHE4Y0RJR3NuRDNsYzh3NzM0NG05bmdTVUF3c1ZuV3k2NXdmbzRGWnotaUhvbw?oc=5\" target=\"_blank\">SK Hynix CEO predicts global memory chip shortage until at least 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dev.ua</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "dev.ua"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO predicts a global memory chip shortage will persist through at least 2030. This is forward-looking commentary on supply/demand dynamics affecting the memory industry and a key holding (SK hynix), but it represents executive opinion/forecast rather than a confirmed event or hard capacity/production announcement. Stock market reaction and analyst digestion would follow separately."
+  },
+  "buffered_ts": 1783853620.7642217
  }
 ]
