@@ -577,5 +577,77 @@
    "summary": "TechRadar reports enterprise SSD prices could surge past $300,000. SSD pricing is a leading indicator for memory-semiconductor demand and margins, relevant to NAND-exposed holdings like Western Digital and Seagate, but the headline uses speculative language ('could') rather than reporting a confirmed price move or supply shock."
   },
   "buffered_ts": 1783885066.0275044
+ },
+ {
+  "id": "f1c33988b1aae199dd389e45faf07eded253d6eb",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlJfUV84WmJiUGZScVdFRUZsLUhCT3BLTnZ6bTRiN0lnN205XzlMeXRYcDF6THQxV0ZodUpGNnhoN19icFhHMmVvcVNNbTJaLUFIN0x2Qzh3ZExjVklvNlZ0YlBTODVteDRMQXpaU2pRclZfdDBudkVZbkZBNE5Rb0Nyd0tmeXVxaXFNekJnWjJ6RHJT?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:45:38 GMT",
+  "published_ts": 1783871138,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlJfUV84WmJiUGZScVdFRUZsLUhCT3BLTnZ6bTRiN0lnN205XzlMeXRYcDF6THQxV0ZodUpGNnhoN19icFhHMmVvcVNNbTJaLUFIN0x2Qzh3ZExjVklvNlZ0YlBTODVteDRMQXpaU2pRclZfdDBudkVZbkZBNE5Rb0Nyd0tmeXVxaXFNekJnWjJ6RHJT?oc=5\" target=\"_blank\">A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $26.5 billion U.S. investment milestone, marking a concrete capital commitment to expand memory production capacity in the United States. This is a material development for a core DRAM ETF holding, signaling increased HBM and DRAM supply capability to serve AI infrastructure demand."
+  },
+  "buffered_ts": 1783892682.6742759
+ },
+ {
+  "id": "cdafd37c028835c62b9f71c88554f8c71f53f000",
+  "source": "Wccftech",
+  "topic": "industry",
+  "title": "Huawei Aims To Reduce The DRAM Supply Shortage With An Approach Only The Brave And The Bold Can Execute; Building Its Own Fabrication Plant - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3VjNVNBazVXUEhMLWZFbUtxYU5fLUxROVJ2ZHZEdkNKSS1rajR6eXdLcDJVNE1Ea3lKdHVvWHJwRXMwX2o0cnRLWGRhU0dZN1dCSTViSTZ0bFdHYkNQLWFQM2FMQ2tpRlFxV016YkFxMUstdWQ1T0YtQ2phSk1kWVBOS3lxZllJZzNnSmF1WdIBlAFBVV95cUxQVzlKOTlEQjFVRWphUURSRUFYczZWTWczSmRaZ0VJc0J5WDU3TWkyeC13bE1LX1REbXlwRjBwMngtelpHdWRwT3VKMEdQdGJvcGpCeTd3Q3JvRW1jLUFmZjJHYmVqZ2hmX1RHN1hZbG8yM3RnbXpEeXJVUFFyTHlEa0swT0VfNUNmczZyOEYtaFc5M3ZV?oc=5",
+  "published_at": "Sat, 11 Jul 2026 21:21:29 GMT",
+  "published_ts": 1783804889,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3VjNVNBazVXUEhMLWZFbUtxYU5fLUxROVJ2ZHZEdkNKSS1rajR6eXdLcDJVNE1Ea3lKdHVvWHJwRXMwX2o0cnRLWGRhU0dZN1dCSTViSTZ0bFdHYkNQLWFQM2FMQ2tpRlFxV016YkFxMUstdWQ1T0YtQ2phSk1kWVBOS3lxZllJZzNnSmF1WdIBlAFBVV95cUxQVzlKOTlEQjFVRWphUURSRUFYczZWTWczSmRaZ0VJc0J5WDU3TWkyeC13bE1LX1REbXlwRjBwMngtelpHdWRwT3VKMEdQdGJvcGpCeTd3Q3JvRW1jLUFmZjJHYmVqZ2hmX1RHN1hZbG8yM3RnbXpEeXJVUFFyTHlEa0swT0VfNUNmczZyOEYtaFc5M3ZV?oc=5\" target=\"_blank\">Huawei Aims To Reduce The DRAM Supply Shortage With An Approach Only The Brave And The Bold Can Execute; Building Its Own Fabrication Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Huawei is reportedly planning to build its own DRAM fabrication plant to address supply shortages. This is speculative reporting on a strategic initiative rather than a confirmed, executed development. While DRAM fab capacity is relevant to the memory cycle, the story lacks concrete detail on timing, investment, or official confirmation—it reads as aspirational planning or rumor rather than a settled event that has altered supply dynamics."
+  },
+  "buffered_ts": 1783892682.6742759
+ },
+ {
+  "id": "4a07e617b5907464639835c58373399cf29f39b1",
+  "source": "PCMag",
+  "topic": "holding",
+  "title": "2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO - PCMag",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUV8zaHo4N1VOZmV0MHdvcnJuR2thMmwtbERIQ0tNaWowS3NnX3hfWVh3RkhNVWU2dWVDQURZaG9UUDc5QXZheHJhNkNkdEkwOU42c1hnY05VZjd3cnZ1Zk9qOHRaUEFZV3FLUmVEX2FQUjlPZEdiV19OZ0NaaHpBTkpaWkJCcXVyMkhkVXdJOVpRdExfVmJzd1owRGRIUQ?oc=5",
+  "published_at": "Sun, 12 Jul 2026 10:53:02 GMT",
+  "published_ts": 1783853582,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUV8zaHo4N1VOZmV0MHdvcnJuR2thMmwtbERIQ0tNaWowS3NnX3hfWVh3RkhNVWU2dWVDQURZaG9UUDc5QXZheHJhNkNkdEkwOU42c1hnY05VZjd3cnZ1Zk9qOHRaUEFZV3FLUmVEX2FQUjlPZEdiV19OZ0NaaHpBTkpaWkJCcXVyMkhkVXdJOVpRdExfVmJzd1owRGRIUQ?oc=5\" target=\"_blank\">2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PCMag"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix CEO forecasts 2027 as the 'worst year in history' for memory supply, signaling an anticipated supply shortage. This is executive commentary on future industry conditions rather than a confirmed current event or hard capacity number, making it opinion/forecast rather than concrete news."
+  },
+  "buffered_ts": 1783892682.6742759
  }
 ]
