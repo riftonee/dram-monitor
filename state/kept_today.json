@@ -792,5 +792,125 @@
    "summary": "Xiaomi smartphone production is impacted by memory chip shortage, indicating demand pressure on DRAM/NAND supply. However, this is a passing mention of a production constraint without specific pricing, capacity, or holding-level details, and the headline focuses primarily on Xiaomi's vehicle announcement."
   },
   "buffered_ts": 1783841239.137057
+ },
+ {
+  "id": "ade33c4f970f0d68ed68cad50e9a697a33118880",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: South Korea’s SK Hynix warns the AI chip boom will create the memory chip industry’s worst supply shortage ever in 2027. The shortage is expected to persist beyond 2030, with customer demand continuing to exceed production capacity. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmRBOG5KUDlZQTIybHZrSHo4d0lmWU1qRjFLSXRJRFVZSDJCcS00SmdEX1VMdFVuT3I0Zmg3RlloMkJ4Vm5mNTFYLU52MUJTQmt5SkZDbzg4cUhMRHJvSXBjZ1FnZmlGMmxURTM4aDdDYjRZQ2ExNVFuTThRd0FXSG9oeUYwSlpYRm5Bem5EdVg0NXVNYzBHZUx1YVJEMzc5?oc=5",
+  "published_at": "Sun, 12 Jul 2026 08:02:26 GMT",
+  "published_ts": 1783843346,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmRBOG5KUDlZQTIybHZrSHo4d0lmWU1qRjFLSXRJRFVZSDJCcS00SmdEX1VMdFVuT3I0Zmg3RlloMkJ4Vm5mNTFYLU52MUJTQmt5SkZDbzg4cUhMRHJvSXBjZ1FnZmlGMmxURTM4aDdDYjRZQ2ExNVFuTThRd0FXSG9oeUYwSlpYRm5Bem5EdVg0NXVNYzBHZUx1YVJEMzc5?oc=5\" target=\"_blank\">🚨𝗝𝗨𝗦𝗧 𝗜𝗡: South Korea’s SK Hynix warns the AI chip boom will create the memory chip industry’s worst supply shortage ever in 2027. The shortage is expected to persist beyond 2030, with customer demand continuing to exceed production capacity.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix (holding) warns of unprecedented memory chip supply shortage in 2027 driven by AI demand, persisting beyond 2030. This is a forward-looking statement from an executive/company guidance rather than a confirmed event or hard data, making it opinion-based despite its specificity. It is materially relevant to the fund's holdings and the memory cycle but lacks the concrete confirmation of a 4 or 5."
+  },
+  "buffered_ts": 1783848432.1121967
+ },
+ {
+  "id": "bc88d545cc11490592c0a05ea9d2b8b2ecffefaf",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGFfYW1SWHRHVzMxQlNvVXlmRVhRdTdZTFY4aWIwXzBsaTM0aWRHOTFBMlRGX200dTZwZ2pBb3h4UVVWV0RKdkt5ZVBuamRiR1hOV1JtTFAtX0IwbVg1ZjhURlZBSWFjdFhqUnpuS0tsSzdISmctVXdBay16cU9ONHhwSnEtQXAxZWxKZUQtREJaXzFEOGhEZw?oc=5",
+  "published_at": "Sun, 12 Jul 2026 09:14:25 GMT",
+  "published_ts": 1783847665,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGFfYW1SWHRHVzMxQlNvVXlmRVhRdTdZTFY4aWIwXzBsaTM0aWRHOTFBMlRGX200dTZwZ2pBb3h4UVVWV0RKdkt5ZVBuamRiR1hOV1JtTFAtX0IwbVg1ZjhURlZBSWFjdFhqUnpuS0tsSzdISmctVXdBay16cU9ONHhwSnEtQXAxZWxKZUQtREJaXzFEOGhEZw?oc=5\" target=\"_blank\">Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analyst piece discussing SK Hynix's Nasdaq listing, growth trajectory as Nvidia AI partner, and investment merit. While SK Hynix is a core DRAM ETF holding and the Nasdaq launch is a concrete event, the article is primarily opinion/analysis on whether to buy the stock rather than reporting new material developments about the company's operations, guidance, or memory market conditions."
+  },
+  "buffered_ts": 1783848432.1121967
+ },
+ {
+  "id": "871f0c28904f9c033f6ba6c78f453baae100e24b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut — META, SKHVY, CRCL, BA, DAL In Focus - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTndPMU81ZldqaUZ0NjZIM096V1dhMm1fQ3dWRFk0eExiMFFkT2JwVl9pVW9kbnJHVGZjbmgzbWhoN0E1VE51R2doR1hiWV9jZTFsWGJNSWhLRU5fRXBlR3VpbmthdmFaTDN4LXB6ZUhVXzRPSUFGQnNGc0wtUTY4R1FxZklaUkpJOXZHR3Bydw?oc=5",
+  "published_at": "Fri, 10 Jul 2026 21:31:32 GMT",
+  "published_ts": 1783719092,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTndPMU81ZldqaUZ0NjZIM096V1dhMm1fQ3dWRFk0eExiMFFkT2JwVl9pVW9kbnJHVGZjbmgzbWhoN0E1VE51R2doR1hiWV9jZTFsWGJNSWhLRU5fRXBlR3VpbmthdmFaTDN4LXB6ZUhVXzRPSUFGQnNGc0wtUTY4R1FxZklaUkpJOXZHR3Bydw?oc=5\" target=\"_blank\">S&amp;P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut — META, SKHVY, CRCL, BA, DAL In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix (SKHVY) had a strong market debut, contributing to broader S&P 500 and Nasdaq gains. While SK hynix is a key DRAM ETF holding and the headline flags its performance, the story appears to be a market roundup noting the stock move rather than reporting a concrete corporate event or earnings catalyst specific to SK hynix's memory business."
+  },
+  "buffered_ts": 1783848432.1121967
+ },
+ {
+  "id": "3c99fab48e3345ed4b312dc481bde1dc36214903",
+  "source": "ad-hoc-news.de",
+  "topic": "pricing",
+  "title": "Micron's Record Quarter Meets a DDR4 Revival: The Two-Front Memory War Heats Up - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXlsM3N4N3lpVENSXzJMTUNGdEUtUzNfLUtFTEZxazVFNjZOVTRheG1NRVVMUW91NllhMHlmLUllU201N2xLYkl2OUxpblBiVmtIWUhCeGFXZDZSRDBLS1hlLWFOUlRnektLQXYzZ28wMnRZVS1SSk81djVQM1Q3SEJOZlpnbDlvbG1GN2ZpNnRtcmVtWmdETE56TXBlR3dDbzVTUFZrUjlSTFFQRGhfVk1zNkV0RXh5UXhqSTFkRDB5Z29yajFV?oc=5",
+  "published_at": "Sun, 12 Jul 2026 09:11:33 GMT",
+  "published_ts": 1783847493,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXlsM3N4N3lpVENSXzJMTUNGdEUtUzNfLUtFTEZxazVFNjZOVTRheG1NRVVMUW91NllhMHlmLUllU201N2xLYkl2OUxpblBiVmtIWUhCeGFXZDZSRDBLS1hlLWFOUlRnektLQXYzZ28wMnRZVS1SSk81djVQM1Q3SEJOZlpnbDlvbG1GN2ZpNnRtcmVtWmdETE56TXBlR3dDbzVTUFZrUjlSTFFQRGhfVk1zNkV0RXh5UXhqSTFkRDB5Z29yajFV?oc=5\" target=\"_blank\">Micron's Record Quarter Meets a DDR4 Revival: The Two-Front Memory War Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's record quarterly results and DDR4 pricing dynamics. While Micron is a key holding and DDR4 pricing is relevant to the memory cycle, this appears to be commentary on already-reported earnings rather than a new concrete event or pricing data point that hasn't been disclosed."
+  },
+  "buffered_ts": 1783848432.1121967
+ },
+ {
+  "id": "4c00a9a2c01cc5cf9774832f4d21b24f5faf7be5",
+  "source": "The Globe and Mail",
+  "topic": "industry",
+  "title": "Is Now the Ultimate Entry Point for Micron Technology Stock? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2pBSzFGUll6U0p1OVliOGlEdHdSNWcyTWFPVnVueWM5Y3BOVjJDbG5VaTVQLWJ3ZGdNZmdiTF9oTHg2cEdFX1NON2JxWkpRZ0dxaDVDNHRxTlRMNTBQUGNXOUtyMDY1N3lPSlhaWlV6S1BOdHFWYWE1R0xLSTBfVTNQYm5jdmNfM3o4bWpoZU1wMnVDZWtWcGZvdldHLVhzckVUWUtfd2ZtcVVZMHpGb1F3bnNhNEIyaElCbjdMRC1DQU1NSWNpVnR0YjlLckhXd2N5S2EwMkJUUQ?oc=5",
+  "published_at": "Sun, 12 Jul 2026 08:19:35 GMT",
+  "published_ts": 1783844375,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2pBSzFGUll6U0p1OVliOGlEdHdSNWcyTWFPVnVueWM5Y3BOVjJDbG5VaTVQLWJ3ZGdNZmdiTF9oTHg2cEdFX1NON2JxWkpRZ0dxaDVDNHRxTlRMNTBQUGNXOUtyMDY1N3lPSlhaWlV6S1BOdHFWYWE1R0xLSTBfVTNQYm5jdmNfM3o4bWpoZU1wMnVDZWtWcGZvdldHLVhzckVUWUtfd2ZtcVVZMHpGb1F3bnNhNEIyaElCbjdMRC1DQU1NSWNpVnR0YjlLckhXd2N5S2EwMkJUUQ?oc=5\" target=\"_blank\">Is Now the Ultimate Entry Point for Micron Technology Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece asking whether Micron Technology stock represents a good investment entry point. This is analyst commentary and valuation discussion rather than new material information about the company or its products; it contains no concrete event or hard numbers tied to a market catalyst."
+  },
+  "buffered_ts": 1783848432.1121967
  }
 ]
