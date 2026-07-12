@@ -1008,5 +1008,53 @@
    "summary": "SK Hynix CEO predicts a global memory chip shortage will persist through at least 2030. This is forward-looking commentary on supply/demand dynamics affecting the memory industry and a key holding (SK hynix), but it represents executive opinion/forecast rather than a confirmed event or hard capacity/production announcement. Stock market reaction and analyst digestion would follow separately."
   },
   "buffered_ts": 1783853620.7642217
+ },
+ {
+  "id": "636b35bd88028e4eec6a1150380a24b55f9e771d",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung Fast-Tracks Yongin Fab to 2029 as Global Memory Expansion Race Heats Up - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92cXNubFVtZUktUEQtMmxZX3YwV01QRGREUXRtcEYwV3N5MTY3UUxMSTdieF9EdV9DS04waE9PVjhEbHpfYkExQUVUOC1QWXotZnJhazhadTFXbFpGU1lLWm9EUTlHd3gtd3hDNEFaWmdiTkU3Q0E?oc=5",
+  "published_at": "Sun, 12 Jul 2026 04:55:00 GMT",
+  "published_ts": 1783832100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE92cXNubFVtZUktUEQtMmxZX3YwV01QRGREUXRtcEYwV3N5MTY3UUxMSTdieF9EdV9DS04waE9PVjhEbHpfYkExQUVUOC1QWXotZnJhazhadTFXbFpGU1lLWm9EUTlHd3gtd3hDNEFaWmdiTkU3Q0E?oc=5\" target=\"_blank\">Samsung Fast-Tracks Yongin Fab to 2029 as Global Memory Expansion Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung has announced it is fast-tracking its Yongin fab to come online by 2029 as part of a global memory-expansion race. This is a concrete, officially announced capacity/investment decision by a major DRAM fund holding that signals material supply-side developments in the memory cycle."
+  },
+  "buffered_ts": 1783857397.3687153
+ },
+ {
+  "id": "2f2e4bebba951888690e6b5848aee3250024f8bf",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Apple cuts iPhone 17 production amid DRAM shortage - MSN",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczVZb21uNXhzR1JLVFFwVUVscUY3eG5RRDduYk8zQXRaVUtNNUlhanhHb3lHQm4yandjd3RycWRvYmM4M0JwbDJTZEVCQ2k2NWVhQkhWa2FlbXU2c2huQjR6MDR5ajVmS1ZPeDBIV3d0SzRpamVsa2JBOW82T29aeXNXYzI3VG5Mc3pYV1paNmpPVW04b0ZUTGZQTFdXeHJSek5meEU0QQ?oc=5",
+  "published_at": "Sat, 11 Jul 2026 09:32:14 GMT",
+  "published_ts": 1783762334,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOczVZb21uNXhzR1JLVFFwVUVscUY3eG5RRDduYk8zQXRaVUtNNUlhanhHb3lHQm4yandjd3RycWRvYmM4M0JwbDJTZEVCQ2k2NWVhQkhWa2FlbXU2c2huQjR6MDR5ajVmS1ZPeDBIV3d0SzRpamVsa2JBOW82T29aeXNXYzI3VG5Mc3pYV1paNmpPVW04b0ZUTGZQTFdXeHJSek5meEU0QQ?oc=5\" target=\"_blank\">Apple cuts iPhone 17 production amid DRAM shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Apple has announced production cuts for iPhone 17 due to a DRAM shortage, indicating a concrete demand shock and supply constraint that directly affects memory-semiconductor companies and their production capacity planning."
+  },
+  "buffered_ts": 1783857397.3687153
  }
 ]
