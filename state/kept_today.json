@@ -385,5 +385,53 @@
    "summary": "SK hynix's Nasdaq listing or capital-raising activity provides financial flexibility for the company. While operationally relevant to a major DRAM/memory holding, this is a corporate finance/market event rather than a concrete development affecting memory supply, demand, pricing, or production capacity. Score reflects soft news about capital structure rather than a settlement event like a confirmed deal or official capacity announcement."
   },
   "buffered_ts": 1783871799.563406
+ },
+ {
+  "id": "70a2e371eea8c18e6568a4f550db5d91f2990c94",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "DRAM ETF Inflows Gains Momentum Despite Memory Chip Risks - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGNTTzdiQ1ZsUUxFR0VDUzBGdnBBWXAzSnNPSm9VLXppVmR1eElxNFVNeWhxaURQbFNKbXBSOXpmMmN6ZWJCd3V0WGJVU0xnQWVqMDNDNklhMUdxTnZJMWp1RGFsUzgwU2MtMTREajhUTmdfNXh4a0JXQk9waTBocVpuZDQ5aTlZM3d6QjY1T0llTWQwcFlDeVBHSnMwZnVpbUQwaEh5allBQ0w1NUtySVBMbFg?oc=5",
+  "published_at": "Sun, 12 Jul 2026 16:41:05 GMT",
+  "published_ts": 1783874465,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGNTTzdiQ1ZsUUxFR0VDUzBGdnBBWXAzSnNPSm9VLXppVmR1eElxNFVNeWhxaURQbFNKbXBSOXpmMmN6ZWJCd3V0WGJVU0xnQWVqMDNDNklhMUdxTnZJMWp1RGFsUzgwU2MtMTREajhUTmdfNXh4a0JXQk9waTBocVpuZDQ5aTlZM3d6QjY1T0llTWQwcFlDeVBHSnMwZnVpbUQwaEh5allBQ0w1NUtySVBMbFg?oc=5\" target=\"_blank\">DRAM ETF Inflows Gains Momentum Despite Memory Chip Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article reports on inflows into the DRAM ETF despite industry headwinds. Fund flows are relevant to the fund itself, but inflows driven by general sentiment or risk narrative constitute soft news rather than a concrete event like a specific flow number, rebalance, or NAV change."
+  },
+  "buffered_ts": 1783875486.8990283
+ },
+ {
+  "id": "65b4576ad239d4d4fd2a5adccd52e94898598c63",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADR Surge Fuels AI Chip Boom Hopes - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFZDUExHVEg0MWo0TS1kb0o1NF9XUjlMYVA2QVVjS3BnWG41dF9pVWRNNW1KSVhVUE14X2tDdTIzVWtGVzJrcVoyVjFkZmhLM25QQlNzY2l1UjhQY2pxbEc5azc5R1pMbzUyNlpmcFIwR2RtMVRkdERvTnhwcFI5VXVqbnRfWTVt?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:32:34 GMT",
+  "published_ts": 1783870354,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFZDUExHVEg0MWo0TS1kb0o1NF9XUjlMYVA2QVVjS3BnWG41dF9pVWRNNW1KSVhVUE14X2tDdTIzVWtGVzJrcVoyVjFkZmhLM25QQlNzY2l1UjhQY2pxbEc5azc5R1pMbzUyNlpmcFIwR2RtMVRkdERvTnhwcFI5VXVqbnRfWTVt?oc=5\" target=\"_blank\">SK Hynix ADR Surge Fuels AI Chip Boom Hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR gained on optimism around AI chip demand and memory semiconductor tailwinds. Stock price movement driven by market sentiment on AI boom rather than a concrete new event or earnings catalyst."
+  },
+  "buffered_ts": 1783875486.8990283
  }
 ]
