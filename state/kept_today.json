@@ -430,5 +430,247 @@
    "summary": "Analysis piece on Seagate's (STX) AI storage growth outlook driven by cloud demand and higher-capacity HDDs. This is opinion/analysis rather than a confirmed event or hard number, making it soft relevant but not an immediate catalyst."
   },
   "buffered_ts": 1783818174.8669906
+ },
+ {
+  "id": "a76d87b0561ef519beca76956ca0a3110d65a67b",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "SK Group's Chey Tae-won: Semiconductors Have Broken Free from Past Cycles, All-Out Push to Expand Supply for AI Demand - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUJocUhuWkJKYWpqREs5V2tIVFVxRzJ4TWhqTEpSMFFGOVNMaUZJMjdOMUYydVJISlhSMXdIZ3ZyQUlpVWNhV1lGYU1kdmZJOExHS3ZheV84Y0hCMjQ5VU1sdWJmMnpXLWZXVU41WWczR2FFTVE?oc=5",
+  "published_at": "Sat, 11 Jul 2026 20:05:00 GMT",
+  "published_ts": 1783800300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yLUJocUhuWkJKYWpqREs5V2tIVFVxRzJ4TWhqTEpSMFFGOVNMaUZJMjdOMUYydVJISlhSMXdIZ3ZyQUlpVWNhV1lGYU1kdmZJOExHS3ZheV84Y0hCMjQ5VU1sdWJmMnpXLWZXVU41WWczR2FFTVE?oc=5\" target=\"_blank\">SK Group's Chey Tae-won: Semiconductors Have Broken Free from Past Cycles, All-Out Push to Expand Supply for AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group chairman Chey Tae-won states semiconductors have broken free from past cycles and announces an all-out push to expand supply for AI demand. This reflects strategy and intent from a major memory supplier (SK hynix) but is executive commentary and forward-looking statement rather than a concrete capacity commitment or production decision."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "f2afbf58b60ce0ab7c4ef6455219b5ab5267e92d",
+  "source": "NDTV Profit",
+  "topic": "holding",
+  "title": "Memory Over Big Tech? Here's Why Jefferies Prefers Micron, Samsung To Meta, Alphabet Amid 'AI Fatigue' - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjh6V2lXTHN5Y0tFb2xVT1NhUkEzVW10MVU4eHJ1dzRFOXFtY3JKMkNzTDFpTER1VUpuRVllbGxvOFJhOTcxM292MlJZZ2FwVXljUU43ZDdud2FKcWdYX3NEeWt5N2RYLTdVM3AxV2NQS2lyeWdXNG81VVZfU1Z3OFhTc212a0IxQUQ4VHNsVGtBRFVDalJiYWFRQ2NBa01FUFdHS1FDSzlQUjZ2WkwwOWdEQ3lKOFZlRGxJak9Qb2pOSDNNWUU5ZXoycVhsR1dkOE1KTDgyakpsZVlmWk1vNNIB6AFBVV95cUxNejRIanZPQ195bHdLRHo0b1BZM0c1dWNhZkJJUlIwR2VBNTBoNXhTQ1J3dC1TTkhrX1pOdEktTkt0X3dUUl9iODJXTVlPektBaGxpbVI1N045UEtaOUNZNDV1RVdCUUNVQTZHamVfTVJhYjBxbklCQjBRbVh5TGpvNVV5cExQNVZrSEc3YWl6VW40cUlscHhKdDNOVzJhdFBZSFJEclJfZ0hyYVZQbjktT0hRQkJvU3dEUFpEbk5ka0NnTXIxdkw2aGtuVG9idDBxOXJOVWxGUFZtUGhKdEpxZXdHdjdiSVVa?oc=5",
+  "published_at": "Sun, 12 Jul 2026 01:30:01 GMT",
+  "published_ts": 1783819801,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjh6V2lXTHN5Y0tFb2xVT1NhUkEzVW10MVU4eHJ1dzRFOXFtY3JKMkNzTDFpTER1VUpuRVllbGxvOFJhOTcxM292MlJZZ2FwVXljUU43ZDdud2FKcWdYX3NEeWt5N2RYLTdVM3AxV2NQS2lyeWdXNG81VVZfU1Z3OFhTc212a0IxQUQ4VHNsVGtBRFVDalJiYWFRQ2NBa01FUFdHS1FDSzlQUjZ2WkwwOWdEQ3lKOFZlRGxJak9Qb2pOSDNNWUU5ZXoycVhsR1dkOE1KTDgyakpsZVlmWk1vNNIB6AFBVV95cUxNejRIanZPQ195bHdLRHo0b1BZM0c1dWNhZkJJUlIwR2VBNTBoNXhTQ1J3dC1TTkhrX1pOdEktTkt0X3dUUl9iODJXTVlPektBaGxpbVI1N045UEtaOUNZNDV1RVdCUUNVQTZHamVfTVJhYjBxbklCQjBRbVh5TGpvNVV5cExQNVZrSEc3YWl6VW40cUlscHhKdDNOVzJhdFBZSFJEclJfZ0hyYVZQbjktT0hRQkJvU3dEUFpEbk5ka0NnTXIxdkw2aGtuVG9idDBxOXJOVWxGUFZtUGhKdEpxZXdHdjdiSVVa?oc=5\" target=\"_blank\">Memory Over Big Tech? Here's Why Jefferies Prefers Micron, Samsung To Meta, Alphabet Amid 'AI Fatigue'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Jefferies analyst note expressing preference for memory semiconductor stocks (Micron, Samsung) over big-tech names amid AI fatigue concerns. This is analyst opinion and positioning commentary rather than a concrete market event or new information about the companies themselves."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "36c378252d750a83083b49a56ef19fcd539d5e02",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "SNDK, WDC Stocks Topple As Blowout Memory Earnings Don’t Surprise Enough — Retail Pounces On The Dip - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU3U3NWh3Y2l6OEVIRzhJTlhjNVBPZ2p5NE5VQndaZWs1MW56VnlTTVRLR3VQS1VBVWJZdFhXTlZ5X294b0h5Y0J3NmUyRWhGb0ZwRkg5Umh4RnpKUk1tS0J1dkUzbTB6cDdfTG1LY3JlY2V4YjBfR2xhRHpkbjJ6QW5NTVpnSFBkd1d2OGJiRV8tX3JIX0ZJRmVpUTBXeXlsV2o4cmRzOE1tRWdxLVlrMHZnMGNLRV9ZdTVlSkF2SEd2bUE1TFNwUFBBblFPRERyUHRVV0ZZbVRhNkpaT1Q2WWt5RUlUSm9jS1BTQzV0U3dmMFE?oc=5",
+  "published_at": "Sat, 11 Jul 2026 17:42:48 GMT",
+  "published_ts": 1783791768,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU3U3NWh3Y2l6OEVIRzhJTlhjNVBPZ2p5NE5VQndaZWs1MW56VnlTTVRLR3VQS1VBVWJZdFhXTlZ5X294b0h5Y0J3NmUyRWhGb0ZwRkg5Umh4RnpKUk1tS0J1dkUzbTB6cDdfTG1LY3JlY2V4YjBfR2xhRHpkbjJ6QW5NTVpnSFBkd1d2OGJiRV8tX3JIX0ZJRmVpUTBXeXlsV2o4cmRzOE1tRWdxLVlrMHZnMGNLRV9ZdTVlSkF2SEd2bUE1TFNwUFBBblFPRERyUHRVV0ZZbVRhNkpaT1Q2WWt5RUlUSm9jS1BTQzV0U3dmMFE?oc=5\" target=\"_blank\">SNDK, WDC Stocks Topple As Blowout Memory Earnings Don’t Surprise Enough — Retail Pounces On The Dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and Western Digital stocks declined following strong memory earnings results, with the market viewing the positive results as already priced in rather than a new catalyst. Retail investors are buying the dip."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "72f99f23f433e578acb32fe9889225fba91e9b43",
+  "source": "디지털투데이",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix DRAM operating margin nears 80 percent as memory boom holds firm - 디지털투데이",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1RlWDVUNGM5RlFjM1hGYnpmTk9fVnhPY195R0VnNk54M0JaeUNYVW5sbzk0WUI2YVNsRlVkdGhhRTN5SjJrbWNTQVdSYk9YVFBReEpvc1ZqcS1sYzZ0LXN1N0liYzNqd1AzWWZTSkxiVk5nc21VVjV5WGdqTThEemFZVldDczF2MkVFNVJWQXdDT1NUQ2lCeGlwSlBBYnRHM1RmcEdQazltTnZkVnEyVlpONkg2dUhYTVdRaFBMSzgyMzNONjRfNXRjTDY2S28?oc=5",
+  "published_at": "Sat, 11 Jul 2026 23:51:09 GMT",
+  "published_ts": 1783813869,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1RlWDVUNGM5RlFjM1hGYnpmTk9fVnhPY195R0VnNk54M0JaeUNYVW5sbzk0WUI2YVNsRlVkdGhhRTN5SjJrbWNTQVdSYk9YVFBReEpvc1ZqcS1sYzZ0LXN1N0liYzNqd1AzWWZTSkxiVk5nc21VVjV5WGdqTThEemFZVldDczF2MkVFNVJWQXdDT1NUQ2lCeGlwSlBBYnRHM1RmcEdQazltTnZkVnEyVlpONkg2dUhYTVdRaFBMSzgyMzNONjRfNXRjTDY2S28?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix DRAM operating margin nears 80 percent as memory boom holds firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "디지털투데이"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix DRAM operating margins approaching 80% as memory demand remains strong. Represents analyst observation or reporting of current margin levels rather than a new earnings announcement or concrete guidance change, so scored as soft analysis rather than hard event."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "a66874a84c47adf410d744fc8b40757b97335417",
+  "source": "Outlook Respawn",
+  "topic": "industry",
+  "title": "Global PC Shipments Fall 4.9% as Memory Crisis Deepens | Outlook Respawn - Outlook Respawn",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekgxaEtWNXdnY3JhdlZUNGlxb1VqcWlEMGFHYmxudnZIZmJJU0xqY3JKRFhrdDVoaDV2TWstcHBqMHJORE1yT3o4WEVfNmU1R25TT0pQSF9WUV80UFhWaHRyczRCN1RiMGVkN0lWbE9Gd2N5RDFDb0VGU2ZZRHQ0MzRwUjM3bW1UdFp3bDZkMXlmQlFFbGhlYjRlOFZ6SHZ3RFVMWDhLQdIBtAFBVV95cUxQY3Z6Nklub2lQbmdTLUxkYzJEeHdpNmhIYW43MHJjQUlRR3JqMjhQd2RxZXZKM2s0cUdvOXQyY3VkWkxfRnYtZjN2dXdBXzVNeEVJMEh4VnJzY1FUcVQ1MUREakk3dWJGQzhyTVozU0NaSHNnam1QdlU5d215TmozZGdjczJzSkpmcUliT2lxX0lOSHBzaXlLUTR2SXlHaWpwSDhKNEhmMFc3eGdjSTRFUy03N2Q?oc=5",
+  "published_at": "Sun, 12 Jul 2026 03:31:00 GMT",
+  "published_ts": 1783827060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPekgxaEtWNXdnY3JhdlZUNGlxb1VqcWlEMGFHYmxudnZIZmJJU0xqY3JKRFhrdDVoaDV2TWstcHBqMHJORE1yT3o4WEVfNmU1R25TT0pQSF9WUV80UFhWaHRyczRCN1RiMGVkN0lWbE9Gd2N5RDFDb0VGU2ZZRHQ0MzRwUjM3bW1UdFp3bDZkMXlmQlFFbGhlYjRlOFZ6SHZ3RFVMWDhLQdIBtAFBVV95cUxQY3Z6Nklub2lQbmdTLUxkYzJEeHdpNmhIYW43MHJjQUlRR3JqMjhQd2RxZXZKM2s0cUdvOXQyY3VkWkxfRnYtZjN2dXdBXzVNeEVJMEh4VnJzY1FUcVQ1MUREakk3dWJGQzhyTVozU0NaSHNnam1QdlU5d215TmozZGdjczJzSkpmcUliT2lxX0lOSHBzaXlLUTR2SXlHaWpwSDhKNEhmMFc3eGdjSTRFUy03N2Q?oc=5\" target=\"_blank\">Global PC Shipments Fall 4.9% as Memory Crisis Deepens | Outlook Respawn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Respawn</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Outlook Respawn"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Global PC shipments declined 4.9%, attributed to a memory crisis. This is soft analysis/outlook commentary on industry headwinds affecting demand for memory components, but lacks a concrete trigger (specific pricing data, production announcement, or company guidance change) to warrant a higher score."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "b608875285e5983204717361a2010b675ff919e8",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Could Be 8% Overvalued On New 3D Flash Production News - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3l0eTJCUjEtbkhOQ08wekE3YTZMRkh4RGZTbGhWWGdhWW9ta0I2aE9QMkd2RXAwWHZBWnFwUXJTSnY5UmVlU09jYkZfdzZMaG5tN0RFOV9xV0NSeUwtanVlRFB2emhQZFV6czM0V1o5OGlJM1M4cEhfV2U4Uzd4c1VNb3BMWW5jekxzcFBpQWF1VkJqUTE5dS1IV04xNlM4SEdlSGVQTDlkMGtieFNyZy1aNFdTZU5pTTJrdzd6QdIBxAFBVV95cUxPanRIQlRSTDMxVEVNTTZTUzF5WThrTzRBdGRzSVBHNjJ2bDZkMUc1STBWNV9ZOHVhRllaS1dvdkZGazVtWGQyRUJ4YklXVGFDR2VpSDJwMjMwOHNSb0E4ZTZjQVU1QUtaWnpvOV9ISzVxTW1yRHV4eTF6QTM4T1VBUGZSbk5qVllkeXUwZjJOaXZQeTRiREdEQTZOM0FSZzRiMmQ2RVQwdW5welRxdkp1enNjMGVGSWtBeGs2SFZ4S1VtMXc4?oc=5",
+  "published_at": "Sun, 12 Jul 2026 01:39:44 GMT",
+  "published_ts": 1783820384,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3l0eTJCUjEtbkhOQ08wekE3YTZMRkh4RGZTbGhWWGdhWW9ta0I2aE9QMkd2RXAwWHZBWnFwUXJTSnY5UmVlU09jYkZfdzZMaG5tN0RFOV9xV0NSeUwtanVlRFB2emhQZFV6czM0V1o5OGlJM1M4cEhfV2U4Uzd4c1VNb3BMWW5jekxzcFBpQWF1VkJqUTE5dS1IV04xNlM4SEdlSGVQTDlkMGtieFNyZy1aNFdTZU5pTTJrdzd6QdIBxAFBVV95cUxPanRIQlRSTDMxVEVNTTZTUzF5WThrTzRBdGRzSVBHNjJ2bDZkMUc1STBWNV9ZOHVhRllaS1dvdkZGazVtWGQyRUJ4YklXVGFDR2VpSDJwMjMwOHNSb0E4ZTZjQVU1QUtaWnpvOV9ISzVxTW1yRHV4eTF6QTM4T1VBUGZSbk5qVllkeXUwZjJOaXZQeTRiREdEQTZOM0FSZzRiMmQ2RVQwdW5welRxdkp1enNjMGVGSWtBeGs2SFZ4S1VtMXc4?oc=5\" target=\"_blank\">Sandisk (SNDK) Could Be 8% Overvalued On New 3D Flash Production News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SimplyWall.st analyst commentary suggests SanDisk may be overvalued based on 3D flash production developments. This is valuation opinion and analysis rather than a concrete event or new hard data about production or pricing—typical analyst assessment that the market may already be pricing in."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "d9c6b7158151198c2771ced4678246b2288b5f13",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADR Debut and Leveraged Products Eyed for Korean Market Impact - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFppSTdzdmEzNC05a2hBSlRjTjdMZFJHcDJscEdsQnoxOGJ6M3c4S29QcXlqMEVFdC1XdEYwZC1XVldWQnpZOGNydTdUclItMFJka2lYajR3Z3pmYXhGY2pEYUVzbFgzd1pseGZpcFc3Wi1pZGZhbF9kTzRWTk14VEQyVVFXaUtFcGpJdGVn?oc=5",
+  "published_at": "Sun, 12 Jul 2026 02:44:15 GMT",
+  "published_ts": 1783824255,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFppSTdzdmEzNC05a2hBSlRjTjdMZFJHcDJscEdsQnoxOGJ6M3c4S29QcXlqMEVFdC1XdEYwZC1XVldWQnpZOGNydTdUclItMFJka2lYajR3Z3pmYXhGY2pEYUVzbFgzd1pseGZpcFc3Wi1pZGZhbF9kTzRWTk14VEQyVVFXaUtFcGpJdGVn?oc=5\" target=\"_blank\">SK Hynix ADR Debut and Leveraged Products Eyed for Korean Market Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR debut and discussion of leveraged products for Korean market. Relevant as SK Hynix is a major DRAM ETF holding, but the story focuses on market structure/product mechanics rather than concrete business developments, earnings, or pricing moves. ADR listing is a structural event but impact is primarily on trading accessibility rather than underlying fundamentals."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "01814085438a8e73333520bd9a601e08dbd40cd4",
+  "source": "Memeburn",
+  "topic": "holding",
+  "title": "Samsung eyes 18-fold profit jump as AI memory demand explodes - Memeburn",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhZMzBpM3Y2bFdUbUtXamZSWWV0VWU3RDNROVo3TDVCU09aOElhU05GdzlKQzJuRzF1cnVtUXlIVEZDQ05pbVktQnBpbVB2OUkxSlAxOVdzT040M1A5WmZvMkhmU1h3UEpuV3lzQjdKWmt2WnBLZmZEZ0FVMFk2cFJIZUYxWHF6RDc5R05PeWkzb3hqN0ZMQnJfbzViV1F0?oc=5",
+  "published_at": "Sun, 12 Jul 2026 04:13:41 GMT",
+  "published_ts": 1783829621,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhZMzBpM3Y2bFdUbUtXamZSWWV0VWU3RDNROVo3TDVCU09aOElhU05GdzlKQzJuRzF1cnVtUXlIVEZDQ05pbVktQnBpbVB2OUkxSlAxOVdzT040M1A5WmZvMkhmU1h3UEpuV3lzQjdKWmt2WnBLZmZEZ0FVMFk2cFJIZUYxWHF6RDc5R05PeWkzb3hqN0ZMQnJfbzViV1F0?oc=5\" target=\"_blank\">Samsung eyes 18-fold profit jump as AI memory demand explodes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Memeburn</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Memeburn"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung (a DRAM ETF holding via its memory/semiconductor division) projects a significant profit increase driven by AI memory demand. This is forward-looking guidance and analyst commentary rather than a concrete earnings release or confirmed event, making it a soft 3—material to the fund's thesis but not yet a confirmed, market-moving development."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "ecbd068a1bb93f17c332f396029d1a37243e603d",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADR Debut Sparks Mixed Global Investor Views - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2lhbGdYakRXM0tCRnpUOHUyTjlPMDhOTkJZemNZbmxUcDBTNGhNRTl2V2dRSG1Yc3VwZUU3bzJnOFgxVks1VGFFcmVCUjZIa2JWSjNwcXJMNGR0LTVZQzdVQW02akZqcTFRbmxIOXJtbDc0c3NiSEM5OENRMVVFcC1Ob1lIaWVBVFluUjJ3?oc=5",
+  "published_at": "Sun, 12 Jul 2026 02:11:27 GMT",
+  "published_ts": 1783822287,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2lhbGdYakRXM0tCRnpUOHUyTjlPMDhOTkJZemNZbmxUcDBTNGhNRTl2V2dRSG1Yc3VwZUU3bzJnOFgxVks1VGFFcmVCUjZIa2JWSjNwcXJMNGR0LTVZQzdVQW02akZqcTFRbmxIOXJtbDc0c3NiSEM5OENRMVVFcC1Ob1lIaWVBVFluUjJ3?oc=5\" target=\"_blank\">SK Hynix ADR Debut Sparks Mixed Global Investor Views</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR (American Depositary Receipt) debut is generating mixed investor sentiment globally. This is a structural development for the holding (improved US market accessibility) but lacks concrete operational or financial news; it reflects market positioning and investor perception rather than a confirmed event with immediate material impact on the company's business or the fund's portfolio."
+  },
+  "buffered_ts": 1783831827.5890098
+ },
+ {
+  "id": "db3ab2966010a0d528b9faea38b30bcbe9f3b511",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Western Digital stock holds steady as data storage demand shapes the long-term story - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHlwYXBaNWpUa05ET2RrVjZNRWVIZTlZVXpkRjRGdUxkNUVpOTlrcHNWU210Rldpc0RWbGtjb2s2Sm5PcVhVTThfMFhLX2FXdkd1NGtSdWlKRkxmMUxWcEE1bzJhYkRHTWMxVDVmZEhOTnNXVlcxU2F4WDVZYnBCLUhQZlpvcE5iYVNwc3o1dkZ5VllhQW94Y0s1MVpCeTFsdzFZcnlXQzM4RFRhdFkwTGFGVzcwNXlxVEFMa0Y3elRseldkU2c?oc=5",
+  "published_at": "Sun, 12 Jul 2026 03:40:30 GMT",
+  "published_ts": 1783827630,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHlwYXBaNWpUa05ET2RrVjZNRWVIZTlZVXpkRjRGdUxkNUVpOTlrcHNWU210Rldpc0RWbGtjb2s2Sm5PcVhVTThfMFhLX2FXdkd1NGtSdWlKRkxmMUxWcEE1bzJhYkRHTWMxVDVmZEhOTnNXVlcxU2F4WDVZYnBCLUhQZlpvcE5iYVNwc3o1dkZ5VllhQW94Y0s1MVpCeTFsdzFZcnlXQzM4RFRhdFkwTGFGVzcwNXlxVEFMa0Y3elRseldkU2c?oc=5\" target=\"_blank\">Western Digital stock holds steady as data storage demand shapes the long-term story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": [
+    "Seagate stock holds steady as data storage demand underpins the long-term story - ad-hoc-news.de"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital stock remains steady amid ongoing data storage demand trends. Generic commentary on long-term storage outlook with no concrete new developments, pricing changes, or earnings-related catalyst."
+  },
+  "buffered_ts": 1783831827.5890098
  }
 ]
