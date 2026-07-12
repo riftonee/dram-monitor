@@ -433,5 +433,77 @@
    "summary": "SK Hynix ADR gained on optimism around AI chip demand and memory semiconductor tailwinds. Stock price movement driven by market sentiment on AI boom rather than a concrete new event or earnings catalyst."
   },
   "buffered_ts": 1783875486.8990283
+ },
+ {
+  "id": "c76b44a9ad17a94f56b5d0be5e7ba897b5dc64f6",
+  "source": "Android Headlines",
+  "topic": "holding",
+  "title": "SK Hynix Says RAM Crisis Is Far from Over and Could Last Until 2030 - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlZCaHllaUhFeUlHSVVSUDRNY2tQdGJuT0V1Q2E2MnZfbjhfSnk3N3pVOWdlOVpqYmJtaTMyMWs2bnlXcWxGQndJZmdhRGdVQS1hMVdObnZuYjVQTXhZd3Nab0lCeDNhRkZpcjV4TzlRZ3BoanRCMC12NmNUREtqOS1leW50d0ZmRjJHZ25XZkJHa2hNaWVGRFZDNA?oc=5",
+  "published_at": "Sun, 12 Jul 2026 17:19:40 GMT",
+  "published_ts": 1783876780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlZCaHllaUhFeUlHSVVSUDRNY2tQdGJuT0V1Q2E2MnZfbjhfSnk3N3pVOWdlOVpqYmJtaTMyMWs2bnlXcWxGQndJZmdhRGdVQS1hMVdObnZuYjVQTXhZd3Nab0lCeDNhRkZpcjV4TzlRZ3BoanRCMC12NmNUREtqOS1leW50d0ZmRjJHZ25XZkJHa2hNaWVGRFZDNA?oc=5\" target=\"_blank\">SK Hynix Says RAM Crisis Is Far from Over and Could Last Until 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Android Headlines"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix executive commentary stating that the RAM supply crisis will persist through 2030. This is forward guidance/opinion rather than a concrete event or hard number, making it analyst-level commentary that influences market sentiment but lacks the specificity of a binding forecast or announced capacity decision."
+  },
+  "buffered_ts": 1783879275.2010422
+ },
+ {
+  "id": "3cf6a514f9006783f29f1b8336b14ee67a53f9fb",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk rides AI boom with record growth and Meta deal buzz - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNzF6YzRSUFhadWRHTURUcVlXcXZLU2FFSjR5clIybkhBYmxrSFhHSGlGVWdVVHczUkhERWdoaDdvc09mcTNyYW1UWVVpZGJibEdXWXdSNm5CQWFERVpaT2JyRWNCbno5TEVyNm5tM1NOdGFuMEpFbURJVEVZQWdLbTdTbm5IdUtUbWZPUTR2T01JeGtqeUs3cjRhUVZDamZyRS1KdEItRE1hWm9ETmRrM0EtOEJjSVlDb2pLNjJFVTEwU0hpZnFSMkFTU1FCTXl1c1Z4NVFB?oc=5",
+  "published_at": "Sun, 12 Jul 2026 17:52:34 GMT",
+  "published_ts": 1783878754,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNzF6YzRSUFhadWRHTURUcVlXcXZLU2FFSjR5clIybkhBYmxrSFhHSGlGVWdVVHczUkhERWdoaDdvc09mcTNyYW1UWVVpZGJibEdXWXdSNm5CQWFERVpaT2JyRWNCbno5TEVyNm5tM1NOdGFuMEpFbURJVEVZQWdLbTdTbm5IdUtUbWZPUTR2T01JeGtqeUs3cjRhUVZDamZyRS1KdEItRE1hWm9ETmRrM0EtOEJjSVlDb2pLNjJFVTEwU0hpZnFSMkFTU1FCTXl1c1Z4NVFB?oc=5\" target=\"_blank\">SanDisk rides AI boom with record growth and Meta deal buzz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk reported record growth driven by AI demand; Meta partnership discussions are mentioned but not confirmed. The growth claim is positive for the holding but lacks specifics on concrete numbers or a signed deal, making it analysis/possibility rather than a hard event."
+  },
+  "buffered_ts": 1783879275.2010422
+ },
+ {
+  "id": "947079123ff92e4bd17fab8c40c6210eb99a27c7",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Why SanDisk Stock Could Soar to $4,000? - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUGF6WXoxM0pqTXFCMDFkWDlrVm9LVUs1a3hCLWVELTVaN3VFUVRiajg5VGlkRlh6ZERiWDlRZEMxT0J0MGh4bVdZdVFtQzZUQ3hXSlUyODRSNnVBT2JZckpMY1FzMVpMSk5VckRUNnNoMElYR3UwQ0ZXbmFva3o5bUhOem10MC1zUGRUU2wtenA4bUwzcW1rTVNLNTVCQkwtc2UxLWxaTmJCZ0IteXljQVV0bDg1ZHF5eV84OE5kbEFMdlYtbFNpdDJoVkFDMzZ3QmFsaERTZ2Zlcm54?oc=5",
+  "published_at": "Sat, 11 Jul 2026 21:07:24 GMT",
+  "published_ts": 1783804044,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUGF6WXoxM0pqTXFCMDFkWDlrVm9LVUs1a3hCLWVELTVaN3VFUVRiajg5VGlkRlh6ZERiWDlRZEMxT0J0MGh4bVdZdVFtQzZUQ3hXSlUyODRSNnVBT2JZckpMY1FzMVpMSk5VckRUNnNoMElYR3UwQ0ZXbmFva3o5bUhOem10MC1zUGRUU2wtenA4bUwzcW1rTVNLNTVCQkwtc2UxLWxaTmJCZ0IteXljQVV0bDg1ZHF5eV84OE5kbEFMdlYtbFNpdDJoVkFDMzZ3QmFsaERTZ2Zlcm54?oc=5\" target=\"_blank\">Why SanDisk Stock Could Soar to $4,000?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Speculation piece on SanDisk stock price potential; lacks concrete catalyst or material news tied to DRAM/memory fundamentals."
+  },
+  "buffered_ts": 1783879275.2010422
  }
 ]
