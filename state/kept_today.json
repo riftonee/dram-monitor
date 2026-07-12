@@ -649,5 +649,53 @@
    "summary": "SK hynix CEO forecasts 2027 as the 'worst year in history' for memory supply, signaling an anticipated supply shortage. This is executive commentary on future industry conditions rather than a confirmed current event or hard capacity number, making it opinion/forecast rather than concrete news."
   },
   "buffered_ts": 1783892682.6742759
+ },
+ {
+  "id": "33b47a5f6d13fe547912d332943ea892862edeaa",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "SK hynix Debuts on Nasdaq, Says 'Wherever AI Is, SK hynix Will Be There' - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GT1ZjQ0I3TEVyWmpZVlN4M016TUFUYVdsejNIVXF0d2xZb245V0JuNTNwS0dZcllIbENEckJCbC1fMGI0NXFSSVdpOFI4dDJsbHowWDZBSkdndWFpRWxUQklQN1ZsX0E?oc=5",
+  "published_at": "Sun, 12 Jul 2026 22:36:40 GMT",
+  "published_ts": 1783895800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GT1ZjQ0I3TEVyWmpZVlN4M016TUFUYVdsejNIVXF0d2xZb245V0JuNTNwS0dZcllIbENEckJCbC1fMGI0NXFSSVdpOFI4dDJsbHowWDZBSkdndWFpRWxUQklQN1ZsX0E?oc=5\" target=\"_blank\">SK hynix Debuts on Nasdaq, Says 'Wherever AI Is, SK hynix Will Be There'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix officially debuted on Nasdaq, a concrete corporate milestone for a major DRAM ETF holding. The company's public statement reinforces its strategic pivot toward AI-driven memory demand, signaling commitment to the high-growth segment driving the memory cycle."
+  },
+  "buffered_ts": 1783896175.739291
+ },
+ {
+  "id": "9db9953e2a42bfe3e8d7ecd446317a855e71632a",
+  "source": "Capital Brief",
+  "topic": "holding",
+  "title": "Australian shares to open higher as SK Hynix debut lifts chip stocks - Capital Brief",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmJUeTY4ZTBIMkg2VFMtLVdTZ1NCWTVyUEJpS1A5VWpCU2xlY2N4ZjFxR01SM28yY24xZjBzM2o1OHk1b0ppVzk3NnBHNnJsMGZfMXV3ejBiRGRtM1JnMTZJNXZpN010VWF6QUEzQzV0VWR1c0VUbEU1YmdvTUwyNDN1UmRLRE16WE4wWkstYjRENGdkMzRaMW1zYjhYeTM0YkdDeGQ3eFg4VTA2Y0JZNEx4RDVHUUhndzFlYkx4T0NqeEltMmVVMHZaSTROYy02dmQzZ3ZuU0lKTkQ4?oc=5",
+  "published_at": "Sun, 12 Jul 2026 22:05:00 GMT",
+  "published_ts": 1783893900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmJUeTY4ZTBIMkg2VFMtLVdTZ1NCWTVyUEJpS1A5VWpCU2xlY2N4ZjFxR01SM28yY24xZjBzM2o1OHk1b0ppVzk3NnBHNnJsMGZfMXV3ejBiRGRtM1JnMTZJNXZpN010VWF6QUEzQzV0VWR1c0VUbEU1YmdvTUwyNDN1UmRLRE16WE4wWkstYjRENGdkMzRaMW1zYjhYeTM0YkdDeGQ3eFg4VTA2Y0JZNEx4RDVHUUhndzFlYkx4T0NqeEltMmVVMHZaSTROYy02dmQzZ3ZuU0lKTkQ4?oc=5\" target=\"_blank\">Australian shares to open higher as SK Hynix debut lifts chip stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Brief</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Capital Brief"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix debut on Australian exchange lifts chip stocks sentiment. Market reaction to listing event rather than new operational or financial information about the company itself."
+  },
+  "buffered_ts": 1783896175.739291
  }
 ]
