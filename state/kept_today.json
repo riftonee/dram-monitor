@@ -697,5 +697,53 @@
    "summary": "SK Hynix debut on Australian exchange lifts chip stocks sentiment. Market reaction to listing event rather than new operational or financial information about the company itself."
   },
   "buffered_ts": 1783896175.739291
+ },
+ {
+  "id": "bba5df7cec001a76402059a475459e67a0b898df",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Howard Lutnick Tells Samsung and SK Hynix They Have 'No Choice' but to Build US AI Memory Fabs— and Micron's CEO May Not Be Happy - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dfS0d3Y0NJcmNWd2g1M2ZVb0xkX0dNdVhaUkVxcEJ1cmF0MWFNUVU2bDk1ajhwcjRrNnJrekJoRW4zUF9IZW9WVXBNZ1Jqb1Q1cXIydEVHdGVObU5WQmxZRGQtUlVVSVo4SmtoSWhHbFJGS2JUNmdJOEw1V1U2Q3BsUzVpR3RnY2Vmb2p5R0VHSzdURlkwZVlQNA?oc=5",
+  "published_at": "Sun, 12 Jul 2026 19:31:05 GMT",
+  "published_ts": 1783884665,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dfS0d3Y0NJcmNWd2g1M2ZVb0xkX0dNdVhaUkVxcEJ1cmF0MWFNUVU2bDk1ajhwcjRrNnJrekJoRW4zUF9IZW9WVXBNZ1Jqb1Q1cXIydEVHdGVObU5WQmxZRGQtUlVVSVo4SmtoSWhHbFJGS2JUNmdJOEw1V1U2Q3BsUzVpR3RnY2Vmb2p5R0VHSzdURlkwZVlQNA?oc=5\" target=\"_blank\">Howard Lutnick Tells Samsung and SK Hynix They Have 'No Choice' but to Build US AI Memory Fabs— and Micron's CEO May Not Be Happy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Howard Lutnick suggests Samsung and SK Hynix should build US AI memory fabs, implying potential capacity expansion driven by AI demand. This is policy advocacy/commentary rather than a concrete announcement, making it opinion-based rather than a settled event. However, it is relevant to memory fab capacity dynamics and touches two major DRAM holdings (Samsung, SK Hynix) in the context of AI-driven memory demand, which is a material industry theme for the fund."
+  },
+  "buffered_ts": 1783900218.2841136
+ },
+ {
+  "id": "2784caa2c89297cd832e106c595bfd4b863255e0",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix Is a Golden Goose. It Has to Lay More Eggs - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnJ6NllvclJKNjdfa3g2Vll1cGI0WEdEQ0pOMnFkQnpicEpWNnhfdURBZEhqN1F2Sl9qZnVlM1h3MUNhNkcwSFR4QzdOSHpHTDlVNXJFZ0pKZ1gtUHZEdFROR1R4eVg5QVdxSlU2dnlSNmRWdUE5Q1Bua0NoUTR5RzFwcFdaUGFIWk9lWjdOQWNLbkx0dWFpQ3JlMlpYUkJVVTh3cnFFRQ?oc=5",
+  "published_at": "Sun, 12 Jul 2026 18:00:20 GMT",
+  "published_ts": 1783879220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnJ6NllvclJKNjdfa3g2Vll1cGI0WEdEQ0pOMnFkQnpicEpWNnhfdURBZEhqN1F2Sl9qZnVlM1h3MUNhNkcwSFR4QzdOSHpHTDlVNXJFZ0pKZ1gtUHZEdFROR1R4eVg5QVdxSlU2dnlSNmRWdUE5Q1Bua0NoUTR5RzFwcFdaUGFIWk9lWjdOQWNLbkx0dWFpQ3JlMlpYUkJVVTh3cnFFRQ?oc=5\" target=\"_blank\">SK Hynix Is a Golden Goose. It Has to Lay More Eggs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bloomberg opinion piece on SK Hynix's profitability and need to increase production/investment. Relevant as SK Hynix is a core DRAM ETF holding, but this reads as analysis/commentary rather than reporting a concrete event or new financial data."
+  },
+  "buffered_ts": 1783900218.2841136
  }
 ]
