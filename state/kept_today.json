@@ -406,5 +406,29 @@
    "summary": "Seeking Alpha opinion piece comparing SK hynix and Micron post-IPO, analyzing relative valuations and performance. This is analyst commentary and valuation comparison rather than a concrete event or hard data point affecting the memory cycle or fund holdings."
   },
   "buffered_ts": 1783807964.0222507
+ },
+ {
+  "id": "bc10885adc83950711e22691f905bde254b9c150",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUF0Xy1yOXlWSDZCeU5YREJuRWxRZDFsQXBUVTVHRkFrMTctb2xVVW9Jd3Z0eWw5QzhIRURFZVFWYUhjWFlpRmxvS19LblY4UDRVUl9pcTRjSW5SZVN5YzFwbVN6OXo2WnFPZEZKN25XVk5hb2Z2X3FnM1lubk9oYkZlRFBzMm5UMDJFVWpOSElmU2prVTlZdkk2QzNvaTU5a25JeEYxMA?oc=5",
+  "published_at": "Sat, 11 Jul 2026 20:24:29 GMT",
+  "published_ts": 1783801469,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUF0Xy1yOXlWSDZCeU5YREJuRWxRZDFsQXBUVTVHRkFrMTctb2xVVW9Jd3Z0eWw5QzhIRURFZVFWYUhjWFlpRmxvS19LblY4UDRVUl9pcTRjSW5SZVN5YzFwbVN6OXo2WnFPZEZKN25XVk5hb2Z2X3FnM1lubk9oYkZlRFBzMm5UMDJFVWpOSElmU2prVTlZdkk2QzNvaTU5a25JeEYxMA?oc=5\" target=\"_blank\">Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on Seagate's (STX) AI storage growth outlook driven by cloud demand and higher-capacity HDDs. This is opinion/analysis rather than a confirmed event or hard number, making it soft relevant but not an immediate catalyst."
+  },
+  "buffered_ts": 1783818174.8669906
  }
 ]
