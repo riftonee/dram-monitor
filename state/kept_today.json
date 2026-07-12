@@ -265,5 +265,125 @@
    "summary": "Jim Cramer commentary comparing Nvidia and SanDisk valuations. SanDisk is a fund holding, but this is analyst opinion on relative valuations rather than new concrete information about the company, its products, pricing, or market conditions. No material event or hard data disclosed."
   },
   "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "043fc90b237801d9a3cd06391dbac39175a81873",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Samsung Stock Rebounds as Record Profit Sell-Off Eases, But Memory Cycle Doubts Persist - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOW9tLWppZlFuNGFQdFVTUkpXSjItQnk3aWJFVXhXR3ZTNF94UUc2Y05nM0Y4aWVybEQzUkZpN3FzMVFwWkp2eXJlVW1ObXlwelV0WnhJbXJSeVNHWEtUOV81VkJ0ZXdaMHR6RXNlNFFRWnVFSllUcjlIR05JdG1SNTdTcWs4OU9IWmRwYTg1OU9xUlhuLU9zSnF0dU82aklKZ3JxeWtiOUo3Vk1TTi1TbTBWdV9xT3IyaG1SRGlzekdFUTE5VWJ6R1pB?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:16:34 GMT",
+  "published_ts": 1783869394,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOW9tLWppZlFuNGFQdFVTUkpXSjItQnk3aWJFVXhXR3ZTNF94UUc2Y05nM0Y4aWVybEQzUkZpN3FzMVFwWkp2eXJlVW1ObXlwelV0WnhJbXJSeVNHWEtUOV81VkJ0ZXdaMHR6RXNlNFFRWnVFSllUcjlIR05JdG1SNTdTcWs4OU9IWmRwYTg1OU9xUlhuLU9zSnF0dU82aklKZ3JxeWtiOUo3Vk1TTi1TbTBWdV9xT3IyaG1SRGlzekdFUTE5VWJ6R1pB?oc=5\" target=\"_blank\">Samsung Stock Rebounds as Record Profit Sell-Off Eases, But Memory Cycle Doubts Persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung stock rebounds as recent sell-off eases following record profit results, though commentary expresses lingering doubts about the memory cycle recovery. This is post-earnings price movement and sentiment analysis rather than new concrete developments."
+  },
+  "buffered_ts": 1783871799.563406
+ },
+ {
+  "id": "41eb6a3940ba51de58ba829a5a345ab2109720b6",
+  "source": "PCMag UK",
+  "topic": "holding",
+  "title": "2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO - PCMag UK",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWpwZzg0bkhwUS1qaUI0ZUZTb1Ffc2M4YUM4Y280YUJYNWpGMWJiYmdyU2dQWk11VVB6UnpXR2NyaEF5RWJHYnpVeUNCemVzOWNjNmtuQWwxdUtFNE5pMk5XVHFUc0J1OUN5RUtGTGFKZV9pVDFjNldmTk9felp5LXpKLVkzc3A2SFYwaUd4cUstSWc4WDE4RnJNSEVGVzBHcGZyWkNyUVdqNUphb0E?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:17:07 GMT",
+  "published_ts": 1783869427,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWpwZzg0bkhwUS1qaUI0ZUZTb1Ffc2M4YUM4Y280YUJYNWpGMWJiYmdyU2dQWk11VVB6UnpXR2NyaEF5RWJHYnpVeUNCemVzOWNjNmtuQWwxdUtFNE5pMk5XVHFUc0J1OUN5RUtGTGFKZV9pVDFjNldmTk9felp5LXpKLVkzc3A2SFYwaUd4cUstSWc4WDE4RnJNSEVGVzBHcGZyWkNyUVdqNUphb0E?oc=5\" target=\"_blank\">2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PCMag UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO characterizes 2027 as potentially the worst year in history for memory supply. This is forward-looking commentary on supply dynamics affecting the memory cycle, but represents CEO opinion/forecast rather than a concrete announced action or binding production cut."
+  },
+  "buffered_ts": 1783871799.563406
+ },
+ {
+  "id": "259aa012fc5795e3be23412bc3f4019e7cc43116",
+  "source": "FXEmpire",
+  "topic": "holding",
+  "title": "A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade - FXEmpire",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckxnZXNyRjRwT1huZ29QREo3b1VwUzVUOEtUYS1zNm1HM0dUWTV1aWZQUm1EbTBCN0s1M1htWmJHM3FzeURyWVdZRTlzNW5HSW55SGxISGlmb1ZOdUc2dVpza3FTM2hsclk2Yk1OTmJuc1JORDQwMS0zeTlabkZ6WGJvT0dEdFJKVWVXaHZpb1FvajItc191TkpaaGw1ZmpKSUp4N2VsS0hoWmNXMldTUGZ2YkVobGxhcHZEdDQtbXc?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:45:00 GMT",
+  "published_ts": 1783871100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckxnZXNyRjRwT1huZ29QREo3b1VwUzVUOEtUYS1zNm1HM0dUWTV1aWZQUm1EbTBCN0s1M1htWmJHM3FzeURyWVdZRTlzNW5HSW55SGxISGlmb1ZOdUc2dVpza3FTM2hsclk2Yk1OTmJuc1JORDQwMS0zeTlabkZ6WGJvT0dEdFJKVWVXaHZpb1FvajItc191TkpaaGw1ZmpKSUp4N2VsS0hoWmNXMldTUGZ2YkVobGxhcHZEdDQtbXc?oc=5\" target=\"_blank\">A $26.5 Billion Milestone: What SK Hynix’s U.S. Debut Means for the AI Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXEmpire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXEmpire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix achieves $26.5 billion U.S. market debut milestone. Analysis of the company's AI-infrastructure positioning and U.S. expansion strategy, relevant to fund holdings but presented as commentary rather than a concrete new development or official announcement."
+  },
+  "buffered_ts": 1783871799.563406
+ },
+ {
+  "id": "69f6fd754ff8abeaec498417fd2f88e04a5c3ca0",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "The Market Is Missing SanDisk's Biggest Transformation (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGh3bmp3Z3k3d2dORURsOGJtbm55eUwzdXdDUDJfRnFYVFRJemRLeFZsMVl3Q05HblE2dnhtNy1admdBOHdXb09scG94YlZnd0Izc1pkUmpGb1NFb1E2cFhzaWwzelNFbkdzVlhRb0J3azV5UmVFSjFpVDl5RDZFRTI4NjBBUG8zNXJBdlEwRDBZaXlPNlJUbWxR?oc=5",
+  "published_at": "Sun, 12 Jul 2026 14:40:00 GMT",
+  "published_ts": 1783867200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObGh3bmp3Z3k3d2dORURsOGJtbm55eUwzdXdDUDJfRnFYVFRJemRLeFZsMVl3Q05HblE2dnhtNy1admdBOHdXb09scG94YlZnd0Izc1pkUmpGb1NFb1E2cFhzaWwzelNFbkdzVlhRb0J3azV5UmVFSjFpVDl5RDZFRTI4NjBBUG8zNXJBdlEwRDBZaXlPNlJUbWxR?oc=5\" target=\"_blank\">The Market Is Missing SanDisk's Biggest Transformation (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analysis piece arguing that the market is overlooking a significant transformation at SanDisk (SNDK). This is opinion/analysis rather than reporting a concrete event or hard numbers, making it relevant but soft commentary on a fund holding."
+  },
+  "buffered_ts": 1783871799.563406
+ },
+ {
+  "id": "9a23ca86ecae8a0d9eb1f46bd1ffe7c75042c20f",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "SK hynix’s Nasdaq splash gives Korea breathing room - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVl5Z0xZc0oteWMtbGtXcldMOTc4dEE4Sl9WS2pVUHdqQlhlVFRtRjJWV0FTT2VURzhPTzdwSVdXemxGMEhpWDhjR013X3o1d1lGZkVmYXdPVzdHQ0QyNVZQM2o4QXhQaXZmbzU3T2NhR2VUbDlfSk5heTkxdURiQ0RpY3I1RFlmWnJHamg1UUtueFdncm52QQ?oc=5",
+  "published_at": "Sun, 12 Jul 2026 15:01:45 GMT",
+  "published_ts": 1783868505,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVl5Z0xZc0oteWMtbGtXcldMOTc4dEE4Sl9WS2pVUHdqQlhlVFRtRjJWV0FTT2VURzhPTzdwSVdXemxGMEhpWDhjR013X3o1d1lGZkVmYXdPVzdHQ0QyNVZQM2o4QXhQaXZmbzU3T2NhR2VUbDlfSk5heTkxdURiQ0RpY3I1RFlmWnJHamg1UUtueFdncm52QQ?oc=5\" target=\"_blank\">SK hynix’s Nasdaq splash gives Korea breathing room</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix's Nasdaq listing or capital-raising activity provides financial flexibility for the company. While operationally relevant to a major DRAM/memory holding, this is a corporate finance/market event rather than a concrete development affecting memory supply, demand, pricing, or production capacity. Score reflects soft news about capital structure rather than a settlement event like a confirmed deal or official capacity announcement."
+  },
+  "buffered_ts": 1783871799.563406
  }
 ]
