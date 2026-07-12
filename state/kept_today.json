@@ -121,5 +121,149 @@
    "summary": "Jim Cramer commentary on relative valuation between Nvidia and SanDisk. SanDisk is a fund holding, but this is analyst opinion and commentary on valuation gaps rather than a concrete market development or pricing/capacity event affecting memory demand or supply."
   },
   "buffered_ts": 1783862263.8279057
+ },
+ {
+  "id": "34eceb0b6476104667d06bd3b0829133ad6ea568",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnIwcHZIdjFlRGh2UEEwMy1tUnJjZFpjdy1GdTBYcU9xbU53M1RNZnQ1aHphZVlpaVdYcjRHQ2VtTDlheXdKbjc2TUNydWRwcXUtSkpKZE9wZFhXRkk0bUhkckhrZEdkZmNKMEpuSTh1dTNmN2xfcjZNbTdVWHdfc1JzV19JekFTZnNkVDdQN1RlamM?oc=5",
+  "published_at": "Sun, 12 Jul 2026 09:30:00 GMT",
+  "published_ts": 1783848600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnIwcHZIdjFlRGh2UEEwMy1tUnJjZFpjdy1GdTBYcU9xbU53M1RNZnQ1aHphZVlpaVdYcjRHQ2VtTDlheXdKbjc2TUNydWRwcXUtSkpKZE9wZFhXRkk0bUhkckhrZEdkZmNKMEpuSTh1dTNmN2xfcjZNbTdVWHdfc1JzV19JekFTZnNkVDdQN1RlamM?oc=5\" target=\"_blank\">Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance commentary on SK Hynix's Nasdaq listing and triple-digit growth as a key Nvidia AI partner. This is analyst opinion and market commentary on a known development (the Nasdaq listing itself), not a new concrete event or hard number. The triple-digit growth reference is framed as context rather than a fresh disclosure. Scores as relevant holding news but soft impact—analysis and 'is it a buy' speculation rather than a settlement fact."
+  },
+  "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "de4609158393b379db30944198349ef21ffc0263",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Memory Crisis Looms: SK Hynix CEO Warns 2027 Will Be 'Worst Year' as HBM4 Prices Could Double - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZmVUdEhIcE5yUVltVE56aWc3QTV1WW1tUXpnajlBN01OVm90Z3dHdm1Nc2FRSTJpNW4yaHJ2bjZISk0ybTRzZzM5SmZQQVZhTDY1YVRMZTJ1NjJqaldGN010bjlrRXZiTU1DQ0NjZzZmMVBPeWc?oc=5",
+  "published_at": "Sun, 12 Jul 2026 08:35:00 GMT",
+  "published_ts": 1783845300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZmVUdEhIcE5yUVltVE56aWc3QTV1WW1tUXpnajlBN01OVm90Z3dHdm1Nc2FRSTJpNW4yaHJ2bjZISk0ybTRzZzM5SmZQQVZhTDY1YVRMZTJ1NjJqaldGN010bjlrRXZiTU1DQ0NjZzZmMVBPeWc?oc=5\" target=\"_blank\">Memory Crisis Looms: SK Hynix CEO Warns 2027 Will Be 'Worst Year' as HBM4 Prices Could Double</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns of a potential memory crisis in 2027, predicting it could be the 'worst year' with HBM4 prices potentially doubling. This is forward-looking commentary and speculation about future pricing rather than a concrete event or confirmed market development, making it relevant to industry cycle tracking but not a confirmed catalyst."
+  },
+  "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "f59c1493b2224337c5ed29b84aa448b34fb60161",
+  "source": "The Daily Star",
+  "topic": "industry",
+  "title": "2027 will be the worst memory supply shortage in history: SK Hynix CEO - The Daily Star",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGFTaktYemlwWE9rSGhIR3hIa01WdEh3cjhaMzBReTJCdzg3QzNFekFvTHljY203ZkUwNkZGZ3JUS1FoM2xLcGUyaXFXV2t1YUt2UlNITjVSNXFfLWRUQ2JyczVVNTRuM3YyYTYtWEowUm1IUWNYZlpFLXF0X0hPcmJibEVOTDg1MGdidHpreTJpZHdPS2V5WGhxUHpId0FOYVN5c3A5UVcwZXdoM3h4LWNtVmsxUG9JWWQ3NmppaVpCQW9R?oc=5",
+  "published_at": "Sun, 12 Jul 2026 13:22:47 GMT",
+  "published_ts": 1783862567,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGFTaktYemlwWE9rSGhIR3hIa01WdEh3cjhaMzBReTJCdzg3QzNFekFvTHljY203ZkUwNkZGZ3JUS1FoM2xLcGUyaXFXV2t1YUt2UlNITjVSNXFfLWRUQ2JyczVVNTRuM3YyYTYtWEowUm1IUWNYZlpFLXF0X0hPcmJibEVOTDg1MGdidHpreTJpZHdPS2V5WGhxUHpId0FOYVN5c3A5UVcwZXdoM3h4LWNtVmsxUG9JWWQ3NmppaVpCQW9R?oc=5\" target=\"_blank\">2027 will be the worst memory supply shortage in history: SK Hynix CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Daily Star"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO forecasts 2027 will see the worst memory supply shortage in history. This is a forward-looking statement from a major holding company addressing industry cycle dynamics, but it is CEO commentary/prediction rather than a concrete announced event or hard production cut. Relevant to the memory cycle but not yet a confirmed action that has moved the market."
+  },
+  "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "8332a815317dabcbae58d0919703462dec141723",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: The Biggest Memory Party Could Be At Its Peak (NASDAQ:SKHYV) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM09tY0tQTlQ1QlJEWUcxRDR1a29tOWl1NGRqNEZqa1k1ZklBTXVmbXJ1a0RHS0ZJR09NWWx1ckVUaTFSdFpMbDhKLTlDdnRuOFctdlN3ZUN4SXhya3hiSDVnRDNuNHE0Z3pOMkUwZzItenRpczVNUzZkV1Rvbzh0SUdjaGVROEZpcGsydUFwQjZBRmJ3YzZ2U3FSYw?oc=5",
+  "published_at": "Sun, 12 Jul 2026 13:30:00 GMT",
+  "published_ts": 1783863000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM09tY0tQTlQ1QlJEWUcxRDR1a29tOWl1NGRqNEZqa1k1ZklBTXVmbXJ1a0RHS0ZJR09NWWx1ckVUaTFSdFpMbDhKLTlDdnRuOFctdlN3ZUN4SXhya3hiSDVnRDNuNHE0Z3pOMkUwZzItenRpczVNUzZkV1Rvbzh0SUdjaGVROEZpcGsydUFwQjZBRmJ3YzZ2U3FSYw?oc=5\" target=\"_blank\">SK Hynix: The Biggest Memory Party Could Be At Its Peak (NASDAQ:SKHYV)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analysis suggesting SK Hynix's memory cycle may be peaking. This is opinion/analysis on a fund holding regarding cycle timing, not a concrete event or hard number."
+  },
+  "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "f0ecd576f5a642568c92ed658370aad86e7b4b49",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026 - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFpZXB0VXBBUkkzME5PMi00M2VRYWxOLU1maUg1SjBwZ0VTZFBmUUpzZXBTaC01N2Y0MDlkbHFpcEtySkFMMkp1Mnl2NVM0WkxxY0Z6WFVaZXZqZGdqdXdpNlM0TTkzVW9KNGhROXVRLXNXcjNwenQ3c3VfemttODRUaldBOWJfSEhEcklSR0NHRGJncjZOaFRkenVvVmxRNWpwdFVDN1pGejNYU19F?oc=5",
+  "published_at": "Sun, 12 Jul 2026 13:47:00 GMT",
+  "published_ts": 1783864020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFpZXB0VXBBUkkzME5PMi00M2VRYWxOLU1maUg1SjBwZ0VTZFBmUUpzZXBTaC01N2Y0MDlkbHFpcEtySkFMMkp1Mnl2NVM0WkxxY0Z6WFVaZXZqZGdqdXdpNlM0TTkzVW9KNGhROXVRLXNXcjNwenQ3c3VfemttODRUaldBOWJfSEhEcklSR0NHRGJncjZOaFRkenVvVmxRNWpwdFVDN1pGejNYU19F?oc=5\" target=\"_blank\">Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Goldman Sachs issued a 2026 price target for SanDisk (a holding), a forward-looking analyst forecast. While SanDisk is a core fund holding, analyst price targets and projections are opinion-based and do not constitute a concrete market event or new fundamental information about the company's business or the memory cycle. Score reflects relevance to holding but soft impact typical of analyst commentary."
+  },
+  "buffered_ts": 1783867241.6314037
+ },
+ {
+  "id": "bbad9c744367ece16a0c41e0002428bab4ac8f13",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Nvidia vs. SanDisk: 1 Valuation Gap Jim Cramer Says Is the Most Insulting Trade in Semiconductors Right Now - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmtrNTk5TWRVWnRRVHRNUkt4R1dFSElKZ2F4YnNYN3luUEk1U0RpcTBPYjYxVktnSTFWcTdBWUFxT1ZPeUFvV3lTMFZwbFU2S0h3aXFYQXVEa3d0V0lLVm5FT2s1eXZCZWxDakxSQWo1ZGpWM3pPY19RYzRHSGRDVk1HVzl2RXpvd0JPZVA0ZFgyWWtod1ItcUpB?oc=5",
+  "published_at": "Sun, 12 Jul 2026 12:25:15 GMT",
+  "published_ts": 1783859115,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmtrNTk5TWRVWnRRVHRNUkt4R1dFSElKZ2F4YnNYN3luUEk1U0RpcTBPYjYxVktnSTFWcTdBWUFxT1ZPeUFvV3lTMFZwbFU2S0h3aXFYQXVEa3d0V0lLVm5FT2s1eXZCZWxDakxSQWo1ZGpWM3pPY19RYzRHSGRDVk1HVzl2RXpvd0JPZVA0ZFgyWWtod1ItcUpB?oc=5\" target=\"_blank\">Nvidia vs. SanDisk: 1 Valuation Gap Jim Cramer Says Is the Most Insulting Trade in Semiconductors Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Jim Cramer commentary comparing Nvidia and SanDisk valuations. SanDisk is a fund holding, but this is analyst opinion on relative valuations rather than new concrete information about the company, its products, pricing, or market conditions. No material event or hard data disclosed."
+  },
+  "buffered_ts": 1783867241.6314037
  }
 ]
