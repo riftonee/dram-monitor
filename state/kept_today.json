@@ -1160,5 +1160,493 @@
    "summary": "SK hynix shares fell 4.4% following their Nasdaq listing and $26B capital raise. While the listing itself is a corporate event, the share price movement appears to be a routine post-IPO trading reaction rather than memory-market specific news. Minor relevance to the fund as a holding but limited material impact on the memory cycle or business fundamentals."
   },
   "buffered_ts": 1783909641.808477
+ },
+ {
+  "id": "b8f24488f9a1b8e8e4e4a8cfe6f9534b9d6dc66f",
+  "source": "DataCenterNews Asia Pacific",
+  "topic": "holding",
+  "title": "Samsung brings first Yongin chip fab launch forward to 2029 - DataCenterNews Asia Pacific",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnhyMmNSdS1BeEhNVmlCTmh4LWJRRHVDUTFla3hBUXl3UmJLeGdaWVN5M1hMZVVPMFhtU0FkVFl4aVVJUk9ScjNsSXFVRmNSRF9VT0pyUkZ5bU1NR3VzNm04WnY5ZzZXdzdWTjg1TlZ1UkU0S2lZY0RVWkJKQzhIRzNTemEwYXN5TnhzNE1KUlpnNU5lU0taSA?oc=5",
+  "published_at": "Mon, 13 Jul 2026 04:30:00 GMT",
+  "published_ts": 1783917000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnhyMmNSdS1BeEhNVmlCTmh4LWJRRHVDUTFla3hBUXl3UmJLeGdaWVN5M1hMZVVPMFhtU0FkVFl4aVVJUk9ScjNsSXFVRmNSRF9VT0pyUkZ5bU1NR3VzNm04WnY5ZzZXdzdWTjg1TlZ1UkU0S2lZY0RVWkJKQzhIRzNTemEwYXN5TnhzNE1KUlpnNU5lU0taSA?oc=5\" target=\"_blank\">Samsung brings first Yongin chip fab launch forward to 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DataCenterNews Asia Pacific</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "DataCenterNews Asia Pacific"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung advances the launch of its first Yongin chip fabrication plant to 2029 (earlier than previously planned). This is a concrete, officially announced capacity decision that directly affects a major fund holding's production capability for memory semiconductors and signals commitment to expanded HBM/advanced memory output to serve AI-infrastructure demand."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "ef4d1b1eb977ecfb9f267d58724b78f6aa0bd70a",
+  "source": "Nikkei Asia",
+  "topic": "holding",
+  "title": "SK Hynix down more than 12% after debuting successfully on Nasdaq - Nikkei Asia",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVlUOS1UYXRtTGlTUFAxRzByMy14cUFLZ1R5bWVPTlVFb1FMLXJKaFlGdTNxZDVrRXdHUGtUazF5eEtXZl9EQTQ2VFAzbFY4by04SXJ0d1JrMEtkM1FWQ1pLblQtQmRQM212azh6R0o5b0xEVk5adG5VeXlYN0QtdmZFUWp1TktlU2JRQXRMV0lmYmZLOHpqajNSY1J3R1lScEU5WDVCTlQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 05:42:00 GMT",
+  "published_ts": 1783921320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVlUOS1UYXRtTGlTUFAxRzByMy14cUFLZ1R5bWVPTlVFb1FMLXJKaFlGdTNxZDVrRXdHUGtUazF5eEtXZl9EQTQ2VFAzbFY4by04SXJ0d1JrMEtkM1FWQ1pLblQtQmRQM212azh6R0o5b0xEVk5adG5VeXlYN0QtdmZFUWp1TktlU2JRQXRMV0lmYmZLOHpqajNSY1J3R1lScEU5WDVCTlQ?oc=5\" target=\"_blank\">SK Hynix down more than 12% after debuting successfully on Nasdaq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nikkei Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Nikkei Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM ETF holding, declined more than 12% following its Nasdaq debut. This is a concrete, material stock move with a distinct catalyst (the listing event itself), representing significant negative price action for a core fund holding."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "8d03fb532f8d763a16b6429b84e63267eb4d5c29",
+  "source": "Asia Tech Review",
+  "topic": "holding",
+  "title": "SK Hynix’s $26.5B US listing tests the AI memory boom - Asia Tech Review",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBTkJ6TXI3azVBRzNnS2tMSURYaFVPWEJYZ29oRm8ydVBiYUoyUUNRTUZ2NDdEZXdhZmcyNkpQODNGb3Jvc3JGeWVzUG9DNU0waGpBeWNhYzhSM0xKdE02SWNheV8yTThyMWVwRVg5aXM0Z2lqR1FF?oc=5",
+  "published_at": "Mon, 13 Jul 2026 03:45:16 GMT",
+  "published_ts": 1783914316,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBBTkJ6TXI3azVBRzNnS2tMSURYaFVPWEJYZ29oRm8ydVBiYUoyUUNRTUZ2NDdEZXdhZmcyNkpQODNGb3Jvc3JGeWVzUG9DNU0waGpBeWNhYzhSM0xKdE02SWNheV8yTThyMWVwRVg5aXM0Z2lqR1FF?oc=5\" target=\"_blank\">SK Hynix’s $26.5B US listing tests the AI memory boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia Tech Review</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Asia Tech Review"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix announced a $26.5B US listing, a concrete material development for a major fund holding. This official capital raise and market listing is a significant corporate event that reflects confidence in AI memory demand and increases SK Hynix's access to US capital markets, directly impacting a core DRAM ETF holding."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "e50c76f9a59bd79cf2b0793db9c403181f8989e8",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Goldman Sachs Nearly Doubles SanDisk Price Target to $2,200 as NAND Shortage Supercharges Earnings - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TdkEyVUFXRk9INE5LSDlBSGpUSnZTN3lZQ1FvbDBEcFdQRmRvd1lrN2JrTW1CVkFYZmxvQ2lYaENSRzcxSkJUOWJKS0tjR2pRWVBBQzR2TmUzdjdJN2ZCTTJVY1RpRVpXcnNvWkVXbXhQYTBrTlE?oc=5",
+  "published_at": "Sun, 12 Jul 2026 23:15:00 GMT",
+  "published_ts": 1783898100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5TdkEyVUFXRk9INE5LSDlBSGpUSnZTN3lZQ1FvbDBEcFdQRmRvd1lrN2JrTW1CVkFYZmxvQ2lYaENSRzcxSkJUOWJKS0tjR2pRWVBBQzR2TmUzdjdJN2ZCTTJVY1RpRVpXcnNvWkVXbXhQYTBrTlE?oc=5\" target=\"_blank\">Goldman Sachs Nearly Doubles SanDisk Price Target to $2,200 as NAND Shortage Supercharges Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Goldman Sachs raises SanDisk price target to $2,200, citing NAND shortage benefiting earnings. This is analyst commentary and a price-target change driven by an existing market condition (NAND shortage), not a new concrete event or earnings release itself."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "acad8da210db8d1ce12a6ebf8efa150e3a7082e6",
+  "source": "TrendForce",
+  "topic": "industry",
+  "title": "[News] SK hynix Chair Dismisses HBM Slowdown Talk, Reportedly Says Clients Want Memory Capacity Up 5-6x - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUS1pdFYwSlRncnBFVXZUbXlVMFJZUmF3M1AxbEpsVUpYaHRoTEw2WE40VFZnZkowYWdYc1UtWTd0Vm1fT2JZVTExNnJRelVNdjRnUnBxRjZiMEhTa1pLS0oyVFdXV2l6V1hlcjEwUU1ReEMxZ0NvOEZENUJIekdkNE9kZnlpbTh2NzBIUHQ0WFJOTnF2cGt5aW9vbF9jVmVPM1NUREZfNURLbjVPS0szblpXQlZZMmRRbXlGUktabUl5alhndVhDQVhUWTN2eWVPbWgxajY5b1pUVFJC?oc=5",
+  "published_at": "Mon, 13 Jul 2026 03:46:40 GMT",
+  "published_ts": 1783914400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUS1pdFYwSlRncnBFVXZUbXlVMFJZUmF3M1AxbEpsVUpYaHRoTEw2WE40VFZnZkowYWdYc1UtWTd0Vm1fT2JZVTExNnJRelVNdjRnUnBxRjZiMEhTa1pLS0oyVFdXV2l6V1hlcjEwUU1ReEMxZ0NvOEZENUJIekdkNE9kZnlpbTh2NzBIUHQ0WFJOTnF2cGt5aW9vbF9jVmVPM1NUREZfNURLbjVPS0szblpXQlZZMmRRbXlGUktabUl5alhndVhDQVhUWTN2eWVPbWgxajY5b1pUVFJC?oc=5\" target=\"_blank\">[News] SK hynix Chair Dismisses HBM Slowdown Talk, Reportedly Says Clients Want Memory Capacity Up 5-6x</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix Chair dismisses concerns about HBM slowdown and reports clients are requesting 5-6x increases in memory capacity. This indicates strong demand signals for HBM and broader memory capacity expansion, supporting the memory cycle outlook for the fund's holdings, though the report is second-hand commentary rather than a concrete announced capacity plan or signed order."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "ce0938cd0eaaff8af197d8d55ebdfa363f7f34e5",
+  "source": "tbreak.com",
+  "topic": "industry",
+  "title": "The Memory Chip Crunch Gets Worse: SK Hynix Boss Warns 2027 Will Be the Industry’s Worst Year Ever - tbreak.com",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1US0JXRnBvQUo1dldvWFlhTlRZUDh6TExuVk1TajN0QnN6NGl4YmpZN2ZlX0c0R2xIcUVEbkJ4OWoyN3M2U2pUZ0dNNnlTaXp0UG5ZSTlpZ21yZ2FlbS1EaC04b2xzRmtGQ1JYdVczSmQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 04:24:14 GMT",
+  "published_ts": 1783916654,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1US0JXRnBvQUo1dldvWFlhTlRZUDh6TExuVk1TajN0QnN6NGl4YmpZN2ZlX0c0R2xIcUVEbkJ4OWoyN3M2U2pUZ0dNNnlTaXp0UG5ZSTlpZ21yZ2FlbS1EaC04b2xzRmtGQ1JYdVczSmQ?oc=5\" target=\"_blank\">The Memory Chip Crunch Gets Worse: SK Hynix Boss Warns 2027 Will Be the Industry’s Worst Year Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tbreak.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "tbreak.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix CEO warns that 2027 will be the industry's worst year ever for memory chips. This is forward-looking commentary and executive opinion rather than a concrete event or hard number, making it relevant industry insight but speculative guidance. The warning about future supply/demand imbalance is material to the memory cycle outlook but lacks specific production cuts or demand figures that would elevate it to impact 4-5."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "f50276f1e0e420b17b84d2543d69c8105ce89647",
+  "source": "The Economic Times",
+  "topic": "industry",
+  "title": "Global Market: SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTNNUTRYaF9CM1J2WTFOREU1ejk3WlktXzByal9EcFZOTWxDR2l1SG9kZkIyYmh1aF9YNHM2b29uaVVucGFaUGxFSmw3WGFFY0otLUNEaUJnVDF2MzJpVU1UYVd4Q0lZajlNNjNqSlhpSURjUGN0djZqTmdUcWZXUkVNLVRaWVZhZGphRXRaTjcxdFY5S1U2VDgxbzdYQldsc2ppZVg5MW45WUdobUluS2xTSWMwOWpYSk14MFNBQ0gwS2Jsd3BKZy03Vk56U0tGRENWZWpaM2pNWkJaOUI2WmFiZFdZNW5zVmNzbVp2RHVicUZzajhxUtIB_gFBVV95cUxQRGV1WUVtLVlQQ3dyMFlMR1hOcGdDZUtpdnBnTllFRVlYLXY4R2JicUI0MmZhNnNkMnpWWjFkRUluZnM3dWtyUEp1TWVkMFZhTUJ5b2xxSFdjYzVCNVp2X1NWQURlWVZRN1BqY2JoRW5jVklSSXJrZjdTUkV4UnpraEZmWERmUW9oY19xVG5XZHdkRGlSVEk3cWYtNHkyTHpwNHNNUldFaHhhaG1LYUwzTUpySUpVWEVnX0d3Y0ZpdGlBbS03TXdiVUV6WVMxdW0zSzN2TGk3ak1tcVV4YlNmN0ZTWEc1T1RLM1FJN0ZJRUs4aE1RZTROdFllcU9Idw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 05:29:10 GMT",
+  "published_ts": 1783920550,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQTNNUTRYaF9CM1J2WTFOREU1ejk3WlktXzByal9EcFZOTWxDR2l1SG9kZkIyYmh1aF9YNHM2b29uaVVucGFaUGxFSmw3WGFFY0otLUNEaUJnVDF2MzJpVU1UYVd4Q0lZajlNNjNqSlhpSURjUGN0djZqTmdUcWZXUkVNLVRaWVZhZGphRXRaTjcxdFY5S1U2VDgxbzdYQldsc2ppZVg5MW45WUdobUluS2xTSWMwOWpYSk14MFNBQ0gwS2Jsd3BKZy03Vk56U0tGRENWZWpaM2pNWkJaOUI2WmFiZFdZNW5zVmNzbVp2RHVicUZzajhxUtIB_gFBVV95cUxQRGV1WUVtLVlQQ3dyMFlMR1hOcGdDZUtpdnBnTllFRVlYLXY4R2JicUI0MmZhNnNkMnpWWjFkRUluZnM3dWtyUEp1TWVkMFZhTUJ5b2xxSFdjYzVCNVp2X1NWQURlWVZRN1BqY2JoRW5jVklSSXJrZjdTUkV4UnpraEZmWERmUW9oY19xVG5XZHdkRGlSVEk3cWYtNHkyTHpwNHNNUldFaHhhaG1LYUwzTUpySUpVWEVnX0d3Y0ZpdGlBbS03TXdiVUV6WVMxdW0zSzN2TGk3ak1tcVV4YlNmN0ZTWEc1T1RLM1FJN0ZJRUs4aE1RZTROdFllcU9Idw?oc=5\" target=\"_blank\">Global Market: SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Economic Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix warns of a potential historic memory chip shortage by 2027 driven by surging AI demand. This is forward-looking commentary on supply-demand dynamics rather than a concrete event or hard production/pricing data, making it analysis and forecast rather than a settled development."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "d81298a1deba146944edd49a02ddb073e2cb24c1",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix Retreats 10% in Seoul After Red-Hot Nasdaq Debut, Analyst Points to 'Correctional Period' - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXZlTFdDSHBhUHloLVZmOWlRNjNWOEQtQ3JJc3d6SFU3UUdGTXZtNFpWbElsdzFWWXRLRnh4TEI0cDZCa1RhMjNJTUdyN25nUG9ROWttSWpjYTNZV3Q1djMxSWxmMHJXZmJYNlBmQVVLODZRbVExZC15dUIxb0Rla1pnODVJV2RvRFpHSzVMeDNwakhycHZOMEZoUHFfR0JxSy04N3dXTFVfOGR4SnlmSFVOWjlHeFl2MFVZeGRVbVZDM1VQUVlra084bHQ4dUd3RUpoeEQyTHlXcHItUnpOWkhrWUV0TndU?oc=5",
+  "published_at": "Mon, 13 Jul 2026 04:03:18 GMT",
+  "published_ts": 1783915398,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXZlTFdDSHBhUHloLVZmOWlRNjNWOEQtQ3JJc3d6SFU3UUdGTXZtNFpWbElsdzFWWXRLRnh4TEI0cDZCa1RhMjNJTUdyN25nUG9ROWttSWpjYTNZV3Q1djMxSWxmMHJXZmJYNlBmQVVLODZRbVExZC15dUIxb0Rla1pnODVJV2RvRFpHSzVMeDNwakhycHZOMEZoUHFfR0JxSy04N3dXTFVfOGR4SnlmSFVOWjlHeFl2MFVZeGRVbVZDM1VQUVlra084bHQ4dUd3RUpoeEQyTHlXcHItUnpOWkhrWUV0TndU?oc=5\" target=\"_blank\">SK Hynix Retreats 10% in Seoul After Red-Hot Nasdaq Debut, Analyst Points to 'Correctional Period'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock declined 10% in Seoul trading following its Nasdaq debut. An analyst attributed the move to a 'correctional period' rather than fundamental deterioration. This is a post-listing price move with analyst commentary on the cause, representing sentiment/technical correction rather than new concrete business information."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "aae181dc9dbebddfcdbbef5eed214fca45b892f1",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix shares fall as much as 4.4% in Seoul after strong Nasdaq debut By Reuters - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbnQyZ293NlhGRnplcjFiT0RPbC1MNE0xd1Jka2lNZkxjX1EzRHotazRDZ1F1OG40RFlRVURNeUpEcDJRV29xYVdEN2pmVmc1aGxkLW5lV1FKZHozaE9OQWxhREpUS1plckJjNXBLU0ZtcWhqcmJjdVZGRXZtbEttR2RPdGtOc1Y0OGw4TGRxRDhHNU9abS1kbFl1Q3d6M2oxd0g5alRnR3VtZGdPM1RGSXhNMmlfRUxLMnlWVTdB?oc=5",
+  "published_at": "Mon, 13 Jul 2026 00:45:38 GMT",
+  "published_ts": 1783903538,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbnQyZ293NlhGRnplcjFiT0RPbC1MNE0xd1Jka2lNZkxjX1EzRHotazRDZ1F1OG40RFlRVURNeUpEcDJRV29xYVdEN2pmVmc1aGxkLW5lV1FKZHozaE9OQWxhREpUS1plckJjNXBLU0ZtcWhqcmJjdVZGRXZtbEttR2RPdGtOc1Y0OGw4TGRxRDhHNU9abS1kbFl1Q3d6M2oxd0g5alRnR3VtZGdPM1RGSXhNMmlfRUxLMnlWVTdB?oc=5\" target=\"_blank\">SK Hynix shares fall as much as 4.4% in Seoul after strong Nasdaq debut By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares declined 4.4% in Seoul trading following a strong Nasdaq debut. This is a stock price move driven by market sentiment and trading dynamics rather than a concrete company-specific or industry development; the move itself is the news, with no underlying operational or earnings-related catalyst disclosed."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "758ec60a6f4ec4ccfe30b74700379c0f969a4f3c",
+  "source": "PCMag Middle East",
+  "topic": "holding",
+  "title": "2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO - PCMag Middle East",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFF1OWJHd0VBVmJmYUo5TndRclpRQlVOcGo4VC1ac3ByS3VkYktsVWdvenJHOVBQdEx0VXRyYVR5MGhRTy1kMV8zVUE3WENicElHZXFhcUZLOFB0enM0V3VpalltaGxFWWI1VHhqalB5N2lyQ2NfRlM5WUhBZTdraDdXME56cFJGTk03SGw2cVo3M3BUaUhScWN3WGJ1bzVzcDBZXy1OdUxnUXg5cUpEdHhNdG5vZw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 04:22:27 GMT",
+  "published_ts": 1783916547,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFF1OWJHd0VBVmJmYUo5TndRclpRQlVOcGo4VC1ac3ByS3VkYktsVWdvenJHOVBQdEx0VXRyYVR5MGhRTy1kMV8zVUE3WENicElHZXFhcUZLOFB0enM0V3VpalltaGxFWWI1VHhqalB5N2lyQ2NfRlM5WUhBZTdraDdXME56cFJGTk03SGw2cVo3M3BUaUhScWN3WGJ1bzVzcDBZXy1OdUxnUXg5cUpEdHhNdG5vZw?oc=5\" target=\"_blank\">2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag Middle East</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PCMag Middle East"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix CEO states 2027 will be the 'worst year in history' for memory supply, signaling concern about oversupply and pricing pressure ahead. This is an executive forecast/opinion rather than a concrete announced decision or capacity cut, making it material but soft guidance on future market conditions."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "3d1594ba0574a7bb55236447ee9e53a1e39eb98c",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Korea Investment & Securities sees SK hynix miss Q2 profit consensus 8% - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEhIMmhxV3JCRmtuM1hWWG1JQ2dHN0ZNN3MtQU1uaEYyMFY1aTAtd0tubDh3c2NfLTlzTThFZm1VX3JUS284dlh0UGZIRkJRNWZ3aGN5WDVVdzRkdGlpTldhNUh0S0FXclhCNi02bDMzb0ppU3VhX2JrWEJ3SjFzTdIBlAFBVV95cUxNTEFWWXhUbFN5OUZRS1h0alctWEN4dmF4bndEUHZOZmdwYkQzTnV0MlgwV2daZXVYMk5ld2ZDUTR2NlppNEtxaTNabmVwZWlsN29aNWVfUUZCeU1MWVJ6SzBKSjdNZm1fTGNOOVlseDVFX0lKN3pEdUJMWnBfcThFdzVKVjdmMDB2N05hMlhuZ0FXbTFr?oc=5",
+  "published_at": "Mon, 13 Jul 2026 01:56:00 GMT",
+  "published_ts": 1783907760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEhIMmhxV3JCRmtuM1hWWG1JQ2dHN0ZNN3MtQU1uaEYyMFY1aTAtd0tubDh3c2NfLTlzTThFZm1VX3JUS284dlh0UGZIRkJRNWZ3aGN5WDVVdzRkdGlpTldhNUh0S0FXclhCNi02bDMzb0ppU3VhX2JrWEJ3SjFzTdIBlAFBVV95cUxNTEFWWXhUbFN5OUZRS1h0alctWEN4dmF4bndEUHZOZmdwYkQzTnV0MlgwV2daZXVYMk5ld2ZDUTR2NlppNEtxaTNabmVwZWlsN29aNWVfUUZCeU1MWVJ6SzBKSjdNZm1fTGNOOVlseDVFX0lKN3pEdUJMWnBfcThFdzVKVjdmMDB2N05hMlhuZ0FXbTFr?oc=5\" target=\"_blank\">Korea Investment & Securities sees SK hynix miss Q2 profit consensus 8% - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korea Investment & Securities analyst forecast that SK hynix will miss Q2 profit consensus by 8%. This is analyst opinion/expectation rather than a confirmed earnings result or guidance change from the company itself."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "be0f0c0107b890db284d65b866f0683a7d67debb",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "The evolution of the AI trade plays into SK Hynix's strengths: Rayliant Global Advisors - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFZOUi1xc3Z6NXpfVzdMOGxSZk1reG5HX2NERHgtbGpsWGxrc19oSVpwT1BfYW1fOEdGa0VvbE5KSHBZZktiTXIxSHd2RkxJYmJGWm9Oamtoc0hrUmJsbXFRQmVjZmNubUJhRGJTWDlZNERQNkprdVBLd0ZPaFZmUmFKSTljZXpJWTN1M0NpelVFSXdzM1A5Y3R2TmE3WGdpNE1rSDk2aWpIdUVY?oc=5",
+  "published_at": "Mon, 13 Jul 2026 05:11:48 GMT",
+  "published_ts": 1783919508,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFZOUi1xc3Z6NXpfVzdMOGxSZk1reG5HX2NERHgtbGpsWGxrc19oSVpwT1BfYW1fOEdGa0VvbE5KSHBZZktiTXIxSHd2RkxJYmJGWm9Oamtoc0hrUmJsbXFRQmVjZmNubUJhRGJTWDlZNERQNkprdVBLd0ZPaFZmUmFKSTljZXpJWTN1M0NpelVFSXdzM1A5Y3R2TmE3WGdpNE1rSDk2aWpIdUVY?oc=5\" target=\"_blank\">The evolution of the AI trade plays into SK Hynix's strengths: Rayliant Global Advisors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary from Rayliant Global Advisors argues that the evolution of AI infrastructure demand aligns well with SK Hynix's capabilities and competitive position. This is opinion/analysis rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "f543f3a0ffdd55a2c267b37336bfbee04b172ae4",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RGSUR2QnZDb0VoSlZLUklaU0RqVEpseEtkZFZTQ0hzenRMcDRzdWFwNjJIMTZSN2xuYXZlcF9wQ0xPYTNhRTIzVElQUVZCUWZURjdYazJTU2NqNlgybkZJX1pCek5scjNpaUNpTGNSLXZndnZZZXpTQ0N3VGxZVnowYkNvbm80bWpDSW4wMVV1VUZKaEZacWF1WTN3MUJxY0dSdWpCdllvN2JIR3lfTGM3NnlOdw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 00:30:00 GMT",
+  "published_ts": 1783902600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RGSUR2QnZDb0VoSlZLUklaU0RqVEpseEtkZFZTQ0hzenRMcDRzdWFwNjJIMTZSN2xuYXZlcF9wQ0xPYTNhRTIzVElQUVZCUWZURjdYazJTU2NqNlgybkZJX1pCek5scjNpaUNpTGNSLXZndnZZZXpTQ0N3VGxZVnowYkNvbm80bWpDSW4wMVV1VUZKaEZacWF1WTN3MUJxY0dSdWpCdllvN2JIR3lfTGM3NnlOdw?oc=5\" target=\"_blank\">SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Reuters",
+    "CNA"
+   ],
+   "titles": [
+    "SK Hynix sinks after NASDAQ debut amid profit-taking, easing earnings optimism - CNA"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock declined following its Nasdaq listing debut due to profit-taking and moderating earnings sentiment. The stock move reflects market reaction to the listing event and prevailing optimism levels rather than new fundamental information about the company or memory markets."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "fb3516af04ea7ca35ce3814332aac6595ba00591",
+  "source": "Financial Times",
+  "topic": "holding",
+  "title": "Traders braced for won volatility after blockbuster SK Hynix listing - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzVIZFJpbldvYWRVcV9JcnBjUTNtSjBtdERyWXFxUWZDMVVxTkZwU1lSRkh2NVhPa3cwbUNUU1FyVTY1UmY3b01CcV9JdWg3M3JsY2JFcl9KX3M0QUJTa2xDcDhMajRwUTIydUpJOFc0NzcyNGtNbFl5dnQwdDk3Z2RpMlE?oc=5",
+  "published_at": "Mon, 13 Jul 2026 01:41:46 GMT",
+  "published_ts": 1783906906,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzVIZFJpbldvYWRVcV9JcnBjUTNtSjBtdERyWXFxUWZDMVVxTkZwU1lSRkh2NVhPa3cwbUNUU1FyVTY1UmY3b01CcV9JdWg3M3JsY2JFcl9KX3M0QUJTa2xDcDhMajRwUTIydUpJOFc0NzcyNGtNbFl5dnQwdDk3Z2RpMlE?oc=5\" target=\"_blank\">Traders braced for won volatility after blockbuster SK Hynix listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Financial Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix listing triggers currency volatility concerns. SK Hynix is a major DRAM holding; the listing itself is a corporate event that could affect trading patterns and fund composition, but the story focuses on won volatility rather than business fundamentals or memory market impact."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "b539f629333e6aca7b809b3ab716e84c7151196c",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung Repair Costs to Rise This Summer as Memory Prices Climb - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEZYUHlKX09yNnRjRHFVMlBZYmlUZzBQb0Q3MjdtRWx1S0w0bU5USGdkeUVMRy1VSUV0YTRIVTAzeEp5bWJReTZQa2x0S0w1T0tjSG9nRWg0dC1oakF0WWFnQ3JrQVhfd2swS1VlOXdOekxVdTduQWZpVnNraHJzT1hjLVczRko1R0R5VDM3Rl90WDQ5RHJkQ2JvVkFkWVAwVXc?oc=5",
+  "published_at": "Mon, 13 Jul 2026 00:40:19 GMT",
+  "published_ts": 1783903219,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEZYUHlKX09yNnRjRHFVMlBZYmlUZzBQb0Q3MjdtRWx1S0w0bU5USGdkeUVMRy1VSUV0YTRIVTAzeEp5bWJReTZQa2x0S0w1T0tjSG9nRWg0dC1oakF0WWFnQ3JrQVhfd2swS1VlOXdOekxVdTduQWZpVnNraHJzT1hjLVczRko1R0R5VDM3Rl90WDQ5RHJkQ2JvVkFkWVAwVXc?oc=5\" target=\"_blank\">Samsung Repair Costs to Rise This Summer as Memory Prices Climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Seoul Economic Daily reports that Samsung repair costs are rising due to climbing memory prices. This indicates DRAM/NAND pricing strength entering summer, a leading indicator of the memory cycle and demand conditions. However, the story is framed as a consumer-facing repair-cost impact rather than reporting a hard price benchmark or supply event, making it soft evidence of price movements rather than a concrete market development."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "4e6862471d1b9e7bd92b69d9eef8ba070ef3f13e",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix's Local Shares Fall Despite Historic U.S. Debut - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3hyaEQ0bW1wSzNscFRKaHRtUy1pbklKc1REN09wNDBoc2NTNEpTckFieVJRRG9PZDNVelpSTWdGX2JzS1lQUUxRTTVhS2Fib2NzTkRHdUxlX3JIZENiZEwzY3ZSV3g5V2hvaHo4TFc0elJRMmIwMWVnR19IMUZCbllZamxlRHh1U19YTHJtaTQ0eXZWVlluWldlTjY5SUJFb0xzaXlLTGtXZVpX?oc=5",
+  "published_at": "Mon, 13 Jul 2026 04:15:18 GMT",
+  "published_ts": 1783916118,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3hyaEQ0bW1wSzNscFRKaHRtUy1pbklKc1REN09wNDBoc2NTNEpTckFieVJRRG9PZDNVelpSTWdGX2JzS1lQUUxRTTVhS2Fib2NzTkRHdUxlX3JIZENiZEwzY3ZSV3g5V2hvaHo4TFc0elJRMmIwMWVnR19IMUZCbllZamxlRHh1U19YTHJtaTQ0eXZWVlluWldlTjY5SUJFb0xzaXlLTGtXZVpX?oc=5\" target=\"_blank\">SK Hynix's Local Shares Fall Despite Historic U.S. Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's local shares declined despite the company's historic U.S. market debut. This is a stock price movement tied to a significant corporate event (U.S. listing), but without concrete details on valuation impact, capital-raising amounts, or market implications for the memory cycle itself, it scores as relevant but soft analysis rather than a hard catalyst."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "1ec596c1017b4d7053204f62ec0480ae30d781eb",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Watch SK Hynix Shares Slump in South Korea After US Listing - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1czZ1F1WS1WTVZBM19EcXBJdTBHNnNQNWlVVll4ckNPQ09saVVOcDdPWEVSenhBZ21jamZoY0Z0d19tWXhuaDd6QzBOaTdEcHRKdy0xeGtsQ0FhVGhjWVJsS01ZOEJRaUc4WFR6a2U3aDRXaGVkWUdCNTg3UEJCVnk0MFNQdUZFekJOQVdxYjk2dkt5cHdHcFFBcTFEY1hHa1BYd081eHJfUmlr?oc=5",
+  "published_at": "Mon, 13 Jul 2026 00:00:00 GMT",
+  "published_ts": 1783900800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1czZ1F1WS1WTVZBM19EcXBJdTBHNnNQNWlVVll4ckNPQ09saVVOcDdPWEVSenhBZ21jamZoY0Z0d19tWXhuaDd6QzBOaTdEcHRKdy0xeGtsQ0FhVGhjWVJsS01ZOEJRaUc4WFR6a2U3aDRXaGVkWUdCNTg3UEJCVnk0MFNQdUZFekJOQVdxYjk2dkt5cHdHcFFBcTFEY1hHa1BYd081eHJfUmlr?oc=5\" target=\"_blank\">Watch SK Hynix Shares Slump in South Korea After US Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares declined in South Korean trading following its US listing. This is a market-driven price movement reflecting investor reaction to the listing event, not a fundamental development in memory demand, production, or the company's business operations."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "d9efc6f140d004d2a140d75f4f837bb41ba1e38d",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK hynix Hints at Second US Memory Fab - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52LTdjZVRHMG9pQUJLeU5BblNwQl9NbHBjZVpaRWpyTW0wY19KUExWSWJfUFZhemdnZHNVV3VuOEdFcml3Mkc3MWlHdWl0dm1CU0xWTjJ6aEJFdjBJQ0F4MHVySDBCWHR0MlZMMkZ1VHg5R0dr?oc=5",
+  "published_at": "Mon, 13 Jul 2026 02:56:54 GMT",
+  "published_ts": 1783911414,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE52LTdjZVRHMG9pQUJLeU5BblNwQl9NbHBjZVpaRWpyTW0wY19KUExWSWJfUFZhemdnZHNVV3VuOEdFcml3Mkc3MWlHdWl0dm1CU0xWTjJ6aEJFdjBJQ0F4MHVySDBCWHR0MlZMMkZ1VHg5R0dr?oc=5\" target=\"_blank\">SK hynix Hints at Second US Memory Fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Businesskorea"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix signals potential plans for a second US memory manufacturing facility. This indicates strategic capacity expansion but remains at the hint/discussion stage rather than a confirmed announcement or investment decision."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "5b4479a70fc1f07d892de07627d1bbca72987180",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "SK Hynix Falls In Seoul After Strong Nasdaq Debut: MU, SNDK, US Memory Stocks Decline Overnight Amid Fresh US-Iran Tensions - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbEZ6eGl3VWxhVlpyX01zYml0NC04a2NFU2VhM1R1eWZja2NOZTZQclZBcS1MMVRfME1MNGl3bnlpX3VnMm5jdGI0aFlPcUoySjBGdEVwM2xTMVZUQjJGazlCSVlHei1SUzU3ZnRPUlI0Y3B6Vjhlc3hPSEI2SHh3YUU5akoyOV9SUU5ZQUtxejAwNl9WcWtmazQ2MlE3a3dsVjlNWVVRRk81eVhKaG8xQVJZc1lCRWM3QUJCd3VfSl9TbmdwQVlQRDU1b0p4emJaelBfM0pRdEZpeGRzOTh6ekVEYk1ReDAwUjJROC1SNVhaNUlrSWtBb0FWRkM0VUpHal9pOFZpV1lNSXdnLVA5SmVR?oc=5",
+  "published_at": "Mon, 13 Jul 2026 02:20:00 GMT",
+  "published_ts": 1783909200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQbEZ6eGl3VWxhVlpyX01zYml0NC04a2NFU2VhM1R1eWZja2NOZTZQclZBcS1MMVRfME1MNGl3bnlpX3VnMm5jdGI0aFlPcUoySjBGdEVwM2xTMVZUQjJGazlCSVlHei1SUzU3ZnRPUlI0Y3B6Vjhlc3hPSEI2SHh3YUU5akoyOV9SUU5ZQUtxejAwNl9WcWtmazQ2MlE3a3dsVjlNWVVRRk81eVhKaG8xQVJZc1lCRWM3QUJCd3VfSl9TbmdwQVlQRDU1b0p4emJaelBfM0pRdEZpeGRzOTh6ekVEYk1ReDAwUjJROC1SNVhaNUlrSWtBb0FWRkM0VUpHal9pOFZpV1lNSXdnLVA5SmVR?oc=5\" target=\"_blank\">SK Hynix Falls In Seoul After Strong Nasdaq Debut: MU, SNDK, US Memory Stocks Decline Overnight Amid Fresh US-Iran Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix declined in Seoul following a strong Nasdaq debut; US memory stocks including Micron and SanDisk also fell overnight amid US-Iran tensions. The decline appears driven by macro geopolitical risk rather than memory-specific fundamentals or holdings news."
+  },
+  "buffered_ts": 1783921983.323572
+ },
+ {
+  "id": "96f55018fc9cecba8e03d9b3056baba872cdf59c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Shares Shed 10% in Seoul Amid Broad Asian Rout - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQl9jaHNEdE83R25wWmFmSHZhRHh0NW5mNVhWM3NUaldiU3Q2MVQzaUw5Zzc1ejFqUjJyRDlfX2ZWcjRNcnBWUlJQZ28xWGFWMUtNbV9aaDdNUnljcW1SNkxyU2JDRTFDZk12dXpNd2hZNGE5V3FZdktRczYtcDZZbWpvdEdTQURhUW9CanJKcHVsZw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 02:27:00 GMT",
+  "published_ts": 1783909620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQl9jaHNEdE83R25wWmFmSHZhRHh0NW5mNVhWM3NUaldiU3Q2MVQzaUw5Zzc1ejFqUjJyRDlfX2ZWcjRNcnBWUlJQZ28xWGFWMUtNbV9aaDdNUnljcW1SNkxyU2JDRTFDZk12dXpNd2hZNGE5V3FZdktRczYtcDZZbWpvdEdTQURhUW9CanJKcHVsZw?oc=5\" target=\"_blank\">SK Hynix Shares Shed 10% in Seoul Amid Broad Asian Rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Yahoo Finance",
+    "BeInCrypto",
+    "CryptoRank"
+   ],
+   "titles": [
+    "SK Hynix Shares Shed 10% in Seoul Amid Broad Asian Rout - BeInCrypto",
+    "SK Hynix Shares Shed 10% in Seoul Amid Broad Asian Rout - CryptoRank"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix shares fell 10% in Seoul trading as part of a broader Asian market decline. The stock move appears driven by general market conditions rather than company-specific or memory-sector catalysts."
+  },
+  "buffered_ts": 1783921983.323572
  }
 ]
