@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "id": "1770e3871662044294ce6fad8486da84fab2c2ce",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Citigroup Adjusts Price Target on Seagate Technology to $1,240 From $1,150, Maintains Buy Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2kybUJDTXNzQ1N1c0R4V3hKbGJ4SzRPNHoyci0yTWtxZXVjYmVtNEJ2cDFDY0ZxY2g3RE85azgzbW5LVG9kOEpZZDhScjAweDdmQ2FxYloyblVvMElQNVRCV2Z5aVp5OWxCUGstQWJjWjRkbElId3lRWmxrSEx6WFhZM2I2M0Q4LXRtS3lhZ3hSN3dobFc5SVBRZFU5U0sybGVYWVlZMVpQSVZyQnIxOEw0ck1TZ3lHQ2dkVW5zM3pkZUNzYmlRcDBINHk5RDdyX3NRRlBqYThfdmhmRWZj?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:06:32 GMT",
+  "published_ts": 1783944392,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2kybUJDTXNzQ1N1c0R4V3hKbGJ4SzRPNHoyci0yTWtxZXVjYmVtNEJ2cDFDY0ZxY2g3RE85azgzbW5LVG9kOEpZZDhScjAweDdmQ2FxYloyblVvMElQNVRCV2Z5aVp5OWxCUGstQWJjWjRkbElId3lRWmxrSEx6WFhZM2I2M0Q4LXRtS3lhZ3hSN3dobFc5SVBRZFU5U0sybGVYWVlZMVpQSVZyQnIxOEw0ck1TZ3lHQ2dkVW5zM3pkZUNzYmlRcDBINHk5RDdyX3NRRlBqYThfdmhmRWZj?oc=5\" target=\"_blank\">Citigroup Adjusts Price Target on Seagate Technology to $1,240 From $1,150, Maintains Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Citigroup raises price target on Seagate (STX), a DRAM ETF holding, from $1,150 to $1,240 while maintaining Buy rating. This is analyst opinion/price-target adjustment on a known holding, not a concrete event or new company-disclosed information."
+  },
+  "buffered_ts": 1783945206.0276084
+ },
+ {
+  "id": "1a4b5c0f52c2a85c064e0b106c9630c4a190d6fb",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix stock drops, chip sector declines as AI trade angst returns - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHBBdzRlY3hKUUllYlZybHp0TE1SYUlPWHVJbXIyOHNpMnZzMjJGT21GN3NqNnZ2bVdCTGlIMnZjSFlXUjczTVBzR3BtZGc3UVhoWEEza0xoR1Fmc0k2RnVwbDdVN05MWmtSdVRJM3FHTU5VMzljcEZxT01iRWlRREp4M2xoT3RDM1ZVX1Yza295Wk9ocHlOY0dHdHFZazlFejA4NGdWSDhzMXQ1UEp2ZF9rSEo5c2dZRnVMMGdfM1pIUQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:07:51 GMT",
+  "published_ts": 1783944471,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHBBdzRlY3hKUUllYlZybHp0TE1SYUlPWHVJbXIyOHNpMnZzMjJGT21GN3NqNnZ2bVdCTGlIMnZjSFlXUjczTVBzR3BtZGc3UVhoWEEza0xoR1Fmc0k2RnVwbDdVN05MWmtSdVRJM3FHTU5VMzljcEZxT01iRWlRREp4M2xoT3RDM1ZVX1Yza295Wk9ocHlOY0dHdHFZazlFejA4NGdWSDhzMXQ1UEp2ZF9rSEo5c2dZRnVMMGdfM1pIUQ?oc=5\" target=\"_blank\">SK Hynix stock drops, chip sector declines as AI trade angst returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock declined as part of a broader chip sector pullback driven by AI trade sentiment concerns. This is a price movement story tied to market sentiment rather than a concrete operational or earnings-driven catalyst."
+  },
+  "buffered_ts": 1783945206.0276084
+ },
+ {
+  "id": "9e1f26a6965c5b77f8e1cf6ac0b67f7e445b28e6",
+  "source": "qz.com",
+  "topic": "holding",
+  "title": "SK Hynix CEO Kwak Noh-jung warns of worst-ever memory shortage in 2027 - qz.com",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbWZEQWlsUFZucUVSZkl5ZW15RUppTnNXUVpuQUZWMWJpN2NWTHBLUXdtZF9WUS1kcS0zTnlnc0dWNmdYX2VCSURaRkNXT2x1SzEzUW92dzNyNWpFc0dqUjdGM0RPSEs1ZU5uTjl4S3o?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:11:50 GMT",
+  "published_ts": 1783944710,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbWZEQWlsUFZucUVSZkl5ZW15RUppTnNXUVpuQUZWMWJpN2NWTHBLUXdtZF9WUS1kcS0zTnlnc0dWNmdYX2VCSURaRkNXT2x1SzEzUW92dzNyNWpFc0dqUjdGM0RPSEs1ZU5uTjl4S3o?oc=5\" target=\"_blank\">SK Hynix CEO Kwak Noh-jung warns of worst-ever memory shortage in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "qz.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns of a worst-ever memory shortage expected in 2027, citing supply constraints. While this is from a major holding and addresses industry capacity/demand dynamics relevant to the memory cycle, it is a forward-looking warning and forecast rather than a confirmed event or hard production/capacity decision, making it analyst-opinion-grade material."
+  },
+  "buffered_ts": 1783945206.0276084
+ }
+]
