@@ -70,5 +70,905 @@
    "summary": "SK Hynix CEO warns of a worst-ever memory shortage expected in 2027, citing supply constraints. While this is from a major holding and addresses industry capacity/demand dynamics relevant to the memory cycle, it is a forward-looking warning and forecast rather than a confirmed event or hard production/capacity decision, making it analyst-opinion-grade material."
   },
   "buffered_ts": 1783945206.0276084
+ },
+ {
+  "id": "693ab03683251cd152fa4286ff0eb7e0d0504ddc",
+  "source": "The Corner .eu",
+  "topic": "holding",
+  "title": "South Korean chipmaker SK Hynix’s IPO on Nasdaq becomes largest by foreign company on Wall Street - The Corner .eu",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjIzSDlZM3BnYWY0VnRRVDJsbk9mM0E1bnNjd1YwNTJTSWppZlVxNXk4M3JtV3lYUDRJU1FPaWJXX1FZRTIwZndFMVc4OTM5alRPR2RjazZRR2NjWjVnbVlLWjRScG1neEVlMVN0dEFlcnhXWURNOWZvREs5TnhCTkpfNGZtNzdtVVVHaHhoN20xaHFiSGJoZV9ldXA1UXpmeDQ5U1F4akpFLUFBcDZtTDJUOXBucENJc2N4ckpHeW1GVFE5SEVQOG1SOGhQR2IwaTJGM0NWUEpiMEk?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:55:45 GMT",
+  "published_ts": 1783947345,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjIzSDlZM3BnYWY0VnRRVDJsbk9mM0E1bnNjd1YwNTJTSWppZlVxNXk4M3JtV3lYUDRJU1FPaWJXX1FZRTIwZndFMVc4OTM5alRPR2RjazZRR2NjWjVnbVlLWjRScG1neEVlMVN0dEFlcnhXWURNOWZvREs5TnhCTkpfNGZtNzdtVVVHaHhoN20xaHFiSGJoZV9ldXA1UXpmeDQ5U1F4akpFLUFBcDZtTDJUOXBucENJc2N4ckpHeW1GVFE5SEVQOG1SOGhQR2IwaTJGM0NWUEpiMEk?oc=5\" target=\"_blank\">South Korean chipmaker SK Hynix’s IPO on Nasdaq becomes largest by foreign company on Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Corner .eu</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Corner .eu"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed its Nasdaq IPO, the largest by a foreign company on Wall Street. This is a concrete, material corporate event affecting a major holding in the DRAM fund with significant capital-market implications."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "5b3e5139f1755546b50944e633fd1d23e7a622d6",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM01PdUxTNi12ME5Wczc4ZGJsbHNOajFKMDJYTGlYdjNNc2xYQXY5NWQ4d0xTM3JfSFotTXZaZ1l6RElNYjhHaE8zVTJzY0xvVUtoQTVPV0RCM3RUY0pjeTNVekp6RE9Kb2ZBbldLWGFpcnIwZloxWmdWek5pZHU3YVp3WXU2NkRWTUUwSWdEaHItbW9rVk9LTnJsMTRwcHVndDFMTkVCcmhNZ2VfaDVmYUxDY0l0c1h1cDN4UHR4V3hoOFJ5R2c?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:35:05 GMT",
+  "published_ts": 1783953305,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNM01PdUxTNi12ME5Wczc4ZGJsbHNOajFKMDJYTGlYdjNNc2xYQXY5NWQ4d0xTM3JfSFotTXZaZ1l6RElNYjhHaE8zVTJzY0xvVUtoQTVPV0RCM3RUY0pjeTNVekp6RE9Kb2ZBbldLWGFpcnIwZloxWmdWek5pZHU3YVp3WXU2NkRWTUUwSWdEaHItbW9rVk9LTnJsMTRwcHVndDFMTkVCcmhNZ2VfaDVmYUxDY0l0c1h1cDN4UHR4V3hoOFJ5R2c?oc=5\" target=\"_blank\">SK Hynix Just Sent a Huge AI Demand Signal With Historic U.S. Listing for SKHY Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix completed its historic U.S. listing (SKHY stock), a concrete corporate action that increases accessibility for U.S. investors and signals the company's confidence in AI-driven memory demand. This is a material development for a core fund holding."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "4a709773afa2ee0be35544da8154196eabfb9a3d",
+  "source": "Blocks & Files",
+  "topic": "holding",
+  "title": "Sandisk sets up flash chip supply agreement with Meta - Blocks & Files",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXJPYXlPclVOZXU0QXVWUW9XcFZVWkJyc0U1c1pEakQ1bzBLc2stclFSdS1hbi1id1JLanlFRWhwN3pDU2tyZHZPN2dzRTZmdVZFZ2VZVElqejBhN3N0dmVId3JIbFFmbzhCYzUzQjhnZDh5Z19YN3U2N3dBbHY2YXFTMF8yWFlOTGVBRGZjUHA3QzFsUXpBMFp6c2FFOWI0dnpjY0gtMi04VGpQbFE?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:09:52 GMT",
+  "published_ts": 1783948192,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXJPYXlPclVOZXU0QXVWUW9XcFZVWkJyc0U1c1pEakQ1bzBLc2stclFSdS1hbi1id1JLanlFRWhwN3pDU2tyZHZPN2dzRTZmdVZFZ2VZVElqejBhN3N0dmVId3JIbFFmbzhCYzUzQjhnZDh5Z19YN3U2N3dBbHY2YXFTMF8yWFlOTGVBRGZjUHA3QzFsUXpBMFp6c2FFOWI0dnpjY0gtMi04VGpQbFE?oc=5\" target=\"_blank\">Sandisk sets up flash chip supply agreement with Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blocks & Files</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Blocks & Files"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk has signed a flash chip supply agreement with Meta, a concrete deal that secures demand for a major holding and reflects AI-infrastructure capex pulling memory/storage demand."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "043d8171b30cddba6bf0b329c4edebc6562fe918",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "SK Hynix: ADRs Begin Trading Under New Ticker - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWY4cEFFWFFCRGZzbWpCRDRaanQ3T25mTlpGXzRXdXEzZGlIZlJucWhCRUt4VGpmZWpTREd1Um5odDlFZ3ZQcElHQkFxQnlGZUhoOF9jT090b19jV2s0WkRKenFOTXBCa1Q2b1VPZkdGTGw4MXdiMVVROHNtOG1LRUJCS3Voc2oxOEF6LWY5dndXQQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:19:12 GMT",
+  "published_ts": 1783948752,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWY4cEFFWFFCRGZzbWpCRDRaanQ3T25mTlpGXzRXdXEzZGlIZlJucWhCRUt4VGpmZWpTREd1Um5odDlFZ3ZQcElHQkFxQnlGZUhoOF9jT090b19jV2s0WkRKenFOTXBCa1Q2b1VPZkdGTGw4MXdiMVVROHNtOG1LRUJCS3Voc2oxOEF6LWY5dndXQQ?oc=5\" target=\"_blank\">SK Hynix: ADRs Begin Trading Under New Ticker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix ADRs (American Depositary Receipts) have begun trading under a new ticker symbol. This is a concrete corporate action affecting one of the fund's major holdings and may impact index inclusion, trading mechanics, and investor accessibility to the stock."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "ed6fa6a20e3c6224b6c9854d00433e2af4ad8b46",
+  "source": "Briefs Finance",
+  "topic": "holding",
+  "title": "SK Hynix Shares Surge 13% on Nasdaq Debut - Briefs Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHBYRHZpdFhNMnhPWnE0ZWo2RTJHMlZoakxjMDZQbFhZWk82S2JmTk5QY3FwVXRMdUE3WV9yOWpxa1hIeVZfdWdSb0VYc21OZEUzb2dLMllQMTRuWHd1YjhVS0pRZzJJTFd1cFpGRnVPOEhIU2RXam5mc0pHSDduZFBVaXlUU1FHTk1jNzAydS0ydw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:25:54 GMT",
+  "published_ts": 1783945554,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHBYRHZpdFhNMnhPWnE0ZWo2RTJHMlZoakxjMDZQbFhZWk82S2JmTk5QY3FwVXRMdUE3WV9yOWpxa1hIeVZfdWdSb0VYc21OZEUzb2dLMllQMTRuWHd1YjhVS0pRZzJJTFd1cFpGRnVPOEhIU2RXam5mc0pHSDduZFBVaXlUU1FHTk1jNzAydS0ydw?oc=5\" target=\"_blank\">SK Hynix Shares Surge 13% on Nasdaq Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Briefs Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Briefs Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix shares surged 13% on their Nasdaq debut, a concrete market event representing a significant price move for a major fund holding with a distinct catalyst (the listing itself) separate from earnings or ongoing operations."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "bb8f1cb8ec05e658d676ebe4f12132b22a0901b7",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung Accelerates AI Chip Factory Plan - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONi1nSFowUElYVm1QMDVMMHVFWE5renVRcmZIa3F5YTJ5RzlVd0ROMmE3OTVWMFJLM0MxWFN2LUNjNVBKdkZLTE9ENzU3bXVvUW9JUTNzNTBVVk5MemF6cWZha3dfUDdjaXdpMkNkWmhjdU1nRFZmV0VBZWRsZWo3UWE2cnprRVA5QWRWaUViS2R4Q1RmRmxXdDQ5WjMyS0VOb2c?oc=5",
+  "published_at": "Mon, 13 Jul 2026 11:59:18 GMT",
+  "published_ts": 1783943958,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONi1nSFowUElYVm1QMDVMMHVFWE5renVRcmZIa3F5YTJ5RzlVd0ROMmE3OTVWMFJLM0MxWFN2LUNjNVBKdkZLTE9ENzU3bXVvUW9JUTNzNTBVVk5MemF6cWZha3dfUDdjaXdpMkNkWmhjdU1nRFZmV0VBZWRsZWo3UWE2cnprRVA5QWRWaUViS2R4Q1RmRmxXdDQ5WjMyS0VOb2c?oc=5\" target=\"_blank\">Samsung Accelerates AI Chip Factory Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung accelerates its AI chip factory plan, representing a concrete capital allocation decision that addresses increased demand for memory chips in AI infrastructure. This is a material development for Samsung's memory business and directly relevant to the fund's holding."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "a086b8394b22c6560f34e9c1a47d82a8f88e0e5c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Falls In Seoul After Strong Nasdaq Debut: MU, SNDK, US Memory Stocks Decline Overnight Amid Fresh US-Iran Tensions - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzhUdWRjVHdtWG03Wi1sSUpMa3JqcnJKQUNNUEpEWGJqSGRaWjh3UXVKTFRFcTIxUlk3c2FHSF9fRC1vV1JBN3dwVWFXTnpZX1doN0FlbkFHWE1faHhzWmVvLWFaWEl6SWZyRllLdjdEU2hQZEJvd01TQUxzN1VCNWVhSnczRy01SzF4YzQ3MlNFQlpLM1E0?oc=5",
+  "published_at": "Mon, 13 Jul 2026 02:20:00 GMT",
+  "published_ts": 1783909200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzhUdWRjVHdtWG03Wi1sSUpMa3JqcnJKQUNNUEpEWGJqSGRaWjh3UXVKTFRFcTIxUlk3c2FHSF9fRC1vV1JBN3dwVWFXTnpZX1doN0FlbkFHWE1faHhzWmVvLWFaWEl6SWZyRllLdjdEU2hQZEJvd01TQUxzN1VCNWVhSnczRy01SzF4YzQ3MlNFQlpLM1E0?oc=5\" target=\"_blank\">SK Hynix Falls In Seoul After Strong Nasdaq Debut: MU, SNDK, US Memory Stocks Decline Overnight Amid Fresh US-Iran Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix fell in Seoul trading while US memory stocks (MU, SNDK) declined overnight amid US-Iran tensions. Stock price movements driven by macro/geopolitical concerns rather than memory-cycle fundamentals or concrete company-specific events."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "aa1b55a41c3503305c31f141fa21f575507a1ffc",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Evercore ISI Adjusts Price Target on Sandisk Corporation to $3,100 From $1,400, Maintains Outperform Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcnE1Yllja2IxemhGTVZaTTh3cjZUUFB1WDNxTWtlQlU3Q3lNT2w5d0c2emNJeWw4UG53UkZlWUIybHNpUzZ1QlhhZ1RSa2hCOE9yMUk5RTVHbVRleTZyRl9aLUpja2JrcGhGT3U2UnJNbDN5R1V3SGdNUmZOTEtUb08yTjJWMEJDbEljQ0VLaWlmLVp3NG1FNy1JYjhrY0dTaFJEd3dBWGxTY1I4Qk40cUx0WWNoZEI4NmM2MHg5SklRRjg3aUYzMlRZTG1xX0Q4aVdRRHFPaW1RS3lQVUx5OThYZWo?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:14:40 GMT",
+  "published_ts": 1783948480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcnE1Yllja2IxemhGTVZaTTh3cjZUUFB1WDNxTWtlQlU3Q3lNT2w5d0c2emNJeWw4UG53UkZlWUIybHNpUzZ1QlhhZ1RSa2hCOE9yMUk5RTVHbVRleTZyRl9aLUpja2JrcGhGT3U2UnJNbDN5R1V3SGdNUmZOTEtUb08yTjJWMEJDbEljQ0VLaWlmLVp3NG1FNy1JYjhrY0dTaFJEd3dBWGxTY1I4Qk40cUx0WWNoZEI4NmM2MHg5SklRRjg3aUYzMlRZTG1xX0Q4aVdRRHFPaW1RS3lQVUx5OThYZWo?oc=5\" target=\"_blank\">Evercore ISI Adjusts Price Target on Sandisk Corporation to $3,100 From $1,400, Maintains Outperform Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Evercore ISI raised its price target on SanDisk (SNDK) to $3,100 from $1,400 while maintaining an Outperform rating. This is an analyst note reflecting revised outlook on a core fund holding, but represents opinion and valuation adjustment rather than a concrete market event or new fundamental disclosure from the company itself."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "55d926fbe41e57095fd2ad846aa7370e852ec12c",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix's enthusiasm reflects a structural shift in AI investment – Plexo Capital’s Lo Toney (SP500:) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1hlNmpIY053T21nZE5wYl9UQTNZWHg5YUZHbHN6YWR5OFdyUTZma0d4YzY3TnRtMHkzZ3JKdGJIWHpDTk5EVWkzVzJCZ2szZ3VaYl9rYkk0YWJjcFRscUJ6Q1AxTkotX0FncWNBc3l3YlFOVEVTTkRjZ2tXTnZKMXdRdHZmLUlqdVdlRGFkdXhkbno4dGcyT3NmcFN5Z09SOUJEOTNsc3RoVnVHYUlqWlFyQWk5eXd0bWNUcDNCTkhKVXNVNVE?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:43:01 GMT",
+  "published_ts": 1783953781,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1hlNmpIY053T21nZE5wYl9UQTNZWHg5YUZHbHN6YWR5OFdyUTZma0d4YzY3TnRtMHkzZ3JKdGJIWHpDTk5EVWkzVzJCZ2szZ3VaYl9rYkk0YWJjcFRscUJ6Q1AxTkotX0FncWNBc3l3YlFOVEVTTkRjZ2tXTnZKMXdRdHZmLUlqdVdlRGFkdXhkbno4dGcyT3NmcFN5Z09SOUJEOTNsc3RoVnVHYUlqWlFyQWk5eXd0bWNUcDNCTkhKVXNVNVE?oc=5\" target=\"_blank\">SK Hynix's enthusiasm reflects a structural shift in AI investment – Plexo Capital’s Lo Toney (SP500:)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary from Plexo Capital discussing SK Hynix's positive sentiment as reflecting a structural shift in AI investment. Opinion-based analysis of a holding company's strategic positioning rather than a concrete event or new material development."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "f7045d653a04b7de041d5643e39b5767a6ebb8ec",
+  "source": "odaily.news",
+  "topic": "holding",
+  "title": "“Sell the News” or Cycle Top? The Real Logic Behind the Sharp Drop in Samsung and SK Hynix Stock Prices - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pd1hlMmNwQ0NOU0xjWGJBcm94b0RJMUloRUk5dFVrMXBzYVhNRUJrR2FmRnhjWjlSNVlYRHN1dlBvQ2h4bWRDbU1CVUVfS3Q2?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:28:01 GMT",
+  "published_ts": 1783949281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pd1hlMmNwQ0NOU0xjWGJBcm94b0RJMUloRUk5dFVrMXBzYVhNRUJrR2FmRnhjWjlSNVlYRHN1dlBvQ2h4bWRDbU1CVUVfS3Q2?oc=5\" target=\"_blank\">“Sell the News” or Cycle Top? The Real Logic Behind the Sharp Drop in Samsung and SK Hynix Stock Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "odaily.news"
+   ],
+   "titles": [
+    "“Sell the News” or Cycle Top? The Real Logic Behind the Plummeting Stock Prices of Samsung and SK Hynix - odaily.news",
+    "\"News Selling\" or Cycle Peak? The Real Logic Behind the Plunge in Samsung and SK Hynix Stock Prices - odaily.news"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis of recent sharp declines in Samsung and SK hynix stock prices, examining whether the drops reflect a 'sell the news' reaction to earnings or signal a broader memory-cycle top. Commentary on valuation and market sentiment rather than reporting new events or concrete catalysts."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "1e8838e1c4fec65010d112c965216cb3380b6447",
+  "source": "The FPS Review",
+  "topic": "holding",
+  "title": "SK Hynix CEO Says 2027 Will Be Memory's Worst Year Ever, And It Will Not Get Better Before 2030 - The FPS Review",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTBOZ2IwbF9GNm5tbVNJS1RRakRoS2Q4SUdzallxek9jY1BubG4wV25vLWRyeHNTSzNuZjJMMFNEZ29ZNW5HNTBfaEdtNnVtMXhZVWJnM01QRGUyczBkOVNqb291SjNydWZGaU9OUGhYbU9pUGY3REZWUnFJTzdoTjdLcklWQWtSbU42ZHdyUy13Y0dSdHc2MlJ3QUV1N3BxMll1MW5lVzhVc3dtS1ZJc1VieWFmM3dnaGZ0YkJmdXhKaW5rVXNUYUFqRHpiclk?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:25:00 GMT",
+  "published_ts": 1783945500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTBOZ2IwbF9GNm5tbVNJS1RRakRoS2Q4SUdzallxek9jY1BubG4wV25vLWRyeHNTSzNuZjJMMFNEZ29ZNW5HNTBfaEdtNnVtMXhZVWJnM01QRGUyczBkOVNqb291SjNydWZGaU9OUGhYbU9pUGY3REZWUnFJTzdoTjdLcklWQWtSbU42ZHdyUy13Y0dSdHc2MlJ3QUV1N3BxMll1MW5lVzhVc3dtS1ZJc1VieWFmM3dnaGZ0YkJmdXhKaW5rVXNUYUFqRHpiclk?oc=5\" target=\"_blank\">SK Hynix CEO Says 2027 Will Be Memory's Worst Year Ever, And It Will Not Get Better Before 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The FPS Review</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The FPS Review"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix CEO forecasts 2027 as memory industry's worst year with no recovery before 2030. This is executive commentary and outlook rather than a concrete event or new hard data, but signals potential severe demand/pricing weakness ahead that could materially affect the fund's holdings."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "58cd84de742d8144ce9964247bc2d6bce812dee6",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Micron, SanDisk, Western Digital Fall 6% as SK Hynix's Weak Outlook Rattles Memory Stocks - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXdPRndnQm92bEx4cHdpUWhqZXZITE9yMUhhYW1ocnRXRlNPSXd6YVdLZHprdlFESk5JalJMMjBqa0MtV0trX1h6OXRJVUwyYUZSQTlkUHNfQVdPMmJIekxrT0ZXUkVWRHJCN3ZMSl83UG90RWIwb1laU2RWdWF1a2dWN3laZ1J6dnRHRk1aWEFsVzJQYjZxMUJfNTFnc0l3eGd5RmFXOC02Z2d4ZHBYVmNQRjVQbmxacG96Zk1yTVk5SmZVR2lNNw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:35:27 GMT",
+  "published_ts": 1783949727,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXdPRndnQm92bEx4cHdpUWhqZXZITE9yMUhhYW1ocnRXRlNPSXd6YVdLZHprdlFESk5JalJMMjBqa0MtV0trX1h6OXRJVUwyYUZSQTlkUHNfQVdPMmJIekxrT0ZXUkVWRHJCN3ZMSl83UG90RWIwb1laU2RWdWF1a2dWN3laZ1J6dnRHRk1aWEFsVzJQYjZxMUJfNTFnc0l3eGd5RmFXOC02Z2d4ZHBYVmNQRjVQbmxacG96Zk1yTVk5SmZVR2lNNw?oc=5\" target=\"_blank\">Micron, SanDisk, Western Digital Fall 6% as SK Hynix's Weak Outlook Rattles Memory Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix issued a weak outlook that triggered a 6% selloff in memory-stock holdings (Micron, SanDisk, Western Digital). The move reflects market reaction to guidance, not a new concrete event, making it a 3."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "6008dd317e565db3931eaea06110027959bb9b4b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzJJOHk3ZmpFbFlQX2JtazBYalYzTnM2NE41Z3FVTmlyZ2tqcURqV1EzRmRCQjdoOUp4U3hXc1hTS3hxbnNjZWpvb1VFVEh5T3k3VENOaTd4WHZGZl92ZHFfbGhSWGo4aldPWnM5TEd6SUl5NGJKOWs1LUdtRU1JUHBNdENIa2NKSmxTRTBNWFNLVGQ3MUxIMDBFTkF4dw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:22:17 GMT",
+  "published_ts": 1783952537,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdzJJOHk3ZmpFbFlQX2JtazBYalYzTnM2NE41Z3FVTmlyZ2tqcURqV1EzRmRCQjdoOUp4U3hXc1hTS3hxbnNjZWpvb1VFVEh5T3k3VENOaTd4WHZGZl92ZHFfbGhSWGo4aldPWnM5TEd6SUl5NGJKOWs1LUdtRU1JUHBNdENIa2NKSmxTRTBNWFNLVGQ3MUxIMDBFTkF4dw?oc=5\" target=\"_blank\">Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St."
+   ],
+   "titles": [
+    "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks - 24/7 Wall St."
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and broader chip stocks including Intel and AMD declined 4% amid a market selloff. SK hynix is a major DRAM holding in the fund; the price move reflects market sentiment but lacks a specific operational catalyst distinct from general risk-off trading."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "7bc6ac8d077fb5ba4d08d0e3edb7c8d180960715",
+  "source": "Reuters",
+  "topic": "industry",
+  "title": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:51:44 GMT",
+  "published_ts": 1783947104,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5\" target=\"_blank\">Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Reuters"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Global smartphone shipments in Q2 reached a 13-year low due to memory chip supply constraints. This reflects reduced demand for DRAM and NAND that memory suppliers (fund holdings) serve, indicating a cyclical demand headwind rather than a concrete event or pricing shift. The story confirms weak end-market demand but does not report a new production cut, pricing change, or unexpected guidance revision from a holding."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "52de2a9e557ebc62c243be2761f7d22f0cf254f5",
+  "source": "Fortune",
+  "topic": "holding",
+  "title": "Fortune Tech: Apple-OpenAI lawsuit, SK Hynix stock paradox, Meta data center drama. - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWl9PU3dRQkVxMnhuTFhfR1BsRFowN1I1SmVEOXZPY01mZDduT1JCVHJkVmZWellCRzB3a1Bvamc2d0x1aWN6RWUyM1JsU2hKbVlBcU02SU1DRVpmQjRfelhFTkF5dmlfSXl5WWNOSW94SDRTOEwtSXFB?oc=5",
+  "published_at": "Mon, 13 Jul 2026 09:00:00 GMT",
+  "published_ts": 1783933200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWl9PU3dRQkVxMnhuTFhfR1BsRFowN1I1SmVEOXZPY01mZDduT1JCVHJkVmZWellCRzB3a1Bvamc2d0x1aWN6RWUyM1JsU2hKbVlBcU02SU1DRVpmQjRfelhFTkF5dmlfSXl5WWNOSW94SDRTOEwtSXFB?oc=5\" target=\"_blank\">Fortune Tech: Apple-OpenAI lawsuit, SK Hynix stock paradox, Meta data center drama.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Fortune Tech roundup mentioning SK Hynix alongside Apple-OpenAI lawsuit and Meta data center news. SK Hynix is a key DRAM ETF holding, but without specific detail on the 'stock paradox' or concrete news, this appears to be a general tech news digest rather than a dedicated memory-sector story. Classified as relevant but soft until full article detail emerges."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "ea6410e52f985e244e1342684a4a1196f0a93ddb",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Sandisk Stock Is Falling Again - Why Analysts Love the Memory Play More Than Ever - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjZxRk52YlQxY1NtcUN5Y1lMNGZyZ1k3OGtxSEk0M1lvUURfSVpVM09tQWhHTWpJTF9ESkdUbkxDSTNsektfYVJiRVF6dkxsTlB1WFBvQXQ5UFNsNXdidlpiT3I3SlhqUkJTbXhhVGhPSGR3WnRYTDgzdGNEOWFoR1hfd2RoNW8?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:49:00 GMT",
+  "published_ts": 1783950540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjZxRk52YlQxY1NtcUN5Y1lMNGZyZ1k3OGtxSEk0M1lvUURfSVpVM09tQWhHTWpJTF9ESkdUbkxDSTNsektfYVJiRVF6dkxsTlB1WFBvQXQ5UFNsNXdidlpiT3I3SlhqUkJTbXhhVGhPSGR3WnRYTDgzdGNEOWFoR1hfd2RoNW8?oc=5\" target=\"_blank\">Sandisk Stock Is Falling Again - Why Analysts Love the Memory Play More Than Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's piece on SanDisk (SNDK), a fund holding, discussing analyst sentiment on the memory play amid stock weakness. This is analyst opinion and market reaction rather than a concrete event, earnings release, or new hard information."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "a6c1693802aa0e6ee08e5dd4c369a4e15152633c",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix, Micron, Samsung: AI Is Breaking the Memory Chip Business Model - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzJxUC12QUt5X2JpX3NEZlctdUpPMDdkZ1BxWGsyZklPMFNQXzltSXJrbVJHUUhWdk9VUU1oWFFTdy1xQk9OMHk5M25hcHlSVjd2V3ozc1Nyb0NldDBUVWJQRW1mQkYzMjFEZzVMajZaSlk2aVJSSHpULVVuTHVGTldGSUVxZXhkMWFnN2hMMWdRMkpTZXhYR3lWemdvMENLbzluVjFtNko5cnVXNVBvM2xTdEdzc0RrNi1CbFRXdG4?oc=5",
+  "published_at": "Mon, 13 Jul 2026 10:00:21 GMT",
+  "published_ts": 1783936821,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzJxUC12QUt5X2JpX3NEZlctdUpPMDdkZ1BxWGsyZklPMFNQXzltSXJrbVJHUUhWdk9VUU1oWFFTdy1xQk9OMHk5M25hcHlSVjd2V3ozc1Nyb0NldDBUVWJQRW1mQkYzMjFEZzVMajZaSlk2aVJSSHpULVVuTHVGTldGSUVxZXhkMWFnN2hMMWdRMkpTZXhYR3lWemdvMENLbzluVjFtNko5cnVXNVBvM2xTdEdzc0RrNi1CbFRXdG4?oc=5\" target=\"_blank\">SK Hynix, Micron, Samsung: AI Is Breaking the Memory Chip Business Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bloomberg analysis examining how AI demand is disrupting the traditional memory chip business model for SK Hynix, Micron, and Samsung. The piece appears to discuss structural shifts in the market rather than report a specific confirmed event, deal, or hard number."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "33f7adec34ff2a160f6db94ac20fafbe495ff08e",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "Global Chipmakers Retreat as SK Hynix Records Historic One-Day Drop - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaENfQ3hwMDhfUVV4VUktUXVUaUJuTElyajZ2LUlkemhwMEtfNm9nVWdvMGMwdmV5bzRONlFqTjNkTzNVZWlaM1pTWElKaDhZWUdOOWE0NzZJOFBlUnJyZ3hscDJyLVJRM1RRaFlIZU54M2NUQThlTUxKODNWY3l3MTZpUUxmTWoybHpJ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 10:48:08 GMT",
+  "published_ts": 1783939688,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaENfQ3hwMDhfUVV4VUktUXVUaUJuTElyajZ2LUlkemhwMEtfNm9nVWdvMGMwdmV5bzRONlFqTjNkTzNVZWlaM1pTWElKaDhZWUdOOWE0NzZJOFBlUnJyZ3hscDJyLVJRM1RRaFlIZU54M2NUQThlTUxKODNWY3l3MTZpUUxmTWoybHpJ?oc=5\" target=\"_blank\">Global Chipmakers Retreat as SK Hynix Records Historic One-Day Drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM holding, experienced a historic single-day stock drop. The headline indicates a notable price move, but without stated catalyst details in the snippet, this appears to be market reaction to existing news rather than a new concrete event. Stock price movements driven by already-known information or sentiment shifts score as impact 3 rather than 4-5."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "6d13acf9f799054af4571cb1a46ffee864230bc2",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Watch AI Chip Giants TSMC and SK Hynix Pull in Different Directions - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2hKY0hnQjN0V3JOMi1TMmoyX2xJYmpSeFZMbUkxN0pra3UyREVQdGpOREdUeU9BQmZ4RTFkYllZc0FVYXJ2Mm9pMmVXY1NpSGZGYW5DYjdRQlcxa040TkxSZGs2bmQ1NmtUa1psNEtMaW5TRTNfMFROa19OcXVlUllRY2FacmNaWldCTExCOHBfYjd2dGJXbUkwUVRMSGlqVnJv?oc=5",
+  "published_at": "Mon, 13 Jul 2026 15:04:41 GMT",
+  "published_ts": 1783955081,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2hKY0hnQjN0V3JOMi1TMmoyX2xJYmpSeFZMbUkxN0pra3UyREVQdGpOREdUeU9BQmZ4RTFkYllZc0FVYXJ2Mm9pMmVXY1NpSGZGYW5DYjdRQlcxa040TkxSZGs2bmQ1NmtUa1psNEtMaW5TRTNfMFROa19OcXVlUllRY2FacmNaWldCTExCOHBfYjd2dGJXbUkwUVRMSGlqVnJv?oc=5\" target=\"_blank\">Watch AI Chip Giants TSMC and SK Hynix Pull in Different Directions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bloomberg analysis comparing SK Hynix and TSMC's strategic directions in AI chip markets. SK Hynix is a DRAM ETF holding; the piece discusses their diverging business approaches but appears to be forward-looking analysis rather than reporting a concrete event or material development."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "4cabeaa2c5b9903b9e77619fea0c684122874510",
+  "source": "KuCoin",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix profits surpass NVIDIA amid surge in AI memory demand - KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWpMQ2dZbWhvbU91RDZjYXUtLWpoT0YyWmc5cTE4T3lKbklNenY2VVlNNW1yN1RWWnJTVmVXUUhRaG5nQnF0VnA3VS1xLWEzMmlpNjlZTXBpVGtJNHFVbVRtYk1Hamp4YVRxSmYzVHJ0enJlMGtUa2s2MWxYdWN0dWNWOVBVakNEbUEwQnk0aFBVLW9ReFlkUUpEc1k5dDlyWG4tSnI4NEw0Zw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:14:04 GMT",
+  "published_ts": 1783948444,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWpMQ2dZbWhvbU91RDZjYXUtLWpoT0YyWmc5cTE4T3lKbklNenY2VVlNNW1yN1RWWnJTVmVXUUhRaG5nQnF0VnA3VS1xLWEzMmlpNjlZTXBpVGtJNHFVbVRtYk1Hamp4YVRxSmYzVHJ0enJlMGtUa2s2MWxYdWN0dWNWOVBVakNEbUEwQnk0aFBVLW9ReFlkUUpEc1k5dDlyWG4tSnI4NEw0Zw?oc=5\" target=\"_blank\">Samsung and SK Hynix profits surpass NVIDIA amid surge in AI memory demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KuCoin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix (both DRAM ETF holdings) reported profits exceeding NVIDIA's amid strong AI memory demand. This is post-earnings commentary on known results rather than a new event or concrete development; stock market reaction to already-reported earnings is scored at most 3."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "b11c225e6651f76458154a451c146d8e8f7d7260",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazFYMWZjclhyMlJqUzhRVUY3a3ltWlY3RWZXd1V6d2tXOElKMmhxNGVfZUZ0bG1RNlM0MU8xeVpZSU9pTXNOY3VUYmRlMGtWUzZxRm1IX1c5WEZvd2lHRC1jS05Qa0pmOXlJcE1mV0o4UTNuOE84LV9xa2tLMkpwTVo2UmJOVmEwbDVvamFOV1puNU9EWGpsR2h5UEp1d0w4WWVWR1FULWF4QQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:25:40 GMT",
+  "published_ts": 1783945540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazFYMWZjclhyMlJqUzhRVUY3a3ltWlY3RWZXd1V6d2tXOElKMmhxNGVfZUZ0bG1RNlM0MU8xeVpZSU9pTXNOY3VUYmRlMGtWUzZxRm1IX1c5WEZvd2lHRC1jS05Qa0pmOXlJcE1mV0o4UTNuOE84LV9xa2tLMkpwTVo2UmJOVmEwbDVvamFOV1puNU9EWGpsR2h5UEp1d0w4WWVWR1FULWF4QQ?oc=5\" target=\"_blank\">Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock declined, triggering a broader AI chip sector selloff including memory and semiconductor stocks. The story reports market reaction to SK hynix's slump but does not specify a concrete catalyst (earnings, guidance change, or announced event) — it is a price-move narrative driven by an existing development rather than new hard information."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "e7e50ba309015b6790f20bcb6e286e6ee0a7895b",
+  "source": "Invezz",
+  "topic": "fund",
+  "title": "DRAM: Here’s why this SK Hynix, Micron, Samsung ETF is falling today - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFUwdjRCbTFROWUtamRIR0x2Z3BvaGIteUMzWGpqcE9mcFc5SF8tYldRcTZDbVFoUm9YMnYyUTQyMVNaMHJvWUxSM01oWk5RQkQ0cWZyQjJoaDJ6ZDNsNENTdFUyZk9sVzFtNjVORDhyTHM5NWVGR3IxWmd5SnVVb3RaUXAxdGIzUGUwajlwY3g1bzJSNFRkM2IzRVN0amFiSHRiN0NB?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:58:45 GMT",
+  "published_ts": 1783947525,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFUwdjRCbTFROWUtamRIR0x2Z3BvaGIteUMzWGpqcE9mcFc5SF8tYldRcTZDbVFoUm9YMnYyUTQyMVNaMHJvWUxSM01oWk5RQkQ0cWZyQjJoaDJ6ZDNsNENTdFUyZk9sVzFtNjVORDhyTHM5NWVGR3IxWmd5SnVVb3RaUXAxdGIzUGUwajlwY3g1bzJSNFRkM2IzRVN0amFiSHRiN0NB?oc=5\" target=\"_blank\">DRAM: Here’s why this SK Hynix, Micron, Samsung ETF is falling today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Article explaining the DRAM ETF's decline on a given day. This is a post-hoc market commentary piece analyzing fund performance after the fact, likely driven by holdings' price movements rather than reporting a new catalyst or concrete development."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "4f67bba656b71e786c9aad26f7cd7473a5d42621",
+  "source": "SDxCentral",
+  "topic": "industry",
+  "title": "Huawei eyes DRAM production to combat memory shortage: report - SDxCentral",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWZnZmhjcG1wa1ZzZDJnNkJXQlFGeGZBTUcwZDlXcUVEWXp3Z3R5dnZwQlpnWjNTRGZ0cTJZR1hpazhsR0hJTTFJeVQyUmhVOXNyMFU2bnJoSm15bV9TNmFmQ3lPcXExSkxwUE80ZExGckh3ZUd4enBfOXVZNVNRR2JoMm9yQnNILXZWcjlRek1PMGJPZnhpNA?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:38:50 GMT",
+  "published_ts": 1783946330,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWZnZmhjcG1wa1ZzZDJnNkJXQlFGeGZBTUcwZDlXcUVEWXp3Z3R5dnZwQlpnWjNTRGZ0cTJZR1hpazhsR0hJTTFJeVQyUmhVOXNyMFU2bnJoSm15bV9TNmFmQ3lPcXExSkxwUE80ZExGckh3ZUd4enBfOXVZNVNRR2JoMm9yQnNILXZWcjlRek1PMGJPZnhpNA?oc=5\" target=\"_blank\">Huawei eyes DRAM production to combat memory shortage: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SDxCentral"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Huawei is exploring DRAM production as a potential response to memory shortages. This is a strategic move by a major tech player to enter the memory market, but remains in the exploratory/planning stage rather than a confirmed investment or capacity commitment. Relevant to the memory cycle and industry supply dynamics, but not yet a concrete event."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "044ff0dd83e1952272fab28c00a57f9df1071074",
+  "source": "Business Post",
+  "topic": "industry",
+  "title": "SK Hynix CEO warns on memory chip shortages beyond 2030 - Business Post",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEVhSUN6elphSEVHMFNoMzlGY3BSckhmcmo0d1h6YWtsQzhsSlRYUzB4UW13Wm9GZXRnWFhCLS1BME5taTFFMWxqSVJZd0tUUkt3Z0tTcEJUckQ1eG1hcFhpVGR1Wl9peGl1QXNOX0F6NTYtSHlkR1pTNzZrNWlHa1RNOWZVYURqbE5lZWxTZm5nV1ZJQ29r?oc=5",
+  "published_at": "Mon, 13 Jul 2026 11:24:40 GMT",
+  "published_ts": 1783941880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEVhSUN6elphSEVHMFNoMzlGY3BSckhmcmo0d1h6YWtsQzhsSlRYUzB4UW13Wm9GZXRnWFhCLS1BME5taTFFMWxqSVJZd0tUUkt3Z0tTcEJUckQ1eG1hcFhpVGR1Wl9peGl1QXNOX0F6NTYtSHlkR1pTNzZrNWlHa1RNOWZVYURqbE5lZWxTZm5nV1ZJQ29r?oc=5\" target=\"_blank\">SK Hynix CEO warns on memory chip shortages beyond 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Post</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Post"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns of potential memory chip shortages extending beyond 2030, citing capacity constraints. This is forward-looking commentary on industry supply dynamics rather than a concrete announced action, making it opinion/analysis rather than a settled event."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "7aecee51c503020687dd8a4d1cee07e8128166e1",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Wells Fargo Upgrades Seagate Stock With 22% Possible Upside - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUdoaUtwNVdQNHB0MWs0UnEwU0duY25kWFNtMlp6T0s1bnNBdVUydEpkQnp6T1BIdXpYRURWV3FHSmdOaG5pd0FKby1aTjFHOVNqVDRvanpLWkozX3lSRTJSQUtXVGNDU2xadnFCdENKYm9LWkNVRHhBZE8xZmdDd2pFRlRZaVRfZmFzVnlhQUlwVnFQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:38:27 GMT",
+  "published_ts": 1783946307,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUdoaUtwNVdQNHB0MWs0UnEwU0duY25kWFNtMlp6T0s1bnNBdVUydEpkQnp6T1BIdXpYRURWV3FHSmdOaG5pd0FKby1aTjFHOVNqVDRvanpLWkozX3lSRTJSQUtXVGNDU2xadnFCdENKYm9LWkNVRHhBZE8xZmdDd2pFRlRZaVRfZmFzVnlhQUlwVnFQ?oc=5\" target=\"_blank\">Wells Fargo Upgrades Seagate Stock With 22% Possible Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wells Fargo upgraded Seagate (STX), a DRAM ETF holding, with a 22% upside target. This is analyst opinion and a price-target change, not a concrete event or new hard information, so it rates as soft relevance."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "d8617b134cc57bdbfe787b19fd1f344c83b83eb5",
+  "source": "ETF Trends",
+  "topic": "holding",
+  "title": "SK Hynix Makes its US Debut: Which ETFs Offer Exposure? - ETF Trends",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3VaUS1Ua1FGQ0tMVDkwVy1ja2h3aVhDZWFvQ0p2VURkWkNpNnJEcEhmaVpGblFSVWJod21VeUFjNGw2bzJtemhqVmg5VERmTWlKekNKYTBvMzNiakJJOXBTV0huMkhRaWFzTm1TenhZMnhBQzk4c2NpNHE1aklaTVhCWWcxeU1HQXltZjZaZHhZWTZkbXU1WWVxbTMtMWRCMVk0QUhR0gGrAUFVX3lxTFByblZTZnNnckppdGRaRlNYMDBtYmlHNVRLT2l6Zl9nWTdyVTRibXFmNEtzVmhCWGNwaWNtTTNHelUzWEw3SFJ3bUpfOGpkN3VWT3M3TEJLSGw0ejQ2TnZWWjliSzQ3S3FDeV9KcVpGSWV6Q0lMY1RldXhxSDVDZmtDQVdzSFR4dVVuY3BTWlhYckZxcjhaQjU5aHdsT3k5dEl4SEpwT0k2cF9ZUQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 11:30:24 GMT",
+  "published_ts": 1783942224,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3VaUS1Ua1FGQ0tMVDkwVy1ja2h3aVhDZWFvQ0p2VURkWkNpNnJEcEhmaVpGblFSVWJod21VeUFjNGw2bzJtemhqVmg5VERmTWlKekNKYTBvMzNiakJJOXBTV0huMkhRaWFzTm1TenhZMnhBQzk4c2NpNHE1aklaTVhCWWcxeU1HQXltZjZaZHhZWTZkbXU1WWVxbTMtMWRCMVk0QUhR0gGrAUFVX3lxTFByblZTZnNnckppdGRaRlNYMDBtYmlHNVRLT2l6Zl9nWTdyVTRibXFmNEtzVmhCWGNwaWNtTTNHelUzWEw3SFJ3bUpfOGpkN3VWT3M3TEJLSGw0ejQ2TnZWWjliSzQ3S3FDeV9KcVpGSWV6Q0lMY1RldXhxSDVDZmtDQVdzSFR4dVVuY3BTWlhYckZxcjhaQjU5aHdsT3k5dEl4SEpwT0k2cF9ZUQ?oc=5\" target=\"_blank\">SK Hynix Makes its US Debut: Which ETFs Offer Exposure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF Trends</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ETF Trends"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix makes its US debut; article discusses which ETFs offer exposure to the company. This confirms SK Hynix (a DRAM fund holding) is now accessible to US investors, but the piece is primarily a fund/ETF roundup rather than reporting a concrete business development at SK Hynix itself. Soft news with limited market catalyst beyond awareness."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "5626da177c03a6dcdd8fb91753be21c0e4456930",
+  "source": "Finbold",
+  "topic": "holding",
+  "title": "Wall Street analyst updates SanDisk stock price target - Finbold",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWhwdjBaLVd2Yk93X0F1d1hlU0NGSllGZ0cweVlaVGhwcHFndzZ3OXlLUmszUWN3ZE8tUUdOZHc4UWhQRUxtMHR5UnVVZzJNR1h0RW8tbmI3QzdMVDJpVVpOMEw0aDlsWlNZOGRpQ0VGSi1jN2FhQ0ZnSmRrT1FIag?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:31:02 GMT",
+  "published_ts": 1783945862,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWhwdjBaLVd2Yk93X0F1d1hlU0NGSllGZ0cweVlaVGhwcHFndzZ3OXlLUmszUWN3ZE8tUUdOZHc4UWhQRUxtMHR5UnVVZzJNR1h0RW8tbmI3QzdMVDJpVVpOMEw0aDlsWlNZOGRpQ0VGSi1jN2FhQ0ZnSmRrT1FIag?oc=5\" target=\"_blank\">Wall Street analyst updates SanDisk stock price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finbold</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finbold"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wall Street analyst updates SanDisk price target. Analyst price-target changes are opinion-driven reactions rather than new concrete developments; they reflect market digestion of existing information or forward guidance rather than introducing novel facts that move the memory cycle."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "9f34163d7964302bfbe4061e8cf8d7cb2033fa1f",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGJORlpVY2lCM1A4eV9uRFAyRHhlb3VzX2NveXhVOGZTUHYxclNhbTRqS0ZFX1pleE9ZT2xjTTIzSlBMSjVvdTZ0N255ak12ejl3dUFzOFFCME5zN1V4eWQwdVVRWi13YlJlNDhjOUFhRjJPdEFXYnV6eVlPaFRLeXN2c29ScHZSdmhfc3hkeVZSMFB0TzcyREc5bnZCcjNOVDZSZ1B5SFNkdkxxZGlyOFplSTU0Z1U?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:36:40 GMT",
+  "published_ts": 1783953400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGJORlpVY2lCM1A4eV9uRFAyRHhlb3VzX2NveXhVOGZTUHYxclNhbTRqS0ZFX1pleE9ZT2xjTTIzSlBMSjVvdTZ0N255ak12ejl3dUFzOFFCME5zN1V4eWQwdVVRWi13YlJlNDhjOUFhRjJPdEFXYnV6eVlPaFRLeXN2c29ScHZSdmhfc3hkeVZSMFB0TzcyREc5bnZCcjNOVDZSZ1B5SFNkdkxxZGlyOFplSTU0Z1U?oc=5\" target=\"_blank\">SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo! Finance Canada",
+    "Yahoo Finance UK"
+   ],
+   "titles": [
+    "SK Hynix stock drops, chip sector declines as AI trade angst returns - Yahoo Finance UK"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock declined amid broader chip-sector weakness and AI trade concerns. This is a price move without a stated concrete catalyst or new event distinct from market sentiment shifts."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "076aa2e9b15a081b7c32828b7b237f480ea0255f",
+  "source": "Seeking Alpha",
+  "topic": "fund",
+  "title": "CHPY Vs DRAM: Buy The Diversified De-Risking Route, Hold The Memory Bet (NYSEARCA:CHPY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUdRMS1nc0h1N1duZWRIVS1FRUY5dk1INU4yVDZTbUFYYkFwN3VPRFEza3dIcWtOYUI3Ny1lU05waWpEa3hyUTdtSlJCNXhRc0haY0xFb1RPZTFCODR3eGtsOFQ0bGttTmlBVGM1OTdpRnlXLUZSMzF0STgzSHJaTUM3QTBfLWtaQU1yS2VZejRhVUwxVmJKcTJEdF9pNkJfaV9DUHZYSjUwRDhUdVg4?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:28:56 GMT",
+  "published_ts": 1783952936,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUdRMS1nc0h1N1duZWRIVS1FRUY5dk1INU4yVDZTbUFYYkFwN3VPRFEza3dIcWtOYUI3Ny1lU05waWpEa3hyUTdtSlJCNXhRc0haY0xFb1RPZTFCODR3eGtsOFQ0bGttTmlBVGM1OTdpRnlXLUZSMzF0STgzSHJaTUM3QTBfLWtaQU1yS2VZejRhVUwxVmJKcTJEdF9pNkJfaV9DUHZYSjUwRDhUdVg4?oc=5\" target=\"_blank\">CHPY Vs DRAM: Buy The Diversified De-Risking Route, Hold The Memory Bet (NYSEARCA:CHPY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Seeking Alpha opinion piece comparing CHPY (diversified semiconductor ETF) and DRAM (memory-focused ETF), recommending CHPY over DRAM. Analyst sentiment but no concrete fund developments, holdings changes, or market-moving events."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "01fec1c8ae10a52387f373201cc4e20e1bfeffad",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "SK Hynix tumbles more than 6% Monday, following successful US debut last week - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1k1UlVGX0t2WWVKaDMwR0liQjZ3RktDRVRWZXNHX0pKNXhrVVE4RnN0S2xUdk56a2VZQzBIVWFicE1qdFRIbUFrbkdCRVgzX2lNQTFxRlhsb0E1RGNkQ1FpUHNRTG92VUdWVHNOX2ZCOXRRWHFnUWpTUmtTMWFuUFg2dkZOeGlBbkJnam4zODBOYkFmNnZ2SzdORzZlM091RnZXbDEwaWJyTWRRRFU1SUI2OHd2VGZaUTI4eUlTVzFIdw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 15:10:58 GMT",
+  "published_ts": 1783955458,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1k1UlVGX0t2WWVKaDMwR0liQjZ3RktDRVRWZXNHX0pKNXhrVVE4RnN0S2xUdk56a2VZQzBIVWFicE1qdFRIbUFrbkdCRVgzX2lNQTFxRlhsb0E1RGNkQ1FpUHNRTG92VUdWVHNOX2ZCOXRRWHFnUWpTUmtTMWFuUFg2dkZOeGlBbkJnam4zODBOYkFmNnZ2SzdORzZlM091RnZXbDEwaWJyTWRRRFU1SUI2OHd2VGZaUTI4eUlTVzFIdw?oc=5\" target=\"_blank\">SK Hynix tumbles more than 6% Monday, following successful US debut last week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock declined 6% on Monday following its successful US listing debut the previous week. This is a stock price movement without a stated catalyst distinct from the listing event itself, representing minor volatility in a core fund holding."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "726a90dbea040b22c9978ca551648184dde9be10",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVl4TjNBVmc2UHpUcTU0Sk9jUzNlTnV3YjRwT2w5Ylc1dUNwbXFFT252dklFY05XZlZXcmwzWlhOZXhnOGsybk1XRnJIb2M3Y205N2Y1ZDlCZGFWNWtwWGJqRWsyMTVSdmtFcWs2cHlYVllwclhJRmsyZTNwUkFuSGtpRVp4aW9BZG5NbmR4WktDZ256bDdJcnBjaHllTXEx?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:47:17 GMT",
+  "published_ts": 1783946837,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVl4TjNBVmc2UHpUcTU0Sk9jUzNlTnV3YjRwT2w5Ylc1dUNwbXFFT252dklFY05XZlZXcmwzWlhOZXhnOGsybk1XRnJIb2M3Y205N2Y1ZDlCZGFWNWtwWGJqRWsyMTVSdmtFcWs2cHlYVllwclhJRmsyZTNwUkFuSGtpRVp4aW9BZG5NbmR4WktDZ256bDdJcnBjaHllTXEx?oc=5\" target=\"_blank\">Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix mentioned as falling amid broader tech stock decline and AI trade scrutiny. No specific catalyst or material news about SK Hynix's business, pricing, or operations—appears to be a passive mention in a general market move."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "fbffcffcf8485f79ebecce91cca388b1af1a0827",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0g1YmF1Q20yQzRnaEh1T25zRlFWbURLbWpyaHp4Qy1fanFkSHRmMjUzMFo3Xy1NYzN2aERxcGRHYVgwNms5Z2JqMlk1bEhmaUtWNksySDhWSm1lSGJlekNkVGVuakRaZDdJdEVMZnhVYVZPS0NUbHljZWJMdmxPTjVGVkN3U3ByNE4wRWhnOUlPNUUwRkJja0FQZw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:55:38 GMT",
+  "published_ts": 1783950938,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0g1YmF1Q20yQzRnaEh1T25zRlFWbURLbWpyaHp4Qy1fanFkSHRmMjUzMFo3Xy1NYzN2aERxcGRHYVgwNms5Z2JqMlk1bEhmaUtWNksySDhWSm1lSGJlekNkVGVuakRaZDdJdEVMZnhVYVZPS0NUbHljZWJMdmxPTjVGVkN3U3ByNE4wRWhnOUlPNUUwRkJja0FQZw?oc=5\" target=\"_blank\">This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St."
+   ],
+   "titles": [
+    "This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale? - 24/7 Wall St."
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece suggesting Micron and SanDisk stocks may be attractive buying opportunities during a tech market downturn. No concrete news or material development—purely analyst commentary and market sentiment."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "fc5c932d4519039fe33acec7f38f810244d8ffba",
+  "source": "Proactive financial news",
+  "topic": "holding",
+  "title": "SK Hynix shares retreat after Nasdaq debut as investors take profits - Proactive financial news",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRU1KempCakhtTjQzODc1ZDd3aVBPMkhHMVg2WnhjOVM1aVQ0MVExazU2WkVFVkxpTml6amptRlZFamtsdDRqWXNlbklfZjFZajUxMGl3Q29VMFh5NWdFQVZ5amVtMHY2QTNRNnlVTG9yeW1uaEY3dWJOZk4zRUhuM200VHU4OWlNRjgtRU9RTkNaYnZGSTBVbmxyTWVnMDFBMFRVdm1qajdySXo5WlUtMGdsdEhjSVlUVFA1YTItOE9mN0o2bXJSMXNVb1o4UUVqVEg0eTF3?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:57:00 GMT",
+  "published_ts": 1783954620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRU1KempCakhtTjQzODc1ZDd3aVBPMkhHMVg2WnhjOVM1aVQ0MVExazU2WkVFVkxpTml6amptRlZFamtsdDRqWXNlbklfZjFZajUxMGl3Q29VMFh5NWdFQVZ5amVtMHY2QTNRNnlVTG9yeW1uaEY3dWJOZk4zRUhuM200VHU4OWlNRjgtRU9RTkNaYnZGSTBVbmxyTWVnMDFBMFRVdm1qajdySXo5WlUtMGdsdEhjSVlUVFA1YTItOE9mN0o2bXJSMXNVb1o4UUVqVEg0eTF3?oc=5\" target=\"_blank\">SK Hynix shares retreat after Nasdaq debut as investors take profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Proactive financial news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix shares declined following its Nasdaq listing debut as investors took profits. A routine post-listing price pullback with no new information about memory fundamentals, capacity, or demand."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "9849d73543b1d1353de2b5e820415bfe78b287c8",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Western Digital Shares Fall as Global Chip Selloff Hits Memory Sector (WDC) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONW9NYllMTW1ZczhIU0IzWVdfYjdmMFdXWmFJMnc1dnB5bkh2YTRKVllvTmhONEpLTXMxTHhXUGU5V0RRWHF2Ykk2aWFSaEVPekhiS1pBNXhQc3FTNGc3bGJtaTJxNWNmcTljeVFqWjFZd2owUUF2WFNDZGk2VXZjMWRqT0dGdmNfcEUyRWxXajRvblBLM3k2SFA4VjYtaUFU?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:22:57 GMT",
+  "published_ts": 1783945377,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONW9NYllMTW1ZczhIU0IzWVdfYjdmMFdXWmFJMnc1dnB5bkh2YTRKVllvTmhONEpLTXMxTHhXUGU5V0RRWHF2Ykk2aWFSaEVPekhiS1pBNXhQc3FTNGc3bGJtaTJxNWNmcTljeVFqWjFZd2owUUF2WFNDZGk2VXZjMWRqT0dGdmNfcEUyRWxXajRvblBLM3k2SFA4VjYtaUFU?oc=5\" target=\"_blank\">Western Digital Shares Fall as Global Chip Selloff Hits Memory Sector (WDC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Western Digital shares declined during a broader global chip sector selloff affecting memory stocks. The story reports a price move but provides no concrete catalyst, material news, or specific information about WDC's business or the memory cycle."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "8e7d2267cf4cd3e0a5ccad9d3493dde3711184cf",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWw0ZmM3UmZvZmtHRFhxX3NZdjVNTWtoV281cEZ5YU11aFd6b25HTWRQcVNhT2RSQXVEQnpHQzRBX1NDM24xcWJtazFwTkxmQ3dDZnd0bVc2NWJIeHpNNlFETjJJNVViZkpMU1kwZjVUSlR6NTc1ZFZQZmlsUVdTOElMNWlKZkE?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:48:00 GMT",
+  "published_ts": 1783954080,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWw0ZmM3UmZvZmtHRFhxX3NZdjVNTWtoV281cEZ5YU11aFd6b25HTWRQcVNhT2RSQXVEQnpHQzRBX1NDM24xcWJtazFwTkxmQ3dDZnd0bVc2NWJIeHpNNlFETjJJNVViZkpMU1kwZjVUSlR6NTc1ZFZQZmlsUVdTOElMNWlKZkE?oc=5\" target=\"_blank\">Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0xwNVlZSVZyRElhQnBQc2lVa2NMMTZZdTNvSktRMHNrdHdsZUdzbDVBSUtOSjhVaUVWQWtRN3lsTXQtdzB3ekNKSmRDeThTekVBckQwSlZPSzZpcjVmaW9DZlVKX0Z2ckhQZDlxYzdOYThTMHNXdTFoU2xHc2FFcGdDbW0xVHE2UUtsajJiTGRmNE1fWndBWnE0Q045QUhZN0tjRHVzaWN4TS10Y3c?oc=5\" target=\"_blank\">Stock Market Today: Nasdaq Slides On New U.S.-Iran Strikes; SK Hynix Plunges (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlFqLWE2QUowOUJxN2R6QmxsREVpU3k5LXFhbk9kU1BVLTdiSWoxQnZNdDlzNTVkZFBwMEtwVkExSzRyOHk0RG1OR3dhWFAtdVJMWGxXdWFwcDQ5UG1CVzZ4R1BMdmFNQTY3Uk44UzZ0c2VZMS1ZdS1GdDlwOTRnQlR3UTB6V005S19oaVpOQ01kdC1XMmhHNk9XUHczZzBEZi1WNjRNZlNPeDBlcWlCLVlLRWg2NUh5M3BLM05B?oc=5\" target=\"_blank\">SK Hynix stock sees record plunge in Korea despite impressive Nasdaq debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock slumped as part of a broader Nasdaq decline driven by AI-related market jitters. The story is a live market update with no specific SK Hynix news or concrete catalyst—merely a price move reflecting general market sentiment."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "4f95abffa1e08158ae739a95801efa2275823fcc",
+  "source": "Morningstar",
+  "topic": "holding",
+  "title": "SK Hynix: Individual Investors and Margin Calls Amplifying Volatility - Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObS1scm5DWk1EVjBrVjBQOUIzTlpaMlFMLWhHSE8yQmdlZXdzZ0pqcVc4RnBvTE1keVdqamhrWW50ek9RdmY2TTdmY2prTGVmbFJ1WC12VXJ5Sjhpb2NtVEZhWXh1enJlTGJLMWhrR3F4MjVDU3ZhM3RGYTZMc3VJak1sYkZPU3REanl2blVxNEtGNFBrblJ3NkREUEx6aFdX?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:46:06 GMT",
+  "published_ts": 1783950366,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObS1scm5DWk1EVjBrVjBQOUIzTlpaMlFMLWhHSE8yQmdlZXdzZ0pqcVc4RnBvTE1keVdqamhrWW50ek9RdmY2TTdmY2prTGVmbFJ1WC12VXJ5Sjhpb2NtVEZhWXh1enJlTGJLMWhrR3F4MjVDU3ZhM3RGYTZMc3VJak1sYkZPU3REanl2blVxNEtGNFBrblJ3NkREUEx6aFdX?oc=5\" target=\"_blank\">SK Hynix: Individual Investors and Margin Calls Amplifying Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Morningstar"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Morningstar analysis of SK Hynix volatility driven by individual investors and margin calls. This is commentary on stock price mechanics rather than reporting a concrete event or material development in the company's business, products, or memory market fundamentals."
+  },
+  "buffered_ts": 1783956164.2709422
+ },
+ {
+  "id": "8049ef6d67b1ca434cf67b71c0a7f070b82a8650",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is Sandisk Stock Falling Monday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0h2MlBZSHQtd1lveXk4bG1wZkQzYzRPNmthdmVoVFFSd1AzUXNzc0tYMVNydzZ6S3F4ZjN4eWRTeG16UHh3eWxPQXJNU2VRaTFfcEZqbTNDTG5TN1pIQlQ4eC1tQU1OMXFESHg5eU1TMjdtR3p0Mm5Kak1YNmV6dWxqdUFDbW4wR0JFNXdTcWdZZUl5aFNGTHJkSHY?oc=5",
+  "published_at": "Mon, 13 Jul 2026 12:23:42 GMT",
+  "published_ts": 1783945422,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0h2MlBZSHQtd1lveXk4bG1wZkQzYzRPNmthdmVoVFFSd1AzUXNzc0tYMVNydzZ6S3F4ZjN4eWRTeG16UHh3eWxPQXJNU2VRaTFfcEZqbTNDTG5TN1pIQlQ4eC1tQU1OMXFESHg5eU1TMjdtR3p0Mm5Kak1YNmV6dWxqdUFDbW4wR0JFNXdTcWdZZUl5aFNGTHJkSHY?oc=5\" target=\"_blank\">Why Is Sandisk Stock Falling Monday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Benzinga reports on a SanDisk stock decline on Monday. Without the full article content, this appears to be a stock-price reaction piece. If it is simply explaining market movement without a concrete news catalyst (earnings, guidance, deal, or supply event), it is a minor mention. A headline-only reaction to price movement, especially intraday, warrants low impact."
+  },
+  "buffered_ts": 1783956164.2709422
  }
 ]
