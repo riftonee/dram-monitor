@@ -2326,5 +2326,173 @@
    "summary": "SanDisk stock price movement query. Without additional context on the cause (earnings, guidance, supply/demand shift, or other concrete catalyst), this is a generic price-movement piece. Appears to be a \"why is this stock moving\" explainer, likely driven by already-reported news rather than new information."
   },
   "buffered_ts": 1783973759.8451402
+ },
+ {
+  "id": "9a39502a9b13b1631108a958696ce5d795770700",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamFrdUZ2RWVQR1FKY3REbXNYOHpOWE9qejZ0WENlVTFia1pjSlBKOHU1WDgtdENTVWs3VW92YXpnT3JoOWVWcHMzLW9lUHEzZTZrU2o0UUEzZDB1VFlsd1IyM01LN1hkblQxbXhJNFFXbXJHVGN4alFUN08tWV96T3RBSkxZWWZjQVpCN0RnRFN5ZFNBd2J1TWtMU01meGJEemRRVUo5elhKWjFXT0JqOGJMUkN2SHQxbkwyem5Ba0VZU2g3RDRwaGE1RU92eDlNa1c2Yw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:20:24 GMT",
+  "published_ts": 1783952424,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamFrdUZ2RWVQR1FKY3REbXNYOHpOWE9qejZ0WENlVTFia1pjSlBKOHU1WDgtdENTVWs3VW92YXpnT3JoOWVWcHMzLW9lUHEzZTZrU2o0UUEzZDB1VFlsd1IyM01LN1hkblQxbXhJNFFXbXJHVGN4alFUN08tWV96T3RBSkxZWWZjQVpCN0RnRFN5ZFNBd2J1TWtMU01meGJEemRRVUo5elhKWjFXT0JqOGJMUkN2SHQxbkwyem5Ba0VZU2g3RDRwaGE1RU92eDlNa1c2Yw?oc=5\" target=\"_blank\">SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock declined as part of broader chip sector weakness amid AI-trade sentiment concerns. This is a price movement story tied to sentiment/market mood rather than a concrete company-specific or industry event, making it a soft impact 3."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "72587ed820bac53f6d4c36686896d387c5b242c8",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Watch MGM Rises on Takeover Bid; SK Hynix Falls on Memory Pullback | Stock Movers - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1FiVllEZ2gzOEllTEFnWGk0eUQ3YkhCY3RacUJ2eFhHQUVoSUpyZkY2c21fY2RqUXJXS3hvM2wtVGZRS3haa1I3ZmdQNlZ6bE53MDRCUVE4d0tZYmRiTU1Bb2ZIU0E0ODRlZEZPVXNBWGNNOUpuamR5RmxWVGx2YmtHcW1NSDJSTVZ2ZlpVVE9DLUpHekZrM2t5MUMxVzZkaHJtNXhqcHdMOE0zSGpR?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:44:03 GMT",
+  "published_ts": 1783953843,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1FiVllEZ2gzOEllTEFnWGk0eUQ3YkhCY3RacUJ2eFhHQUVoSUpyZkY2c21fY2RqUXJXS3hvM2wtVGZRS3haa1I3ZmdQNlZ6bE53MDRCUVE4d0tZYmRiTU1Bb2ZIU0E0ODRlZEZPVXNBWGNNOUpuamR5RmxWVGx2YmtHcW1NSDJSTVZ2ZlpVVE9DLUpHekZrM2t5MUMxVzZkaHJtNXhqcHdMOE0zSGpR?oc=5\" target=\"_blank\">Watch MGM Rises on Takeover Bid; SK Hynix Falls on Memory Pullback | Stock Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix fell on a reported memory market pullback. This is a soft indicator of potential demand weakness for the DRAM fund's key holding, but lacks concrete pricing data or production announcements to warrant a higher impact score."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "0e5b62111ebebd4af1e39c3cd57e72226e13ae3d",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "Sandisk’s stock is plunging, but some analysts are getting even more bullish - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2dMM1l0S2dYTVJTbHlNcXZoTnYxOU1VVTNFZi1aSl84QklBZWt2ZmhHMnQwbGhySkVhTWtDUTkxR3JVS1FQOV9LUTBLNlVNU3pacGNMWmlvNlN1VzJtZ0VXZXdJQjJhYnVMVGdTc09yX1U3UTRIQi1oWDctWWRiTEhueXBvX24yZ1JZcW5GSnVKWEFYZFpNSVFCc3JwZExRWFdOTFRJWEsxeVV0WlpQQnFUamxTTVlx?oc=5",
+  "published_at": "Mon, 13 Jul 2026 21:04:00 GMT",
+  "published_ts": 1783976640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2dMM1l0S2dYTVJTbHlNcXZoTnYxOU1VVTNFZi1aSl84QklBZWt2ZmhHMnQwbGhySkVhTWtDUTkxR3JVS1FQOV9LUTBLNlVNU3pacGNMWmlvNlN1VzJtZ0VXZXdJQjJhYnVMVGdTc09yX1U3UTRIQi1oWDctWWRiTEhueXBvX24yZ1JZcW5GSnVKWEFYZFpNSVFCc3JwZExRWFdOTFRJWEsxeVV0WlpQQnFUamxTTVlx?oc=5\" target=\"_blank\">Sandisk’s stock is plunging, but some analysts are getting even more bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock is declining, but some analysts are turning more bullish on the holding. This represents analyst opinion and price-move reaction rather than a concrete event or new material information about the memory cycle, so impact is 3."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "41f3ffb061163c9f6959cd0d895552620d676c0f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtiTnNoZUs2RkhIU3E5emp0LVlVd2tEQTJJUXBvLUZiNWthaU53anNkQ3VlclRlSEU3dXJXVXZ0aTBsa0o5SFF1UUFBSmhuS1hucXQ2UnhIeUdUUVpfel9kRFlJRmV4SHBFYzl6ZHNrUjBlVVdoTXBnZmJEN2Y3ZllBRE9YWHRiSG5rYlpqbWxLbzVTcjQ1TQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 19:50:00 GMT",
+  "published_ts": 1783972200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtiTnNoZUs2RkhIU3E5emp0LVlVd2tEQTJJUXBvLUZiNWthaU53anNkQ3VlclRlSEU3dXJXVXZ0aTBsa0o5SFF1UUFBSmhuS1hucXQ2UnhIeUdUUVpfel9kRFlJRmV4SHBFYzl6ZHNrUjBlVVdoTXBnZmJEN2Y3ZllBRE9YWHRiSG5rYlpqbWxLbzVTcjQ1TQ?oc=5\" target=\"_blank\">Why AI Investors Can Finally Buy the World's Top HBM Maker Directly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing why AI investors can now directly purchase shares of the world's leading HBM (high-bandwidth memory) maker, likely referring to SK hynix or Samsung. This is commentary on market accessibility rather than a concrete new development, regulatory change, or material event affecting the company or fund."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "1e76ab55878246c1fccdba1eb112d28eebc8edbb",
+  "source": "Briefs Finance",
+  "topic": "holding",
+  "title": "SK Hynix Stock Plunges 15.4% After Record US Debut - Briefs Finance",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXdzbW5YVHV4T0VIWFZMNVdCZDR4VXN0ZV9GdkVUTWxuRUFVR2h0RzVacXVyYnVCaFBaUjdEWXJvVDhpdHlrWmppOEpSQjhVaXdHQlR4UklMdUp4T005aDMzR29sR3hDYnRZSVo5UDJLV1E0cVI2VktRZmJwdTh5Z2pXbw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 20:59:30 GMT",
+  "published_ts": 1783976370,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXdzbW5YVHV4T0VIWFZMNVdCZDR4VXN0ZV9GdkVUTWxuRUFVR2h0RzVacXVyYnVCaFBaUjdEWXJvVDhpdHlrWmppOEpSQjhVaXdHQlR4UklMdUp4T005aDMzR29sR3hDYnRZSVo5UDJLV1E0cVI2VktRZmJwdTh5Z2pXbw?oc=5\" target=\"_blank\">SK Hynix Stock Plunges 15.4% After Record US Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Briefs Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Briefs Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock fell 15.4% following its US market debut. While this is a notable move for a major DRAM fund holding, the plunge appears to be a post-listing price correction rather than new fundamental information about memory demand, pricing, or supply conditions. Stock moves absent a distinct operational catalyst are rated as impact 3."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "3a273ceed4829fdf535269df5ce18d47514638c8",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "The SK Hynix IPO and 2027’s AI Memory Squeeze - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFNrWG1oVmFWUVlFS3JOcGdMV01pbHFNS2txWEdLTVNNSXVPXzdXZjJYMVl2RWRWWFVMSUNBdFBrWlJpUHhMbkRSYVRMdGw1bGpicGllTGF4WGZmYWNfYm1lMHNqcUxsckdvakw4NWFQV3I5SmFtb1c5cldnNGlRU0pkR2owdWpk?oc=5",
+  "published_at": "Mon, 13 Jul 2026 19:00:44 GMT",
+  "published_ts": 1783969244,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFNrWG1oVmFWUVlFS3JOcGdMV01pbHFNS2txWEdLTVNNSXVPXzdXZjJYMVl2RWRWWFVMSUNBdFBrWlJpUHhMbkRSYVRMdGw1bGpicGllTGF4WGZmYWNfYm1lMHNqcUxsckdvakw4NWFQV3I5SmFtb1c5cldnNGlRU0pkR2owdWpk?oc=5\" target=\"_blank\">The SK Hynix IPO and 2027’s AI Memory Squeeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing SK Hynix IPO and anticipated AI memory supply constraints in 2027. Speculative outlook on future capacity constraints rather than a confirmed event or concrete development. Relevant to the holding and industry dynamics but lacks hard numbers or announced decisions."
+  },
+  "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "bda0769d1eef872a94848f74256c096ddeaed942",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "DRAM ETF Is in a Bear Hold as Micron, Memory Stocks Slip - Meta Platforms (NASDAQ:META), Amazon.com (NASD - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkNpNUJLTmF3ZFBaWVdnUy1aR3VJWG9CcnBDcTB0WHNOZGxmY1lEV2xxWFNncWhUbkF6OUJCVV8zeHRyTW1lUVBKZk82OFBnWmk3cmtNS1Myb3J3V0h6ZlpmUjk1VXBHMG1yX1dkWHMxTkQ4VkVzSExwaHJuZlBtbTBIZUkycVpCMWhsVWJlckNZSWxkYlg1OTl6a09tczBNbW16MW8wakNfQXd1WG9uVkhWdXV1VVhqcS1NMnNvbmpRUFdMRUhIdmtkMmJwbTViMVh5RzVZWXhiSWtvS2s1M2hHcEllWWdnZXc?oc=5",
+  "published_at": "Mon, 13 Jul 2026 20:16:38 GMT",
+  "published_ts": 1783973798,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkNpNUJLTmF3ZFBaWVdnUy1aR3VJWG9CcnBDcTB0WHNOZGxmY1lEV2xxWFNncWhUbkF6OUJCVV8zeHRyTW1lUVBKZk82OFBnWmk3cmtNS1Myb3J3V0h6ZlpmUjk1VXBHMG1yX1dkWHMxTkQ4VkVzSExwaHJuZlBtbTBIZUkycVpCMWhsVWJlckNZSWxkYlg1OTl6a09tczBNbW16MW8wakNfQXd1WG9uVkhWdXV1VVhqcS1NMnNvbmpRUFdMRUhIdmtkMmJwbTViMVh5RzVZWXhiSWtvS2s1M2hHcEllWWdnZXc?oc=5\" target=\"_blank\">DRAM ETF Is in a Bear Hold as Micron, Memory Stocks Slip - Meta Platforms (NASDAQ:META), Amazon.com (NASD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Commentary on DRAM ETF performance as memory stocks including Micron decline; general fund observation with no concrete news or trigger disclosed."
+  },
+  "buffered_ts": 1783978104.078337
  }
 ]
