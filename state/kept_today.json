@@ -2494,5 +2494,173 @@
    "summary": "Commentary on DRAM ETF performance as memory stocks including Micron decline; general fund observation with no concrete news or trigger disclosed."
   },
   "buffered_ts": 1783978104.078337
+ },
+ {
+  "id": "d532991795c922a13c2868f19241ac285e2de343",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "SK hynix is live on Nasdaq. One trading day until SKUU and SKDD. - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56VFZzbEtLbmR4S0RMb3FPMGVzMGE3ZjdFM3RudTlQdHZKZURKWDJKbzloalQycTBucjg2Q01kRjVDMl9YY3NRcm5NRWRIMXpLaFMwUEk4Nlhtb29IQ1ZWendiNXZBTWlQV0pyR2ptRjhFZzRfOTlxRzlINC1Edw?oc=5",
+  "published_at": "Mon, 13 Jul 2026 18:42:00 GMT",
+  "published_ts": 1783968120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE56VFZzbEtLbmR4S0RMb3FPMGVzMGE3ZjdFM3RudTlQdHZKZURKWDJKbzloalQycTBucjg2Q01kRjVDMl9YY3NRcm5NRWRIMXpLaFMwUEk4Nlhtb29IQ1ZWendiNXZBTWlQV0pyR2ptRjhFZzRfOTlxRzlINC1Edw?oc=5\" target=\"_blank\">SK hynix is live on Nasdaq. One trading day until SKUU and SKDD.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has begun trading on Nasdaq under new ticker symbols (SKUU and SKDD launching the next trading day). This is a concrete, material development for a major fund holding—a listing event that affects trading accessibility and index inclusion eligibility for US investors."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "2fd4f8cd41f604581c81f7d8ba8c9ea550e70815",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "SK hynix Expands Supplier Base for Hafnium High-k Precursors Used in DRAM - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaFBvWU10cEF6aFhjV2N5eXFpLWpEbWx3Q294Tm1BQy1qcUtCM2Z6aXV1TFlCalo3NXJiazA4UVk2ekVvZFN2MUJQUmtrSXYyc1VMV0ZmMFQ1dnpkRWM0TUZ6S2FhcFU?oc=5",
+  "published_at": "Mon, 13 Jul 2026 22:20:41 GMT",
+  "published_ts": 1783981241,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaFBvWU10cEF6aFhjV2N5eXFpLWpEbWx3Q294Tm1BQy1qcUtCM2Z6aXV1TFlCalo3NXJiazA4UVk2ekVvZFN2MUJQUmtrSXYyc1VMV0ZmMFQ1dnpkRWM0TUZ6S2FhcFU?oc=5\" target=\"_blank\">SK hynix Expands Supplier Base for Hafnium High-k Precursors Used in DRAM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is expanding its supplier base for hafnium high-k precursors, which are materials used in advanced DRAM manufacturing. This is a supply-chain development that could affect production efficiency and costs, but lacks a concrete event or hard number confirming material impact on near-term output or pricing."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "b0212bddcd78aaaff1fb17a1d0b8ea36c697f886",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "SanDisk’s stock is plunging, but some analysts are getting even more bullish - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjU3aFlvNGpLN2dkUjl1aHJoX0NGVzRpeEtuMDFsZ21Kc2haT25TNmVXTUtZUXduSy1QV0oxc2s5c3BSOEpyaGliZmttQkhzbXRMS3lhNmNONUFwUXRhNy1DaDFPUkZrVVhNSVkxYm9TS3N3dnE2Z2g0a2szM2stcE5nTW42NklROUQ4dWRmT3R1MTdwT242MjRoOGRqTE9taFRKeHRlTEw2cnViTWFFOGhtTE0yY1BKcGxVbkp0RmEzNmZ5eVJwQkJ4Y21fM2JzU1dBbWpKbHlocnppMnkwZnZWWXZoTXgxeGhz?oc=5",
+  "published_at": "Mon, 13 Jul 2026 21:04:00 GMT",
+  "published_ts": 1783976640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjU3aFlvNGpLN2dkUjl1aHJoX0NGVzRpeEtuMDFsZ21Kc2haT25TNmVXTUtZUXduSy1QV0oxc2s5c3BSOEpyaGliZmttQkhzbXRMS3lhNmNONUFwUXRhNy1DaDFPUkZrVVhNSVkxYm9TS3N3dnE2Z2g0a2szM2stcE5nTW42NklROUQ4dWRmT3R1MTdwT242MjRoOGRqTE9taFRKeHRlTEw2cnViTWFFOGhtTE0yY1BKcGxVbkp0RmEzNmZ5eVJwQkJ4Y21fM2JzU1dBbWpKbHlocnppMnkwZnZWWXZoTXgxeGhz?oc=5\" target=\"_blank\">SanDisk’s stock is plunging, but some analysts are getting even more bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM fund holding, experiencing a stock price decline, but some analysts are turning more bullish on the name. This is analyst opinion and post-move commentary rather than a concrete catalyst or new information that explains the decline—typical market digestion of recent developments."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "73360801c3c278466110cf0a2c1020e34c47332f",
+  "source": "whbl.com",
+  "topic": "holding",
+  "title": "SK Hynix plunges after Nasdaq debut amid diminishing earnings optimism - whbl.com",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXBnZmhNV2o2dEFvWFZaOWJYV0NseGFzZVhLS3V0eU80V09jd0FRQkk5b0lWMUFKUGRWX3dMNGw4eEVROXRjVlh3S0ZPRjlTbTdtNzFKNTdkR2FoVnppLUlLb0ZvNkhqTTdUUjFYcXNhWUNwdDNJY3pLMkc5blIwZ0lzNDhRXzhDMmsxWWdWa1ZLdTZ1S3dueDhsU0ZKdHRQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 05:40:55 GMT",
+  "published_ts": 1783921255,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXBnZmhNV2o2dEFvWFZaOWJYV0NseGFzZVhLS3V0eU80V09jd0FRQkk5b0lWMUFKUGRWX3dMNGw4eEVROXRjVlh3S0ZPRjlTbTdtNzFKNTdkR2FoVnppLUlLb0ZvNkhqTTdUUjFYcXNhWUNwdDNJY3pLMkc5blIwZ0lzNDhRXzhDMmsxWWdWa1ZLdTZ1S3dueDhsU0ZKdHRQ?oc=5\" target=\"_blank\">SK Hynix plunges after Nasdaq debut amid diminishing earnings optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whbl.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "whbl.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock declined following its Nasdaq listing debut amid reduced earnings outlook sentiment. This reflects market reaction to the company's current earnings prospects but does not constitute a new concrete event beyond the trading activity itself or a freshly reported earnings surprise."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "84dcd7a330af6b043ff890ceed6dddc5ceb8fdda",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Western Digital shares fall as global chip selloff hits memory sector (WDC) - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQWFqUHV1MERiUzhCOFZBZnZkQlZPMG9FVWhvdGQydE9OVGw2RmhWaFVrMFZwLXRlRDA3QlFfNFh5QWdnb1I2LVh0QVNzdXY1NkRlNTRVVXBveXRGN19UN0JmczlGcFAyWUFycU9WNWFJU0xkTGFjSHVBaVlrcGxVWlRMb3I3N1gtVERxVmxiMVhlc2dOZE01ejMwWXdpM1V1Szhuc0loN0NjN3ZTRjB0S3h0MkNBUzRERzAwbFB0RFZQc2lGdkhuX1dOV0paek9SQUtfdWFkWlNpR252N0FqY1ZqRXV6UQ?oc=5",
+  "published_at": "Mon, 13 Jul 2026 13:14:23 GMT",
+  "published_ts": 1783948463,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQWFqUHV1MERiUzhCOFZBZnZkQlZPMG9FVWhvdGQydE9OVGw2RmhWaFVrMFZwLXRlRDA3QlFfNFh5QWdnb1I2LVh0QVNzdXY1NkRlNTRVVXBveXRGN19UN0JmczlGcFAyWUFycU9WNWFJU0xkTGFjSHVBaVlrcGxVWlRMb3I3N1gtVERxVmxiMVhlc2dOZE01ejMwWXdpM1V1Szhuc0loN0NjN3ZTRjB0S3h0MkNBUzRERzAwbFB0RFZQc2lGdkhuX1dOV0paek9SQUtfdWFkWlNpR252N0FqY1ZqRXV6UQ?oc=5\" target=\"_blank\">Western Digital shares fall as global chip selloff hits memory sector (WDC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) shares fell as part of a broader global chip sector selloff affecting memory stocks. The report describes a stock price decline in response to sector-wide weakness, but provides no new concrete catalyst, earnings data, or distinct market-moving event—it reflects market digestion of existing conditions rather than a novel development."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "cd06fc337ca6ccd8999aee128cdb6c24998347dd",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0xwNVlZSVZyRElhQnBQc2lVa2NMMTZZdTNvSktRMHNrdHdsZUdzbDVBSUtOSjhVaUVWQWtRN3lsTXQtdzB3ekNKSmRDeThTekVBckQwSlZPSzZpcjVmaW9DZlVKX0Z2ckhQZDlxYzdOYThTMHNXdTFoU2xHc2FFcGdDbW0xVHE2UUtsajJiTGRmNE1fWndBWnE0Q045QUhZN0tjRHVzaWN4TS10Y3c?oc=5",
+  "published_at": "Mon, 13 Jul 2026 20:52:00 GMT",
+  "published_ts": 1783975920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0xwNVlZSVZyRElhQnBQc2lVa2NMMTZZdTNvSktRMHNrdHdsZUdzbDVBSUtOSjhVaUVWQWtRN3lsTXQtdzB3ekNKSmRDeThTekVBckQwSlZPSzZpcjVmaW9DZlVKX0Z2ckhQZDlxYzdOYThTMHNXdTFoU2xHc2FFcGdDbW0xVHE2UUtsajJiTGRmNE1fWndBWnE0Q045QUhZN0tjRHVzaWN4TS10Y3c?oc=5\" target=\"_blank\">Stock Market Today: Dow, Nasdaq Close Lower As Oil Prices Spike; This Memory ETF In Bear Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Market report noting that the DRAM memory ETF is in bear market territory amid broader market decline and oil price spike. No fund-specific news, holdings detail, or concrete catalyst beyond general market movement."
+  },
+  "buffered_ts": 1783981763.552739
+ },
+ {
+  "id": "fa8f7d52d0ea794ac3079dbaadfdac868ab91149",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "SanDisk Stock’s Run Hides Its Real Portfolio Job - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUYzaVFhcS1kUndHb3VVNENKSVBzTzJmREY1a2dvWl9jN0JHZFAxeldEME9RbzdibEhHb0UxZVBWdmhGem9EdFg1bzh5WlFxZDhQMFRuT3ZlcFBrOERlMkRzYXR4OEpwM2N3d3ZKS1JQeHRWY2dQRVRYUndMamlyLUd5cVNKeDJ1TlpmTkFqM2ZnVXMyd3RwdEpoZUZ2dGtnVVZjSnNoTHhzdHZp?oc=5",
+  "published_at": "Mon, 13 Jul 2026 22:15:26 GMT",
+  "published_ts": 1783980926,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUYzaVFhcS1kUndHb3VVNENKSVBzTzJmREY1a2dvWl9jN0JHZFAxeldEME9RbzdibEhHb0UxZVBWdmhGem9EdFg1bzh5WlFxZDhQMFRuT3ZlcFBrOERlMkRzYXR4OEpwM2N3d3ZKS1JQeHRWY2dQRVRYUndMamlyLUd5cVNKeDJ1TlpmTkFqM2ZnVXMyd3RwdEpoZUZ2dGtnVVZjSnNoTHhzdHZp?oc=5\" target=\"_blank\">SanDisk Stock’s Run Hides Its Real Portfolio Job</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Analysis piece on SanDisk's role in a portfolio context; discusses the stock's performance but lacks concrete news or market-moving developments specific to memory demand, pricing, or supply."
+  },
+  "buffered_ts": 1783981763.552739
  }
 ]
