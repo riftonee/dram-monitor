@@ -995,5 +995,371 @@
    "summary": "Roundhill Memory ETF (DRAM) closed below its inception average for the first time. This is a fund performance note with limited material significance—it reflects historical NAV movement but does not signal a concrete catalyst or new information about holdings or the memory cycle itself."
   },
   "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "dde4aadcab869f3a6037035c3d68bbb1adcfd4ae",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "MLC Shortage Triggers Order Migration Wave; TrendForce: SLC NAND Contract Prices Could Surge Up to 170% in Second Half - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cHcxcjZBVG9lRjlBZ1pPYm1lVVZ5UlVmN1RwaDhtS0Q3ZGYtSUVrVlBuMUhBaFBIOHRSUjI4OVB3Z3VzQVNHZFRfMU9jZDlZV0ZyRU92LVUyWGF6U2ZQUVZ4QUJkR3VYMnhLM3lOZDU5d2xZYnc?oc=5",
+  "published_at": "Tue, 14 Jul 2026 05:08:05 GMT",
+  "published_ts": 1784005685,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cHcxcjZBVG9lRjlBZ1pPYm1lVVZ5UlVmN1RwaDhtS0Q3ZGYtSUVrVlBuMUhBaFBIOHRSUjI4OVB3Z3VzQVNHZFRfMU9jZDlZV0ZyRU92LVUyWGF6U2ZQUVZ4QUJkR3VYMnhLM3lOZDU5d2xZYnc?oc=5\" target=\"_blank\">MLC Shortage Triggers Order Migration Wave; TrendForce: SLC NAND Contract Prices Could Surge Up to 170% in Second Half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "TrendForce reports MLC NAND shortage driving order migration to SLC NAND, with SLC contract prices potentially surging up to 170% in H2. This is a concrete pricing development affecting NAND supply dynamics and costs for memory semiconductor makers including fund holdings like Micron and Western Digital."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "18bf91a2dde643d3babcd48630f9f0472258721c",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "T-REX Launches Leveraged SK Hynix ETF, Betting on AI Memory Demand - ProShares Ultra SK hynix (ARCA:SKHU) - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQm9vR0hXeW04Z2ZzT1dELXNaX181Szg5dDQzQnJZRXB1dm9ja29XRldPZkx6TFNnR1dXX25NZlMwSnU5UEVOenhwOW43LTM4bzBQQ2tJeGZONEpmR0hVV3lySFhCX21CVlQ3aXFEekNFLUJ0eXB5TjNkMm1vZF9sYldLbXc4NE9mcElEbFNHTlo2bTZvOFYwVjNJOXpvOHNDRU1ydXJkbVdyTHgyQ0cycHhDUFUyQXI1QmVrcGdORlJGMFBkZFdZSnUxZVV4VUxxdl9HYndoNmtBQQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 19:44:56 GMT",
+  "published_ts": 1784058296,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQm9vR0hXeW04Z2ZzT1dELXNaX181Szg5dDQzQnJZRXB1dm9ja29XRldPZkx6TFNnR1dXX25NZlMwSnU5UEVOenhwOW43LTM4bzBQQ2tJeGZONEpmR0hVV3lySFhCX21CVlQ3aXFEekNFLUJ0eXB5TjNkMm1vZF9sYldLbXc4NE9mcElEbFNHTlo2bTZvOFYwVjNJOXpvOHNDRU1ydXJkbVdyTHgyQ0cycHhDUFUyQXI1QmVrcGdORlJGMFBkZFdZSnUxZVV4VUxxdl9HYndoNmtBQQ?oc=5\" target=\"_blank\">T-REX Launches Leveraged SK Hynix ETF, Betting on AI Memory Demand - ProShares Ultra SK hynix (ARCA:SKHU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "T-REX (ProShares) has launched a new leveraged ETF (SKHU) tracking SK hynix, a major DRAM holding. This is a concrete fund-industry development signaling confidence in AI memory demand and creating a competing product in the memory semiconductor ETF space."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "78c9bcabc2e025bb83f7c65abc87de60c19f75cd",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "ProShares Launches SKHU ETF Targeting 2x Daily Returns of SK hynix - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFWSDlnOHFzS3FwdnZzVHRkNHhYbk53QnloZHQxbjlSMGJzY3RzV2YwNmIxaF9CU3l1aFRqZnBaQ2dVSThDNUtYMVlJSWM1NjRhM21Zc0RoR2JhTTYtRVB2WUV2alQyLUhMOThyemNQVVFzUkx4dkt0WEVWcHNVeHdvcmhCU1drUmVYWVhWYnhnTzlNcG54WU9qZy1WVk12NzI1RHd3?oc=5",
+  "published_at": "Tue, 14 Jul 2026 11:00:00 GMT",
+  "published_ts": 1784026800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFWSDlnOHFzS3FwdnZzVHRkNHhYbk53QnloZHQxbjlSMGJzY3RzV2YwNmIxaF9CU3l1aFRqZnBaQ2dVSThDNUtYMVlJSWM1NjRhM21Zc0RoR2JhTTYtRVB2WUV2alQyLUhMOThyemNQVVFzUkx4dkt0WEVWcHNVeHdvcmhCU1drUmVYWVhWYnhnTzlNcG54WU9qZy1WVk12NzI1RHd3?oc=5\" target=\"_blank\">ProShares Launches SKHU ETF Targeting 2x Daily Returns of SK hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "ProShares has launched the SKHU ETF, a 2x daily leveraged ETF tracking SK hynix (a major DRAM holding). This is a concrete new fund product launch in the memory-semiconductor space that creates a competing or complementary leveraged exposure vehicle to memory stocks."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "fbca5eb091a5e96c784d19962c508f9dfa4a86a6",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Samsung, Vivo, Poco hike prices amid memory chip crunch - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmgtRHJwMS00cHZSYktWaTJoWFRGam02SVJ3cng2UWgyTjJIUDlxVW1GMHlWNWlUQkczUmNsTmhwalZvZ3dCeDlOSmtQYUg4bjJOSjg3S1hqSjROb0NWNDIyVm5sd0Fqd3g3TDJmUkZOdHdyaWozY1EybmtTOU1ndDE4TnpDN2h5SXJzWUdxb3MwV2ZOZmxtcS1ZZEFOWXVDTUR3M3pkMDF3c3J2eUZWVXgzVVEtVzJvakEyLU16aXFuMVZOMFcwVVl3cVN3c0xqSDA4LUpmbDhQT1k?oc=5",
+  "published_at": "Tue, 14 Jul 2026 13:45:43 GMT",
+  "published_ts": 1784036743,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmgtRHJwMS00cHZSYktWaTJoWFRGam02SVJ3cng2UWgyTjJIUDlxVW1GMHlWNWlUQkczUmNsTmhwalZvZ3dCeDlOSmtQYUg4bjJOSjg3S1hqSjROb0NWNDIyVm5sd0Fqd3g3TDJmUkZOdHdyaWozY1EybmtTOU1ndDE4TnpDN2h5SXJzWUdxb3MwV2ZOZmxtcS1ZZEFOWXVDTUR3M3pkMDF3c3J2eUZWVXgzVVEtVzJvakEyLU16aXFuMVZOMFcwVVl3cVN3c0xqSDA4LUpmbDhQT1k?oc=5\" target=\"_blank\">Samsung, Vivo, Poco hike prices amid memory chip crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Samsung and other device makers are raising prices in response to a memory chip crunch, indicating supply-side pressure and pricing power in the memory market that should benefit DRAM holdings."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "62bb19266931632cb48a1ed66e4fe49e00b3fedf",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung Reportedly Mulls Listing Shares In The US After SK Hynix’s Blockbuster Nasdaq Debut - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzFtVFJseExiWm02WGc3cEdILUFIZnZUN1UzZGNpcE5jd1VJcHVsdjdlS05XVHRsNDZDRTMwTXdzNG1nRmh3bXYwS0RaRTZhazk0bVBBSXlyVUhvMkRkTHhaT25SN3lybUVzMUdNY0JaZUZHSGJQcU1PTHZOVVVzRTN3VG1SRDEya2NlU3NlMjlyNmpFVnNHZ2xvMWh3WHpfZDBEY2xBRQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 09:26:10 GMT",
+  "published_ts": 1784021170,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzFtVFJseExiWm02WGc3cEdILUFIZnZUN1UzZGNpcE5jd1VJcHVsdjdlS05XVHRsNDZDRTMwTXdzNG1nRmh3bXYwS0RaRTZhazk0bVBBSXlyVUhvMkRkTHhaT25SN3lybUVzMUdNY0JaZUZHSGJQcU1PTHZOVVVzRTN3VG1SRDEya2NlU3NlMjlyNmpFVnNHZ2xvMWh3WHpfZDBEY2xBRQ?oc=5\" target=\"_blank\">Samsung Reportedly Mulls Listing Shares In The US After SK Hynix’s Blockbuster Nasdaq Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is reportedly considering a US stock listing following SK hynix's recent Nasdaq debut. This is speculative discussion of a potential corporate action rather than a confirmed event, and any listing would be a future possibility rather than a settled development affecting current fund holdings."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "aed7551824586aba5895eaa735d1c4f98fd637ff",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung Scales Back Free Storage Upgrade for First Time as Memory Prices Surge - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZGFrLUowM19PTmNFc0sxY1VFX0xjMHo3cjdCUUZ3dHdqTkUwa2xYUWRTeUxPTTBMRWt3N0RSYmIxRVVlZTM5QjdHZ05lNGpyNkZkWjl2SEVrUjlMQ2owSHFWQ0Z2X3NsdnFTS2JDSE41cTR5amc?oc=5",
+  "published_at": "Tue, 14 Jul 2026 06:55:00 GMT",
+  "published_ts": 1784012100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZGFrLUowM19PTmNFc0sxY1VFX0xjMHo3cjdCUUZ3dHdqTkUwa2xYUWRTeUxPTTBMRWt3N0RSYmIxRVVlZTM5QjdHZ05lNGpyNkZkWjl2SEVrUjlMQ2owSHFWQ0Z2X3NsdnFTS2JDSE41cTR5amc?oc=5\" target=\"_blank\">Samsung Scales Back Free Storage Upgrade for First Time as Memory Prices Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Samsung is reducing free storage upgrade offerings as memory prices surge, indicating rising DRAM/NAND pricing conditions. This reflects stronger pricing dynamics in the memory market but is a business-model adjustment rather than a hard supply or demand shock with confirmed numbers."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "0ffe644a7e8a5411aa4573d4ea2428856f594aed",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "SK Hynix Soars 19% as Leveraged ETFs Launch, Lifting Micron, SanDisk, Western Digital - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02NWRNSDRSWHIxN2lhZk9pOHJKaUNFRmR0Yk5lNERXTFZxSndtdGRHNnl6VWRTSm1XVm9tNG04Mmlfc2dEcWtCcG1UNU0xNkhuSERyNzRQc2JDc0JGWm9jeEhNUHZrRjBtVXVGVFdlT29zZmZPS21mVDlR?oc=5",
+  "published_at": "Tue, 14 Jul 2026 16:52:54 GMT",
+  "published_ts": 1784047974,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE02NWRNSDRSWHIxN2lhZk9pOHJKaUNFRmR0Yk5lNERXTFZxSndtdGRHNnl6VWRTSm1XVm9tNG04Mmlfc2dEcWtCcG1UNU0xNkhuSERyNzRQc2JDc0JGWm9jeEhNUHZrRjBtVXVGVFdlT29zZmZPS21mVDlR?oc=5\" target=\"_blank\">SK Hynix Soars 19% as Leveraged ETFs Launch, Lifting Micron, SanDisk, Western Digital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and fellow holdings (Micron, SanDisk, Western Digital) experienced a significant stock price rally coinciding with the launch of leveraged ETFs tracking semiconductor/memory stocks. The 19% move in SK Hynix and corresponding lifts in other holdings represent a market reaction, but the catalyst is ETF flows/structure rather than fundamental memory-cycle or company-specific news. This is a price move driven by fund mechanics rather than concrete business developments."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "383fd30fdeee5b9d22b1c6f9abf89086fe20e234",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Why the KORU 3X South Korea Bull ETF Is Surging as SK Hynix Rips on HBM4 News - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWW1maW5GTkJKMkM3ZXRmSWFaWGhicURtREFYZ0xIU292SFoyMUN5UFRyNVFJUUYweHlzc2NLRnpVbEk2RDVaeGNDeHZNMWN4SGdodVJnTFh1aWZhZWM0eFRaY1RlVnktcjh3aURzd3BsTmJuZWFBdXV4dDlxZWFUUnhKbnFESXFSRmExMi1aRTB4eXN6OWRCUlZ1VmFwUUtJX3NUVE5nVnRnTXBuWmE1M0EtcURZdjFXOVQydzNB?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:33:12 GMT",
+  "published_ts": 1784053992,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWW1maW5GTkJKMkM3ZXRmSWFaWGhicURtREFYZ0xIU292SFoyMUN5UFRyNVFJUUYweHlzc2NLRnpVbEk2RDVaeGNDeHZNMWN4SGdodVJnTFh1aWZhZWM0eFRaY1RlVnktcjh3aURzd3BsTmJuZWFBdXV4dDlxZWFUUnhKbnFESXFSRmExMi1aRTB4eXN6OWRCUlZ1VmFwUUtJX3NUVE5nVnRnTXBuWmE1M0EtcURZdjFXOVQydzNB?oc=5\" target=\"_blank\">Why the KORU 3X South Korea Bull ETF Is Surging as SK Hynix Rips on HBM4 News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rising on HBM4 news, driving a South Korea-focused ETF higher. HBM4 demand is material to memory-chip demand cycle, but the article focuses on the price move and ETF rather than concrete HBM4 capacity or demand specifics."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "d5fe87eb5ca11f8f9ee411483d9298cbf6a4583c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix’s Shares Soar — Why Barclays Sees Potential For The Stock To Double - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1B6THJoaFhVVVh1VlktU0ZlYjVLaVNqLUNQNTljNVVVa214ejhNckNfSWQ2U015QXZVcFFfUm5mYmthLVR6S1JXcGhCQ3dubGJfWnp5R284ZVd3Z3Ezd2pQZjVHbnFCeVRQMWZmbGx0U1daN0dNNFlzMHM4NW1tOUVkNzlDakI2dHNsSVN3dXlsUXc?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:54:18 GMT",
+  "published_ts": 1784055258,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1B6THJoaFhVVVh1VlktU0ZlYjVLaVNqLUNQNTljNVVVa214ejhNckNfSWQ2U015QXZVcFFfUm5mYmthLVR6S1JXcGhCQ3dubGJfWnp5R284ZVd3Z3Ezd2pQZjVHbnFCeVRQMWZmbGx0U1daN0dNNFlzMHM4NW1tOUVkNzlDakI2dHNsSVN3dXlsUXc?oc=5\" target=\"_blank\">SK Hynix’s Shares Soar — Why Barclays Sees Potential For The Stock To Double</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "TradingView"
+   ],
+   "titles": [
+    "SK Hynix’s Shares Soar — Why Barclays Sees Potential For The Stock To Double - TradingView"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barclays analyst issues bullish note on SK Hynix with a price target implying potential doubling. This is analyst opinion and a price-target change rather than a concrete event or new market-moving information; the stock move itself is attributed to analyst sentiment rather than a distinct catalyst."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "3242ca90e51a1ce8983309c66ff7c1a42e9e2549",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Tom Lee advises buying dips in Samsung, SK Hynix amid AI demand - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWUtpRGd4WkEwRGhUZ243TzZjTW1zR0xia1dWdnV6RHFHYlJILXRkckpsQ0F5bExPSkVxSUpxRS1FOF9CNkNkUU1nZjh3Q2RwbzdkRThYdHJOT1hTYWphTjdhY0pnOW5zanY0?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:57:37 GMT",
+  "published_ts": 1784055457,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWUtpRGd4WkEwRGhUZ243TzZjTW1zR0xia1dWdnV6RHFHYlJILXRkckpsQ0F5bExPSkVxSUpxRS1FOF9CNkNkUU1nZjh3Q2RwbzdkRThYdHJOT1hTYWphTjdhY0pnOW5zanY0?oc=5\" target=\"_blank\">Tom Lee advises buying dips in Samsung, SK Hynix amid AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst Tom Lee recommends buying dips in Samsung and SK Hynix amid AI demand. This is analyst opinion/price-target commentary on two major fund holdings, relevant to DRAM but not a concrete market event or new information about the companies themselves."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "f3251a737e56ddc218ed59cd40aee36a490c2600",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix ADR Premium Balloons to Nearly 50% Over Korean Shares - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZUlibVlkZ2daU3hyYTZ2T20xUmF4ZGN0MVAwN2lXZDJjckRhWXpSMWZXVWFNUGM4MERieG1YYmx2OUowak5ZMUtDbXpjYmJyUlJvV2I1ZnBDWE9tRF8yTWdoYkF5cXdhMXpFWmdHbGtQQmU4bFdhNFRBVFJZS1k4U3hoLUhYcVJzaFFFdzMyZ2V5WXpiSzRmcEVjdDRlTVZ1UXVBZExaVDNjLURxMkVNeGE4cndpaklKTTJOZk9GUm9ESmxxV21FcA?oc=5",
+  "published_at": "Tue, 14 Jul 2026 17:26:21 GMT",
+  "published_ts": 1784049981,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZUlibVlkZ2daU3hyYTZ2T20xUmF4ZGN0MVAwN2lXZDJjckRhWXpSMWZXVWFNUGM4MERieG1YYmx2OUowak5ZMUtDbXpjYmJyUlJvV2I1ZnBDWE9tRF8yTWdoYkF5cXdhMXpFWmdHbGtQQmU4bFdhNFRBVFJZS1k4U3hoLUhYcVJzaFFFdzMyZ2V5WXpiSzRmcEVjdDRlTVZ1UXVBZExaVDNjLURxMkVNeGE4cndpaklKTTJOZk9GUm9ESmxxV21FcA?oc=5\" target=\"_blank\">SK Hynix ADR Premium Balloons to Nearly 50% Over Korean Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Bloomberg.com",
+    "Crypto Briefing"
+   ],
+   "titles": [
+    "SK Hynix ADR trades at nearly 50% premium to Korean shares - Crypto Briefing"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at ~50% premium to Korean-listed shares, reflecting valuation arbitrage and market structure differences. Material holding news but reflects market mechanism rather than a concrete fundamental development in the company's business or memory cycle."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "76b3851e0c28a8f76fe761a81696fc4428bcbb0e",
+  "source": "Memeburn",
+  "topic": "industry",
+  "title": "AI Memory Chip Supercycle 2026: The $476B Boom Explained - Memeburn",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zX1RfalFWa0tqWmhGb25jT2RMUGVNc0dnXzJYNHh6VVVXd3h3Nk9mM1hoRDN4N1UwdDV1TmRMWjJRZm9LT0VpM1NIRGdRTk9lMkNzM2RTT3RTMDQwR1lhUjJ3?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:11:38 GMT",
+  "published_ts": 1784052698,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zX1RfalFWa0tqWmhGb25jT2RMUGVNc0dnXzJYNHh6VVVXd3h3Nk9mM1hoRDN4N1UwdDV1TmRMWjJRZm9LT0VpM1NIRGdRTk9lMkNzM2RTT3RTMDQwR1lhUjJ3?oc=5\" target=\"_blank\">AI Memory Chip Supercycle 2026: The $476B Boom Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Memeburn</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Memeburn"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece forecasting a $476B AI memory chip supercycle in 2026, explaining the expected boom in memory demand. Relevant to the fund's thesis but is forward-looking analysis and opinion rather than a concrete event or hard confirmed number driving immediate market moves."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "556f296d7b9af586022d18e9f5c72536c01d78fa",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix Jumps over 23% as U.S. Gains Kick In - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ05jN1lHYXlqRng2NGl4U3BiZUNtS0FzRllxbjlwTms3VS1ob3kxZm5EVzluMGcxSklFeEg5cFFkN1hERVlqTGRnYjhNSFJveG5ZYW1Udzg3bWVGeGVqTW9PQlJNekNxWnZIeVJhN1Q5OXQ4bUZOV1MtcWU1ZXVhaFowNmxNVmpIVmFuSQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:37:47 GMT",
+  "published_ts": 1784054267,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ05jN1lHYXlqRng2NGl4U3BiZUNtS0FzRllxbjlwTms3VS1ob3kxZm5EVzluMGcxSklFeEg5cFFkN1hERVlqTGRnYjhNSFJveG5ZYW1Udzg3bWVGeGVqTW9PQlJNekNxWnZIeVJhN1Q5OXQ4bUZOV1MtcWU1ZXVhaFowNmxNVmpIVmFuSQ?oc=5\" target=\"_blank\">SK Hynix Jumps over 23% as U.S. Gains Kick In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rose over 23%, attributed to U.S. market gains. This is a price movement piece without a stated catalyst distinct from market conditions; the jump appears driven by broader U.S. market momentum rather than company-specific memory-sector news."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "9a83f4fdef5ea82ca4a88d932b9ac903c00ad98c",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "What to expect from Seagate Technology’s Q4 2026 earnings report - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWRlLWJEVTFZRW4yTjFILVdRaUo0UHFQMHFRS0hqQXZ5VUhod2wyZDRvV1NUdUVxMHZySlJJRTFWRTFpemRMaGExZklCQkdsRF9DWkZsMkk2QkJEUTBkY1dXMGFHdUtIYXFqc1lodkNHR2x4dFlVbDBlMGJmX3FDSDNmb3hDZ1pzRFZieV82UE9PX0ZoS2k4WlNvZUh2T29qVHJnM1Ruam80b3hiSm85VUYxTnZGcmw1V2c?oc=5",
+  "published_at": "Tue, 14 Jul 2026 15:51:21 GMT",
+  "published_ts": 1784044281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWRlLWJEVTFZRW4yTjFILVdRaUo0UHFQMHFRS0hqQXZ5VUhod2wyZDRvV1NUdUVxMHZySlJJRTFWRTFpemRMaGExZklCQkdsRF9DWkZsMkk2QkJEUTBkY1dXMGFHdUtIYXFqc1lodkNHR2x4dFlVbDBlMGJmX3FDSDNmb3hDZ1pzRFZieV82UE9PX0ZoS2k4WlNvZUh2T29qVHJnM1Ruam80b3hiSm85VUYxTnZGcmw1V2c?oc=5\" target=\"_blank\">What to expect from Seagate Technology’s Q4 2026 earnings report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "MSN preview article speculating on what to expect from Seagate's upcoming Q4 2026 earnings report. Contains no concrete information, confirmed developments, or material news—merely forward-looking analysis ahead of the actual earnings release."
+  },
+  "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "9a7786df16b1bf05b4ce0366bc5c2b4652030682",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "Seagate sets July 28 date for its next financial update - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTZiU2tVOUMxU2FIa1hLQXkxRWhoTF84UG9ocU1NbEZBSklMZnZqYUloVkdrd1JLaDJqNzJmdTRBZHBmVl9OemFEekZfUnlMV2otRy1pMzN2aGFqS2x5VENlbkxWMWZFTzYwc3NsYVRZUEV4R1g0X3NJUHRHblNmNmZHajZwNmJGUU52aWxkaXJiQXZPRVJhY053ODY5dk9tWW9GTnZoWl9QUzdiY0VuWHl6UUVndVhubWZFeg?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:05:00 GMT",
+  "published_ts": 1784059500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTZiU2tVOUMxU2FIa1hLQXkxRWhoTF84UG9ocU1NbEZBSklMZnZqYUloVkdrd1JLaDJqNzJmdTRBZHBmVl9OemFEekZfUnlMV2otRy1pMzN2aGFqS2x5VENlbkxWMWZFTzYwc3NsYVRZUEV4R1g0X3NJUHRHblNmNmZHajZwNmJGUU52aWxkaXJiQXZPRVJhY053ODY5dk9tWW9GTnZoWl9QUzdiY0VuWHl6UUVndVhubWZFeg?oc=5\" target=\"_blank\">Seagate sets July 28 date for its next financial update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stock Titan"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate announced its next earnings call is scheduled for July 28. This is a routine calendar announcement with no forward-looking information or concrete developments; it merely signals when the company will report results."
+  },
+  "buffered_ts": 1784059707.3814666
  }
 ]
