@@ -1553,5 +1553,173 @@
    "summary": "SK Hynix options trading begins, a structural market development that enables derivatives trading on the stock but carries no material news about the company's memory business, demand, or financial performance."
   },
   "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "6e3acb00012dd45e7eeaa58f1be8c8f8307a61e3",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "SK hynix (SKHY) plans 177,900,000 ADS sale, US$7B cornerstone interest - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTEI4Y0UxUUQ1d2tNVy1vRTF3amg4dUl1WDhYMmpGSnVNWTVDZktqQkpBVk1ianpYU3BReVpwOW1oMlNNYnBHVUVnTlN4TGxMLWtWNHptZFo2MUxGWGplSEpqdkFTc0NESTF2VHBmajNSb3NNRy15TGpOQjdxdTZFaUhoRWdIeEU3bUJ4MnB2ZDBiXzA5Snd3dE9PT2FodDV0S2xsUWFjX1hKcGpHbzMxdU5WUzdWd0VTVHltSQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 21:50:07 GMT",
+  "published_ts": 1784065807,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTEI4Y0UxUUQ1d2tNVy1vRTF3amg4dUl1WDhYMmpGSnVNWTVDZktqQkpBVk1ianpYU3BReVpwOW1oMlNNYnBHVUVnTlN4TGxMLWtWNHptZFo2MUxGWGplSEpqdkFTc0NESTF2VHBmajNSb3NNRy15TGpOQjdxdTZFaUhoRWdIeEU3bUJ4MnB2ZDBiXzA5Snd3dE9PT2FodDV0S2xsUWFjX1hKcGpHbzMxdU5WUzdWd0VTVHltSQ?oc=5\" target=\"_blank\">SK hynix (SKHY) plans 177,900,000 ADS sale, US$7B cornerstone interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stock Titan"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a planned ADS (American Depositary Share) offering of 177.9 million shares with a US$7B cornerstone interest. This is a concrete capital-raise event with material implications for the major holding's capital structure and equity dilution."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "94abc05668dd48cbbd1898a86344497ac58c12ea",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Picked a Tough Time to Debut on Wall Street. Investors May Want to Wait Before Diving In. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1BMWi1xZ0k2X2t6emxOS0d6UUZLUWhYM3RZNGxMT0l3QmFTdkp3Q254LUo1WjRLMUVINndFa194TEFtZjlaNDRWMVhVbDdyZWd3ME9vdVNTdzJOTlpHWU9teERJZEpfeDRrTGQyRk9YQU5qUnNONWpLSHdYd0t2TzVZZFFaU3pYQTJPSGZCd0FZZzRFdUE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 15:05:01 GMT",
+  "published_ts": 1784041501,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1BMWi1xZ0k2X2t6emxOS0d6UUZLUWhYM3RZNGxMT0l3QmFTdkp3Q254LUo1WjRLMUVINndFa194TEFtZjlaNDRWMVhVbDdyZWd3ME9vdVNTdzJOTlpHWU9teERJZEpfeDRrTGQyRk9YQU5qUnNONWpLSHdYd0t2TzVZZFFaU3pYQTJPSGZCd0FZZzRFdUE?oc=5\" target=\"_blank\">SK Hynix Picked a Tough Time to Debut on Wall Street. Investors May Want to Wait Before Diving In.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix Wall Street debut timing critique; analyst opinion that investors should wait. No concrete event or new market information beyond the listing itself, which is already priced in."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "d9e0193dc0ed854beb255cf57a14bca843e56c92",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Soars 19% as Leveraged ETFs Launch, Lifting Micron, SanDisk, Western Digital - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2RPbU9famJ4SEJPZS1PY3N6bXNtZmRZT256V0hMZzJwUjBhM0VwckpEMlQxampWUUtmNWlwTUN1cWJmWkM1MXktUVdDRlQ0QUIyTU1USGZ4ZlJJdWVtS2RBcG1rV2FrUEMtazVfMmhScFJSLU9uQ1h0bWVZTGZWaUtuQzhfS0VCdmRnSW1GaUpjMlhzcXpB?oc=5",
+  "published_at": "Tue, 14 Jul 2026 16:23:02 GMT",
+  "published_ts": 1784046182,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2RPbU9famJ4SEJPZS1PY3N6bXNtZmRZT256V0hMZzJwUjBhM0VwckpEMlQxampWUUtmNWlwTUN1cWJmWkM1MXktUVdDRlQ0QUIyTU1USGZ4ZlJJdWVtS2RBcG1rV2FrUEMtazVfMmhScFJSLU9uQ1h0bWVZTGZWaUtuQzhfS0VCdmRnSW1GaUpjMlhzcXpB?oc=5\" target=\"_blank\">SK Hynix Soars 19% as Leveraged ETFs Launch, Lifting Micron, SanDisk, Western Digital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "SK Hynix and other DRAM fund holdings (Micron, SanDisk, Western Digital) rose following the launch of leveraged ETFs tracking memory semiconductors. The stock gains reflect fund flows and ETF launch activity rather than a fundamental business catalyst or concrete market event in the memory cycle itself."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "a5703ff5a5cdaa773f22e4f69213ff936b0448bd",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "SK Hynix is testing the limits of Wall Street’s ETF boom - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzVLZlluOS1Nc0ZJT05kMHBYMGZwU09ZcUZia0xRbXBjdXBseVlmaUZNczF0Tm82SVBBZVdnZWd5YUFTd3J1aGNOc2Z6Q2RFZXU3VUNldXhYM0xsRUtLVUg3RGc2Z0ptWFB4b0dzOXpUamZCUzAyZk5fc1VJLW0wQTNBTFo5TkE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 21:37:00 GMT",
+  "published_ts": 1784065020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzVLZlluOS1Nc0ZJT05kMHBYMGZwU09ZcUZia0xRbXBjdXBseVlmaUZNczF0Tm82SVBBZVdnZWd5YUFTd3J1aGNOc2Z6Q2RFZXU3VUNldXhYM0xsRUtLVUg3RGc2Z0ptWFB4b0dzOXpUamZCUzAyZk5fc1VJLW0wQTNBTFo5TkE?oc=5\" target=\"_blank\">SK Hynix is testing the limits of Wall Street’s ETF boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Commentary on SK Hynix and its role in the ETF boom, likely discussing how the holding's performance or ETF flows relate to broader market trends. This is analysis/opinion about the fund and one of its major holdings rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "c190f84c85bbe87ad464a70f4f0315fc18833682",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: The Rally's First Act Is Done (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDBiODQ4NFpZZkxUMFNIS0s2ODdaX0lMV2R4R2Via3RKZGtPWnh6b2pZMjFuT2dwa3EwWS1SQ3VRdU9qelZXQVBuWnl1TklWSmJqblIxRmxERlVsQVJoT25KMDRkOG1lSDFjOXhBbXFiRl9mRG1xVlUxOHVLTFVCOWY1UQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 21:34:00 GMT",
+  "published_ts": 1784064840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDBiODQ4NFpZZkxUMFNIS0s2ODdaX0lMV2R4R2Via3RKZGtPWnh6b2pZMjFuT2dwa3EwWS1SQ3VRdU9qelZXQVBuWnl1TklWSmJqblIxRmxERlVsQVJoT25KMDRkOG1lSDFjOXhBbXFiRl9mRG1xVlUxOHVLTFVCOWY1UQ?oc=5\" target=\"_blank\">Sandisk: The Rally's First Act Is Done (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst commentary on SanDisk (SNDK) stock performance, characterizing recent rally as completing its first phase. This is opinion-based analysis of price action rather than a concrete event or new material information affecting the memory cycle."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "cad715e9094c78c0256c3401a320e55611217758",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix Rebounds Over 2% After 9% Plunge as AI Volatility Intensifies - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjB6ZGM4RmtTcVF5UUVLcjl1S1l6b3ZpSDNjN1BCM3ZDTGNtbnhQcE9FYTFsYXc5TGZuejNtOUd4alJRSFI5V29DaWp1S0t5elo2bVhvRmszbGNVMVd3cS1NNm5Mblg5clY1T3htVk1FMlcySFZDMlZBMDlPbkhVWW5SS2c5LXhKdnVKekEtNEFYMFJ3UWdRckU3RHhRQ0g1Zl9sZDI5TnRRaFNNZmJFT1hXWVdnNmFlRXlUeUU2STUzQ2x6UnNR?oc=5",
+  "published_at": "Tue, 14 Jul 2026 21:06:07 GMT",
+  "published_ts": 1784063167,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjB6ZGM4RmtTcVF5UUVLcjl1S1l6b3ZpSDNjN1BCM3ZDTGNtbnhQcE9FYTFsYXc5TGZuejNtOUd4alJRSFI5V29DaWp1S0t5elo2bVhvRmszbGNVMVd3cS1NNm5Mblg5clY1T3htVk1FMlcySFZDMlZBMDlPbkhVWW5SS2c5LXhKdnVKekEtNEFYMFJ3UWdRckU3RHhRQ0g1Zl9sZDI5TnRRaFNNZmJFT1hXWVdnNmFlRXlUeUU2STUzQ2x6UnNR?oc=5\" target=\"_blank\">SK Hynix Rebounds Over 2% After 9% Plunge as AI Volatility Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock rebounded 2% after a prior 9% decline amid AI-related market volatility. This is a pure price-movement story with no stated fundamental catalyst or concrete event driving the moves."
+  },
+  "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "f30427f6c6dc8498f77582ab3b394e9aa1f1a478",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix Shares Stage Stunning Comeback After Early 9% Selloff - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFdJajRyYTczNmFFRXFWb2FGRnlFZVdrc3ZrdmRCNS1jZi1QZW1RMmlrbE5meWlqZ1FybDlEQk5ZYmJsdnBBUUktd0JmVHZocHpvWmdQNmpndUNQR3Y2dkhoMjY1R1hZYWNmUjJ2YUd3R05FajlPSk9tS1EwX2NaOElpUnJYUTNQa1doS2FNcUItN3dqNjU2eFJYVFVUS1pyM2tmQ3ZGS2VIZ2d6OTNqQl90V0J3QUFfdnNSMldR?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:58:56 GMT",
+  "published_ts": 1784062736,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFdJajRyYTczNmFFRXFWb2FGRnlFZVdrc3ZrdmRCNS1jZi1QZW1RMmlrbE5meWlqZ1FybDlEQk5ZYmJsdnBBUUktd0JmVHZocHpvWmdQNmpndUNQR3Y2dkhoMjY1R1hZYWNmUjJ2YUd3R05FajlPSk9tS1EwX2NaOElpUnJYUTNQa1doS2FNcUItN3dqNjU2eFJYVFVUS1pyM2tmQ3ZGS2VIZ2d6OTNqQl90V0J3QUFfdnNSMldR?oc=5\" target=\"_blank\">SK Hynix Shares Stage Stunning Comeback After Early 9% Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock experienced intraday volatility with a 9% selloff followed by a rebound. The article reports on the price movement itself without disclosing the underlying catalyst or any new fundamental information."
+  },
+  "buffered_ts": 1784068394.4802465
  }
 ]
