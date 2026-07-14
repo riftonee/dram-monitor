@@ -824,5 +824,176 @@
    "summary": "SanDisk (a DRAM ETF holding) experienced a stock price move. The headline indicates a price pop but lacks detail on the underlying catalyst—whether driven by earnings, guidance, a deal, or market sentiment. Without a stated concrete cause distinct from routine market reaction, this is analysis/commentary on a price move rather than a new material event."
   },
   "buffered_ts": 1784049195.6302881
+ },
+ {
+  "id": "ba3a34e0ed2cb27876e50dfb1de9415437668dc7",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Hynix Isn't Selling Shares to Cash Out. It's Funding a $26.5 Billion Factory Bet. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXpkaVNjckRFSkxxLUN2dS1xdTZROWVJRFd1YVh0QlBoTWhfTzRoWmdqQ2NUSzZNeVJoWE1RWVpacWJzTWxta3VGdzcwWlk1VWdoblJWeWFoVXU4bTNKTEFaVlNwN242T3Y5SW9wYmtYeTYwSUhnZE9FeldtbFp0ZVdMSFZnbmhQUkxHZFI2Wng5UGpMbFE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 14:50:00 GMT",
+  "published_ts": 1784040600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXpkaVNjckRFSkxxLUN2dS1xdTZROWVJRFd1YVh0QlBoTWhfTzRoWmdqQ2NUSzZNeVJoWE1RWVpacWJzTWxta3VGdzcwWlk1VWdoblJWeWFoVXU4bTNKTEFaVlNwN242T3Y5SW9wYmtYeTYwSUhnZE9FeldtbFp0ZVdMSFZnbmhQUkxHZFI2Wng5UGpMbFE?oc=5\" target=\"_blank\">Hynix Isn't Selling Shares to Cash Out. It's Funding a $26.5 Billion Factory Bet.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a $26.5 billion factory investment, a concrete capital allocation decision that signals confidence in memory demand and will materially affect the company's financial position and production capacity going forward."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "813f5fcdd068cb83d98977c480f76c5f0aa4ad8e",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Will Memory Giants Micron, Sandisk, and SK Hynix Continue to Soar? History Is Strikingly Clear About What Happens Next. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2o3ZGJ3czZEVGMydzFnNzhPSkZRNk05SlNmUjRlM0VGcFpZZHY4cWhzOHBHN1QwTG5hMVlaU3lrLXNSSHhfLWpkZlp1ZTZucmN4TXIwbXQ5T0F0TzJJNXFTd1dsbkpKdmZsdTNHdG9mWUhhMnJCaVRiLU1BUzRDOUZPdG9qYXQ3Tm1CaHlNTVpBTVp5Q3ZSdlUxQzc?oc=5",
+  "published_at": "Mon, 13 Jul 2026 10:30:00 GMT",
+  "published_ts": 1783938600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2o3ZGJ3czZEVGMydzFnNzhPSkZRNk05SlNmUjRlM0VGcFpZZHY4cWhzOHBHN1QwTG5hMVlaU3lrLXNSSHhfLWpkZlp1ZTZucmN4TXIwbXQ5T0F0TzJJNXFTd1dsbkpKdmZsdTNHdG9mWUhhMnJCaVRiLU1BUzRDOUZPdG9qYXQ3Tm1CaHlNTVpBTVp5Q3ZSdlUxQzc?oc=5\" target=\"_blank\">Will Memory Giants Micron, Sandisk, and SK Hynix Continue to Soar? History Is Strikingly Clear About What Happens Next.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece analyzing whether Micron, SanDisk, and SK Hynix will continue their recent gains, based on historical memory cycle patterns. Names three major DRAM fund holdings but offers analysis and speculation rather than concrete new developments or confirmed events."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "b92a0dc0027f7e51a3ed1e20a5b123afd66f3ce6",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Barclays says SK Hynix stock could more than double on ’significant growth’ - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWVNU0kxbHBuMFpHSUZ2NlFaQ0JJVk5rSHhVX1J4WC1aYlBBMmEteUZrdk9CMlFiVU9oZ0owZEdpb2JEWURzcFlnaGNsUlFXOWh2bjZJSVRjV1p4YXBNRWl2a2Z5UDMxUU9rVXlDRTVOQ05DWEpoazJEZFJmTld3TXI1M3BESTdsZXJEYWxoek5LR2RTalBGcA?oc=5",
+  "published_at": "Tue, 14 Jul 2026 12:16:54 GMT",
+  "published_ts": 1784031414,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWVNU0kxbHBuMFpHSUZ2NlFaQ0JJVk5rSHhVX1J4WC1aYlBBMmEteUZrdk9CMlFiVU9oZ0owZEdpb2JEWURzcFlnaGNsUlFXOWh2bjZJSVRjV1p4YXBNRWl2a2Z5UDMxUU9rVXlDRTVOQ05DWEpoazJEZFJmTld3TXI1M3BESTdsZXJEYWxoek5LR2RTalBGcA?oc=5\" target=\"_blank\">Barclays says SK Hynix stock could more than double on ’significant growth’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barclays analyst notes potential for SK Hynix stock to more than double based on 'significant growth' thesis. This is analyst opinion and price-target commentary rather than a concrete event or new reported development; post-earnings analyst reactions and bullish calls are relevant to holdings but scored as soft analysis (impact 3) unless tied to a specific earnings miss/beat or material catalyst announced."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "e73e1f071725fb0deb27a3574223aa77c805ccbd",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is SK Hynix (KOSE:A000660) Still Below Fair Value After Its Pullback? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMDMtLXRXYnh6THNBaU5DaU43ZnZkMWtIdkFON09UNjhZTmgwZi1ZYWd2bTVGMUQxUHpMMXFFQ21kZ3FiaFJwb1NFUy1NTjZZRFFMUTZ5SVoyQm43UXB0SHNYWDc0Sm9zTmJRRDBDOGhiUGVBcjJiTVNnRUZIbjhxNW9hR3JkaXlvTEIyVUl0aDRRYXZVNlkyZUEtVGJzb2lxRHpvT0hSUUVmYWZnVTRWZHprdHg0eG9uVEpualJ5QTF4aVBEN0twYm85WVJQVzNabF9PZ1B4QTDSAd4BQVVfeXFMT1plYk5STTd2elJkTVllLVdMOTkwMzd2ZjhpUktXQmtIWGdod1N0aVF6eTR0N3pxY1BrRUJxbUxKVUtNY0ZfQWNfUWFYT2hUSnlwRHlZbUZ3ZHVXZzlfZ04zOXJXVDB3eHJ2WWZfV205R3BjNVZCMjhxNVNSRUFMZ08wWFpkaGw5c0pRSjIyeVZlUFhSNFdVWHpaTW9jUXBSM1NWRGRONjFuY3ZoR2FSUUplZGVkUEt5UFpSaXVBWnhjVG03MnY4QUplUXpsZEs5dXZSNWFHd1lKN25TTjhR?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:18:11 GMT",
+  "published_ts": 1784053091,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMDMtLXRXYnh6THNBaU5DaU43ZnZkMWtIdkFON09UNjhZTmgwZi1ZYWd2bTVGMUQxUHpMMXFFQ21kZ3FiaFJwb1NFUy1NTjZZRFFMUTZ5SVoyQm43UXB0SHNYWDc0Sm9zTmJRRDBDOGhiUGVBcjJiTVNnRUZIbjhxNW9hR3JkaXlvTEIyVUl0aDRRYXZVNlkyZUEtVGJzb2lxRHpvT0hSUUVmYWZnVTRWZHprdHg0eG9uVEpualJ5QTF4aVBEN0twYm85WVJQVzNabF9PZ1B4QTDSAd4BQVVfeXFMT1plYk5STTd2elJkTVllLVdMOTkwMzd2ZjhpUktXQmtIWGdod1N0aVF6eTR0N3pxY1BrRUJxbUxKVUtNY0ZfQWNfUWFYT2hUSnlwRHlZbUZ3ZHVXZzlfZ04zOXJXVDB3eHJ2WWZfV205R3BjNVZCMjhxNVNSRUFMZ08wWFpkaGw5c0pRSjIyeVZlUFhSNFdVWHpaTW9jUXBSM1NWRGRONjFuY3ZoR2FSUUplZGVkUEt5UFpSaXVBWnhjVG03MnY4QUplUXpsZEs5dXZSNWFHd1lKN25TTjhR?oc=5\" target=\"_blank\">Is SK Hynix (KOSE:A000660) Still Below Fair Value After Its Pullback?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst valuation assessment of SK hynix following a stock pullback, evaluating whether the holding remains undervalued. Opinion/analysis piece rather than a concrete event or new hard data."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "bfdf09edd2bcfad29eef93c8f1919234947d80c0",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "NVIDIA vs SanDisk: Is Storage the Next AI Winner? - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlRuSU1naTJPTWhvOTlsNHNkOXlPbUcxYUxPNXM2OU9DZ2hWSGRLQUVxYlRIX0dpaHpYYzh2LTVicFp3SEdSSlBMYUtUb2dHMFI1WHBNZlE4WXMtVkh0S3dZdVp6X1FSVVpQZHlTOXI5aHVoZTBYTGRrOGpSdjlFZnFQaERqTTJrMU1UeEZfQUZoWGIxclE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:00:12 GMT",
+  "published_ts": 1784052012,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlRuSU1naTJPTWhvOTlsNHNkOXlPbUcxYUxPNXM2OU9DZ2hWSGRLQUVxYlRIX0dpaHpYYzh2LTVicFp3SEdSSlBMYUtUb2dHMFI1WHBNZlE4WXMtVkh0S3dZdVp6X1FSVVpQZHlTOXI5aHVoZTBYTGRrOGpSdjlFZnFQaERqTTJrMU1UeEZfQUZoWGIxclE?oc=5\" target=\"_blank\">NVIDIA vs SanDisk: Is Storage the Next AI Winner?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "NVIDIA vs SanDisk: Is Storage the Next AI Winner? - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece analyzing SanDisk (a DRAM fund holding) as a potential AI-driven storage opportunity amid NVIDIA's dominance. Speculative analysis rather than a concrete event or development."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "911a1cb4a72ff2ee1a64cbcb5fd2fdb35b8d725a",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Samsung Weighs U.S. ADR Listing - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1htZ3FCb3AyeWNfdEtlVnlDU2pQRDU0Tzk3V1dMeU11TlBHX21pUGNraHBETDRfbWV5bUstWEoxdERQQnVQVzA2cE8xVUJ4WlEyb0tNSUxwbVVHcVBfTHF2VlctSEVWT3VULUE2Ry1XTFZjblNYa0Zvdm43Q21SbndBSnJSd2xhdnMtMXF2WDE4NEtm?oc=5",
+  "published_at": "Tue, 14 Jul 2026 17:08:07 GMT",
+  "published_ts": 1784048887,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1htZ3FCb3AyeWNfdEtlVnlDU2pQRDU0Tzk3V1dMeU11TlBHX21pUGNraHBETDRfbWV5bUstWEoxdERQQnVQVzA2cE8xVUJ4WlEyb0tNSUxwbVVHcVBfTHF2VlctSEVWT3VULUE2Ry1XTFZjblNYa0Zvdm43Q21SbndBSnJSd2xhdnMtMXF2WDE4NEtm?oc=5\" target=\"_blank\">Samsung Weighs U.S. ADR Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is considering a U.S. ADR listing. While Samsung is a major DRAM and memory-chip producer and a fund holding, an ADR listing is a corporate finance/capital structure decision rather than a concrete event affecting memory demand, pricing, or production. The story reports deliberation (\"weighs\") not an announcement. Material only if listing is officially confirmed and closes."
+  },
+  "buffered_ts": 1784054296.9657283
+ },
+ {
+  "id": "05b81c7f27cf6555ce3cacb88059a213e68fe19f",
+  "source": "GuruFocus",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF (DRAM) Faces First Close Below Inception Av - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVJxbkRIRkFyVWhqanQ0WERsNU1sOGxBZEprczZmUFl2ZHl3N3pCRS10TVU4UXJkZGFPRVpGZnBNZVNpMGlHMC1fZmJKRTBBN21TRHRIcWg5QzdMZkpVZkV2YWp6M0ZEYlZ1cDFrVVROTXBZemZkS0FhS0xkd3VKTExsaU95eTE3NnJETEIxeGZoSFhpQXR3d01ISWIzTlNBcnFkbkdaRkZtWDJGSC12N29n?oc=5",
+  "published_at": "Tue, 14 Jul 2026 09:18:18 GMT",
+  "published_ts": 1784020698,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVJxbkRIRkFyVWhqanQ0WERsNU1sOGxBZEprczZmUFl2ZHl3N3pCRS10TVU4UXJkZGFPRVpGZnBNZVNpMGlHMC1fZmJKRTBBN21TRHRIcWg5QzdMZkpVZkV2YWp6M0ZEYlZ1cDFrVVROTXBZemZkS0FhS0xkd3VKTExsaU95eTE3NnJETEIxeGZoSFhpQXR3d01ISWIzTlNBcnFkbkdaRkZtWDJGSC12N29n?oc=5\" target=\"_blank\">Roundhill Memory ETF (DRAM) Faces First Close Below Inception Av</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) closed below its inception average for the first time. This is a fund performance note with limited material significance—it reflects historical NAV movement but does not signal a concrete catalyst or new information about holdings or the memory cycle itself."
+  },
+  "buffered_ts": 1784054296.9657283
  }
 ]
