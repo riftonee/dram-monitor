@@ -1361,5 +1361,197 @@
    "summary": "Seagate announced its next earnings call is scheduled for July 28. This is a routine calendar announcement with no forward-looking information or concrete developments; it merely signals when the company will report results."
   },
   "buffered_ts": 1784059707.3814666
+ },
+ {
+  "id": "e05aa29c363641418da498b74a2262637f51aef7",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Jim Cramer Didn’t Hold Back With SanDisk Corporation (SNDK) Price Target Upgrade - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXRoNkZsWUhWOURWTUEydy1JUm1aRFg4VVZHWDU4UVdnazBFYnoteVRwRmpLRGRXd1NmV1puQm9meTFmY3V6ZTBvaUpGemVEUFE3Z1BFWVNkbjhpQ0R3VlZpU1N1RVlqRDZYZXpHa0FzZjBPLXNxb0tuUzVxX29DRFZqbmZsNDlOUElRNUZMeHU?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:37:07 GMT",
+  "published_ts": 1784061427,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXRoNkZsWUhWOURWTUEydy1JUm1aRFg4VVZHWDU4UVdnazBFYnoteVRwRmpLRGRXd1NmV1puQm9meTFmY3V6ZTBvaUpGemVEUFE3Z1BFWVNkbjhpQ0R3VlZpU1N1RVlqRDZYZXpHa0FzZjBPLXNxb0tuUzVxX29DRFZqbmZsNDlOUElRNUZMeHU?oc=5\" target=\"_blank\">Jim Cramer Didn’t Hold Back With SanDisk Corporation (SNDK) Price Target Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Jim Cramer upgraded SanDisk (SNDK) price target. Analyst price-target changes and commentary are opinion-driven sentiment signals rather than concrete market events; they reflect analysis of known information rather than new developments. This is relevant to the holding but soft impact."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "5848f428951bf21d8d46ce1c2c849b35a919b60f",
+  "source": "The Economic Times",
+  "topic": "holding",
+  "title": "Why SanDisk stock plunged despite Wall Street's bullish outlook - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOanhTSjgzMEdLdHd2Z1BobFJEbmZCTU9fRWk0dE5pb2g1RXFieVlMV0FZMHhMdWZGcnBINXJEV1UzdjhuRG5HY3o2Y3lqZUtnZ0FET3doZThLZ1NXUHVockx6R0ljZE55TU9ZWlBsNHdsVWlpWm5BU1NqMkkyakxmajk0dHJIR21oN1RXN0NvYzRTQy01UHFTMk95TXN0dTZXR2F6dkZhaFliQzFkMTU5RXA3cTZzeGdXR1pabkdEV3BxbnI2MGxBel9kQVJVSjNlLUgzMzVGSXRfeGZYTWlvam1ITVJPVUdKU1NTOXVPa3o4WEo2eTNYSg?oc=5",
+  "published_at": "Tue, 14 Jul 2026 19:05:12 GMT",
+  "published_ts": 1784055912,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOanhTSjgzMEdLdHd2Z1BobFJEbmZCTU9fRWk0dE5pb2g1RXFieVlMV0FZMHhMdWZGcnBINXJEV1UzdjhuRG5HY3o2Y3lqZUtnZ0FET3doZThLZ1NXUHVockx6R0ljZE55TU9ZWlBsNHdsVWlpWm5BU1NqMkkyakxmajk0dHJIR21oN1RXN0NvYzRTQy01UHFTMk95TXN0dTZXR2F6dkZhaFliQzFkMTU5RXA3cTZzeGdXR1pabkdEV3BxbnI2MGxBel9kQVJVSjNlLUgzMzVGSXRfeGZYTWlvam1ITVJPVUdKU1NTOXVPa3o4WEo2eTNYSg?oc=5\" target=\"_blank\">Why SanDisk stock plunged despite Wall Street's bullish outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Economic Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock declined despite Wall Street maintaining a bullish outlook. This is a price-move story likely driven by earnings or market sentiment rather than a concrete new catalyst. As a fund holding, the stock movement is relevant but the absence of a distinct catalyst separate from known results limits impact to 3."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "6459c24872c8232abcf46eb3233d9dba99475070",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix Leveraged ETFs Sink Over 60% From Peak as AI Selloff Deepens - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEpUeUdhTXJXQ1Vjbms4VGxFQmpRaWJVdDFWMmVKZE8wcFFKWHFaajVfd3FOTURfV0NTdXpnS0ZIb09VaUtEc0pMLVZBc2VZTTdtaFBob0pYcWQ0Sk1WczJfeTJnTFBEM09vMEtiVGh1UGlXbHhYaTl3ZTRyX2tmcE5SdkNkZWpKaE1SMTBvRXpMX1NmWVpiSVE3enBGc2FRZ01nUTdYdk5sSk9IR3dEQXg5UXMzakFFcGFGOHhkbml5Y3JmRVpr?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:18:34 GMT",
+  "published_ts": 1784060314,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEpUeUdhTXJXQ1Vjbms4VGxFQmpRaWJVdDFWMmVKZE8wcFFKWHFaajVfd3FOTURfV0NTdXpnS0ZIb09VaUtEc0pMLVZBc2VZTTdtaFBob0pYcWQ0Sk1WczJfeTJnTFBEM09vMEtiVGh1UGlXbHhYaTl3ZTRyX2tmcE5SdkNkZWpKaE1SMTBvRXpMX1NmWVpiSVE3enBGc2FRZ01nUTdYdk5sSk9IR3dEQXg5UXMzakFFcGFGOHhkbml5Y3JmRVpr?oc=5\" target=\"_blank\">SK Hynix Leveraged ETFs Sink Over 60% From Peak as AI Selloff Deepens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix leveraged ETFs have declined over 60% from their peak amid an AI sector selloff. This reflects market repricing of a major fund holding but is a price-movement story driven by broader sentiment rather than company-specific news or concrete operational developments."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "354ac283a24bdf683610fef502e87c700fcd2bfa",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix ADR Premium Balloons to Nearly 50% Over Korean Shares - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0RQcDNSWThCakhyR0V6UnBaUlQxTjRabXVYVkpsQVN3ZXAwOEtPcU1CTkV2Skx1WEJjdmtWbXVKcDJzYWhIaThISE0xWTVhemYzcEFQRE5fZGtmUVo1VVdTUFB3WWhCay1TOFlzcXhoODR0bkgxMXhqSlVVeEtwSGtPYjRhRW93VE9iNHNtS1ppdHJzWlVkemM5bVBoZFVuUm9EV0FLQkpuZ0g4ZmF6WE13?oc=5",
+  "published_at": "Tue, 14 Jul 2026 17:26:21 GMT",
+  "published_ts": 1784049981,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0RQcDNSWThCakhyR0V6UnBaUlQxTjRabXVYVkpsQVN3ZXAwOEtPcU1CTkV2Skx1WEJjdmtWbXVKcDJzYWhIaThISE0xWTVhemYzcEFQRE5fZGtmUVo1VVdTUFB3WWhCay1TOFlzcXhoODR0bkgxMXhqSlVVeEtwSGtPYjRhRW93VE9iNHNtS1ppdHJzWlVkemM5bVBoZFVuUm9EV0FLQkpuZ0g4ZmF6WE13?oc=5\" target=\"_blank\">SK Hynix ADR Premium Balloons to Nearly 50% Over Korean Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a 50% premium to Korean-listed shares, reflecting valuation arbitrage and potential investor demand for US-listed exposure. While material to the holding, this is a market pricing/structural phenomenon rather than a concrete event affecting the company's fundamentals or the memory cycle."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "36d9f61b38460bf82f1225b1562e0c02fe9b2ea3",
+  "source": "Notebookcheck",
+  "topic": "holding",
+  "title": "Smartphone sales plunge: AI boom worsens global memory woes - Notebookcheck",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVVtZUJ5WERRLTc2c0dKdXBxeEN4OUZfMnpOTTR5dS1xZElva2hJa1F2blA0anBSalRCdkRTbEU3am9JcGQwMGhoUl9JUUNmZFdxZklSUFYtaUtHblY3azJFc0YtUUt0VXJSVkpNcmRXSnZvWmIzUFZMZ3B0MkhqLW1WLTRhZXBZVGdjc1d2MUl4RElmdTRkT1FWMGNpVE00RFZNN0pn?oc=5",
+  "published_at": "Mon, 13 Jul 2026 14:44:00 GMT",
+  "published_ts": 1783953840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVVtZUJ5WERRLTc2c0dKdXBxeEN4OUZfMnpOTTR5dS1xZElva2hJa1F2blA0anBSalRCdkRTbEU3am9JcGQwMGhoUl9JUUNmZFdxZklSUFYtaUtHblY3azJFc0YtUUt0VXJSVkpNcmRXSnZvWmIzUFZMZ3B0MkhqLW1WLTRhZXBZVGdjc1d2MUl4RElmdTRkT1FWMGNpVE00RFZNN0pn?oc=5\" target=\"_blank\">Smartphone sales plunge: AI boom worsens global memory woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Notebookcheck"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Smartphone sales decline amid AI boom creating competing demand for memory chips. Story discusses how AI infrastructure capex is pulling memory allocation away from traditional consumer device markets, affecting overall memory supply dynamics and pricing pressure across the industry."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "9d2d464476220a2579bf8fa64b64455ff01e83d4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix: I'm Not Buying Until Q2 Blows Over (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUF4eVBXRVd3eVhpN0F0U1N4QjNqUVFFMTNVenBUWnZidkhMYVVUNF81dG5nWkFnN045RFZKQTVub2dlcndkdW4tTE5CNjFpU3ZXeTdEWHVJMFI0VFk5SGNFLTdoQkUxVUpJTzJPNkhVcFVvdTNxekVvclVFQ19xSnNDOGVfa3dqR2ow?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:37:03 GMT",
+  "published_ts": 1784061423,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUF4eVBXRVd3eVhpN0F0U1N4QjNqUVFFMTNVenBUWnZidkhMYVVUNF81dG5nWkFnN045RFZKQTVub2dlcndkdW4tTE5CNjFpU3ZXeTdEWHVJMFI0VFk5SGNFLTdoQkUxVUpJTzJPNkhVcFVvdTNxekVvclVFQ19xSnNDOGVfa3dqR2ow?oc=5\" target=\"_blank\">SK hynix: I'm Not Buying Until Q2 Blows Over (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SK hynix (NASDAQ:SKHY), a major DRAM ETF holding, advising caution until Q2 earnings pass. This is analyst commentary and sentiment rather than a concrete event or new factual development."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "f5e8e77ece4cd72f9c2c1a4b77d15d455b32518a",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix ADR Explodes, Leaving Seoul Listing in the Dust - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnNZekFSVjllSEl6YjRJeHNFejBRQkRFdVBLUTJDdnJTSTdVb3daRzVTblA1YWpKZVhZZmxfVnpqNF96UWRzRUhDR0Jha2thcXoyN25QVkoxQ3BTd1lGWlRURnBVdWJYQV9TREpzNURHdHI3dzhMWUdQbThSdF9CbHJZTUZFS3U4aWZYNnZrVGR6d1VPSEVYS2JoQ0JfVGUwNUJTUjlMQTdrcjJNSTFORWVhWTlfVGs?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:50:00 GMT",
+  "published_ts": 1784062200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnNZekFSVjllSEl6YjRJeHNFejBRQkRFdVBLUTJDdnJTSTdVb3daRzVTblA1YWpKZVhZZmxfVnpqNF96UWRzRUhDR0Jha2thcXoyN25QVkoxQ3BTd1lGWlRURnBVdWJYQV9TREpzNURHdHI3dzhMWUdQbThSdF9CbHJZTUZFS3U4aWZYNnZrVGR6d1VPSEVYS2JoQ0JfVGUwNUJTUjlMQTdrcjJNSTFORWVhWTlfVGs?oc=5\" target=\"_blank\">SK Hynix ADR Explodes, Leaving Seoul Listing in the Dust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading showing significant outperformance versus Seoul-listed stock. Price divergence between listings noted but no new fundamental catalyst or market-moving event disclosed; appears to be technical trading/arbitrage observation rather than earnings or material news."
+  },
+  "buffered_ts": 1784064634.965077
+ },
+ {
+  "id": "c8b8642ae956abc6613c7f9fef46e418a0d900c6",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk9GQUVmTkVKbFJMeUxmcmxIenZ3SmVpSWF5cmthdktZeFBnM19BeVQ5Z1ZNTHhMdkRMc3R3Z2JQNlFJMDEyd2ktNGRTeVMwQzBka21nRm5ORWdfVmZDcWk5TzIxV2I1b3lEM2Nra1pGb3pfVS02d1pJV2RFZlFYZ3FHMWtfazBES0JzTEZ1SjFDd1FZZXNkeVMzOXVTSy1aUU1iaUdfN2JJcVIxbFBMYWJ1d2pmRTAzWEJN0gHAAUFVX3lxTE5CT210elRzNllKV04yazBJQ05ia2t5bDUzSnllV01GQVE0b25DcjRaZ0R6UHNMcVBIWjk0RkhndUJ4NXkweUdLb0VxWmNfa0ZUXzNIRm9WR05sckxaN25RSVRkUWQ0b1BvVzEybGczeGdTY3BBbHU4OE0zTThxbk53NWprYVdFdUlIOU1yb0xMSlpsSUZsdDY0M1ZmOUVDSlg4emhvVk9sMDMzU2lOeUhDVTNxaU5Mc2xIY3pOeU02RA?oc=5",
+  "published_at": "Tue, 14 Jul 2026 19:18:57 GMT",
+  "published_ts": 1784056737,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk9GQUVmTkVKbFJMeUxmcmxIenZ3SmVpSWF5cmthdktZeFBnM19BeVQ5Z1ZNTHhMdkRMc3R3Z2JQNlFJMDEyd2ktNGRTeVMwQzBka21nRm5ORWdfVmZDcWk5TzIxV2I1b3lEM2Nra1pGb3pfVS02d1pJV2RFZlFYZ3FHMWtfazBES0JzTEZ1SjFDd1FZZXNkeVMzOXVTSy1aUU1iaUdfN2JJcVIxbFBMYWJ1d2pmRTAzWEJN0gHAAUFVX3lxTE5CT210elRzNllKV04yazBJQ05ia2t5bDUzSnllV01GQVE0b25DcjRaZ0R6UHNMcVBIWjk0RkhndUJ4NXkweUdLb0VxWmNfa0ZUXzNIRm9WR05sckxaN25RSVRkUWQ0b1BvVzEybGczeGdTY3BBbHU4OE0zTThxbk53NWprYVdFdUlIOU1yb0xMSlpsSUZsdDY0M1ZmOUVDSlg4emhvVk9sMDMzU2lOeUhDVTNxaU5Mc2xIY3pOeU02RA?oc=5\" target=\"_blank\">SK Hynix options begin trading. But another group of stocks is stealing its thunder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix options trading begins, a structural market development that enables derivatives trading on the stock but carries no material news about the company's memory business, demand, or financial performance."
+  },
+  "buffered_ts": 1784064634.965077
  }
 ]
