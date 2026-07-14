@@ -1721,5 +1721,149 @@
    "summary": "SK Hynix stock experienced intraday volatility with a 9% selloff followed by a rebound. The article reports on the price movement itself without disclosing the underlying catalyst or any new fundamental information."
   },
   "buffered_ts": 1784068394.4802465
+ },
+ {
+  "id": "535f1fd2cd5940377e6c9e44b03ec47573ce0135",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "【Morning Report】SK Hynix surges 27%, IBM plunges 25%; corpor... - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHduZjlWeDNjelhLVG5pQWVsMkVHeWlRbjUtMGhTYm9RUjFtSkhzZHBTbmRtaEhlNzViZjJCSDFmUnU0NXFUeXI2dC1LZkxuTkUtTWl2SkpCMGJRTDBBUG85cTF2cHNRUnNOTjRxRXVncy1OMVpqQXRFcC15WmY2OFZlVXJwYVZyVThGTFVFV0pabm5lUWwyUHlKMmc5MXdjZ28zOEc1R1hLSXRUQ2hGaTl3?oc=5",
+  "published_at": "Tue, 14 Jul 2026 23:11:38 GMT",
+  "published_ts": 1784070698,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHduZjlWeDNjelhLVG5pQWVsMkVHeWlRbjUtMGhTYm9RUjFtSkhzZHBTbmRtaEhlNzViZjJCSDFmUnU0NXFUeXI2dC1LZkxuTkUtTWl2SkpCMGJRTDBBUG85cTF2cHNRUnNOTjRxRXVncy1OMVpqQXRFcC15WmY2OFZlVXJwYVZyVThGTFVFV0pabm5lUWwyUHlKMmc5MXdjZ28zOEc1R1hLSXRUQ2hGaTl3?oc=5\" target=\"_blank\">【Morning Report】SK Hynix surges 27%, IBM plunges 25%; corpor...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix (a major DRAM ETF holding) surged 27%, representing a significant confirmed stock move. The headline indicates a concrete market event with a substantial price change that warrants tracking as a material development for the fund."
+  },
+  "buffered_ts": 1784073090.3515887
+ },
+ {
+  "id": "e182b459f6ae5936521573d42fc03f57a6c181aa",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "AI Chip Stocks Rebound, Led by SK Hynix's 27% Surge: More Rally Ahead? - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRERhOFl0eUQxQW0wUUpEajdQRHdpTy00c1Y5NlpSZUJMS0lLZDA0R09hc084MHZqR0prdHdHYmJ5enczQkJUMWFPMUZaYWkydU5YT0JNU05WcThFajFDdUhZZ3JDQ05UX1FFUENvcmw5TVpTa0xla2lfMVE1MWRyWHNYX1UyTXFyMWhjc2dYVzFUV2NJUldoelg1ZldnME0?oc=5",
+  "published_at": "Tue, 14 Jul 2026 22:07:30 GMT",
+  "published_ts": 1784066850,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRERhOFl0eUQxQW0wUUpEajdQRHdpTy00c1Y5NlpSZUJMS0lLZDA0R09hc084MHZqR0prdHdHYmJ5enczQkJUMWFPMUZaYWkydU5YT0JNU05WcThFajFDdUhZZ3JDQ05UX1FFUENvcmw5TVpTa0xla2lfMVE1MWRyWHNYX1UyTXFyMWhjc2dYVzFUV2NJUldoelg1ZldnME0?oc=5\" target=\"_blank\">AI Chip Stocks Rebound, Led by SK Hynix's 27% Surge: More Rally Ahead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock surged 27%, leading a rebound in AI chip stocks. The article speculates on whether the rally will continue but does not report a concrete catalyst or new material event—it appears to be commentary on an observed price move without a distinct news trigger beyond the stock movement itself."
+  },
+  "buffered_ts": 1784073090.3515887
+ },
+ {
+  "id": "ad779c9a78ab6c6f4b6a0c038f3d159194ce3b26",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Jim Cramer Discusses Key Supply Issue For SK Hynix (SKHY) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZC1WNG1NRmY1S1NnLW9iQk5zWFg3VEtVZ21zaXNaM3lhNGJIMzBjZHZCTmFZYkluN3VXQy1mWVpDSFRQTVQ1eXJlN3NFZnZVdkV6VEkwT1ZvMjF1Zk1sVV9iQVBONTR0OVZTVnFFT19HaERCWWFYUlBscmxPb0hCY2ZELVQ4YjdqOHQ2NkpONFRWZ09TMWFQNlF4SWI?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:35:54 GMT",
+  "published_ts": 1784061354,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZC1WNG1NRmY1S1NnLW9iQk5zWFg3VEtVZ21zaXNaM3lhNGJIMzBjZHZCTmFZYkluN3VXQy1mWVpDSFRQTVQ1eXJlN3NFZnZVdkV6VEkwT1ZvMjF1Zk1sVV9iQVBONTR0OVZTVnFFT19HaERCWWFYUlBscmxPb0hCY2ZELVQ4YjdqOHQ2NkpONFRWZ09TMWFQNlF4SWI?oc=5\" target=\"_blank\">Jim Cramer Discusses Key Supply Issue For SK Hynix (SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Jim Cramer commentary on a supply issue affecting SK hynix, a major DRAM ETF holding. Commentary and discussion are opinion-based rather than reporting a confirmed event or hard data, placing this at impact 3."
+  },
+  "buffered_ts": 1784073090.3515887
+ },
+ {
+  "id": "b678fbbf1ee0e0ca47bac459477817018d0dc595",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADR Surges 27% on AI Optimism - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3ljZng4Z1pzZG1fODY5emdaQmRLcVB6elg1QnNCYVRWNkdfdjd1c2ItbjBUeURCV2lxM2owX1ByNnlBdFZ1MDIwQlI0YzdfbmQ1NE16R0t0RWVrQVpkTnRpaUFNYWVfRDVodHhYY2xBRzY4OXlnZGlTcVRjN3l4b2J0U2JKa0drSDhtdXNR?oc=5",
+  "published_at": "Tue, 14 Jul 2026 22:59:34 GMT",
+  "published_ts": 1784069974,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3ljZng4Z1pzZG1fODY5emdaQmRLcVB6elg1QnNCYVRWNkdfdjd1c2ItbjBUeURCV2lxM2owX1ByNnlBdFZ1MDIwQlI0YzdfbmQ1NE16R0t0RWVrQVpkTnRpaUFNYWVfRDVodHhYY2xBRzY4OXlnZGlTcVRjN3l4b2J0U2JKa0drSDhtdXNR?oc=5\" target=\"_blank\">SK Hynix ADR Surges 27% on AI Optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR rose 27% attributed to AI optimism. This is a significant price move of a key fund holding, but without a stated concrete catalyst (earnings release, guidance change, deal announcement, or production decision), the surge reflects market sentiment rather than new material information. Post-move analysis pieces and sentiment-driven rallies score as impact 3."
+  },
+  "buffered_ts": 1784073090.3515887
+ },
+ {
+  "id": "61931bdb4ef5f4b1849aacc9c9324c0d2b0d434b",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Apple faces complications in iPhone purchases as memory-chip shortage reshapes consumer electronics - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSRXpMa05sOF9yUkxBTHIzODE1Tm94Zmx5Rkd1ZzRwQmJfdExmU2V4b3JKQUNsUTBhb1Q3M3RJbFh6d25DYVkyN09BRFYzcGhXMWhqM0xUUHc5UWw4OHp1VHNKdnl5bHJiSVc2Zkt3?oc=5",
+  "published_at": "Tue, 14 Jul 2026 23:39:44 GMT",
+  "published_ts": 1784072384,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBSRXpMa05sOF9yUkxBTHIzODE1Tm94Zmx5Rkd1ZzRwQmJfdExmU2V4b3JKQUNsUTBhb1Q3M3RJbFh6d25DYVkyN09BRFYzcGhXMWhqM0xUUHc5UWw4OHp1VHNKdnl5bHJiSVc2Zkt3?oc=5\" target=\"_blank\">Apple faces complications in iPhone purchases as memory-chip shortage reshapes consumer electronics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Brief mention of memory-chip shortage affecting iPhone purchases and broader consumer electronics. Generic reference to supply-chain disruption without specific production cuts, pricing data, holding company impacts, or concrete market events."
+  },
+  "buffered_ts": 1784073090.3515887
+ },
+ {
+  "id": "a31bff80f6bfc34cf2017eb1b6fdb3544086c569",
+  "source": "scanx.trade",
+  "topic": "holding",
+  "title": "Seagate Technology to report fiscal fourth quarter and FY26 results on July 28 - scanx.trade",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1h3N21oZ1Z4MHVva3FpWEJnOVlxNEQzRk51ZGZxOW8wamtVelFHNG9MelhYaFQ1THZLTXM0QUpKWTdUQ29JejEtejFpN2JuZU1vN3FsQURrZWFNbDVicm1Hb3Ftb2FvcGFkV3I2NDR6QzJCbXhtNUwtMmd4RlpqYWJiYzlVbWgtUDhQaldVZGlHa2VJYU5Pek1Ob29QenFpNkE1Y1JhaEp1LWNwYTlfVVZ3Z2pZak4xMHNzYlZmSXZwX21Dck5PVnRWMkdwRHJi?oc=5",
+  "published_at": "Tue, 14 Jul 2026 23:35:06 GMT",
+  "published_ts": 1784072106,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1h3N21oZ1Z4MHVva3FpWEJnOVlxNEQzRk51ZGZxOW8wamtVelFHNG9MelhYaFQ1THZLTXM0QUpKWTdUQ29JejEtejFpN2JuZU1vN3FsQURrZWFNbDVicm1Hb3Ftb2FvcGFkV3I2NDR6QzJCbXhtNUwtMmd4RlpqYWJiYzlVbWgtUDhQaldVZGlHa2VJYU5Pek1Ob29QenFpNkE1Y1JhaEp1LWNwYTlfVVZ3Z2pZak4xMHNzYlZmSXZwX21Dck5PVnRWMkdwRHJi?oc=5\" target=\"_blank\">Seagate Technology to report fiscal fourth quarter and FY26 results on July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "scanx.trade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, will report fiscal Q4 and FY26 results on July 28. This is a scheduled earnings announcement with no new information yet; the actual results and guidance will drive material impact when released."
+  },
+  "buffered_ts": 1784073090.3515887
  }
 ]
