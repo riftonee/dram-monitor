@@ -1038,5 +1038,173 @@
    "summary": "SanDisk stock fell 10.6% in sector-wide selling. The headline reports only the price move without a stated catalyst or new information, suggesting it is a market reaction to existing conditions rather than a concrete event. As a holding with a notable intraday move but lacking a distinct news driver beyond sector dynamics, this merits a minor relevance flag."
   },
   "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "933e345d7122a1d0dd6303d9435c9e441e672358",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 6.72% on Jul 15: Key Drivers Unveiled - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXhvbTYwczVCTmJDWDNRRDFsZEZyU0lhUW5tTEJ4Vm42eGdzbm1mY3pFNll1YUlHQWRLOTU5VG5RM0dEVmhNR3FpZ2JsaHVBazR5TWhfVDIxS1F3LTdXSUx0aHRhNThpWFdraVhwZjBGWEpURXlYS2wxa0xEUllpN3R0RDFFd09lSnc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:15:21 GMT",
+  "published_ts": 1784139321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXhvbTYwczVCTmJDWDNRRDFsZEZyU0lhUW5tTEJ4Vm42eGdzbm1mY3pFNll1YUlHQWRLOTU5VG5RM0dEVmhNR3FpZ2JsaHVBazR5TWhfVDIxS1F3LTdXSUx0aHRhNThpWFdraVhwZjBGWEpURXlYS2wxa0xEUllpN3R0RDFFd09lSnc?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC Stock (STX) Moved Down by 6.72% on Jul 15: Key Drivers Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, declined 6.72% on Jul 15 with key drivers cited. The headline indicates a stock move and explanation, but without the actual drivers detailed in the snippet, this reads as a post-move analysis rather than a concrete catalyst distinct from earnings or other reported events. Typical of 'price moved, here's why' retrospective coverage."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "9d5b7c289f165d9ea00eeb662f4ac156b814035f",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Western Digital Corp Stock (WDC) Moved Down by 9.05% on Jul 15: What Investors Need To Know - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVVycllhd3pRM3NxRFNqdTVrS2o5bGFkemRmTE11MXIzRGlNU0thLXFMckZ1NEhJOTd5ZTBxZ3FRanM1Q1k3TEo4bGhET050ekdDUmRJVHhLWkF2QzNUZy05M1dhcUFaX2kwZkc5NjRmMk83TkY0aTVqczY3dlpxamtrNlFVdTJaRXc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:15:17 GMT",
+  "published_ts": 1784139317,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVVycllhd3pRM3NxRFNqdTVrS2o5bGFkemRmTE11MXIzRGlNU0thLXFMckZ1NEhJOTd5ZTBxZ3FRanM1Q1k3TEo4bGhET050ekdDUmRJVHhLWkF2QzNUZy05M1dhcUFaX2kwZkc5NjRmMk83TkY0aTVqczY3dlpxamtrNlFVdTJaRXc?oc=5\" target=\"_blank\">Western Digital Corp Stock (WDC) Moved Down by 9.05% on Jul 15: What Investors Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a fund holding, declined 9.05% on July 15. The article reports the stock move but does not identify a distinct catalyst (e.g., earnings, guidance change, deal announcement, or production decision) separate from market digestion. Stock moves without stated cause or tied to already-reported events are scored as 3."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "db94d8c67dcfd37688f98817f2b9c86833a83eb6",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "AI Memory Crunch Locks In SK Hynix Lead as $713B Plan Weathers Historic Swing - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbndrYzNPNEhDMEJUQ1phcGN5c1Y2c3dIbXNadS1rSDNnaHU4a3JzVkE0ZDZhZGVmalZqeDM0Zk1naDJ1MGNVdDJWSHJKS1BqR2Q0V0ptXzl4ZVMydF9qblctRTlpZ0ZhRE1la1lCZjlIMmFHMWZJRGVsUUJKb1p6UmtzWkw1UURCTVF5STQwdkxuS29yV1dQTEtXTkQ0R08zYjdoOURSZEx1SE5wZU8wQlVSOXU3b2djMnhmUjJ2TXJLUE0?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:11:24 GMT",
+  "published_ts": 1784139084,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbndrYzNPNEhDMEJUQ1phcGN5c1Y2c3dIbXNadS1rSDNnaHU4a3JzVkE0ZDZhZGVmalZqeDM0Zk1naDJ1MGNVdDJWSHJKS1BqR2Q0V0ptXzl4ZVMydF9qblctRTlpZ0ZhRE1la1lCZjlIMmFHMWZJRGVsUUJKb1p6UmtzWkw1UURCTVF5STQwdkxuS29yV1dQTEtXTkQ0R08zYjdoOURSZEx1SE5wZU8wQlVSOXU3b2djMnhmUjJ2TXJLUE0?oc=5\" target=\"_blank\">AI Memory Crunch Locks In SK Hynix Lead as $713B Plan Weathers Historic Swing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Story covers SK hynix's competitive position in AI memory demand and references a $713B investment plan. While it identifies a material trend (AI memory crunch favoring SK hynix), the headline frames this as analysis of market positioning rather than a new concrete event or official announcement. Without details of a freshly announced or confirmed capex decision distinct from prior guidance, this reads as commentary on an established narrative."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "fd9beafda537d7cb15b80a5f3c7880170459fbc8",
+  "source": "Investor's Business Daily",
+  "topic": "holding",
+  "title": "Is This Why Memory Stocks Are Plunging? - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0d4T3NPRlk1V0dXbXRiV3luNFhjbG5RRWtMRWNRTzIyNmtUaUZNandZdWFWTUN0eTctR2Z1MDZrRFJlamRfUDFZS3hQQVpFTThLWjNFbnBKb2FxNG9GczV3V2l6QnNsc1FnU0NUbjZIS2lTQTZ6NFNPczF5aWdMa202Tjl1TUNEeXdkTFZB?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:01:00 GMT",
+  "published_ts": 1784138460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0d4T3NPRlk1V0dXbXRiV3luNFhjbG5RRWtMRWNRTzIyNmtUaUZNandZdWFWTUN0eTctR2Z1MDZrRFJlamRfUDFZS3hQQVpFTThLWjNFbnBKb2FxNG9GczV3V2l6QnNsc1FnU0NUbjZIS2lTQTZ6NFNPczF5aWdMa202Tjl1TUNEeXdkTFZB?oc=5\" target=\"_blank\">Is This Why Memory Stocks Are Plunging?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investor's Business Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece exploring reasons behind a decline in memory stocks. While relevant to DRAM fund holdings, this is opinion/analysis of a price move rather than a concrete catalyst or new information driving the move."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "44aab3a814fc2415377d609ac626900bae48a686",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Arista, Seagate and Astera Lead AI Picks - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObENkeGs1eE9sYWVZdXRhMjZQQXpBdmZHRWVUeXdTRzFXLUlTLUdhbThSNEJIWEpvaE9qc3prRUd2eF8zNE5RNzJSb241ajN6YWxSQmNtX2ktOGJIQTZ5V1h3MTdSQTFTcXozTm0td2tKTkxZR0d2MDVkMXdabTEwYXpmQWpTb04ybWtVTzJUUHVOY3VOSWFLU21iTTFNbmdo?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:42:48 GMT",
+  "published_ts": 1784140968,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObENkeGs1eE9sYWVZdXRhMjZQQXpBdmZHRWVUeXdTRzFXLUlTLUdhbThSNEJIWEpvaE9qc3prRUd2eF8zNE5RNzJSb241ajN6YWxSQmNtX2ktOGJIQTZ5V1h3MTdSQTFTcXozTm0td2tKTkxZR0d2MDVkMXdabTEwYXpmQWpTb04ybWtVTzJUUHVOY3VOSWFLU21iTTFNbmdo?oc=5\" target=\"_blank\">Arista, Seagate and Astera Lead AI Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TradingView analysis identifying Seagate (holding) among AI-sector picks. This is analyst commentary/opinion on stock selection rather than a concrete event or material development tied to the memory cycle."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "dca7cfaa658c67aed764651a974e2941d05f6bcb",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "SK Hynix Drops 5%, SanDisk Slides 6%, Western Digital Slips 4% as Traders Take Profits in Memory Stocks - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQng2eklyMHZPb1RVLXA0MVdwb0l2bTEzdG8taDlteGlMTWprMHh2NDdvWGF0b00ySV9zNEFfUHlOOE1kczN5VUUzUm1rX1JLcHBrQU5HMl9MY2tXZjZoaG5LT0JzaFdjNjdzLTg5LVNrSWZjT2c?oc=5",
+  "published_at": "Wed, 15 Jul 2026 18:45:00 GMT",
+  "published_ts": 1784141100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQng2eklyMHZPb1RVLXA0MVdwb0l2bTEzdG8taDlteGlMTWprMHh2NDdvWGF0b00ySV9zNEFfUHlOOE1kczN5VUUzUm1rX1JLcHBrQU5HMl9MY2tXZjZoaG5LT0JzaFdjNjdzLTg5LVNrSWZjT2c?oc=5\" target=\"_blank\">SK Hynix Drops 5%, SanDisk Slides 6%, Western Digital Slips 4% as Traders Take Profits in Memory Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (SK Hynix, SanDisk, Western Digital) experienced modest single-digit declines attributed to profit-taking by traders. No underlying business catalyst, earnings, or supply/demand shift disclosed—purely a price-move piece with no distinct cause beyond general market sentiment."
+  },
+  "buffered_ts": 1784142341.3394098
+ },
+ {
+  "id": "8c8e91251ec31541067a2149eee962ad62b1e698",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Micron vs SanDisk: Which Memory Play Wins the AI Boom? - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Ym9lRnV1VFA1VjZuOHVZQ0IxcTF4eWs4ZFVGQmlJSEZYSHBldnY3bm5haDZ4MlFyMEFzT1QtZGpFU1ZKT1FwV2t3b0JuU2NNLS04UUJmNzRwZnpXbmVXVlZHRERBZEp3MThEZzN0TUY1UHVKYWFuWTJuSDFBdw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 16:42:13 GMT",
+  "published_ts": 1784133733,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42Ym9lRnV1VFA1VjZuOHVZQ0IxcTF4eWs4ZFVGQmlJSEZYSHBldnY3bm5haDZ4MlFyMEFzT1QtZGpFU1ZKT1FwV2t3b0JuU2NNLS04UUJmNzRwZnpXbmVXVlZHRERBZEp3MThEZzN0TUY1UHVKYWFuWTJuSDFBdw?oc=5\" target=\"_blank\">Micron vs SanDisk: Which Memory Play Wins the AI Boom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Comparative analysis piece discussing Micron and SanDisk as potential AI-boom beneficiaries. This is opinion/analysis rather than a concrete development, and lacks specific news, earnings data, or material events."
+  },
+  "buffered_ts": 1784142341.3394098
  }
 ]
