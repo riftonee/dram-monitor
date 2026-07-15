@@ -1737,5 +1737,77 @@
    "summary": "Opinion piece comparing SK hynix and Micron's positioning in the AI memory cycle. No concrete developments, earnings data, or pricing information reported—purely analytical commentary on the competitive landscape between two major fund holdings."
   },
   "buffered_ts": 1784156251.5462568
+ },
+ {
+  "id": "4bd4afda2dba5cbf9a4f653a8fe7366bc5b7369b",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "AI memory, chip stocks fall again after brief recovery despite strong ASML results - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3lHUGNsWmpmTWNFM2FieFNGVUl6ZW9yUF9FZWtHZ2tNZl9COHJaT2hFOHVFMklnUkk3dmVGVFB2dWdXdEZVNHc4S2xFOHdhQTRyVTk1NWJTZWtGeENicEtFSENKNEk4YXB2YUFDTXpSbHEwWjFTaGNScXBBMW9EQ3E0UTFPMU5MM1NmTzRpQTUwLVk1cEpoV2JwR2JmRmZkUDI5VUZBdVpUT2E2amlYRm12Vlg2RkEtNEZ3?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:38:01 GMT",
+  "published_ts": 1784129881,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3lHUGNsWmpmTWNFM2FieFNGVUl6ZW9yUF9FZWtHZ2tNZl9COHJaT2hFOHVFMklnUkk3dmVGVFB2dWdXdEZVNHc4S2xFOHdhQTRyVTk1NWJTZWtGeENicEtFSENKNEk4YXB2YUFDTXpSbHEwWjFTaGNScXBBMW9EQ3E0UTFPMU5MM1NmTzRpQTUwLVk1cEpoV2JwR2JmRmZkUDI5VUZBdVpUT2E2amlYRm12Vlg2RkEtNEZ3?oc=5\" target=\"_blank\">AI memory, chip stocks fall again after brief recovery despite strong ASML results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "AI memory and chip stocks, including DRAM fund holdings, declined following a brief rally, despite strong ASML earnings. This is a price-move story driven by market sentiment and existing data rather than new material developments specific to memory demand or supply."
+  },
+  "buffered_ts": 1784159977.3797386
+ },
+ {
+  "id": "efd592fdbb101f84fa41bc6d66fe4a967b375429",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADRs Plummet 9% After 27% Surge - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzVJUXBZRDdTVjdnOVR0aUY2eDVMemhBeS1iblNMbkx5WkMzU2x4Uy14RHNCUVdsYnFBdGw4c3RjR3U2d1YtejBRR1A3Y1FHckZSalFVekxITmpHZmp1emF6TEJ4bTVVUzhJRWJHTHNyM1ZwdldjOERoQVo0YWxYNHRIa2hwdi1KQXhnSkhn?oc=5",
+  "published_at": "Wed, 15 Jul 2026 23:48:45 GMT",
+  "published_ts": 1784159325,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzVJUXBZRDdTVjdnOVR0aUY2eDVMemhBeS1iblNMbkx5WkMzU2x4Uy14RHNCUVdsYnFBdGw4c3RjR3U2d1YtejBRR1A3Y1FHckZSalFVekxITmpHZmp1emF6TEJ4bTVVUzhJRWJHTHNyM1ZwdldjOERoQVo0YWxYNHRIa2hwdi1KQXhnSkhn?oc=5\" target=\"_blank\">SK Hynix ADRs Plummet 9% After 27% Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADRs fell 9% following a prior 27% surge. The headline reports a stock price move but does not state a distinct catalyst or concrete event—the plunge appears to be a market correction or digestion of the prior gains rather than a new earnings release, guidance change, or announced development. Without a stated fundamental cause, this is a price-action story scored as soft news."
+  },
+  "buffered_ts": 1784159977.3797386
+ },
+ {
+  "id": "86a9df475b1f18ae1e9a7c8b24dddf6f63c16579",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Sandisk Corporation’s stock price plummets to $1615, marking a significant 8.12% dip - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNERhRGJvMEJReGpEMWZvZ2tUUTYyanQyYzM2NmxhYnk5RkFTVGEzUDFNTW1qeGVDc0p3SGRybnZvOVRUOVBUV252aS0zZ1NBSDhXdWlsdTBjbS02Y21FclVINXpYZEE3azdxT3VRTWxrS2VMcXhoLUpRT2kyYkc1dmxZZ1VkaWIteDgzQ2xmZjVyTUJhczMxTTJ0azlkUlU4OU11ZGpXbzhJSUtOX0FVT2staDdmYXJTUk5acHBLWEsySDltU1E?oc=5",
+  "published_at": "Wed, 15 Jul 2026 21:38:46 GMT",
+  "published_ts": 1784151526,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNERhRGJvMEJReGpEMWZvZ2tUUTYyanQyYzM2NmxhYnk5RkFTVGEzUDFNTW1qeGVDc0p3SGRybnZvOVRUOVBUV252aS0zZ1NBSDhXdWlsdTBjbS02Y21FclVINXpYZEE3azdxT3VRTWxrS2VMcXhoLUpRT2kyYkc1dmxZZ1VkaWIteDgzQ2xmZjVyTUJhczMxTTJ0azlkUlU4OU11ZGpXbzhJSUtOX0FVT2staDdmYXJTUk5acHBLWEsySDltU1E?oc=5\" target=\"_blank\">Sandisk Corporation’s stock price plummets to $1615, marking a significant 8.12% dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Smartkarma"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock fell 8.12% to $1,615. No stated catalyst or context provided; appears to be a pure price-move report without underlying news or reason disclosed."
+  },
+  "buffered_ts": 1784159977.3797386
  }
 ]
