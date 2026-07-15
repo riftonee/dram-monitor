@@ -1641,5 +1641,101 @@
    "summary": "Pre-earnings preview for Seagate (STX), a DRAM ETF holding. Anticipatory article without new concrete information or guidance; typical earnings-season content. Impact is minimal until actual results are released."
   },
   "buffered_ts": 1784152613.5955126
+ },
+ {
+  "id": "3b0f3a92a7f3e7eb35f5260fc9ee82fe789b9fef",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "US Memory Chip Stocks Plunge Again: SanDisk Tumbles 13%, SK Hynix Crashes 10% on Valuation and Cycle Peak Fears - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnQ1R2WDVRLUY4V09FcUZ0RHRHQjcybVl2YjlIcm8xU3ZGdENoeDBpMkg0c1J2ZWJLQlRIcHdjUUxOU2l3S1RPRFJmTDA2SldyaTA3YTZkY3NqSmZxRWVhR3pCREZDQXNZem5Ca1c1SEl6STlhenc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:55:00 GMT",
+  "published_ts": 1784130900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBnQ1R2WDVRLUY4V09FcUZ0RHRHQjcybVl2YjlIcm8xU3ZGdENoeDBpMkg0c1J2ZWJLQlRIcHdjUUxOU2l3S1RPRFJmTDA2SldyaTA3YTZkY3NqSmZxRWVhR3pCREZDQXNZem5Ca1c1SEl6STlhenc?oc=5\" target=\"_blank\">US Memory Chip Stocks Plunge Again: SanDisk Tumbles 13%, SK Hynix Crashes 10% on Valuation and Cycle Peak Fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk and SK hynix shares declined sharply (13% and 10% respectively) amid valuation concerns and cycle-peak worries. While the holdings are directly affected, the story reports stock moves and sentiment rather than a concrete catalyst or new information distinct from prior earnings/guidance."
+  },
+  "buffered_ts": 1784156251.5462568
+ },
+ {
+  "id": "15080a39a5de2d433f45e37836dd892c91aa6eec",
+  "source": "아시아경제",
+  "topic": "holding",
+  "title": "\"Samsung Electronics: Now Is a Buying Opportunity... Memory Supply Cliff Expected Next Year\" [Click e-Stock] - 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zdjNPOEZRdERwMW5wTDd1OEY0bTlLWUpFZlkwTk1iMGthelZGU3ZfTzlHa1FqYkN0c251MDFmY0dESDdvaFVSazlEZF9TLTZJRlZHRFg3b3FFZkJZX1RTdmVBanI4T3JrQkc0ZEZ0eTh2ck16bXdJSk96Yw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 22:00:00 GMT",
+  "published_ts": 1784152800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1zdjNPOEZRdERwMW5wTDd1OEY0bTlLWUpFZlkwTk1iMGthelZGU3ZfTzlHa1FqYkN0c251MDFmY0dESDdvaFVSazlEZF9TLTZJRlZHRFg3b3FFZkJZX1RTdmVBanI4T3JrQkc0ZEZ0eTh2ck16bXdJSk96Yw?oc=5\" target=\"_blank\">\"Samsung Electronics: Now Is a Buying Opportunity... Memory Supply Cliff Expected Next Year\" [Click e-Stock]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "아시아경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece suggesting Samsung Electronics is a buying opportunity due to anticipated memory supply cliff next year. Analyst commentary on forward supply dynamics rather than confirmed event or hard data on current production/capacity decisions."
+  },
+  "buffered_ts": 1784156251.5462568
+ },
+ {
+  "id": "f308d99915d001d18b4e0ba7baa3c2d928a9d4d2",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Wedbush Pounds the Table—Buy Sandisk Before August 5 Earnings - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWl9pU1N6c2xITnVnOUJOOUlNaVhLSm4zYmNKU2pvTFUwRHhkR1lSQ1htT25rQ0YydnBDX2hwaVQ4anZqdG45elA1Z3VxRTZGcGVlNkVQd3liOWtzUmpLOVlvU1drRWRIZVlrRW85X3FDMnNLeWdDZjVpc0tYX0R0bXpIUWN4NDJzdDlIaG9mTTJ1eVRUdmtVWWg5bkNWdw?oc=5",
+  "published_at": "Tue, 14 Jul 2026 13:35:00 GMT",
+  "published_ts": 1784036100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWl9pU1N6c2xITnVnOUJOOUlNaVhLSm4zYmNKU2pvTFUwRHhkR1lSQ1htT25rQ0YydnBDX2hwaVQ4anZqdG45elA1Z3VxRTZGcGVlNkVQd3liOWtzUmpLOVlvU1drRWRIZVlrRW85X3FDMnNLeWdDZjVpc0tYX0R0bXpIUWN4NDJzdDlIaG9mTTJ1eVRUdmtVWWg5bkNWdw?oc=5\" target=\"_blank\">Wedbush Pounds the Table—Buy Sandisk Before August 5 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wedbush analyst recommends buying SanDisk (a DRAM ETF holding) ahead of August 5 earnings. This is analyst opinion and a price-target recommendation, not a concrete event or new market information; it reflects sentiment rather than a material development in the company or sector."
+  },
+  "buffered_ts": 1784156251.5462568
+ },
+ {
+  "id": "b3aa8cc9b87641e12db17a3b8b1817e274462708",
+  "source": "Eurasia Review",
+  "topic": "holding",
+  "title": "Who Will Win The AI Memory Super Cycle, SK Hynix Or Micron? – OpEd - Eurasia Review",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW5zc0g0MXB1UFAtbmtkRmFVYlJTNzQxdXVuWEJJMy1BRzVRNkNNVzZmTjZqVnRtYWpHYTM1d3BlcFBGNlpsX1pyUVNjZXpsM2ZIS3NWcU44Rk1Md0xsNFUzTmRaY3ZhX1p2M0FGT2o5RTcyRXBrbWtHZGFzUlF4ck9vbDI2cHZBU195SE1QeEFkSU5FM1FSdUhqT19Cdl9UNE9UZg?oc=5",
+  "published_at": "Wed, 15 Jul 2026 22:09:25 GMT",
+  "published_ts": 1784153365,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW5zc0g0MXB1UFAtbmtkRmFVYlJTNzQxdXVuWEJJMy1BRzVRNkNNVzZmTjZqVnRtYWpHYTM1d3BlcFBGNlpsX1pyUVNjZXpsM2ZIS3NWcU44Rk1Md0xsNFUzTmRaY3ZhX1p2M0FGT2o5RTcyRXBrbWtHZGFzUlF4ck9vbDI2cHZBU195SE1QeEFkSU5FM1FSdUhqT19Cdl9UNE9UZg?oc=5\" target=\"_blank\">Who Will Win The AI Memory Super Cycle, SK Hynix Or Micron? – OpEd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurasia Review</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Eurasia Review"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece comparing SK hynix and Micron's positioning in the AI memory cycle. No concrete developments, earnings data, or pricing information reported—purely analytical commentary on the competitive landscape between two major fund holdings."
+  },
+  "buffered_ts": 1784156251.5462568
  }
 ]
