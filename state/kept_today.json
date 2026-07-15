@@ -190,5 +190,392 @@
    "summary": "Themes ETFs has launched leveraged ETFs tracking SK Hynix, a major holding in the DRAM ETF. This is a competitive fund product launch but does not directly affect DRAM ETF flows, holdings, or NAV."
   },
   "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "8511a670fbfaf215f8723d16f87d4a128bfd261e",
+  "source": "TechFlow Post",
+  "topic": "pricing",
+  "title": "Morgan Stanley Research Report Interpretation: Apple's Price Hike Game is Essentially Hedging Against Chip Cost Explosion - TechFlow Post",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwVUN1UFJCd19DMzg1Zi1lUDJoeVpIcTBWSGhZemJQVVJKZDlJYVlfSnJ5c1U1NWNCeXhVdXJaX0U5ME5iaTUwd2VaRVJLamNKR2c?oc=5",
+  "published_at": "Wed, 15 Jul 2026 01:54:42 GMT",
+  "published_ts": 1784080482,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwVUN1UFJCd19DMzg1Zi1lUDJoeVpIcTBWSGhZemJQVVJKZDlJYVlfSnJ5c1U1NWNCeXhVdXJaX0U5ME5iaTUwd2VaRVJLamNKR2c?oc=5\" target=\"_blank\">Morgan Stanley Research Report Interpretation: Apple's Price Hike Game is Essentially Hedging Against Chip Cost Explosion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechFlow Post"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Morgan Stanley analysis suggests Apple is raising prices as a hedge against chip cost increases, implying underlying pressure on semiconductor input costs that could affect memory pricing and demand dynamics for DRAM holdings."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "6aaaa99654f29e66b318c353cd6bc58451377ae7",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Sandisk Stock: 57.8x P/E Looks Pricey, But Here’s the Metric That Shows It’s Still Cheap - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ISUV5ajhFSGhRdmgtWVZBcVBrMF8yNnpDbjRmWG11UmlWN3docV96Znp3Q3FBalVRaWlUUnlHekZqeG5MbHdQS2h1SWdJT0Y3OEQwX1poOUdxVkhRZjhZZWJwc3JESjlVVWJBcXFsX2RvN0ljOGc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 07:18:31 GMT",
+  "published_ts": 1784099911,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ISUV5ajhFSGhRdmgtWVZBcVBrMF8yNnpDbjRmWG11UmlWN3docV96Znp3Q3FBalVRaWlUUnlHekZqeG5MbHdQS2h1SWdJT0Y3OEQwX1poOUdxVkhRZjhZZWJwc3JESjlVVWJBcXFsX2RvN0ljOGc?oc=5\" target=\"_blank\">Sandisk Stock: 57.8x P/E Looks Pricey, But Here’s the Metric That Shows It’s Still Cheap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary on SanDisk valuation metrics, arguing that despite a high P/E ratio, certain valuation measures suggest the stock remains attractively priced. This is opinion-based analysis rather than a concrete event or hard data point moving the memory cycle."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "01b6c0fa02bed8b4360cfcfa0da744a7156a6711",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix Stock Drops 7% Premarket: Why Tech Profit-Taking Created a Prime AI Memory Entry Point - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUl1al93ZzdGcnkwV3ZsOUpqT1BDS2hVam5zaTZMWUt2VVFYLW43QXZFVS1nZjhEVE9XTENma3EtNm5NS3lVTXBDWHZTTWwwU3lMMEZFRldKaWJ4dFNVdXVpT1l5TXYxWU4tSEZrUmpZNXJ6UHgyWS1XQUJCeXdSd0RheUFpbzRkamJvcWk3RWFYejNlSDFQOXFldVNVd090dllsWkZMUFFyek1pTFU0QWR0azZ5YkZZcjJGdHFoVjQ0T3JJT3FOcjV1amJLdncyazBWWDdBWF9aTm5tOWNr?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:34:20 GMT",
+  "published_ts": 1784126060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUl1al93ZzdGcnkwV3ZsOUpqT1BDS2hVam5zaTZMWUt2VVFYLW43QXZFVS1nZjhEVE9XTENma3EtNm5NS3lVTXBDWHZTTWwwU3lMMEZFRldKaWJ4dFNVdXVpT1l5TXYxWU4tSEZrUmpZNXJ6UHgyWS1XQUJCeXdSd0RheUFpbzRkamJvcWk3RWFYejNlSDFQOXFldVNVd090dllsWkZMUFFyek1pTFU0QWR0azZ5YkZZcjJGdHFoVjQ0T3JJT3FOcjV1amJLdncyazBWWDdBWF9aTm5tOWNr?oc=5\" target=\"_blank\">SK Hynix Stock Drops 7% Premarket: Why Tech Profit-Taking Created a Prime AI Memory Entry Point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix premarket stock drop of 7%; article frames it as profit-taking and identifies it as a potential AI memory entry point. This is a price move with analysis/opinion rather than a concrete catalyst or new fundamental development."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "3195b13ee87d5c06416d5658a5036ca3ca6bec93",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Prediction: Sandisk Stock Is Going to Hit $3,000 by the End of 2026. Here's the Math - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGxDT2tZZFJ3eHhmREtmUFBJRktzZGIxVWFmMjFkdnlSUmppUnJUd3c4N1dZVzVNaW5oUnpQSHU3MGxQN0NCZnQ3aTlDR05hUWhQREdBTnhWblVWYS1XV3JWdGoyWTQ2QUJTSjdtRkJ2ODlXMUdWQklMQUR6c0VMWVo0akM0VFdMd1FkNi1vaXdwNlBrX21TV3lib2otd1FZ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:07:00 GMT",
+  "published_ts": 1784117220,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGxDT2tZZFJ3eHhmREtmUFBJRktzZGIxVWFmMjFkdnlSUmppUnJUd3c4N1dZVzVNaW5oUnpQSHU3MGxQN0NCZnQ3aTlDR05hUWhQREdBTnhWblVWYS1XV3JWdGoyWTQ2QUJTSjdtRkJ2ODlXMUdWQklMQUR6c0VMWVo0akM0VFdMd1FkNi1vaXdwNlBrX21TV3lib2otd1FZ?oc=5\" target=\"_blank\">Prediction: Sandisk Stock Is Going to Hit $3,000 by the End of 2026. Here's the Math</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXg0dDEzc1FnV2pNWFpjeVIwNlhleHlJNkI2b2x6WTItb2VzUnpqSVplWDd2dTFBUElXVFNKV0lNYVhQaC1kYnlOckgzU1J6WmVRRWdYTW1JeHMzWFFRMzV3aUU1TmpBeVBEbWhFd1NERkFINHhNS05RNmtVUE9wdzlXcFpmRkxfSzJ1QVMxR2V1WGJJbnNud2sxcw?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Looks Below Fair Value Despite High Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTVuUThSb2hKZ3J1djJaZkxmdW1Ed1hwVDJ6bjdCeWRUdUtpNUhZRWYxWjlIdHZRdkd3OW94Yk1QZHhOTGlaMXhqZnIwZWFjXzM2Umc4NTZ5dVJON2lSYm90dzh6NWQ0VFJmczZUU0NtZDdsR21pcmdTS2psSWl6dGNfeENvOHFvOHpjMVVQeVVYQXJ2S0o2SXQySFlvSFlqWEkxek1lZFdQa2RR?oc=5\" target=\"_blank\">How Much SanDisk (SNDK) Are You Really Betting On?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjZxRk52YlQxY1NtcUN5Y1lMNGZyZ1k3OGtxSEk0M1lvUURfSVpVM09tQWhHTWpJTF9ESkdUbkxDSTNsektfYVJiRVF6dkxsTlB1WFBvQXQ5UFNsNXdidlpiT3I3SlhqUkJTbXhhVGhPSGR3WnRYTDgzdGNEOWFoR1hfd2RoNW8?oc=5\" target=\"_blank\">Sandisk Just Had Its Price Target More Than Doubled by This Analyst. Why the Stock Is Falling.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2cxb0VmVXBjRWFvZG9pRlJKczNQOWVVcWFhcEdUMEQ4SmhXZXd6RGVubkFwN183ZkFZUnVBZmQwS29IbEs5OV9qV0U0c3h1ZTRCb0s3MXZ1SGV5am02QlU1UDdtd2p3N0NNS0ZQUk1pd0FmSTExWVRwR0RMYWVHYlN0ZHVBSEFMeTJKSWx5WFVhRnNBVVhrQWo4R1B4VnFHQzFJQUZCRUdMNzNjOGk1aC1ZU2tSbWp3?oc=5\" target=\"_blank\">Sandisk: Lock In Gains Here, Long-Term Demand Profile Unclear (Rating Downgrade) (SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVFtYmw4dHB6Y0ktZUxTX0h5QVRlcFA2VjA4dDJIRXBhZ3JFZXBmN2NGLTNjZFhuWGozWjV6VmhGLXdqWnVsdWJrTEUtVTVMMmt6djlmT3AzN0dQNEpSVy0yUmVmOEtlWEk5YVhySnJuSFlaOTRJdlpfMHZOd0pwMUpFbldCTjJ4?oc=5\" target=\"_blank\">Will Sandisk Stock Soar After August 5?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2dMM1l0S2dYTVJTbHlNcXZoTnYxOU1VVTNFZi1aSl84QklBZWt2ZmhHMnQwbGhySkVhTWtDUTkxR3JVS1FQOV9LUTBLNlVNU3pacGNMWmlvNlN1VzJtZ0VXZXdJQjJhYnVMVGdTc09yX1U3UTRIQi1oWDctWWRiTEhueXBvX24yZ1JZcW5GSnVKWEFYZFpNSVFCc3JwZExRWFdOTFRJWEsxeVV0WlpQQnFUamxTTVlx?oc=5\" target=\"_blank\">Sandisk’s stock is plunging, but some analysts are getting even more bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFpZXB0VXBBUkkzME5PMi00M2VRYWxOLU1maUg1SjBwZ0VTZFBmUUpzZXBTaC01N2Y0MDlkbHFpcEtySkFMMkp1Mnl2NVM0WkxxY0Z6WFVaZXZqZGdqdXdpNlM0TTkzVW9KNGhROXVRLXNXcjNwenQ3c3VfemttODRUaldBOWJfSEhEcklSR0NHRGJncjZOaFRkenVvVmxRNWpwdFVDN1pGejNYU19F?oc=5\" target=\"_blank\">Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHFhenVDMDJvS0RuaTJfZGZheWZaMWpOM0RlRURZNWtkMGwxNVQ1LWs0dnRRdFlhLUw0ZkJILWtaMGpRc3RpdUgxN3BpQVZlTHljYUVSQXFoUC1ONUczUW02SUU5SC1lR2FmNU4xZ0kwdXgzMWI3ZDBJaVdLTHVIQXdnbGFCWkpmanBtVjk1S3pBUWlO?oc=5\" target=\"_blank\">Price Prediction: From $40 to $2,000 in a Year. Where is SanDisk Headed Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "AOL.com"
+   ],
+   "titles": [
+    "Prediction: Sandisk Stock Is Going to Hit $3,000 by the End of 2026. Here's the Math - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst or contributor publishes a stock price prediction for SanDisk, forecasting the stock will reach $3,000 by end of 2026. This is opinion/analysis on a fund holding, not a confirmed event or new concrete development."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "24635e9e0233a71f45f343a2c86e5e10a2c05e68",
+  "source": "Investing.com Nigeria",
+  "topic": "holding",
+  "title": "Investors brace for Seagate earnings amid AI storage boom By Investing.com - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakhoc2VKTlBGdzZkSlpMdzBtdEdOb3QzYUpZT2Y5MXEySVlqZGpWUUxIY3dSTml1RWFzTnhsLUNXQngxUXdmcllqRGIxY1ZocXFEQ1RXaWk5YmdLTm9WLWxsMTNvblJ0X3NoTzZ0a0ZDUlJuc2RvOEZSaW5wYmsxc1hoVXRWTEJKbUhITjNlZVVaanVMdE94N0VqZjMxSUZ4WFNjTjByQ3kxaHd5OVE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 13:55:27 GMT",
+  "published_ts": 1784123727,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNakhoc2VKTlBGdzZkSlpMdzBtdEdOb3QzYUpZT2Y5MXEySVlqZGpWUUxIY3dSTml1RWFzTnhsLUNXQngxUXdmcllqRGIxY1ZocXFEQ1RXaWk5YmdLTm9WLWxsMTNvblJ0X3NoTzZ0a0ZDUlJuc2RvOEZSaW5wYmsxc1hoVXRWTEJKbUhITjNlZVVaanVMdE94N0VqZjMxSUZ4WFNjTjByQ3kxaHd5OVE?oc=5\" target=\"_blank\">Investors brace for Seagate earnings amid AI storage boom By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Nigeria"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Investors anticipating Seagate earnings report amid AI-driven storage demand. Story is forward-looking anticipation of upcoming earnings rather than the earnings announcement itself or confirmed business developments. Seagate is a DRAM ETF holding with storage-industry relevance to memory demand cycles."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "bf132e6eac65e8a0e32e80a8ef12795464e8056f",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "BNP Paribas Adjusts Sandisk PT to $1,900 From $1,200, Keeps Neutral Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkkxb2JJdEFiWlROMFc2RHIybUUyY0haZlhuMGYwanlvUXhtZ0E2a2VsS2JiUWFDVVg0cy1yNGhNYnhjdzRReUlvaFdHZFl1Ni1xeVVaRTBaU3JWQXZ1dld2OExER29vNFFlVmVQQ2lhY211ZVdOZkF1QzJ3SzFTRWRKTEVrY3ZQRURqSjFBOHdGQkJPMWcyOEJXRHdmUW5rOVhXY0JPVUhUd05pRGFFM2JFMU9YR3hqVHFMUjhLX0Vudw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:15:23 GMT",
+  "published_ts": 1784124923,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkkxb2JJdEFiWlROMFc2RHIybUUyY0haZlhuMGYwanlvUXhtZ0E2a2VsS2JiUWFDVVg0cy1yNGhNYnhjdzRReUlvaFdHZFl1Ni1xeVVaRTBaU3JWQXZ1dld2OExER29vNFFlVmVQQ2lhY211ZVdOZkF1QzJ3SzFTRWRKTEVrY3ZQRURqSjFBOHdGQkJPMWcyOEJXRHdmUW5rOVhXY0JPVUhUd05pRGFFM2JFMU9YR3hqVHFMUjhLX0Vudw?oc=5\" target=\"_blank\">BNP Paribas Adjusts Sandisk PT to $1,900 From $1,200, Keeps Neutral Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BNP Paribas raised its price target for SanDisk (a DRAM ETF holding) from $1,200 to $1,900, though maintained its Neutral rating. The significant PT increase reflects analyst reassessment but without a concrete catalyst or new holding-specific news disclosed; this is a soft opinion/rating adjustment typical of post-earnings or market-driven re-pricing."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "669546b0b5eceba3bd673ad95e30dcb45caabbc1",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Wedbush Pounds the Table—Buy Sandisk Before August 5 Earnings - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbU1GdFBKYjdsZW90TTlwcGJkNW5pdjctWVdMQ3NJaWZlbTItdEZpcmhpODdZMTlDR2t6QzdRR1pxT0hwZzFac3l3Q1NSVWdsTzBNRWJDY21WWUZybzJQWGl4OVpUOTNlVDBqd0UyM2daTUdSQldMb3NnOVhLYWJhMnc2Y3hPdnd3bGdDVEcxd3dvdndzU0FSb1Q5OHJpbjlsT2dVM3B1eHJMSGFJTmpGTTEtNTBWaURYVXJXR3BqRGRDcmpNRjAtZ21fbnp1aXo5bHdocHVidFNCZkJkQXc?oc=5",
+  "published_at": "Tue, 14 Jul 2026 13:35:00 GMT",
+  "published_ts": 1784036100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbU1GdFBKYjdsZW90TTlwcGJkNW5pdjctWVdMQ3NJaWZlbTItdEZpcmhpODdZMTlDR2t6QzdRR1pxT0hwZzFac3l3Q1NSVWdsTzBNRWJDY21WWUZybzJQWGl4OVpUOTNlVDBqd0UyM2daTUdSQldMb3NnOVhLYWJhMnc2Y3hPdnd3bGdDVEcxd3dvdndzU0FSb1Q5OHJpbjlsT2dVM3B1eHJMSGFJTmpGTTEtNTBWaURYVXJXR3BqRGRDcmpNRjAtZ21fbnp1aXo5bHdocHVidFNCZkJkQXc?oc=5\" target=\"_blank\">Wedbush Pounds the Table—Buy Sandisk Before August 5 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wedbush analyst recommends buying SanDisk (a DRAM ETF holding) ahead of August 5 earnings. This is analyst opinion and a price-target/rating change, not a concrete event or earnings result itself."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "a2ceaa9744ad314a50563b3fc21635316cd4ea40",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix vs. Micron deep dive: who wins the AI memory supercycle? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUxrXzdXVHN0YkpXTEdvdDRHRGdaOGc1YV95VVNfWG1aQmtLNDlQUWZUQndJa01qU0xxMjZsNHAxaUtkMDV1UlB4NjQtRmRxRlFLcUJoYjRaWE9FeUcyR2ZWRHRyTkpPWGVLZ3JTMGp2UFF1SExITUdhYjlDajBaNVVTUkdBWVY0Y0R0clNaRFdRUzUtdlQ1Nk1BOFdPYWM0clJvY2N4dEVIeDIyNHVTTXk3b3dROTBjUWNz?oc=5",
+  "published_at": "Wed, 15 Jul 2026 13:31:53 GMT",
+  "published_ts": 1784122313,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUxrXzdXVHN0YkpXTEdvdDRHRGdaOGc1YV95VVNfWG1aQmtLNDlQUWZUQndJa01qU0xxMjZsNHAxaUtkMDV1UlB4NjQtRmRxRlFLcUJoYjRaWE9FeUcyR2ZWRHRyTkpPWGVLZ3JTMGp2UFF1SExITUdhYjlDajBaNVVTUkdBWVY0Y0R0clNaRFdRUzUtdlQ1Nk1BOFdPYWM0clJvY2N4dEVIeDIyNHVTTXk3b3dROTBjUWNz?oc=5\" target=\"_blank\">SK Hynix vs. Micron deep dive: who wins the AI memory supercycle?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Comparative analysis of SK hynix and Micron positioning in AI memory market; investment perspective on which company may benefit more from AI-driven memory demand supercycle. Analysis and opinion rather than concrete new information."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "7269347a3356c44a2ae0eb0b50332e8d2f9740ff",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: The Best Part Of The Rally Could Be Over (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGlsYkpla3J1UFdDTGtOcnVaVnFHUkhQVV8zU2NWWFllS3JOd3RtclNIXzBRclRCTkJkR25QX2FLczlqYjZXWlllR3RPMGlfeG5sWFJRcmFKZlNxZHRJOXJVU1V2eFRtRU1mSW50TjJVNFloaFNtOXFKZC0zUHg0R1QtQlQxb1ZTV0FleDVxTjF3NWc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 13:00:00 GMT",
+  "published_ts": 1784120400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGlsYkpla3J1UFdDTGtOcnVaVnFHUkhQVV8zU2NWWFllS3JOd3RtclNIXzBRclRCTkJkR25QX2FLczlqYjZXWlllR3RPMGlfeG5sWFJRcmFKZlNxZHRJOXJVU1V2eFRtRU1mSW50TjJVNFloaFNtOXFKZC0zUHg0R1QtQlQxb1ZTV0FleDVxTjF3NWc?oc=5\" target=\"_blank\">Sandisk: The Best Part Of The Rally Could Be Over (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece arguing that SanDisk's recent rally may be reaching maturation, suggesting limited upside ahead. This is analyst commentary and market sentiment rather than a concrete event or material development."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "4ed5828840b2d28196ae564db530b2065a961e01",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: Shortage Will Only Get Worse (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHlyUGw1OXVoNGQ5bGlyLTRQcTR6RnZ4UGJGbUU5TUxoLUp1a2VfSFFyYzctWDdXcFpaRW9kQU9MSEZmNy1YOTVINjVKR1NEdFBteTZJSFIwWVR1WnJWS2FOcFdtcE9sQ21xUjlTbWwwZWM5Nzc0UkM4Ql9lN3dCVVBTZmU?oc=5",
+  "published_at": "Wed, 15 Jul 2026 13:00:36 GMT",
+  "published_ts": 1784120436,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHlyUGw1OXVoNGQ5bGlyLTRQcTR6RnZ4UGJGbUU5TUxoLUp1a2VfSFFyYzctWDdXcFpaRW9kQU9MSEZmNy1YOTVINjVKR1NEdFBteTZJSFIwWVR1WnJWS2FOcFdtcE9sQ21xUjlTbWwwZWM5Nzc0UkM4Ql9lN3dCVVBTZmU?oc=5\" target=\"_blank\">SK Hynix: Shortage Will Only Get Worse (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SK Hynix predicting worsening shortages. While SK Hynix is a core DRAM holding, this is analyst commentary and speculation about future conditions rather than a concrete event or hard data point. Absent specific supply figures, production decisions, or pricing shifts, the impact is limited to analysis/opinion level."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "bef8d23972082810a3c0541ad61bc3728ade7a29",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk Stock: The Math Isn't Mathing (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PLTlMU0NuMmR0dENHcmxJOEtoM0FXRFZMdFNZVGpIQk9pRlo4eU8wcEtGS0I1ZUtlZVdoSm02M2J1VmlQdnN5dTFkQlBsSDdWN1RFQWF5VFQxVnBPZUtEa0dxb0UwQU1BZ3hOMkxjTzJySF91b3V5WkN3?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:37:10 GMT",
+  "published_ts": 1784126230,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5PLTlMU0NuMmR0dENHcmxJOEtoM0FXRFZMdFNZVGpIQk9pRlo4eU8wcEtGS0I1ZUtlZVdoSm02M2J1VmlQdnN5dTFkQlBsSDdWN1RFQWF5VFQxVnBPZUtEa0dxb0UwQU1BZ3hOMkxjTzJySF91b3V5WkN3?oc=5\" target=\"_blank\">Sandisk Stock: The Math Isn't Mathing (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SanDisk (SNDK), a DRAM ETF holding, analyzing valuation and financial metrics. While a relevant holding, this is analyst commentary and opinion rather than a concrete event or hard number driving material news about the company or memory market."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "f8fcafec905e9f77d843e12cae7685f0f5614746",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "US Pre-Market: PPI Data Imminent, SK Hynix Falls Over 6%, ASML Rises Nearly 3%, PayPal Acquisition Rumors Ignite Stock Price - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMW5KT19oSGpyaXNtS25hMjNDd2FXS1p0MHprYnVvVXR5Mi1SZTNFLWVJUWE4NlFNS2lxWld3dzMxOFctWlF6UUdKOHU1cmYyYTJPSUR2QUhQYUxMQ1FlaEJrZW5ubzlaZHhoMk85bG1nRzlETzBqX0x3ajNEZHBtay1iY2ozWjFQZG80Z2JNZjZ6T0loZE92Wk03MkQzMVpMT000?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:11:23 GMT",
+  "published_ts": 1784117483,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMW5KT19oSGpyaXNtS25hMjNDd2FXS1p0MHprYnVvVXR5Mi1SZTNFLWVJUWE4NlFNS2lxWld3dzMxOFctWlF6UUdKOHU1cmYyYTJPSUR2QUhQYUxMQ1FlaEJrZW5ubzlaZHhoMk85bG1nRzlETzBqX0x3ajNEZHBtay1iY2ozWjFQZG80Z2JNZjZ6T0loZE92Wk03MkQzMVpMT000?oc=5\" target=\"_blank\">US Pre-Market: PPI Data Imminent, SK Hynix Falls Over 6%, ASML Rises Nearly 3%, PayPal Acquisition Rumors Ignite Stock Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix (a major DRAM ETF holding) fell over 6% in pre-market trading. The headline mentions PPI data and other stocks but provides no stated catalyst or earnings-driven explanation for the SK Hynix move—it is a passing stock-price mention without context or concrete news tied to the memory cycle."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "4704b96f04280990235a2656baa205cd36503f85",
+  "source": "TradingView",
+  "topic": "fund",
+  "title": "Is Massive AI Spending Favoring Chip ETFs More Than Big Tech? - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWd3bDFzMmQzMTM5ZEtnWTl4VFhuWUZtU1FaZ2xERjdkbG5RQjVjeTV3d2FMdS1waDZNbXJ6ZFFsQjZYb1puWURTbjJMZ3BheHNFTlI3b3RDcUhVbWV0YXhLN0JBd0ZVTzQxbzdhaTRWY2pwOUVIa1dKZVdiMDZ5dG8xbGZhQWJzYXA3YW5pLWFqVWd4WGh0eUlzTTJXdVZ1MVhQam5BOG1XOHNuUVByVjkzLW9Oa3M?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:00:00 GMT",
+  "published_ts": 1784116800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWd3bDFzMmQzMTM5ZEtnWTl4VFhuWUZtU1FaZ2xERjdkbG5RQjVjeTV3d2FMdS1waDZNbXJ6ZFFsQjZYb1puWURTbjJMZ3BheHNFTlI3b3RDcUhVbWV0YXhLN0JBd0ZVTzQxbzdhaTRWY2pwOUVIa1dKZVdiMDZ5dG8xbGZhQWJzYXA3YW5pLWFqVWd4WGh0eUlzTTJXdVZ1MVhQam5BOG1XOHNuUVByVjkzLW9Oa3M?oc=5\" target=\"_blank\">Is Massive AI Spending Favoring Chip ETFs More Than Big Tech?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Opinion piece comparing performance of chip ETFs versus big tech stocks in the context of AI spending trends. No concrete events, data, or fund-specific developments reported; general market commentary."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "d4a5355a38656bf780c218bf16dc1e5c03b40eca",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "How Will Seagate Technology Stock React To Its Upcoming Earnings? - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQllqaDFUZTJRNklOZ1lpTi1yRDRWMUozN1ZnV2ZCSGVnRVRMRjNjZl9PTlVWR3lWV1ZORjlSRGRma3NfYkRqYW1PNGdkemxmbEpNSVN6MHlveXB6VVZYanZBMXVqSnVvMGY1X2pfT0JnMkZOc1c1LWFCaEo5SElMSTFPX2ZqOXJCRWRraS1LcnlCVWxlcjZCZmVVU0R6WXRUVnRXSElldkZ2cHNua3VPNDY0VzVGdGNtdGgzZW1CRVJvSElk?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:05:54 GMT",
+  "published_ts": 1784124354,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQllqaDFUZTJRNklOZ1lpTi1yRDRWMUozN1ZnV2ZCSGVnRVRMRjNjZl9PTlVWR3lWV1ZORjlSRGRma3NfYkRqYW1PNGdkemxmbEpNSVN6MHlveXB6VVZYanZBMXVqSnVvMGY1X2pfT0JnMkZOc1c1LWFCaEo5SElMSTFPX2ZqOXJCRWRraS1LcnlCVWxlcjZCZmVVU0R6WXRUVnRXSElldkZ2cHNua3VPNDY0VzVGdGNtdGgzZW1CRVJvSElk?oc=5\" target=\"_blank\">How Will Seagate Technology Stock React To Its Upcoming Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Trefis speculative analysis on how Seagate stock may react to upcoming earnings; no concrete event, results, or guidance disclosed—purely forecasting and opinion."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "cf8774147500d59258cc932fa0cc8c38f2a5184f",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Prediction: SK Hynix Will Become the Next Nvidia - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmpPdTRuZVJLWlhhb2xZWllpbUxKNk1hNDI5UldNcnlndGs0TWV3VHBXZmtVWjRhTjFndmdyZWdFM0QzYnFORHE5ZWhmZTljQWN4cHRtbDhuTEhWTy1sejVVQ1V1RUFUcjkyR1U5LXdZRlVDdGNxWDMtQy1jeFBkQTRMdVhtQURORTdlZ2FORU1PYUlH?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:28:31 GMT",
+  "published_ts": 1784125711,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmpPdTRuZVJLWlhhb2xZWllpbUxKNk1hNDI5UldNcnlndGs0TWV3VHBXZmtVWjRhTjFndmdyZWdFM0QzYnFORHE5ZWhmZTljQWN4cHRtbDhuTEhWTy1sejVVQ1V1RUFUcjkyR1U5LXdZRlVDdGNxWDMtQy1jeFBkQTRMdVhtQURORTdlZ2FORU1PYUlH?oc=5\" target=\"_blank\">Prediction: SK Hynix Will Become the Next Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Motley Fool opinion piece predicting SK Hynix could become the next Nvidia. This is analyst commentary and speculation about a major holding's future prospects, not reporting of a concrete event or new material development."
+  },
+  "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "0f2597ab389745d39b13bc8a9dc7746e59da06a7",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SanDisk stock sliding today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1RkQlAyUWRMVzY4TF8yZUdQRGV3MW8xVHNTWFpWZHcxeGM3WTB5MzhLSXhzWHA0SDJZUzY5RXRrRkM0b2I2YWdNSWhuNjhwanl1SnVHSE1XdEUyengtbUM4bWJSbGdmZFdaZ0MzTVlEX05BaWh5N2dBY2g4eWdjME1PWEhnaWZyZmdxeWdUalFXVi1aalBHOEtMdl8?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:17:38 GMT",
+  "published_ts": 1784125058,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1RkQlAyUWRMVzY4TF8yZUdQRGV3MW8xVHNTWFpWZHcxeGM3WTB5MzhLSXhzWHA0SDJZUzY5RXRrRkM0b2I2YWdNSWhuNjhwanl1SnVHSE1XdEUyengtbUM4bWJSbGdmZFdaZ0MzTVlEX05BaWh5N2dBY2g4eWdjME1PWEhnaWZyZmdxeWdUalFXVi1aalBHOEtMdl8?oc=5\" target=\"_blank\">Why is SanDisk stock sliding today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock price movement piece. Without additional context on a specific catalyst (earnings, guidance, deal, or industry event), this appears to be a price-action commentary. If the snippet contains no concrete news driver distinct from market sentiment, the impact is minor."
+  },
+  "buffered_ts": 1784126818.716316
  }
 ]
