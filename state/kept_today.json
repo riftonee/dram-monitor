@@ -2876,5 +2876,293 @@
    "summary": "South Korean source reporting on losses at SK hynix and Samsung with celebrity investor reaction. While it mentions two major holdings, the focus is on celebrity commentary and emotional reaction rather than substantive business developments, operational changes, or financial specifics that would move the memory cycle or fund holdings."
   },
   "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "b0be42a9d56f8e77739e5f78945db4bbb9e3a54e",
+  "source": "XenoSpectrum",
+  "topic": "holding",
+  "title": "Samsung's Operating Profit Jumps 19x, Yet Stock Falls 10% as New Memory Plants Won't Catch Up Even by 2034 - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qMFQ1QWNJdmFhQk5Md0xLeWk2eElqclQzOUV2dkx5Y0JDODFjMWptTGVmS0xDSzFoZ2pJR3hETmI0bF9FQjRpekJfaXFzRmlNSVltVXgzVFE0ZlRuNlJXejRWeE5IVTA?oc=5",
+  "published_at": "Tue, 14 Jul 2026 05:30:03 GMT",
+  "published_ts": 1784007003,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qMFQ1QWNJdmFhQk5Md0xLeWk2eElqclQzOUV2dkx5Y0JDODFjMWptTGVmS0xDSzFoZ2pJR3hETmI0bF9FQjRpekJfaXFzRmlNSVltVXgzVFE0ZlRuNlJXejRWeE5IVTA?oc=5\" target=\"_blank\">Samsung's Operating Profit Jumps 19x, Yet Stock Falls 10% as New Memory Plants Won't Catch Up Even by 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung reported a 19x jump in operating profit, a concrete earnings result, but stock fell 10% on concern that new memory fab capacity additions won't meet demand growth through 2034, signaling structural supply constraints in the memory cycle."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "dd561178056158d0a3fa9ebaf34df591569c7686",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "SK hynix (SKHY) completes ADR-backed 17,790,000-share capital increase - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3cyN2hvLXRWNGxXQUNzZ3VxajdiWkZDWXEweTA4Z3FkX2JCbUZQUERTQlhSTUo1X0U3U25OcnlvLVJRV0tPSVJzanpEUEJmY0NmSG1VRm15NXFiQXBRaVhjQU1lcnVfWjVEQmVBRDBfVXhkRnZKZWNUek1xdklCMGdDdWEwbFhpbkxYa0JRVlR2TDliUFpTRkE1eHBLRUxBZFUzQ21UUnFOdFBP?oc=5",
+  "published_at": "Wed, 15 Jul 2026 10:12:56 GMT",
+  "published_ts": 1784110376,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3cyN2hvLXRWNGxXQUNzZ3VxajdiWkZDWXEweTA4Z3FkX2JCbUZQUERTQlhSTUo1X0U3U25OcnlvLVJRV0tPSVJzanpEUEJmY0NmSG1VRm15NXFiQXBRaVhjQU1lcnVfWjVEQmVBRDBfVXhkRnZKZWNUek1xdklCMGdDdWEwbFhpbkxYa0JRVlR2TDliUFpTRkE1eHBLRUxBZFUzQ21UUnFOdFBP?oc=5\" target=\"_blank\">SK hynix (SKHY) completes ADR-backed 17,790,000-share capital increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stock Titan"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix completed a capital increase of 17.79 million shares backed by ADRs. This is a concrete corporate action affecting the holding's share structure and capitalization."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "b021fa8cc6436313ee5aa5cbd946450bd47d1cd6",
+  "source": "XenoSpectrum",
+  "topic": "industry",
+  "title": "Memory Shortage to Peak in 2027 — Why SK hynix's Production Increases Won't Take Effect Immediately - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSTc4NUwzcklScGhDVXVNNlQ4LWFiR1BfUTdIVUphclRvUTU4ZjNxYnVESVFZMlhqSmRqb3FaTFFLYmRMOWpwYWNNS2tUSzF1dmhDWWlmVXl6V003cktOYmJtNzktNnlyX0EzT1dSRV8ybDVRd1ZsSXJyWnFPaHR4akRn?oc=5",
+  "published_at": "Wed, 15 Jul 2026 09:45:24 GMT",
+  "published_ts": 1784108724,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSTc4NUwzcklScGhDVXVNNlQ4LWFiR1BfUTdIVUphclRvUTU4ZjNxYnVESVFZMlhqSmRqb3FaTFFLYmRMOWpwYWNNS2tUSzF1dmhDWWlmVXl6V003cktOYmJtNzktNnlyX0EzT1dSRV8ybDVRd1ZsSXJyWnFPaHR4akRn?oc=5\" target=\"_blank\">Memory Shortage to Peak in 2027 — Why SK hynix's Production Increases Won't Take Effect Immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis forecasting a memory shortage peaking in 2027 and discussing timing delays in SK hynix's production increases. While SK hynix is a fund holding and supply/demand balance is industry-relevant, this is forward-looking commentary and analysis rather than a confirmed production announcement or hard capacity number."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "eda224849c4556d2fbb3815210e2ab4976686d57",
+  "source": "Letem světem Applem",
+  "topic": "holding",
+  "title": "Samsung and the memory giants: record profits and challenges for investors - Letem světem Applem",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNERYd2F5WXBsQ3lJZGxxU0o0cUZFemJIWXQ1T2JGZ3ZXNlgxZXc1dFNUaHJlUGpKQkJqWWY0ZWtZS2pScDRRU3M1NHVqRDFUellfdVV4UmYwRDktbmNUNWpqRm1wYWVpUTFZLVV1ZUlnYWs4dWRNSHJ1bWN3RnpBWTBwd2xlRlg2T2pvdHJ1eG1KTjFERDJHRXVNTE9wV1FSVzBDWlRjM1pyUllxVEE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 21:33:33 GMT",
+  "published_ts": 1784064813,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNERYd2F5WXBsQ3lJZGxxU0o0cUZFemJIWXQ1T2JGZ3ZXNlgxZXc1dFNUaHJlUGpKQkJqWWY0ZWtZS2pScDRRU3M1NHVqRDFUellfdVV4UmYwRDktbmNUNWpqRm1wYWVpUTFZLVV1ZUlnYWs4dWRNSHJ1bWN3RnpBWTBwd2xlRlg2T2pvdHJ1eG1KTjFERDJHRXVNTE9wV1FSVzBDWlRjM1pyUllxVEE?oc=5\" target=\"_blank\">Samsung and the memory giants: record profits and challenges for investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Letem světem Applem</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Letem světem Applem"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and memory industry peers posting record profits amid investor considerations. Coverage of Samsung as a memory holdings company with financial performance and market challenges, but appears to be analysis/commentary rather than concrete new event or earnings data."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "6466549e0bf1b229d127254f6e6d689553cece50",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Weekly Recap: Q2 results, shares drop and New chip plants, 800T won investment - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV25tcjZOUmtNSHl6U2doUmh5ZmFZejEtd2dPWlFrQWUwc3pxLTRWX1pwNmVMeFRFdlRWaWU0RlV1emFIbllxQk9Yb2c2RkpYckQ3ajM0OWEzWnBHanlJN08ybVNEWkVtSzRnQ0ZpV1VBWTZyOGl2bU16cDNWbUZXV3YzQ25zWjc0azRId09iNjBreWl0Nk5ERjdVNFFkTjBFS1lYb3d0QjMwd2lHWE12Z3o3cXhhRVRZWUNLZGV4Qy1XTF84MGlvRjY0T2J4ZzJRcXdV?oc=5",
+  "published_at": "Mon, 13 Jul 2026 22:14:21 GMT",
+  "published_ts": 1783980861,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV25tcjZOUmtNSHl6U2doUmh5ZmFZejEtd2dPWlFrQWUwc3pxLTRWX1pwNmVMeFRFdlRWaWU0RlV1emFIbllxQk9Yb2c2RkpYckQ3ajM0OWEzWnBHanlJN08ybVNEWkVtSzRnQ0ZpV1VBWTZyOGl2bU16cDNWbUZXV3YzQ25zWjc0azRId09iNjBreWl0Nk5ERjdVNFFkTjBFS1lYb3d0QjMwd2lHWE12Z3o3cXhhRVRZWUNLZGV4Qy1XTF84MGlvRjY0T2J4ZzJRcXdV?oc=5\" target=\"_blank\">Weekly Recap: Q2 results, shares drop and New chip plants, 800T won investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Weekly recap covering Q2 results for holdings, share price declines, and SK hynix's announced 800 trillion won (~$600M) investment in new chip plants. The Q2 results are already-reported earnings (post-release analysis), and the plant investment is a strategic announcement but lacks specific capacity/production timeline details that would constitute a concrete market-moving event."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "c08f69e52cc3024693477ef784d91ffec0bec628",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Micron Soars Nearly 5% as KeyBanc Sees 87% Upside on AI Memory Boom - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpN25oQ3N6Z2tBaVd1c21sTzAwRlFsMW9wZEpZblNzam9EZnVnbWZsandteHlJclBYZm5XTmVlV1BiUllORFZHMFN3VDVDekhReEZuclR6TTE2ZGx5djhWRkxoU2huRm1QZ0xDTnZ5WURwNnRoa0E?oc=5",
+  "published_at": "Wed, 15 Jul 2026 04:45:00 GMT",
+  "published_ts": 1784090700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBpN25oQ3N6Z2tBaVd1c21sTzAwRlFsMW9wZEpZblNzam9EZnVnbWZsandteHlJclBYZm5XTmVlV1BiUllORFZHMFN3VDVDekhReEZuclR6TTE2ZGx5djhWRkxoU2huRm1QZ0xDTnZ5WURwNnRoa0E?oc=5\" target=\"_blank\">Micron Soars Nearly 5% as KeyBanc Sees 87% Upside on AI Memory Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "KeyBanc analyst raises price target on Micron with 87% upside thesis tied to AI memory demand; stock rises ~5% on the note. This is analyst opinion and post-note price movement, not a concrete event or new hard data from the company itself."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "cc1d5030e15c2299c426bbe3fe536fa2a21b7de2",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived. - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGlfLUpCM3I4RDE3UzZvZmMyVlQ5aDhDQW1iYjlxOEFnZXpSYjIyeGxvZjN1MUsyVEpDNF9YQVBzVnUwRmdmcDdPUFpmTHItS1I0NUZ2aDhLWTVjMkw1YVFvME1NMVhWSEdEMnRLa0xkeEZXWElaLTB4WVRkNjVWeVJObXdSeEdxcGs3RDBVMzlhX3o1M2piMXh1U2RoeHRFOGRKb0ZsZ2dwblBmV2JF?oc=5",
+  "published_at": "Wed, 15 Jul 2026 09:36:00 GMT",
+  "published_ts": 1784108160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGlfLUpCM3I4RDE3UzZvZmMyVlQ5aDhDQW1iYjlxOEFnZXpSYjIyeGxvZjN1MUsyVEpDNF9YQVBzVnUwRmdmcDdPUFpmTHItS1I0NUZ2aDhLWTVjMkw1YVFvME1NMVhWSEdEMnRLa0xkeEZXWElaLTB4WVRkNjVWeVJObXdSeEdxcGs3RDBVMzlhX3o1M2piMXh1U2RoeHRFOGRKb0ZsZ2dwblBmV2JF?oc=5\" target=\"_blank\">Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "MarketWatch analysis of SK hynix's U.S. listing premium. While SK hynix is a major DRAM fund holding, this is an opinion/analysis piece about valuation dynamics rather than a concrete event or hard number that would move the fund. The listing itself is known; this is commentary on its trading premium."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "a9b29f66bb73f35dcd75d5a79ee333a62b73e3b4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix implied volatility says fasten your seatbelts (SKHY:NASDAQ) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVdyR1kyb283SV9yLVR5TmYzWk85d1l5dUh4Q081ZU9aLW8tanJlNUluZl9aZnVQU0J1NFJqUDhTSmp1Q3FWMjVLVWRxaE1iUHVFeEVmdEhhbS02YjhMdU9EUXdNR1VwR2F4eHhyNWxzbjZzWTMxX2VWTm5iMFIteFB1OXNKeFpuTFRpWkc1ZFZXcVk3U1lF?oc=5",
+  "published_at": "Wed, 15 Jul 2026 10:16:58 GMT",
+  "published_ts": 1784110618,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVdyR1kyb283SV9yLVR5TmYzWk85d1l5dUh4Q081ZU9aLW8tanJlNUluZl9aZnVQU0J1NFJqUDhTSmp1Q3FWMjVLVWRxaE1iUHVFeEVmdEhhbS02YjhMdU9EUXdNR1VwR2F4eHhyNWxzbjZzWTMxX2VWTm5iMFIteFB1OXNKeFpuTFRpWkc1ZFZXcVk3U1lF?oc=5\" target=\"_blank\">SK Hynix implied volatility says fasten your seatbelts (SKHY:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix (SKHY) implied volatility is elevated, suggesting market uncertainty ahead. This is technical analysis of option pricing rather than a concrete event or hard number on fundamentals, making it opinion-based forward guidance rather than a settled development."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "9637d8ee4fbab10eef95fbd8ef1e8f4c109bb1f4",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTENralFUZ1FCM2FQczlGR2dfX1FUNGpGVjEzUTU1Y1pwTFBhQ25iY3hNZWJtd3BwTlhaSUpHVk9Gd19VTktFLXNJSG0xU1pWa2h5VHJvMEE4YnprMk5CWHNFMWdsNktOdmh1RFczVW9JcUpwNHdLUmQxNENqVnJ1cmFEZ25ldkRfQ0NsUWRQN1p3aUgzVlpveQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 11:06:13 GMT",
+  "published_ts": 1784113573,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTENralFUZ1FCM2FQczlGR2dfX1FUNGpGVjEzUTU1Y1pwTFBhQ25iY3hNZWJtd3BwTlhaSUpHVk9Gd19VTktFLXNJSG0xU1pWa2h5VHJvMEE4YnprMk5CWHNFMWdsNktOdmh1RFczVW9JcUpwNHdLUmQxNENqVnJ1cmFEZ25ldkRfQ0NsUWRQN1p3aUgzVlpveQ?oc=5\" target=\"_blank\">SK Hynix Controls More Than Half the HBM Market Nvidia Depends On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece noting SK hynix's dominant position in HBM supply to Nvidia. This is relevant to the fund as SK hynix is a key holding and HBM demand is a major driver of memory cycles, but the story appears to be commentary on known market structure rather than reporting a new concrete event or hard number."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "7917c0aaea1c7e13f8fb097054d944bedbcae52b",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "Samsung plans 100,000-wafer DRAM fab, sources say - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1QW14VGRYZV8yclBydDNoZ3dvLWVpRnBkNkkzZ1l2eHBpaGlxV3c3WGg4bGNLamw2VjUteFZ1SFlXWm9QalhhWUVtSWtRMFhha3ZJZVdEZjdCaDk3S1A0WkthbkxhQjlqbm01Y0ZXbkdhTm15Nmg1Rw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 09:53:00 GMT",
+  "published_ts": 1784109180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB1QW14VGRYZV8yclBydDNoZ3dvLWVpRnBkNkkzZ1l2eHBpaGlxV3c3WGg4bGNLamw2VjUteFZ1SFlXWm9QalhhWUVtSWtRMFhha3ZJZVdEZjdCaDk3S1A0WkthbkxhQjlqbm01Y0ZXbkdhTm15Nmg1Rw?oc=5\" target=\"_blank\">Samsung plans 100,000-wafer DRAM fab, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech in Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung plans to build a 100,000-wafer DRAM fab according to sources. This is a significant capacity expansion announcement that could affect memory supply and pricing, but remains attributed to unnamed sources rather than an official Samsung statement, making it reportage of plans under discussion rather than a confirmed decision."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "e74daf0f91762338b4083cf659db8e22af178d07",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Stock: US Investors Paying 51% More Than Seoul Despite a 10% Pop - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUtBa184UmxXajVJeFlPbUFBN0xWMUpLRjJBbWxOWnl6OXM5b1B5aGw0TmhVN0xnYXJ5ak00OTgtbjl5ZVpUblExRVlLLTNtOHpVNHktenlWTHVseXZNdjFqQmhobjhMT2QxbEhPRTAzMGk4V2VZbTFMcGZlZTcySjJCcEsza2U4UUFsZXEzMXN2bWdrT25Z?oc=5",
+  "published_at": "Wed, 15 Jul 2026 03:03:00 GMT",
+  "published_ts": 1784084580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUtBa184UmxXajVJeFlPbUFBN0xWMUpLRjJBbWxOWnl6OXM5b1B5aGw0TmhVN0xnYXJ5ak00OTgtbjl5ZVpUblExRVlLLTNtOHpVNHktenlWTHVseXZNdjFqQmhobjhMT2QxbEhPRTAzMGk4V2VZbTFMcGZlZTcySjJCcEsza2U4UUFsZXEzMXN2bWdrT25Z?oc=5\" target=\"_blank\">SK Hynix Stock: US Investors Paying 51% More Than Seoul Despite a 10% Pop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock shows a 51% valuation premium for US-listed shares versus Seoul trading, with a recent 10% price move. This is primarily a market-structure/arbitrage observation rather than fundamental news about the company's memory business, capacity, pricing, or earnings."
+  },
+  "buffered_ts": 1784113932.196617
+ },
+ {
+  "id": "402c846d05cd3bef2baf193f3d5c2d69451b94cd",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate Technology to Report Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on July 28, 2026 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0FfcnFGT3p5TUpmYnI2WDRhbWVQUXh3SVNrZ21pX3c1VzhsV1JDeTZXdVNyejNLQk9sM1pHUjVmblN3SEFoT2o4MDZpYllZLXdKc2paQ2pUU3kxZjJsUUdQVGd3VW9VaHhtVm1CNGFmaWNqaU1lN2E0NkMwMUtuUHN3R21Wc0VzQlpRcXBEZ09YbU5Jb0REaElHQ2xZSTdPWG9pZ0ZzOA?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:05:00 GMT",
+  "published_ts": 1784059500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0FfcnFGT3p5TUpmYnI2WDRhbWVQUXh3SVNrZ21pX3c1VzhsV1JDeTZXdVNyejNLQk9sM1pHUjVmblN3SEFoT2o4MDZpYllZLXdKc2paQ2pUU3kxZjJsUUdQVGd3VW9VaHhtVm1CNGFmaWNqaU1lN2E0NkMwMUtuUHN3R21Wc0VzQlpRcXBEZ09YbU5Jb0REaElHQ2xZSTdPWG9pZ0ZzOA?oc=5\" target=\"_blank\">Seagate Technology to Report Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on July 28, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 1,
+   "category": "holding",
+   "summary": "Seagate announced the date for its FY2026 Q4 earnings release (July 28, 2026). This is a routine calendar announcement with no material news; the actual results and guidance will be the relevant event when released."
+  },
+  "buffered_ts": 1784113932.196617
  }
 ]
