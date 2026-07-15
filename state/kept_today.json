@@ -2420,5 +2420,221 @@
    "summary": "The DRAM ETF has declined from recent highs amid broader chip sector volatility. This is a price-movement observation without stated catalyst or concrete event."
   },
   "buffered_ts": 1784092465.549037
+ },
+ {
+  "id": "38d0eaffbf61ae2a0e576b07d733b16e67bbb1f1",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] Korean and Japanese Researchers Unveil New AI Memory Architectures to Address HBM Thermal Limits - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNTlmT01DMDFHS3RHTm13SnpGR0lhREFjVWpXOVdORjdNN3NBX1o1OC1KaC1Pcmt2Ulo0R2hXR01NUHZ1T08zZHcwUHg3bmRBYTdPaUNuOF9aY0xyWERnWC1ZYzlOaUtVSktZeURSVHF0UkFiN2dUeUFTU3pUaEZCTGkxOVlWbTVqYmRkaUtxOHVLVnIyS1BqaGMySFdOblhvOWhWNjJZV0dTeFFNZjZiTm5hdzNEUnA3VzZUZXdmVzBrX0tQZjVXS3hLSDdKVnNySTlYeEFJWHFJeTAwanduZGxJZkNfOWJhVW5rcDkyMXh2Z3hFZm9EOTMtaGNJZ2Q3WHFIS0x4SDRDeWNDZkE?oc=5",
+  "published_at": "Tue, 14 Jul 2026 23:44:29 GMT",
+  "published_ts": 1784072669,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPNTlmT01DMDFHS3RHTm13SnpGR0lhREFjVWpXOVdORjdNN3NBX1o1OC1KaC1Pcmt2Ulo0R2hXR01NUHZ1T08zZHcwUHg3bmRBYTdPaUNuOF9aY0xyWERnWC1ZYzlOaUtVSktZeURSVHF0UkFiN2dUeUFTU3pUaEZCTGkxOVlWbTVqYmRkaUtxOHVLVnIyS1BqaGMySFdOblhvOWhWNjJZV0dTeFFNZjZiTm5hdzNEUnA3VzZUZXdmVzBrX0tQZjVXS3hLSDdKVnNySTlYeEFJWHFJeTAwanduZGxJZkNfOWJhVW5rcDkyMXh2Z3hFZm9EOTMtaGNJZ2Q3WHFIS0x4SDRDeWNDZkE?oc=5\" target=\"_blank\">[News] Korean and Japanese Researchers Unveil New AI Memory Architectures to Address HBM Thermal Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korean and Japanese researchers have unveiled new AI memory architectures designed to address thermal limitations in HBM (high-bandwidth memory). This represents ongoing R&D efforts to improve HBM performance and capacity, a key driver of demand for memory semiconductor companies like SK hynix and Samsung. However, the story appears to be early-stage research rather than a confirmed commercial development or production commitment, making it speculative rather than a concrete market event."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "6cc76dbf0716b06a9067084c1a31a932e284c0c1",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTFJZ016MUhKd0NKdFF0OG1wYlBHLVZEWFlTc0NSWmxYalpVM0t6OWpsdjFhcnRNS0dWdWRGSzR5MU1DazBBX0hjSWZHd2FBc0dtWHJWNk56NndlV3ZJNnJtUldIa19iZUhYX2tHNUdXS054WmlxZnBRUHpRU0h5aFZBSXZyYXkxdFc3ZUs2ckNnVFA2b1E1Yg?oc=5",
+  "published_at": "Wed, 15 Jul 2026 04:55:00 GMT",
+  "published_ts": 1784091300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTFJZ016MUhKd0NKdFF0OG1wYlBHLVZEWFlTc0NSWmxYalpVM0t6OWpsdjFhcnRNS0dWdWRGSzR5MU1DazBBX0hjSWZHd2FBc0dtWHJWNk56NndlV3ZJNnJtUldIa19iZUhYX2tHNUdXS054WmlxZnBRUHpRU0h5aFZBSXZyYXkxdFc3ZUs2ckNnVFA2b1E1Yg?oc=5\" target=\"_blank\">SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung shares rise on chip-sector rebound sentiment. Samsung denies US listing plans. Stock moves reflect market recovery narrative rather than new concrete catalyst; the rebound itself is the driver but represents sentiment/cyclical recovery rather than a specific event or guidance change."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "3e35059402c1fa4440379e5a9cd31b29bd346705",
+  "source": "Outlook Respawn",
+  "topic": "industry",
+  "title": "SK Hynix Expects AI Memory Shortage Beyond 2030 | Outlook Respawn - Outlook Respawn",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hIb0t6Y2czamgzZ1I5VGtObTlPUXE0V2N4NzB2Nm41QmNkTnduU2NVWWRCVWk1ZVBRUlZYbVdybzc5TnFkZnFDQ3c4UGliWFowc2xzcU1GTUlPY1dRd01zSkdDcUVUOWw5c2pXbGE4S2taRFExNlZGTGpvWGYwcEFwMEREekd3b2pCUmZFZEJRRWw1b05KN215MC1JQ2ND0gGuAUFVX3lxTE83YlFiNUxWZkFFZ2cxLVN6QVZ4bUxuQkNHSHNfTHdiSFdSM3lFVzczZHprQlFBU2tEUy1NX0x0RjFFc2VkcVltZ3BfY0lXRnp0MmtXRVhrNVBTQzRRUjhCMVI4UlVfVDlJN3Y1c3UxUGFhRG1LUGJtQUE4S1cyeGlRTnh4ZmpYRVhjWnVfOVVBMFFEMzV5eVpDeXB5Vk5QZjVPSHItRVRSY21zYVpFQQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 06:08:32 GMT",
+  "published_ts": 1784095712,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2hIb0t6Y2czamgzZ1I5VGtObTlPUXE0V2N4NzB2Nm41QmNkTnduU2NVWWRCVWk1ZVBRUlZYbVdybzc5TnFkZnFDQ3c4UGliWFowc2xzcU1GTUlPY1dRd01zSkdDcUVUOWw5c2pXbGE4S2taRFExNlZGTGpvWGYwcEFwMEREekd3b2pCUmZFZEJRRWw1b05KN215MC1JQ2ND0gGuAUFVX3lxTE83YlFiNUxWZkFFZ2cxLVN6QVZ4bUxuQkNHSHNfTHdiSFdSM3lFVzczZHprQlFBU2tEUy1NX0x0RjFFc2VkcVltZ3BfY0lXRnp0MmtXRVhrNVBTQzRRUjhCMVI4UlVfVDlJN3Y1c3UxUGFhRG1LUGJtQUE4S1cyeGlRTnh4ZmpYRVhjWnVfOVVBMFFEMzV5eVpDeXB5Vk5QZjVPSHItRVRSY21zYVpFQQ?oc=5\" target=\"_blank\">SK Hynix Expects AI Memory Shortage Beyond 2030 | Outlook Respawn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Respawn</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Outlook Respawn"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix forecasts a shortage of AI memory (likely HBM) extending beyond 2030, signaling sustained strong demand for memory semiconductors driven by AI infrastructure buildout. This is forward-looking commentary on industry supply/demand dynamics rather than a concrete event, and reflects the company's view of long-term market conditions."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "38af8d513ccf6aa8d82f74a9491747e9abfe6a6c",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix Seoul shares rally on US tech gains, upbeat analyst calls - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0V6YVpacVlSR0YtTXFWdFB6WHFuZHVCNVByaHpYWjltRy1wNmVVcDlLa0FkSW9EcUh6ZWJLTklOai1JN0ZnRUp5QnRUalJhWHJrcUJVTjNYeG5xdnlmQ21ZaVV6bmZZVTRBM091MGswQndvWXI3WnVEOEx6ZHRWeW16aV90TzFQWmMyUkxiVU9tenhZZGlCNDhVSFBaY3Y1MmFGb185V2dZSFNMXzNXVjVXNWVlYmQyLVphMXVqNA?oc=5",
+  "published_at": "Wed, 15 Jul 2026 04:38:43 GMT",
+  "published_ts": 1784090323,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0V6YVpacVlSR0YtTXFWdFB6WHFuZHVCNVByaHpYWjltRy1wNmVVcDlLa0FkSW9EcUh6ZWJLTklOai1JN0ZnRUp5QnRUalJhWHJrcUJVTjNYeG5xdnlmQ21ZaVV6bmZZVTRBM091MGswQndvWXI3WnVEOEx6ZHRWeW16aV90TzFQWmMyUkxiVU9tenhZZGlCNDhVSFBaY3Y1MmFGb185V2dZSFNMXzNXVjVXNWVlYmQyLVphMXVqNA?oc=5\" target=\"_blank\">SK Hynix Seoul shares rally on US tech gains, upbeat analyst calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares rallied on US tech sector gains and upbeat analyst calls. This is a stock price move driven by analyst sentiment and broader tech momentum rather than a concrete company-specific development or earnings catalyst."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "042955652d3fff591bf86844a5382b1ebb885e75",
+  "source": "NDTV Profit",
+  "topic": "pricing",
+  "title": "Global Smartphone Sales Tumble As DRAM, NAND Supply Crunch Deepens - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFN2dC1uQnZZU2hjdHY1Y0xNM3lOUUVacnBUU1BodVk4U1ItVURUMnoxSVdpWkhBVlp0VjdJMGhndFRyTFU2VWJuSzduUGtRUUszamU2VTFxQlBxNl9JZHNLZkgwS25XUExQUUJpcTBZMzVDMEg2UnlDNGplRk90cmN3QkdXUk9wTTNfUU5oUmpMdU5LaEJhS0VIQWo4cDRrdjZkNlhvYkFQSHlFbFZR0gG3AUFVX3lxTE5aalZtTEpJbXB5S293bF9NWXduSG0zZ3p3X1pMa1JkYmR1d0lhakZUS0JfZGk5S3ZaTWp4TG92T2NhY1pfSmhMUE01SFVfTlBlVmRUN05YUHNHQ2M1NXhSVWJaaUNTc3h5UVJUZFYxeDFQQzhyMkxsM2NqcVZqZ2FCZFBNR3d5V2FGVllLRFc5UjAzZV93WGVCV2JUTHZQcG4tdFdMTjUtc1hmSFlSMTlPRkhzT1JWbw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 03:30:50 GMT",
+  "published_ts": 1784086250,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFN2dC1uQnZZU2hjdHY1Y0xNM3lOUUVacnBUU1BodVk4U1ItVURUMnoxSVdpWkhBVlp0VjdJMGhndFRyTFU2VWJuSzduUGtRUUszamU2VTFxQlBxNl9JZHNLZkgwS25XUExQUUJpcTBZMzVDMEg2UnlDNGplRk90cmN3QkdXUk9wTTNfUU5oUmpMdU5LaEJhS0VIQWo4cDRrdjZkNlhvYkFQSHlFbFZR0gG3AUFVX3lxTE5aalZtTEpJbXB5S293bF9NWXduSG0zZ3p3X1pMa1JkYmR1d0lhakZUS0JfZGk5S3ZaTWp4TG92T2NhY1pfSmhMUE01SFVfTlBlVmRUN05YUHNHQ2M1NXhSVWJaaUNTc3h5UVJUZFYxeDFQQzhyMkxsM2NqcVZqZ2FCZFBNR3d5V2FGVllLRFc5UjAzZV93WGVCV2JUTHZQcG4tdFdMTjUtc1hmSFlSMTlPRkhzT1JWbw?oc=5\" target=\"_blank\">Global Smartphone Sales Tumble As DRAM, NAND Supply Crunch Deepens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on global smartphone sales decline amid deepening DRAM and NAND supply constraints. Indicates tightening memory supply conditions affecting end-market demand, relevant to memory-chip pricing dynamics and industry cycle, but lacks concrete new capacity/production numbers or pricing data to warrant higher impact."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "407e8fa8c3cebfd7444d0899a22dc5e0452a38e1",
+  "source": "Business Insider",
+  "topic": "holding",
+  "title": "Why SK Hynix's wild swings aren't only an AI story - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSURqcHdSTllFdXdWU2xRUDRTUnc4Umo2UDdQZk9TUUhOR085NnFob0FCM3hrdDVuaDVsWm9neFNrb1VpdlktZlJ1ZWlhTndqZElmOFdOS29KTmVYQlMxUWZHeURjWEVrS0dnTTJKMmtIcGRpaUdOSDdEMmdHaUtiNlRnWWtndzJlbjQycHlGbTg2QVE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 05:50:36 GMT",
+  "published_ts": 1784094636,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSURqcHdSTllFdXdWU2xRUDRTUnc4Umo2UDdQZk9TUUhOR085NnFob0FCM3hrdDVuaDVsWm9neFNrb1VpdlktZlJ1ZWlhTndqZElmOFdOS29KTmVYQlMxUWZHeURjWEVrS0dnTTJKMmtIcGRpaUdOSDdEMmdHaUtiNlRnWWtndzJlbjQycHlGbTg2QVE?oc=5\" target=\"_blank\">Why SK Hynix's wild swings aren't only an AI story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Insider"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece examining SK Hynix's stock volatility and exploring factors beyond AI demand driving the company's swings. Opinion/analysis on a major holding rather than a concrete event or new information."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "c6a4629bdc34bb8fcdeea058b2b2a3781f506d7a",
+  "source": "Astute Group",
+  "topic": "pricing",
+  "title": "AI Memory Shortage Drives Enterprise SSD Prices Up 80% - Astute Group",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1dUV2dsV25HZENlS0l1UGRmeGdUbFZvOERaUFQ4eU4xdDQ0bFhmWFJoLW1PMHlMRkMxR2xua2JaSkU3Z1ItdmNmSjllME45NGhNY3FhTkpIWFVoNUJNT1BhN0ZOck9QcjNQOXU5UGFHLWNBX1NXOHg3d0V2djlzTGJpMFpHX1dpLURIbGtEQWRIV1liVkFjaUNVQWtEd2xXZFdkUnlKQQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
+  "published_ts": 1784098800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1dUV2dsV25HZENlS0l1UGRmeGdUbFZvOERaUFQ4eU4xdDQ0bFhmWFJoLW1PMHlMRkMxR2xua2JaSkU3Z1ItdmNmSjllME45NGhNY3FhTkpIWFVoNUJNT1BhN0ZOck9QcjNQOXU5UGFHLWNBX1NXOHg3d0V2djlzTGJpMFpHX1dpLURIbGtEQWRIV1liVkFjaUNVQWtEd2xXZFdkUnlKQQ?oc=5\" target=\"_blank\">AI Memory Shortage Drives Enterprise SSD Prices Up 80%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Astute Group</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Astute Group"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Report claims AI memory shortage is driving enterprise SSD prices up 80%. While price movements in memory/storage are relevant to DRAM holdings, this appears to be analysis or commentary rather than a confirmed market price report with a specific source or timestamp. Lacking concrete pricing data or an official price index update, this rates as relevant but soft analysis."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "6dc442e69c3073697fc648e54cd7f5f59ab5025e",
+  "source": "BeInCrypto",
+  "topic": "holding",
+  "title": "SK Hynix Stock: US Investors Paying 51% More Than Seoul Despite a 10% Pop - BeInCrypto",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4za3pTVG5qTGhGV0Z5b1J0X3ExZlUxZUVYNDZadDJYeUNPTXV6ZS11bEtZU2JoY3lfcXRyaU9mRmNkMWk5bTYxTE90VGw5SVlVdUNDR0MtR0RGYzVHSFVMdEpfMW0tR0E?oc=5",
+  "published_at": "Wed, 15 Jul 2026 03:03:00 GMT",
+  "published_ts": 1784084580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4za3pTVG5qTGhGV0Z5b1J0X3ExZlUxZUVYNDZadDJYeUNPTXV6ZS11bEtZU2JoY3lfcXRyaU9mRmNkMWk5bTYxTE90VGw5SVlVdUNDR0MtR0RGYzVHSFVMdEpfMW0tR0E?oc=5\" target=\"_blank\">SK Hynix Stock: US Investors Paying 51% More Than Seoul Despite a 10% Pop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "BeInCrypto"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock trading at a 51% premium in US markets versus Seoul despite a recent 10% price move. Notes pricing discrepancy between markets rather than material company news or memory-cycle developments."
+  },
+  "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "e98e6a5816b411e9a4a51ea80396a7b08ae3e132",
+  "source": "Finimize",
+  "topic": "holding",
+  "title": "SK Hynix Pops As Cooler Inflation Lifts Chip Stocks - Finimize",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd292V0Rad2VLZDVhR3dPNFBHMGJJbC05SllNSDZyOGZ3VEY1STFKR2xIU3RSZERuaERVNWpqdXlObDBwMGp2U3ZyUzZYaDc0SEhNT1llVkUxbU1MWERsS3dCbXNFQTRvTDIzemFRUXJtVkliUDZjcmdTLXN1V3FUMzN1VUxPbTQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 05:58:55 GMT",
+  "published_ts": 1784095135,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOd292V0Rad2VLZDVhR3dPNFBHMGJJbC05SllNSDZyOGZ3VEY1STFKR2xIU3RSZERuaERVNWpqdXlObDBwMGp2U3ZyUzZYaDc0SEhNT1llVkUxbU1MWERsS3dCbXNFQTRvTDIzemFRUXJtVkliUDZjcmdTLXN1V3FUMzN1VUxPbTQ?oc=5\" target=\"_blank\">SK Hynix Pops As Cooler Inflation Lifts Chip Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Finimize"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock rose in response to cooler inflation data that lifted chip stocks broadly. This is a general market move tied to macro conditions rather than memory-specific fundamentals or a concrete event affecting the company."
+  },
+  "buffered_ts": 1784100525.0559204
  }
 ]
