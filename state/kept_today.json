@@ -769,5 +769,274 @@
    "summary": "Analyst prediction that SK Hynix will become the next Nvidia. This is opinion/speculation about a major holding's future prospects, not a concrete event or material development. Stock price predictions and forward-looking analyst commentary are soft intelligence rather than settled facts."
   },
   "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "cbd710961aa259a59227bfa5fb23f41076b299c4",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Memory-Chip Rout Sinks Nasdaq 100, SanDisk Plunges 14% - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkd3ZXMtbUVOdS1uSmNaN2dqNlFhdkx1eEE2bnktUDhGNUkzZTZqM0xXRkpuTHhvS0NLcjhubjhzQmY2cEhmTHU1VmF1NzVPNUZNM29nWGw3V18wd0k0cjBlb3hnT0hZVEp4aURWTGZCeEpiWHZjMWx3UC1WaTduNHZxUGcwWU9vLVBkdlhhWEdpcFNOVWxKcDhZc3ZKYTkwN2xDdFNfWVVHS3ozWXM0Y1N2aUY1cnJCVDd2NFJOby1tbklDenFSa0x0UHQ0aGFvTXJUTUY1Wm8?oc=5",
+  "published_at": "Wed, 15 Jul 2026 17:01:58 GMT",
+  "published_ts": 1784134918,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkd3ZXMtbUVOdS1uSmNaN2dqNlFhdkx1eEE2bnktUDhGNUkzZTZqM0xXRkpuTHhvS0NLcjhubjhzQmY2cEhmTHU1VmF1NzVPNUZNM29nWGw3V18wd0k0cjBlb3hnT0hZVEp4aURWTGZCeEpiWHZjMWx3UC1WaTduNHZxUGcwWU9vLVBkdlhhWEdpcFNOVWxKcDhZc3ZKYTkwN2xDdFNfWVVHS3ozWXM0Y1N2aUY1cnJCVDd2NFJOby1tbklDenFSa0x0UHQ0aGFvTXJUTUY1Wm8?oc=5\" target=\"_blank\">Memory-Chip Rout Sinks Nasdaq 100, SanDisk Plunges 14% - State Street SPDR S&amp;P 500 ETF Trust (ARCA:SPY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk (holding) plunged 14% amid a broader memory-chip rout affecting Nasdaq 100. Concrete stock move with material price action in a fund holding."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "93b975254246cfa21200eee3031fe64e87c2ecd4",
+  "source": "Tom's Hardware",
+  "topic": "holding",
+  "title": "CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows — reveals resistance to voltage scaling and inferior manual overclocking capabilities - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQlBhaTBBSEtFYXlob1RZNlotQTdBWHpyUFo3MGVzSU1pREFTdzM5eUlfMVpkWnNyTGdlRGZDbi1fOTZwVlBoY0lXMmtkVEN0c1hNeGVZd3dFZkVQT2huUV9rNVJaUVhXWXBHMGttdUxSa0YyUVBuV01FbDdBeXpucEt1a0xZR1FpN1JXaU9BZXZ4VnYwR0tidjdpVWZZRURuQTBOSW42dk84X3VGQm9SSDhLWFUzbWZGY01iT2RjQ2hKcERGUV9wNWdaaVZNdjJnTGctQWI3QnFwSFotbXVTZTNqaWtOZzBnc2d2bl9td19rOXVJbWJjc1ZyaXhYVjJsT0VTOGFMVmRFMzBtRnJldEo4QTRhYW1Ea3RmTnEySHo3aXp2eUNtUlVxUklnQllhdUh0dEEweGFoMkRmME9TTQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 16:34:54 GMT",
+  "published_ts": 1784133294,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQlBhaTBBSEtFYXlob1RZNlotQTdBWHpyUFo3MGVzSU1pREFTdzM5eUlfMVpkWnNyTGdlRGZDbi1fOTZwVlBoY0lXMmtkVEN0c1hNeGVZd3dFZkVQT2huUV9rNVJaUVhXWXBHMGttdUxSa0YyUVBuV01FbDdBeXpucEt1a0xZR1FpN1JXaU9BZXZ4VnYwR0tidjdpVWZZRURuQTBOSW42dk84X3VGQm9SSDhLWFUzbWZGY01iT2RjQ2hKcERGUV9wNWdaaVZNdjJnTGctQWI3QnFwSFotbXVTZTNqaWtOZzBnc2d2bl9td19rOXVJbWJjc1ZyaXhYVjJsT0VTOGFMVmRFMzBtRnJldEo4QTRhYW1Ea3RmTnEySHo3aXp2eUNtUlVxUklnQllhdUh0dEEweGFoMkRmME9TTQ?oc=5\" target=\"_blank\">CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows — reveals resistance to voltage scaling and inferior manual overclocking capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tom's Hardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Tom's Hardware testing reveals CXMT's DDR5 RAM has performance and consistency issues compared to SK hynix dies, showing resistance to voltage scaling and inferior overclocking. Relevant to memory industry competitive dynamics and SK hynix positioning, but represents product-level analysis rather than a concrete market event or demand/supply shift."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "37f7c0386cb61a47807691df002e9658afa6562e",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: Cheap With Robust AI Monetization Prospects, Lockup/Oversupply Risks Loom (SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUNFTmhMWFlacTEwWGxLZ2djV0VXWXVNTmNvNEc1aHJuWUlYV3puOFczUENwSVFabjFQRW9FRk5ISjdHbTdXd3R0emNjNWFWbkk0QjQyNEhmTjZ5MkxhMFI4QzVzUWtUdHNULS1Vay1odmFzSm5fWG9PUTFVYkM4UnpKd24zMTVUZElyaHZieVpQdWNoTUhLQ1FXNzJRWkRqb01zSTJRekFHR2NINXhzTWdYdW9GQ2hfVmFWNllXWQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 17:15:33 GMT",
+  "published_ts": 1784135733,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUNFTmhMWFlacTEwWGxLZ2djV0VXWXVNTmNvNEc1aHJuWUlYV3puOFczUENwSVFabjFQRW9FRk5ISjdHbTdXd3R0emNjNWFWbkk0QjQyNEhmTjZ5MkxhMFI4QzVzUWtUdHNULS1Vay1odmFzSm5fWG9PUTFVYkM4UnpKd24zMTVUZElyaHZieVpQdWNoTUhLQ1FXNzJRWkRqb01zSTJRekFHR2NINXhzTWdYdW9GQ2hfVmFWNllXWQ?oc=5\" target=\"_blank\">SK Hynix: Cheap With Robust AI Monetization Prospects, Lockup/Oversupply Risks Loom (SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst opinion on SK Hynix valuation and AI monetization prospects, with discussion of potential lockup and oversupply risks. No concrete developments or new hard data; represents analysis and forward-looking commentary rather than reported events or earnings data."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "7d3abc2d37aac2a7120c6a939a8feaa40f262934",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "Smartphone shipments hit 13-year low in Q2 as AI memory shortage hammers industry - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJuTVpaamhRTGt5eTR4V2g2eEtjWG83Y0hLa2gzYjBGNUhoVWpVZGRhNWppQVoteXlCQXN6QzVNNERMWjd1TV9mYWhGMmEyWkcwcktmTVEyckNVR1ZHa2RjdWk1NjV0R3pkdXZzaTdGSzNXUTVwV2J6eFlHM3lVdWhVZTJJUFdxdXJSQTJhVkg5Ym9xNVJBekNrZFpqNWNEY0ZwaDdiUW1zWW5LR3ZEcFo0Nnp1VHRFVzJSdFBOczQ3QWtGRGR0NUZaSE9aZkFJQzZtU2ZEb0o?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:16:22 GMT",
+  "published_ts": 1784117782,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJuTVpaamhRTGt5eTR4V2g2eEtjWG83Y0hLa2gzYjBGNUhoVWpVZGRhNWppQVoteXlCQXN6QzVNNERMWjd1TV9mYWhGMmEyWkcwcktmTVEyckNVR1ZHa2RjdWk1NjV0R3pkdXZzaTdGSzNXUTVwV2J6eFlHM3lVdWhVZTJJUFdxdXJSQTJhVkg5Ym9xNVJBekNrZFpqNWNEY0ZwaDdiUW1zWW5LR3ZEcFo0Nnp1VHRFVzJSdFBOczQ3QWtGRGR0NUZaSE9aZkFJQzZtU2ZEb0o?oc=5\" target=\"_blank\">Smartphone shipments hit 13-year low in Q2 as AI memory shortage hammers industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Smartphone shipments declined to a 13-year low in Q2, attributed partly to AI memory shortage. While this signals reduced near-term demand for memory in consumer electronics, the headline is analysis/interpretation rather than a concrete production cut or pricing data. It reflects market conditions already being digested; not a new hard event triggering immediate repricing."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "5a56ccafbeb5ac99de9c4b09a87b4c94da28289b",
+  "source": "Proactive financial news",
+  "topic": "holding",
+  "title": "Dell, Micron, SanDisk tumble as AI hardware rally hits reversal - Proactive financial news",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEtxamMxbTEwT2hCWF9GLXlGemF2WjNka0VYbWlFemlmaDNmWEctMkZsMmVhOGUwZ3BjWmVLMlRWQmJVT2MtYjc0eU5nY2VpaENaRFppOUtfV2l6MWFacmFFM25nb1NWZVM0azBJOEVvc0hteW91N1R4bWlzWnhOdlpINkdzeWMwcTZIQU4ya0g2MGd2U2g2VERCeUMyZV9NX0NzbmFhbmU2OUdxYXFhQjluZXluYkdMejlYNHdaZjhPTWdXSTFqY3RRWkI?oc=5",
+  "published_at": "Wed, 15 Jul 2026 16:30:00 GMT",
+  "published_ts": 1784133000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEtxamMxbTEwT2hCWF9GLXlGemF2WjNka0VYbWlFemlmaDNmWEctMkZsMmVhOGUwZ3BjWmVLMlRWQmJVT2MtYjc0eU5nY2VpaENaRFppOUtfV2l6MWFacmFFM25nb1NWZVM0azBJOEVvc0hteW91N1R4bWlzWnhOdlpINkdzeWMwcTZIQU4ya0g2MGd2U2g2VERCeUMyZV9NX0NzbmFhbmU2OUdxYXFhQjluZXluYkdMejlYNHdaZjhPTWdXSTFqY3RRWkI?oc=5\" target=\"_blank\">Dell, Micron, SanDisk tumble as AI hardware rally hits reversal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Proactive financial news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron and SanDisk (both fund holdings) experienced stock declines as part of a broader AI hardware rally reversal. The article reports a price move but does not cite a specific new catalyst, earnings report, or concrete event distinct from general market sentiment shifts."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "085183c4434edf63a39384e420da7398efc01c44",
+  "source": "MarketWatch",
+  "topic": "fund",
+  "title": "Memory ETF deepens bear-market decline; chip selloff picks up steam - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPY0laYVFkSUJxZUNybTBvQ2lJX21DUENBc0ZYV1hlWkRFTWpZZ241akFqWl9EcXJyX3ItTTVkc1pKUUNhLTZaOXhfSUo1YkFORG93SS02NnU1UGVSOU1OOVpyMFU2RzlUNDNvLUlselN1SjhzWHFWUDBkcWxLUm52cnRBeDhycGZzcXFCZzVDYVJzSTVyaWo5YnFyeHRoOVFNaTJfbzdsZjJaTUpabEpKWXBROGRSbUxHZnlCQ0JyYzRsS1NRdENFUVJWR25IVXV3dy15b19ZUlMxV0VSMDlSaUh5Zi1na2ZmWW5zdVRQZHBIS2N3R19PdlNYemtnUFctM0p3SFFGM0MzSmc2VXdGZmdfVmR4TmU0bndPUTVXMXo0UzZYM3BlR0VzekhWdm0wR0pQanRpRkJFcUxFWFZWdnZB?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:28:00 GMT",
+  "published_ts": 1784129280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxPY0laYVFkSUJxZUNybTBvQ2lJX21DUENBc0ZYV1hlWkRFTWpZZ241akFqWl9EcXJyX3ItTTVkc1pKUUNhLTZaOXhfSUo1YkFORG93SS02NnU1UGVSOU1OOVpyMFU2RzlUNDNvLUlselN1SjhzWHFWUDBkcWxLUm52cnRBeDhycGZzcXFCZzVDYVJzSTVyaWo5YnFyeHRoOVFNaTJfbzdsZjJaTUpabEpKWXBROGRSbUxHZnlCQ0JyYzRsS1NRdENFUVJWR25IVXV3dy15b19ZUlMxV0VSMDlSaUh5Zi1na2ZmWW5zdVRQZHBIS2N3R19PdlNYemtnUFctM0p3SFFGM0MzSmc2VXdGZmdfVmR4TmU0bndPUTVXMXo0UzZYM3BlR0VzekhWdm0wR0pQanRpRkJFcUxFWFZWdnZB?oc=5\" target=\"_blank\">Memory ETF deepens bear-market decline; chip selloff picks up steam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "MarketWatch reports the Memory ETF (DRAM) is experiencing deeper declines as a broader chip-sector selloff accelerates. This is a price-movement story tied to sector weakness rather than a concrete catalyst or new information specific to memory fundamentals or holdings."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "cd65b535eacd4add20f15126839452d7873a3b3b",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Sandisk $41.6 bln in contracts now up against buyer-hedge test - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWkyNlVibTltVHhVMHR2ZXBKMDhINEdLUkgxWEkydUw2bXBXdmlxT2tsVmxEVzgyYk82S0tFS01mbFI4cGM0V1hTQ2xad3NMd0xhRVdTYmdWYS03eDZ0Z2xLenJTUFR1VDFpanUxTzJKY3BkR0JyMXhRSXlQdV81cVNEZ0I3UVozZ3c?oc=5",
+  "published_at": "Wed, 15 Jul 2026 17:06:14 GMT",
+  "published_ts": 1784135174,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWkyNlVibTltVHhVMHR2ZXBKMDhINEdLUkgxWEkydUw2bXBXdmlxT2tsVmxEVzgyYk82S0tFS01mbFI4cGM0V1hTQ2xad3NMd0xhRVdTYmdWYS03eDZ0Z2xLenJTUFR1VDFpanUxTzJKY3BkR0JyMXhRSXlQdV81cVNEZ0I3UVozZ3c?oc=5\" target=\"_blank\">Sandisk $41.6 bln in contracts now up against buyer-hedge test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk has $41.6 billion in contracts subject to buyer hedging tests. This represents a material contractual situation for a fund holding, but the article appears to be analysis of contract terms and risk rather than reporting a concrete new event or financial impact. Relevant to track SanDisk's business health and contract exposure, but not a market-moving development on its own."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "3b814135c41336a17982962785d6bbe2f83e6ece",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Micron vs SanDisk: Which Memory Play Wins the AI Boom? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0dLcWZFeUdVcjQ3Z05mNVpNZGNhdmVXTE9WdThUT1MzYTNsckJUdnZsaUJ5aDRyb1FqRWNPSldlbFA1c3RQNFEyM3ZuRnM5NU9qaEtTUWZKaXJuNHlpa2F0WXB3N3JHd0MwaXdBQ19BWXFrMGd6ZndORXdQMmlRcXdNUVpVaFN6eXhQN0VyU21VaG43VWI3ZmxB?oc=5",
+  "published_at": "Wed, 15 Jul 2026 16:30:33 GMT",
+  "published_ts": 1784133033,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0dLcWZFeUdVcjQ3Z05mNVpNZGNhdmVXTE9WdThUT1MzYTNsckJUdnZsaUJ5aDRyb1FqRWNPSldlbFA1c3RQNFEyM3ZuRnM5NU9qaEtTUWZKaXJuNHlpa2F0WXB3N3JHd0MwaXdBQ19BWXFrMGd6ZndORXdQMmlRcXdNUVpVaFN6eXhQN0VyU21VaG43VWI3ZmxB?oc=5\" target=\"_blank\">Micron vs SanDisk: Which Memory Play Wins the AI Boom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "Micron vs SanDisk: Which Memory Play Wins the AI Boom? - 24/7 Wall St.",
+    "Micron vs SanDisk: Which Memory Play Wins the AI Boom? - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance comparative analysis of Micron and SanDisk as AI-boom investment plays. This is opinion/analysis on the holdings rather than new concrete developments or earnings data, making it relevant but soft impact."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "17ef6ca0ad0bdfb4bc236d16970f1ce22b5e85cd",
+  "source": "Breakingthenews.net",
+  "topic": "holding",
+  "title": "SanDisk leads US chip and storage selloff - Breakingthenews.net",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR21CeVRDR2VFSE5OdHltOGowZk9mSjVUclBKMTRxUFhKUFNxS1pZb3JSeWNNMTZsSzZCMmw1UWZNaVJEMi1tUHlfQXBpMXM5S0lpQkVfZDdwNFlfTWxaUW5UWURzV21yNjNkdjJIZjRSVjc5TXBWMVpBUWthdHk4Y1pkQ05ldHR2a0xSX2hsVQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 16:43:00 GMT",
+  "published_ts": 1784133780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNR21CeVRDR2VFSE5OdHltOGowZk9mSjVUclBKMTRxUFhKUFNxS1pZb3JSeWNNMTZsSzZCMmw1UWZNaVJEMi1tUHlfQXBpMXM5S0lpQkVfZDdwNFlfTWxaUW5UWURzV21yNjNkdjJIZjRSVjc5TXBWMVpBUWthdHk4Y1pkQ05ldHR2a0xSX2hsVQ?oc=5\" target=\"_blank\">SanDisk leads US chip and storage selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breakingthenews.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Breakingthenews.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (holding) is leading a broader US chip and storage sector selloff. This is a price move in a key holding, but without a stated catalyst distinct from market-wide or sector-wide pressure, it ranks as relevant but soft (opinion/market reaction rather than a concrete new event)."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "a5f9f61766e941a5312a749ef3ad83bfbb66e424",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Prediction: SK Hynix Will Become the Next Nvidia - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWZscTVvcElhd0FjbUZJT05IZVBXQXVZdmczWVBaU2dlTFp2TjFsc21Gb1RIWHppWm9FWnhYVnJyZHRmcEQzdmtTVGpUS3BJNDMydnV6MTFPd3o3TUFQZkdVeXM3b29MZ213b1hVUFc4MHdud0UtaVhnaktWLW9LZkl0YWF2R21ablZfZ2RHelhqbXk2dDR0MDFUVk12eVZRVG1mUEs2LTdFM25oQXB5UGFPZXk2WEdGXzFHUG5zOUVXd0k0UE8yeGttUQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:03:16 GMT",
+  "published_ts": 1784127796,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWZscTVvcElhd0FjbUZJT05IZVBXQXVZdmczWVBaU2dlTFp2TjFsc21Gb1RIWHppWm9FWnhYVnJyZHRmcEQzdmtTVGpUS3BJNDMydnV6MTFPd3o3TUFQZkdVeXM3b29MZ213b1hVUFc4MHdud0UtaVhnaktWLW9LZkl0YWF2R21ablZfZ2RHelhqbXk2dDR0MDFUVk12eVZRVG1mUEs2LTdFM25oQXB5UGFPZXk2WEdGXzFHUG5zOUVXd0k0UE8yeGttUQ?oc=5\" target=\"_blank\">Prediction: SK Hynix Will Become the Next Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece predicting SK Hynix will become the next Nvidia. This is analyst speculation and forecast commentary rather than a concrete development or new information about SK Hynix's business, orders, capacity, or earnings. Minor relevance as a passing mention of a fund holding in a speculative context."
+  },
+  "buffered_ts": 1784137618.23528
+ },
+ {
+  "id": "80492c122fab9aeeec51ee23cad4b559676cd19e",
+  "source": "AlphaStreet",
+  "topic": "holding",
+  "title": "Sandisk Plunges 10.6% Amid Sector-Wide Selling - AlphaStreet",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEx1a1lGeVRveWx2a0VuekFzUHNfNllIX1JOWElTV0w0Sjh3Qk5DNFdiWmkzNHJFMHdFbWZHdWJHejM1TG9GNTc1VzRWbC1MOXZLalFVZ0hHNmRzU01tcXRSOTV6b2dGajRETjJoZDA4c1FidkpfYVBjV1dDblNQc9IBgAFBVV95cUxNaEx1a1lGeVRveWx2a0VuekFzUHNfNllIX1JOWElTV0w0Sjh3Qk5DNFdiWmkzNHJFMHdFbWZHdWJHejM1TG9GNTc1VzRWbC1MOXZLalFVZ0hHNmRzU01tcXRSOTV6b2dGajRETjJoZDA4c1FidkpfYVBjV1dDblNQcw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 17:39:55 GMT",
+  "published_ts": 1784137195,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEx1a1lGeVRveWx2a0VuekFzUHNfNllIX1JOWElTV0w0Sjh3Qk5DNFdiWmkzNHJFMHdFbWZHdWJHejM1TG9GNTc1VzRWbC1MOXZLalFVZ0hHNmRzU01tcXRSOTV6b2dGajRETjJoZDA4c1FidkpfYVBjV1dDblNQc9IBgAFBVV95cUxNaEx1a1lGeVRveWx2a0VuekFzUHNfNllIX1JOWElTV0w0Sjh3Qk5DNFdiWmkzNHJFMHdFbWZHdWJHejM1TG9GNTc1VzRWbC1MOXZLalFVZ0hHNmRzU01tcXRSOTV6b2dGajRETjJoZDA4c1FidkpfYVBjV1dDblNQcw?oc=5\" target=\"_blank\">Sandisk Plunges 10.6% Amid Sector-Wide Selling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlphaStreet</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AlphaStreet"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock fell 10.6% in sector-wide selling. The headline reports only the price move without a stated catalyst or new information, suggesting it is a market reaction to existing conditions rather than a concrete event. As a holding with a notable intraday move but lacking a distinct news driver beyond sector dynamics, this merits a minor relevance flag."
+  },
+  "buffered_ts": 1784137618.23528
  }
 ]
