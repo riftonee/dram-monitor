@@ -1,1 +1,194 @@
-[]
+[
+ {
+  "id": "bc3aa36acae92b2d44666f47f79c0f9e182351f0",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "BNP Paribas Adjusts Seagate Technology Price Target to $1,050 From $860, Maintains Outperform Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVockhtNGt1NHNYdEtiLWNVZlZHVEJIOG9fNFBfWGVZZGVnRzctVDJZaFE4dUQ1UWxfVmFMV1NlQml1X1I5eFp5RzdaaHJybVVwVUxJQkhCNWN6SG1wcHlhMjJESEtpWWk3UnhvQ3FxNVZwWXBmUXdPdFljd3JlTDJVbjBybW42c2xLSDd6NDRyY052aG5LTUNudHlEeVgtT1ZvcFpNVGJrM1V3dFdRdkpST29OejBmT0xZeXNpUmVRdWJicDhDaGIzblZFNDlYaXAyc3lZUXhCd05sdTBDaXA3MTY?oc=5",
+  "published_at": "Wed, 15 Jul 2026 11:59:10 GMT",
+  "published_ts": 1784116750,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVockhtNGt1NHNYdEtiLWNVZlZHVEJIOG9fNFBfWGVZZGVnRzctVDJZaFE4dUQ1UWxfVmFMV1NlQml1X1I5eFp5RzdaaHJybVVwVUxJQkhCNWN6SG1wcHlhMjJESEtpWWk3UnhvQ3FxNVZwWXBmUXdPdFljd3JlTDJVbjBybW42c2xLSDd6NDRyY052aG5LTUNudHlEeVgtT1ZvcFpNVGJrM1V3dFdRdkpST29OejBmT0xZeXNpUmVRdWJicDhDaGIzblZFNDlYaXAyc3lZUXhCd05sdTBDaXA3MTY?oc=5\" target=\"_blank\">BNP Paribas Adjusts Seagate Technology Price Target to $1,050 From $860, Maintains Outperform Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BNP Paribas raised Seagate (STX) price target from $860 to $1,050 while maintaining Outperform rating. This is an analyst price-target adjustment—opinion-based guidance that reflects market digestion of existing information rather than a concrete, market-moving event."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "3051da61bff2fb7058b70bc12ed47310a424fa21",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: Lock In Gains Here, Long-Term Demand Profile Unclear (Rating Downgrade) (SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2cxb0VmVXBjRWFvZG9pRlJKczNQOWVVcWFhcEdUMEQ4SmhXZXd6RGVubkFwN183ZkFZUnVBZmQwS29IbEs5OV9qV0U0c3h1ZTRCb0s3MXZ1SGV5am02QlU1UDdtd2p3N0NNS0ZQUk1pd0FmSTExWVRwR0RMYWVHYlN0ZHVBSEFMeTJKSWx5WFVhRnNBVVhrQWo4R1B4VnFHQzFJQUZCRUdMNzNjOGk1aC1ZU2tSbWp3?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:20:10 GMT",
+  "published_ts": 1784118010,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2cxb0VmVXBjRWFvZG9pRlJKczNQOWVVcWFhcEdUMEQ4SmhXZXd6RGVubkFwN183ZkFZUnVBZmQwS29IbEs5OV9qV0U0c3h1ZTRCb0s3MXZ1SGV5am02QlU1UDdtd2p3N0NNS0ZQUk1pd0FmSTExWVRwR0RMYWVHYlN0ZHVBSEFMeTJKSWx5WFVhRnNBVVhrQWo4R1B4VnFHQzFJQUZCRUdMNzNjOGk1aC1ZU2tSbWp3?oc=5\" target=\"_blank\">Sandisk: Lock In Gains Here, Long-Term Demand Profile Unclear (Rating Downgrade) (SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst downgrades SanDisk (SNDK) rating and recommends locking in gains, citing unclear long-term demand profile. This is analyst opinion on a fund holding, not a concrete event or new fundamental development."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "a957a2f886b3f330c66ac7c716b1ba80e62515f0",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "SK Hynix Stock: Why the Memory Chip Maker Is Dropping Today After a 27% Surge - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01MzFTakVFTnJDV2ljN1pUaTQ0eWc0LXZXbVFVZU5ndEd1Uk1pTUdmNTZSN1laRzMwMkdMRVpZS2JMNkFmeGxRLWN2WUw1TEJfa2RlSjBldHVFUVRXWVZDaHQwRkYxNXpGZFF5QkJuV1Ntc2VuNVpJ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:27:00 GMT",
+  "published_ts": 1784118420,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01MzFTakVFTnJDV2ljN1pUaTQ0eWc0LXZXbVFVZU5ndEd1Uk1pTUdmNTZSN1laRzMwMkdMRVpZS2JMNkFmeGxRLWN2WUw1TEJfa2RlSjBldHVFUVRXWVZDaHQwRkYxNXpGZFF5QkJuV1Ntc2VuNVpJ?oc=5\" target=\"_blank\">SK Hynix Stock: Why the Memory Chip Maker Is Dropping Today After a 27% Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock fell after a 27% surge. The article discusses daily price movements and likely analyst reaction to recent gains rather than reporting a new concrete event or earnings surprise. Stock moves driven by digestion of known results or market sentiment are capped at impact 3."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "85f920a5898ea35bbf153f86cc64d52c61847471",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdDNidzY3YkJTS3JWMnJSM1E4d1ctMmlXODgxblJlazh1ZTNEVFdRX0tmcXB2YkdPOFpQbW1SbDRkOXZ0OUlDTHJTajh2OThHUWhGb2ZydkUyQlJ0NmlpVUZ4aHlsUGthSlBYdUJuVnl2cjRNZEwxdDZWRHJyTmJjMW4xNHFRcU8yVEtyclZiOC1zZy1zZmt3SU1PWnZueFV2Yy1ubmw1RmZZMmFMX29rU0tCUVZZNHU1RzRmS0JSZkkxS3pWZUhNR1U5TzEzb0VKNElpLXMwc0s3dEVDQ25oZzRmbGE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 11:28:05 GMT",
+  "published_ts": 1784114885,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdDNidzY3YkJTS3JWMnJSM1E4d1ctMmlXODgxblJlazh1ZTNEVFdRX0tmcXB2YkdPOFpQbW1SbDRkOXZ0OUlDTHJTajh2OThHUWhGb2ZydkUyQlJ0NmlpVUZ4aHlsUGthSlBYdUJuVnl2cjRNZEwxdDZWRHJyTmJjMW4xNHFRcU8yVEtyclZiOC1zZy1zZmt3SU1PWnZueFV2Yy1ubmw1RmZZMmFMX29rU0tCUVZZNHU1RzRmS0JSZkkxS3pWZUhNR1U5TzEzb0VKNElpLXMwc0s3dEVDQ25oZzRmbGE?oc=5\" target=\"_blank\">SK Hynix Controls More Than Half the HBM Market Nvidia Depends On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix holds over 50% market share in HBM (high-bandwidth memory) that Nvidia depends on. This is relevant as SK Hynix is a key DRAM fund holding and HBM demand is a core industry driver, but the story appears to be analysis of market structure rather than reporting a new concrete event or number."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "45e2ac243a9954609ff8e1b46cd064e9b73a2fc7",
+  "source": "Business Wire",
+  "topic": "holding",
+  "title": "Seagate Technology to Report Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on July 28, 2026 - Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX01JdEt6M1gyZ3RCQ01UR3c3WWZVWDkzczFvajhfeWhBbWVJS1hMcUhxOU9ieUx4aGlERTVOWXZjWGRXSm9zakZnUkNrbDdqZ3FmUEJVbWVhTld6cjc0WUNSbi13RXcyekZtU19FUFllak9fR2tZcTVvMjVUdTU2SC00a0FqWURqUk9TNFBwSE5VdFdCSXBiVUVhUUZqZlVpdG9QOW90M0pBU0hPbWI1bEpib3YxbTFVc3FXemZ2SUZqZnVOVm9GeE4yc05iaWVTenNHVUFxbzV4dlFVRzNhbDhKd2h2a2V5NlpXRDJxWWJId3JY?oc=5",
+  "published_at": "Tue, 14 Jul 2026 20:05:00 GMT",
+  "published_ts": 1784059500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX01JdEt6M1gyZ3RCQ01UR3c3WWZVWDkzczFvajhfeWhBbWVJS1hMcUhxOU9ieUx4aGlERTVOWXZjWGRXSm9zakZnUkNrbDdqZ3FmUEJVbWVhTld6cjc0WUNSbi13RXcyekZtU19FUFllak9fR2tZcTVvMjVUdTU2SC00a0FqWURqUk9TNFBwSE5VdFdCSXBiVUVhUUZqZlVpdG9QOW90M0pBU0hPbWI1bEpib3YxbTFVc3FXemZ2SUZqZnVOVm9GeE4yc05iaWVTenNHVUFxbzV4dlFVRzNhbDhKd2h2a2V5NlpXRDJxWWJId3JY?oc=5\" target=\"_blank\">Seagate Technology to Report Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on July 28, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Wire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, announced it will report Q4 FY2026 earnings on July 28, 2026. This is a routine earnings announcement notice with no material news yet—the actual results and guidance will drive impact when released."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "51fcaa25e6ff2635c0b3de3170c7282263848510",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Prediction: Sandisk Stock Is Going to Hit $3,000 by the End of 2026. Here's the Math - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEVrYkF4YWJjWnlYd3VoamYtTEF3OWwtTXoyQVlqWDFvaXk5eXJncjZTZkNnd2Exbk9IRF9vTzRfRlVMTktSTG9sUGJobXNYSHA5akdqRF80SXJDZkFfWEJWU3hDUmp0UHMxUUtTZG5EcjFWX2ZTajQwUmMxeXktS2hJbjE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:21:27 GMT",
+  "published_ts": 1784118087,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEVrYkF4YWJjWnlYd3VoamYtTEF3OWwtTXoyQVlqWDFvaXk5eXJncjZTZkNnd2Exbk9IRF9vTzRfRlVMTktSTG9sUGJobXNYSHA5akdqRF80SXJDZkFfWEJWU3hDUmp0UHMxUUtTZG5EcjFWX2ZTajQwUmMxeXktS2hJbjE?oc=5\" target=\"_blank\">Prediction: Sandisk Stock Is Going to Hit $3,000 by the End of 2026. Here's the Math</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "AOL opinion piece predicting SanDisk stock will reach $3,000 by end of 2026. SanDisk is a DRAM fund holding, but this is pure speculation and price prediction with no concrete catalyst or new information about the company's business, memory demand, or market conditions."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "f572ff39b9fd16e8d6aa762b65597406032db5c0",
+  "source": "SRP (Structured Retail Products)",
+  "topic": "holding",
+  "title": "T-Rex launches leveraged ETF tracking SK hynix ADRs - SRP (Structured Retail Products)",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRklmRnAzTmZUS1hOWm5ISTdDUXlMSEpYRmpzM3o2bVRGOXpMZXY3Q2F2bmtNZzJWQzEtQU5rTlN3TF9oLWhaRnFFSFEyMjZGLUcwY29wUld3MTdlQVE3LVRZMjkwUUpoOFVjN3N4VUswNWFCWjRTOWY0X3hoLVZEVEJLNzg5Y0RuQWVhVnFoOXk2VVU5cG1FeFFoajBYX0NCWEVCSEVXZkxaUmc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:45:25 GMT",
+  "published_ts": 1784119525,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRklmRnAzTmZUS1hOWm5ISTdDUXlMSEpYRmpzM3o2bVRGOXpMZXY3Q2F2bmtNZzJWQzEtQU5rTlN3TF9oLWhaRnFFSFEyMjZGLUcwY29wUld3MTdlQVE3LVRZMjkwUUpoOFVjN3N4VUswNWFCWjRTOWY0X3hoLVZEVEJLNzg5Y0RuQWVhVnFoOXk2VVU5cG1FeFFoajBYX0NCWEVCSEVXZkxaUmc?oc=5\" target=\"_blank\">T-Rex launches leveraged ETF tracking SK hynix ADRs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRP (Structured Retail Products)</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SRP (Structured Retail Products)"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "T-Rex launched a leveraged ETF tracking SK hynix ADRs. While SK hynix is a major DRAM holding, this is a separate competing product launch, not a material development affecting the Roundhill DRAM ETF itself or the underlying memory market."
+  },
+  "buffered_ts": 1784119877.763495
+ },
+ {
+  "id": "34c64795d5d56402e9fe635905fa722b485d00f0",
+  "source": "SRP (Structured Retail Products)",
+  "topic": "holding",
+  "title": "Themes ETFs launches leveraged SK Hynix ETFs - SRP (Structured Retail Products)",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0phaEFhRDc5alNSZTZ1R1RJWGluUGdISk9IYklLXzBteUlJNU51YmZMdGJXMG5YVkZ0R1dUOXp5aEJQbVNUX1FvVllUQmJCZGhLREJpNm9seTFNQXRIQlVET1VNSzRDZERtYUhIYmhNbU1iQXpUeHBtc3Rodl9rVnFqN0xJT1dUNUN4TnVmdTh2amEzWUtHTnI1QVpoNE9MUHc?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:45:23 GMT",
+  "published_ts": 1784119523,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0phaEFhRDc5alNSZTZ1R1RJWGluUGdISk9IYklLXzBteUlJNU51YmZMdGJXMG5YVkZ0R1dUOXp5aEJQbVNUX1FvVllUQmJCZGhLREJpNm9seTFNQXRIQlVET1VNSzRDZERtYUhIYmhNbU1iQXpUeHBtc3Rodl9rVnFqN0xJT1dUNUN4TnVmdTh2amEzWUtHTnI1QVpoNE9MUHc?oc=5\" target=\"_blank\">Themes ETFs launches leveraged SK Hynix ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRP (Structured Retail Products)</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SRP (Structured Retail Products)"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Themes ETFs has launched leveraged ETFs tracking SK Hynix, a major holding in the DRAM ETF. This is a competitive fund product launch but does not directly affect DRAM ETF flows, holdings, or NAV."
+  },
+  "buffered_ts": 1784119877.763495
+ }
+]
