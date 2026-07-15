@@ -577,5 +577,197 @@
    "summary": "SanDisk stock price movement piece. Without additional context on a specific catalyst (earnings, guidance, deal, or industry event), this appears to be a price-action commentary. If the snippet contains no concrete news driver distinct from market sentiment, the impact is minor."
   },
   "buffered_ts": 1784126818.716316
+ },
+ {
+  "id": "3745296004031654755bf43f4cd043d8d3f7c394",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung Doubles Down on AI Memory: New DRAM Fab at Giheung Campus Targets 100K Wafers/Month to Ride HBM Wave - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yeW9wSHRwa2F2MkJwYTJHRC1VejNnM3BKaUpDcGpUdnBoTHNWV2hlRVdTSm5saUlTRW9jekM2dTJJUU9Yd0g3UVpKS1Z1NFQ1WDVtNXlGVzdSaVlpN1JOWVFLVGQ2OFdVRzdTTVRZazYtMktZM2c?oc=5",
+  "published_at": "Wed, 15 Jul 2026 10:05:00 GMT",
+  "published_ts": 1784109900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4yeW9wSHRwa2F2MkJwYTJHRC1VejNnM3BKaUpDcGpUdnBoTHNWV2hlRVdTSm5saUlTRW9jekM2dTJJUU9Yd0g3UVpKS1Z1NFQ1WDVtNXlGVzdSaVlpN1JOWVFLVGQ2OFdVRzdTTVRZazYtMktZM2c?oc=5\" target=\"_blank\">Samsung Doubles Down on AI Memory: New DRAM Fab at Giheung Campus Targets 100K Wafers/Month to Ride HBM Wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced a new DRAM fabrication facility at its Giheung campus targeting 100,000 wafers per month, explicitly focused on AI memory and HBM demand. This is a concrete capacity expansion decision by a major fund holding with a stated production target and strategic focus on the high-growth HBM segment driving memory demand."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "38a80ba6c2e4603204dc4d271f77551ec39be45c",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Arista, Seagate, Astera emerge as 'top ideas' as BNP remains bullish on AI supply chain into 2027 - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHNVS3YxcHMtd0lJWDF2MG5yTTg0aWtJZUt6VTV1RVRsZE5FUmdnZEVMckhKamlFOVJHbGxPUnZwZ3ItaWpibHhlWk5lU2wzbEJaaEFJODVhaFlxNjI1NjlJVWRIb3BXTmdFenBleWdjT2tmSE5uXzVhWU5rY0FTQTB6LVdvSDE5Z2R0SXJHVk5hZEZ6aGtTcno0bTk1WjZTbWo0ekt2MENKdU95MzdlcXN3SWc5S21aVnJHUU9MVENlSkRSMzJYRGlHQQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:49:00 GMT",
+  "published_ts": 1784130540,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHNVS3YxcHMtd0lJWDF2MG5yTTg0aWtJZUt6VTV1RVRsZE5FUmdnZEVMckhKamlFOVJHbGxPUnZwZ3ItaWpibHhlWk5lU2wzbEJaaEFJODVhaFlxNjI1NjlJVWRIb3BXTmdFenBleWdjT2tmSE5uXzVhWU5rY0FTQTB6LVdvSDE5Z2R0SXJHVk5hZEZ6aGtTcno0bTk1WjZTbWo0ekt2MENKdU95MzdlcXN3SWc5S21aVnJHUU9MVENlSkRSMzJYRGlHQQ?oc=5\" target=\"_blank\">Arista, Seagate, Astera emerge as 'top ideas' as BNP remains bullish on AI supply chain into 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "BNP Paribas names Seagate (holding) as a 'top idea' with bullish AI supply-chain outlook through 2027. Analyst recommendation and forward guidance opinion rather than a concrete event, but relevant to fund holdings in the memory/storage AI infrastructure cycle."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "e2d3c9c18b9d3f32cbf9075722390285fc438610",
+  "source": "Chosunbiz",
+  "topic": "industry",
+  "title": "Omdia says chip growth rate peaks as HBM stays tight to 2027, Korea eyes AI role - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWdhNVVxcV9PUDFxWWVZdFdMMFFzZFZ2NkVIUUdTLVQ0blAtQ2JST2JuTXNvRDZ4WnIzM2hCUGtyaU9IVnAyU0pEUFlmRWhnTTNBcjNfQ1ZWOE9rajhmMVVQc1ZDcUZGWWd3VTVhVjBpZ28yVEN1dzFqX2ZoMndzejliSjVIdGg3U1FSbzlR0gGOAUFVX3lxTE1RZ2E1VXFxX09QMXFZZVl0V0wwUXNkVnY2RUhRR1MtVDRuUC1DYlJPYm5Nc29ENnhacjMzaEJQa3JpT0hWcDJTSkRQWWZFaGdNM0FyM19DVlY4T2tqOGYxVVBzVkNxRkZZZ3dVNWFWMGlnbzJUQ3V3MWpfZmgyd3N6OWJKNUh0aDdTUVJvOVE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:59:00 GMT",
+  "published_ts": 1784105940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWdhNVVxcV9PUDFxWWVZdFdMMFFzZFZ2NkVIUUdTLVQ0blAtQ2JST2JuTXNvRDZ4WnIzM2hCUGtyaU9IVnAyU0pEUFlmRWhnTTNBcjNfQ1ZWOE9rajhmMVVQc1ZDcUZGWWd3VTVhVjBpZ28yVEN1dzFqX2ZoMndzejliSjVIdGg3U1FSbzlR0gGOAUFVX3lxTE1RZ2E1VXFxX09QMXFZZVl0V0wwUXNkVnY2RUhRR1MtVDRuUC1DYlJPYm5Nc29ENnhacjMzaEJQa3JpT0hWcDJTSkRQWWZFaGdNM0FyM19DVlY4T2tqOGYxVVBzVkNxRkZZZ3dVNWFWMGlnbzJUQ3V3MWpfZmgyd3N6OWJKNUh0aDdTUVJvOVE?oc=5\" target=\"_blank\">Omdia says chip growth rate peaks as HBM stays tight to 2027, Korea eyes AI role - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Omdia forecasts that overall chip growth rate will peak while HBM (high-bandwidth memory) supply remains constrained through 2027. This is analyst opinion and forward guidance rather than a concrete event, but it directly addresses HBM tightness—a key driver of memory demand and pricing for DRAM fund holdings. The forecast is relevant to the memory cycle but lacks the specificity of a hard number or confirmed development."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "999fdd91d2cea29d4c4e5e96eac4e5e044813d6b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Looks Below Fair Value Despite High Expectations - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXg0dDEzc1FnV2pNWFpjeVIwNlhleHlJNkI2b2x6WTItb2VzUnpqSVplWDd2dTFBUElXVFNKV0lNYVhQaC1kYnlOckgzU1J6WmVRRWdYTW1JeHMzWFFRMzV3aUU1TmpBeVBEbWhFd1NERkFINHhNS05RNmtVUE9wdzlXcFpmRkxfSzJ1QVMxR2V1WGJJbnNud2sxcw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 04:35:00 GMT",
+  "published_ts": 1784090100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXg0dDEzc1FnV2pNWFpjeVIwNlhleHlJNkI2b2x6WTItb2VzUnpqSVplWDd2dTFBUElXVFNKV0lNYVhQaC1kYnlOckgzU1J6WmVRRWdYTW1JeHMzWFFRMzV3aUU1TmpBeVBEbWhFd1NERkFINHhNS05RNmtVUE9wdzlXcFpmRkxfSzJ1QVMxR2V1WGJJbnNud2sxcw?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Looks Below Fair Value Despite High Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis suggests SanDisk stock is trading below fair value despite positive expectations. This is analyst opinion and valuation commentary rather than a concrete event or new information about memory demand, pricing, or company fundamentals."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "fa7698785f7b73b39a64534a3a09b57b7320411a",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Western Digital shares fall as global chip selloff hits memory sector (WDC) - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmMySk5oRnJreURYUERTbXF1ZmdfQ09RYWp2RnEwOUNreWNWZ05ZMzFCR3FqQng2MWx0NFFBeEhZQ2lucHJYdTRoVmp2bkU2dUwxb2t6UEg5bnlsZjc4UXRpNXcwd21EaVh2Mmk0cVJBRmpHREwzUEo1UUp5OFNoRHdoT280TDUwemJIVFRTRXhsdFhrZzlrbm9udVQ1ZGhnWVhNU2JETHBzRS1IQnpzaWR4X0h5WW94clhSX01hYXFNR0k?oc=5",
+  "published_at": "Tue, 14 Jul 2026 19:18:49 GMT",
+  "published_ts": 1784056729,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmMySk5oRnJreURYUERTbXF1ZmdfQ09RYWp2RnEwOUNreWNWZ05ZMzFCR3FqQng2MWx0NFFBeEhZQ2lucHJYdTRoVmp2bkU2dUwxb2t6UEg5bnlsZjc4UXRpNXcwd21EaVh2Mmk0cVJBRmpHREwzUEo1UUp5OFNoRHdoT280TDUwemJIVFRTRXhsdFhrZzlrbm9udVQ1ZGhnWVhNU2JETHBzRS1IQnpzaWR4X0h5WW94clhSX01hYXFNR0k?oc=5\" target=\"_blank\">Western Digital shares fall as global chip selloff hits memory sector (WDC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a fund holding, experienced a share price decline amid a broader global chip sector selloff affecting memory stocks. The report cites sector weakness rather than company-specific news, making this a market-driven price move tied to industry headwinds rather than a concrete operational or earnings development."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "1b71041bedbb6084f042b3406c645a70a54785b4",
+  "source": "ETF Database",
+  "topic": "holding",
+  "title": "Leveraging Memory: Direxion Premiers Daily Sk Hynix Bull 2X ETF - ETF Database",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGN1VnA3WV9CUlZVeDdILW1iaVJuRV9LdnBuZGltQUdTbFFGSWRwOEJJalpJR0Z3RldvUThyWUZXWlY5dlIxUzZ0QU5uRVJEWHFLdEdzYUtYYldpMExiZVNKUTVEVkF0eklzUEdUR3V0RmNnVjBmbHZrU0xVUzZURWotci1uWXpq?oc=5",
+  "published_at": "Wed, 15 Jul 2026 15:51:58 GMT",
+  "published_ts": 1784130718,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGN1VnA3WV9CUlZVeDdILW1iaVJuRV9LdnBuZGltQUdTbFFGSWRwOEJJalpJR0Z3RldvUThyWUZXWlY5dlIxUzZ0QU5uRVJEWHFLdEdzYUtYYldpMExiZVNKUTVEVkF0eklzUEdUR3V0RmNnVjBmbHZrU0xVUzZURWotci1uWXpq?oc=5\" target=\"_blank\">Leveraging Memory: Direxion Premiers Daily Sk Hynix Bull 2X ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF Database</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ETF Database"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Direxion has launched a new Daily SK Hynix Bull 2X ETF, a leveraged product tracking SK hynix. This is fund-industry news related to a major DRAM ETF holding, but represents a competitive product launch rather than a material event affecting DRAM ETF itself or SK hynix's business fundamentals."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "45b4d2ff0a3fe4df12ed623e5c1f3e9893daf945",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "NVIDIA vs SanDisk: Is Storage the Next AI Winner? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTcxZ3FqdHM3Ykg5MUloYmZLc1dBaXFieTZtUUJlb3YyS1FhN3JoVF84cWFWSUg5NGRma2JpenU0YmNkakNkVnBKSkhsb3NmMWUtZ2hiWGVhUmdkUk1JMFlIejBNUkd3cGRON282ekNORDFCQzZTUzZreDBCYWpTNF92dDFuQ2sxNFVBSHlROV9rb1BKNHc?oc=5",
+  "published_at": "Tue, 14 Jul 2026 18:00:12 GMT",
+  "published_ts": 1784052012,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObTcxZ3FqdHM3Ykg5MUloYmZLc1dBaXFieTZtUUJlb3YyS1FhN3JoVF84cWFWSUg5NGRma2JpenU0YmNkakNkVnBKSkhsb3NmMWUtZ2hiWGVhUmdkUk1JMFlIejBNUkd3cGRON282ekNORDFCQzZTUzZreDBCYWpTNF92dDFuQ2sxNFVBSHlROV9rb1BKNHc?oc=5\" target=\"_blank\">NVIDIA vs SanDisk: Is Storage the Next AI Winner?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece comparing NVIDIA and SanDisk as potential AI winners, with focus on storage as an emerging AI beneficiary. SanDisk (a DRAM fund holding) is mentioned directly, but the piece appears to be analytical/speculative commentary on future AI storage demand rather than reporting a concrete event, earnings result, or price-moving catalyst."
+  },
+  "buffered_ts": 1784132316.6319609
+ },
+ {
+  "id": "52725a4bd991755f4b91bbd7ff6ac7a6d64e493f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Prediction: SK Hynix Will Become the Next Nvidia - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUJpU3lqalkyWDZlMEtqT0N6ZDQ0dklXNi15Y0FWdllkd2MwVmlIUEpieHlfNEswMGdKRFU2OENnaGRzVk9EeEtkN1NzSXFGc2ZCc2lUUEFFa2wtNDU3RDRtLXp3aHpOaW9IRl9BMTBFcDIzelJwY3JLZzFDZGtpd1Q0VTVrc2xBR0tlcTRQM3VDNTlqamxXVWN2cw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 14:43:00 GMT",
+  "published_ts": 1784126580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUJpU3lqalkyWDZlMEtqT0N6ZDQ0dklXNi15Y0FWdllkd2MwVmlIUEpieHlfNEswMGdKRFU2OENnaGRzVk9EeEtkN1NzSXFGc2ZCc2lUUEFFa2wtNDU3RDRtLXp3aHpOaW9IRl9BMTBFcDIzelJwY3JLZzFDZGtpd1Q0VTVrc2xBR0tlcTRQM3VDNTlqamxXVWN2cw?oc=5\" target=\"_blank\">Prediction: SK Hynix Will Become the Next Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst prediction that SK Hynix will become the next Nvidia. This is opinion/speculation about a major holding's future prospects, not a concrete event or material development. Stock price predictions and forward-looking analyst commentary are soft intelligence rather than settled facts."
+  },
+  "buffered_ts": 1784132316.6319609
  }
 ]
