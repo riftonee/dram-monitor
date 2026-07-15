@@ -2636,5 +2636,245 @@
    "summary": "SK hynix stock rose in response to cooler inflation data that lifted chip stocks broadly. This is a general market move tied to macro conditions rather than memory-specific fundamentals or a concrete event affecting the company."
   },
   "buffered_ts": 1784100525.0559204
+ },
+ {
+  "id": "9f4c8d9a149d8d1734c3c16c41637436bc32b089",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Samsung to Expand AI Memory Capacity: New DRAM Fab Planned at Giheung Campus with Target Monthly Output of 100,000 Wafers - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1VVaFJib2pzSzByaHlUV0YtY1NHb2pLSFRCMkRwZVgtQm40cHpIWHV0Y3QzM3FUVHAyX09QY2cyN21QNy1Dd2RhWkJKeVkwaEtramEwVzdlaGpPVkIyeHhURVplbllCRmRKMW9xMVN4VUZMb3ZaRTBJdmFGN2pHV2dCOFBaVWxKUDA3S0RBWVducVJRVlVpbHEwRElkV1Nh?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:49:04 GMT",
+  "published_ts": 1784105344,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1VVaFJib2pzSzByaHlUV0YtY1NHb2pLSFRCMkRwZVgtQm40cHpIWHV0Y3QzM3FUVHAyX09QY2cyN21QNy1Dd2RhWkJKeVkwaEtramEwVzdlaGpPVkIyeHhURVplbllCRmRKMW9xMVN4VUZMb3ZaRTBJdmFGN2pHV2dCOFBaVWxKUDA3S0RBWVducVJRVlVpbHEwRElkV1Nh?oc=5\" target=\"_blank\">Samsung to Expand AI Memory Capacity: New DRAM Fab Planned at Giheung Campus with Target Monthly Output of 100,000 Wafers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced plans for a new DRAM fabrication facility at its Giheung campus with a target monthly output of 100,000 wafers, expanding capacity for AI memory. This is a concrete, officially announced capacity expansion decision by a major fund holding with material implications for memory supply and Samsung's competitive positioning."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "4246e4cc1c0ba496e82b910381d765fda3191d3a",
+  "source": "Chosunbiz",
+  "topic": "industry",
+  "title": "Omdia says chip growth rate peaks as HBM stays tight to 2027, Korea eyes AI role - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbXhkajVKVlhSYndkME9nS25jdGhJd1QzS0wzMzVtOUt5NFpOWENpQlZkTjhnU1JfU2k0MVBpZHRaVThIWVRRU2Npb0JucFpDYkgzSGRxS3VzUWYxUEtFdWFvU2N2UTJHUk9xZVdQSjBZTG9yV0JTMnhR0gGOAUFVX3lxTE1RZ2E1VXFxX09QMXFZZVl0V0wwUXNkVnY2RUhRR1MtVDRuUC1DYlJPYm5Nc29ENnhacjMzaEJQa3JpT0hWcDJTSkRQWWZFaGdNM0FyM19DVlY4T2tqOGYxVVBzVkNxRkZZZ3dVNWFWMGlnbzJUQ3V3MWpfZmgyd3N6OWJKNUh0aDdTUVJvOVE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:59:00 GMT",
+  "published_ts": 1784105940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbXhkajVKVlhSYndkME9nS25jdGhJd1QzS0wzMzVtOUt5NFpOWENpQlZkTjhnU1JfU2k0MVBpZHRaVThIWVRRU2Npb0JucFpDYkgzSGRxS3VzUWYxUEtFdWFvU2N2UTJHUk9xZVdQSjBZTG9yV0JTMnhR0gGOAUFVX3lxTE1RZ2E1VXFxX09QMXFZZVl0V0wwUXNkVnY2RUhRR1MtVDRuUC1DYlJPYm5Nc29ENnhacjMzaEJQa3JpT0hWcDJTSkRQWWZFaGdNM0FyM19DVlY4T2tqOGYxVVBzVkNxRkZZZ3dVNWFWMGlnbzJUQ3V3MWpfZmgyd3N6OWJKNUh0aDdTUVJvOVE?oc=5\" target=\"_blank\">Omdia says chip growth rate peaks as HBM stays tight to 2027, Korea eyes AI role - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Omdia forecast that chip growth peaks while HBM supply remains constrained through 2027, and Korea positions itself for AI role. Relevant to memory-cycle dynamics and HBM demand outlook affecting fund holdings, but this is analyst forecast/opinion rather than a confirmed market event or hard production/pricing data."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "28428de5c87f43d3c41ebc61b2963e5807971363",
+  "source": "Mitrade",
+  "topic": "holding",
+  "title": "SK Hynix Stock Surges 27% as AI Memory Stocks Rally – Is It Time to Buy Micron and Sandisk? - Mitrade",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vM3huOXl5dmFRYXlSSDU0QkVBZnlybzJsTlBKTUMzclRQelFkTnRmNG5HcERRMERxYXp6UE91dXJCeXV3THhodllvaXBzSFktVmtXenpDNm1KQ25DWUdIOE5LQ0l0V3lEMTgwTmd1WnJEbVZYZl9OdzBBZ00?oc=5",
+  "published_at": "Wed, 15 Jul 2026 03:44:16 GMT",
+  "published_ts": 1784087056,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9vM3huOXl5dmFRYXlSSDU0QkVBZnlybzJsTlBKTUMzclRQelFkTnRmNG5HcERRMERxYXp6UE91dXJCeXV3THhodllvaXBzSFktVmtXenpDNm1KQ25DWUdIOE5LQ0l0V3lEMTgwTmd1WnJEbVZYZl9OdzBBZ00?oc=5\" target=\"_blank\">SK Hynix Stock Surges 27% as AI Memory Stocks Rally – Is It Time to Buy Micron and Sandisk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mitrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mitrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock surged 27% as part of an AI memory sector rally. Article speculates on whether this is time to buy Micron and SanDisk. This is a post-price-move analysis piece asking 'should you buy' rather than reporting a concrete event or catalyst for the move. While it names fund holdings, the surge itself appears to be part of a broader rally with no stated discrete cause, and the buyer recommendation is opinion/analysis, not a market event."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "833e62b130e9759ebec8477127e9185a8e1e4410",
+  "source": "EBC Financial Group",
+  "topic": "holding",
+  "title": "SK Hynix Stock Skyrockets 27% on Nasdaq: Inside the Massive AI Rally - EBC Financial Group",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tcy1HNHZpd2dlMW03VmNtWEtGOVJMXzBzZTBwTXVad3BvODZCdHZyVXYzVXg2TEludWxjSTgyVHFMek02QmE4aXR6QjBIeVU5RW5QeW9kTDJpTG85OWlOYWItWXBtQ3hDQ0pZajczQXFldw?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:33:00 GMT",
+  "published_ts": 1784104380,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9tcy1HNHZpd2dlMW03VmNtWEtGOVJMXzBzZTBwTXVad3BvODZCdHZyVXYzVXg2TEludWxjSTgyVHFMek02QmE4aXR6QjBIeVU5RW5QeW9kTDJpTG85OWlOYWItWXBtQ3hDQ0pZajczQXFldw?oc=5\" target=\"_blank\">SK Hynix Stock Skyrockets 27% on Nasdaq: Inside the Massive AI Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EBC Financial Group</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "EBC Financial Group"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rose 27% on Nasdaq. The story reports a significant price move but does not provide a distinct catalyst separate from already-known market conditions or earnings—it frames the move as part of a broader AI rally without citing a specific new development, regulatory decision, capacity announcement, or earnings surprise tied to this particular session."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "bc3436d23a719f0d245329148ac9587e92b37a4f",
+  "source": "qz.com",
+  "topic": "pricing",
+  "title": "Will Micron's Gross Margin Expand Further With Higher Memory Pricing? - qz.com",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTZQZDVia0d1NDk3dEFjUkRUcjk2THdHSGllUTlVR3pWRnBXa1d6a1hyV2lHelE1bFVfRDNhRGUxYlFFemtJTmRjUy1QVlNXczdBNVk3NVczZ1NvcUt1QjhuM01FalhCVFljeC1yUF95aHlsY3lPeVF1cjNvYnphNThoZ1g3MEM2R3lv?oc=5",
+  "published_at": "Wed, 15 Jul 2026 02:18:02 GMT",
+  "published_ts": 1784081882,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTZQZDVia0d1NDk3dEFjUkRUcjk2THdHSGllUTlVR3pWRnBXa1d6a1hyV2lHelE1bFVfRDNhRGUxYlFFemtJTmRjUy1QVlNXczdBNVk3NVczZ1NvcUt1QjhuM01FalhCVFljeC1yUF95aHlsY3lPeVF1cjNvYnphNThoZ1g3MEM2R3lv?oc=5\" target=\"_blank\">Will Micron's Gross Margin Expand Further With Higher Memory Pricing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "qz.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece exploring whether Micron's gross margins could expand as memory pricing rises. This is forward-looking commentary and analysis rather than a reported price move or confirmed pricing event, making it opinion-based rather than a concrete development."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "bdb9f442ed797e4c9abe68942fd8feee41a882cb",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Samsung Is Said in Early Discussions on Potential US Listing - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWFpbnd1bDhtTGRYTDk0eklkbDFOZFVSanIxYWEzclZfWVpnT0dQazh4c0pENVRCVTdQaHZVTkFOZGVzVmlnLVR6VmNKVHlTR200dEpCaloza3dlSHh2anc0U1RGMkRBSExwWTlXZDFzZ1hNQS00aERvbW84Tnk0aEV2azdfSG9zM0U5aDh4NlRCcUNiYlZzeDFMdVpjejFDOU1MSWpPeXJ4QVl0T19oX2FjVEQ?oc=5",
+  "published_at": "Tue, 14 Jul 2026 09:22:48 GMT",
+  "published_ts": 1784020968,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWFpbnd1bDhtTGRYTDk0eklkbDFOZFVSanIxYWEzclZfWVpnT0dQazh4c0pENVRCVTdQaHZVTkFOZGVzVmlnLVR6VmNKVHlTR200dEpCaloza3dlSHh2anc0U1RGMkRBSExwWTlXZDFzZ1hNQS00aERvbW84Tnk0aEV2azdfSG9zM0U5aDh4NlRCcUNiYlZzeDFMdVpjejFDOU1MSWpPeXJ4QVl0T19oX2FjVEQ?oc=5\" target=\"_blank\">Samsung Is Said in Early Discussions on Potential US Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is in early discussions about a potential US listing. This is speculative and preliminary—no confirmed decision or timeline—but materially relevant as Samsung is a major DRAM and NAND producer held by the fund. A US listing could affect capital structure and investor base; however, as talks are early-stage and unconfirmed, impact is soft (opinion/possibility stage, not a settled event)."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "9d7d6f653039c421b9d80a823e122e8a0df0ac02",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix Just Changed Its AI Game Forever (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDBuZXplcHVCd1pISl9VUTd0VjEtblM5eFdhZ3lfUGdBZHU2VzFhOURIQ2JIeU9KWlpnQ1lvVjFWQ2FzUVJCWkxyOC1XV1Y1TllFUi00ZUhGdHFkLUtqbGlWTklBa3dYdlZORmZNVm5TZDhsU1prdUw0YjE2anBnS0xCOXlaQjQ2VUE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:29:59 GMT",
+  "published_ts": 1784104199,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDBuZXplcHVCd1pISl9VUTd0VjEtblM5eFdhZ3lfUGdBZHU2VzFhOURIQ2JIeU9KWlpnQ1lvVjFWQ2FzUVJCWkxyOC1XV1Y1TllFUi00ZUhGdHFkLUtqbGlWTklBa3dYdlZORmZNVm5TZDhsU1prdUw0YjE2anBnS0xCOXlaQjQ2VUE?oc=5\" target=\"_blank\">SK hynix Just Changed Its AI Game Forever (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SK hynix's AI strategy shift. While SK hynix is a core holding, the headline is promotional and the snippet suggests analysis/commentary rather than reporting a concrete event. Relevant to the fund but lacking hard news or market-moving disclosure."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "2b5d77646f506e9d5c3513d5d0083b609956876e",
+  "source": "theinvestor.co.kr",
+  "topic": "holding",
+  "title": "Cars become the next memory chip battleground - theinvestor.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfazdiQVhpWFEtYUFXb3lOMEZOZ2RDNERLb0VSN0wyakZpdjFadlVHRjl3dTVwaGNGYmZ0VmJHU2lmNWxZazYwczY5cGlxd0poRGFjejkwRjRjUQ?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:06:37 GMT",
+  "published_ts": 1784102797,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfazdiQVhpWFEtYUFXb3lOMEZOZ2RDNERLb0VSN0wyakZpdjFadlVHRjl3dTVwaGNGYmZ0VmJHU2lmNWxZazYwczY5cGlxd0poRGFjejkwRjRjUQ?oc=5\" target=\"_blank\">Cars become the next memory chip battleground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinvestor.co.kr</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "theinvestor.co.kr"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses automotive sector emerging as a new demand driver for memory chips, a relevant market trend for DRAM holdings like SK hynix and Samsung, but lacks concrete numbers, signed contracts, or specific production/capacity decisions—represents industry analysis and possibility rather than a confirmed event."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "1667ca52f9b774cd1a1d61ba8ffbf2d5f3d02d26",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "KOSPI closes nears 7,300 as SK hynix ADR surge boosts investor sentiment - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWljOFJXcHJudXFPdzUxRFBYdWJmMEhFRUhMNnZvdGEyTVpnMjQ0dmx0c0huOGp6eXAyTEo2cjgtWFprcHlHVmo0U3A4YmcxZVo0Y184MzgwbmtqNi1JdFYzNmNXT05aeThpMUVncXBoOXRxWllRaFVRTEktV0M5QW1XemFMU0YzNHNsS1Rqc2ZVQ1F2TzBxbnllb3VRVHYyU05PY3doLVN4UjAyMUxVY21JQmw0QXlz0gG-AUFVX3lxTE8wcEk0WnQwTlNTU3dkRVpvVXQ1WDhBNXR4WDk5YVNpSW1Ka2JXNFp0eUVYLTU5aEU5VlJUQ3dEUHh3ZnBySUVGQjZlTW0tbzZ2bW14TVNENWgyZkU3dFAzRFJEM2VvSnQzbEhpekVjQTB3elJ2bWdmQzdiWC03OFFTSk9EN1I5eUZsUmtfbV9WbFlEeEJsdFhsU0tjNVU4VlMtakVTSmQ2bVVlUGdQekZZd2lyU2FWelp0VnZDWlE?oc=5",
+  "published_at": "Wed, 15 Jul 2026 07:05:02 GMT",
+  "published_ts": 1784099102,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWljOFJXcHJudXFPdzUxRFBYdWJmMEhFRUhMNnZvdGEyTVpnMjQ0dmx0c0huOGp6eXAyTEo2cjgtWFprcHlHVmo0U3A4YmcxZVo0Y184MzgwbmtqNi1JdFYzNmNXT05aeThpMUVncXBoOXRxWllRaFVRTEktV0M5QW1XemFMU0YzNHNsS1Rqc2ZVQ1F2TzBxbnllb3VRVHYyU05PY3doLVN4UjAyMUxVY21JQmw0QXlz0gG-AUFVX3lxTE8wcEk0WnQwTlNTU3dkRVpvVXQ1WDhBNXR4WDk5YVNpSW1Ka2JXNFp0eUVYLTU5aEU5VlJUQ3dEUHh3ZnBySUVGQjZlTW0tbzZ2bW14TVNENWgyZkU3dFAzRFJEM2VvSnQzbEhpekVjQTB3elJ2bWdmQzdiWC03OFFTSk9EN1I5eUZsUmtfbV9WbFlEeEJsdFhsU0tjNVU4VlMtakVTSmQ2bVVlUGdQekZZd2lyU2FWelp0VnZDWlE?oc=5\" target=\"_blank\">KOSPI closes nears 7,300 as SK hynix ADR surge boosts investor sentiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix ADR surge mentioned as a contributor to broader KOSPI index movement. The story is a market-sentiment piece naming the holding in passing rather than reporting concrete news about SK hynix's operations, guidance, or a specific catalyst."
+  },
+  "buffered_ts": 1784107797.8417983
+ },
+ {
+  "id": "8a315847f65b5a3b68b42d7b311ebd454f3b36f3",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Celebrity Investors Scream as SK Hynix, Samsung Losses Mount - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0xHT2tKdmx5U3JHbjQzQW50WVhlMmxsS0d3T2w1blVCT08zR2xfa3ZTSU1XUDdCckdtaUdGME9DaGlGOGl5MTVoT3pndlFOX3o3Y1Y0b0lpd3lydzZocjlQU0RoYVNhOGVvVnZCMjk5ODBIV0tMOXlYUnBoaEMxQTFpRDBlTFQxb0UtbmdB?oc=5",
+  "published_at": "Wed, 15 Jul 2026 08:10:56 GMT",
+  "published_ts": 1784103056,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0xHT2tKdmx5U3JHbjQzQW50WVhlMmxsS0d3T2w1blVCT08zR2xfa3ZTSU1XUDdCckdtaUdGME9DaGlGOGl5MTVoT3pndlFOX3o3Y1Y0b0lpd3lydzZocjlQU0RoYVNhOGVvVnZCMjk5ODBIV0tMOXlYUnBoaEMxQTFpRDBlTFQxb0UtbmdB?oc=5\" target=\"_blank\">Celebrity Investors Scream as SK Hynix, Samsung Losses Mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korean source reporting on losses at SK hynix and Samsung with celebrity investor reaction. While it mentions two major holdings, the focus is on celebrity commentary and emotional reaction rather than substantive business developments, operational changes, or financial specifics that would move the memory cycle or fund holdings."
+  },
+  "buffered_ts": 1784107797.8417983
  }
 ]
