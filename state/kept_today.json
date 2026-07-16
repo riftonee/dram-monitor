@@ -2097,5 +2097,77 @@
    "summary": "Huang (CEO of NVIDIA) praises SK Hynix's Nasdaq listing. This is a passing positive comment about a holding company's listing, but lacks concrete new information about memory demand, pricing, capacity, or financial results that would materially move the fund."
   },
   "buffered_ts": 1784172259.774113
+ },
+ {
+  "id": "818e26ddec0a9d9717325c08f48e7dbb09558230",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "As Trump pushes chips onshore, Netlist's ITC memory bid could keep Samsung, Nvidia offshore - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkNjckR1OWxEbVVLX2pLSmlpenRaM3B1VmwyZVhvUXhLdmlCejZ5UDBoZ1QwYzVfUXhEcG5Fdk9Bb291VDFrc1hOLXlsNXVjM1B2YWRRSnhlRGdOUXBnbjhsa2JwZ1FFVm9odjFubjRSdUVMSzE3OWNfXzdDSVVidEtlM0R2WWhFWUFmYnN6SEFBMEU?oc=5",
+  "published_at": "Thu, 16 Jul 2026 06:59:45 GMT",
+  "published_ts": 1784185185,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkNjckR1OWxEbVVLX2pLSmlpenRaM3B1VmwyZVhvUXhLdmlCejZ5UDBoZ1QwYzVfUXhEcG5Fdk9Bb291VDFrc1hOLXlsNXVjM1B2YWRRSnhlRGdOUXBnbjhsa2JwZ1FFVm9odjFubjRSdUVMSzE3OWNfXzdDSVVidEtlM0R2WWhFWUFmYnN6SEFBMEU?oc=5\" target=\"_blank\">As Trump pushes chips onshore, Netlist's ITC memory bid could keep Samsung, Nvidia offshore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Netlist's International Trade Commission (ITC) memory patent complaint could force Samsung to offshore production or face import restrictions on memory chips. The story speculates on potential trade-policy consequences for Samsung and the memory industry under Trump's onshoring agenda, but reports no new confirmed ITC ruling, settlement, or policy decision—only the existence and strategic implications of Netlist's bid."
+  },
+  "buffered_ts": 1784190250.9355087
+ },
+ {
+  "id": "732046a9ac001ad0de61d07c7aced0029f3206da",
+  "source": "igor´sLAB",
+  "topic": "pricing",
+  "title": "ADATA warns of rising memory prices in Q3 2026 - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVjZGJpS3VhX25iWEN6ZUpMZkxtelc1dXZ6WkRjM1FPcnFtcWZDNzdZT1FSemhXRE1hV3ItSktuOFhLaEE2N1hnVHppUDBzV01JYWZHNy1KSjlxbGxndHA2enlnTVBjMHBqbW9kQi1xRlRSbzJkQjJtdHl4Z1NxNW9kbEFUYkpoZWFVX0dnUjVRU3laaENiX080TXJ1TTdzY0dBTWdfckN1NURfVjg0XzRvTlBrelR6Y09tdFpuZzhWU05YRTFqNnpB?oc=5",
+  "published_at": "Thu, 16 Jul 2026 04:00:00 GMT",
+  "published_ts": 1784174400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVjZGJpS3VhX25iWEN6ZUpMZkxtelc1dXZ6WkRjM1FPcnFtcWZDNzdZT1FSemhXRE1hV3ItSktuOFhLaEE2N1hnVHppUDBzV01JYWZHNy1KSjlxbGxndHA2enlnTVBjMHBqbW9kQi1xRlRSbzJkQjJtdHl4Z1NxNW9kbEFUYkpoZWFVX0dnUjVRU3laaENiX080TXJ1TTdzY0dBTWdfckN1NURfVjg0XzRvTlBrelR6Y09tdFpuZzhWU05YRTFqNnpB?oc=5\" target=\"_blank\">ADATA warns of rising memory prices in Q3 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "igor´sLAB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "ADATA warns of rising memory prices expected in Q3 2026. This is a forward-looking statement about pricing trends rather than a concrete current market development, making it relevant to the memory cycle but soft in nature (opinion/forecast rather than a settled event or hard data point)."
+  },
+  "buffered_ts": 1784190250.9355087
+ },
+ {
+  "id": "7ece660314576f3d77961b0c1dc318b8c9194e58",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "MU, SNDK, SKHY, WDC Stocks Drop Overnight: AI Memory Giants Suffer Reversal As IBM-Driven Rally Fades - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ0lZTDl4QkV4S1plWGhZUmM4aS1sZl8yVGRuZXQ0SDRNd1kwUHBjTkRjSURlWDNaUE9tanpJcGhUcnRxdVRfekJtYUtFdDg4a3JKTWlKTGhLSDNkTDh1d2JqbHJ6c2hUdXVPY0ZGd0VYR2lISHFIalN6RmI1VUc1WlZOTGUxSDliUXY0cjU1NURNWFNSdTF4M1JUdWUyNm1ub1hTSFd0cnJ3NVVqaURSSkQ1dm9EUy1fZXZyRW5SREtyQzh5UmMtVU81SDF4TDc2WXgwWU1RcFM0dllDeDhoc2FWeE9DcUQzQjc4cnlwMA?oc=5",
+  "published_at": "Thu, 16 Jul 2026 06:30:00 GMT",
+  "published_ts": 1784183400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ0lZTDl4QkV4S1plWGhZUmM4aS1sZl8yVGRuZXQ0SDRNd1kwUHBjTkRjSURlWDNaUE9tanpJcGhUcnRxdVRfekJtYUtFdDg4a3JKTWlKTGhLSDNkTDh1d2JqbHJ6c2hUdXVPY0ZGd0VYR2lISHFIalN6RmI1VUc1WlZOTGUxSDliUXY0cjU1NURNWFNSdTF4M1JUdWUyNm1ub1hTSFd0cnJ3NVVqaURSSkQ1dm9EUy1fZXZyRW5SREtyQzh5UmMtVU81SDF4TDc2WXgwWU1RcFM0dllDeDhoc2FWeE9DcUQzQjc4cnlwMA?oc=5\" target=\"_blank\">MU, SNDK, SKHY, WDC Stocks Drop Overnight: AI Memory Giants Suffer Reversal As IBM-Driven Rally Fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (MU, SNDK, SK hynix, WDC) experienced overnight stock declines as an IBM-driven rally faded. The headline reports a price move but provides no concrete catalyst, earnings data, or market-moving event distinct from intraday trading sentiment."
+  },
+  "buffered_ts": 1784190250.9355087
  }
 ]
