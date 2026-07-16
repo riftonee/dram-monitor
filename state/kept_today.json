@@ -2169,5 +2169,173 @@
    "summary": "Multiple DRAM ETF holdings (MU, SNDK, SK hynix, WDC) experienced overnight stock declines as an IBM-driven rally faded. The headline reports a price move but provides no concrete catalyst, earnings data, or market-moving event distinct from intraday trading sentiment."
   },
   "buffered_ts": 1784190250.9355087
+ },
+ {
+  "id": "920d90a8b96e3d78eca83f62486ed10df70d5ef7",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTB4T2d0b1d5ZHdEdjhTZjFpYVBQSmNLWmlCREpOR1Npem9mZFJnOTl1U3FZUlI4UmNEblNibDZWdklFTjFfUHBfcmdJNjFFYUZsemdBR1NkbHhub3ZEX3NyaW16clhnaFVhU0p1d3BtZ0NNa3l6TDdicXozbkVhS1FGcllZc0tpdVlHUFB4YkZobDlhU3A1NS1nazcwU0txYTR6MGtiUVRmb1c4M1M3ZTc3aEF4TXJOeXZNT3p2SnJzTjltZGlkamNibzVkSEU?oc=5",
+  "published_at": "Thu, 16 Jul 2026 09:57:00 GMT",
+  "published_ts": 1784195820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTB4T2d0b1d5ZHdEdjhTZjFpYVBQSmNLWmlCREpOR1Npem9mZFJnOTl1U3FZUlI4UmNEblNibDZWdklFTjFfUHBfcmdJNjFFYUZsemdBR1NkbHhub3ZEX3NyaW16clhnaFVhU0p1d3BtZ0NNa3l6TDdicXozbkVhS1FGcllZc0tpdVlHUFB4YkZobDlhU3A1NS1nazcwU0txYTR6MGtiUVRmb1c4M1M3ZTc3aEF4TXJOeXZNT3p2SnJzTjltZGlkamNibzVkSEU?oc=5\" target=\"_blank\">Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "MarketWatch article discussing SK Hynix stock volatility driven by swings between AI optimism and market fatigue. The piece is analytical commentary on price movement and sentiment rather than reporting a concrete event, earnings surprise, or hard catalyst distinct from market digestion of known information."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "fe556a9929dbb8e9a063f618a348c1ab9dd4affa",
+  "source": "KED Global",
+  "topic": "holding",
+  "title": "Korean stocks fall back as memory oversupply fears trigger volatile trade - KED Global",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41bFc5M3RYeFBwbFI1ZWxDY0E0RDZHZktlR01zYVVCV05Lam83dmMzZU91NUlzVk1JZ1U3LTFCbTRMd1g4UjVVNHh0LUwtai1Ka3FjVFhWdG5pcWZvUk9zcTBwOFhuV2liZ2pTdHN2dGtoZ1h6djZQYVpR?oc=5",
+  "published_at": "Thu, 16 Jul 2026 09:11:00 GMT",
+  "published_ts": 1784193060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE41bFc5M3RYeFBwbFI1ZWxDY0E0RDZHZktlR01zYVVCV05Lam83dmMzZU91NUlzVk1JZ1U3LTFCbTRMd1g4UjVVNHh0LUwtai1Ka3FjVFhWdG5pcWZvUk9zcTBwOFhuV2liZ2pTdHN2dGtoZ1h6djZQYVpR?oc=5\" target=\"_blank\">Korean stocks fall back as memory oversupply fears trigger volatile trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KED Global"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korean memory stocks experience volatility amid concerns about memory chip oversupply. This reflects sentiment about supply-demand balance affecting Samsung and SK hynix, but represents market reaction and speculation rather than a confirmed concrete event or hard data point."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "bfc743adf59e284804af553fcdf7960cd70db815",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Emerging Stocks Slump as Korea Curbs Fan Selloff in Chip Giants - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEE4cnE3LURhc3dKQ2RqZ2IzR3pXZ0M0cnc5ZjlFUjFLTnh5N2ZYOURWZU9MdlgzdnRxUTdLX3VhWmNLQ2tXY2gyVURYbkRnV0Z4UGVucDNhd01wcm9NWGcxbTdxdTN3R2tQNTA2THRVdERmOU5uWUlUWndjZjFlTlplYVpldzVKdVl2cVk1ZWc0ZHQ4M1NJNHJQXzNUMlRDcXhrNWRXelR6YjhOR016dGNDa2o?oc=5",
+  "published_at": "Thu, 16 Jul 2026 09:13:20 GMT",
+  "published_ts": 1784193200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEE4cnE3LURhc3dKQ2RqZ2IzR3pXZ0M0cnc5ZjlFUjFLTnh5N2ZYOURWZU9MdlgzdnRxUTdLX3VhWmNLQ2tXY2gyVURYbkRnV0Z4UGVucDNhd01wcm9NWGcxbTdxdTN3R2tQNTA2THRVdERmOU5uWUlUWndjZjFlTlplYVpldzVKdVl2cVk1ZWc0ZHQ4M1NJNHJQXzNUMlRDcXhrNWRXelR6YjhOR016dGNDa2o?oc=5\" target=\"_blank\">Emerging Stocks Slump as Korea Curbs Fan Selloff in Chip Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean authorities are attempting to curb a selloff in Korean chip giants (SK hynix and Samsung), which are major holdings in DRAM. The story reports on regulatory intervention to stabilize these stocks amid broader emerging-market weakness, but this is a soft development involving policy discussion rather than a concrete market event or earnings catalyst."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "55b12f435954e3b7a6ec459855cb9f57caa344d3",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "Good news on the memory shortage is bad news for chip stocks - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEpQeEk4YzhjX202TVowS2dVeTdmdTlER19vMVNsOUJsVXpKMXVOY2l3Y0lQZm9ZTENwTmlGWmdBY0RwdV9uYjk1VFlrcFVLd0RhR1l2Y0htYnFLS1JmUUU5dHZPR3dLdlNUaXFRTE9BdTVVaWg0djFIOTJ3QU1CV3hsWEM0VkhleW5UZjhHU3JiQmFBQUNMbnpGTU9kUVVUdmRXRnlSTkVwU1BYczZPaWQtQkl4STc0d0VXd1pIdEtSdUF6blc3c0RyU3ZVWVNiSFB2MlN3VQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 07:55:43 GMT",
+  "published_ts": 1784188543,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEpQeEk4YzhjX202TVowS2dVeTdmdTlER19vMVNsOUJsVXpKMXVOY2l3Y0lQZm9ZTENwTmlGWmdBY0RwdV9uYjk1VFlrcFVLd0RhR1l2Y0htYnFLS1JmUUU5dHZPR3dLdlNUaXFRTE9BdTVVaWg0djFIOTJ3QU1CV3hsWEM0VkhleW5UZjhHU3JiQmFBQUNMbnpGTU9kUVVUdmRXRnlSTkVwU1BYczZPaWQtQkl4STc0d0VXd1pIdEtSdUF6blc3c0RyU3ZVWVNiSFB2MlN3VQ?oc=5\" target=\"_blank\">Good news on the memory shortage is bad news for chip stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece arguing that resolution of memory shortages negatively impacts memory chip stocks. This is opinion/commentary on market dynamics rather than a concrete event, and reflects interpretation of known industry conditions rather than new hard data."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "b4dd2cd87942bcfd9a450348ba31106a3bff35a6",
+  "source": "foreignpolicyjournal.com",
+  "topic": "holding",
+  "title": "Dell (NYSE: DELL), Sandisk, And Micron (NASDAQ: MU) Lead AI Sell-Off As Apple And Google Shield Market Losses - foreignpolicyjournal.com",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0Q5d3dLWEhXR1ZYa2x3WkRpSGhNVE9oN3pGTG0xNGVYREd4XzhBXzhkVTNWdXgxbGJWMDRtU1hFSXd1TUFwMmFCSlZ5Sm9aa29qSlUxdDY1Zk9hcllTNF9KV3NzVXVIWWlkN2RPM2xleDgwY0hJRGoybmx3YnJfN1hWd2ZTc0F5QXpIVUVEX0pNVG1GVzZ0WFlHSkdLMmd3M3ZzcGRBVjVUTThieVYwTG1pNENPaXJKSTNWdGZXN2txV3MwaUNCNE5ZQmUyNnV2YlJybWZQTEJEdGNoVFRLekFWb1I?oc=5",
+  "published_at": "Thu, 16 Jul 2026 08:38:00 GMT",
+  "published_ts": 1784191080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0Q5d3dLWEhXR1ZYa2x3WkRpSGhNVE9oN3pGTG0xNGVYREd4XzhBXzhkVTNWdXgxbGJWMDRtU1hFSXd1TUFwMmFCSlZ5Sm9aa29qSlUxdDY1Zk9hcllTNF9KV3NzVXVIWWlkN2RPM2xleDgwY0hJRGoybmx3YnJfN1hWd2ZTc0F5QXpIVUVEX0pNVG1GVzZ0WFlHSkdLMmd3M3ZzcGRBVjVUTThieVYwTG1pNENPaXJKSTNWdGZXN2txV3MwaUNCNE5ZQmUyNnV2YlJybWZQTEJEdGNoVFRLekFWb1I?oc=5\" target=\"_blank\">Dell (NYSE: DELL), Sandisk, And Micron (NASDAQ: MU) Lead AI Sell-Off As Apple And Google Shield Market Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicyjournal.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "foreignpolicyjournal.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Dell, SanDisk, and Micron mentioned as leading an AI sector sell-off, but the snippet provides no concrete catalyst, numbers, or details—appears to be a generic market commentary piece naming holdings without actionable memory-specific news."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "abfe244fe89522bbdb4d88756b20bff1b998c420",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "SK Hynix volatility persists as AI euphoria shifts to fatigue - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kQnJXWmhPMnB6d3R4MHVPU3BkMEZtNklWbFVuVFJaY3l4MFlxZmtnWi1uRUVRZWh5VnVZUXBTX3dlQXVPR1VCSDFRWmsxeU9OdmZUUHJhUEg2ZVdveUdaVDAtWEY5R3dpWDdEQ3FDUWN0dFk?oc=5",
+  "published_at": "Thu, 16 Jul 2026 10:17:00 GMT",
+  "published_ts": 1784197020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9kQnJXWmhPMnB6d3R4MHVPU3BkMEZtNklWbFVuVFJaY3l4MFlxZmtnWi1uRUVRZWh5VnVZUXBTX3dlQXVPR1VCSDFRWmsxeU9OdmZUUHJhUEg2ZVdveUdaVDAtWEY5R3dpWDdEQ3FDUWN0dFk?oc=5\" target=\"_blank\">SK Hynix volatility persists as AI euphoria shifts to fatigue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock volatility continues amid shifting sentiment on AI demand; market sentiment piece rather than concrete news or material event."
+  },
+  "buffered_ts": 1784197549.6654747
+ },
+ {
+  "id": "bf5efe80c0d331ea5c9c523baabc1bfe2a86cf6c",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Nvidia’s Huang praises SK hynix ADR debut - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWnhpaFVHOVZyRjhORXpRaVNxWGVCTXhwM1hoS2NMdjQxMUlGaFlTTXhjUGxOZUpJMmRETnlOeERCNzV0MXlQYS1jY1VxX0pBNm16SHVDRQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 06:03:44 GMT",
+  "published_ts": 1784181824,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWnhpaFVHOVZyRjhORXpRaVNxWGVCTXhwM1hoS2NMdjQxMUlGaFlTTXhjUGxOZUpJMmRETnlOeERCNzV0MXlQYS1jY1VxX0pBNm16SHVDRQ?oc=5\" target=\"_blank\">Nvidia’s Huang praises SK hynix ADR debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Nvidia CEO Huang praises SK hynix's ADR (American Depositary Receipt) debut listing. This is a minor positive mention of a fund holding but lacks material market or operational substance—it is commentary rather than a concrete development affecting SK hynix's business or the memory cycle."
+  },
+  "buffered_ts": 1784197549.6654747
  }
 ]
