@@ -409,5 +409,295 @@
    "summary": "The Motley Fool lists DRAM among three AI ETFs as a way to play the memory boom. This is a passing mention of the fund in a listicle without any fund-specific news, flow data, rebalancing, or NAV information."
   },
   "buffered_ts": 1784211087.1278048
+ },
+ {
+  "id": "c8001c64bee02b7dd10e448472f2f6fb4968548d",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "Analyst Says Micron Could Hit $1,875 by Late 2027, but Skeptics Warn the Memory Cycle Isn’t Dead - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSUhiSGNTODN1YWhxOG1iNjZKQzNURm1rbEExNnM0VGFweTE5VnJNZTRPZXZsOHNyMUpDaTBCODRqRkNvU3g3c0FiOWlOZXFQME1Ob3NabmZFSVBaS05Wam4wMExkbGtNd1dzbnpZUlR3ZDliV0E?oc=5",
+  "published_at": "Thu, 16 Jul 2026 10:06:00 GMT",
+  "published_ts": 1784196360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSUhiSGNTODN1YWhxOG1iNjZKQzNURm1rbEExNnM0VGFweTE5VnJNZTRPZXZsOHNyMUpDaTBCODRqRkNvU3g3c0FiOWlOZXFQME1Ob3NabmZFSVBaS05Wam4wMExkbGtNd1dzbnpZUlR3ZDliV0E?oc=5\" target=\"_blank\">Analyst Says Micron Could Hit $1,875 by Late 2027, but Skeptics Warn the Memory Cycle Isn’t Dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst issued a price target of $1,875 for Micron by late 2027, with counterargument that memory cycle risks remain. This is forward-looking analyst opinion and price-target speculation rather than a concrete event or new hard data about demand, supply, pricing, or earnings."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "a78b93eb8fa17b4d0358ccafcbcc16fbc41a209f",
+  "source": "TechStock²",
+  "topic": "pricing",
+  "title": "Micron (NASDAQ: MU) slips as new auto contracts leave most DRAM business outside deals - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXNxM1FYUktYcjUzenNzN3N0NzhMeXNRenFaT1dzT3hvTEY4UHNSMDJQNk5CbjlpdjFrd3B6by05TGlnN3ZCR0RKNDUtUlE4eFJlT29qcGtobXpfc2lXYWhFTG41VG9vcjZhaFYxNkFkTFA4RE9ERFlYY0J3UzZNYVVpRUlUTmNubHMzTENqQ2VOS1RaVS1FeE1SQWpDNDlnbjZVeW45WQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 13:58:50 GMT",
+  "published_ts": 1784210330,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXNxM1FYUktYcjUzenNzN3N0NzhMeXNRenFaT1dzT3hvTEY4UHNSMDJQNk5CbjlpdjFrd3B6by05TGlnN3ZCR0RKNDUtUlE4eFJlT29qcGtobXpfc2lXYWhFTG41VG9vcjZhaFYxNkFkTFA4RE9ERFlYY0J3UzZNYVVpRUlUTmNubHMzTENqQ2VOS1RaVS1FeE1SQWpDNDlnbjZVeW45WQ?oc=5\" target=\"_blank\">Micron (NASDAQ: MU) slips as new auto contracts leave most DRAM business outside deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock declined as new auto contracts exclude most of the company's DRAM business from deal coverage, indicating contract negotiations or market dynamics affecting a key holding's business mix."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "4e775b9e0216786f893f5dd882230c084c296994",
+  "source": "The Economic Times",
+  "topic": "holding",
+  "title": "US probes Samsung for alleged infringement of Netlist's memory-chip patents - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTBoS09pVk9zcVZabUVBWE1QUTBXcmU5d1N1UU1Cby0xOGszTGgyeEdrMjktT085dm84dUthOVdqS2tOVmFEOUZKbXdNWjMwSzFpT21nOGppYUktTGtRZ3pScVduTkpLYjBncDZxcnl5SEVKUm9qVHF2X2NRdWNsZ1p6YTA3dXZidjlkNTFwUllJY1lLMVJyUXR4MGtxTWtvRUVhMHRQU0dBSmg2UUlZdU1fa1Exa004ZldyTGF3NURrOFpBTTRSWGFkYlQzUkJFcjRyVkt6WGNwajhEc0MyV0xUTkVSdDlJeTBZblEzNmtiSFpNZ2c?oc=5",
+  "published_at": "Thu, 16 Jul 2026 12:29:52 GMT",
+  "published_ts": 1784204992,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTBoS09pVk9zcVZabUVBWE1QUTBXcmU5d1N1UU1Cby0xOGszTGgyeEdrMjktT085dm84dUthOVdqS2tOVmFEOUZKbXdNWjMwSzFpT21nOGppYUktTGtRZ3pScVduTkpLYjBncDZxcnl5SEVKUm9qVHF2X2NRdWNsZ1p6YTA3dXZidjlkNTFwUllJY1lLMVJyUXR4MGtxTWtvRUVhMHRQU0dBSmg2UUlZdU1fa1Exa004ZldyTGF3NURrOFpBTTRSWGFkYlQzUkJFcjRyVkt6WGNwajhEc0MyV0xUTkVSdDlJeTBZblEzNmtiSFpNZ2c?oc=5\" target=\"_blank\">US probes Samsung for alleged infringement of Netlist's memory-chip patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Economic Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "US investigating Samsung for alleged patent infringement by Netlist on memory-chip technology. Samsung is a holding in DRAM; patent disputes can create legal risk and operational uncertainty, but this is an allegation under investigation rather than a confirmed ruling or settlement with quantified impact."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "5bb0a67eb5f3aca724473d5c43fdfe8ea1a34344",
+  "source": "Gulf Coast News and Weather",
+  "topic": "industry",
+  "title": "AI data center demand drives memory chip shortage - Gulf Coast News and Weather",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0ZKM2JmQzlqenpwVm5QdGhWTDdRYnp6TGFiSWd6c29EbEF1SWlwS0VQQmthNnBXTi1yWk9zeElJOEFzRG96dXkxMlJhcjB3ZDhIbEcwekhfc2RibDRvSmtOeE5nd2pWWWFjS2ZVekFWRElFdUNGdVpyUUh0UEVxQkRvbUpmOS1WamVObmR3?oc=5",
+  "published_at": "Thu, 16 Jul 2026 14:21:00 GMT",
+  "published_ts": 1784211660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0ZKM2JmQzlqenpwVm5QdGhWTDdRYnp6TGFiSWd6c29EbEF1SWlwS0VQQmthNnBXTi1yWk9zeElJOEFzRG96dXkxMlJhcjB3ZDhIbEcwekhfc2RibDRvSmtOeE5nd2pWWWFjS2ZVekFWRElFdUNGdVpyUUh0UEVxQkRvbUpmOS1WamVObmR3?oc=5\" target=\"_blank\">AI data center demand drives memory chip shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Coast News and Weather</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Gulf Coast News and Weather"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on AI data center demand driving memory chip shortage. Relevant to the fund's thesis on memory cycle dynamics, but appears to be analysis/commentary rather than a concrete event with new hard data on pricing, capacity decisions, or holdings-specific developments."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "2819332a8ec522e3491f4b5bf89cddb97d1815f3",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Skyrocketed 857% In the First Half of 2026 - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVo5dG9vWUFUOWRSVFNjNTk0c0tQdEdGRFBldnQ0QzgzX2ZoUmxUc0otRzNMUTlHM0U3RGFrb1J1cy03SkczWDRuTkQ4X0hROGxTZ1FkUk5lZEtEM1RQLTZGbXRfV2hlblpXZHhaek41SUlYMlZ3YlBvaGdvOEhfOHo3anZMYmpEYm5MeDk1ZzJERERHdnFjXw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:47:01 GMT",
+  "published_ts": 1784216821,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVo5dG9vWUFUOWRSVFNjNTk0c0tQdEdGRFBldnQ0QzgzX2ZoUmxUc0otRzNMUTlHM0U3RGFrb1J1cy03SkczWDRuTkQ4X0hROGxTZ1FkUk5lZEtEM1RQLTZGbXRfV2hlblpXZHhaek41SUlYMlZ3YlBvaGdvOEhfOHo3anZMYmpEYm5MeDk1ZzJERERHdnFjXw?oc=5\" target=\"_blank\">Why Sandisk Stock Skyrocketed 857% In the First Half of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "The Motley Fool analyzes SanDisk's 857% stock gain in H1 2026. While SanDisk is a DRAM ETF holding, this appears to be retrospective analysis or commentary on a price move rather than reporting a concrete catalyst or new fundamental development. Without details on what drove the move, this reads as post-hoc market commentary rather than a hard news event or earnings surprise."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "9d401e0bc99bc4274670d037cd4b4c87f8a22c1c",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Seagate (NASDAQ: STX) drops 6.5% with July 28 numbers in focus - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmtDSFVmalFSbnBrQ0Uwd2VOd1FNTThieGVvT1JlV2U3N1lKTWdEWlpUR2tXRTFkQk5XV1VxeXppZnJjZlNocjFudmY0S0lhU3hfZlh2OWhBR2FIUk9OYWkzX2VoRlk0NmFYeHE2MlNxNzR5X2Nxa3pPaTR4ckoyQTNZU0Nfdw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:49:17 GMT",
+  "published_ts": 1784216957,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmtDSFVmalFSbnBrQ0Uwd2VOd1FNTThieGVvT1JlV2U3N1lKTWdEWlpUR2tXRTFkQk5XV1VxeXppZnJjZlNocjFudmY0S0lhU3hfZlh2OWhBR2FIUk9OYWkzX2VoRlk0NmFYeHE2MlNxNzR5X2Nxa3pPaTR4ckoyQTNZU0Nfdw?oc=5\" target=\"_blank\">Seagate (NASDAQ: STX) drops 6.5% with July 28 numbers in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate stock down 6.5% ahead of July 28 earnings release. The price move is speculative, tied to anticipated results rather than a confirmed event or new information. Will become material once actual earnings are reported."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "cc878c5c062cfecc0b4702ac1e8bbbc80cd85bf4",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK Hynix ADR Premium Points to Conversion Before Earnings - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWFlVnVGd3JBYTBDakQxNmdOUFROai1haDJDUlJsNGhqVmtLSU9UNHo3a1hJWFU0Y3lGQWtjVHJ1N0F4eTQtSVlEaG1iMk5sTDQzay1xanZjWm1leTQzU1ZsZFBOMllHY09aR2lob1BJUnBHYy14OE9qRUJKc1ZmZGE5M2w?oc=5",
+  "published_at": "Thu, 16 Jul 2026 13:48:38 GMT",
+  "published_ts": 1784209718,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWFlVnVGd3JBYTBDakQxNmdOUFROai1haDJDUlJsNGhqVmtLSU9UNHo3a1hJWFU0Y3lGQWtjVHJ1N0F4eTQtSVlEaG1iMk5sTDQzay1xanZjWm1leTQzU1ZsZFBOMllHY09aR2lob1BJUnBHYy14OE9qRUJKc1ZmZGE5M2w?oc=5\" target=\"_blank\">SK Hynix ADR Premium Points to Conversion Before Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR is trading at a premium to its Korean-listed shares, suggesting potential conversion activity ahead of earnings. This is a structural/market microstructure observation rather than a concrete fundamental or operational event, and does not provide new information about the business or memory cycle itself."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "b102fe4cced2329cbec1d5e9336ec13ec35a92b2",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SK Hynix: The Memory Supercycle Still Has Legs - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzd6czUyNlZ3cXJ3UmY2OVJRWmtfOUlYdTk3TURfLVNrb1JtUUF0cVVJU1ZJYUo1NFNSdU9aRnVzWms3ZW1tTHg3SEFGV241elIzdmRodHI0WThqVlZiU3VDS0FzbVc3Y2lfNjlHTWdNeDQ0M3IzVmUxakZDWlNYbkdVRlgyUjBzZDBYZzJhbFAwdw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:29:34 GMT",
+  "published_ts": 1784215774,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzd6czUyNlZ3cXJ3UmY2OVJRWmtfOUlYdTk3TURfLVNrb1JtUUF0cVVJU1ZJYUo1NFNSdU9aRnVzWms3ZW1tTHg3SEFGV241elIzdmRodHI0WThqVlZiU3VDS0FzbVc3Y2lfNjlHTWdNeDQ0M3IzVmUxakZDWlNYbkdVRlgyUjBzZDBYZzJhbFAwdw?oc=5\" target=\"_blank\">SK Hynix: The Memory Supercycle Still Has Legs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analyst opinion piece on SK Hynix arguing the memory supercycle remains intact. This is analysis and commentary on the holding, not a new concrete development or hard number, so it rates as soft/opinion content rather than a market-moving event."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "a131a82243b250a1c26975f32241f2b7a8a77f73",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Is Still Dropping - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmVTT3o0RFhpWGFLanVoaFlCR253cjc3RUFzQnExLVNrYk4xYTFCRTJJX3BOb2JHNWU5Qm5ZUm8zalI1ZlEyYkdTb2tHNll2LU1jTUxUWnpuWGVmSHFHME1rbmlLR0g0WENoRUZZbUdYdG9PRjJCWFZJb2FEVWdIOUdPemg?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:47:02 GMT",
+  "published_ts": 1784216822,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmVTT3o0RFhpWGFLanVoaFlCR253cjc3RUFzQnExLVNrYk4xYTFCRTJJX3BOb2JHNWU5Qm5ZUm8zalI1ZlEyYkdTb2tHNll2LU1jTUxUWnpuWGVmSHFHME1rbmlLR0g0WENoRUZZbUdYdG9PRjJCWFZJb2FEVWdIOUdPemg?oc=5\" target=\"_blank\">Why Sandisk Stock Is Still Dropping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analysis on SanDisk stock decline. SanDisk is a core DRAM ETF holding in the memory/storage space. Analysis and commentary on stock performance are relevant but soft—the article discusses reasons for the drop rather than reporting a new concrete catalyst or earnings surprise, making it a 3."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "0f895c5f387f788046997c60d751344b22729988",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "U.S. Stocks Move | Memory Chip Stocks Extend Losses at Open, SK Hynix (SKHY.US) Down Over 7% - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObVpfSkFKNkgxcm91SHNuODhueDJYZHVsblFKSU43RDJSeDNDMEpmTGo1SUFPT3B6SVRkcjQzSHR6WW9VU0RDSnoySXB4VjRTbE5ObUhpeFk2ZGh2QUlNMUw4MVlaVGdDTTV0Ym9hMFFpblhNUEY1UHNKMWFqMGNYaFNoeEduSEFjWS01YTBvcy1OQm9oX3h6SmM2eXdOZw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 14:44:46 GMT",
+  "published_ts": 1784213086,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObVpfSkFKNkgxcm91SHNuODhueDJYZHVsblFKSU43RDJSeDNDMEpmTGo1SUFPT3B6SVRkcjQzSHR6WW9VU0RDSnoySXB4VjRTbE5ObUhpeFk2ZGh2QUlNMUw4MVlaVGdDTTV0Ym9hMFFpblhNUEY1UHNKMWFqMGNYaFNoeEduSEFjWS01YTBvcy1OQm9oX3h6SmM2eXdOZw?oc=5\" target=\"_blank\">U.S. Stocks Move | Memory Chip Stocks Extend Losses at Open, SK Hynix (SKHY.US) Down Over 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix (a major holding) down 7% at market open. Stock movement reported without stated catalyst or new event; appears to be continuation of existing losses rather than triggered by new information."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "1f62894a85f0c66d75d0233b8a43f4c8b3e626b8",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZVFsTGNHU2lYNzV1eU5hc2VfcWVTWkdfbWhxaGJpMHZueVhiZHV5ejF2cGdkbS1aQmhLSVVnX2JmZ2tqQ0VJU19VckhFRThzcXZyQ1NxR094WTV0ZF83eVUyTXlHaE50WHh6MlRBVkpORnRjVnMyY2tyd2I?oc=5",
+  "published_at": "Thu, 16 Jul 2026 13:03:54 GMT",
+  "published_ts": 1784207034,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZVFsTGNHU2lYNzV1eU5hc2VfcWVTWkdfbWhxaGJpMHZueVhiZHV5ejF2cGdkbS1aQmhLSVVnX2JmZ2tqQ0VJU19VckhFRThzcXZyQ1NxR094WTV0ZF83eVUyTXlHaE50WHh6MlRBVkpORnRjVnMyY2tyd2I?oc=5\" target=\"_blank\">AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix share price volatility noted in an AI-focused news roundup. The headline mentions share moves but the snippet provides no concrete catalyst, earnings event, or material development — only that shares 'jump up and down,' which is typical market noise without a stated cause or material news event."
+  },
+  "buffered_ts": 1784217358.8604093
+ },
+ {
+  "id": "47181bd83f38bd10b50232845a4cd3b34dee9bea",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is Seagate Technology stock sliding today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnAxSGg1QTUtSnRCN01DWmRqSzVhWnAydEE4N29Oc1hZTWRrNGJMREZwS3JWbG90d2d2OURKSFY3ZjhJekdKeC16dVlpTFB1alVNSlNhYUExZm5IaFFrVEdha0dCYjJraUhnTzBRbVItNVVvN1IzeTVraDlnRzZka3UxLUt2SWYwUHA3RHluVF9JeTZzU1FYVmpBSEREaUFMV2ROU1VwbTgzX28?oc=5",
+  "published_at": "Thu, 16 Jul 2026 14:13:30 GMT",
+  "published_ts": 1784211210,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnAxSGg1QTUtSnRCN01DWmRqSzVhWnAydEE4N29Oc1hZTWRrNGJMREZwS3JWbG90d2d2OURKSFY3ZjhJekdKeC16dVlpTFB1alVNSlNhYUExZm5IaFFrVEdha0dCYjJraUhnTzBRbVItNVVvN1IzeTVraDlnRzZka3UxLUt2SWYwUHA3RHluVF9JeTZzU1FYVmpBSEREaUFMV2ROU1VwbTgzX28?oc=5\" target=\"_blank\">Why is Seagate Technology stock sliding today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": [
+    "Why is SanDisk stock sliding today? - Investing.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "A news story asking why Seagate stock is sliding. Without details on the specific cause—earnings miss, guidance cut, production issues, or other concrete catalyst—this appears to be a generic price-movement explainer that likely merely reports the stock's intraday decline without introducing new material information about the company or memory market."
+  },
+  "buffered_ts": 1784217358.8604093
  }
 ]
