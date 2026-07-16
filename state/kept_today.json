@@ -1233,5 +1233,317 @@
    "summary": "Seagate (STX), a DRAM ETF holding, experienced a share price decline. The snippet provides no stated catalyst or concrete event — this is a generic stock-move piece with no memory-cycle-specific information or earnings/guidance/supply news attached."
   },
   "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "47d07f360fac2582210a403dab1ebacd2020d298",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "SK Hynix and SanDisk Sink 7%, Micron Falls 5% as China’s CXMT Readies an $8.6B Memory IPO - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzQVAwcWwza0ZDY1ZjUVdZNzVQdWl4bUpZdEU0QjZYQ2V6WDFHTGdsb01pejE2Z05GT1hkT1BHU1RDcmFpWHVfVjBYX181MFUtUnNIUVl5V2JhOWpHcF9BUThINmwzNDEtNmVXQml2bmFOTlkyMFE?oc=5",
+  "published_at": "Thu, 16 Jul 2026 13:25:49 GMT",
+  "published_ts": 1784208349,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBzQVAwcWwza0ZDY1ZjUVdZNzVQdWl4bUpZdEU0QjZYQ2V6WDFHTGdsb01pejE2Z05GT1hkT1BHU1RDcmFpWHVfVjBYX181MFUtUnNIUVl5V2JhOWpHcF9BUThINmwzNDEtNmVXQml2bmFOTlkyMFE?oc=5\" target=\"_blank\">SK Hynix and SanDisk Sink 7%, Micron Falls 5% as China’s CXMT Readies an $8.6B Memory IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "SK Hynix and SanDisk fell 7% and Micron fell 5% following news that China's CXMT is preparing an $8.6B IPO to fund memory production capacity. This represents a concrete, material development—a confirmed IPO filing by a major competitor—that directly addresses supply-side dynamics and competitive pressure in the memory market. The confirmed stock moves with a distinct catalyst (CXMT capacity threat) separate from earnings warrant a 4."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "38aa9a58e55b939be041341db5f720ff70808d79",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Memory Crisis Splits Smartphone Market in Two: Q2 Shipments Hit 13-Year Low as Only Top Two Grow - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5feDlfbG1KNDQ1VTc3cE9TZFU4OXE1R29aa1RNRXpfTjg5T2Zhbkw3SXp0Wkd2SUYyLVJYWmt6UE5Xd3FndlRDU2RmR0RRNXpZaGVPNHE4a3VrSmVpaHc0aS1oTjNkOWVodnpiVEtaS0w5cUl6UWc?oc=5",
+  "published_at": "Thu, 16 Jul 2026 07:40:03 GMT",
+  "published_ts": 1784187603,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5feDlfbG1KNDQ1VTc3cE9TZFU4OXE1R29aa1RNRXpfTjg5T2Zhbkw3SXp0Wkd2SUYyLVJYWmt6UE5Xd3FndlRDU2RmR0RRNXpZaGVPNHE4a3VrSmVpaHc0aS1oTjNkOWVodnpiVEtaS0w5cUl6UWc?oc=5\" target=\"_blank\">Memory Crisis Splits Smartphone Market in Two: Q2 Shipments Hit 13-Year Low as Only Top Two Grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Smartphone market memory shipments hit 13-year low in Q2 with only top two vendors growing, indicating softness in DRAM/NAND demand outside market leaders. Relevant to memory cycle and industry capacity, but lacks concrete new pricing or production data; appears to be analysis of known shipment trends rather than a surprise event."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "8a621471d6aff23c194c10feedd83938138ffb2e",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Sandisk Stock Fell 8% in a Memory Selloff. The Street’s Target Went Up to $2,144 Anyway. - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWllUHNJNlB5ekV0STlla2RrT1V4eE9UWEU4ZjhqZlhVOWtjYzREajlRb1VTZmg5Si1ldlBqT2NUZlliazJXc1pvZ3VVZWJvQ0VUbEw3TGZ3cE84dXFpMVVhSTZrRDZvakRkUTdKQ3hlQ3pQN21WR2ZSWEhVV3F0TlVkeUc3NmFKTmFlRTE0aEpsR2ZUNGNJMndnWDEwRzItRzhRQVRabjBOY05Y?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:24:11 GMT",
+  "published_ts": 1784229851,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWllUHNJNlB5ekV0STlla2RrT1V4eE9UWEU4ZjhqZlhVOWtjYzREajlRb1VTZmg5Si1ldlBqT2NUZlliazJXc1pvZ3VVZWJvQ0VUbEw3TGZ3cE84dXFpMVVhSTZrRDZvakRkUTdKQ3hlQ3pQN21WR2ZSWEhVV3F0TlVkeUc3NmFKTmFlRTE0aEpsR2ZUNGNJMndnWDEwRzItRzhRQVRabjBOY05Y?oc=5\" target=\"_blank\">Sandisk Stock Fell 8% in a Memory Selloff. The Street’s Target Went Up to $2,144 Anyway.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock declined 8% amid broader memory sector selloff, though analyst price target increased to $2,144. This represents market digestion of existing conditions rather than new concrete information—a price move with analyst reaction but no new catalyst disclosed."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "b6470827f1dc8a6d773449af1ce06d7bee00f2c5",
+  "source": "IAM Patent",
+  "topic": "holding",
+  "title": "Netlist opens second ITC front against Samsung, Google, NVIDIA over AI memory patents - IAM Patent",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVVOS2xTMzhsZ0NLc1FFX3RFTVFmZlhGT21KZW44TEdrN0x6WjJqOTBGTUJJWTNSWWpvWWxZVldldWNRbmR6c1puYmFqU2loZEQwQ1ZEajh1RGZsRTQ0M1dZVnNHeXJtMUppdUlqVldpUkxVVXJBaGxVUXFTcWhXS0tTYlluZFhSaWEydUFkZEM5Nm9wbE5QalZCVG13Q2F1WlVDclRxNGdxei11SXFwTXlsOGZ6aHZM?oc=5",
+  "published_at": "Thu, 16 Jul 2026 16:00:51 GMT",
+  "published_ts": 1784217651,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVVOS2xTMzhsZ0NLc1FFX3RFTVFmZlhGT21KZW44TEdrN0x6WjJqOTBGTUJJWTNSWWpvWWxZVldldWNRbmR6c1puYmFqU2loZEQwQ1ZEajh1RGZsRTQ0M1dZVnNHeXJtMUppdUlqVldpUkxVVXJBaGxVUXFTcWhXS0tTYlluZFhSaWEydUFkZEM5Nm9wbE5QalZCVG13Q2F1WlVDclRxNGdxei11SXFwTXlsOGZ6aHZM?oc=5\" target=\"_blank\">Netlist opens second ITC front against Samsung, Google, NVIDIA over AI memory patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IAM Patent</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IAM Patent"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Netlist has initiated a second ITC (International Trade Commission) complaint against Samsung, Google, and NVIDIA over AI memory patents. This is patent litigation involving a memory-related technology and names Samsung, a major DRAM holding. Patent disputes can create uncertainty and potential liability for defendants, but the outcome is speculative and no concrete ruling or settlement has been announced yet."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "d0ffb8725787619906307a78bf37f18c71315d0e",
+  "source": "FXEmpire",
+  "topic": "holding",
+  "title": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Retreats As Sandisk Dives 13% - FXEmpire",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZl9RRG5KTzZPbkZBdHc3RF83SDctMTU5dlNwNDhNZTBaOUFLd0oxZUtXaVhKTm1DOG02ZlE5NTlyNHVKU3RoMzlMc05Rc2MzLThOS3JyNTFqRWppU1hsckJuMzIySHgzQnpHZUEzdU1HbU5sM2ltUDJjWklyN245TW52c0Y1Smg0V1gtZ3dwZmRsckstN2pWX3dTWnVwV2QzdjhheWtWSklsbDFPUEFhY09pWDgyV2w3RHp2Zkd4RHloM2c?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:31:00 GMT",
+  "published_ts": 1784230260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZl9RRG5KTzZPbkZBdHc3RF83SDctMTU5dlNwNDhNZTBaOUFLd0oxZUtXaVhKTm1DOG02ZlE5NTlyNHVKU3RoMzlMc05Rc2MzLThOS3JyNTFqRWppU1hsckJuMzIySHgzQnpHZUEzdU1HbU5sM2ltUDJjWklyN245TW52c0Y1Smg0V1gtZ3dwZmRsckstN2pWX3dTWnVwV2QzdjhheWtWSklsbDFPUEFhY09pWDgyV2w3RHp2Zkd4RHloM2c?oc=5\" target=\"_blank\">NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Retreats As Sandisk Dives 13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXEmpire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "FXEmpire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) experienced a 13% single-day decline. Without a stated catalyst or news trigger in the snippet, this appears to be a price-move observation rather than a concrete event; likely driven by broader market dynamics or undisclosed company news. Score reflects relevance to the holding but absence of a distinct, reported cause."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "ab9f7f2dc16e330b2d5e1b95813922a0803ef791",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Stock Could Be Cheap As Its Five Year Run Cools - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0xydGR6VF9IekZCWGNkWFlqdzZhMTVqUXZnZU1hM1EyNjZnT0JpX3ZrZ0xvWVdxamozVzdNS2Z3eGwzb0hhTnYwX2xRZUo4NTZ1a095VjhJWXI3R3NVVGJBMTVMNERlcnMzc1hLOG42QnFvY19CSi1ONmIwSUhjVVA4NDlxeHJVSWJwN0FTWjhLSW05MEdr?oc=5",
+  "published_at": "Thu, 16 Jul 2026 18:27:03 GMT",
+  "published_ts": 1784226423,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0xydGR6VF9IekZCWGNkWFlqdzZhMTVqUXZnZU1hM1EyNjZnT0JpX3ZrZ0xvWVdxamozVzdNS2Z3eGwzb0hhTnYwX2xRZUo4NTZ1a095VjhJWXI3R3NVVGJBMTVMNERlcnMzc1hLOG42QnFvY19CSi1ONmIwSUhjVVA4NDlxeHJVSWJwN0FTWjhLSW05MEdr?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Stock Could Be Cheap As Its Five Year Run Cools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on SK hynix valuation as its five-year rally moderates. Provides opinion on potential undervaluation but lacks concrete news or hard numbers driving current market positioning."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "2f614eb8137ec760ead2dc20f43a0c295e373308",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Micron named ‘most important stock in the market’ amid AI demand - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xQWhXeVB2am1zQzNoY0ZhV09EbGZRYnV3T21RNDRVbUNaaDdCYUR6YXVQdFFoZ0FYeGlCMWxzUkdrRnNNUERfZERUcVlacXIzU082NDNUQlZvZDl2MzlNb2d5RnByS21XV18zMFZVTnF1bTg?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:01:42 GMT",
+  "published_ts": 1784228502,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0xQWhXeVB2am1zQzNoY0ZhV09EbGZRYnV3T21RNDRVbUNaaDdCYUR6YXVQdFFoZ0FYeGlCMWxzUkdrRnNNUERfZERUcVlacXIzU082NDNUQlZvZDl2MzlNb2d5RnByS21XV18zMFZVTnF1bTg?oc=5\" target=\"_blank\">Micron named ‘most important stock in the market’ amid AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst or market commentary naming Micron as 'most important stock in the market' due to AI demand. This is opinion/analysis rather than a concrete event, but reflects market recognition of Micron's centrality to the AI-driven memory cycle."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "c817f15b8e7e50ed9565115254a26477e116d7aa",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Seagate Order Book Covers 5 Quarters. The Stock Is Down 24% Anyway - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjM0aklLM1ItbUh0allrcDljNmZ2RTF4amlDZWpLRWNmMW9kVHZqRHVLSVh6WFU0aEZrNTJ4dDdVbXVLTUJLdW5PNDVqODRzU0JjQVd6UTdveVRlamF4R29VdGM5U29DX3VjV0hNTjczNVF4SXU2UHBiMVVFNkdxbVZndHZaWG5QM3lwQVR4LWtGWGVZ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:08:11 GMT",
+  "published_ts": 1784228891,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjM0aklLM1ItbUh0allrcDljNmZ2RTF4amlDZWpLRWNmMW9kVHZqRHVLSVh6WFU0aEZrNTJ4dDdVbXVLTUJLdW5PNDVqODRzU0JjQVd6UTdveVRlamF4R29VdGM5U29DX3VjV0hNTjczNVF4SXU2UHBiMVVFNkdxbVZndHZaWG5QM3lwQVR4LWtGWGVZ?oc=5\" target=\"_blank\">Seagate Order Book Covers 5 Quarters. The Stock Is Down 24% Anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, has a strong order book covering 5 quarters but the stock is down 24%. The disconnect between order visibility and stock performance suggests market concerns beyond near-term demand, likely reflecting margin pressures or longer-term headwinds. This is relevant to the fund but represents market analysis of known conditions rather than a new concrete catalyst."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "0cf233bc4c84303e658daa9b6e0d95430561927c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Skyrocketed 857% In the First Half of 2026 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHJNUjRuR3JEdXNGNDhoUHg4ODN5cXNTSGtiSHRiY0dBUzdsVXNKUUR1c0ZZQjd0dXVPaDh4SXVHcTVVZHBGejVmdVVKckM5WlNLaGdKTkN2X05PODFsUk1GdHpMNWpRSGJiV1ZEWHRnR1BNNFFyUXV3dXJ5dTRua3l5OUNlQUZkTE5pX2pSSkRMN2ZTb2hvcG1jd2MzZk0?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:50:00 GMT",
+  "published_ts": 1784217000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHJNUjRuR3JEdXNGNDhoUHg4ODN5cXNTSGtiSHRiY0dBUzdsVXNKUUR1c0ZZQjd0dXVPaDh4SXVHcTVVZHBGejVmdVVKckM5WlNLaGdKTkN2X05PODFsUk1GdHpMNWpRSGJiV1ZEWHRnR1BNNFFyUXV3dXJ5dTRua3l5OUNlQUZkTE5pX2pSSkRMN2ZTb2hvcG1jd2MzZk0?oc=5\" target=\"_blank\">Why Sandisk Stock Skyrocketed 857% In the First Half of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rose 857% in H1 2026. The headline indicates a significant price move but provides no stated catalyst or concrete event explaining the surge. Without disclosed reasons (earnings beat, supply deal, guidance raise, capacity announcement, etc.), this is a post-hoc stock-movement story rather than a reportable catalyst; it scores as relevant but soft analysis."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "2e1c6aff3f1fcab3aa99a1a0f520eff8bae1a298",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "SK hynix (NASDAQ:SKHY) Shares Gap Down - Here's What Happened - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREZ4TnUySU15bWtKMXREUnlJQ2Y4N3ZORVBOLTR1OFNoMFNYNG1wbDBEaWc1RWVyeEVLQWJuMFpSV0NET1M2NW4yVU5KbVZSbjVidlZVS1N5TGdpRFhzTHBSb0diU1VtbkFuSlREbWZ1aXh4SzRVZGY4STQ2Y0VvYlVDVnp3MVFYQ1VORTU0NDUxajY2TE1WLTlRbjViSGgyYmR5bFFSXzVJaGhJWlE?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:51:15 GMT",
+  "published_ts": 1784231475,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQREZ4TnUySU15bWtKMXREUnlJQ2Y4N3ZORVBOLTR1OFNoMFNYNG1wbDBEaWc1RWVyeEVLQWJuMFpSV0NET1M2NW4yVU5KbVZSbjVidlZVS1N5TGdpRFhzTHBSb0diU1VtbkFuSlREbWZ1aXh4SzRVZGY4STQ2Y0VvYlVDVnp3MVFYQ1VORTU0NDUxajY2TE1WLTlRbjViSGgyYmR5bFFSXzVJaGhJWlE?oc=5\" target=\"_blank\">SK hynix (NASDAQ:SKHY) Shares Gap Down - Here's What Happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix shares gapped down; stock price movement story without stated fundamental catalyst or concrete news event driving the move."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "67a36309080f9d4e17006ab27e567c79200349c5",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Korea ETF’s Record Inflow Fuels SK Hynix Proxy Play - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmZMMWprQ1RlalBLWm5IQlZQNTYzT3VGbVdQUkNEVk9rVTVPbE9pdDVBUkJIQUlJWFR3X19UNFM1X2k0aGcyR1p4UEtjbFBtLWVtZXdpSjNlbFR3TmM1T2RkSHFIUVZCWEVJclJvQ2dGOW9felpGSU5hNHBXSW44N1kzOXktYmZ2eS02c0JwUUtmT3hyNG45R045SlIyT0owYWNjUVJwbEZRdw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 18:26:12 GMT",
+  "published_ts": 1784226372,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmZMMWprQ1RlalBLWm5IQlZQNTYzT3VGbVdQUkNEVk9rVTVPbE9pdDVBUkJIQUlJWFR3X19UNFM1X2k0aGcyR1p4UEtjbFBtLWVtZXdpSjNlbFR3TmM1T2RkSHFIUVZCWEVJclJvQ2dGOW9felpGSU5hNHBXSW44N1kzOXktYmZ2eS02c0JwUUtmT3hyNG45R045SlIyT0owYWNjUVJwbEZRdw?oc=5\" target=\"_blank\">Korea ETF’s Record Inflow Fuels SK Hynix Proxy Play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "A Korea-focused ETF is experiencing record inflows, with SK Hynix cited as a beneficiary proxy play. This is relevant to DRAM as SK Hynix is a major holding, but the story focuses on ETF flows and investor sentiment rather than a concrete development in SK Hynix's business or memory pricing."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "c48e803d4bd86de266ab0493b89c04d7ab5a603f",
+  "source": "Direxion",
+  "topic": "holding",
+  "title": "SK hynix Comes to the U.S.A. - Direxion",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NEN6TUVFN1BRcU5HLU44a1RiOWpKTlBtUzVEdmZsVXJjN19aQ0F4ZmlBaEJiZDVkT2NLX2QyZVNDT2xwYUx2amtGYUFFTk9tdzZkaHMwRnk3QzhhUjdTYy1tRUxqSmR4T1hDOWpjenYxbmc?oc=5",
+  "published_at": "Thu, 16 Jul 2026 16:56:58 GMT",
+  "published_ts": 1784221018,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE92NEN6TUVFN1BRcU5HLU44a1RiOWpKTlBtUzVEdmZsVXJjN19aQ0F4ZmlBaEJiZDVkT2NLX2QyZVNDT2xwYUx2amtGYUFFTk9tdzZkaHMwRnk3QzhhUjdTYy1tRUxqSmR4T1hDOWpjenYxbmc?oc=5\" target=\"_blank\">SK hynix Comes to the U.S.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Direxion</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Direxion"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix expansion into the U.S. market — likely referencing investment, fab capacity, or strategic moves. Without the full article text, this appears to be analysis or commentary on SK hynix's U.S. strategy rather than a concrete announcement of a new facility or deal, making it opinion/discussion rather than a settled event."
+  },
+  "buffered_ts": 1784232076.231534
+ },
+ {
+  "id": "28a3a2dfb0bbce559b7fe78968b6135b59f0518d",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "SK Hynix Makes Up Over a Quarter of South Korea's Stock Market. If You'd Invested $5,000 in the Memory Giant 5 Years Ago, Here's How Much It Would Be Worth Today. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2duZ19JY0xPaVVfeWF6LVg2YTE5RVB5V1l3dFd5SzJlNjRfbHdpUXNiYUNzN2laODh2RVlPQk5HZThRRXgzR1g4N0l1M1oxRUtvUXRtSnotNXZXZ2VSbjhpWTMtNG85aExadWJXekNHN3VNNFdmTVZ5a3dnRnhsdVlFaDYzQWNyU1I0?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:55:54 GMT",
+  "published_ts": 1784231754,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2duZ19JY0xPaVVfeWF6LVg2YTE5RVB5V1l3dFd5SzJlNjRfbHdpUXNiYUNzN2laODh2RVlPQk5HZThRRXgzR1g4N0l1M1oxRUtvUXRtSnotNXZXZ2VSbjhpWTMtNG85aExadWJXekNHN3VNNFdmTVZ5a3dnRnhsdVlFaDYzQWNyU1I0?oc=5\" target=\"_blank\">SK Hynix Makes Up Over a Quarter of South Korea's Stock Market. If You'd Invested $5,000 in the Memory Giant 5 Years Ago, Here's How Much It Would Be Worth Today.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Historical retrospective on SK Hynix's weight in South Korean markets and past performance. No new information about current business, production, pricing, or demand. Minor passing mention of a DRAM fund holding."
+  },
+  "buffered_ts": 1784232076.231534
  }
 ]
