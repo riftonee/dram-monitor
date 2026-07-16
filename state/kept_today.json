@@ -1761,5 +1761,53 @@
    "summary": "SK hynix share price declined 13.7%. The article is a price-move commentary piece without a stated catalyst or concrete news event driving the decline; it appears to be analysis/speculation about future direction rather than reporting on earnings, guidance, a deal, or a supply event."
   },
   "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "81e8b8ed35b6329706b7d64f460b628e550b93ca",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Micron or Sandisk: Buy the Dip in One AI Chip Stock, Dump the Other, Says Investor - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0V6Z0ppVXNtczI0cHVnMUdhTkpFWWQteDF1bHdadUpwbjAtZzhjeF9Ja0N6d2k2NVpqeGZEalZqZHJXTEphOHN3dk1fUWl4b0JDbDIxcjBzOEN6R2tJdVZjRWRyWnM5RWdLNk8xb2ZDYTM2RGZKdmhzQko1NmxUbVhTMnlLaVF6SXNRUDZHNERLM09JRUc2X3hhWnAzWUlNVVUxREpSTlBHeDZiOHc?oc=5",
+  "published_at": "Thu, 16 Jul 2026 22:51:24 GMT",
+  "published_ts": 1784242284,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0V6Z0ppVXNtczI0cHVnMUdhTkpFWWQteDF1bHdadUpwbjAtZzhjeF9Ja0N6d2k2NVpqeGZEalZqZHJXTEphOHN3dk1fUWl4b0JDbDIxcjBzOEN6R2tJdVZjRWRyWnM5RWdLNk8xb2ZDYTM2RGZKdmhzQko1NmxUbVhTMnlLaVF6SXNRUDZHNERLM09JRUc2X3hhWnAzWUlNVVUxREpSTlBHeDZiOHc?oc=5\" target=\"_blank\">Micron or Sandisk: Buy the Dip in One AI Chip Stock, Dump the Other, Says Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An investor recommends buying the dip in either Micron or SanDisk while dumping the other, based on comparative analysis of the two memory-chip holdings. This is opinion-based analyst commentary rather than a concrete event or hard fundamental change."
+  },
+  "buffered_ts": 1784246139.3805013
+ },
+ {
+  "id": "b81c9c49c369961efcbaf028252b1bd07e4d6c5e",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SanDisk Stock Rockets 857% in First Half of 2026 on AI Memory Boom - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZZkxwREFoaDJRYVZhNEE1MDktUGRVY0ZZVEhHYTB2NXVHVkdQalBJeVAwU0ZqNDNoblJFNC1TdWRVZDl5ZGI2Tm5wdWJYa1pWVDY5YWNubUR0VkViV3lxWkREVnJzVWJVeEozbTRRUEpRWDYxMlE?oc=5",
+  "published_at": "Thu, 16 Jul 2026 18:56:00 GMT",
+  "published_ts": 1784228160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBZZkxwREFoaDJRYVZhNEE1MDktUGRVY0ZZVEhHYTB2NXVHVkdQalBJeVAwU0ZqNDNoblJFNC1TdWRVZDl5ZGI2Tm5wdWJYa1pWVDY5YWNubUR0VkViV3lxWkREVnJzVWJVeEozbTRRUEpRWDYxMlE?oc=5\" target=\"_blank\">SanDisk Stock Rockets 857% in First Half of 2026 on AI Memory Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rose 857% in H1 2026 attributed to AI memory demand. This is a large price move, but the story is a retrospective price-performance piece driven by the AI memory boom already priced in; no new concrete catalyst or earnings surprise is stated as the trigger."
+  },
+  "buffered_ts": 1784246139.3805013
  }
 ]
