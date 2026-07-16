@@ -1617,5 +1617,149 @@
    "summary": "Analysis piece discussing Western Digital's position amid the memory cycle. Western Digital (WDC) is a fund holding, and memory-cycle developments are directionally relevant, but this appears to be commentary/analysis rather than reporting a concrete event or new data point."
   },
   "buffered_ts": 1784237539.930077
+ },
+ {
+  "id": "59bc512baf91cfaec0535f47f4ef9919671a4a17",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Regulatory actions in South Korea triggered a market sell-off, as profit-taking hit AI-related memory chip stocks; shares of SK Hynix, SanDisk, and other leading gainers plummeted. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXY5ZGNPckE1UVJaTGRuNEZ0U0F2d3RrUHoteXhkd29yOFlCLTNuTzZEWUIwYlF5VHZmcGRfUEdVYUprX1JwbVFUVFFwN0h4UEVFVlRnckpPaXAtdC1TdGMzdDVJMUJiTDRxb1FDWVFzQUpKMXZrcmFUS1I1UzVqQmZCcktPbFZ5RzRfaWdfbkZsQnpCNXlMa1lhdXJHWHMxR3dXQw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 21:22:30 GMT",
+  "published_ts": 1784236950,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXY5ZGNPckE1UVJaTGRuNEZ0U0F2d3RrUHoteXhkd29yOFlCLTNuTzZEWUIwYlF5VHZmcGRfUEdVYUprX1JwbVFUVFFwN0h4UEVFVlRnckpPaXAtdC1TdGMzdDVJMUJiTDRxb1FDWVFzQUpKMXZrcmFUS1I1UzVqQmZCcktPbFZ5RzRfaWdfbkZsQnpCNXlMa1lhdXJHWHMxR3dXQw?oc=5\" target=\"_blank\">Regulatory actions in South Korea triggered a market sell-off, as profit-taking hit AI-related memory chip stocks; shares of SK Hynix, SanDisk, and other leading gainers plummeted.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean regulatory actions triggered a market sell-off in memory chip stocks including SK Hynix and SanDisk, attributed to profit-taking. The story reports a stock price move but does not specify the regulatory action details or provide a distinct catalyst beyond general profit-taking sentiment."
+  },
+  "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "f9bdea4c6c494deb44da51db6b5f2e7938b47c26",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlJTamtvSGY4S1pFQUNRVHpwRXRGOEJUWGpzYVZFcXJnb2thTXpReWwtUVZoak1waG52aHZUVnZvTVRwdGRzeFhvTEhELU5ydmM4dGdaLTl6Qmo0T2RLX0FSMXc3V2tFM0hpZWMycU9peklIbk00LTVfdXdfOFBtNDdmUl9FNXIxeXRUaHRCZmx5MXlKSzJ2eFZ0bjJLcjRmN0l6MHBNcDVpbWtCMGh1Q2ROS2ZhRjFudnhSUg?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:08:10 GMT",
+  "published_ts": 1784228890,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlJTamtvSGY4S1pFQUNRVHpwRXRGOEJUWGpzYVZFcXJnb2thTXpReWwtUVZoak1waG52aHZUVnZvTVRwdGRzeFhvTEhELU5ydmM4dGdaLTl6Qmo0T2RLX0FSMXc3V2tFM0hpZWMycU9peklIbk00LTVfdXdfOFBtNDdmUl9FNXIxeXRUaHRCZmx5MXlKSzJ2eFZ0bjJLcjRmN0l6MHBNcDVpbWtCMGh1Q2ROS2ZhRjFudnhSUg?oc=5\" target=\"_blank\">Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, has hit its deepest drawdown in a year, with analyst price targets suggesting 23% upside potential. This is a stock-price analysis piece reflecting market sentiment rather than a concrete event or new fundamental catalyst."
+  },
+  "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "af7014034280df7a942eba9dfc9ded7e355ad46d",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Meet the Company Supplying 56% of the World's AI Memory Chips - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzJ3MmxPZGpEYWxxVDdUZnZya21IWnZyRzZxWEpVY0dpbVlsVkRHNFdMODRkSVdKNGpLSUw2UDhEQmpUb3AxWDlUblVNNnJOUjc5WjAtbTRUeXFVdzZGdHZjNW1janQxWlA4QThYNlJsT21RVXNVSnEyLVYxZ25CVERYTlZ0ZXJPeDBSWkN4dmI5UGw2LXNFWQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 22:27:19 GMT",
+  "published_ts": 1784240839,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzJ3MmxPZGpEYWxxVDdUZnZya21IWnZyRzZxWEpVY0dpbVlsVkRHNFdMODRkSVdKNGpLSUw2UDhEQmpUb3AxWDlUblVNNnJOUjc5WjAtbTRUeXFVdzZGdHZjNW1janQxWlA4QThYNlJsT21RVXNVSnEyLVYxZ25CVERYTlZ0ZXJPeDBSWkN4dmI5UGw2LXNFWQ?oc=5\" target=\"_blank\">Meet the Company Supplying 56% of the World's AI Memory Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "The Motley Fool profiles a major supplier of AI memory chips (likely SK hynix or Samsung based on market share), highlighting its 56% share of the global AI memory market. This is analytical/promotional content rather than a concrete event or new development, but it underscores the strategic importance of a fund holding in the high-demand HBM/AI-infrastructure segment."
+  },
+  "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "93a492b9df1f3a8d1446b6261866884a1e36fb40",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix: The Memory Supercycle Still Has Legs - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzgtWEhiUFhvVEVwUmlwb0VNajQ4WjVVb21yejZCM0xoa2twVWpIU29Ua0p2Z0l2dlliNGJ5NmxlWnY4WUFHZ2E0WS0xVUVORzBTYm9xamdGZmNUbEZtZWpCZFY1YzJXN19JNU40LTl5bThGendiX3E5dEFXeVpTYUpHVUdkNzhwZDNDc2hFQ0RUMEF1UWxjM0xSWm14QQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:20:00 GMT",
+  "published_ts": 1784215200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYzgtWEhiUFhvVEVwUmlwb0VNajQ4WjVVb21yejZCM0xoa2twVWpIU29Ua0p2Z0l2dlliNGJ5NmxlWnY4WUFHZ2E0WS0xVUVORzBTYm9xamdGZmNUbEZtZWpCZFY1YzJXN19JNU40LTl5bThGendiX3E5dEFXeVpTYUpHVUdkNzhwZDNDc2hFQ0RUMEF1UWxjM0xSWm14QQ?oc=5\" target=\"_blank\">SK Hynix: The Memory Supercycle Still Has Legs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece on SK hynix discussing the continuation of the memory supercycle. This is analyst commentary and market perspective rather than a concrete event or new hard data, making it relevant to the holding but soft in impact."
+  },
+  "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "4716a34e03df1d86ad9353b7cb6d89cbd2982c71",
+  "source": "Smartkarma",
+  "topic": "holding",
+  "title": "Sandisk Corporation's Stock Price Plunges to $1411.08, Recording a Sharp Decline of 12.63% - Smartkarma",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEZkR2ttelFUQ0ZrczhlVVFnLUZCbFloNmQxaEMySEpWZV9fVEVhazBaNW9PVlFlNy1ZbDM4eldKZXlSTV9JdkhMalh6d2YtTGMta1V1Z19helQ0Qm4wTFRoYVlNNzA1ZXVWTTc3Q3ludHFOR3I5c2RPQVZKbnlUQ1pkd290cVpTeERBYmh3c3Axb1FDRmJZd1Vwb3VOT19wTEZGa1pEaVZRMWdiWnZqRk4zUS16ZTFVcnVHaVZuaXZyMXFDWTlsYUpGbTVndw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 21:39:17 GMT",
+  "published_ts": 1784237957,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEZkR2ttelFUQ0ZrczhlVVFnLUZCbFloNmQxaEMySEpWZV9fVEVhazBaNW9PVlFlNy1ZbDM4eldKZXlSTV9JdkhMalh6d2YtTGMta1V1Z19helQ0Qm4wTFRoYVlNNzA1ZXVWTTc3Q3ludHFOR3I5c2RPQVZKbnlUQ1pkd290cVpTeERBYmh3c3Axb1FDRmJZd1Vwb3VOT19wTEZGa1pEaVZRMWdiWnZqRk4zUS16ZTFVcnVHaVZuaXZyMXFDWTlsYUpGbTVndw?oc=5\" target=\"_blank\">Sandisk Corporation's Stock Price Plunges to $1411.08, Recording a Sharp Decline of 12.63%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smartkarma</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Smartkarma"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock declined 12.63% to $1411.08. The report cites only the price move with no stated catalyst or market driver, making it a pure price observation without underlying news value. Relevance is limited to it being a fund holding, but absent a disclosed cause, impact is minimal."
+  },
+  "buffered_ts": 1784242474.2878182
+ },
+ {
+  "id": "6c84bf935c3d1b668baba5f92f75a5847622b114",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "SK hynix (NASDAQ:SKHY) Shares Down 13.7% - What's Next? - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFdjSXNfRHRQM2dha0c4Qi1ha3lxVmxWYndVNUx5ZG1ycmJ0czRZbmI4aS00bE9MODUzUFNKNEszc21KemN3c2lJa2xGZ015QVh3V1UxdkZwMlVBTllHT242WWswWE9VWDdSRHEyOGVpdzJHTlJXUVRIVEdRNHFtQWFuWHdFTEM4VnBzNFpxNmdSMmc0ajEweVVXejR2STFnWmc?oc=5",
+  "published_at": "Thu, 16 Jul 2026 21:47:40 GMT",
+  "published_ts": 1784238460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFdjSXNfRHRQM2dha0c4Qi1ha3lxVmxWYndVNUx5ZG1ycmJ0czRZbmI4aS00bE9MODUzUFNKNEszc21KemN3c2lJa2xGZ015QVh3V1UxdkZwMlVBTllHT242WWswWE9VWDdSRHEyOGVpdzJHTlJXUVRIVEdRNHFtQWFuWHdFTEM4VnBzNFpxNmdSMmc0ajEweVVXejR2STFnWmc?oc=5\" target=\"_blank\">SK hynix (NASDAQ:SKHY) Shares Down 13.7% - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix share price declined 13.7%. The article is a price-move commentary piece without a stated catalyst or concrete news event driving the decline; it appears to be analysis/speculation about future direction rather than reporting on earnings, guidance, a deal, or a supply event."
+  },
+  "buffered_ts": 1784242474.2878182
  }
 ]
