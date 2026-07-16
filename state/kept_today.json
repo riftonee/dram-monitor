@@ -1017,5 +1017,221 @@
    "summary": "Seagate (STX), a DRAM ETF holding, experienced a share price decline. The article appears to be a general price-movement roundup without specific news catalyst or concrete information about the cause of the decline."
   },
   "buffered_ts": 1784221939.226641
+ },
+ {
+  "id": "200e1468a7fa69cbcc5a72e1dec96166d586c0fa",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "JPMorgan Adjusts Price Target on Seagate Technology to $1,095 From $920, Maintains Overweight Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZFpCY1FRdXpQd1dXWWowaTdFRjNsajltdmxlUDdfNk42Q0tQLWVqd0wxUnduRzlTNGdvNEh5N1B3Q09SZFpzU3FYalBwd2lNenpyQnRTT0toMHdhZ2tOaUdyVWdMaWFvUWdCeXU5VkRNUkxrd0haQ3JoclFuVGczdE44Q1R5Y3BBdzJSMTd5bEp6dTUzV2lLakZ5U0l3SmRHOVVKUTNfLWZwTnk2eVpySlh6SFBObGp4ZTFPUWo3M0pUS1p6SVpMREpYbzVNT0VLQTltVjhmWDNrd2YtOXVNcElfT0g?oc=5",
+  "published_at": "Thu, 16 Jul 2026 12:27:16 GMT",
+  "published_ts": 1784204836,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZFpCY1FRdXpQd1dXWWowaTdFRjNsajltdmxlUDdfNk42Q0tQLWVqd0wxUnduRzlTNGdvNEh5N1B3Q09SZFpzU3FYalBwd2lNenpyQnRTT0toMHdhZ2tOaUdyVWdMaWFvUWdCeXU5VkRNUkxrd0haQ3JoclFuVGczdE44Q1R5Y3BBdzJSMTd5bEp6dTUzV2lLakZ5U0l3SmRHOVVKUTNfLWZwTnk2eVpySlh6SFBObGp4ZTFPUWo3M0pUS1p6SVpMREpYbzVNT0VLQTltVjhmWDNrd2YtOXVNcElfT0g?oc=5\" target=\"_blank\">JPMorgan Adjusts Price Target on Seagate Technology to $1,095 From $920, Maintains Overweight Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "JPMorgan raised price target on Seagate (STX) from $920 to $1,095 and maintained Overweight rating. This is an analyst action reflecting market sentiment on a fund holding, but lacks concrete new information about the company's business or the memory cycle itself."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "e99c6077753fba566c1e66bcce28f74242473876",
+  "source": "The Economic Times",
+  "topic": "holding",
+  "title": "US probes Samsung for alleged infringement of Netlist's memory-chip patents - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMXZUQkhQWEJIeU9nSWQ3eW50YjNqZm1wUUNRVUhQaDh2Z01ZMjNGQ0xGeWNUalNaMU93c2RQSEhOcjJXQWdLSEhMNHM1MHZQMnFhaUVCZTRqcnkxdDd0UTlycklEWDlVVWpPcFRTUnVJOHdGc0VYZnJteDBLalJVUkE2TjlLeDNwV1k4SlFHN053cC1JeXJhczZ0UG9nX1B4UDJIM29JU1hSQlljYVcxQXJncHFjU1I3YTdldlNOcTBYaUVEOE03Vk5WTlBkQ0s5SnhRYUdhRjZTWkVFMGpLT09XSXFXV2dhQVHSAe8BQVVfeXFMUHVVS01fSTVkR1dQdlRaTV84VENCT2hWSWtnUFlBcHVpRnlyXzd1MC1hSmlyUVBFQmRtRlBQRi15VlU1bGk0Rm1xd09MSlRxQ0E4Mi1lNEYtanFaMU1pUTZKVGlmTzVGSmlzSkgtak5pb2Q4eTdxb3BLLWJFa2EwZmhoSjhpZERpV2NjOEFxUms2OTZnM3E5YjRwRnFTR3o0cHBhd0lxMzJfaWo1S1VKeW5DbDRjNDc1VGZBaE1LWmhWUWREYkZmZk5uTTQwQUR1YndMR19xdkN1VlNzYTNsVE1nTEdPVUw0Y2w4UHRSOGs?oc=5",
+  "published_at": "Thu, 16 Jul 2026 12:29:52 GMT",
+  "published_ts": 1784204992,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMXZUQkhQWEJIeU9nSWQ3eW50YjNqZm1wUUNRVUhQaDh2Z01ZMjNGQ0xGeWNUalNaMU93c2RQSEhOcjJXQWdLSEhMNHM1MHZQMnFhaUVCZTRqcnkxdDd0UTlycklEWDlVVWpPcFRTUnVJOHdGc0VYZnJteDBLalJVUkE2TjlLeDNwV1k4SlFHN053cC1JeXJhczZ0UG9nX1B4UDJIM29JU1hSQlljYVcxQXJncHFjU1I3YTdldlNOcTBYaUVEOE03Vk5WTlBkQ0s5SnhRYUdhRjZTWkVFMGpLT09XSXFXV2dhQVHSAe8BQVVfeXFMUHVVS01fSTVkR1dQdlRaTV84VENCT2hWSWtnUFlBcHVpRnlyXzd1MC1hSmlyUVBFQmRtRlBQRi15VlU1bGk0Rm1xd09MSlRxQ0E4Mi1lNEYtanFaMU1pUTZKVGlmTzVGSmlzSkgtak5pb2Q4eTdxb3BLLWJFa2EwZmhoSjhpZERpV2NjOEFxUms2OTZnM3E5YjRwRnFTR3o0cHBhd0lxMzJfaWo1S1VKeW5DbDRjNDc1VGZBaE1LWmhWUWREYkZmZk5uTTQwQUR1YndMR19xdkN1VlNzYTNsVE1nTEdPVUw0Y2w4UHRSOGs?oc=5\" target=\"_blank\">US probes Samsung for alleged infringement of Netlist's memory-chip patents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Economic Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "US authorities investigating Samsung for alleged patent infringement by Netlist regarding memory-chip patents. This is a regulatory/legal matter involving a holding company, but at present it is an investigation/allegation stage rather than a settled adverse ruling or confirmed impact on operations or financials."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "70a505d12b64db7e2cdf7f4c5cbc35fcb127e293",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0VNSmh5RXV3c0h2elFlOVNZMUlBZklmVElZMHlMT0thd0pKd1dkcU1JQzRaaWJOVHhlblBPOG45TlNpTW1rR3ZuNHpEMWxCc2RCQkVpWDZIZXJxTzZteG9qQUlJMG1NOUQ1SnZVb3kxX1JKOWJFQVBMZUhyMHFkTEdlcFJzSlNhVlVDQ0pGSmVzQ0tkM0JiaWRGOE4?oc=5",
+  "published_at": "Thu, 16 Jul 2026 17:05:00 GMT",
+  "published_ts": 1784221500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0VNSmh5RXV3c0h2elFlOVNZMUlBZklmVElZMHlMT0thd0pKd1dkcU1JQzRaaWJOVHhlblBPOG45TlNpTW1rR3ZuNHpEMWxCc2RCQkVpWDZIZXJxTzZteG9qQUlJMG1NOUQ1SnZVb3kxX1JKOWJFQVBMZUhyMHFkTEdlcFJzSlNhVlVDQ0pGSmVzQ0tkM0JiaWRGOE4?oc=5\" target=\"_blank\">Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analyst commentary comparing Palantir and SanDisk stock declines; SanDisk is a DRAM fund holding. The piece offers opinion on valuation and buy/sell ratings following recent stock declines, but lacks new concrete information about SanDisk's business, earnings, or memory market fundamentals—it is post-hoc analysis of existing price moves."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "6b305ed3297176de4f4ad628507c1b9bdb7bea52",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "The memory trade: breather or breakdown for Micron and SK Hynix - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDJIRlFhNzlKTUQ0OEh6UFlsM2ZCQXJRMGU2MFhFYnZaTEFfQXpqYmlfR2M2R3ljcHhfZjNFOGcxcHF1dzFibUJQNS00R2p3cWEyN19hVm0xQnVKc1NEaWFWcTlEOEhOTEdGUEI0RzBsZHZYN0R3UG90TkZJaW50OENWOFhPRVJ5UThaRmZTZXFfSW1XQzZTa01kTU9EeFlVdkZOQk0xeUFFallaQldDenE2RFcwUENtOXVPZWJ1b2k4dw?oc=5",
+  "published_at": "Thu, 16 Jul 2026 17:31:52 GMT",
+  "published_ts": 1784223112,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDJIRlFhNzlKTUQ0OEh6UFlsM2ZCQXJRMGU2MFhFYnZaTEFfQXpqYmlfR2M2R3ljcHhfZjNFOGcxcHF1dzFibUJQNS00R2p3cWEyN19hVm0xQnVKc1NEaWFWcTlEOEhOTEdGUEI0RzBsZHZYN0R3UG90TkZJaW50OENWOFhPRVJ5UThaRmZTZXFfSW1XQzZTa01kTU9EeFlVdkZOQk0xeUFFallaQldDenE2RFcwUENtOXVPZWJ1b2k4dw?oc=5\" target=\"_blank\">The memory trade: breather or breakdown for Micron and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Investing.com analysis piece examining the current market conditions and outlook for Micron and SK Hynix, two major holdings in the DRAM ETF. The piece discusses whether the memory sector is experiencing a temporary reprieve or facing a deeper contraction, but appears to be opinion/analysis rather than reporting a concrete event or hard number."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "2ac032f0f48c42b8279723fbc1541ca505922c6c",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "‘SK Hynix Is Our Top Pick,’ Says HSBC Despite the Recent Pullback - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmhKWnM4MjVHRmJMcTlqTUM3QUs5OWVWaWRqMGlLREpLd0xKSS02NFhTdFExSVlYOHExTXIyRUNwMXRMa3dWazI5ZE0yVzV6RHJOemRsbnY1cVM2cHBiTC1XUkZORW93WThjaTBoOHZvWlV3dGhDRGFfanhLTGotQ05RU0t0cGt4U3JpOHM0VVNIX0RoOURB?oc=5",
+  "published_at": "Thu, 16 Jul 2026 12:50:56 GMT",
+  "published_ts": 1784206256,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmhKWnM4MjVHRmJMcTlqTUM3QUs5OWVWaWRqMGlLREpLd0xKSS02NFhTdFExSVlYOHExTXIyRUNwMXRMa3dWazI5ZE0yVzV6RHJOemRsbnY1cVM2cHBiTC1XUkZORW93WThjaTBoOHZvWlV3dGhDRGFfanhLTGotQ05RU0t0cGt4U3JpOHM0VVNIX0RoOURB?oc=5\" target=\"_blank\">‘SK Hynix Is Our Top Pick,’ Says HSBC Despite the Recent Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "HSBC analyst maintains SK Hynix as top pick following recent stock pullback. This is analyst opinion/rating rather than a concrete market event or new fundamental information, making it a soft relevance signal for the holding."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "bd07fe6f38315b08ea3c22351f04f6911fedb9ec",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "If the AI Boom Is So Strong, Why Are Memory Stocks Crashing? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblY5TmhGN2UyNmdzN05YZUVjU1VDY0ZwSzhNdTg5QXdvR1lBd1hLbUFKMXdZVnlIZHBoVWFOTnFiZ3BYcm5ibDJkbHk2WWxIY3RaWnZZcE1QVEdJV2Iwa1V6a2RMRmJjTXR0dlp3ZU82UlF0MHhmNjFOOEtHUThUdm5ieGtjc1NaTUJqUTVYSTEtaFJQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:14:17 GMT",
+  "published_ts": 1784214857,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOblY5TmhGN2UyNmdzN05YZUVjU1VDY0ZwSzhNdTg5QXdvR1lBd1hLbUFKMXdZVnlIZHBoVWFOTnFiZ3BYcm5ibDJkbHk2WWxIY3RaWnZZcE1QVEdJV2Iwa1V6a2RMRmJjTXR0dlp3ZU82UlF0MHhmNjFOOEtHUThUdm5ieGtjc1NaTUJqUTVYSTEtaFJQ?oc=5\" target=\"_blank\">If the AI Boom Is So Strong, Why Are Memory Stocks Crashing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece questioning the apparent disconnect between strong AI demand narrative and weakness in memory stocks. Analyzes sentiment and market dynamics but does not report a new concrete event, earnings data, or pricing change—represents market commentary on known conditions rather than a distinct catalyst."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "32ed8968c6984cb919dd3e1662d00bb77f136f1f",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Is Still Dropping - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXVFTnpFSGd0VDlRWTc2bFFlLUdNOVAzdmNBN2RVaWxIbWtkS0pYRkFnNVRENF9IVzM4dGtzT3ZMMkFMYXh5bEw2Q2tFLTdNSzBlSEV2OUlsTTVMczVsSUd3UVRTTzVmeXowNVdMOElINUdHQXFPNUZxWHFxN0xOVURqZUlwVXBqRU1ISi1GTS1JaGpJTy1qWVZKWG1JUQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 15:44:34 GMT",
+  "published_ts": 1784216674,
+  "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSXVFTnpFSGd0VDlRWTc2bFFlLUdNOVAzdmNBN2RVaWxIbWtkS0pYRkFnNVRENF9IVzM4dGtzT3ZMMkFMYXh5bEw2Q2tFLTdNSzBlSEV2OUlsTTVMczVsSUd3UVRTTzVmeXowNVdMOElINUdHQXFPNUZxWHFxN0xOVURqZUlwVXBqRU1ISi1GTS1JaGpJTy1qWVZKWG1JUQ?oc=5\" target=\"_blank\">Why Sandisk Stock Is Still Dropping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5PLTlMU0NuMmR0dENHcmxJOEtoM0FXRFZMdFNZVGpIQk9pRlo4eU8wcEtGS0I1ZUtlZVdoSm02M2J1VmlQdnN5dTFkQlBsSDdWN1RFQWF5VFQxVnBPZUtEa0dxb0UwQU1BZ3hOMkxjTzJySF91b3V5WkN3?oc=5\" target=\"_blank\">Sandisk Stock: The Math Isn't Mathing (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnJBMXhnODJDTnZIdE1SSzNKaTVOaVFhV1U1QW10ZGNsU0xrTXR3LTNIOGtfRFBGSVgzSElNRmF0NU9hLUcyQm9nQ2hqaWtQRVB4WE4zVHdFWFlYTUZxNGVycTlDRVl0UkwwbDlHenpaWmpUMXBGRmI1UlBBc0VUX29ZSmVYVzAzbHBFeEFvck9za3YtYWhr?oc=5\" target=\"_blank\">Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li></ol>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis of SanDisk stock decline. SanDisk is a DRAM ETF holding, but this appears to be market commentary on price movement rather than reporting a concrete catalyst or new information distinct from already-known results. Stock price analysis pieces driven by existing news are scored as soft impact (3) unless they reveal a distinct, unstated cause."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "03f49d4aca70d63647abf9763530fb7b41d60c23",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SanDisk Corporation Stock (SNDK) Moved Down by 9.98% on Jul 16: Key Drivers Unveiled - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGplQVlPbHRzQjVEYUduUUM4eGxVT2VmWDlwYndmbUFwWmN0Ty15eHdwdnlyemFGMmh4Yms0U1BEVE9rd05BTDJ4Y2V3a0FwdWROek9PaXFJZEtmSlNEMU5LaURKSFBLd3F2Zk5NbWlZSDVibjdBbk1tY2Y0a3hVZ2tmWmg1OW1kVWU4?oc=5",
+  "published_at": "Thu, 16 Jul 2026 17:15:24 GMT",
+  "published_ts": 1784222124,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGplQVlPbHRzQjVEYUduUUM4eGxVT2VmWDlwYndmbUFwWmN0Ty15eHdwdnlyemFGMmh4Yms0U1BEVE9rd05BTDJ4Y2V3a0FwdWROek9PaXFJZEtmSlNEMU5LaURKSFBLd3F2Zk5NbWlZSDVibjdBbk1tY2Y0a3hVZ2tmWmg1OW1kVWU4?oc=5\" target=\"_blank\">SanDisk Corporation Stock (SNDK) Moved Down by 9.98% on Jul 16: Key Drivers Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, experienced a 9.98% stock decline on Jul 16. The article title promises to unveil key drivers but provides no specifics in the snippet—likely a generic price-move recap without concrete news or catalysts disclosed. Without stated reasons (earnings, guidance, industry event, or pricing news), this scores as a minor mention."
+  },
+  "buffered_ts": 1784227180.0647428
+ },
+ {
+  "id": "9efdc215821e3c3dba2d5b2faee16f287ccd1bbd",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Amtech and Seagate Shares Plummet, What You Need To Know - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDZQaktkUWMtR2l1WFVmNFk3cHNPLUN4OThRVW5Jd3o4SVB1eXZUalFOM3RRVUVVZWxzSkpwMDMxbTdadklmazRGcXpPc24wUWtfSlVYWU1TaTdDTVlYeTZYc2RJc1dXb1Zib3VpejN2bDRRRUpHOEFwdHdVN3dWdmNfTzRyN0ExelBVTmhXRlVKYld1YXpObkYxenV5VW9qdmFMTXZrWm9nNlladGY3VXp0b216UmRP?oc=5",
+  "published_at": "Thu, 16 Jul 2026 17:29:47 GMT",
+  "published_ts": 1784222987,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDZQaktkUWMtR2l1WFVmNFk3cHNPLUN4OThRVW5Jd3o4SVB1eXZUalFOM3RRVUVVZWxzSkpwMDMxbTdadklmazRGcXpPc24wUWtfSlVYWU1TaTdDTVlYeTZYc2RJc1dXb1Zib3VpejN2bDRRRUpHOEFwdHdVN3dWdmNfTzRyN0ExelBVTmhXRlVKYld1YXpObkYxenV5VW9qdmFMTXZrWm9nNlladGY3VXp0b216UmRP?oc=5\" target=\"_blank\">Amtech and Seagate Shares Plummet, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StockStory"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a share price decline. The snippet provides no stated catalyst or concrete event — this is a generic stock-move piece with no memory-cycle-specific information or earnings/guidance/supply news attached."
+  },
+  "buffered_ts": 1784227180.0647428
  }
 ]
