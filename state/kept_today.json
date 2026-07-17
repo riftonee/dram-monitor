@@ -166,5 +166,176 @@
    "summary": "TipRanks opinion piece discussing a 30% price decline in the DRAM ETF and whether it presents a buying opportunity. This is commentary and analysis rather than a concrete event or material development."
   },
   "buffered_ts": 1784299233.5527747
+ },
+ {
+  "id": "12511e626a254037ee306009f12efccc20f214a3",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmVMN3NWVWJ4ZnlPY3I4ZTZBcW9xSHVaLXZwWk93d3hiekZJcHJrNmgwV0RGdVJubXVfcy1wR1h5cVFPMHlualUwaUpaZXUwTWtrdVNCVVQyd0hHUmZ4UThTZUpxXy1Zb0hna0Q0VjdyczNOdzRFRHBhUXJYdkhyVTlyZ0RmSUxzRG5jbFpWNVpNS1EtUjljeVlhQV9MX0k?oc=5",
+  "published_at": "Fri, 17 Jul 2026 15:15:54 GMT",
+  "published_ts": 1784301354,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmVMN3NWVWJ4ZnlPY3I4ZTZBcW9xSHVaLXZwWk93d3hiekZJcHJrNmgwV0RGdVJubXVfcy1wR1h5cVFPMHlualUwaUpaZXUwTWtrdVNCVVQyd0hHUmZ4UThTZUpxXy1Zb0hna0Q0VjdyczNOdzRFRHBhUXJYdkhyVTlyZ0RmSUxzRG5jbFpWNVpNS1EtUjljeVlhQV9MX0k?oc=5\" target=\"_blank\">Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St."
+   ],
+   "titles": [
+    "Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain - 24/7 Wall St."
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary on SK hynix's prospects citing continued AI cycle tailwinds but noting some uncertainties. Opinion and analysis on a holding rather than a concrete event or new data point."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "119fc234e780178b4e60c478ce963f5c6610672d",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Which Storage Stock Is Best Positioned to Win the AI Memory War? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlB0dTFSY0hYNlJaeTBYWF9nR3BIekdiTkpuazZ5SVhub0pGZV9RWVItN1FsU1FMaEdGMmc0aDFNbWNMVzYtNXIxdG9fY2ZYUVRSNDBfR2lKYm1neWttQUhEcUhKc3FvQnhWaVhaWlN1QVk0VDdyMUV3am02aTg2dENlc3hyTUI2eHI3RlN3UTdWSlVETGRjSGpyRnJtMDdvYlByVUhtSXVzNU9DOEZpMzMzaENwQ1gxb1F4YVJDdHdzRWlaS3U1LWszM2IzM3FLYXRQME1pNU9heXRnZlYtSA?oc=5",
+  "published_at": "Thu, 16 Jul 2026 11:55:00 GMT",
+  "published_ts": 1784202900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlB0dTFSY0hYNlJaeTBYWF9nR3BIekdiTkpuazZ5SVhub0pGZV9RWVItN1FsU1FMaEdGMmc0aDFNbWNMVzYtNXIxdG9fY2ZYUVRSNDBfR2lKYm1neWttQUhEcUhKc3FvQnhWaVhaWlN1QVk0VDdyMUV3am02aTg2dENlc3hyTUI2eHI3RlN3UTdWSlVETGRjSGpyRnJtMDdvYlByVUhtSXVzNU9DOEZpMzMzaENwQ1gxb1F4YVJDdHdzRWlaS3U1LWszM2IzM3FLYXRQME1pNU9heXRnZlYtSA?oc=5\" target=\"_blank\">Which Storage Stock Is Best Positioned to Win the AI Memory War?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece comparing storage/memory stocks' positioning for AI-driven demand. Likely discusses holdings like Micron, Western Digital, or Seagate in context of AI infrastructure trends, but as analyst opinion/comparison rather than new concrete developments."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "1d4457f5d3e5c8f4d84c47809d14d12960302988",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate Stock And The Bet On A Denser Future - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzVjdFBCMnU2bGNOUlRmcC1YQWtoVkpuUFh2WnNidy1pRl94cVFqTTgxMXo1cjhVZUtHUXJ4cllIbUtDVDFTMDRUM3pZNXZ6QXpWSy1MSnNIMmVNaGVxWmZYVUYzOUNKVGlVbkhjNko2Ylpiem84cFhfOUEtRmt0VjVYMnVDQzJWcFBWSExKNFUtZzFSdENVNy1DVi0?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:09:59 GMT",
+  "published_ts": 1784293799,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzVjdFBCMnU2bGNOUlRmcC1YQWtoVkpuUFh2WnNidy1pRl94cVFqTTgxMXo1cjhVZUtHUXJ4cllIbUtDVDFTMDRUM3pZNXZ6QXpWSy1MSnNIMmVNaGVxWmZYVUYzOUNKVGlVbkhjNko2Ylpiem84cFhfOUEtRmt0VjVYMnVDQzJWcFBWSExKNFUtZzFSdENVNy1DVi0?oc=5\" target=\"_blank\">Seagate Stock And The Bet On A Denser Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance piece on Seagate's strategic positioning around increased storage density. This is a holding company analysis touching on industry trends (denser storage/capacity), but lacks a concrete event, earnings release, or specific guidance change—it appears to be commentary or forward-looking opinion rather than hard news."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "17871a17f92d3e2c51d79fd49f074400bddfc69f",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "SK Hynix ADRs drop below $149 listing price for first time as AI chip euphoria fades - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wZVRQakJkSlY1bkJTNVlwempZRUVYREtyTE9LOGpHTmFjN2NGdG9OVkVXZ09xWFJlbC1uYnVHcmlFd2lDeDh3QWtDUXVYVDlfc0tfbC1PX2xrTkk1Ul9odzd3NGZ3WHNrR3pkTUg4ZEczR2wt?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:51:24 GMT",
+  "published_ts": 1784296284,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4wZVRQakJkSlY1bkJTNVlwempZRUVYREtyTE9LOGpHTmFjN2NGdG9OVkVXZ09xWFJlbC1uYnVHcmlFd2lDeDh3QWtDUXVYVDlfc0tfbC1PX2xrTkk1Ul9odzd3NGZ3WHNrR3pkTUg4ZEczR2wt?oc=5\" target=\"_blank\">SK Hynix ADRs drop below $149 listing price for first time as AI chip euphoria fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADRs fell below their $149 listing price for the first time, attributed to fading AI chip enthusiasm. This is a stock price move without a stated concrete catalyst or new information about the company's operations, demand, or guidance—merely a market sentiment piece."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "26022e4bdc8dbae14217e8b07107fb3d1d11c44f",
+  "source": "MSN",
+  "topic": "holding",
+  "title": "Micron Technology, SanDisk, and Intel lead technology quant picks ahead of Q2 earnings - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmxHWWxKWkREZzVPNXZKRDVSd0txTlJ5Z1FncWZqUDdtQ1VObWtReXlfSWtvVllFaU9iSTNEeUU5eVJqOXUxZ1ZXM1AxVXR1Zzd4VllfcE10a3FUWGEwRnVORUE2WGdWNzZzOGQtMm5oSTdac1BaLUNMUGViUE50cldaQ05ONW8tcnk4RzBEaU9ZU3REWVpwaHpHUlJHdWIzbHp4ekFpYnMxekNBRW9GVlp5VmdjejB5dVloU2NjdFB2OVMzcS0yM0xZSWZTYjVWTUR4MWZCOTFEWU1sV05WNHBITnRfSzZvNnZLQ1h2QlFmNmlu?oc=5",
+  "published_at": "Fri, 17 Jul 2026 15:50:04 GMT",
+  "published_ts": 1784303404,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmxHWWxKWkREZzVPNXZKRDVSd0txTlJ5Z1FncWZqUDdtQ1VObWtReXlfSWtvVllFaU9iSTNEeUU5eVJqOXUxZ1ZXM1AxVXR1Zzd4VllfcE10a3FUWGEwRnVORUE2WGdWNzZzOGQtMm5oSTdac1BaLUNMUGViUE50cldaQ05ONW8tcnk4RzBEaU9ZU3REWVpwaHpHUlJHdWIzbHp4ekFpYnMxekNBRW9GVlp5VmdjejB5dVloU2NjdFB2OVMzcS0yM0xZSWZTYjVWTUR4MWZCOTFEWU1sV05WNHBITnRfSzZvNnZLQ1h2QlFmNmlu?oc=5\" target=\"_blank\">Micron Technology, SanDisk, and Intel lead technology quant picks ahead of Q2 earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Quant-model roundup naming Micron and SanDisk as favored tech picks ahead of Q2 earnings. No new information on memory demand, pricing, supply, or company guidance—purely analyst opinion and positioning commentary."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "52878b0c88c6525ae148af3c83b2efbd16a827dd",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK hynix ADR Premium Drops to 22% Ahead of July 29 Conversion Test - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2ktWmZDb242enNfc3l1cFd1a2Joei1RV255b19vem80VjNPRjM5azg0amtzenVoRDU1OWVlWUJkV0dZZVZRdFBTaWZhVU5wcU1wWjlURjNmbmpCUGd6cnpFQTM4ZEp4RExNeDFiZGQ4akVtN2djN2JCQmJxVWtiNl9tNTBpbFV0c21DTm9OQQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:51:16 GMT",
+  "published_ts": 1784296276,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2ktWmZDb242enNfc3l1cFd1a2Joei1RV255b19vem80VjNPRjM5azg0amtzenVoRDU1OWVlWUJkV0dZZVZRdFBTaWZhVU5wcU1wWjlURjNmbmpCUGd6cnpFQTM4ZEp4RExNeDFiZGQ4akVtN2djN2JCQmJxVWtiNl9tNTBpbFV0c21DTm9OQQ?oc=5\" target=\"_blank\">SK hynix ADR Premium Drops to 22% Ahead of July 29 Conversion Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix ADR premium narrowing to 22% ahead of a July 29 conversion test. Minor technical/structural development affecting the ADR instrument itself rather than the underlying business or memory market fundamentals."
+  },
+  "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "0801a3f21e9ea55fc771b444c1ee5a9aaf3b05eb",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "What's Going on With Sandisk Stock Friday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXVaeHhweEJIRnNsUnY3b2l3RGdNWHdoS1ZFV0F1Z2FCVkhicFlTYS1UNUxkSU8xajl4U0dOenU0OWgzaW5CNkRVdVIxdC16dklnRzRVbV80bVUyNGhndEVRYXZGbzR1bU0zZ0IxMVhNeHdkLVVaLTF5bE9Yc0N4TlQ2OHV6RHdsSHpyN3M3b2pmQmhJSWpXOA?oc=5",
+  "published_at": "Fri, 17 Jul 2026 10:50:14 GMT",
+  "published_ts": 1784285414,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXVaeHhweEJIRnNsUnY3b2l3RGdNWHdoS1ZFV0F1Z2FCVkhicFlTYS1UNUxkSU8xajl4U0dOenU0OWgzaW5CNkRVdVIxdC16dklnRzRVbV80bVUyNGhndEVRYXZGbzR1bU0zZ0IxMVhNeHdkLVVaLTF5bE9Yc0N4TlQ2OHV6RHdsSHpyN3M3b2pmQmhJSWpXOA?oc=5\" target=\"_blank\">What's Going on With Sandisk Stock Friday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Benzinga article asking about SanDisk stock movement on a particular day. Without specific details on the catalyst or magnitude of movement, this appears to be a generic stock-price-movement piece that likely covers the stock in passing rather than reporting a concrete material development affecting the memory semiconductor sector."
+  },
+  "buffered_ts": 1784304743.96516
  }
 ]
