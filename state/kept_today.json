@@ -745,5 +745,77 @@
    "summary": "Micron stock trading near recent highs driven by AI demand lifting memory earnings. This is a post-earnings market reaction and analyst commentary on the known earnings driver (AI demand), not a new concrete event or material guidance change distinct from the earnings already reported."
   },
   "buffered_ts": 1784319983.5975306
+ },
+ {
+  "id": "3747c6f58669c5008224a46b31dbde1721a1c789",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Stock Is Up More Than 3,700% From Its 52-Week Low. Is the Memory Rally Still Investable, or Is This Stock Priced for Perfection? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckUtc0xJRHpwU1pZcklZTVlVcVJLcG1PQ0U0RHZpTjgwYlpfNXJfc1BlN29hdThZZWZwa2VTQU1uanN5YjdvblI5cDl5TUxpRzdKMFFYcWN4SHhhWF9jWkdrQWs2ekcyYUJCUXpqVGZzNHg3LXNBWXh5dGxWTjFTbDBsNnBIZlZwVmlzQ0Vfbkk3S3M?oc=5",
+  "published_at": "Fri, 17 Jul 2026 08:51:00 GMT",
+  "published_ts": 1784278260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNckUtc0xJRHpwU1pZcklZTVlVcVJLcG1PQ0U0RHZpTjgwYlpfNXJfc1BlN29hdThZZWZwa2VTQU1uanN5YjdvblI5cDl5TUxpRzdKMFFYcWN4SHhhWF9jWkdrQWs2ekcyYUJCUXpqVGZzNHg3LXNBWXh5dGxWTjFTbDBsNnBIZlZwVmlzQ0Vfbkk3S3M?oc=5\" target=\"_blank\">Sandisk Stock Is Up More Than 3,700% From Its 52-Week Low. Is the Memory Rally Still Investable, or Is This Stock Priced for Perfection?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock has surged over 3,700% from its 52-week low. Article analyzes whether the memory rally remains investable or if the stock is overvalued at current levels—opinion-driven commentary on valuation rather than a concrete catalyst or earnings event."
+  },
+  "buffered_ts": 1784323257.4992201
+ },
+ {
+  "id": "23386c51f28177f8a06fc58bd8ff2bbf5f32ec0c",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] Memory Patent War Escalates: Kioxia Hit With $229M Viasat Verdict; Samsung Faces Netlist ITC Probe - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0EyN0lNR1M3MnpTckl3RktfenZkdzZMMVhlY211NmRXYy10ZVRMZ2pIT1NPMDdLNGRkbEFJc3VpMDItMGJra0htYWNWWVA5aGQzV0JPNV9CWDMwNjVuaTI2UFV6VmlBYll1U0JBeklGVXdIeVptXzZTRm94VE9aMjMtTm9xNEdUX3NWSzBBU2xPRjVpMUswbWRGc0x4eEtIOW1RUEpsWk9qS3N4eDFMYWQ5RFF0Y0k4VHpwc252alhIby00R1NRYWUxTm9SYWJHYVZBZERYajBORTB2?oc=5",
+  "published_at": "Fri, 17 Jul 2026 05:47:26 GMT",
+  "published_ts": 1784267246,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0EyN0lNR1M3MnpTckl3RktfenZkdzZMMVhlY211NmRXYy10ZVRMZ2pIT1NPMDdLNGRkbEFJc3VpMDItMGJra0htYWNWWVA5aGQzV0JPNV9CWDMwNjVuaTI2UFV6VmlBYll1U0JBeklGVXdIeVptXzZTRm94VE9aMjMtTm9xNEdUX3NWSzBBU2xPRjVpMUswbWRGc0x4eEtIOW1RUEpsWk9qS3N4eDFMYWQ5RFF0Y0k4VHpwc252alhIby00R1NRYWUxTm9SYWJHYVZBZERYajBORTB2?oc=5\" target=\"_blank\">[News] Memory Patent War Escalates: Kioxia Hit With $229M Viasat Verdict; Samsung Faces Netlist ITC Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung faces an ITC patent investigation by Netlist related to memory technology; Kioxia received a $229M patent verdict from Viasat. Patent disputes can affect product availability and impose financial costs, but these are early-stage proceedings without confirmed outcomes or market-moving verdicts yet."
+  },
+  "buffered_ts": 1784323257.4992201
+ },
+ {
+  "id": "7ba5032aec76ce7bc155ff2ac4aa70a68836136b",
+  "source": "Ad Hoc News",
+  "topic": "holding",
+  "title": "Seagate stock trades sideways as investors weigh AI storage demand and recent earnings metrics - Ad Hoc News",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnpWQTFzQWdzb1A5WEs2YVJUaC1WNm5FYnVhTGk2MG5VZkVvMmlxQUc5bkUtV1F4al9FU1YzNHBDWUhwRV93NlRiLXRzdmVmNHdDdDZLUWcwMGhSdVVsS1NaTmpsZnprNGxCTUFsTmVVR3VwWS10QXJUZFRHblBWTDB2YUlsQjhaSGpBbzZWZEUza3NBTmdhREItMVhoTkpsN0tyOVZZMWlBdGNneXB6MjVWWUdCU3M3elJTZEtsQnp4SkpYcjNEcw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 20:20:25 GMT",
+  "published_ts": 1784319625,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnpWQTFzQWdzb1A5WEs2YVJUaC1WNm5FYnVhTGk2MG5VZkVvMmlxQUc5bkUtV1F4al9FU1YzNHBDWUhwRV93NlRiLXRzdmVmNHdDdDZLUWcwMGhSdVVsS1NaTmpsZnprNGxCTUFsTmVVR3VwWS10QXJUZFRHblBWTDB2YUlsQjhaSGpBbzZWZEUza3NBTmdhREItMVhoTkpsN0tyOVZZMWlBdGNneXB6MjVWWUdCU3M3elJTZEtsQnp4SkpYcjNEcw?oc=5\" target=\"_blank\">Seagate stock trades sideways as investors weigh AI storage demand and recent earnings metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Hoc News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad Hoc News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is trading sideways as investors assess AI storage demand and recent earnings. This is a post-earnings stock reaction piece that reflects market digestion of already-reported results and forward outlook; no new concrete catalyst or material guidance change is disclosed."
+  },
+  "buffered_ts": 1784323257.4992201
  }
 ]
