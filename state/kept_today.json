@@ -649,5 +649,101 @@
    "summary": "Broad-based $25B inflow into semiconductor ETFs amid a 40% DRAM price decline. Relevant to DRAM ETF fund flows and investor sentiment, but the story appears to focus on aggregate ETF trends and price moves rather than a concrete catalyst or hard new development specific to the fund or its holdings."
   },
   "buffered_ts": 1784314921.446646
+ },
+ {
+  "id": "64644001a5e78bd797f21406f090afd02d409a56",
+  "source": "Tekedia",
+  "topic": "holding",
+  "title": "U.S. Opens Patent Probe Into Samsung AI Memory Chips, Pulling Nvidia, Google, and Broadcom Into Widening Netlist Dispute - Tekedia",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHI3VDU3ZktHRXltTE01eFNrcGgtR3E4QXg5RlY0WDdQM1lOUGFTSkNxX3BVY1Qyb0FnYnE5dGdkQk0tRVlhaDY1Umdscm9yWEwwTGxQaHFsSmdWelp2Vml3QnFBTWlBbWZXUVZDZ05VclU3a3VLb3h4VnlqVkR5dWNEbUZBWFhoOEQ3ZnlaazFLa1pTQm5jOUI4LWxhV212VTJTMFlDbTBRRDZtSnhCRFdKNlBtb25PdTZzTnV5R3lxR3lZY3AzUnF4eEJjX2c4TnpRUHgtUjY?oc=5",
+  "published_at": "Fri, 17 Jul 2026 15:56:54 GMT",
+  "published_ts": 1784303814,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHI3VDU3ZktHRXltTE01eFNrcGgtR3E4QXg5RlY0WDdQM1lOUGFTSkNxX3BVY1Qyb0FnYnE5dGdkQk0tRVlhaDY1Umdscm9yWEwwTGxQaHFsSmdWelp2Vml3QnFBTWlBbWZXUVZDZ05VclU3a3VLb3h4VnlqVkR5dWNEbUZBWFhoOEQ3ZnlaazFLa1pTQm5jOUI4LWxhV212VTJTMFlDbTBRRDZtSnhCRFdKNlBtb25PdTZzTnV5R3lxR3lZY3AzUnF4eEJjX2c4TnpRUHgtUjY?oc=5\" target=\"_blank\">U.S. Opens Patent Probe Into Samsung AI Memory Chips, Pulling Nvidia, Google, and Broadcom Into Widening Netlist Dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tekedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "U.S. ITC opened a patent investigation into Samsung's AI memory chips (HBM), with Nvidia, Google, and Broadcom pulled into the dispute. This is a concrete regulatory action that could affect Samsung's HBM production, sales, and competitive position—a material development for a major DRAM ETF holding."
+  },
+  "buffered_ts": 1784319983.5975306
+ },
+ {
+  "id": "2d6a587284bf304edd82e813371b5274d4e65f2d",
+  "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+  "topic": "holding",
+  "title": "AI needs more memory. South Korea is selling it at a price - ABC News & Headlines – Australian Broadcasting Corporation",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDZObjlMcVY5SkVtRVp5ODV5UXBFMHhOTTFUUk9DRy1fRjJhQVhqUnNBNDBRYTU5UlhKUU1acU1ENTFFSjNfbmVJc3RlUkRrUlYwd1NCakd4MU1BMUVaTXRaOXM0ZENielM4b0xsYzlXYzFPU2dEOHR2RUstQ2RGeUp0eEJXb0FHM2c?oc=5",
+  "published_at": "Thu, 16 Jul 2026 19:03:01 GMT",
+  "published_ts": 1784228581,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDZObjlMcVY5SkVtRVp5ODV5UXBFMHhOTTFUUk9DRy1fRjJhQVhqUnNBNDBRYTU5UlhKUU1acU1ENTFFSjNfbmVJc3RlUkRrUlYwd1NCakd4MU1BMUVaTXRaOXM0ZENielM4b0xsYzlXYzFPU2dEOHR2RUstQ2RGeUp0eEJXb0FHM2c?oc=5\" target=\"_blank\">AI needs more memory. South Korea is selling it at a price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ABC News & Headlines – Australian Broadcasting Corporation"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "ABC News reports on AI-driven memory demand and South Korea's role as a major supplier (implicitly referencing SK hynix and Samsung). The story addresses the structural link between AI infrastructure capex and memory demand—a core driver of the DRAM fund—but appears to be analysis or commentary rather than reporting a concrete new event, pricing data, or capacity announcement."
+  },
+  "buffered_ts": 1784319983.5975306
+ },
+ {
+  "id": "4f58805a602e115ffd14808b244220c53443b468",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkthQllzLUxNRkY3MXNhbnZOU3hKLTRhLURoaWUtTjh2QWJQOGpFdjE2cm94UFZqVF9XZF9jdS1wMV9Razkxb3gyZFhGeHpTRFBxNl83SURYVTRmb0x1WWI3T1dmUFBYa1haLUxmd2xiejZiT2JHQkl0ZGpmcXo0ZVNzUlN0UVpHS2Q1Y3VWN1VsZE45YjUzQUNjb25GSzJiZXM1eHE2djJIbndJZmxOUWwwUENQbERNT3A1elkxaEc?oc=5",
+  "published_at": "Fri, 17 Jul 2026 05:13:57 GMT",
+  "published_ts": 1784265237,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkthQllzLUxNRkY3MXNhbnZOU3hKLTRhLURoaWUtTjh2QWJQOGpFdjE2cm94UFZqVF9XZF9jdS1wMV9Razkxb3gyZFhGeHpTRFBxNl83SURYVTRmb0x1WWI3T1dmUFBYa1haLUxmd2xiejZiT2JHQkl0ZGpmcXo0ZVNzUlN0UVpHS2Q1Y3VWN1VsZE45YjUzQUNjb25GSzJiZXM1eHE2djJIbndJZmxOUWwwUENQbERNT3A1elkxaEc?oc=5\" target=\"_blank\">Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, has hit its deepest drawdown in a year, but analyst consensus price target remains 23% above current levels. This reflects market sentiment and analyst views on the stock's valuation, but is not a new concrete event or earnings release—it is a price-observation piece with analyst commentary."
+  },
+  "buffered_ts": 1784319983.5975306
+ },
+ {
+  "id": "3238cdf894896e6d11bc1143879c9a7b82b898ab",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology stock trades near recent highs as AI demand lifts memory earnings - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVdLVEpKWFFydFdTX0xZSDZGMFFFUXBKYTVFbE1oSDY3N25fTzlaUERGSmlGSUZSN3JFRTg4Q1NtWGQ1SnI2TElScTNVSHQ1cWxKdmdRVXk4SWpfcFBIcm5DRkt3MnRYOGFrMlp2U0RBOEluWXR2cGtLNHVWYU04Ukt0dldaNkFLRWZPSGlOTG5VdnY1VWRlMzZEMGpuUnZPTWdfSHc5WU1RWGFOYnN6dW5GRWRERXp4NFNVZG02NEdwNmhRWXNKZWk3THNEUQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 19:04:59 GMT",
+  "published_ts": 1784315099,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVdLVEpKWFFydFdTX0xZSDZGMFFFUXBKYTVFbE1oSDY3N25fTzlaUERGSmlGSUZSN3JFRTg4Q1NtWGQ1SnI2TElScTNVSHQ1cWxKdmdRVXk4SWpfcFBIcm5DRkt3MnRYOGFrMlp2U0RBOEluWXR2cGtLNHVWYU04Ukt0dldaNkFLRWZPSGlOTG5VdnY1VWRlMzZEMGpuUnZPTWdfSHc5WU1RWGFOYnN6dW5GRWRERXp4NFNVZG02NEdwNmhRWXNKZWk3THNEUQ?oc=5\" target=\"_blank\">Micron Technology stock trades near recent highs as AI demand lifts memory earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock trading near recent highs driven by AI demand lifting memory earnings. This is a post-earnings market reaction and analyst commentary on the known earnings driver (AI demand), not a new concrete event or material guidance change distinct from the earnings already reported."
+  },
+  "buffered_ts": 1784319983.5975306
  }
 ]
