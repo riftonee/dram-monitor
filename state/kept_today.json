@@ -817,5 +817,77 @@
    "summary": "Seagate (STX), a DRAM ETF holding, is trading sideways as investors assess AI storage demand and recent earnings. This is a post-earnings stock reaction piece that reflects market digestion of already-reported results and forward outlook; no new concrete catalyst or material guidance change is disclosed."
   },
   "buffered_ts": 1784323257.4992201
+ },
+ {
+  "id": "2a6b6e103c86159bc3b8b1d86ab0ec20f668d13f",
+  "source": "StocksToTrade",
+  "topic": "holding",
+  "title": "SKHY Stock Whipsaws After Massive $26.5B Nasdaq IPO - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xeTREbXNta0Y0a1RXT2tHaWo4YUtTZjZGcjFnRnhlbmI3M2xkZTZfTWNYcUgtc0lMaURLMExPMTdpQkdDbTJTbndpQ0NieGNpY1NWY2lSOE5tODhZenUwcGE5N2NxN01ydlRwSTJMNUdHaXM?oc=5",
+  "published_at": "Fri, 17 Jul 2026 14:03:00 GMT",
+  "published_ts": 1784296980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9xeTREbXNta0Y0a1RXT2tHaWo4YUtTZjZGcjFnRnhlbmI3M2xkZTZfTWNYcUgtc0lMaURLMExPMTdpQkdDbTJTbndpQ0NieGNpY1NWY2lSOE5tODhZenUwcGE5N2NxN01ydlRwSTJMNUdHaXM?oc=5\" target=\"_blank\">SKHY Stock Whipsaws After Massive $26.5B Nasdaq IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix (SKHY) completed a massive $26.5B Nasdaq IPO, a concrete, material corporate event that increases the liquidity and market accessibility of a core DRAM ETF holding. This is a settled, significant milestone for one of the world's largest memory manufacturers and a major holding of the fund."
+  },
+  "buffered_ts": 1784330557.8145616
+ },
+ {
+  "id": "3c916dd5e0676cd38d010713463704f229c69c86",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Samsung (KOSE:A005930) Faces US Import Ban Probe Over Memory Patent Claims - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3M5cWVWSzlTNnh2eC1SMXh4dEVzWHA0a0FJY0FIRzN2NmlNWE5OX1dMbFkyU2FzVUxJRFNoTnBmMHNqbmt5NHYzYi04VW9saE16a0xURjJ3cjhtSDVwUmxjU0tNTWJ5T2dOd2d3T3EzZTNSNDdLS3NlZWJhUUtCUXFVM0ZQTkcyY0daa2lOU2FDRnRWU2RleGpESk9VMnBiRGxvcG1vQUtmN2hZMG00bGd5amJtcmNodVF2TGo5NzFlUzNWWmczZHpaaHNtajd5OWRMclF3YVNKQdIB3wFBVV95cUxNblE5YzdXZk9jbEFzYmZNS1RHdVQ2dFVjbkZzcWp0R1kwNmRLT1NTYjhQMHRrV2NKODlBYnZtb0ZEUFM0TFZiY0xFTlp3MUNIWHdoU2ZVaDhhY0U5b1F5TEs1d080ZEVEekZpZ2NYdkgtZ3RuVFNhT2IycGFKNlNmT05Gdjd3TENrWmRRb0VnbjA2aDV1NFJiNmpZSC1YS29qODBEbkdiNXpZQ0RDYlBkUS13UXJ3SHJ0TnFVYllJdWVLMFE5TDB3WmstMGRqVnhCOXRDMG90THN1TlZoazl3?oc=5",
+  "published_at": "Fri, 17 Jul 2026 22:50:24 GMT",
+  "published_ts": 1784328624,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3M5cWVWSzlTNnh2eC1SMXh4dEVzWHA0a0FJY0FIRzN2NmlNWE5OX1dMbFkyU2FzVUxJRFNoTnBmMHNqbmt5NHYzYi04VW9saE16a0xURjJ3cjhtSDVwUmxjU0tNTWJ5T2dOd2d3T3EzZTNSNDdLS3NlZWJhUUtCUXFVM0ZQTkcyY0daa2lOU2FDRnRWU2RleGpESk9VMnBiRGxvcG1vQUtmN2hZMG00bGd5amJtcmNodVF2TGo5NzFlUzNWWmczZHpaaHNtajd5OWRMclF3YVNKQdIB3wFBVV95cUxNblE5YzdXZk9jbEFzYmZNS1RHdVQ2dFVjbkZzcWp0R1kwNmRLT1NTYjhQMHRrV2NKODlBYnZtb0ZEUFM0TFZiY0xFTlp3MUNIWHdoU2ZVaDhhY0U5b1F5TEs1d080ZEVEekZpZ2NYdkgtZ3RuVFNhT2IycGFKNlNmT05Gdjd3TENrWmRRb0VnbjA2aDV1NFJiNmpZSC1YS29qODBEbkdiNXpZQ0RDYlBkUS13UXJ3SHJ0TnFVYllJdWVLMFE5TDB3WmstMGRqVnhCOXRDMG90THN1TlZoazl3?oc=5\" target=\"_blank\">Samsung (KOSE:A005930) Faces US Import Ban Probe Over Memory Patent Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung facing US import ban probe over memory patent claims. This is a regulatory/legal development affecting a major DRAM fund holding, but the story reports an investigation or probe rather than a confirmed ban or concrete outcome. Regulatory uncertainty is material to Samsung's memory business but lacks the specificity of a final ruling or quantified impact."
+  },
+  "buffered_ts": 1784330557.8145616
+ },
+ {
+  "id": "b2fc6ed6fc2f03485ef53c55bcc9a093497a098d",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk Has Surged More Than 3,000% in the Last 12 Months. Could a Stock Split Be Coming? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQjNRVkxva0x4TUNjajg5NXREdHlFWlJDQmM1d0I2NkNoODFmWlM3YUY0OTdHQ0xKY085MzBQbW9GWUdMRW5WanA0T1dQZ2ZTZnlVal9ZT1JrQ1ZfcHdTVmd3a19aLUtYY1hCNGpWNktiLU5oTy1GdnJMRnJDcm1LNTNjUjF5Qk81eEFoU1BvYnNHQ0JCN3g2a0NDZjBReWpIRE80NzN3X0oyX2pKaHl4c2VJT3dqcEdTbUJTM01Udy1EWU1rY3JTTExNdUctWEJTNGVYa0d0Ty1POEE4d1FYOFZnM0F0NUN4QnFvRjJqbjNDZThTNS05eFZhV25EVHM?oc=5",
+  "published_at": "Fri, 17 Jul 2026 17:02:32 GMT",
+  "published_ts": 1784307752,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQjNRVkxva0x4TUNjajg5NXREdHlFWlJDQmM1d0I2NkNoODFmWlM3YUY0OTdHQ0xKY085MzBQbW9GWUdMRW5WanA0T1dQZ2ZTZnlVal9ZT1JrQ1ZfcHdTVmd3a19aLUtYY1hCNGpWNktiLU5oTy1GdnJMRnJDcm1LNTNjUjF5Qk81eEFoU1BvYnNHQ0JCN3g2a0NDZjBReWpIRE80NzN3X0oyX2pKaHl4c2VJT3dqcEdTbUJTM01Udy1EWU1rY3JTTExNdUctWEJTNGVYa0d0Ty1POEE4d1FYOFZnM0F0NUN4QnFvRjJqbjNDZThTNS05eFZhV25EVHM?oc=5\" target=\"_blank\">Sandisk Has Surged More Than 3,000% in the Last 12 Months. Could a Stock Split Be Coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (a DRAM ETF holding) has surged over 3,000% in 12 months; article speculates on a potential stock split. Stock appreciation alone, without new operational or market developments, is a minor mention relevant to the holding but not a material catalyst for the fund."
+  },
+  "buffered_ts": 1784330557.8145616
  }
 ]
