@@ -601,5 +601,53 @@
    "summary": "MSN reports that the Roundhill Memory ETF (DRAM) is testing technical support levels as chip stocks weaken. This is a price-movement piece with no stated fundamental catalyst or concrete development beyond a chart observation."
   },
   "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "5edb608737b72364ccc7d01e3148a814b4411ec8",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Stock Fair Value Rises On Tight Memory Supply Outlook - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHJiUHVxM24yMEtqTmV2bXZZcE12R3VmNkRlYVFTSjNSRFJic0Q2SXA0czRabXRSMVYzUEs4ekxkR1FNSGlUVEFnRWFlY0tfZjBwTExfTWlnNFNlNndSZUI5b0hXSFRGU3FDUWNqQW1oQ1A1UHNlMmpKSDM4ckxDaktLQ0M0cjBnM0R6U19Qa01jcWU4SWhB?oc=5",
+  "published_at": "Fri, 17 Jul 2026 18:12:20 GMT",
+  "published_ts": 1784311940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORHJiUHVxM24yMEtqTmV2bXZZcE12R3VmNkRlYVFTSjNSRFJic0Q2SXA0czRabXRSMVYzUEs4ekxkR1FNSGlUVEFnRWFlY0tfZjBwTExfTWlnNFNlNndSZUI5b0hXSFRGU3FDUWNqQW1oQ1A1UHNlMmpKSDM4ckxDaktLQ0M0cjBnM0R6U19Qa01jcWU4SWhB?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Stock Fair Value Rises On Tight Memory Supply Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst note on SK Hynix fair value rising due to tight memory supply outlook. This is an analyst opinion and valuation adjustment driven by a macro supply view, not a concrete event or confirmed hard number. While supply tightness is relevant to memory demand, the story itself reports sentiment and fair-value reasoning rather than a new material development or pricing confirmation."
+  },
+  "buffered_ts": 1784314921.446646
+ },
+ {
+  "id": "07fd27f9d10e48a9fa374ed11bdbd855d13265a4",
+  "source": "ETF.com",
+  "topic": "fund",
+  "title": "Investors Pour $25B Into Semiconductor ETFs as DRAM Plunges 40% - ETF.com",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3NMTXR0SVpvYURCRVM4bnRCZHh0TVlHNlFXZkg4SnlQRGlnQVJIeEFaSTJUcVk3M2JvdnNGbEtHY1I1TXl3QjI2eWhKTGJWMGgweGdhVWFDSHBDS0lVa01WWnVmSUlHTEVrbWdPcGlRTVFBbng2ZUp3dkxuV01SZ2xkd0JHdjYyZXNjaXNLd1pIanBzYUE?oc=5",
+  "published_at": "Fri, 17 Jul 2026 18:59:55 GMT",
+  "published_ts": 1784314795,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3NMTXR0SVpvYURCRVM4bnRCZHh0TVlHNlFXZkg4SnlQRGlnQVJIeEFaSTJUcVk3M2JvdnNGbEtHY1I1TXl3QjI2eWhKTGJWMGgweGdhVWFDSHBDS0lVa01WWnVmSUlHTEVrbWdPcGlRTVFBbng2ZUp3dkxuV01SZ2xkd0JHdjYyZXNjaXNLd1pIanBzYUE?oc=5\" target=\"_blank\">Investors Pour $25B Into Semiconductor ETFs as DRAM Plunges 40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ETF.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Broad-based $25B inflow into semiconductor ETFs amid a 40% DRAM price decline. Relevant to DRAM ETF fund flows and investor sentiment, but the story appears to focus on aggregate ETF trends and price moves rather than a concrete catalyst or hard new development specific to the fund or its holdings."
+  },
+  "buffered_ts": 1784314921.446646
  }
 ]
