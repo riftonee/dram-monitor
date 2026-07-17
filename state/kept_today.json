@@ -337,5 +337,269 @@
    "summary": "Benzinga article asking about SanDisk stock movement on a particular day. Without specific details on the catalyst or magnitude of movement, this appears to be a generic stock-price-movement piece that likely covers the stock in passing rather than reporting a concrete material development affecting the memory semiconductor sector."
   },
   "buffered_ts": 1784304743.96516
+ },
+ {
+  "id": "d6a0e9c6d27d3e2e4a357b4c01b4917a8d394cd3",
+  "source": "Seeking Alpha",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF attracts $10B in fresh capital amid 30% pullback - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3NMS2JhR2YyekdzSHFwd2lLX3F1WDY4TEVycVNJaFlDNUF0bmtHMmgyR0Nib3J1bHBVV1g5U0x1S2NFNTE3QVFVaGstTW9Cd3htWlZ0NTQ3S3A5eE9QUnpDRFN3NGctTFFFdEU2dy1GVmxTbl9fUEF1SE81SjZFTUFGQlR6Yzl1ZHNaVGFuT0EwQ1JSN0U0WGctZHV0RzVHb2RUR29GY3M?oc=5",
+  "published_at": "Fri, 17 Jul 2026 17:19:49 GMT",
+  "published_ts": 1784308789,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3NMS2JhR2YyekdzSHFwd2lLX3F1WDY4TEVycVNJaFlDNUF0bmtHMmgyR0Nib3J1bHBVV1g5U0x1S2NFNTE3QVFVaGstTW9Cd3htWlZ0NTQ3S3A5eE9QUnpDRFN3NGctTFFFdEU2dy1GVmxTbl9fUEF1SE81SjZFTUFGQlR6Yzl1ZHNaVGFuT0EwQ1JSN0U0WGctZHV0RzVHb2RUR29GY3M?oc=5\" target=\"_blank\">Roundhill Memory ETF attracts $10B in fresh capital amid 30% pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Roundhill Memory ETF (DRAM) attracted $10B in fresh capital during a 30% pullback, indicating significant investor inflow into the fund itself. This is a concrete, material development affecting fund flows and assets under management."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "2f98f9320b4e12036869d00bdd9e99d85711a53c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Stock Has Jumped Over 500% in 2026. It Can Still Become a Multibagger Thanks to This Massive News - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmZxcl9QLW9XV0RXSHk1ckhyWnVIc2c1OHVmME81Z0E2d05BeVlQSGVPX2dJQnFWbi16NmxQSUhSeXhQNURzWWZKTXpFQlZUeDJOaVIxaTcwcXpuSXh5UXlKcGFURm9zNFN3SzhBT3ItdjJaUmxGUmNUVWN6UExjTnNNc1VwVmM4QldUZ0RRQUtuMlIwaWMyZHNn?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:33:00 GMT",
+  "published_ts": 1784295180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmZxcl9QLW9XV0RXSHk1ckhyWnVIc2c1OHVmME81Z0E2d05BeVlQSGVPX2dJQnFWbi16NmxQSUhSeXhQNURzWWZKTXpFQlZUeDJOaVIxaTcwcXpuSXh5UXlKcGFURm9zNFN3SzhBT3ItdjJaUmxGUmNUVWN6UExjTnNNc1VwVmM4QldUZ0RRQUtuMlIwaWMyZHNn?oc=5\" target=\"_blank\">Sandisk Stock Has Jumped Over 500% in 2026. It Can Still Become a Multibagger Thanks to This Massive News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, has surged over 500% in 2026. The headline alludes to unspecified 'massive news' that could drive further gains, but without details on what that news is—whether it's a concrete business development, production capacity announcement, or pricing shift—this reads as speculative commentary on past price action and future possibility rather than reporting a confirmed event. Stock movement alone without a distinct catalyst disclosed here scores as soft analysis."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "063b2ff0b2b3ddf7abbf8f39d88a73b18a8ed862",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "Target Price for Kioxia Raised Against Market Trend! Nomura: NAND Flash Prices Will Continue to Rise - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RU5BQ3JDV0M3c0o1MExYcWxoRFZRMDd2WnVTdFo4bE1obzdtMGgyN3VYSEJpRkgzbFRrRVFReFVLZm5rRDZMcUN2WjMzVTl3eEhfcTAxazZ0MzZVQXdsTWhKWdIBY0FVX3lxTE14RU5BQ3JDV0M3c0o1MExYcWxoRFZRMDd2WnVTdFo4bE1obzdtMGgyN3VYSEJpRkgzbFRrRVFReFVLZm5rRDZMcUN2WjMzVTl3eEhfcTAxazZ0MzZVQXdsTWhKWQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 04:59:54 GMT",
+  "published_ts": 1784264394,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RU5BQ3JDV0M3c0o1MExYcWxoRFZRMDd2WnVTdFo4bE1obzdtMGgyN3VYSEJpRkgzbFRrRVFReFVLZm5rRDZMcUN2WjMzVTl3eEhfcTAxazZ0MzZVQXdsTWhKWdIBY0FVX3lxTE14RU5BQ3JDV0M3c0o1MExYcWxoRFZRMDd2WnVTdFo4bE1obzdtMGgyN3VYSEJpRkgzbFRrRVFReFVLZm5rRDZMcUN2WjMzVTl3eEhfcTAxazZ0MzZVQXdsTWhKWQ?oc=5\" target=\"_blank\">Target Price for Kioxia Raised Against Market Trend! Nomura: NAND Flash Prices Will Continue to Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Nomura analyst raises Kioxia target price and forecasts continued NAND flash price increases. While relevant to memory pricing trends that affect fund holdings like SanDisk and WD, this is analyst opinion and forecast rather than a concrete market event or confirmed pricing data."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "fc6e89925b96a26d5e63f6d7c4f2d92c087c1ff6",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjByNFRNcVlNcjZ0bzhRcUZ5UlluY1V6dmRIYm1qbnpxOTZxN3pOMlVLUzUyUnRBY1RnSU0yRkFGZGExeFlEY01HOEJPcENPTXIwcWdFVUlTaWRUUFVaSmw4aFYxMkVCYU9vVkZQcVRVN2NyN3BlMTFHbUZmMWMzTEJic0RnRzFXSXZiUEVWUFZlWV8zanNTMmROSWdhN05YSmg0bUtHNm82Q0xzSUV0NUt5NnhHZnBlVEpITFRmVnJkUDFWRmY1aA?oc=5",
+  "published_at": "Fri, 17 Jul 2026 16:51:50 GMT",
+  "published_ts": 1784307110,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjByNFRNcVlNcjZ0bzhRcUZ5UlluY1V6dmRIYm1qbnpxOTZxN3pOMlVLUzUyUnRBY1RnSU0yRkFGZGExeFlEY01HOEJPcENPTXIwcWdFVUlTaWRUUFVaSmw4aFYxMkVCYU9vVkZQcVRVN2NyN3BlMTFHbUZmMWMzTEJic0RnRzFXSXZiUEVWUFZlWV8zanNTMmROSWdhN05YSmg0bUtHNm82Q0xzSUV0NUt5NnhHZnBlVEpITFRmVnJkUDFWRmY1aA?oc=5\" target=\"_blank\">SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rose 8% on bargain-hunting and HSBC analyst reaffirmation as a top pick. The price move reflects market sentiment and analyst support rather than new concrete business developments or earnings surprises."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "537314d6b784e5abe454602e49c5b2ccf6cb7377",
+  "source": "International Business Times",
+  "topic": "holding",
+  "title": "Why South Korea Just Banned New Leveraged ETFs for Samsung and SK Hynix - International Business Times",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3kxVXJVMDl2VFFxeUY4aWRFUFdhRVYxb2tQeXNvOGdUeEFzNEJHM0U0SUlJLU5HR0JranEzaVVZMTNpQXl3ZFZkRm5uZTVqV0xoVE5SUXhvYUZILUVMOUNYNmlsY1pac2tEdXdQdWlsUGgzSlA5YVpYNXhuTUlyc2t3ZUNzRHdmRmhHZHF6NE93U2twQWcxcHZTbw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 16:24:14 GMT",
+  "published_ts": 1784305454,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3kxVXJVMDl2VFFxeUY4aWRFUFdhRVYxb2tQeXNvOGdUeEFzNEJHM0U0SUlJLU5HR0JranEzaVVZMTNpQXl3ZFZkRm5uZTVqV0xoVE5SUXhvYUZILUVMOUNYNmlsY1pac2tEdXdQdWlsUGgzSlA5YVpYNXhuTUlyc2t3ZUNzRHdmRmhHZHF6NE93U2twQWcxcHZTbw?oc=5\" target=\"_blank\">Why South Korea Just Banned New Leveraged ETFs for Samsung and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "International Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korea has banned new leveraged ETFs for Samsung and SK Hynix. This is a regulatory development affecting two major DRAM ETF holdings but does not directly alter the fundamental operations, capacity, pricing, or financial outlook of these memory companies—more a constraint on derivative trading access in that market."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "9c2d1778917003d5c3ae9d9865d31ec1a1c676e1",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "[News] Intel’s Abandoned German Fab Site: Could Memory Startup FMC Be the Next Contender? - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0hHdDN0V0huYWd0SXI4ejdTVUhINGdlRVp0aEtRVXhud2dkQVIxaVhmX1JYOE5hQ2I4RUpBbUhVVng5dW52d2dsN0FjMjhyWkJPX0NtN1gyVXFONVI3WmdvaEUzdW1Fb1pNNENaV1FVTm9nMGxLUE5pb1BydFpkaHF6M3FmUHRRSmc4THI5eG1WVnZRZGdtNXpQYVEycWJEaXZaRU1RNU8wZUthbDY1eC1WOFMxb2MyNHgtbHU5clB0OE90R3ZJ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 23:40:41 GMT",
+  "published_ts": 1784245241,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0hHdDN0V0huYWd0SXI4ejdTVUhINGdlRVp0aEtRVXhud2dkQVIxaVhmX1JYOE5hQ2I4RUpBbUhVVng5dW52d2dsN0FjMjhyWkJPX0NtN1gyVXFONVI3WmdvaEUzdW1Fb1pNNENaV1FVTm9nMGxLUE5pb1BydFpkaHF6M3FmUHRRSmc4THI5eG1WVnZRZGdtNXpQYVEycWJEaXZaRU1RNU8wZUthbDY1eC1WOFMxb2MyNHgtbHU5clB0OE90R3ZJ?oc=5\" target=\"_blank\">[News] Intel’s Abandoned German Fab Site: Could Memory Startup FMC Be the Next Contender?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "TrendForce speculates on potential reuse of Intel's abandoned German fab site by memory startup FMC. While fab capacity and new entrants are relevant to the memory cycle, this is speculative discussion of a possibility rather than a confirmed development or signed deal. No concrete commitment or official announcement from FMC or Intel is reported."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "378c908e608e266ed9fc7e409721b8a7250b577d",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: I'm Selling After A Great Run - Market Share Is The Red Flag (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkFlYm14Q0xnbGQ2bHZzSHlJY0t6QjdQQkZDYkxCTVZVd2pTYVdOTDZYLXRIb3JmWm52WWdQamMxRDEyaUVJaktnN0hvNGJBZ1gwcVBCbEtkTGdNSDAydXo0X2J2MGV3d2NyZlBDSXBVV1M2WVAtR3BzU3lqcFJRdjh3THpBUUpscVhkSUhERDBscVpjZzNrOVdsYUdoYTc5SG1HbTBjQWVycWc?oc=5",
+  "published_at": "Fri, 17 Jul 2026 16:34:40 GMT",
+  "published_ts": 1784306080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkFlYm14Q0xnbGQ2bHZzSHlJY0t6QjdQQkZDYkxCTVZVd2pTYVdOTDZYLXRIb3JmWm52WWdQamMxRDEyaUVJaktnN0hvNGJBZ1gwcVBCbEtkTGdNSDAydXo0X2J2MGV3d2NyZlBDSXBVV1M2WVAtR3BzU3lqcFJRdjh3THpBUUpscVhkSUhERDBscVpjZzNrOVdsYUdoYTc5SG1HbTBjQWVycWc?oc=5\" target=\"_blank\">SK Hynix: I'm Selling After A Great Run - Market Share Is The Red Flag (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst argues for selling SK Hynix after recent gains, citing market share concerns as a red flag. This is opinion-based analysis rather than a concrete development, making it soft commentary on a fund holding."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "127635d928b3fc90d8324ceb9c6d93915eb7796d",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "Broadcom AVGO Draws Scrutiny As Netlist Targets Samsung Memory - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TUxWUGtuZFdSRkRJalNiN0o5X1hOQUE5MkVadWFKMk9mQ2lSaEhLRlk2ekctTWlwbFFuSlgyVEU4aXJ4YzdXUHVzWlI4Sm5SZHdWU21iQlhqRndVYXZmMmlBcFI0RFpzZWdtRnotUDM2S1lrMnZV?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:18:00 GMT",
+  "published_ts": 1784294280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TUxWUGtuZFdSRkRJalNiN0o5X1hOQUE5MkVadWFKMk9mQ2lSaEhLRlk2ekctTWlwbFFuSlgyVEU4aXJ4YzdXUHVzWlI4Sm5SZHdWU21iQlhqRndVYXZmMmlBcFI0RFpzZWdtRnotUDM2S1lrMnZV?oc=5\" target=\"_blank\">Broadcom AVGO Draws Scrutiny As Netlist Targets Samsung Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "timothysykes.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Netlist is reportedly targeting Samsung's memory business, with Broadcom drawing scrutiny in the process. Samsung is a key holding in DRAM; however, this appears to be discussion/pursuit rather than a confirmed deal or concrete development, making it soft news about potential competitive or strategic dynamics."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "813bde2b68aacc431b502a6f216a0a98b52379e0",
+  "source": "24/7 Wall St.",
+  "topic": "pricing",
+  "title": "Micron Technology: Record DRAM Pricing Meets A Stock In Retreat - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDVmdVJVbG5RYWJGTmFFbF9QVlcwMFVJSVJyZ3BGcHQwcElHYXZycDV3S0xnbGRyVkZMQWwyWFRSNGhiTVBxMTZvd0ppNGNXbVNwUnU2R3dDN2lPZlAyMmhIZHRWd2ZwM0FVa3BiYjR5XzVmT3dWTzI2R0o5MHlYNVZxQXZISnU5ZmNEcThjQmVyTmZ0cEpfQkk3TDJhVnR4OXJFV3oxNUlTWFNvRkE?oc=5",
+  "published_at": "Fri, 17 Jul 2026 14:44:41 GMT",
+  "published_ts": 1784299481,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONDVmdVJVbG5RYWJGTmFFbF9QVlcwMFVJSVJyZ3BGcHQwcElHYXZycDV3S0xnbGRyVkZMQWwyWFRSNGhiTVBxMTZvd0ppNGNXbVNwUnU2R3dDN2lPZlAyMmhIZHRWd2ZwM0FVa3BiYjR5XzVmT3dWTzI2R0o5MHlYNVZxQXZISnU5ZmNEcThjQmVyTmZ0cEpfQkk3TDJhVnR4OXJFV3oxNUlTWFNvRkE?oc=5\" target=\"_blank\">Micron Technology: Record DRAM Pricing Meets A Stock In Retreat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Micron and record DRAM pricing reported, but stock retreating—analysis piece on the disconnect between pricing strength and equity performance, lacking a new concrete catalyst beyond market reaction to known conditions."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "323f7a8a98ed36e0ba799a33c745e6f4b40c7fa7",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Seagate Soars As Investors Pounce On AI Storage Rebound - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREdhUW5zRFBwY1lCMVJUeE9iTFo4UnpQZDVYX0VwUWFmYzc0cGhZSlNicm9sVUhDTmtGLTFVUEVsSHlId21ONEI3UktFcVpEU3hpYTV1aDl4cV84QWpvNy0zaEJzZ3ozMmZmVTA0eER5TjJrZ3dyanJMUkpIdnlTYzcyeTJZdnpocmZ5bkRpS2NRajd5TGFBa0Zn?oc=5",
+  "published_at": "Fri, 17 Jul 2026 17:06:55 GMT",
+  "published_ts": 1784308015,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNREdhUW5zRFBwY1lCMVJUeE9iTFo4UnpQZDVYX0VwUWFmYzc0cGhZSlNicm9sVUhDTmtGLTFVUEVsSHlId21ONEI3UktFcVpEU3hpYTV1aDl4cV84QWpvNy0zaEJzZ3ozMmZmVTA0eER5TjJrZ3dyanJMUkpIdnlTYzcyeTJZdnpocmZ5bkRpS2NRajd5TGFBa0Zn?oc=5\" target=\"_blank\">Seagate Soars As Investors Pounce On AI Storage Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a fund holding, experienced a stock price surge attributed to investor optimism about AI-driven storage demand recovery. The story reports market reaction and investor sentiment rather than a concrete operational event, earnings release, or specific capacity/demand announcement."
+  },
+  "buffered_ts": 1784309827.5608835
+ },
+ {
+  "id": "4469447af248cdce0a028120d20da731c9cdace4",
+  "source": "MSN",
+  "topic": "fund",
+  "title": "Roundhill Memory ETF tests key technical support as chip stocks weaken - MSN",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalYxR0FCZ3U1LTZCMGtKdlZtcjJ3Y25lV0pwb19hc0t1a2JHREJOQ0hoS1ViRkVqTlpFVHA2bVFzeE0xNzItSWxiaGJsdnE4blZ0TVZ4SWx1LUdvblNGZElFR1pLakFwU2pocVhsbi01RldxSTVGbUtZYXBOTmJpZk11S3gxcWlSMnZST2QxYjdtbUxOVTFNSmFzMlZtQmNVajhmNUdiQ0RmVl94TDQwaHd4dmlBT3M0Ml9ManNhUElkZw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 15:05:32 GMT",
+  "published_ts": 1784300732,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalYxR0FCZ3U1LTZCMGtKdlZtcjJ3Y25lV0pwb19hc0t1a2JHREJOQ0hoS1ViRkVqTlpFVHA2bVFzeE0xNzItSWxiaGJsdnE4blZ0TVZ4SWx1LUdvblNGZElFR1pLakFwU2pocVhsbi01RldxSTVGbUtZYXBOTmJpZk11S3gxcWlSMnZST2QxYjdtbUxOVTFNSmFzMlZtQmNVajhmNUdiQ0RmVl94TDQwaHd4dmlBT3M0Ml9ManNhUElkZw?oc=5\" target=\"_blank\">Roundhill Memory ETF tests key technical support as chip stocks weaken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "MSN reports that the Roundhill Memory ETF (DRAM) is testing technical support levels as chip stocks weaken. This is a price-movement piece with no stated fundamental catalyst or concrete development beyond a chart observation."
+  },
+  "buffered_ts": 1784309827.5608835
  }
 ]
