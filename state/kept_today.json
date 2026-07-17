@@ -1809,5 +1809,197 @@
    "summary": "SanDisk stock rose 857% in H1 2026 attributed to AI memory demand. This is a large price move, but the story is a retrospective price-performance piece driven by the AI memory boom already priced in; no new concrete catalyst or earnings surprise is stated as the trigger."
   },
   "buffered_ts": 1784246139.3805013
+ },
+ {
+  "id": "6acc4ba7af6ece7113128f015e8a48ab5cd6e8cd",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix ADR Plunges 21% Amid Semiconductor Peak-Out Fears - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXRVX2xqRlhOc2NPZXdjUFFJblozM2tGMjItYVkxRldLSlY4RHFhYUVxd1ZzUC1GNThWa3l2TEs5dmUyREpXSGkxeDdJTG1UOTZPckpUM2xsc1lBd0pmRkZjbGZkUjg1MmFpRnJzS0RpRkw4NEtBU0RBTE5MbVFDMUJCTGNMcGF4WDNJQ253?oc=5",
+  "published_at": "Fri, 17 Jul 2026 00:25:34 GMT",
+  "published_ts": 1784247934,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXRVX2xqRlhOc2NPZXdjUFFJblozM2tGMjItYVkxRldLSlY4RHFhYUVxd1ZzUC1GNThWa3l2TEs5dmUyREpXSGkxeDdJTG1UOTZPckpUM2xsc1lBd0pmRkZjbGZkUjg1MmFpRnJzS0RpRkw4NEtBU0RBTE5MbVFDMUJCTGNMcGF4WDNJQ253?oc=5\" target=\"_blank\">SK Hynix ADR Plunges 21% Amid Semiconductor Peak-Out Fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix ADR declined 21%, a sizable confirmed stock move for a core DRAM ETF holding. The magnitude and specificity of the price action constitutes a concrete market event, though the underlying catalyst (semiconductor peak-out fears) appears to be sentiment-driven rather than a new announced event or guidance change."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "a5dc41950f7626fdacaa6cd7980a399fde026776",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix ADR trades at a 51% premium, driving global capital into South Korean ETFs - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBOMEZFWEo3aWR6b1RMeFhkd25abmZBN0FBYVFCVi1ZSktYX3Q4ODVtZnQtNXQwSFVNbnJIY192eTd2U3Z5d2o4N09qM1IzeGxRYlVSb1pVZndweVdNWm9mYkQ2M2JXSGZzeWEwVW9pZ1RWYkY2YnkzbVVMZVFOMEVrbnJONDBITEc3MnpLZ1lzSUVSZkFn?oc=5",
+  "published_at": "Fri, 17 Jul 2026 00:23:23 GMT",
+  "published_ts": 1784247803,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBOMEZFWEo3aWR6b1RMeFhkd25abmZBN0FBYVFCVi1ZSktYX3Q4ODVtZnQtNXQwSFVNbnJIY192eTd2U3Z5d2o4N09qM1IzeGxRYlVSb1pVZndweVdNWm9mYkQ2M2JXSGZzeWEwVW9pZ1RWYkY2YnkzbVVMZVFOMEVrbnJONDBITEc3MnpLZ1lzSUVSZkFn?oc=5\" target=\"_blank\">SK Hynix ADR trades at a 51% premium, driving global capital into South Korean ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a 51% premium to underlying shares, attracting capital flows into South Korean ETFs. This reflects market pricing dynamics and capital allocation patterns but does not represent new concrete information about SK Hynix's operations, memory pricing, production capacity, or demand fundamentals."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "915b2385a219d993fb48c315b3cdb85259516aec",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "South Korea ETF sees record $281M inflow as investors pile into SK Hynix - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MWkE2MFFJUVQ4NllLTmRFSm90X3ZqZlMxWXlSdWNIMzZUaU94R0o4eFdBTGtCc01BRXFjWEtZVUwxU2IzRk11S1RLdVJQU0xoMzhfSkY1b3BoY0FrRDJ4ZjgtVG8wWEthV0pYTXAxbXpVa1Rl?oc=5",
+  "published_at": "Fri, 17 Jul 2026 00:06:06 GMT",
+  "published_ts": 1784246766,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1MWkE2MFFJUVQ4NllLTmRFSm90X3ZqZlMxWXlSdWNIMzZUaU94R0o4eFdBTGtCc01BRXFjWEtZVUwxU2IzRk11S1RLdVJQU0xoMzhfSkY1b3BoY0FrRDJ4ZjgtVG8wWEthV0pYTXAxbXpVa1Rl?oc=5\" target=\"_blank\">South Korea ETF sees record $281M inflow as investors pile into SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korea ETF experienced record $281M inflow with investors buying SK Hynix. This indicates strong investor sentiment toward the holding but represents a capital flow event rather than a concrete material development affecting the memory business itself (e.g., no new capacity, pricing, or earnings announcement). The inflow is noteworthy but soft evidence of demand."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "bb1c3934b7c9166b49a3548c6e6405ad7509eeee",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "South Korean bill could let SK Hynix bring in outside investors for new fabs - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYU5lMDdyWHphZDBXdkdDa09qb2ZJcjY0ZktZb0llejFVaF9aY1NHbEJqNlpnWGhkcjRwUlNKU2g0bldjTktLdnVUWVdUQmY3Rnk2OU14cEtVXzlBUUxPeVE0WVF4NUd1SE1BRExUbVF4Vng2c3phYUZwN1ZtSk9GSnZ6Y2NJcUduZ3NvS056RF9UbnFVNEhpZVdnWHk?oc=5",
+  "published_at": "Fri, 17 Jul 2026 00:01:55 GMT",
+  "published_ts": 1784246515,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYU5lMDdyWHphZDBXdkdDa09qb2ZJcjY0ZktZb0llejFVaF9aY1NHbEJqNlpnWGhkcjRwUlNKU2g0bldjTktLdnVUWVdUQmY3Rnk2OU14cEtVXzlBUUxPeVE0WVF4NUd1SE1BRExUbVF4Vng2c3phYUZwN1ZtSk9GSnZ6Y2NJcUduZ3NvS056RF9UbnFVNEhpZVdnWHk?oc=5\" target=\"_blank\">South Korean bill could let SK Hynix bring in outside investors for new fabs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean legislation under consideration could allow SK Hynix to attract outside investors for new fab construction. This is a potential development that could facilitate SK Hynix's capacity expansion, but it remains a possibility dependent on bill passage rather than a confirmed event."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "2bd7d33fad67e446ed7c5b618819ac5067b7fcc1",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings plc (STX) Returned 100% on Strong Execution - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2JZWTlMdGkyYnZDN0pQamZCeFNTU19kMFBtT241M2pJR3NrNzFGODEyR2tidnA1bk5OSnZuS2w1WTJGcFNxeDBvRjRBZGNnUjZfMmk0YmkzbkE3b3hzOFZTLWtmWWcwM2xiRnBIaE5pOUtwdGFRcmU3U1hkSUVBc1JlYlJxWjR4a2llbHBxU1FTQ0xuR0llSlJ0LUlCZHczOUE?oc=5",
+  "published_at": "Thu, 16 Jul 2026 14:16:57 GMT",
+  "published_ts": 1784211417,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2JZWTlMdGkyYnZDN0pQamZCeFNTU19kMFBtT241M2pJR3NrNzFGODEyR2tidnA1bk5OSnZuS2w1WTJGcFNxeDBvRjRBZGNnUjZfMmk0YmkzbkE3b3hzOFZTLWtmWWcwM2xiRnBIaE5pOUtwdGFRcmU3U1hkSUVBc1JlYlJxWjR4a2llbHBxU1FTQ0xuR0llSlJ0LUlCZHczOUE?oc=5\" target=\"_blank\">Seagate Technology Holdings plc (STX) Returned 100% on Strong Execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance article highlighting Seagate (STX) stock's 100% return attributed to strong execution. This is a post-hoc analysis of stock performance rather than reporting new concrete developments; the underlying earnings or announcements driving the move have already been released and priced in. Stock performance commentary without a distinct new catalyst is rated as soft/analytical coverage."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "3d4807ad1d9138bd881a47152fc312505805b2c6",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix Gamma Exposure Turns Bearish Even as $56M Call Block Bets on Rebound | Options Market Statistics - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnNtakw3czF0aXFGSEdsX2wzVU5TdnRNbTNrWWxzd2hXR01rNmFLd2ZfdzNGcnE3M1JHYk9ubV9xTEg0aWNESmNCYnFXc1pZaUFGdnJHUDBOWWFpbXdORVNUU2VaaG01bHFHNVJJZXppeEx0SnZDUGpfclNaRGpwbG5nR3d4UUpDTXJaWThCdnFEbHhUMTRYckRJd0lzaXBydFNjTWFMQkFOaVln?oc=5",
+  "published_at": "Fri, 17 Jul 2026 02:06:03 GMT",
+  "published_ts": 1784253963,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnNtakw3czF0aXFGSEdsX2wzVU5TdnRNbTNrWWxzd2hXR01rNmFLd2ZfdzNGcnE3M1JHYk9ubV9xTEg0aWNESmNCYnFXc1pZaUFGdnJHUDBOWWFpbXdORVNUU2VaaG01bHFHNVJJZXppeEx0SnZDUGpfclNaRGpwbG5nR3d4UUpDTXJaWThCdnFEbHhUMTRYckRJd0lzaXBydFNjTWFMQkFOaVln?oc=5\" target=\"_blank\">SK Hynix Gamma Exposure Turns Bearish Even as $56M Call Block Bets on Rebound | Options Market Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Options market activity in SK Hynix showing mixed signals: gamma exposure turning bearish while some traders bet on a rebound via call blocks; minor technical/sentiment indicator with no concrete event or earnings catalyst."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "bb9f61c4a4a7cc6750d0f72a538413d97ec2f822",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Chey Tae-won Urges Long-Term Hold of SK Hynix Stock Amid AI Growth - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQellWcmpSNkNjbndMOS1uYUVlQTBzMkpFVUlzcEszSUhMNXo0Y2dNejlFTGdYaGFvSmJwaVkxdW9VX3hBb2llX3ByR1MxYVdYd2hiMzhRbGhKQUIzOXNhc2pzd2VXdEJ1Z2pHS0cwMFhWNWxuSlREb1NVQS1NQWk0ZEkzSmtMNUFt?oc=5",
+  "published_at": "Fri, 17 Jul 2026 02:09:58 GMT",
+  "published_ts": 1784254198,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQellWcmpSNkNjbndMOS1uYUVlQTBzMkpFVUlzcEszSUhMNXo0Y2dNejlFTGdYaGFvSmJwaVkxdW9VX3hBb2llX3ByR1MxYVdYd2hiMzhRbGhKQUIzOXNhc2pzd2VXdEJ1Z2pHS0cwMFhWNWxuSlREb1NVQS1NQWk0ZEkzSmtMNUFt?oc=5\" target=\"_blank\">Chey Tae-won Urges Long-Term Hold of SK Hynix Stock Amid AI Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix chairman Chey Tae-won recommends long-term holding of SK Hynix stock citing AI growth tailwinds. This is executive commentary and opinion rather than a concrete business development or material event."
+  },
+  "buffered_ts": 1784255013.320495
+ },
+ {
+  "id": "5ba64ff5e4d746b2674517092cd9465bce150cd2",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Argus Initiates Sandisk Corporation at Hold - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xHbU9SS21sYnlIZDhPTGdDLXlfdXJ1UEc1YnNDOURYM0pQckVrM0RPRjBIeFJMbDVNUFZvZnhsUFpJRUlaRFFzNkRzX3RLZnNxQ0FHVjlwLS16dF80bEl2OS1WdmFhSjY2UlZmNTg4UC1hSnlpaVQ3V0lhMHJJU3VkSVdub0p1RE8yNlF3?oc=5",
+  "published_at": "Wed, 15 Jul 2026 12:41:31 GMT",
+  "published_ts": 1784119291,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xHbU9SS21sYnlIZDhPTGdDLXlfdXJ1UEc1YnNDOURYM0pQckVrM0RPRjBIeFJMbDVNUFZvZnhsUFpJRUlaRFFzNkRzX3RLZnNxQ0FHVjlwLS16dF80bEl2OS1WdmFhSjY2UlZmNTg4UC1hSnlpaVQ3V0lhMHJJU3VkSVdub0p1RE8yNlF3?oc=5\" target=\"_blank\">Argus Initiates Sandisk Corporation at Hold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Argus Research initiates coverage of SanDisk (a DRAM ETF holding) with a Hold rating. Analyst initiation with no new concrete information about the company's business or memory segment—a routine coverage event with minimal market impact."
+  },
+  "buffered_ts": 1784255013.320495
  }
 ]
