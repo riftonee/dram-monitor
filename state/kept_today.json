@@ -2700,5 +2700,149 @@
    "summary": "Story reports strong AI-driven memory demand as a market theme, but describes investor sentiment and caution rather than concrete new developments, pricing data, or supply/capacity announcements. Relevant to the memory cycle but lacks the specific event or hard number needed for higher impact."
   },
   "buffered_ts": 1784282036.229712
+ },
+ {
+  "id": "aad6cfdedfef0084617293d1dce9e2a2a49f7a35",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "Target Price for Kioxia Raised Against Market Trend! Nomura: NAND Flash Prices Will Continue to Rise - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdlVvYlJVdUhPOFRHWjhjdFlMS0puY0lWYXdkck9oVVhMVWpJcnZ0Zmlaa2tHZ04yd25YQ3VYU0k2WnRRV2VSemExbkdvVUphenoyU3VoRnNPbGdfZjVBVVJMY3pnZ2_SAWdBVV95cUxQTHZVb2JSVXVITzhUR1o4Y3RZTEtKbmNJVmF3ZHJPaFVYTFVqSXJ2dGZpWmtrR2dOMnduWEN1WFNJNlp0UVdlUnphMW5Hb1VKYXp6MlN1aEZzT2xnX2Y1QVVSTGN6Z2dv?oc=5",
+  "published_at": "Fri, 17 Jul 2026 03:46:29 GMT",
+  "published_ts": 1784259989,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdlVvYlJVdUhPOFRHWjhjdFlMS0puY0lWYXdkck9oVVhMVWpJcnZ0Zmlaa2tHZ04yd25YQ3VYU0k2WnRRV2VSemExbkdvVUphenoyU3VoRnNPbGdfZjVBVVJMY3pnZ2_SAWdBVV95cUxQTHZVb2JSVXVITzhUR1o4Y3RZTEtKbmNJVmF3ZHJPaFVYTFVqSXJ2dGZpWmtrR2dOMnduWEN1WFNJNlp0UVdlUnphMW5Hb1VKYXp6MlN1aEZzT2xnX2Y1QVVSTGN6Z2dv?oc=5\" target=\"_blank\">Target Price for Kioxia Raised Against Market Trend! Nomura: NAND Flash Prices Will Continue to Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Nomura raises target price for Kioxia and forecasts continued NAND flash price increases. Analyst opinion on pricing trends relevant to memory cycle, but lacks concrete pricing data or confirmed transactions."
+  },
+  "buffered_ts": 1784287156.556126
+ },
+ {
+  "id": "d828fd36a327ab14db0660a3f7ef39c0439bae94",
+  "source": "Money Morning",
+  "topic": "holding",
+  "title": "Chip Stocks Got Wrecked Again. SK Hynix ADRs Plunged More Than 13%. - Money Morning",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnpHcE9lbFVEaXNVQVRkR0R6eFA4b3hwOFZkdFhEeWZEZmNvVURrbmRHRHFmSmtzWDRYdWJzb0M0djVXWXlCbEI4VzhwNjRYOXNBT3ExT1F5X05ueHZxN282THNFWUI3NHlQUi1lcVN6VnRxUjZ0SzlvbHd3RzNkRzA3NkU3NVl5ZExqTy1kTm5jam1OTlE?oc=5",
+  "published_at": "Fri, 17 Jul 2026 10:23:17 GMT",
+  "published_ts": 1784283797,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnpHcE9lbFVEaXNVQVRkR0R6eFA4b3hwOFZkdFhEeWZEZmNvVURrbmRHRHFmSmtzWDRYdWJzb0M0djVXWXlCbEI4VzhwNjRYOXNBT3ExT1F5X05ueHZxN282THNFWUI3NHlQUi1lcVN6VnRxUjZ0SzlvbHd3RzNkRzA3NkU3NVl5ZExqTy1kTm5jam1OTlE?oc=5\" target=\"_blank\">Chip Stocks Got Wrecked Again. SK Hynix ADRs Plunged More Than 13%.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Money Morning</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Money Morning"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADRs fell sharply (13%+ decline), a material price move for a core DRAM holding, but the snippet provides no stated catalyst distinct from market conditions or prior earnings—suggesting the move is a reaction to known information rather than new concrete news."
+  },
+  "buffered_ts": 1784287156.556126
+ },
+ {
+  "id": "401cb9738baddeff552c435bcc5025f385f7d750",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "AI boom drives record memory demand but sparks investor caution - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbHJrX3hwTXRiY3BaR19uZ1VBS0NMSU5tLWVmYjdlTWY0NHlHdV96YllNMjdQVFc1SmFoUzhwdG04end2WmxRRmdFbVNmMEJSTHpJQ2dpQlRNWjlBbDhuREE3T3pvaVhkNEl4MWEyWkIxSXVYVDIzWmVPTnc1bU9pVzRwYm5sWGI2RzR2dzdIODNha0NVSDRIbHUzQ3FtZXRhSkRNek5vMHdFbHJNeHFHbXVvdlNkaGtENmx3dTgzcGlxSFc2cTdVeGZwWE96b3pfVEk0YzJIT1hnM09pSG1NTWhWRzNsS3ZW?oc=5",
+  "published_at": "Fri, 17 Jul 2026 08:30:34 GMT",
+  "published_ts": 1784277034,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbHJrX3hwTXRiY3BaR19uZ1VBS0NMSU5tLWVmYjdlTWY0NHlHdV96YllNMjdQVFc1SmFoUzhwdG04end2WmxRRmdFbVNmMEJSTHpJQ2dpQlRNWjlBbDhuREE3T3pvaVhkNEl4MWEyWkIxSXVYVDIzWmVPTnc1bU9pVzRwYm5sWGI2RzR2dzdIODNha0NVSDRIbHUzQ3FtZXRhSkRNek5vMHdFbHJNeHFHbXVvdlNkaGtENmx3dTgzcGlxSFc2cTdVeGZwWE96b3pfVEk0YzJIT1hnM09pSG1NTWhWRzNsS3ZW?oc=5\" target=\"_blank\">AI boom drives record memory demand but sparks investor caution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "AI boom is driving record memory demand, but the story frames this as sparking investor caution rather than reporting a concrete event, material guidance change, or pricing move. This is forward-looking commentary and sentiment analysis rather than a confirmed development or hard number that hasn't already been priced in by the market."
+  },
+  "buffered_ts": 1784287156.556126
+ },
+ {
+  "id": "4bc845faef91a53f550e63b49d977d1d3192b9e6",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "The Week In Numbers: SK Hynix shares plunge, mass Volkswagen layoff fears - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlc3TU1MaG1lTWMwbkFnU1ZGMVZqcmpGbG8wNk9iOUxPQ2dtNVVCZGFCOW5PdTRUZGVxTkZrbWVGMDgzTTMtU2Z4WGF1QU53dEl3Z2ZtTHJlWXkxVnRPRHBqZmZ1ODJBNkdlbjhpc0dVc2tGYjQ4Rnh3b2ZKUzlBN3lzSFE?oc=5",
+  "published_at": "Fri, 17 Jul 2026 10:21:35 GMT",
+  "published_ts": 1784283695,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlc3TU1MaG1lTWMwbkFnU1ZGMVZqcmpGbG8wNk9iOUxPQ2dtNVVCZGFCOW5PdTRUZGVxTkZrbWVGMDgzTTMtU2Z4WGF1QU53dEl3Z2ZtTHJlWXkxVnRPRHBqZmZ1ODJBNkdlbjhpc0dVc2tGYjQ4Rnh3b2ZKUzlBN3lzSFE?oc=5\" target=\"_blank\">The Week In Numbers: SK Hynix shares plunge, mass Volkswagen layoff fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix shares declined during the week. Story is a market roundup mentioning the stock move without a stated catalyst or new information about the company's fundamentals, capacity, or memory pricing."
+  },
+  "buffered_ts": 1784287156.556126
+ },
+ {
+  "id": "307429c38d281d2d69c9705418d4070585955905",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zaUN5dFJLbVZfak9zX0lLOGdEVFJvWHRWQWxOSGxuOXZ2Wlo5T1QtZHJiSjhJRUltMXhONFVoQmp5WENvQUQtaHp5cTI3dHFUX2x6U3dXNWJCSnpuNjdlNE1oaXc4ZzQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 10:37:54 GMT",
+  "published_ts": 1784284674,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zaUN5dFJLbVZfak9zX0lLOGdEVFJvWHRWQWxOSGxuOXZ2Wlo5T1QtZHJiSjhJRUltMXhONFVoQmp5WENvQUQtaHp5cTI3dHFUX2x6U3dXNWJCSnpuNjdlNE1oaXc4ZzQ?oc=5\" target=\"_blank\">AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Reuters"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix shares experienced volatility in AI-focused weekly coverage; Apple's OpenAI lawsuit mentioned but not directly material to memory semiconductor fundamentals. The share movement lacks stated catalyst or concrete event details."
+  },
+  "buffered_ts": 1784287156.556126
+ },
+ {
+  "id": "d0cfe23ce9399df45596119516c3dadb92218739",
+  "source": "ifr-logo",
+  "topic": "holding",
+  "title": "SK Hynix ADRs trade at big premium - ifr-logo",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRVZJbm1pMlk2NTE0dEVlNzNzVjBDcS10RmJjeVVIYkk1NTVqekRmQ3M4N3FoR0RRaHZ6eXd3UGxkMURRQjRKX3FnV242eXBJRHpFV0RUM3FkYjhWRE9ycWNKNmQ4MHNHMElCdHBsYjVDbl91dWxWaTVFLXM?oc=5",
+  "published_at": "Fri, 17 Jul 2026 06:49:58 GMT",
+  "published_ts": 1784270998,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRVZJbm1pMlk2NTE0dEVlNzNzVjBDcS10RmJjeVVIYkk1NTVqekRmQ3M4N3FoR0RRaHZ6eXd3UGxkMURRQjRKX3FnV242eXBJRHpFV0RUM3FkYjhWRE9ycWNKNmQ4MHNHMElCdHBsYjVDbl91dWxWaTVFLXM?oc=5\" target=\"_blank\">SK Hynix ADRs trade at big premium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ifr-logo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ifr-logo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADRs trading at a premium to their underlying shares. This is a minor pricing/structural observation about the holding's trading mechanics rather than a material business or operational development."
+  },
+  "buffered_ts": 1784287156.556126
  }
 ]
