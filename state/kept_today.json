@@ -2316,5 +2316,245 @@
    "summary": "Moomoo commentary asking whether the Roundhill Memory ETF (DRAM) faces further losses. This is opinion/speculation about fund performance with no concrete catalyst or new information reported."
   },
   "buffered_ts": 1784265995.9182167
+ },
+ {
+  "id": "ee905b0607641424acd53f4e8e1708be26bd346a",
+  "source": "KED Global",
+  "topic": "holding",
+  "title": "Micron inks long-term automotive AI chip supply deals with Qualcomm, Hyundai Mobis, Samsung’s Harman - KED Global",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SdnM0WFZvTmFQTGV0Q2t5UExiN2hkYlNaRjJwd2JBNzBIcldoZ2NxRmtlalhGQ29nUXdVTkl0WkVCN0hUOGZONmJ3Um1JeWNlcjlWSG9Ia0lhVFYxZG5rbWxTZEgtVTB4Q2dKWHc5Zw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 06:57:48 GMT",
+  "published_ts": 1784271468,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1SdnM0WFZvTmFQTGV0Q2t5UExiN2hkYlNaRjJwd2JBNzBIcldoZ2NxRmtlalhGQ29nUXdVTkl0WkVCN0hUOGZONmJ3Um1JeWNlcjlWSG9Ia0lhVFYxZG5rbWxTZEgtVTB4Q2dKWHc5Zw?oc=5\" target=\"_blank\">Micron inks long-term automotive AI chip supply deals with Qualcomm, Hyundai Mobis, Samsung’s Harman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KED Global"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron announced long-term automotive AI chip supply deals with Qualcomm, Hyundai Mobis, and Samsung's Harman division. This is a concrete, officially announced supply agreement that secures future revenue streams for a core holding and demonstrates demand for memory chips in the automotive AI segment."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "f6e3511a592a6a327641b792ba511815d9b6b478",
+  "source": "XenoSpectrum",
+  "topic": "holding",
+  "title": "Kioxia Hit With $229 Million Verdict as Samsung's HBM Faces Second US ITC Investigation - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56UUtmOEZqSDlrbHZ3TG1Xc0c1V2djMXFRYkhZektuSDFsN1g3SWxWSXRJQ0Z0ZGw5Uk8wRTJUb1BSalU0ZnUydkN0LU0?oc=5",
+  "published_at": "Fri, 17 Jul 2026 06:17:44 GMT",
+  "published_ts": 1784269064,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56UUtmOEZqSDlrbHZ3TG1Xc0c1V2djMXFRYkhZektuSDFsN1g3SWxWSXRJQ0Z0ZGw5Uk8wRTJUb1BSalU0ZnUydkN0LU0?oc=5\" target=\"_blank\">Kioxia Hit With $229 Million Verdict as Samsung's HBM Faces Second US ITC Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia hit with $229 million verdict; Samsung's HBM (high-bandwidth memory) products face a second US ITC (International Trade Commission) investigation. Both developments are concrete regulatory/legal events affecting fund holdings (Samsung is a major DRAM/memory producer; Kioxia is NAND-focused but relevant to memory sector). The ITC investigation on HBM is particularly material given HBM's criticality to AI-infrastructure demand and memory capex cycles."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "d9255be8c0ca6e1178b24e9d63626fcf6d413307",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "MU, SNDK, SKHY, WDC Stocks Drop Overnight: AI Memory Giants Suffer Reversal As IBM-Driven Rally Fades - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFhrME5lU0ZnUzJFYUw2bWZ5X2Q2X21pbzhQbkFwUXpMZFpRRk9VVDRYT2pXMG1VWGJvLXJXRkdZcmpMcUduUDVTV3VzbTJDNDVVQ3JUaDR1c0Z4dEJMa1ZrSXp1aHA4bWQtR0ZoV0NFZzc2eVZtTXNwRjNYOFhkaW9xelZ6N3BBcGNSdi1qbE9yUQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 06:30:00 GMT",
+  "published_ts": 1784183400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFhrME5lU0ZnUzJFYUw2bWZ5X2Q2X21pbzhQbkFwUXpMZFpRRk9VVDRYT2pXMG1VWGJvLXJXRkdZcmpMcUduUDVTV3VzbTJDNDVVQ3JUaDR1c0Z4dEJMa1ZrSXp1aHA4bWQtR0ZoV0NFZzc2eVZtTXNwRjNYOFhkaW9xelZ6N3BBcGNSdi1qbE9yUQ?oc=5\" target=\"_blank\">MU, SNDK, SKHY, WDC Stocks Drop Overnight: AI Memory Giants Suffer Reversal As IBM-Driven Rally Fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (Micron, SanDisk, SK hynix, Western Digital) experienced overnight stock declines as an AI-driven rally faded. The story reports price movements but attributes them to a reversal of prior momentum rather than new company-specific or industry news; it is a market reaction piece without a distinct new catalyst."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "641da2fefb895907e934b394f07418e3362b538e",
+  "source": "EE Times Asia",
+  "topic": "holding",
+  "title": "TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration - EE Times Asia",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXNTOVN5MmtXdl9fbThORzFUSFhCSGZ3ck8wQUVCcFBxOUVwNHVHdW5KVU5sYzZIUUVqVVFpcERwQ09JdEU1Nm5wYjhqNHBMZk93cHgtVmphbXdmbzhfRmdrVERmZ3pjendTRDBhXzBlVmdZXzFpMUZ0RG44U2FnVE4ta3BCdklCR1JMb1k1dFRNaDBjTW9nblhXNXBkbzVF?oc=5",
+  "published_at": "Fri, 17 Jul 2026 05:49:21 GMT",
+  "published_ts": 1784267361,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXNTOVN5MmtXdl9fbThORzFUSFhCSGZ3ck8wQUVCcFBxOUVwNHVHdW5KVU5sYzZIUUVqVVFpcERwQ09JdEU1Nm5wYjhqNHBMZk93cHgtVmphbXdmbzhfRmdrVERmZ3pjendTRDBhXzBlVmdZXzFpMUZ0RG44U2FnVE4ta3BCdklCR1JMb1k1dFRNaDBjTW9nblhXNXBkbzVF?oc=5\" target=\"_blank\">TetraMem, SK hynix Highlight Memristor-Based AI Computing SoC Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "EE Times Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is collaborating with TetraMem on memristor-based AI computing SoCs. This is a technology development initiative with SK hynix, a major fund holding, but it represents early-stage R&D and partnership exploration rather than a concrete near-term commercial event or earnings impact."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "aceb922ec21e65c96396d6767a7d502cfa81cffd",
+  "source": "igor´sLAB",
+  "topic": "holding",
+  "title": "SK Hynix Warns of the Industry’s Worst Memory Shortage in 2027 - igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1E0Umh1aEZoX3A0MTgxOC1pYWdZdHU3RXZuSW9YZ3hfdllhUmQxcmdvcGd0aTFSNEJLQ1lsNk45TC1mQTI5VVVIWGk3STJiLVJhUEdMMEhzWk5ORFUxUlVMdFFPcHlVMzh3cmhDNE5pYlFWTVdrSUVGNkVFMkFpS1JzM19pNWJKeXRfX2VPcnNxSFU?oc=5",
+  "published_at": "Fri, 17 Jul 2026 04:00:00 GMT",
+  "published_ts": 1784260800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1E0Umh1aEZoX3A0MTgxOC1pYWdZdHU3RXZuSW9YZ3hfdllhUmQxcmdvcGd0aTFSNEJLQ1lsNk45TC1mQTI5VVVIWGk3STJiLVJhUEdMMEhzWk5ORFUxUlVMdFFPcHlVMzh3cmhDNE5pYlFWTVdrSUVGNkVFMkFpS1JzM19pNWJKeXRfX2VPcnNxSFU?oc=5\" target=\"_blank\">SK Hynix Warns of the Industry’s Worst Memory Shortage in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "igor´sLAB"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix warns of an anticipated severe memory shortage in 2027, signaling potential supply-demand imbalance in the memory cycle ahead. This is forward-looking commentary on industry capacity rather than a confirmed event or hard production number, making it an analysis/forecast rather than concrete market news."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "ceb3c451ae7740e114a31f9009c82502f7e9ef22",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix Stock Has Room For Another Leg Up (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmduNHNJYjNUam5SUTZnVF9kWFVJam8xenVNcVJKQ0tScWQ1NnVzOEdoWjlqdWFUR216NUhlZnAtSmxlLXZkUjRQWklIZ2tlODFzR0RDWHhSaVExRTFwbi1ZdzlQU1FJVXNsajFFcE5lQXdZWHFSekdHUU0zN1ZKSl9aYw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 06:47:26 GMT",
+  "published_ts": 1784270846,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmduNHNJYjNUam5SUTZnVF9kWFVJam8xenVNcVJKQ0tScWQ1NnVzOEdoWjlqdWFUR216NUhlZnAtSmxlLXZkUjRQWklIZ2tlODFzR0RDWHhSaVExRTFwbi1ZdzlQU1FJVXNsajFFcE5lQXdZWHFSekdHUU0zN1ZKSl9aYw?oc=5\" target=\"_blank\">SK hynix Stock Has Room For Another Leg Up (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst opinion that SK hynix stock has further upside potential. This is a price-target or bullish analysis piece rather than a concrete event or new information affecting the stock; it reflects analyst sentiment rather than earnings, guidance, capacity decisions, or pricing developments."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "44d94b24e615a9953d8f0e93bc1349fa2284965e",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Coronation trims TSMC, SK Hynix exposure as $47B fund shifts toward India stocks - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDaXh0WlpFMTEwaUNGMFZURVJOQ1JZM0RPWjNYTzdUdERXczR0YkZhTmNPUFJRYnZmNjRxYXJiek5heFFQMzZSR21aYXpGZVlEeG1Ia0hJbnp3RzZQWXhnVklzOXNmc1F2emRTTkJxVU9hQQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 07:07:24 GMT",
+  "published_ts": 1784272044,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBDaXh0WlpFMTEwaUNGMFZURVJOQ1JZM0RPWjNYTzdUdERXczR0YkZhTmNPUFJRYnZmNjRxYXJiek5heFFQMzZSR21aYXpGZVlEeG1Ia0hJbnp3RzZQWXhnVklzOXNmc1F2emRTTkJxVU9hQQ?oc=5\" target=\"_blank\">Coronation trims TSMC, SK Hynix exposure as $47B fund shifts toward India stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Coronation fund ($47B) is trimming exposure to SK hynix (a DRAM ETF holding) and TSMC as part of a portfolio reallocation toward India stocks. This is a fund-level portfolio shift that mentions a DRAM holding but lacks concrete numbers on the scale of the trim or specific timing, making it a minor passing mention rather than a material development for the DRAM ETF."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "5dcd317ac6657efffb4547a3b2c0defbe9c1dc2b",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "SK Group chief tells SK hynix investors: 'Just hold onto your shares' - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIUm93OFVWRnl0a1J4VFNsYS10VWg5VVJSc2lZeUhTakZYWU1CTmtfYUxuY1ZVTUJHZEk2T3R3eHc3T0dRM3hzUS1oQjBhbHNVSVgta05uOA?oc=5",
+  "published_at": "Fri, 17 Jul 2026 05:33:48 GMT",
+  "published_ts": 1784266428,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIUm93OFVWRnl0a1J4VFNsYS10VWg5VVJSc2lZeUhTakZYWU1CTmtfYUxuY1ZVTUJHZEk2T3R3eHc3T0dRM3hzUS1oQjBhbHNVSVgta05uOA?oc=5\" target=\"_blank\">SK Group chief tells SK hynix investors: 'Just hold onto your shares'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Group chief advises SK hynix investors to hold shares. A passing comment from leadership without material new information about business fundamentals, capacity, pricing, or strategic direction. Relevant as SK hynix is a DRAM ETF holding, but the statement is generic sentiment with minimal concrete impact."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "592acbea759fdcf93983e76ca6f353c351f55c88",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "SK Hynix ADR Premium May Hold Even After Share Conversion Opens July 29 - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10Sk1kMnYxakU0MkoxNzdnREI5WXp5VlM3R3R4aG9OWDJRckFVb29mNThwM0NHZ0dBV2N2aHRpTzN2bjQ5MDRjdk1WcjVhb0xveWpLVQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 05:31:21 GMT",
+  "published_ts": 1784266281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE10Sk1kMnYxakU0MkoxNzdnREI5WXp5VlM3R3R4aG9OWDJRckFVb29mNThwM0NHZ0dBV2N2aHRpTzN2bjQ5MDRjdk1WcjVhb0xveWpLVQ?oc=5\" target=\"_blank\">SK Hynix ADR Premium May Hold Even After Share Conversion Opens July 29</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADR premium expected to persist after share conversion opens July 29. Technical market structure note on a holding with minimal direct impact on memory cycle or valuation fundamentals."
+  },
+  "buffered_ts": 1784273585.7028165
+ },
+ {
+  "id": "6869cb8c8b8d6ecc742abf5f8d55dfa76c346ae7",
+  "source": "Credendo",
+  "topic": "industry",
+  "title": "Consumer electronics: AI-driven memory demand worsens sector risk - Credendo",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0pQa3EwSkpKSVZITHhPcmE0eTRUZGZ1YlJQZWJOOWxsNi11UFFXcGVjaGFFTDdmVjc4eHllYlp3Y0NOVGdmalBSZWxubGtkcHpHNndiUkNXMjg3MlVEUThRLUcxV0RPbnljdWpKZGFOanAtMnlaN1g2eXFRVUhuNXB4NkVXX194UTVFT19LTFJMeHhlTjMzRFZzUFVJOWd0M2R4VA?oc=5",
+  "published_at": "Thu, 16 Jul 2026 08:08:05 GMT",
+  "published_ts": 1784189285,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0pQa3EwSkpKSVZITHhPcmE0eTRUZGZ1YlJQZWJOOWxsNi11UFFXcGVjaGFFTDdmVjc4eHllYlp3Y0NOVGdmalBSZWxubGtkcHpHNndiUkNXMjg3MlVEUThRLUcxV0RPbnljdWpKZGFOanAtMnlaN1g2eXFRVUhuNXB4NkVXX194UTVFT19LTFJMeHhlTjMzRFZzUFVJOWd0M2R4VA?oc=5\" target=\"_blank\">Consumer electronics: AI-driven memory demand worsens sector risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Credendo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Credendo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Credendo analysis on AI-driven memory demand and its impact on consumer electronics sector risk. General commentary on industry dynamics rather than a concrete event or hard number affecting DRAM holdings."
+  },
+  "buffered_ts": 1784273585.7028165
  }
 ]
