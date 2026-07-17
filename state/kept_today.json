@@ -94,5 +94,77 @@
    "summary": "SK Hynix's Nasdaq listing debut and early trading volatility. While a significant corporate event for the holding, the story focuses on investor sentiment and price movement rather than concrete new information about memory demand, supply, pricing, or business fundamentals that would move the fund."
   },
   "buffered_ts": 1784292123.1321805
+ },
+ {
+  "id": "0f5c91fbef6296c4313be57e508f184903c55c97",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology stock trades volatile as memory pricing and AI demand shape outlook - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2xmWldENG1CQ0c3dEVUTGF0VG9LeHhlU2t3SEtLNGExUTJKSWd3eHduLWZaQmdjcUw2aFdRSXBiNlJvT0FTMnp2cEplOEhpLUR4a0xHb1V1QlFVVnpFUW52UjNtemRnVVM4Y0Z1WFRQOXowZExNNXRJVHgtN0RoMzZYdHdvNTBCSkJZcUVOTlNxLU1CSmlrTUJMNEJzb0Y1TnVQX01vTHNNRlVSZHVReEFCTVkzWGRlUVJDeElGQmIwRF9aX0EzcEFn?oc=5",
+  "published_at": "Fri, 17 Jul 2026 11:45:08 GMT",
+  "published_ts": 1784288708,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2xmWldENG1CQ0c3dEVUTGF0VG9LeHhlU2t3SEtLNGExUTJKSWd3eHduLWZaQmdjcUw2aFdRSXBiNlJvT0FTMnp2cEplOEhpLUR4a0xHb1V1QlFVVnpFUW52UjNtemRnVVM4Y0Z1WFRQOXowZExNNXRJVHgtN0RoMzZYdHdvNTBCSkJZcUVOTlNxLU1CSmlrTUJMNEJzb0Y1TnVQX01vTHNNRlVSZHVReEFCTVkzWGRlUVJDeElGQmIwRF9aX0EzcEFn?oc=5\" target=\"_blank\">Micron Technology stock trades volatile as memory pricing and AI demand shape outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock exhibits volatility driven by memory pricing trends and AI demand outlook. The story discusses how these factors shape investor sentiment, but reports no new concrete developments, earnings data, or pricing changes—only general market reaction and forward-looking sentiment."
+  },
+  "buffered_ts": 1784299233.5527747
+ },
+ {
+  "id": "21e471ed89aaa0f087cc8776b7d88d21b2f4204a",
+  "source": "Investors' Chronicle",
+  "topic": "industry",
+  "title": "The winners and losers from the memory chip crunch - Investors' Chronicle",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemxtdk9ENUFXTjVnb3dVbDRCeUJyUzBZS1FaR0Q2QzBHbUZiSWhWckQwT2o2ZjA3aS1ESG9sWXV6NF9MMmo5X1I2YnhnRlN4UFZnYmQ5dk5STXB5d3hGMHRJaG15Xzc5UWZRbXN1MlpiMG5ZS3pHSzE2ZWNPLWs2Ykp2RWRsLVdp?oc=5",
+  "published_at": "Fri, 17 Jul 2026 13:28:11 GMT",
+  "published_ts": 1784294891,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemxtdk9ENUFXTjVnb3dVbDRCeUJyUzBZS1FaR0Q2QzBHbUZiSWhWckQwT2o2ZjA3aS1ESG9sWXV6NF9MMmo5X1I2YnhnRlN4UFZnYmQ5dk5STXB5d3hGMHRJaG15Xzc5UWZRbXN1MlpiMG5ZS3pHSzE2ZWNPLWs2Ykp2RWRsLVdp?oc=5\" target=\"_blank\">The winners and losers from the memory chip crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investors' Chronicle</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investors' Chronicle"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Opinion/analysis piece identifying winners and losers from memory chip market dynamics. Likely discusses holdings and industry trends but represents editorial analysis rather than a concrete event, hard number, or market-moving announcement."
+  },
+  "buffered_ts": 1784299233.5527747
+ },
+ {
+  "id": "8a4efd5b7bcfbf6eacffc238d29523e45029ccd8",
+  "source": "TipRanks",
+  "topic": "fund",
+  "title": "DRAM ETF Price Plunges 30% in a Month — Is Now the Time to Buy? - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2szbUFkNEQwZUZsQm00dXpDQXRMUll0TFdSSGdlOUhaWjJmXzhGTTNPbmw2dnpSbHJsdU16bnBCSXJDZ2l6V2xKOGRjZlEySFdyU0VjV19DUUhTMVdGdDA3NVh3VEplanQ0WVh0TUIxR190RGRxZGk4S1V5U1RSNVlJRndJVFBGekN0UkVuZ0dhdG8?oc=5",
+  "published_at": "Fri, 17 Jul 2026 14:18:42 GMT",
+  "published_ts": 1784297922,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2szbUFkNEQwZUZsQm00dXpDQXRMUll0TFdSSGdlOUhaWjJmXzhGTTNPbmw2dnpSbHJsdU16bnBCSXJDZ2l6V2xKOGRjZlEySFdyU0VjV19DUUhTMVdGdDA3NVh3VEplanQ0WVh0TUIxR190RGRxZGk4S1V5U1RSNVlJRndJVFBGekN0UkVuZ0dhdG8?oc=5\" target=\"_blank\">DRAM ETF Price Plunges 30% in a Month — Is Now the Time to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "TipRanks opinion piece discussing a 30% price decline in the DRAM ETF and whether it presents a buying opportunity. This is commentary and analysis rather than a concrete event or material development."
+  },
+  "buffered_ts": 1784299233.5527747
  }
 ]
