@@ -430,5 +430,29 @@
    "summary": "DRAM ETF experiencing inflows despite concurrent weakness in major holdings (Micron, SanDisk, Seagate). This reflects fund-level activity and investor positioning in the memory semiconductor space, though the inflows themselves appear to be a market reaction rather than a concrete catalyst."
   },
   "buffered_ts": 1784412801.4068575
+ },
+ {
+  "id": "b2d2a35265b0349dd6c8e067668d3e0ed419eceb",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUlBVGs2TjI4bHRjSlRGMzZqWmRGZF95bDJhUl82S0t2cmF2UmJfYVZFRlEwWmctSFlLN1pSX2dybm9HbmREcE5MZmhlZHh5LXBkN3NFZU1kaU8xMEFLVGtMN3o2LTN6ck5EWENGSXhJczFYZFNiZDdKbHpNbDFyMlNWRTI0YjFvZWd0WDBqQTdMTl9YZXB5OElUWWZaNHpGOWc0MlNZTS1rcmpjUmNPS3JEa29ZMXdOdnpmYWduaVY?oc=5",
+  "published_at": "Sat, 18 Jul 2026 06:27:45 GMT",
+  "published_ts": 1784356065,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUlBVGs2TjI4bHRjSlRGMzZqWmRGZF95bDJhUl82S0t2cmF2UmJfYVZFRlEwWmctSFlLN1pSX2dybm9HbmREcE5MZmhlZHh5LXBkN3NFZU1kaU8xMEFLVGtMN3o2LTN6ck5EWENGSXhJczFYZFNiZDdKbHpNbDFyMlNWRTI0YjFvZWd0WDBqQTdMTl9YZXB5OElUWWZaNHpGOWc0MlNZTS1rcmpjUmNPS3JEa29ZMXdOdnpmYWduaVY?oc=5\" target=\"_blank\">Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC) has reached its deepest drawdown in a year; analyst consensus price target remains 23% higher than current levels. This reflects market sentiment and analyst positioning but lacks a new concrete catalyst—it is a stock-move and valuation-commentary piece rather than earnings news or a distinct event."
+  },
+  "buffered_ts": 1784417101.8448706
  }
 ]
