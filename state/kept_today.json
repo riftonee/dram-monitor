@@ -166,5 +166,29 @@
    "summary": "Meta's flash supply deal indicates tightening NAND market conditions; SanDisk (a fund holding) shares fell to 52-week low. The supply tightness signals potential pricing strength, but the SanDisk stock move appears reactive to market sentiment rather than a new concrete event or official announcement from the company."
   },
   "buffered_ts": 1784389989.0303023
+ },
+ {
+  "id": "40b902b5a55cd346d6765cf6933b70b3582b63e6",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSnROS1pEaERlS1VkTndMZWNkcE81TEhteXZubS1mNm5NczVoZGFYZ2FYTS16RHotY0tvZVNHX0NwdnVlSXRVVXVBbkFCbUVpTWdvcXh5NnNMSGFVWFVHcVBtajMtdUtscWRGRmUycm1kLWZ6SXhwRFhjTkQ0ekxiX3ZENEdwdnEzWFIwaHUxV21HME1zQ29XX25RVHZob0FyVEhDR1Zzcw?oc=5",
+  "published_at": "Sat, 18 Jul 2026 18:20:00 GMT",
+  "published_ts": 1784398800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSnROS1pEaERlS1VkTndMZWNkcE81TEhteXZubS1mNm5NczVoZGFYZ2FYTS16RHotY0tvZVNHX0NwdnVlSXRVVXVBbkFCbUVpTWdvcXh5NnNMSGFVWFVHcVBtajMtdUtscWRGRmUycm1kLWZ6SXhwRFhjTkQ0ekxiX3ZENEdwdnEzWFIwaHUxV21HME1zQ29XX25RVHZob0FyVEhDR1Zzcw?oc=5\" target=\"_blank\">Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "An opinion piece from an investing legend warning Micron and SK hynix investors. This is analysis/commentary rather than a concrete event or new material development. While it mentions two major fund holdings, it represents only punditry without actionable market news or disclosed information that would move the memory cycle or fund valuations directly."
+  },
+  "buffered_ts": 1784401094.5542912
  }
 ]
