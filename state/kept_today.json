@@ -1297,5 +1297,101 @@
    "summary": "Jim Cramer commentary blaming SK Hynix volatility for TSMC stock movement; TSMC Q2 earnings were strong but market sentiment treated it as emotional casino trading rather than a concrete fundamental development."
   },
   "buffered_ts": 1784362655.5070379
+ },
+ {
+  "id": "d011dc61dd4f6e96df956d3823f7c846d547c59b",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk Stock Has Jumped Over 500% in 2026. It Can Still Become a Multibagger Thanks to This Massive News - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSVF4Y2l5OXlxRjByQlozNjZCU0xteFliT3ViM0lhaVh6cmJkd09ISWRDdzJPS2hUQ2hWQnBTLTNjbFRNaENLWjRWNWRjNEFad0JoZlpERG5KX0ljNmxFOTlYYmJBZzNsRmd2bWZiQ2dxdmw2d0V3cUdaTzFvekVXLXJEaW1zQzNLMlprM01NVnhuQUUxVnBjeEhhcG4za2xBNjZ1SmFScUhDVVJFVEFpSFBYX0ZYeW9aQUNvTzN3eVRXWVB4UnZ5UjJiT3dJWm54Qmp3NVNxZzF3NHd2cWl6WWp4czczVmFDanJKTHFUdFdod280SWVjYzhROVVLYXlqNk10OUFpMVExblN5WVFNUmtXY3IzWEU?oc=5",
+  "published_at": "Fri, 17 Jul 2026 14:00:45 GMT",
+  "published_ts": 1784296845,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNSVF4Y2l5OXlxRjByQlozNjZCU0xteFliT3ViM0lhaVh6cmJkd09ISWRDdzJPS2hUQ2hWQnBTLTNjbFRNaENLWjRWNWRjNEFad0JoZlpERG5KX0ljNmxFOTlYYmJBZzNsRmd2bWZiQ2dxdmw2d0V3cUdaTzFvekVXLXJEaW1zQzNLMlprM01NVnhuQUUxVnBjeEhhcG4za2xBNjZ1SmFScUhDVVJFVEFpSFBYX0ZYeW9aQUNvTzN3eVRXWVB4UnZ5UjJiT3dJWm54Qmp3NVNxZzF3NHd2cWl6WWp4czczVmFDanJKTHFUdFdod280SWVjYzhROVVLYXlqNk10OUFpMVExblN5WVFNUmtXY3IzWEU?oc=5\" target=\"_blank\">Sandisk Stock Has Jumped Over 500% in 2026. It Can Still Become a Multibagger Thanks to This Massive News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock has surged over 500% in 2026 with analyst commentary on further upside potential. The article mentions 'massive news' but the snippet does not reveal the concrete catalyst—it appears to be price-target analysis and stock-move commentary rather than reporting a specific event. Without the full article, the driver is unclear; if it's simply digesting already-known earnings or analyst opinion, it remains a 3. If a specific new deal or supply/capacity announcement is detailed in the full piece, reconsider upward."
+  },
+  "buffered_ts": 1784368490.5740635
+ },
+ {
+  "id": "3a2a7d19c0a81a8c07f7b33510fc6a086d5e4596",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRaSU9wUUt6ZXpxRFdqSE5CNFlLZmlEZ2txUTRrUklMNnZkSGtTajVXY2szUzVQTFhvVmFqZlpQajQzX0MtSHhnbEZld0tqVkRJSGJGY09NNWJqX2xqNUFWQTY2dzBteTdPVk40ZzhKS2cwRUFnNmpYenpCU09MZzBkS3o1X09CZlhyazJ3dTg3cUE?oc=5",
+  "published_at": "Fri, 17 Jul 2026 16:51:50 GMT",
+  "published_ts": 1784307110,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRaSU9wUUt6ZXpxRFdqSE5CNFlLZmlEZ2txUTRrUklMNnZkSGtTajVXY2szUzVQTFhvVmFqZlpQajQzX0MtSHhnbEZld0tqVkRJSGJGY09NNWJqX2xqNUFWQTY2dzBteTdPVk40ZzhKS2cwRUFnNmpYenpCU09MZzBkS3o1X09CZlhyazJ3dTg3cUE?oc=5\" target=\"_blank\">SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rose 8% on bargain-hunting and HSBC analyst reaffirmed it as a top chip pick. This is a post-trade price move with analyst commentary rather than a concrete new event or earnings catalyst."
+  },
+  "buffered_ts": 1784368490.5740635
+ },
+ {
+  "id": "abd28ac82720f9c0c6dda8268872dd96e4754e3b",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "STX Surges As Seagate Wins Wave Of Bullish Targets - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXNhTTU2eW53VXprVUt2YUx5NXFaSWFOVkJrbDRfOTNHNlBfaVk1bjdjT01FeE5WVUNYUVdEQU11VVVfOHdJWnBkVHBqbTFRNldHbEFTVWpHTnF1cS1NU0hpMlFWdkJ4MnNEd0FlSkdiMVN3NmtuNWd5TDI3S2tibU9GWkZSeGF5RmRZ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 20:09:00 GMT",
+  "published_ts": 1784318940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXNhTTU2eW53VXprVUt2YUx5NXFaSWFOVkJrbDRfOTNHNlBfaVk1bjdjT01FeE5WVUNYUVdEQU11VVVfOHdJWnBkVHBqbTFRNldHbEFTVWpHTnF1cS1NU0hpMlFWdkJ4MnNEd0FlSkdiMVN3NmtuNWd5TDI3S2tibU9GWkZSeGF5RmRZ?oc=5\" target=\"_blank\">STX Surges As Seagate Wins Wave Of Bullish Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "timothysykes.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, received multiple bullish analyst price targets, driving a stock surge. This represents analyst sentiment and price movement downstream of known developments rather than a new concrete catalyst; it is relevant to the holding but scored as soft analysis/opinion rather than a market-moving event."
+  },
+  "buffered_ts": 1784368490.5740635
+ },
+ {
+  "id": "51782c5601c3be9da99892baea8cb3e4d03f4bed",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk Has Surged More Than 3,000% in the Last 12 Months. Could a Stock Split Be Coming? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2RCdlQ2c1JVUHMybVAxQVJvREdmaGJqSXAwVU9RaS1VTjF6STZlbzBnNmtGVEN3MEg4d25XV0NqaDd0Nm4xb2JkelZTZFJJeGlBd19Sc3R2VWduajlWYjRIb2p3a2U3TDE0UHZueDRPWDEwNnZzbVVwbmVMTERkZkM0dTQ3NnAxY09yZUs1dlVobFhyOVl5bHg5YVRNaEJsZGhEa2xJU0lFZ2VVczY5RWJmcEl3TkNTRTVJbHZLVWozc2JoRzBqSlFXdmpPUTlqRHZUeGFRaFRtUVFPODREWXJxalllOFlpNmVDS1hzaHFQRC1WS2xrcA?oc=5",
+  "published_at": "Fri, 17 Jul 2026 16:57:14 GMT",
+  "published_ts": 1784307434,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2RCdlQ2c1JVUHMybVAxQVJvREdmaGJqSXAwVU9RaS1VTjF6STZlbzBnNmtGVEN3MEg4d25XV0NqaDd0Nm4xb2JkelZTZFJJeGlBd19Sc3R2VWduajlWYjRIb2p3a2U3TDE0UHZueDRPWDEwNnZzbVVwbmVMTERkZkM0dTQ3NnAxY09yZUs1dlVobFhyOVl5bHg5YVRNaEJsZGhEa2xJU0lFZ2VVczY5RWJmcEl3TkNTRTVJbHZLVWozc2JoRzBqSlFXdmpPUTlqRHZUeGFRaFRtUVFPODREWXJxalllOFlpNmVDS1hzaHFQRC1WS2xrcA?oc=5\" target=\"_blank\">Sandisk Has Surged More Than 3,000% in the Last 12 Months. Could a Stock Split Be Coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock has surged over 3,000% in the last 12 months; speculation about a potential stock split. While SanDisk is a fund holding, this is largely speculation about corporate actions rather than concrete memory-market or business developments affecting the fund."
+  },
+  "buffered_ts": 1784368490.5740635
  }
 ]
