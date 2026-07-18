@@ -190,5 +190,149 @@
    "summary": "An opinion piece from an investing legend warning Micron and SK hynix investors. This is analysis/commentary rather than a concrete event or new material development. While it mentions two major fund holdings, it represents only punditry without actionable market news or disclosed information that would move the memory cycle or fund valuations directly."
   },
   "buffered_ts": 1784401094.5542912
+ },
+ {
+  "id": "889b51d8004db428812bb741a01ce29eb26c74ba",
+  "source": "The Republic News",
+  "topic": "holding",
+  "title": "SK Hynix $3.87B plant construction underway amid surging chip demand despite zoning suit - The Republic News",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTgyZlkzU2EtMEZvaUZ5Z1pIa3RyaDlnZUxHeFRycl9rYTZUWEk4S2huLXlmZ2p2QU5Cc0oybVBPWnM2dFlmX2pheS16b2ZCdHZrRHJ1MUF4U0w0bDJnbHRLLTgtaTZvVUtUdDJIa1RNOUIzZXowRGJ2dXVVNU16ZVFlbmU2Q0lUeHVFUWhOWkNVTkNHV3pSQTVCVm4tMnBFQ3hDTFBHQi1UMlFGWDNmeGhMMDExX1p4bTd6bmxyRTE2TENHaUE?oc=5",
+  "published_at": "Sat, 18 Jul 2026 14:32:00 GMT",
+  "published_ts": 1784385120,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTgyZlkzU2EtMEZvaUZ5Z1pIa3RyaDlnZUxHeFRycl9rYTZUWEk4S2huLXlmZ2p2QU5Cc0oybVBPWnM2dFlmX2pheS16b2ZCdHZrRHJ1MUF4U0w0bDJnbHRLLTgtaTZvVUtUdDJIa1RNOUIzZXowRGJ2dXVVNU16ZVFlbmU2Q0lUeHVFUWhOWkNVTkNHV3pSQTVCVm4tMnBFQ3hDTFBHQi1UMlFGWDNmeGhMMDExX1p4bTd6bmxyRTE2TENHaUE?oc=5\" target=\"_blank\">SK Hynix $3.87B plant construction underway amid surging chip demand despite zoning suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Republic News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Republic News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix is actively constructing a $3.87B manufacturing plant in response to surging chip demand. This is a concrete capacity investment decision by a major fund holding that directly signals confidence in memory demand and expands production capability."
+  },
+  "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "10f2c824aff885311e1584c4823da3e492435737",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGVleTd5VXd4MVB0andVOHVVMUk1STBqX3g3Vy1wOXpYRmxXNlBKVXdNWUxudFF4NmZRT1B3eFVKVjZaU0NmNTFITFZvcjBUUVhPQWVhcnJrZm1HcnQyV3hFdFpJOEdWbWpnTHlVd2RvQmttVGFVWThYT2laNlEwY1VqeDVjTTZoRko0Ym1heUI1RU0wRFcw?oc=5",
+  "published_at": "Sat, 18 Jul 2026 19:55:06 GMT",
+  "published_ts": 1784404506,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGVleTd5VXd4MVB0andVOHVVMUk1STBqX3g3Vy1wOXpYRmxXNlBKVXdNWUxudFF4NmZRT1B3eFVKVjZaU0NmNTFITFZvcjBUUVhPQWVhcnJrZm1HcnQyV3hFdFpJOEdWbWpnTHlVd2RvQmttVGFVWThYT2laNlEwY1VqeDVjTTZoRko0Ym1heUI1RU0wRFcw?oc=5\" target=\"_blank\">Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Jensen Huang stated at CES 2026 that memory is the biggest bottleneck in AI. The article notes that Micron and SanDisk have outperformed Nvidia since this statement. This is relevant to DRAM fund holdings and AI-driven memory demand narrative, but represents commentary and observed stock performance rather than a concrete new event or hard number with independent market impact."
+  },
+  "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "2c4b9aa6e3d8db2e029b44226a5bd40370184645",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "Franklin Templeton warns Micron and SK Hynix investors of AI chip cycle risks - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFh6QUxfa1p0MEFtU1NfYkdKOE54T3ZnbktGT0E3bVdqMVoxSEZ6TDR6a0hqLVVMNGJnRTRTVVJDeVV0QWRpS0pBRFVXbjg1UzNSSFJ1SkhYU21wNHVpYnNGYkdfdVRvVmdacXlLUEwtZndaemR4Z2JpUWhPODBFcHA0d3pyalN6Umc?oc=5",
+  "published_at": "Sat, 18 Jul 2026 18:51:38 GMT",
+  "published_ts": 1784400698,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMFh6QUxfa1p0MEFtU1NfYkdKOE54T3ZnbktGT0E3bVdqMVoxSEZ6TDR6a0hqLVVMNGJnRTRTVVJDeVV0QWRpS0pBRFVXbjg1UzNSSFJ1SkhYU21wNHVpYnNGYkdfdVRvVmdacXlLUEwtZndaemR4Z2JpUWhPODBFcHA0d3pyalN6Umc?oc=5\" target=\"_blank\">Franklin Templeton warns Micron and SK Hynix investors of AI chip cycle risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Franklin Templeton issues a warning to investors in Micron and SK Hynix about potential AI chip cycle risks. This is analyst/fund manager commentary and opinion about cycle risks rather than a concrete event or confirmed development, making it soft analysis rather than hard news."
+  },
+  "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "5634bec0d84d4695fd7c2fb69282e56af84f5423",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "STX Surges As Seagate Wins Wave Of Bullish Upgrades - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEpqLXRKOERWNWxGNVUzaENoaEhvLXJacEhLaDVoSmNZZENiMjJQRkY0ZzZGejVGTE5JQTJtSHRuaW5uWWMwMVBlbms1cVU2emU0b1dxQ0doNl9tc19OQjIzVVNVeTV2RlMxTHh5RVNFenFONy02aHBRSXNCdkhFYVZGV095QQ?oc=5",
+  "published_at": "Sat, 18 Jul 2026 15:08:00 GMT",
+  "published_ts": 1784387280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEpqLXRKOERWNWxGNVUzaENoaEhvLXJacEhLaDVoSmNZZENiMjJQRkY0ZzZGejVGTE5JQTJtSHRuaW5uWWMwMVBlbms1cVU2emU0b1dxQ0doNl9tc19OQjIzVVNVeTV2RlMxTHh5RVNFenFONy02aHBRSXNCdkhFYVZGV095QQ?oc=5\" target=\"_blank\">STX Surges As Seagate Wins Wave Of Bullish Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "timothysykes.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, received multiple bullish analyst upgrades, driving a stock surge. This is analyst sentiment and a price move driven by opinion rather than a concrete operational or earnings event, so it rates as relevant but soft impact."
+  },
+  "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "cc3910e9b54f427367bf7fa488fec396313ff8f6",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVl3d2tpTjAxZzJpaDNfWGljUDJFQi1mbVNSaTZ6SHZsTnRxYnJncmVfTkdZc1NLcUdWNmw1MER4QUYzVmdRNGFPRF9wX1hsYU1WNUg1SFI2MWdpZl9HZ1JWaTZVczdfeDJheHVUSWhka2NhX2JaR28zaDdkLUM2VDRHQm1HdUJUYXA3VzI4U1RSSjRCeldN?oc=5",
+  "published_at": "Sat, 18 Jul 2026 18:23:37 GMT",
+  "published_ts": 1784399017,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVl3d2tpTjAxZzJpaDNfWGljUDJFQi1mbVNSaTZ6SHZsTnRxYnJncmVfTkdZc1NLcUdWNmw1MER4QUYzVmdRNGFPRF9wX1hsYU1WNUg1SFI2MWdpZl9HZ1JWaTZVczdfeDJheHVUSWhka2NhX2JaR28zaDdkLUM2VDRHQm1HdUJUYXA3VzI4U1RSSjRCeldN?oc=5\" target=\"_blank\">Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece citing investing legend John Templeton with a warning for Micron and SK Hynix investors. This is analyst commentary and market opinion rather than a concrete event or hard data; it lacks specific, actionable information about the companies' operations, guidance, or market conditions."
+  },
+  "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "c525e5933114fb28263533bfc09b8e94517a9e76",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK hynix (KRX:000660; NASDAQ:SKHY) ADR premium at 24% puts focus on Seoul trading - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlVfeVE4N2tyYV9oNkMxZlhvQmF0czktOHZMX3l2dkdzR1ByanpycXhhdGlmYWsydjQ5UnpRazVDUk5VcDdnckw5cUprdXNrMEVnWFRBV1pJbEctc0NoUG00MmtoRGdKejFma0RqcFVUYloyQm5DT1ZldnNwdGNzZlpjWmxsejhveWRUbUNjYUJSS0JEZG9zWVI4NU0?oc=5",
+  "published_at": "Sat, 18 Jul 2026 19:04:49 GMT",
+  "published_ts": 1784401489,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlVfeVE4N2tyYV9oNkMxZlhvQmF0czktOHZMX3l2dkdzR1ByanpycXhhdGlmYWsydjQ5UnpRazVDUk5VcDdnckw5cUprdXNrMEVnWFRBV1pJbEctc0NoUG00MmtoRGdKejFma0RqcFVUYloyQm5DT1ZldnNwdGNzZlpjWmxsejhveWRUbUNjYUJSS0JEZG9zWVI4NU0?oc=5\" target=\"_blank\">SK hynix (KRX:000660; NASDAQ:SKHY) ADR premium at 24% puts focus on Seoul trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix ADR trading at 24% premium to Seoul listing; note on dual-listing arbitrage opportunity with no fundamental memory-sector impact."
+  },
+  "buffered_ts": 1784405115.2417974
  }
 ]
