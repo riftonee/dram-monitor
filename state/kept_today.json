@@ -94,5 +94,77 @@
    "summary": "Seagate (STX), a DRAM ETF holding, experienced a stock price jump driven by analyst price target increases. This is a post-earnings analyst reaction and price-target revision story—relevant to the holding but soft, as it reflects market digestion of already-known information rather than new concrete developments. Impact is 3: opinion-driven analyst action and stock moves following known results."
   },
   "buffered_ts": 1784385265.4040928
+ },
+ {
+  "id": "adf2be76562d1ce04733ec9100d31f995393aab2",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung (KOSE:A005930) Faces ITC Memory Probe While Expanding Into US Senior Care - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFVIeWdQa0dDXzVQR1paZlRzZlNMRDNZa0FWczZSVGViRjNEZ2lLM051cnBGT3pabGtrenF3ZzhOSnA2R1ZLVGJJOHBzVnlKQ2wyYWprOGd6ZDVZM3JveDAzeVFPN1R6LVEzenBET29XazJGbnRvR0NRaUN5SWJCeVhqLTdHdjFCdjdybG52NHJob3poUTJPRk5uQQ?oc=5",
+  "published_at": "Sat, 18 Jul 2026 12:11:31 GMT",
+  "published_ts": 1784376691,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFVIeWdQa0dDXzVQR1paZlRzZlNMRDNZa0FWczZSVGViRjNEZ2lLM051cnBGT3pabGtrenF3ZzhOSnA2R1ZLVGJJOHBzVnlKQ2wyYWprOGd6ZDVZM3JveDAzeVFPN1R6LVEzenBET29XazJGbnRvR0NRaUN5SWJCeVhqLTdHdjFCdjdybG52NHJob3poUTJPRk5uQQ?oc=5\" target=\"_blank\">Samsung (KOSE:A005930) Faces ITC Memory Probe While Expanding Into US Senior Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung faces an International Trade Commission (ITC) memory probe, which is a concrete regulatory development affecting one of the fund's major holdings. The ITC investigation into Samsung's memory business represents a material event that could impact pricing, market access, or competitive positioning in the US market. This is distinct from speculation and constitutes an official regulatory action."
+  },
+  "buffered_ts": 1784389989.0303023
+ },
+ {
+  "id": "7214bd124574de79a5d68e9a95d0a0b926ce3139",
+  "source": "foreignpolicyjournal.com",
+  "topic": "holding",
+  "title": "Palantir (NASDAQ: PLTR) CEO Alex Karp Names Nvidia, Micron, And SK Hynix As The Only True AI Infrastructure Winners - foreignpolicyjournal.com",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVUxzVjIzVkZ2VTgyMDJ0VlJZMENfa0ZZLXR1eTEwVEw1T0oxRE1kYUhBVk9ORkJrUi04RjhpQjFYUUc4Sl9FOWwtZVN0WTF4RkJnWTBjUm5lNExmR210ZG5za053THA5TEc1bTE0YnRvdEhadTBSYWtEeUYybjlrV0ltdzZKdm9lbF8yUUdydE53YXM2MjhuNDBkRFdGd25kV0RGM3pOSnBHbFFtM29mMzNmYlItM2VaMTd2RXlNY1h3MWlEREQ0ZnFlMzFETkVoV29RZHByNWhPWTRrcGJvVG5obVFxSVBXaFJZNWM1SjY?oc=5",
+  "published_at": "Sat, 18 Jul 2026 15:18:00 GMT",
+  "published_ts": 1784387880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVUxzVjIzVkZ2VTgyMDJ0VlJZMENfa0ZZLXR1eTEwVEw1T0oxRE1kYUhBVk9ORkJrUi04RjhpQjFYUUc4Sl9FOWwtZVN0WTF4RkJnWTBjUm5lNExmR210ZG5za053THA5TEc1bTE0YnRvdEhadTBSYWtEeUYybjlrV0ltdzZKdm9lbF8yUUdydE53YXM2MjhuNDBkRFdGd25kV0RGM3pOSnBHbFFtM29mMzNmYlItM2VaMTd2RXlNY1h3MWlEREQ0ZnFlMzFETkVoV29RZHByNWhPWTRrcGJvVG5obVFxSVBXaFJZNWM1SjY?oc=5\" target=\"_blank\">Palantir (NASDAQ: PLTR) CEO Alex Karp Names Nvidia, Micron, And SK Hynix As The Only True AI Infrastructure Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicyjournal.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "foreignpolicyjournal.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Palantir CEO Alex Karp publicly identified Micron and SK hynix as among the only true AI infrastructure winners, providing third-party validation of memory semiconductor demand tailwinds. This is analyst/executive commentary rather than a concrete event, but signals continued confidence in AI-driven memory demand."
+  },
+  "buffered_ts": 1784389989.0303023
+ },
+ {
+  "id": "9ec3aa33b164591a975cce37b264d8904545b2ff",
+  "source": "ad-hoc-news.de",
+  "topic": "pricing",
+  "title": "Meta's Flash Supply Deal Signals NAND Tightness as SanDisk Shares Sink to 52-Week Low - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHppaE5hbjBITXlrU2l6dVNldDMzQS1DdDlfNWNTa0FLLS1MR0pTeXllSVdlckRHQy1tcjVxQ2Yyd21XWTJUenczb00zbE9ObjhMMG1IeVkwdlpzUU5WUk0tQzJJOC11bGN5T1RZTjR1NkZHbVo5eU4ydTFZbEpnaXJveW1MZW05b1B0aWpjOGR1SXhJU1ZRMzJhWGtxNTE2YWgtaGhvX0lYLTYybjFMTHFwdmJnSS1NbkxoY1dCM2FQYUQwNGh4VlhpdHE?oc=5",
+  "published_at": "Sat, 18 Jul 2026 15:16:32 GMT",
+  "published_ts": 1784387792,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHppaE5hbjBITXlrU2l6dVNldDMzQS1DdDlfNWNTa0FLLS1MR0pTeXllSVdlckRHQy1tcjVxQ2Yyd21XWTJUenczb00zbE9ObjhMMG1IeVkwdlpzUU5WUk0tQzJJOC11bGN5T1RZTjR1NkZHbVo5eU4ydTFZbEpnaXJveW1MZW05b1B0aWpjOGR1SXhJU1ZRMzJhWGtxNTE2YWgtaGhvX0lYLTYybjFMTHFwdmJnSS1NbkxoY1dCM2FQYUQwNGh4VlhpdHE?oc=5\" target=\"_blank\">Meta's Flash Supply Deal Signals NAND Tightness as SanDisk Shares Sink to 52-Week Low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Meta's flash supply deal indicates tightening NAND market conditions; SanDisk (a fund holding) shares fell to 52-week low. The supply tightness signals potential pricing strength, but the SanDisk stock move appears reactive to market sentiment rather than a new concrete event or official announcement from the company."
+  },
+  "buffered_ts": 1784389989.0303023
  }
 ]
