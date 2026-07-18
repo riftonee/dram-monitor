@@ -1177,5 +1177,125 @@
    "summary": "South Korea growth forecast at 3% with reporting on AI memory crunch pointing to potential 2027 supply crisis. This is forward-looking analysis on future supply dynamics relevant to the memory cycle, but lacks concrete current production cuts, capacity announcements, or pricing data—remains speculative forecast rather than confirmed event."
   },
   "buffered_ts": 1784354531.8204508
+ },
+ {
+  "id": "c56f605985e4f0edcaf3a875a66df2ba69a36d7c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK hynix (KOSE:A000660) Joins The NASDAQ Composite After Its Major US Listing - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVpVSTV4UzBhZGVFc3QyZFE4cUdTRTFoTE81RUpBcjdBcUFTWWl4TDlwR2pHRmVoR3VWZ0VLU281TlN0bG1CakVZc1JwOHp0c3E4QkJTNXdULWlpVjM0MmVPSEkyd3VuRHFhTGV1cVZVeFFBWUtoWGV6UjQ1eVZNcUUxX09JNHhGdzVqOTJkSTJXTFV3ajYw?oc=5",
+  "published_at": "Fri, 17 Jul 2026 07:13:13 GMT",
+  "published_ts": 1784272393,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVpVSTV4UzBhZGVFc3QyZFE4cUdTRTFoTE81RUpBcjdBcUFTWWl4TDlwR2pHRmVoR3VWZ0VLU281TlN0bG1CakVZc1JwOHp0c3E4QkJTNXdULWlpVjM0MmVPSEkyd3VuRHFhTGV1cVZVeFFBWUtoWGV6UjQ1eVZNcUUxX09JNHhGdzVqOTJkSTJXTFV3ajYw?oc=5\" target=\"_blank\">SK hynix (KOSE:A000660) Joins The NASDAQ Composite After Its Major US Listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix has completed its major US listing and joined the NASDAQ Composite, a concrete structural development for one of the fund's core holdings that changes its trading accessibility and index inclusion status in US markets."
+  },
+  "buffered_ts": 1784362655.5070379
+ },
+ {
+  "id": "7b6c4b4b5b23608bd87e319869b6aa79cb2db295",
+  "source": "ad-hoc-news.de",
+  "topic": "pricing",
+  "title": "Western Digital stock trades near recent highs as NAND pricing and AI storage demand support outlook - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWxMZVdoQjZvanZjNno4RkZQOFluOFpZRWtOSjhhLUZVXzZKOTVqSzVqaWcwU29oTEJFRTBCNVctN2xHczM3QUZZSFJ6ZVBVU1d2WUEzenF1Y0V4eW1TNmlZWk5zMnJCSTlPSmdwVkNrVjI0RHJGZ1BJM18xbVRvbFhOVGRfUjZpejBjUG1idlI1UW1OMXlkVTZXbjJCUE80N180MXFvRVNZMS1vcVV6V0pFcWRNN3hyaEI0LXItNXcxMW04eDc4?oc=5",
+  "published_at": "Sat, 18 Jul 2026 07:13:53 GMT",
+  "published_ts": 1784358833,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWxMZVdoQjZvanZjNno4RkZQOFluOFpZRWtOSjhhLUZVXzZKOTVqSzVqaWcwU29oTEJFRTBCNVctN2xHczM3QUZZSFJ6ZVBVU1d2WUEzenF1Y0V4eW1TNmlZWk5zMnJCSTlPSmdwVkNrVjI0RHJGZ1BJM18xbVRvbFhOVGRfUjZpejBjUG1idlI1UW1OMXlkVTZXbjJCUE80N180MXFvRVNZMS1vcVV6V0pFcWRNN3hyaEI0LXItNXcxMW04eDc4?oc=5\" target=\"_blank\">Western Digital stock trades near recent highs as NAND pricing and AI storage demand support outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Western Digital (WDC) stock near recent highs supported by NAND pricing strength and AI storage demand. Reports favorable pricing environment and demand outlook but does not announce specific new concrete developments or provide hard numbers on pricing or demand shifts."
+  },
+  "buffered_ts": 1784362655.5070379
+ },
+ {
+  "id": "34c982c0c7fecb2e5fb9ee5032fa780c6eb29c1e",
+  "source": "TIKR.com",
+  "topic": "holding",
+  "title": "Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher - TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9CMG9xYlROZnh0dTFTaUhoSVdOVHhCaHNNUGF5UHNnWnBvdFViWEZwc1FObDdMYXVfNVZKYUl3Q2s3SmZzbUM2Qk40TE1VMUE3TEJua25hUjdaMW1mRFJvRHFwdnVHODdjV0JhdldVWnJkem1taFBDOUdUek9fQ3QtNjdHYk9pekdBbTNkTTJRQjBOTFBvSE5jaGM0b01ZWml4WDRpWjFkRGF3MnNRNGswTmxaZTdYWGpQZnBJdW8?oc=5",
+  "published_at": "Sat, 18 Jul 2026 04:07:30 GMT",
+  "published_ts": 1784347650,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9CMG9xYlROZnh0dTFTaUhoSVdOVHhCaHNNUGF5UHNnWnBvdFViWEZwc1FObDdMYXVfNVZKYUl3Q2s3SmZzbUM2Qk40TE1VMUE3TEJua25hUjdaMW1mRFJvRHFwdnVHODdjV0JhdldVWnJkem1taFBDOUdUek9fQ3QtNjdHYk9pekdBbTNkTTJRQjBOTFBvSE5jaGM0b01ZWml4WDRpWjFkRGF3MnNRNGswTmxaZTdYWGpQZnBJdW8?oc=5\" target=\"_blank\">Western Digital Just Hit Its Deepest Drawdown in a Year. The Street Target Still Sits 23% Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TIKR.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, has hit its deepest drawdown in a year, but analyst consensus target sits 23% higher. This reflects analyst sentiment and a significant price move, but absent a specific new catalyst announced in this piece (such as earnings, guidance change, or deal news), the stock move itself is market sentiment digestion rather than a concrete triggering event."
+  },
+  "buffered_ts": 1784362655.5070379
+ },
+ {
+  "id": "aa245f09c865c57aff2d65ee9a329510678b0e6c",
+  "source": "CXO Digitalpulse",
+  "topic": "industry",
+  "title": "AI Memory-Chip Shortage Drives India Smartphone Shipments Down 10% - CXO Digitalpulse",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2NTLUxmUUpmUWw1WmExeFk1SmJoeWRsYW9QRmVkWkU3dmZtZUpfbTJ1MHNYdXBTS0Fvdi1naEFraVlIVVlSUERhSFZFUzNEcTU4MWRlbWhZQjk1THRDRXVhVXZqS1A2cVJXTkM0WDRaYXVOZUpoVDI5bU12Z1NYbS1jN3B6RndYTUo1X3EwWnNGWkZDbXBkRHlzdnRaT1U?oc=5",
+  "published_at": "Sat, 18 Jul 2026 06:18:49 GMT",
+  "published_ts": 1784355529,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2NTLUxmUUpmUWw1WmExeFk1SmJoeWRsYW9QRmVkWkU3dmZtZUpfbTJ1MHNYdXBTS0Fvdi1naEFraVlIVVlSUERhSFZFUzNEcTU4MWRlbWhZQjk1THRDRXVhVXZqS1A2cVJXTkM0WDRaYXVOZUpoVDI5bU12Z1NYbS1jN3B6RndYTUo1X3EwWnNGWkZDbXBkRHlzdnRaT1U?oc=5\" target=\"_blank\">AI Memory-Chip Shortage Drives India Smartphone Shipments Down 10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CXO Digitalpulse</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CXO Digitalpulse"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report that AI memory-chip shortage is driving down India smartphone shipments by 10%, indicating demand pressure on memory semiconductors from AI infrastructure competing for supply, though the story is a secondary industry observation rather than a direct announcement from a manufacturer or a concrete pricing/production event."
+  },
+  "buffered_ts": 1784362655.5070379
+ },
+ {
+  "id": "0857fbaf507a212587c596852d2d4447257bbc2a",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUEtUR0tWZUgyWlNueVV2cGZZMU5iRjBDdmpTZzcyZWM3dnBjT3YxY1UyX3dVWmpTVXh2VU40UDhsOGpVTjRFWDFaWjBCZ2NfZDNmMGs4dlpzeXpXOGlBa3lKbWtpQ0ppZU5oRWcyZGVGaHptV29JWjRmVm0waEg1NjlIT1dHdzVlM2JKNFBRYjZpSEFmVjlac2liX2ctcnlzai02Y1hCeGs4cmJYdS1FYlVieHFfT1RRN3VyVTBkY2h3U2VTcndYdXEwdk45VTdqVEtQV0EwQjNpU0Z2dHRJZnZNNENwZDdsd2ZDcWdKTQ?oc=5",
+  "published_at": "Thu, 16 Jul 2026 12:03:59 GMT",
+  "published_ts": 1784203439,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUEtUR0tWZUgyWlNueVV2cGZZMU5iRjBDdmpTZzcyZWM3dnBjT3YxY1UyX3dVWmpTVXh2VU40UDhsOGpVTjRFWDFaWjBCZ2NfZDNmMGs4dlpzeXpXOGlBa3lKbWtpQ0ppZU5oRWcyZGVGaHptV29JWjRmVm0waEg1NjlIT1dHdzVlM2JKNFBRYjZpSEFmVjlac2liX2ctcnlzai02Y1hCeGs4cmJYdS1FYlVieHFfT1RRN3VyVTBkY2h3U2VTcndYdXEwdk45VTdqVEtQV0EwQjNpU0Z2dHRJZnZNNENwZDdsd2ZDcWdKTQ?oc=5\" target=\"_blank\">Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Jim Cramer commentary blaming SK Hynix volatility for TSMC stock movement; TSMC Q2 earnings were strong but market sentiment treated it as emotional casino trading rather than a concrete fundamental development."
+  },
+  "buffered_ts": 1784362655.5070379
  }
 ]
