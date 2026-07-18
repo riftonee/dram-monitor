@@ -406,5 +406,29 @@
    "summary": "ServeTheHome reports on Samsung's Gen 2 MRDIMM (Multi-Rank DIMM) memory module. MRDIMM is a relevant memory form factor for data-center and AI infrastructure, but the snippet provides no concrete specifications, availability date, performance metrics, or customer adoption details—only announcement of the product generation. Without quantified impact or customer wins, this is soft product news rather than a market-moving event."
   },
   "buffered_ts": 1784409215.6002269
+ },
+ {
+  "id": "96a675a3508e72cc0fa5b4ea10f77b305e22ffc4",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXRhVmlFckpxeXkwZ09JM2VvRmdCel8tLVhGZDBaZUpnM0NPSEZEcjA0VThWQkdBSGJ5cnBkWE1iOE9LcUV3VnhYcmVTcDI2WWNGY1lqU0pYVjRVeGkya1NQYmR2dHphb2t6NXJPQUJVdnFENFJWbkR3VUlaNi1yUDdMclN1OW5fejhrOE8waV9kbmIxNGNzLVJEcmRGMFp5SjBzd2xLSWxxeHI3R0tuOGRjd1F4dw?oc=5",
+  "published_at": "Sat, 18 Jul 2026 21:56:23 GMT",
+  "published_ts": 1784411783,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXRhVmlFckpxeXkwZ09JM2VvRmdCel8tLVhGZDBaZUpnM0NPSEZEcjA0VThWQkdBSGJ5cnBkWE1iOE9LcUV3VnhYcmVTcDI2WWNGY1lqU0pYVjRVeGkya1NQYmR2dHphb2t6NXJPQUJVdnFENFJWbkR3VUlaNi1yUDdMclN1OW5fejhrOE8waV9kbmIxNGNzLVJEcmRGMFp5SjBzd2xLSWxxeHI3R0tuOGRjd1F4dw?oc=5\" target=\"_blank\">DRAM ETF Inflows Jump Despite Micron, Sandisk, Seagate Slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF experiencing inflows despite concurrent weakness in major holdings (Micron, SanDisk, Seagate). This reflects fund-level activity and investor positioning in the memory semiconductor space, though the inflows themselves appear to be a market reaction rather than a concrete catalyst."
+  },
+  "buffered_ts": 1784412801.4068575
  }
 ]
