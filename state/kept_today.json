@@ -1033,5 +1033,29 @@
    "summary": "Yahoo Finance reports $25B inflows into semiconductor ETFs amid a 40% DRAM price decline. The story mentions fund flows and DRAM pricing but appears to be a market commentary piece analyzing investor behavior and price moves rather than reporting a concrete new event or official fund action. The DRAM price decline itself is relevant to holdings and pricing, but the framing focuses on ETF inflows as a reaction to existing market conditions."
   },
   "buffered_ts": 1784336060.3743565
+ },
+ {
+  "id": "460f490ea9c355e3003b1d9271204d3825fd70ee",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Seagate stock trades steady as data-storage demand supports revenue outlook - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2xVdkNHZ3JNQ3FOdHB1aV83X0tETFpLV1hDaEpsM2d3WVFQRmxFWlZ5Q0Q4NmFjZ1QxMmUxNmhRc2dNZjl2dFEtX0tkR3lMMFg5N3FteXdDUWh6Nm5wdE4yZFpyWEZzelhzT3V3NkU3WDRWTTdMcFdFUmNpdlhYVUdleUl4d0NObDhwUTJMNno4WGNoZnJSR2I5dWJOMjA5Y1BabGR0Y0N1aXc3eE5sZ210enRqeExSUGpjX3ZuLWl0OEJx?oc=5",
+  "published_at": "Sat, 18 Jul 2026 02:38:41 GMT",
+  "published_ts": 1784342321,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2xVdkNHZ3JNQ3FOdHB1aV83X0tETFpLV1hDaEpsM2d3WVFQRmxFWlZ5Q0Q4NmFjZ1QxMmUxNmhRc2dNZjl2dFEtX0tkR3lMMFg5N3FteXdDUWh6Nm5wdE4yZFpyWEZzelhzT3V3NkU3WDRWTTdMcFdFUmNpdlhYVUdleUl4d0NObDhwUTJMNno4WGNoZnJSR2I5dWJOMjA5Y1BabGR0Y0N1aXc3eE5sZ210enRqeExSUGpjX3ZuLWl0OEJx?oc=5\" target=\"_blank\">Seagate stock trades steady as data-storage demand supports revenue outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, trades steady amid data-storage demand supporting revenue outlook. The story notes steady trading and positive demand conditions but provides no concrete new event, guidance change, or material announcement—it is commentary on existing conditions."
+  },
+  "buffered_ts": 1784346734.8970044
  }
 ]
