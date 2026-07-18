@@ -46,5 +46,53 @@
    "summary": "Micron stock trading steadily supported by memory demand outlook. General statement without specific new catalyst, concrete event, or hard numbers beyond sentiment."
   },
   "buffered_ts": 1784380970.9826272
+ },
+ {
+  "id": "ff1974e37458c79e0794318642bc7d64cd681477",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "How a homegrown Chinese chip maker became the memory industry’s biggest wild card - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWZ3ZWFBN2RxbDhwTVJwN3pUdUcyUEd3d1BMY3BSRVJtY0tManpWUXdZVER5cFFqYlk2ZVRxc0wwLUtxZzhUZVZ1N2hTSlFQdTI3THZNbzdmWlBpVkRfNF9XckdvVC1lX0tUcDdEZHZDcGlYRzc5Qi04SG5hcE1yYzI5SVd1bXY1bjRGdkhMWmU3UWVfamdaYmtSUjNoTjVjNW9nOWkxQ1JJajgwU1hCU21oa2lxVmFhNldrSlJySEM?oc=5",
+  "published_at": "Sat, 18 Jul 2026 12:00:00 GMT",
+  "published_ts": 1784376000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWZ3ZWFBN2RxbDhwTVJwN3pUdUcyUEd3d1BMY3BSRVJtY0tManpWUXdZVER5cFFqYlk2ZVRxc0wwLUtxZzhUZVZ1N2hTSlFQdTI3THZNbzdmWlBpVkRfNF9XckdvVC1lX0tUcDdEZHZDcGlYRzc5Qi04SG5hcE1yYzI5SVd1bXY1bjRGdkhMWmU3UWVfamdaYmtSUjNoTjVjNW9nOWkxQ1JJajgwU1hCU21oa2lxVmFhNldrSlJySEM?oc=5\" target=\"_blank\">How a homegrown Chinese chip maker became the memory industry’s biggest wild card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "MarketWatch analysis on Chinese chipmaker's growing role as a disruptive force in the memory industry. While relevant to the competitive landscape affecting DRAM fund holdings, this is analytical commentary on market dynamics rather than a concrete event or hard data point."
+  },
+  "buffered_ts": 1784385265.4040928
+ },
+ {
+  "id": "24cb787ffecf5fa644ffa5603975a79ef0154eb0",
+  "source": "StocksToTrade",
+  "topic": "holding",
+  "title": "STX Jumps As Seagate Wins Wave Of Aggressive Price Target Hikes - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzB4ZlpCbEYtWkhkQkw1cndKZDNvVVU1OUJnanZ6cHA1clBLUjVzUjRmOGNiS3N1cFFtd1A4a2xEUm0tQThURXQtYVA5U3hlOGpwemZFaFZfMW1tcVJEZVIyMGhxTUdjcHp4dGRWX21ISHBxa1RURDk4QkpQXzJNUGlGX2I5V0U?oc=5",
+  "published_at": "Sat, 18 Jul 2026 12:38:00 GMT",
+  "published_ts": 1784378280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzB4ZlpCbEYtWkhkQkw1cndKZDNvVVU1OUJnanZ6cHA1clBLUjVzUjRmOGNiS3N1cFFtd1A4a2xEUm0tQThURXQtYVA5U3hlOGpwemZFaFZfMW1tcVJEZVIyMGhxTUdjcHp4dGRWX21ISHBxa1RURDk4QkpQXzJNUGlGX2I5V0U?oc=5\" target=\"_blank\">STX Jumps As Seagate Wins Wave Of Aggressive Price Target Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a stock price jump driven by analyst price target increases. This is a post-earnings analyst reaction and price-target revision story—relevant to the holding but soft, as it reflects market digestion of already-known information rather than new concrete developments. Impact is 3: opinion-driven analyst action and stock moves following known results."
+  },
+  "buffered_ts": 1784385265.4040928
  }
 ]
