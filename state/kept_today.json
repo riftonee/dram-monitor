@@ -334,5 +334,77 @@
    "summary": "SK hynix ADR trading at 24% premium to Seoul listing; note on dual-listing arbitrage opportunity with no fundamental memory-sector impact."
   },
   "buffered_ts": 1784405115.2417974
+ },
+ {
+  "id": "ebcde09335516709574cb5c9e948dfde631c002c",
+  "source": "XenoSpectrum",
+  "topic": "holding",
+  "title": "Kioxia Hit With $229 Million Verdict as Samsung's HBM Faces Second US ITC Investigation - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmdqdU5ienhXbXVpVU9aaGpNcWdDclhuRVZnNDdEQjlkYW54TEpRODdDQkR6RUl3WE02cFRzaFhzWFFBNG9KTDZuWmt3dVpJbGJwUDI4cWk0WjBsS2QzRWRxaXZBbWo1TGlWaDFOcFp1eEVpT1Y1RmpkNFYwUXNNSXNSaTRSbGVOYy1YSQ?oc=5",
+  "published_at": "Fri, 17 Jul 2026 06:17:44 GMT",
+  "published_ts": 1784269064,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmdqdU5ienhXbXVpVU9aaGpNcWdDclhuRVZnNDdEQjlkYW54TEpRODdDQkR6RUl3WE02cFRzaFhzWFFBNG9KTDZuWmt3dVpJbGJwUDI4cWk0WjBsS2QzRWRxaXZBbWo1TGlWaDFOcFp1eEVpT1Y1RmpkNFYwUXNNSXNSaTRSbGVOYy1YSQ?oc=5\" target=\"_blank\">Kioxia Hit With $229 Million Verdict as Samsung's HBM Faces Second US ITC Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Kioxia hit with $229M verdict; Samsung's HBM memory products facing second US ITC investigation. Both are concrete legal/regulatory developments affecting memory suppliers in the fund's ecosystem, with potential for trade restrictions or IP-related disruptions to HBM supply."
+  },
+  "buffered_ts": 1784409215.6002269
+ },
+ {
+  "id": "acfdc6b3c884fc2992f60779001107075b5a52cb",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVZfZFo2U3dBOW9HN09sSlZoaHhKWEJqd3k4aktvblJQaWYzTlo3TFdiZll6UmtOczZFUG94LXR3cEtPUkpMdms2b0xfXzduYkFDdmd6SDJmdXVlb2h3OEpWVmpZZDh5cHJBeUtQS1pRWUR4WFRzcHJsZFoyY1RwOGJqWjBzX3ZNUDZ1Um14elZzbElv?oc=5",
+  "published_at": "Sat, 18 Jul 2026 19:42:00 GMT",
+  "published_ts": 1784403720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVZfZFo2U3dBOW9HN09sSlZoaHhKWEJqd3k4aktvblJQaWYzTlo3TFdiZll6UmtOczZFUG94LXR3cEtPUkpMdms2b0xfXzduYkFDdmd6SDJmdXVlb2h3OEpWVmpZZDh5cHJBeUtQS1pRWUR4WFRzcHJsZFoyY1RwOGJqWjBzX3ZNUDZ1Um14elZzbElv?oc=5\" target=\"_blank\">Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Jensen Huang stated at CES 2026 that memory is the biggest bottleneck in AI infrastructure. The headline notes that Micron and SanDisk have outperformed Nvidia since this comment, indicating market recognition of memory criticality. This is relevant to DRAM holdings but represents commentary and market reaction rather than a new concrete event or hard number."
+  },
+  "buffered_ts": 1784409215.6002269
+ },
+ {
+  "id": "4e1be0556bc718d8bbe3820c7a474ff3fb5ebd4d",
+  "source": "ServeTheHome",
+  "topic": "holding",
+  "title": "Samsung Gen 2 MRDIMM - ServeTheHome",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJIN1NGX3BMdWhCc2lkbDcxT09RWGZEVi1PM2pCbE9EQ1g4ZFgtVzNUNk5yNE1Gd3dfa3gtSTFPblBoeWxlYk9kaklKOGpYdTZPd2JPLTEwSGJReG5tbzF5Q08zZFlBWmNPNEMwRDBCU3plT2Fvd2RQUFhEQ2Y1TkVkVU1xWjM4LXNITzlSSU1iS1hsRUEzbDg1VkI5TjBnSE50Nk1aRF9oUk9DLUVYeHNpNXlmNTJQcGcwemJhN3dBNVNiUDFMUkUyVkZWek5ja1JGakF3?oc=5",
+  "published_at": "Sat, 18 Jul 2026 20:59:34 GMT",
+  "published_ts": 1784408374,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJIN1NGX3BMdWhCc2lkbDcxT09RWGZEVi1PM2pCbE9EQ1g4ZFgtVzNUNk5yNE1Gd3dfa3gtSTFPblBoeWxlYk9kaklKOGpYdTZPd2JPLTEwSGJReG5tbzF5Q08zZFlBWmNPNEMwRDBCU3plT2Fvd2RQUFhEQ2Y1TkVkVU1xWjM4LXNITzlSSU1iS1hsRUEzbDg1VkI5TjBnSE50Nk1aRF9oUk9DLUVYeHNpNXlmNTJQcGcwemJhN3dBNVNiUDFMUkUyVkZWek5ja1JGakF3?oc=5\" target=\"_blank\">Samsung Gen 2 MRDIMM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServeTheHome</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ServeTheHome"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "ServeTheHome reports on Samsung's Gen 2 MRDIMM (Multi-Rank DIMM) memory module. MRDIMM is a relevant memory form factor for data-center and AI infrastructure, but the snippet provides no concrete specifications, availability date, performance metrics, or customer adoption details—only announcement of the product generation. Without quantified impact or customer wins, this is soft product news rather than a market-moving event."
+  },
+  "buffered_ts": 1784409215.6002269
  }
 ]
