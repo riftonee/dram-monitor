@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "id": "6ac472ab43455031f74d39d3cb5c7ebc7c58aaf3",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "The AI ‘Memory Wall’ Is About to Get a Lot Taller: These 3 Stocks Will Win Big - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3VYeU9qdFBHTlV5MVViRXVYM0kzS1poSlhlWmQtaDZnMWdvd05jeWJQRzIyRzZLN1cwZ3BPZmJRdkpEbEU0WWJORmZCVUliX0NwQi1ya0pkTExqckRxWHRUODhEaVhPU2dSbDVGbG01MW51N3hmaEFSU05tMnBNQmRpTDlZYURtcXhxRHBfR3hKeVlCRi1jSXRUcXVoWFduZUxEQWpFOXZBY01zWTZfVjVqVlpLaXFmSkIw?oc=5",
+  "published_at": "Sun, 19 Jul 2026 12:21:27 GMT",
+  "published_ts": 1784463687,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3VYeU9qdFBHTlV5MVViRXVYM0kzS1poSlhlWmQtaDZnMWdvd05jeWJQRzIyRzZLN1cwZ3BPZmJRdkpEbEU0WWJORmZCVUliX0NwQi1ya0pkTExqckRxWHRUODhEaVhPU2dSbDVGbG01MW51N3hmaEFSU05tMnBNQmRpTDlZYURtcXhxRHBfR3hKeVlCRi1jSXRUcXVoWFduZUxEQWpFOXZBY01zWTZfVjVqVlpLaXFmSkIw?oc=5\" target=\"_blank\">The AI ‘Memory Wall’ Is About to Get a Lot Taller: These 3 Stocks Will Win Big</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Opinion piece discussing AI-driven memory demand (the 'memory wall' problem) and predicting beneficiary stocks. This is analysis and forward-looking commentary rather than a concrete event or hard number, making it relevant to the memory cycle but soft in terms of impact."
+  },
+  "buffered_ts": 1784466578.7476926
+ }
+]
