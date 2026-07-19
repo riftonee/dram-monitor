@@ -454,5 +454,149 @@
    "summary": "Western Digital (WDC) has reached its deepest drawdown in a year; analyst consensus price target remains 23% higher than current levels. This reflects market sentiment and analyst positioning but lacks a new concrete catalyst—it is a stock-move and valuation-commentary piece rather than earnings news or a distinct event."
   },
   "buffered_ts": 1784417101.8448706
+ },
+ {
+  "id": "cb8055ecfd960627deca8665ddcf2208dfc29c5d",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Korea ETFs rush to add SK hynix ADR after Nasdaq debut - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0c3THJqX1JSZ080Tm04bV9seVhZTmdxSUo3ZjlhRU1Scy1BMHdMX1Atei1Ec29uU1BhcU1jSkZnU2k0ME9tbGhHLTB3UndETURNTEhlcmNoeE9KX1ZXeGVJWXZNTWdDbWFfaFU0bV9hTlJBSlJXYi1hYnJuaTlkdtIBlAFBVV95cUxOTllhcWFra1B5XzBtbGJTRjZXQlVmeHlWYUVFc0xtV013QzlsRXR1WUZtbE1iLWN4cGRpUnBGWUhjeVltd2Z1MFlicEhRT3BKaHVTLXZfWVBkSkhJWmFjV0NWTTY4OC1PLTM4TXpoZU1lYUdXQlNtUWdKSl9ja0RIVTAxS3U5MS1ORkdiMjcwYi10N0ot?oc=5",
+  "published_at": "Sun, 19 Jul 2026 02:32:00 GMT",
+  "published_ts": 1784428320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0c3THJqX1JSZ080Tm04bV9seVhZTmdxSUo3ZjlhRU1Scy1BMHdMX1Atei1Ec29uU1BhcU1jSkZnU2k0ME9tbGhHLTB3UndETURNTEhlcmNoeE9KX1ZXeGVJWXZNTWdDbWFfaFU0bV9hTlJBSlJXYi1hYnJuaTlkdtIBlAFBVV95cUxOTllhcWFra1B5XzBtbGJTRjZXQlVmeHlWYUVFc0xtV013QzlsRXR1WUZtbE1iLWN4cGRpUnBGWUhjeVltd2Z1MFlicEhRT3BKaHVTLXZfWVBkSkhJWmFjV0NWTTY4OC1PLTM4TXpoZU1lYUdXQlNtUWdKSl9ja0RIVTAxS3U5MS1ORkdiMjcwYi10N0ot?oc=5\" target=\"_blank\">Korea ETFs rush to add SK hynix ADR after Nasdaq debut - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix ADR listed on Nasdaq and Korean ETFs are adding it to their portfolios. This is a concrete corporate action affecting a major DRAM fund holding with direct portfolio implications."
+  },
+  "buffered_ts": 1784435125.4901066
+ },
+ {
+  "id": "4470c3d809f4732957849984c731176028ee4b34",
+  "source": "Moneycontrol.com",
+  "topic": "industry",
+  "title": "Why US lawmakers want Trump to block Chinese memory chips - Moneycontrol.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbG0tYTM1a1pBR0UzZkJyZXNBdmZocHV5WkJpOVN3Q21aU1M5dWw4SHE1d2p5ajBqM3VWM3FQX3JXWlZsMzU3OTZIdmJIaHNxWGNLYS1ENVdZSmFSNktLR1VSVjJNLXNqUWZyNlI3LXRuVGN6c0EycjAwanhUQ1F3VWpBWVk4MFhBVFdYZHFzQUR2d0lIalMzN2FfLTRUZUF3dndpQ1psWFFFVTlkVXA1MFhKX1c?oc=5",
+  "published_at": "Sat, 18 Jul 2026 10:15:59 GMT",
+  "published_ts": 1784369759,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbG0tYTM1a1pBR0UzZkJyZXNBdmZocHV5WkJpOVN3Q21aU1M5dWw4SHE1d2p5ajBqM3VWM3FQX3JXWlZsMzU3OTZIdmJIaHNxWGNLYS1ENVdZSmFSNktLR1VSVjJNLXNqUWZyNlI3LXRuVGN6c0EycjAwanhUQ1F3VWpBWVk4MFhBVFdYZHFzQUR2d0lIalMzN2FfLTRUZUF3dndpQ1psWFFFVTlkVXA1MFhKX1c?oc=5\" target=\"_blank\">Why US lawmakers want Trump to block Chinese memory chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moneycontrol.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "US lawmakers are seeking Trump administration action to block Chinese memory chips, a geopolitical/trade policy development relevant to the memory-semiconductor industry and potential supply-chain dynamics affecting DRAM fund holdings. However, this is a legislative push or discussion rather than a confirmed policy decision, making it opinion/possibility-based rather than a concrete event."
+  },
+  "buffered_ts": 1784435125.4901066
+ },
+ {
+  "id": "395c84c95c19031b70d1092e88c361a483c2a035",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Kim Yong-beom Rules Out Delisting Samsung, SK Hynix Leveraged ETFs - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1Y4dzNVTnhpRnN0VTFvQnpBZEdrOTJ3Zk1vWEsxbFotQ0U4Q3RQNTFiOXduOTh1UVhUM1ZmRkU4dE1aSXZJOEplMkZ6eGxhd3Q2RkozRnZQTzVWYkVuMW92ODN6SDlQejVEaHBNVnFEbERhVjF5X3dTWlU3cFRZRmtjSUlNSDhI?oc=5",
+  "published_at": "Sun, 19 Jul 2026 02:19:27 GMT",
+  "published_ts": 1784427567,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1Y4dzNVTnhpRnN0VTFvQnpBZEdrOTJ3Zk1vWEsxbFotQ0U4Q3RQNTFiOXduOTh1UVhUM1ZmRkU4dE1aSXZJOEplMkZ6eGxhd3Q2RkozRnZQTzVWYkVuMW92ODN6SDlQejVEaHBNVnFEbERhVjF5X3dTWlU3cFRZRmtjSUlNSDhI?oc=5\" target=\"_blank\">Kim Yong-beom Rules Out Delisting Samsung, SK Hynix Leveraged ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "South Korean financial regulator Kim Yong-beom has ruled out delisting Samsung and SK hynix leveraged ETFs, confirming regulatory stability for these funds. While this is fund-related news affecting two major DRAM holdings, it is a regulatory clarification rather than a concrete market-moving event."
+  },
+  "buffered_ts": 1784435125.4901066
+ },
+ {
+  "id": "1adec6647f787daaa083fa0a466b69883b200e8f",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "SK Hynix U.S. Plant Considered to Lower Memory Prices - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEExcWthUlRCXzEtOXZ0TWptbGhWVDR1M0VfM0cycnZGNHJKTzZ3WnNUTHpFWngxYnd5Mkdpb0JsbldaX1k1aVVabERyUlJIcEdfU0pxUEphWU1BdFBmVF9ZbHIxRU5xX05qZkZvZGpHMFA0ekJxcmV5djBtdUFwY21TeWxPSlFM?oc=5",
+  "published_at": "Sun, 19 Jul 2026 03:36:35 GMT",
+  "published_ts": 1784432195,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEExcWthUlRCXzEtOXZ0TWptbGhWVDR1M0VfM0cycnZGNHJKTzZ3WnNUTHpFWngxYnd5Mkdpb0JsbldaX1k1aVVabERyUlJIcEdfU0pxUEphWU1BdFBmVF9ZbHIxRU5xX05qZkZvZGpHMFA0ekJxcmV5djBtdUFwY21TeWxPSlFM?oc=5\" target=\"_blank\">SK Hynix U.S. Plant Considered to Lower Memory Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's U.S. plant is being considered as a potential factor to lower memory prices. This is forward-looking commentary on pricing implications rather than a confirmed production decision or concrete capacity announcement, making it analysis/possibility rather than a settled event."
+  },
+  "buffered_ts": 1784435125.4901066
+ },
+ {
+  "id": "c15a3d0f8a69794d4397ab0ecdcc4f33086481e4",
+  "source": "MSN",
+  "topic": "industry",
+  "title": "SK Hynix CEO warns chip shortages may last beyond 2030 - MSN",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWhQcndEV3lYaFAxcFc5SlM3bS16OXd6bFhnQ0JsQ0pUSW5DSFBiUTh6LVVDX3FZcWwzNkJpVDI2SnN2ZjVJV0o1a2Nzbnc4cjhvbVh4LWktaXozTjh6M3pOOWc1dEdLSmZHdjhfNExWaEVUOVdtZWtKMk04QjV6SDUtV1FjQzRHcmhSY25EaGdDSWRsaHBySTM3OVI0Z01RZWZnQk5WQlFsYWNqckVtcGwtVjBJV1hiSHdUcUlndHdFdDBET1NEbHVTaXB3bU9CS1lhMlZRNUlPcHEzV3FpdkNlcHQ?oc=5",
+  "published_at": "Sun, 19 Jul 2026 02:18:32 GMT",
+  "published_ts": 1784427512,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWhQcndEV3lYaFAxcFc5SlM3bS16OXd6bFhnQ0JsQ0pUSW5DSFBiUTh6LVVDX3FZcWwzNkJpVDI2SnN2ZjVJV0o1a2Nzbnc4cjhvbVh4LWktaXozTjh6M3pOOWc1dEdLSmZHdjhfNExWaEVUOVdtZWtKMk04QjV6SDUtV1FjQzRHcmhSY25EaGdDSWRsaHBySTM3OVI0Z01RZWZnQk5WQlFsYWNqckVtcGwtVjBJV1hiSHdUcUlndHdFdDBET1NEbHVTaXB3bU9CS1lhMlZRNUlPcHEzV3FpdkNlcHQ?oc=5\" target=\"_blank\">SK Hynix CEO warns chip shortages may last beyond 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MSN"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix CEO warns that chip shortages may persist beyond 2030, signaling continued supply-side constraints in the semiconductor industry. This is forward-looking commentary on industry supply dynamics rather than a concrete event, making it relevant to the memory cycle but speculative in nature."
+  },
+  "buffered_ts": 1784435125.4901066
+ },
+ {
+  "id": "acc0b7c02f81b7a2a23a3403eb82bfd5bc80ba3d",
+  "source": "Crypto Briefing",
+  "topic": "holding",
+  "title": "South Korea's $4T stock market signals risk appetite amid AI-driven swings in Samsung, SK Hynix - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40c1JRUHZab3hkaW1KbEhZakNXQk5SaG45cE9xNHMxVHBsSG9pMlFRdjN0Z202ci1JMWxCR3lKdWgxSzBEbHVvd25haE5aY0d4Z2paUzVUamtDUWVBd0NHbjBHZVh4QnY2U09TaWFweEo5RUpUZC1aWVFOdHI?oc=5",
+  "published_at": "Sun, 19 Jul 2026 01:07:04 GMT",
+  "published_ts": 1784423224,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE40c1JRUHZab3hkaW1KbEhZakNXQk5SaG45cE9xNHMxVHBsSG9pMlFRdjN0Z202ci1JMWxCR3lKdWgxSzBEbHVvd25haE5aY0d4Z2paUzVUamtDUWVBd0NHbjBHZVh4QnY2U09TaWFweEo5RUpUZC1aWVFOdHI?oc=5\" target=\"_blank\">South Korea's $4T stock market signals risk appetite amid AI-driven swings in Samsung, SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korea's stock market shows risk appetite with AI-driven volatility affecting Samsung and SK hynix. The story names two key DRAM ETF holdings but provides no concrete news on memory pricing, capacity, demand, or company-specific developments—only market sentiment and stock swings driven by broader AI narrative."
+  },
+  "buffered_ts": 1784435125.4901066
  }
 ]
