@@ -694,5 +694,125 @@
    "summary": "Report that the US is pressuring Samsung and SK Hynix to share AI windfall profits. This involves two major DRAM ETF holdings and touches on their current profitability from AI demand, but is speculative/reported pressure rather than a concrete policy decision, regulatory filing, or earnings guidance change."
   },
   "buffered_ts": 1784444671.6816034
+ },
+ {
+  "id": "a9d2b63e06f21dc32f90d421a55222676874d7c8",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "SK chief says U.S. plants are in the works to address 'abnormal' prices with bolstered supply - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0FQd0pnQk10cHRENWh3SjFkRVhzTU9Qb2lQeXkwX1lIa2xpUFlPWmdzTldXNnk5NlhOTm9qVm9rTmNCZHJpalp1VjFyZVBRMFJaLXB4bXNZLVBqTHlpTzRvbEROcktLcDdRZGRNRnpYV016dmR5Qk9FSDg3Y29aQl9YQVFoMmhFNzV5MG1ncjRPd0tEVHZDZzBUZ3lmb2M4ZDBqUUV5WGl6cG9VQ2xTWi1oUEJVXy1wcGZESmtSQlVPWlBlVUNnMGdYVEtGaG5CUWZVOGY4RVlYZw?oc=5",
+  "published_at": "Sun, 19 Jul 2026 09:08:49 GMT",
+  "published_ts": 1784452129,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0FQd0pnQk10cHRENWh3SjFkRVhzTU9Qb2lQeXkwX1lIa2xpUFlPWmdzTldXNnk5NlhOTm9qVm9rTmNCZHJpalp1VjFyZVBRMFJaLXB4bXNZLVBqTHlpTzRvbEROcktLcDdRZGRNRnpYV016dmR5Qk9FSDg3Y29aQl9YQVFoMmhFNzV5MG1ncjRPd0tEVHZDZzBUZ3lmb2M4ZDBqUUV5WGl6cG9VQ2xTWi1oUEJVXy1wcGZESmtSQlVPWlBlVUNnMGdYVEtGaG5CUWZVOGY4RVlYZw?oc=5\" target=\"_blank\">SK chief says U.S. plants are in the works to address 'abnormal' prices with bolstered supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix leadership confirms U.S. plant construction underway to increase memory supply and address elevated prices. Concrete capacity expansion signals direct response to market conditions and will materially affect supply dynamics for a major fund holding."
+  },
+  "buffered_ts": 1784453165.1753347
+ },
+ {
+  "id": "288d0ba280f557de3d083d53b9814475340813b9",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix ADR Lists on Nasdaq; 11 South Korean Active ETFs Immediately Add to Portfolios - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Pd1hDT1VyMGlBdEdyNi04N2ZnZEo5QTZ6OU5KOHhOQXhWU3QzOHJKcmZVNlpwbmdRUWxiQ0RzOFdqbXppSVlxSEpKSElITEpqdUNGOVoyWFlsMTNFVUxTU1BlTHZUSzhneU9uOGVDMWRCdjk2Snc?oc=5",
+  "published_at": "Sun, 19 Jul 2026 02:05:00 GMT",
+  "published_ts": 1784426700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5Pd1hDT1VyMGlBdEdyNi04N2ZnZEo5QTZ6OU5KOHhOQXhWU3QzOHJKcmZVNlpwbmdRUWxiQ0RzOFdqbXppSVlxSEpKSElITEpqdUNGOVoyWFlsMTNFVUxTU1BlTHZUSzhneU9uOGVDMWRCdjk2Snc?oc=5\" target=\"_blank\">SK Hynix ADR Lists on Nasdaq; 11 South Korean Active ETFs Immediately Add to Portfolios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix ADR officially listed on Nasdaq and was immediately added to 11 South Korean active ETFs. This is a concrete, material development: SK hynix (a major DRAM/memory producer and key holding in memory-focused funds) has improved accessibility to U.S. investors through direct listing rather than ADR conversion, potentially increasing inclusion in U.S.-domiciled funds and broadening the shareholder base."
+  },
+  "buffered_ts": 1784453165.1753347
+ },
+ {
+  "id": "b1d9219433872db58f1edb342c68ed25c8464301",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Blue House Policy Chief Dismisses Delisting of Samsung, SK Hynix Leveraged ETFs, Warns of Shock to approximately $6.7 Billion Market - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oNHBQMnQwaW5tUENzdHV2OTBvcWg1R3ItNzNsMVBoVDdnYUUwQlNuRXdmNjdtd29MM1BHdW15VlJXZEFMcTJFQTViU1hfdnRZUVplUnc3Y0plSkFIaHlYZ2NGLWh5VFBCU3BkVkRZaXZkSEJVWWc?oc=5",
+  "published_at": "Sun, 19 Jul 2026 03:05:00 GMT",
+  "published_ts": 1784430300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1oNHBQMnQwaW5tUENzdHV2OTBvcWg1R3ItNzNsMVBoVDdnYUUwQlNuRXdmNjdtd29MM1BHdW15VlJXZEFMcTJFQTViU1hfdnRZUVplUnc3Y0plSkFIaHlYZ2NGLWh5VFBCU3BkVkRZaXZkSEJVWWc?oc=5\" target=\"_blank\">Blue House Policy Chief Dismisses Delisting of Samsung, SK Hynix Leveraged ETFs, Warns of Shock to approximately $6.7 Billion Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean government official dismisses potential delisting of Samsung and SK hynix leveraged ETFs, warning of market shock to ~$6.7B market. Addresses regulatory/listing risk for two major fund holdings but represents political positioning rather than confirmed delisting action or concrete development."
+  },
+  "buffered_ts": 1784453165.1753347
+ },
+ {
+  "id": "c0a4342e52992f9e7e69dd33841374c5c8273872",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "CXL Memory War Erupts as 'Next Memory' Battle Heats Up - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaV9ZOHU3TFVDS0xWMVFkVmxJWEFHM24xZXRmTjVHZGFmbDJkOU5fTGk1STNDRnVIMWswQnpIaXFWbjhIejNxd1JVblRIZkJWX1ZHNFZBYVE5YmJRNUZJUGRXNXBzRXk2TlZOb0o4bXFZaHBmWDZiR3lZT2xENk1ZbjVBVHVqM3hDVmE4Y1h2TU0yRHdJbEtCMnZB?oc=5",
+  "published_at": "Sun, 19 Jul 2026 08:38:03 GMT",
+  "published_ts": 1784450283,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaV9ZOHU3TFVDS0xWMVFkVmxJWEFHM24xZXRmTjVHZGFmbDJkOU5fTGk1STNDRnVIMWswQnpIaXFWbjhIejNxd1JVblRIZkJWX1ZHNFZBYVE5YmJRNUZJUGRXNXBzRXk2TlZOb0o4bXFZaHBmWDZiR3lZT2xENk1ZbjVBVHVqM3hDVmE4Y1h2TU0yRHdJbEtCMnZB?oc=5\" target=\"_blank\">CXL Memory War Erupts as 'Next Memory' Battle Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on competitive developments in CXL (Compute Express Link) memory technology and emerging memory solutions. CXL is a next-generation interconnect standard that could influence future memory demand and architecture, particularly relevant to semiconductor companies like SK hynix and Samsung that are positioning for advanced memory markets. The 'battle' framing suggests competitive positioning rather than a concrete confirmed development, making this relevant industry analysis but not yet a confirmed market-moving event."
+  },
+  "buffered_ts": 1784453165.1753347
+ },
+ {
+  "id": "11a1c0688bd309debc399bbb9c70bfded05751f0",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "SK chief warns AI memory shortage could turn geopolitical - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BNW43TnhteG1RYlhoMkhHaklTZkR2eVkzdEIwWThYemFZS2YxMXM3Qmp4dU13a1ktT1NHUjRVX1ZRNVVFWlhueXJnWjB1U3JXLXNLUURTUQ?oc=5",
+  "published_at": "Sun, 19 Jul 2026 08:05:58 GMT",
+  "published_ts": 1784448358,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BNW43TnhteG1RYlhoMkhHaklTZkR2eVkzdEIwWThYemFZS2YxMXM3Qmp4dU13a1ktT1NHUjRVX1ZRNVVFWlhueXJnWjB1U3JXLXNLUURTUQ?oc=5\" target=\"_blank\">SK chief warns AI memory shortage could turn geopolitical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix leadership warns that AI memory shortages could escalate into a geopolitical issue, highlighting the strategic importance of memory supply. This reflects market concern about HBM and DRAM capacity constraints driven by AI demand, but is executive commentary/warning rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1784453165.1753347
  }
 ]
