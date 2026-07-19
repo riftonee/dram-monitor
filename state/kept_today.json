@@ -436,5 +436,101 @@
    "summary": "StoneX article lists SK hynix earnings as a potential volatility driver alongside unrelated geopolitical and tech headlines. SK hynix is a fund holding, but the mention is passing and speculative about future volatility rather than reporting actual earnings results or concrete developments."
   },
   "buffered_ts": 1784496168.2589977
+ },
+ {
+  "id": "f5f2c060e45aa81b4a21b180d18e85a846f1219a",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "SK Group Chairman Chey Tae-won: Memory Demand Could Surge Up to 100% Next Year — \"Chaos-Level\" Pressure from Supply Shortages - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12OGRuN0FzSElrR3paOHVOT1dGRVN2cWE3Y2dNa3Y1TFZTeVl4QlNDUEtRN2tIR18yOWlCZDdWbW1sX2RVdGl6dnYxdWFqcVktb2trMmMyMjZvMjliaV9PUUtEaHdMU2RtUVFzS2xkNE1vMzY1TkE?oc=5",
+  "published_at": "Sun, 19 Jul 2026 15:55:00 GMT",
+  "published_ts": 1784476500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12OGRuN0FzSElrR3paOHVOT1dGRVN2cWE3Y2dNa3Y1TFZTeVl4QlNDUEtRN2tIR18yOWlCZDdWbW1sX2RVdGl6dnYxdWFqcVktb2trMmMyMjZvMjliaV9PUUtEaHdMU2RtUVFzS2xkNE1vMzY1TkE?oc=5\" target=\"_blank\">SK Group Chairman Chey Tae-won: Memory Demand Could Surge Up to 100% Next Year — \"Chaos-Level\" Pressure from Supply Shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group Chairman forecasts potential 100% memory demand surge next year and describes supply-shortage pressures as 'chaos-level.' While directionally relevant to memory cycle dynamics and SK hynix (a fund holding), this is forward-looking commentary and opinion rather than a confirmed event or hard shipping/pricing data. Analyst-type forecasts and executive commentary are scored as soft signals unless accompanied by concrete announcements (capex, production decisions, or pricing moves)."
+  },
+  "buffered_ts": 1784499898.5709882
+ },
+ {
+  "id": "c3d4f972afefe1f80b2bb821fb7843965562023f",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Kospi, Semiconductor Stocks Flash 'Black Monday' Warning; SK Hynix Earnings Seen as Watershed - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCSF9PN2VzUW1GWWQ5S2dsczZjLWtXU05xSmViQktYMVdkUFpESFVic2Jzc3dYUDI4ckdJS1RiWWF2eF9vR3AxS2NWUjJEY0ZBdWRNanhmLXpQd0FJOV8xdnI1ZHRPSm8yYmFoSmpYVnVIVXRkdkE?oc=5",
+  "published_at": "Sun, 19 Jul 2026 21:36:00 GMT",
+  "published_ts": 1784496960,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBCSF9PN2VzUW1GWWQ5S2dsczZjLWtXU05xSmViQktYMVdkUFpESFVic2Jzc3dYUDI4ckdJS1RiWWF2eF9vR3AxS2NWUjJEY0ZBdWRNanhmLXpQd0FJOV8xdnI1ZHRPSm8yYmFoSmpYVnVIVXRkdkE?oc=5\" target=\"_blank\">Kospi, Semiconductor Stocks Flash 'Black Monday' Warning; SK Hynix Earnings Seen as Watershed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix earnings flagged as a watershed moment for semiconductor stocks and the Kospi, with market volatility concerns. This is forward-looking analysis and market sentiment rather than a concrete earnings release or disclosed result."
+  },
+  "buffered_ts": 1784499898.5709882
+ },
+ {
+  "id": "0f4ac320fcc8a5e24152cf425a7fe182e326af3e",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix ADR Trades at Premium While Seoul Shares Plunge — Leveraged ETFs Amplify Volatility - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yWkVXNHNsM3JyVnlzZlFhMHFYdzJtUHRxM25QSmVXUVUwNXNuenQ0djNzWGxhWnBab3NXMWVTNVhubkNjQnQzVUJaRXVPYzVfOWdjY0tiZjI2ck9wdHRfOXlPaTh6aHhyWWRFS2MzRHp0RHp6OXc?oc=5",
+  "published_at": "Sun, 19 Jul 2026 16:26:00 GMT",
+  "published_ts": 1784478360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5yWkVXNHNsM3JyVnlzZlFhMHFYdzJtUHRxM25QSmVXUVUwNXNuenQ0djNzWGxhWnBab3NXMWVTNVhubkNjQnQzVUJaRXVPYzVfOWdjY0tiZjI2ck9wdHRfOXlPaTh6aHhyWWRFS2MzRHp0RHp6OXc?oc=5\" target=\"_blank\">SK Hynix ADR Trades at Premium While Seoul Shares Plunge — Leveraged ETFs Amplify Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a premium to Seoul-listed shares amid broader share decline; leveraged ETFs amplifying volatility. Price movement reported but no stated underlying catalyst beyond general market dynamics."
+  },
+  "buffered_ts": 1784499898.5709882
+ },
+ {
+  "id": "031d9ca3beda1f44135a40e259c43721da2bbc6b",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung, SK hynix Race to Mass-Produce CXL 3.2 Memory - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmNXdDBObkdYZmFZNk42bGlxWHRybHhqVTVrQnpvS3Vmd1N0d0xUWC1aZ1pnOHEtTUMwdnUzUmF2eUFnSEJMaXJPWC1KRmswbzNIS3UxamNiUmFrcnpGWVpRRFFnVVIwclNpMk5xbFBJMUxvNTVBVlBTNTFEenVYN2s1dExwdXppeDgxeE9ocF8tZEtPSE5HMw?oc=5",
+  "published_at": "Sun, 19 Jul 2026 22:00:05 GMT",
+  "published_ts": 1784498405,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmNXdDBObkdYZmFZNk42bGlxWHRybHhqVTVrQnpvS3Vmd1N0d0xUWC1aZ1pnOHEtTUMwdnUzUmF2eUFnSEJMaXJPWC1KRmswbzNIS3UxamNiUmFrcnpGWVpRRFFnVVIwclNpMk5xbFBJMUxvNTVBVlBTNTFEenVYN2s1dExwdXppeDgxeE9ocF8tZEtPSE5HMw?oc=5\" target=\"_blank\">Samsung, SK hynix Race to Mass-Produce CXL 3.2 Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix are competing to mass-produce CXL 3.2 memory, a high-bandwidth memory standard for data-center applications. This reflects industry momentum in advanced memory capacity targeted at AI infrastructure, but is a forward-looking competitive statement rather than a confirmed production or delivery milestone."
+  },
+  "buffered_ts": 1784499898.5709882
  }
 ]
