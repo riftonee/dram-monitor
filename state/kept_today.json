@@ -340,5 +340,101 @@
    "summary": "Apple is reportedly exploring solutions to address AI memory demands, potentially developing in-house memory solutions. This represents a speculative threat to Micron's memory business if Apple reduces reliance on external suppliers, but the story is based on possibility rather than confirmed action or signed agreements."
   },
   "buffered_ts": 1784487716.236807
+ },
+ {
+  "id": "573bfa157243bbb4db1a431dd234a15eda61d2da",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk: Even After a 580% Rise in 2026, It's Still a Screaming Buy (NASDAQ: SNDK) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0lFa1drT2dqVFpMRDNKWEtUWm9lWF9CSDRDT2Q1d1dPODVZR1M3UUxIY3gyRkN4SFlVdGRIamZsYkFRZE5jSTJNakdIZ0F3Vk12WUlyRkRuTF9yWFUzMURxbzZ2WVowS2JLMjBjQ0xkRzBScHEwRDRnVDNkYWlSSmo1S1Q2RXBHM0Z0VkpMZ1h6djRkQlE?oc=5",
+  "published_at": "Sun, 19 Jul 2026 19:04:00 GMT",
+  "published_ts": 1784487840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0lFa1drT2dqVFpMRDNKWEtUWm9lWF9CSDRDT2Q1d1dPODVZR1M3UUxIY3gyRkN4SFlVdGRIamZsYkFRZE5jSTJNakdIZ0F3Vk12WUlyRkRuTF9yWFUzMURxbzZ2WVowS2JLMjBjQ0xkRzBScHEwRDRnVDNkYWlSSmo1S1Q2RXBHM0Z0VkpMZ1h6djRkQlE?oc=5\" target=\"_blank\">Sandisk: Even After a 580% Rise in 2026, It's Still a Screaming Buy (NASDAQ: SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analyst opinion piece argues SanDisk (SNDK), a DRAM ETF holding, remains a strong buy even after a hypothetical 580% price rise in 2026. This is forward-looking analysis and price-target speculation rather than a concrete market event or earnings release, making it soft news with relevance to the holding but no confirmed catalyst."
+  },
+  "buffered_ts": 1784496168.2589977
+ },
+ {
+  "id": "1a897b2f1bc6429b4a50f693d6df1c69de68042e",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Three risks test AI chip boom as Korea expands memory capacity - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zVmhPZU1ITnZEWlNGTDI2WTBFbkNMcUh3cEhSUmpKd0h3REJINzh4dzgtTEJkeWRHS2htU2Vtbm5CaENsODhMSEhZdEJpVVVMOEdmd3RPZjVoSHlYazZIT21zMjF5V1pSVVQtTGUwcGk4T3lOUnBJemRB0gGOAUFVX3lxTE16Y1VvV1JZaWdPbnVzdGlpSEtvaDN5bzhMTmkyUDd1QkRkZ0VTM3pvVXBfTzdmMUp1SjhmVkdRTnpBbG1GdjZnRzQxU2VfRmY1WVpOUlB5MXV4bm55WkF3VlhFa2ZXb0FtWGVDNFBlcEdfb2tiOEpmbk1nOXhmLXpxMlFmOXpaU095LUx3VVE?oc=5",
+  "published_at": "Sun, 19 Jul 2026 21:01:00 GMT",
+  "published_ts": 1784494860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4zVmhPZU1ITnZEWlNGTDI2WTBFbkNMcUh3cEhSUmpKd0h3REJINzh4dzgtTEJkeWRHS2htU2Vtbm5CaENsODhMSEhZdEJpVVVMOEdmd3RPZjVoSHlYazZIT21zMjF5V1pSVVQtTGUwcGk4T3lOUnBJemRB0gGOAUFVX3lxTE16Y1VvV1JZaWdPbnVzdGlpSEtvaDN5bzhMTmkyUDd1QkRkZ0VTM3pvVXBfTzdmMUp1SjhmVkdRTnpBbG1GdjZnRzQxU2VfRmY1WVpOUlB5MXV4bm55WkF3VlhFa2ZXb0FtWGVDNFBlcEdfb2tiOEpmbk1nOXhmLXpxMlFmOXpaU095LUx3VVE?oc=5\" target=\"_blank\">Three risks test AI chip boom as Korea expands memory capacity - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Korean analysis of three risks facing the AI chip boom as Korea (SK hynix, Samsung) expands memory capacity. Discusses challenges to the memory cycle expansion, but appears to be analysis/opinion rather than a concrete event or new hard data on capacity, pricing, or production."
+  },
+  "buffered_ts": 1784496168.2589977
+ },
+ {
+  "id": "2e42740cfb08236d443c68e35dfb083c2b784671",
+  "source": "Borneo Bulletin",
+  "topic": "industry",
+  "title": "Global artificial intelligence chip shortage intensifies - Borneo Bulletin",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlMxQjJFdHBjS1ZCU2tzdmlHay1CVlRrV2ZVMV9oZElBdGc5YjZpVnFsSkZzWTItZ0cxdE5oM1Z1OXNpS29XZmFOTlBuajM1RUFvdkRLTk9meTZLY25XcFpwd1pyZjBqNGRldU9mZUdReG5HWXpVbmpHOGg0ZGZuRG9QRGh5dTE2UDEtdHFReU0?oc=5",
+  "published_at": "Sun, 19 Jul 2026 21:05:00 GMT",
+  "published_ts": 1784495100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlMxQjJFdHBjS1ZCU2tzdmlHay1CVlRrV2ZVMV9oZElBdGc5YjZpVnFsSkZzWTItZ0cxdE5oM1Z1OXNpS29XZmFOTlBuajM1RUFvdkRLTk9meTZLY25XcFpwd1pyZjBqNGRldU9mZUdReG5HWXpVbmpHOGg0ZGZuRG9QRGh5dTE2UDEtdHFReU0?oc=5\" target=\"_blank\">Global artificial intelligence chip shortage intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Borneo Bulletin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Borneo Bulletin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on intensifying global AI chip shortage. This is relevant to memory-semiconductor demand cycles as AI infrastructure expansion drives HBM and DRAM/NAND demand, but the story appears to be commentary or analysis rather than reporting a concrete new event, capacity announcement, or pricing shift. Treat as soft industry signal."
+  },
+  "buffered_ts": 1784496168.2589977
+ },
+ {
+  "id": "f466969b848e53883d74157e1de7bae053f41275",
+  "source": "StoneX",
+  "topic": "holding",
+  "title": "Will Volatility Catch Fire with US-Iran Attacks or Google, Tesla, SK Hynix Earnings? - StoneX",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGFSMktSMlJQdHVQVUR4VzFxUlVLTUxsUmd1U3lnVE1BQ1hkZjBTTkFwZVVjdlhzSXlNcnA1VjdaSkt3S1oxdVpWbWZpdXIzR1Yxbk1KeEl6WFFkZDlDaGN1cHl5TWpWMHpFOXF6ZmxuTW1kZWM3cDV5b2sxSGtNTXA4cnBISXlzdkk1V0tlRGh2cVNpbTlEc1lpUFNIWS1fUlotUjlndDBkaklMdTROU3BjQjY0V0RXLThlUQ?oc=5",
+  "published_at": "Sun, 19 Jul 2026 19:45:05 GMT",
+  "published_ts": 1784490305,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGFSMktSMlJQdHVQVUR4VzFxUlVLTUxsUmd1U3lnVE1BQ1hkZjBTTkFwZVVjdlhzSXlNcnA1VjdaSkt3S1oxdVpWbWZpdXIzR1Yxbk1KeEl6WFFkZDlDaGN1cHl5TWpWMHpFOXF6ZmxuTW1kZWM3cDV5b2sxSGtNTXA4cnBISXlzdkk1V0tlRGh2cVNpbTlEc1lpUFNIWS1fUlotUjlndDBkaklMdTROU3BjQjY0V0RXLThlUQ?oc=5\" target=\"_blank\">Will Volatility Catch Fire with US-Iran Attacks or Google, Tesla, SK Hynix Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StoneX</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StoneX"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "StoneX article lists SK hynix earnings as a potential volatility driver alongside unrelated geopolitical and tech headlines. SK hynix is a fund holding, but the mention is passing and speculative about future volatility rather than reporting actual earnings results or concrete developments."
+  },
+  "buffered_ts": 1784496168.2589977
  }
 ]
