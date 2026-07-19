@@ -193,5 +193,104 @@
    "summary": "Record inflows into a Korea-focused ETF are boosting SK hynix as a proxy play. This reflects investor interest in the holding but is soft commentary on fund flows rather than a concrete event affecting SK hynix's business or the DRAM ETF itself."
   },
   "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "279429bac775b0170d799191f4d2bef80726d10b",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "CXMT Supply Chain To Witness Major Process Transition To Seize DDR6 Opportunity Before Commercialization, Threatening Samsung’s And SK hynix’s Global Hold - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0kxWWsySlVSSTNXazJabEMxWTdzZmNheVItS2tkYU9pbXdfRlFpSWh3a2M0OGt3ckF4S0oyOUlrMnNxME93dGpzdDJGYjFKWDhwYTA2S2Rqb0FNQzV1Wk1rZ3dSODFXNHVOTHV6UEpQZGJsUmdnYno1U2JWT1psS1gwZ3lMM2k0SGxFXzloZmRpOE5EQkRnb3J1TE9JX2c3VllCelp3bFVKa3VRN0HSAbMBQVVfeXFMUDE2YWE1UFNWelhlTFVhMzlwdzRKQUlQbF94Z2dKVHMtYXNZMldNUGQyWkxRNUlLR2tFbXZnNjVibm1fUXhyWGdBaFpyRGtrZEFmRk1HaFY3QXlCc1UxVF9xQ3lNdjhOUU1Cc2JaU3FMb0Q1cVBDTWpRYmdMSHZhRjFqU2daanJIQVk2cWtsX2Q1eEVUTy12cmczZHVPU3YzdzFRdjlIeFJmZnVsYWhKZEJYNDA?oc=5",
+  "published_at": "Sun, 19 Jul 2026 17:34:35 GMT",
+  "published_ts": 1784482475,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0kxWWsySlVSSTNXazJabEMxWTdzZmNheVItS2tkYU9pbXdfRlFpSWh3a2M0OGt3ckF4S0oyOUlrMnNxME93dGpzdDJGYjFKWDhwYTA2S2Rqb0FNQzV1Wk1rZ3dSODFXNHVOTHV6UEpQZGJsUmdnYno1U2JWT1psS1gwZ3lMM2k0SGxFXzloZmRpOE5EQkRnb3J1TE9JX2c3VllCelp3bFVKa3VRN0HSAbMBQVVfeXFMUDE2YWE1UFNWelhlTFVhMzlwdzRKQUlQbF94Z2dKVHMtYXNZMldNUGQyWkxRNUlLR2tFbXZnNjVibm1fUXhyWGdBaFpyRGtrZEFmRk1HaFY3QXlCc1UxVF9xQ3lNdjhOUU1Cc2JaU3FMb0Q1cVBDTWpRYmdMSHZhRjFqU2daanJIQVk2cWtsX2Q1eEVUTy12cmczZHVPU3YzdzFRdjlIeFJmZnVsYWhKZEJYNDA?oc=5\" target=\"_blank\">CXMT Supply Chain To Witness Major Process Transition To Seize DDR6 Opportunity Before Commercialization, Threatening Samsung’s And SK hynix’s Global Hold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "CXMT reportedly planning process transition to compete in DDR6 memory market before Samsung and SK hynix commercialize, potentially challenging their market dominance. Speculative piece on future competitive positioning without confirmed details or timelines."
+  },
+  "buffered_ts": 1784483750.839407
+ },
+ {
+  "id": "46b08c46545056935e837345cb7cc601df844973",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "AI Sparks Memory Capacity Crunch; Taiwanese Firms Reap Windfall from Order Shifts - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXbW1mU29uWmxnM21uSDQwQWJxZWZxaXFNYWsxZWwwaDBqTnQ3ZElCSWV3Tk9pZGc4eHM5MEhfTEdOSUt6V2l4UFVhc2V0X1hUY1RxUVRvQmpMMlFHakQ4U0pFblN4NlpIbUNzUWdzX3lFVV9aM1E?oc=5",
+  "published_at": "Sun, 19 Jul 2026 00:30:00 GMT",
+  "published_ts": 1784421000,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBXbW1mU29uWmxnM21uSDQwQWJxZWZxaXFNYWsxZWwwaDBqTnQ3ZElCSWV3Tk9pZGc4eHM5MEhfTEdOSUt6V2l4UFVhc2V0X1hUY1RxUVRvQmpMMlFHakQ4U0pFblN4NlpIbUNzUWdzX3lFVV9aM1E?oc=5\" target=\"_blank\">AI Sparks Memory Capacity Crunch; Taiwanese Firms Reap Windfall from Order Shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "AI demand is creating a memory capacity crunch with order shifts benefiting Taiwanese semiconductor firms. This reflects HBM and DRAM demand dynamics from AI-infrastructure capex, a key industry driver for DRAM holdings, though the report appears to be analysis/commentary rather than announcing a specific concrete event or hard number."
+  },
+  "buffered_ts": 1784483750.839407
+ },
+ {
+  "id": "f6a8e22a1ce61cdf46812d673b238887507220cd",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcms1R202N2FWaU1WcUUyUkl6LXdueUtqLUwteTNWNWF6Y21YYnlGcmRMSkNkVE84LUx6Rk00bDFYTEFOZ25xVTB4YkdEbHZQRWxfUGd5cWNoNTJkVmhRLU9RYjRnNjNVTkpMSVNsdHRfN0toMnZ3aVlVXzdsOVVDV0xCV2lCQWhMWTZEdHpEOUFXMFozWUxDLVBaeWo?oc=5",
+  "published_at": "Sun, 19 Jul 2026 15:30:56 GMT",
+  "published_ts": 1784475056,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcms1R202N2FWaU1WcUUyUkl6LXdueUtqLUwteTNWNWF6Y21YYnlGcmRMSkNkVE84LUx6Rk00bDFYTEFOZ25xVTB4YkdEbHZQRWxfUGd5cWNoNTJkVmhRLU9RYjRnNjNVTkpMSVNsdHRfN0toMnZ3aVlVXzdsOVVDV0xCV2lCQWhMWTZEdHpEOUFXMFozWUxDLVBaeWo?oc=5\" target=\"_blank\">SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis comparing SanDisk and Seagate's divergent strategies and positioning in the AI storage boom. This is opinion/analysis rather than a concrete event or hard number, making it relevant to the fund's holdings but softer in impact than actual earnings or capacity announcements."
+  },
+  "buffered_ts": 1784483750.839407
+ },
+ {
+  "id": "d9f0e4a7dfb7895bf8469d59ad057cb0e6e6b1b3",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy? - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRElYbENRSXhjYnFvTm0tV3BIN0ltWEQtYkZvaGhOWnRYRU1hcEhQSDVDSFdRYzhqZ1p5WDNHc2dKZnRIQVVkcGlSbmpGWEl4dUtUVENfTC1BaGl3dlJQUWNjTnVfeTNnM19LcWR2ZkNUVUdDU01JUm5Ddk9kRnZZcl84NWFXMU5XM0RKQzFWNE5tWDkydF9hampQRGlBT3JyT1JGX055d3NvQVlUeHBrY0oydFZZcGJ2TjNIaWdmMkxidw?oc=5",
+  "published_at": "Sun, 19 Jul 2026 16:00:50 GMT",
+  "published_ts": 1784476850,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRElYbENRSXhjYnFvTm0tV3BIN0ltWEQtYkZvaGhOWnRYRU1hcEhQSDVDSFdRYzhqZ1p5WDNHc2dKZnRIQVVkcGlSbmpGWEl4dUtUVENfTC1BaGl3dlJQUWNjTnVfeTNnM19LcWR2ZkNUVUdDU01JUm5Ddk9kRnZZcl84NWFXMU5XM0RKQzFWNE5tWDkydF9hampQRGlBT3JyT1JGX055d3NvQVlUeHBrY0oydFZZcGJ2TjNIaWdmMkxidw?oc=5\" target=\"_blank\">Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy? - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU) reported strong Q3 earnings with rising guidance. This is an analyst/opinion piece discussing the earnings results and investment merits; the earnings event itself is concrete, but post-earnings analyst commentary and \"is it a buy?\" analysis represent market digestion of known results rather than new information distinct from the earnings release."
+  },
+  "buffered_ts": 1784483750.839407
  }
 ]
