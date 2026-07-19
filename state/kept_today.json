@@ -292,5 +292,53 @@
    "summary": "Micron (MU) reported strong Q3 earnings with rising guidance. This is an analyst/opinion piece discussing the earnings results and investment merits; the earnings event itself is concrete, but post-earnings analyst commentary and \"is it a buy?\" analysis represent market digestion of known results rather than new information distinct from the earnings release."
   },
   "buffered_ts": 1784483750.839407
+ },
+ {
+  "id": "c7e08f8c4582329a15925dcb712dedd249992de6",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk: Even After a 580% Rise in 2026, It's Still a Screaming Buy (NASDAQ: SNDK) - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnJNMl9KR3NOcl9fTDhfZ2g0N0FMR3d2c3FtdWYtQm5OZ0d2R3dJMXcyUms0ZWF2NlZLYmpfVnZhZHR4QWNQWWVfUnRqbFU2QVh6UmNTSUFKVjBZMDZyVHd4a1lueHN2SHhKWWI3Vi1OTDcxelIxMVVKRy1YWExuODl2Zzk2c2czbnNERmxtRVBWMEw3aWw4?oc=5",
+  "published_at": "Sun, 19 Jul 2026 18:49:51 GMT",
+  "published_ts": 1784486991,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnJNMl9KR3NOcl9fTDhfZ2g0N0FMR3d2c3FtdWYtQm5OZ0d2R3dJMXcyUms0ZWF2NlZLYmpfVnZhZHR4QWNQWWVfUnRqbFU2QVh6UmNTSUFKVjBZMDZyVHd4a1lueHN2SHhKWWI3Vi1OTDcxelIxMVVKRy1YWExuODl2Zzk2c2czbnNERmxtRVBWMEw3aWw4?oc=5\" target=\"_blank\">Sandisk: Even After a 580% Rise in 2026, It's Still a Screaming Buy (NASDAQ: SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analyst opinion piece arguing SanDisk remains a buy despite a hypothetical 580% gain in 2026. This is analyst commentary and speculation about future price potential, not a concrete event or hard data about the company's fundamentals, earnings, or the memory cycle."
+  },
+  "buffered_ts": 1784487716.236807
+ },
+ {
+  "id": "b527c1dbea6683f4c4a02c7e99a162bcc829256b",
+  "source": "The Globe and Mail",
+  "topic": "industry",
+  "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM25xb1pkLVhXN2MzOHh3VUJLZWJyWGF2dFJybDMxa0ljY0E1Vy1XaHJ1NWJEV3FCRENlYXlIV2FNNG8xTDVnTktmQmhTLW9ELUhMR05JN2FxVG9CVWowMXh3V1VfRW50UGhTWGMyMnpfaUF1OVVUaVUySHloMzc5UjZMYnJtWGV3WV8za3NjUkZEZWZMQ2RWbXhkazFFdlRRZEo3d0ttSFFwdHhkcUdTMGlmVHhoUTZZcXBMV1VBakJmaXl4d1NVaXo2X05RV29ORWlaaC1XR0VYaEF5RDJOLXBqRGl1bUwt?oc=5",
+  "published_at": "Sun, 19 Jul 2026 17:41:07 GMT",
+  "published_ts": 1784482867,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM25xb1pkLVhXN2MzOHh3VUJLZWJyWGF2dFJybDMxa0ljY0E1Vy1XaHJ1NWJEV3FCRENlYXlIV2FNNG8xTDVnTktmQmhTLW9ELUhMR05JN2FxVG9CVWowMXh3V1VfRW50UGhTWGMyMnpfaUF1OVVUaVUySHloMzc5UjZMYnJtWGV3WV8za3NjUkZEZWZMQ2RWbXhkazFFdlRRZEo3d0ttSFFwdHhkcUdTMGlmVHhoUTZZcXBMV1VBakJmaXl4d1NVaXo2X05RV29ORWlaaC1XR0VYaEF5RDJOLXBqRGl1bUwt?oc=5\" target=\"_blank\">A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Apple is reportedly exploring solutions to address AI memory demands, potentially developing in-house memory solutions. This represents a speculative threat to Micron's memory business if Apple reduces reliance on external suppliers, but the story is based on possibility rather than confirmed action or signed agreements."
+  },
+  "buffered_ts": 1784487716.236807
  }
 ]
