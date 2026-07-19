@@ -814,5 +814,29 @@
    "summary": "SK hynix leadership warns that AI memory shortages could escalate into a geopolitical issue, highlighting the strategic importance of memory supply. This reflects market concern about HBM and DRAM capacity constraints driven by AI demand, but is executive commentary/warning rather than a concrete event or hard number."
   },
   "buffered_ts": 1784453165.1753347
+ },
+ {
+  "id": "599d1210af8e1c6009430341af13c4ac97e00487",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "SemiAnalysis: Kimi K3's Linear Attention Won't Weaken Nvidia Demand — It Actually Requires More GPUs and HBM - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UbW14VHVESG1tNVJ6Qlp0ZDVOUzRqblJaZ2ViaWt3VGpjQkE4eF9vbVBPN21BWGtfc1puMHB2aDhYbHlFWVc3ZUhtYmZ5cGVvT3dXcmVSRnliQXQwRm9WT3NaNXJRcnpSMFQ0em1hREJ6dWZUNGc?oc=5",
+  "published_at": "Sun, 19 Jul 2026 07:00:39 GMT",
+  "published_ts": 1784444439,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9UbW14VHVESG1tNVJ6Qlp0ZDVOUzRqblJaZ2ViaWt3VGpjQkE4eF9vbVBPN21BWGtfc1puMHB2aDhYbHlFWVc3ZUhtYmZ5cGVvT3dXcmVSRnliQXQwRm9WT3NaNXJRcnpSMFQ0em1hREJ6dWZUNGc?oc=5\" target=\"_blank\">SemiAnalysis: Kimi K3's Linear Attention Won't Weaken Nvidia Demand — It Actually Requires More GPUs and HBM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SemiAnalysis analysis claiming Kimi K3's linear attention architecture will increase rather than decrease demand for GPUs and HBM (high-bandwidth memory), supporting continued AI infrastructure capex and memory demand. This is analyst commentary on AI trends affecting HBM demand, relevant to the fund's holdings but not a concrete event or hard data point."
+  },
+  "buffered_ts": 1784458339.0991547
  }
 ]
