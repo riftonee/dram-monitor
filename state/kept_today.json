@@ -22,5 +22,176 @@
    "summary": "Opinion piece discussing AI-driven memory demand (the 'memory wall' problem) and predicting beneficiary stocks. This is analysis and forward-looking commentary rather than a concrete event or hard number, making it relevant to the memory cycle but soft in terms of impact."
   },
   "buffered_ts": 1784466578.7476926
+ },
+ {
+  "id": "0266820d4af25b7827e1ae81ce0b51d432517554",
+  "source": "Tom's Hardware",
+  "topic": "holding",
+  "title": "Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’ - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcUhwU1hzZWpTcktEYkcxTHRkaGZKYzJ3R3VsOEVsdUl5ZE5sUnAzcjdXT1ZDbHlqVlo2aHdReWlsZ2J2aC10NVNvMDJPS01MWDNOajN4N092YjFmbGZIRG5CRU03LU9QMWdPbUtpUEstQjFrOE8wTTVJY2xHdE0wUlRDcFZSTWdRMHVrcGFiU3JLLWdQRFNtT1VPSVdVZTByYnFCaEFBNzlNSVRyRG1rd3AyV2Z6V0QyWUJmUURTcllza1QweU1qY0ZWNlcyNWVEX0dMcFhROTRYN09PUmpPajhKZ1JjSUY5SkM0NDczVnRmTE1haFVRSk83UU4tQURkMUw3ZXNRRGVwd1JZQkwycGY5RFR3anRXUjNEbzltTFN0VHZVbXV4d052UFBRTmRFc2Vv?oc=5",
+  "published_at": "Sun, 19 Jul 2026 13:55:00 GMT",
+  "published_ts": 1784469300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNcUhwU1hzZWpTcktEYkcxTHRkaGZKYzJ3R3VsOEVsdUl5ZE5sUnAzcjdXT1ZDbHlqVlo2aHdReWlsZ2J2aC10NVNvMDJPS01MWDNOajN4N092YjFmbGZIRG5CRU03LU9QMWdPbUtpUEstQjFrOE8wTTVJY2xHdE0wUlRDcFZSTWdRMHVrcGFiU3JLLWdQRFNtT1VPSVdVZTByYnFCaEFBNzlNSVRyRG1rd3AyV2Z6V0QyWUJmUURTcllza1QweU1qY0ZWNlcyNWVEX0dMcFhROTRYN09PUmpPajhKZ1JjSUY5SkM0NDczVnRmTE1haFVRSk83UU4tQURkMUw3ZXNRRGVwd1JZQkwycGY5RFR3anRXUjNEbzltTFN0VHZVbXV4d052UFBRTmRFc2Vv?oc=5\" target=\"_blank\">Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tom's Hardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix chairman acknowledges RAM prices are 'abnormally high' and is considering building a US semiconductor plant to expand supply and address 'chipflation'. This is a strategic intention rather than a confirmed investment decision or capacity announcement."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "5b9095bdf941535e56e2b21f4a7bfb02c54b6426",
+  "source": "Yahoo Finance",
+  "topic": "pricing",
+  "title": "AI Is Keeping DRAM Prices High — Here’s Exactly When the Market Finally Loosens Up - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXdHZ3d6dXNmcnNVWXFNTTh2MWtZZmFNLWtpYTQ4ZkJDNG8xak05Q0FTbm1uVjQ1MlRWNzVFcnVQaVVmYzFqcU5PU2dtaUtxRE1fSjJXVTFPVDg5eTU3MTk0MjJhdlMwQWFaTmtYTmNKczVLb3A3bkM4QXZBXzZlbjBOWmI4UGRiYUFHODRONE1mdmc3Z0E?oc=5",
+  "published_at": "Sun, 19 Jul 2026 13:00:31 GMT",
+  "published_ts": 1784466031,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXdHZ3d6dXNmcnNVWXFNTTh2MWtZZmFNLWtpYTQ4ZkJDNG8xak05Q0FTbm1uVjQ1MlRWNzVFcnVQaVVmYzFqcU5PU2dtaUtxRE1fSjJXVTFPVDg5eTU3MTk0MjJhdlMwQWFaTmtYTmNKczVLb3A3bkM4QXZBXzZlbjBOWmI4UGRiYUFHODRONE1mdmc3Z0E?oc=5\" target=\"_blank\">AI Is Keeping DRAM Prices High — Here’s Exactly When the Market Finally Loosens Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece discussing how AI demand is supporting elevated DRAM prices and forecasting when the market may see price relief. This is opinion/analysis on pricing trends rather than a report of concrete price movement or a confirmed supply/demand event."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "94c30c482f06a02b903628d18f98ec5b505e2d77",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Become Global AI Barometers as Kospi-Nasdaq Correlation Triples - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR3Y3NWl1RXFqcWVRdG9KU2QzNng3VXZ2NE9VSGl4OFFwb1hBeTR3MzYxZHJPc09ORzUtR1NtelRWcmhMcm9kN3ZWOHdGTzhqMmF1Vw?oc=5",
+  "published_at": "Sun, 19 Jul 2026 14:26:19 GMT",
+  "published_ts": 1784471179,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR3Y3NWl1RXFqcWVRdG9KU2QzNng3VXZ2NE9VSGl4OFFwb1hBeTR3MzYxZHJPc09ORzUtR1NtelRWcmhMcm9kN3ZWOHdGTzhqMmF1Vw?oc=5\" target=\"_blank\">Samsung, SK Hynix Become Global AI Barometers as Kospi-Nasdaq Correlation Triples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece noting Samsung and SK hynix serve as barometers for global AI sentiment due to their dominance in memory supply and rising correlation between Korean and US tech markets. No concrete event or new information reported, but relevant as commentary on the two holdings' market role."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "d25ad265d12a3cb827b52157f9e47b5d76c7be02",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDBYMm5jeWFqVEVPV25MMFZIWFBYWWhSSWczNWVnR2plZlRHV2NqZVEzV3d6Tk5lS1V0MHFKMHJCN1FfMmJuQkFwOGtxNmEtVGlDc1hwMXlIUjBpNGEySnpfOGpZX0lyYWhrZ2FXVXNnZVI1UHc0c2stN1VmbDZ1UkZwU3FMckFtTWE4WmVkbFZwS2diN0psc3FGdms5ZzZpRWNKT00zSTJhb1JvNTRmbFJ5WExMRUZIbUtMTjRB?oc=5",
+  "published_at": "Sun, 19 Jul 2026 15:30:56 GMT",
+  "published_ts": 1784475056,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDBYMm5jeWFqVEVPV25MMFZIWFBYWWhSSWczNWVnR2plZlRHV2NqZVEzV3d6Tk5lS1V0MHFKMHJCN1FfMmJuQkFwOGtxNmEtVGlDc1hwMXlIUjBpNGEySnpfOGpZX0lyYWhrZ2FXVXNnZVI1UHc0c2stN1VmbDZ1UkZwU3FMckFtTWE4WmVkbFZwS2diN0psc3FGdms5ZzZpRWNKT00zSTJhb1JvNTRmbFJ5WExMRUZIbUtMTjRB?oc=5\" target=\"_blank\">SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "SanDisk vs Seagate: Two Divergent Paths Through the AI Storage Boom, One Winner - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Opinion piece comparing SanDisk and Seagate's strategic positioning in the AI storage market, analyzing their divergent paths and competitive outlook. Contains analysis and commentary rather than concrete developments or reported events."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "8ecef9b78d3b3f841983b85fc6bff19d847b2a0a",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Seagate stock trades steadily as AI storage demand underpins recent earnings - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVh5R2wtOWZhNlh6RmNMaWx1T3JJVTB2WC1weHNNdWdwRm5MQ2x6WDZfX3lENFRVb0EyYVFGWEY0ZXcweWxWUktrY2IwcGVtOHJEQ3MzeDQ1anNJbk1qdVNnZDlmUnZQbEhVUG56aVBMRnQyTmhFVVE1MlU0NkhuQUF3SE5INEJ3UDNDY0g5eEJwSHBHMXBBZEREWC1XMkVkNExlaE03NWp3S25mZzZCYTBzMUhqMFRrNzQxRG9VU3M3ZnFG?oc=5",
+  "published_at": "Sun, 19 Jul 2026 15:27:52 GMT",
+  "published_ts": 1784474872,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVh5R2wtOWZhNlh6RmNMaWx1T3JJVTB2WC1weHNNdWdwRm5MQ2x6WDZfX3lENFRVb0EyYVFGWEY0ZXcweWxWUktrY2IwcGVtOHJEQ3MzeDQ1anNJbk1qdVNnZDlmUnZQbEhVUG56aVBMRnQyTmhFVVE1MlU0NkhuQUF3SE5INEJ3UDNDY0g5eEJwSHBHMXBBZEREWC1XMkVkNExlaE03NWp3S25mZzZCYTBzMUhqMFRrNzQxRG9VU3M3ZnFG?oc=5\" target=\"_blank\">Seagate stock trades steadily as AI storage demand underpins recent earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate stock trading steadily with AI storage demand cited as support for recent earnings. This is a post-earnings market reaction and commentary piece without new concrete information beyond the already-reported results."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "478b2d6ef197bb896accd97544f59c9095235ede",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SanDisk (NASDAQ:SNDK) Stock Falls 29% in a Week, but Its Earnings Bar Stays High - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHl6NS1FRTB2ZlB6WGY4SWZ2ZWU4VFVXanlic1JXbW5iaXpNU1hFREtvRUdSdmJWZHJMQUNCOFlRblhjZWVqVnFkT3BHdlRjMS1MRGNpdU1XZVYyOEFyLVNiSGMxRjcyN0JPZUFheFJrNHdGTTBELVVMdVJIbzUwTVJkTUJlMGNtV0VBQWVsTnpqUldaUFgxeFVIU3g?oc=5",
+  "published_at": "Sun, 19 Jul 2026 15:35:35 GMT",
+  "published_ts": 1784475335,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHl6NS1FRTB2ZlB6WGY4SWZ2ZWU4VFVXanlic1JXbW5iaXpNU1hFREtvRUdSdmJWZHJMQUNCOFlRblhjZWVqVnFkT3BHdlRjMS1MRGNpdU1XZVYyOEFyLVNiSGMxRjcyN0JPZUFheFJrNHdGTTBELVVMdVJIbzUwTVJkTUJlMGNtV0VBQWVsTnpqUldaUFgxeFVIU3g?oc=5\" target=\"_blank\">SanDisk (NASDAQ:SNDK) Stock Falls 29% in a Week, but Its Earnings Bar Stays High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock fell 29% in a week; article discusses earnings bar and valuation implications. This is a post-earnings price move with analysis rather than a concrete new catalyst, so impact is soft (3) rather than event-driven (4-5)."
+  },
+  "buffered_ts": 1784476474.9069443
+ },
+ {
+  "id": "d78e4d48b62ecf9a44204f190453f4759803e3b3",
+  "source": "Advisor Perspectives",
+  "topic": "holding",
+  "title": "Korea ETF’s Record Inflow Fuels SK Hynix Proxy Play - Advisor Perspectives",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVQwLWtnYXFVV2YtYUhOZFVVTjR3OE1PYUhmZ0g2RHZpaW5CdjlGeDkxMm1QTEpIVUJOT0FZVUJNWm40c3A2NlVXUW5pSXIwY01tSk5DQlA2N0lwSFFiUE9iOG9TUTVKejdXRWJvYldQMmtLRXItMkFVNXBQNlRoUS1ZOUhyOEJaTnk5c1hLel8zVU9MbHppbkV3?oc=5",
+  "published_at": "Sun, 19 Jul 2026 13:22:55 GMT",
+  "published_ts": 1784467375,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVQwLWtnYXFVV2YtYUhOZFVVTjR3OE1PYUhmZ0g2RHZpaW5CdjlGeDkxMm1QTEpIVUJOT0FZVUJNWm40c3A2NlVXUW5pSXIwY01tSk5DQlA2N0lwSFFiUE9iOG9TUTVKejdXRWJvYldQMmtLRXItMkFVNXBQNlRoUS1ZOUhyOEJaTnk5c1hLel8zVU9MbHppbkV3?oc=5\" target=\"_blank\">Korea ETF’s Record Inflow Fuels SK Hynix Proxy Play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Advisor Perspectives</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Advisor Perspectives"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Record inflows into a Korea-focused ETF are boosting SK hynix as a proxy play. This reflects investor interest in the holding but is soft commentary on fund flows rather than a concrete event affecting SK hynix's business or the DRAM ETF itself."
+  },
+  "buffered_ts": 1784476474.9069443
  }
 ]
