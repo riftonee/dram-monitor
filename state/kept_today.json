@@ -772,5 +772,125 @@
    "summary": "SK Hynix surged over 4% as chip and memory sectors rebounded. This is a stock-price move report with no stated catalyst or concrete news event driving the gain, making it a minor mention of a price move without underlying material information."
   },
   "buffered_ts": 1784578694.067716
+ },
+ {
+  "id": "ed86876cfdd57aa9fa2310ab7d5ca444b0ff258b",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5",
+  "published_at": "Mon, 20 Jul 2026 21:01:00 GMT",
+  "published_ts": 1784581260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5\" target=\"_blank\">AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and SK hynix have secured major HBM4 orders, with AMD emerging as a challenger to Nvidia in high-bandwidth memory demand. This represents a concrete allocation of significant HBM4 capacity to specific customers and signals a shift in the competitive landscape for memory chips used in AI infrastructure."
+  },
+  "buffered_ts": 1784583692.8827114
+ },
+ {
+  "id": "01641d36144c17911d1ec7389d562c974e95e7ba",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Micron or SanDisk: One AI Memory Stock Is a Bargain, the Other Has Lost Its Mojo, Says Investor - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzJRbWNvMlROUEkzV3NOOHcwNTB1S1dhUVM0RWR1QWN5VjJTei1Hd3J3VEQ2MHRqU28wcjV6Ul9iSTBQVFJzWWZ3RC1oSGhHdG5CYVRJN1A2U0FaVXRhUXVwLW05WHNFak5WamRCWFctRGtJeHZkN1FzdTZ1dElXV0JST09jUGlrR1NQTEJwMVNhaUU5ZFd4QUQ5UzZmVVpoSlVacDBIODNNOG95SWR1QXFmUUFvOFdXeTZDaFlGUQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 17:25:48 GMT",
+  "published_ts": 1784568348,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzJRbWNvMlROUEkzV3NOOHcwNTB1S1dhUVM0RWR1QWN5VjJTei1Hd3J3VEQ2MHRqU28wcjV6Ul9iSTBQVFJzWWZ3RC1oSGhHdG5CYVRJN1A2U0FaVXRhUXVwLW05WHNFak5WamRCWFctRGtJeHZkN1FzdTZ1dElXV0JST09jUGlrR1NQTEJwMVNhaUU5ZFd4QUQ5UzZmVVpoSlVacDBIODNNOG95SWR1QXFmUUFvOFdXeTZDaFlGUQ?oc=5\" target=\"_blank\">Micron or SanDisk: One AI Memory Stock Is a Bargain, the Other Has Lost Its Mojo, Says Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TipRanks investor commentary comparing Micron and SanDisk valuations in the AI memory context—one positioned as a bargain, the other as having lost momentum. This is analyst opinion and valuation assessment rather than a concrete event or new information, making it relevant but soft."
+  },
+  "buffered_ts": 1784583692.8827114
+ },
+ {
+  "id": "215d6282315380ac4cd75e293c34a408e22ea8f6",
+  "source": "Traders Union",
+  "topic": "holding",
+  "title": "What's behind SanDisk's latest 5.3% stock surge? - Traders Union",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWZxWEttdllyUjVrR2FPSS1lMzBuNFh6ZHV3UVFPMldQUjlXRWNDVVA2dDFLTmt6SjgxWnJvbDlIUTZlYmYtRXhUTVlVQi1vdmZaUV94b19HUTJBMnZpeTZxb29lXzNJRlZpNlpQUk1POVZ5TjBoNHVtSmVPMWF2ZHFuOHY1c3ZLLW5aTWJfQ0hWaENqYmJIYV9B?oc=5",
+  "published_at": "Mon, 20 Jul 2026 17:52:27 GMT",
+  "published_ts": 1784569947,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWZxWEttdllyUjVrR2FPSS1lMzBuNFh6ZHV3UVFPMldQUjlXRWNDVVA2dDFLTmt6SjgxWnJvbDlIUTZlYmYtRXhUTVlVQi1vdmZaUV94b19HUTJBMnZpeTZxb29lXzNJRlZpNlpQUk1POVZ5TjBoNHVtSmVPMWF2ZHFuOHY1c3ZLLW5aTWJfQ0hWaENqYmJIYV9B?oc=5\" target=\"_blank\">What's behind SanDisk's latest 5.3% stock surge?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Traders Union"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a key DRAM ETF holding, experienced a 5.3% stock surge. The article appears to analyze the drivers behind this price move, likely reflecting market reaction to news or earnings rather than a new catalyst itself. Without confirmation of a distinct, concrete event causing the surge beyond routine price action or earnings digestion, this qualifies as relevant but soft analysis of a stock move."
+  },
+  "buffered_ts": 1784583692.8827114
+ },
+ {
+  "id": "4ed2beae47a1bbe6e4b62ee12c0d2c01ede23903",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Rebounded Today - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NzMlYxWFBsZnJmTkM3ekNCSzFhSW9WMnI1S2RvTXNSczEtNzZmRzhZeldGRlczQkQ3OTJGeXI5SVRvS0c2MUVRaDg0TGF4LXlaTUMzdEd6Qzd1Nld0RjZxajlyYlQ5bC1NT2NxNG1tcmtYM2Y0c1hzaXpORldRcTFaTFd5STg1NHg4LXlCSDBzakw1V0Y3blVycWtEd1JfX25XSTl3UTlnNDdoajhHdnNaSGJDVVJUd1JR?oc=5",
+  "published_at": "Mon, 20 Jul 2026 19:09:01 GMT",
+  "published_ts": 1784574541,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NzMlYxWFBsZnJmTkM3ekNCSzFhSW9WMnI1S2RvTXNSczEtNzZmRzhZeldGRlczQkQ3OTJGeXI5SVRvS0c2MUVRaDg0TGF4LXlaTUMzdEd6Qzd1Nld0RjZxajlyYlQ5bC1NT2NxNG1tcmtYM2Y0c1hzaXpORldRcTFaTFd5STg1NHg4LXlCSDBzakw1V0Y3blVycWtEd1JfX25XSTl3UTlnNDdoajhHdnNaSGJDVVJUd1JR?oc=5\" target=\"_blank\">Why Sandisk Stock Rebounded Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rebounded; article explains the reason for the intraday move. Without access to the full article text, the rebound appears to be a price movement likely driven by market reaction to known information or technical factors rather than a new concrete catalyst."
+  },
+  "buffered_ts": 1784583692.8827114
+ },
+ {
+  "id": "42e8c7428be67f569f1f9997e9dd5df4c00e6b26",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Micron and Sandisk Shares Are Crashing. Is It Time to Buy the Dip? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGVaclVvWkFJVE52dDJLam1ZY1BGdHRXWHBzLXBPRjVWc2tuZFVZYUhvT3J0b0pfZWxCQTBaSFVZM2dfRjEybHZhQmo3dEFOd2dEV2Z1cjdybGxRc1VXOFBtQXRKd3pjajluSWZldE5NYkFNU1RIWGVzQUstcUFYRjFDaV9ucGQxWXlGYUdNWmg5anNIX3E4?oc=5",
+  "published_at": "Mon, 20 Jul 2026 21:16:30 GMT",
+  "published_ts": 1784582190,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGVaclVvWkFJVE52dDJLam1ZY1BGdHRXWHBzLXBPRjVWc2tuZFVZYUhvT3J0b0pfZWxCQTBaSFVZM2dfRjEybHZhQmo3dEFOd2dEV2Z1cjdybGxRc1VXOFBtQXRKd3pjajluSWZldE5NYkFNU1RIWGVzQUstcUFYRjFDaV9ucGQxWXlGYUdNWmg5anNIX3E4?oc=5\" target=\"_blank\">Micron and Sandisk Shares Are Crashing. Is It Time to Buy the Dip?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Motley Fool opinion piece discussing recent share price declines in Micron and SanDisk, posing a speculative 'buy the dip' question without reporting a specific catalyst or concrete news."
+  },
+  "buffered_ts": 1784583692.8827114
  }
 ]
