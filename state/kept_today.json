@@ -601,5 +601,80 @@
    "summary": "SK hynix's Nasdaq-listed shares trading at a 29% premium to Seoul-listed shares is a stock-price arbitrage observation with no new fundamental information about the company's memory business, demand, or operations. It reflects market structure/liquidity differences rather than material changes to the fund's holding."
   },
   "buffered_ts": 1784566652.0849037
+ },
+ {
+  "id": "4e22682ab367254a2643f3ec48a02b7894e7d396",
+  "source": "Stocks Down Under",
+  "topic": "holding",
+  "title": "Micron (NASDAQ:MU) Jumps After SK Hynix’s Chairman Calls Memory Prices “Abnormal” - Stocks Down Under",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44M2RWSTRsNHdYbE53OHV4SG5BMzlCRkVDT3NUeENLaGhjWUNsbmVwZk5Pc29EWEVEUnJxekFUak1YU1U4SUc3R0c2WDk3U1ZpcG9HQkFNZXBTeUFMdnZ3UWVQSkRkVXhZLUdmTU53cFpDZw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 17:30:13 GMT",
+  "published_ts": 1784568613,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE44M2RWSTRsNHdYbE53OHV4SG5BMzlCRkVDT3NUeENLaGhjWUNsbmVwZk5Pc29EWEVEUnJxekFUak1YU1U4SUc3R0c2WDk3U1ZpcG9HQkFNZXBTeUFMdnZ3UWVQSkRkVXhZLUdmTU53cFpDZw?oc=5\" target=\"_blank\">Micron (NASDAQ:MU) Jumps After SK Hynix’s Chairman Calls Memory Prices “Abnormal”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocks Down Under</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocks Down Under"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SK hynix Chairman characterizes current memory prices as 'abnormal,' triggering a stock move in Micron. This is commentary on pricing dynamics rather than a concrete event or hard data (e.g., an announced price cut, a supply shock, or official guidance change), making it analyst/executive opinion on market conditions. The stock jump is a market reaction to the sentiment rather than a new material development itself."
+  },
+  "buffered_ts": 1784573585.4476626
+ },
+ {
+  "id": "035c75de67fd7d67dbaa430d939d23694c2b53fb",
+  "source": "24/7 Wall St.",
+  "topic": "fund",
+  "title": "If Micron’s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027 - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDJmRzZuaGJlMWkyRzJfWExvOXVReGhhY0FPUlJ4VWE2ZFNLd0o1Q2k0RG5VeExURVRJRFE2aTdUc21HMHJCZTN0T1dyNVhoTXVod1hsVzBzNHZ5R3BXTWJnbV9WdUhub2JzU0hOdmNJaXhZLUl6TWJLRldhRVEzak9qeG1mZTkyU3diUlhoWUo3TS1qTFZqVWpRNmFVb2wtWlZvQWFHbk1SaXVWaHRfVzBYSFVHMWx6Wk9Ccw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 17:45:43 GMT",
+  "published_ts": 1784569543,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDJmRzZuaGJlMWkyRzJfWExvOXVReGhhY0FPUlJ4VWE2ZFNLd0o1Q2k0RG5VeExURVRJRFE2aTdUc21HMHJCZTN0T1dyNVhoTXVod1hsVzBzNHZ5R3BXTWJnbV9WdUhub2JzU0hOdmNJaXhZLUl6TWJLRldhRVEzak9qeG1mZTkyU3diUlhoWUo3TS1qTFZqVWpRNmFVb2wtWlZvQWFHbk1SaXVWaHRfVzBYSFVHMWx6Wk9Ccw?oc=5\" target=\"_blank\">If Micron’s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Opinion piece discussing potential rally for memory stock ETFs including DRAM based on Micron CEO commentary. Analyst speculation rather than a concrete event or new market-moving information."
+  },
+  "buffered_ts": 1784573585.4476626
+ },
+ {
+  "id": "db3398a5571b1c2b52fdc579a5a4e5f1bf43aa26",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Rebounded Today - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTR6S1RFQVk5VUlpa0U0TGM5ZFY4YVl2X1pNRzVORnlsSjlMWUR6Z19xSko2cjRaNzVXQkNUVTFiT29SMDQtbzAyWGNBS291dm9hZHBvNDJDQkE1QXB1ZTVpalJ2RURKdFBkMTlYM1dGaXplTTlMaW5pVUZfbWlRREpR?oc=5",
+  "published_at": "Mon, 20 Jul 2026 18:39:32 GMT",
+  "published_ts": 1784572772,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTR6S1RFQVk5VUlpa0U0TGM5ZFY4YVl2X1pNRzVORnlsSjlMWUR6Z19xSko2cjRaNzVXQkNUVTFiT29SMDQtbzAyWGNBS291dm9hZHBvNDJDQkE1QXB1ZTVpalJ2RURKdFBkMTlYM1dGaXplTTlMaW5pVUZfbWlRREpR?oc=5\" target=\"_blank\">Why Sandisk Stock Rebounded Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Why Sandisk Stock Rebounded Today - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rebounded; Motley Fool analysis of the stock move. Without the full article content, this appears to be post-price-move commentary rather than reporting a concrete catalyst—typical of analyst reaction pieces scoring impact 3 unless a distinct, new fundamental event is disclosed in the body."
+  },
+  "buffered_ts": 1784573585.4476626
  }
 ]
