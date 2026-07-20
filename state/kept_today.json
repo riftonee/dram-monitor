@@ -820,5 +820,245 @@
    "summary": "Report on AI memory shortage creating government pressure to act. This is relevant to memory-semiconductor industry demand drivers but lacks concrete events, confirmed capacities, or specific policy decisions—it presents the situation and possibility of government action rather than a settled development."
   },
   "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "11bc3bc1ecd18c8da097cf3e49222f782ea42887",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "\"They say they can't sell enough, so why are Samsung and SK hynix so uneasy?\"... Everyone is expanding capacity, and fears of oversupply are resurfacing - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXbDdWdFRrTVNZc3VGRUZCQm96MUxNbUp4Tk1ncWJTNV9OUkhUZjA2Q1h4NlVfcGN2SDJjUHlzcnRtODBqclNiMkNteWxnNEN3R0E0?oc=5",
+  "published_at": "Mon, 20 Jul 2026 07:47:39 GMT",
+  "published_ts": 1784533659,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXbDdWdFRrTVNZc3VGRUZCQm96MUxNbUp4Tk1ncWJTNV9OUkhUZjA2Q1h4NlVfcGN2SDJjUHlzcnRtODBqclNiMkNteWxnNEN3R0E0?oc=5\" target=\"_blank\">\"They say they can't sell enough, so why are Samsung and SK hynix so uneasy?\"... Everyone is expanding capacity, and fears of oversupply are resurfacing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix express unease despite claims of insufficient supply; industry-wide capacity expansions are fueling oversupply concerns. This reflects sentiment and forward-looking worry about the memory cycle rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "8e0648c2125c87caec4d6a11f26bf9ddf85659a5",
+  "source": "富途牛牛",
+  "topic": "pricing",
+  "title": "Bank of America Analysis: Raises DRAM Price Increase Forecast to 21%—Is Server Memory Pricing Spiraling Out of Control? - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREstNk9hZHlaeGRfSXkyM3Z3dGE0U2VfX09GalJMQUtMMmUyX3VXcnFIRDJUbl8tNGlNX001eXBicmlmMmhMQVk3QlFsVGJobk9kSFZBV01iVVlLVVpYamJDRURBVHpHa29TellzM2lvdndOY0FMaExETi11M0llVnk4c3hkUmlOVmMyZC1xYnMza25sN2NyRVhzcU5JNV9yLVVKM05ndw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 04:23:14 GMT",
+  "published_ts": 1784521394,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOREstNk9hZHlaeGRfSXkyM3Z3dGE0U2VfX09GalJMQUtMMmUyX3VXcnFIRDJUbl8tNGlNX001eXBicmlmMmhMQVk3QlFsVGJobk9kSFZBV01iVVlLVVpYamJDRURBVHpHa29TellzM2lvdndOY0FMaExETi11M0llVnk4c3hkUmlOVmMyZC1xYnMza25sN2NyRVhzcU5JNV9yLVVKM05ndw?oc=5\" target=\"_blank\">Bank of America Analysis: Raises DRAM Price Increase Forecast to 21%—Is Server Memory Pricing Spiraling Out of Control?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Bank of America raises DRAM price increase forecast to 21%, analyzing server memory pricing trends. This is analyst commentary and price forecast rather than a concrete reported event or hard transaction data, making it opinion-based analysis rather than a market-moving development."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "9ef8eaf6c5df1f693704f545aa3223707b89b1b8",
+  "source": "Stocktwits",
+  "topic": "holding",
+  "title": "Korea-Focused KORU ETF Dips On KOSPI Drag: Samsung, SK Hynix Extend Selloff Into US Big Tech Earnings Week - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMTRVTG5IdlFjVm8xaG1HMkphalNINWFhQi0yeF9BTUhSZmpiM0RwUnlQckhrNWh6RUR0ODNCTzNYa2h5cDM1WC1yQVoycG01QkhQQl9aLU1ZeHZUbE56NmZtU1lYMVhzbnJBTTVGbGVaa3RlQjFobUpfaEVnczVXcGpFT1lVUF9sSjVXazE4UFA1SktWWUpncjR5Y2RHTzNaRnljdEFJT2kyS2g5WF9hcUd3NzY4RWlJeHZEeFA4VXZHaGtKenF3S1NQRTFOYVh3QWZSSXIxMFFTS19yandGQ3ByMTU5cFRPVUZ6UW5MNUpUcjREUmxEcHpPTjA?oc=5",
+  "published_at": "Mon, 20 Jul 2026 05:32:15 GMT",
+  "published_ts": 1784525535,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMTRVTG5IdlFjVm8xaG1HMkphalNINWFhQi0yeF9BTUhSZmpiM0RwUnlQckhrNWh6RUR0ODNCTzNYa2h5cDM1WC1yQVoycG01QkhQQl9aLU1ZeHZUbE56NmZtU1lYMVhzbnJBTTVGbGVaa3RlQjFobUpfaEVnczVXcGpFT1lVUF9sSjVXazE4UFA1SktWWUpncjR5Y2RHTzNaRnljdEFJT2kyS2g5WF9hcUd3NzY4RWlJeHZEeFA4VXZHaGtKenF3S1NQRTFOYVh3QWZSSXIxMFFTS19yandGQ3ByMTU5cFRPVUZ6UW5MNUpUcjREUmxEcHpPTjA?oc=5\" target=\"_blank\">Korea-Focused KORU ETF Dips On KOSPI Drag: Samsung, SK Hynix Extend Selloff Into US Big Tech Earnings Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix (both holdings of DRAM ETF) are extending a selloff amid broader KOSPI weakness during US Big Tech earnings week. This is a stock-price move driven by macro/sentiment factors rather than a concrete memory-industry catalyst or earnings surprise."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "2d1072abfe5bae784e80e74922fba02b5fca519e",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "SK Group Chairman Chey Tae-won Warns of \"Hellish\" Memory Chip Shortage, Eyes U.S. Fab Construction - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRHZWdUltRjJ3dm95ZWIwUmRRbUdrMkh6V25aYXJvX01aTVk1Q0NSZTQ2aldaRGRmeTJKM3lRRTBhSmJTREVwRlR2YW5JMFVIRlkzODRhOHhwWWVlNno5M3NWUHdYQ2ItelAzUGZLR2UySE1ZSGc?oc=5",
+  "published_at": "Mon, 20 Jul 2026 00:57:00 GMT",
+  "published_ts": 1784509020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRHZWdUltRjJ3dm95ZWIwUmRRbUdrMkh6V25aYXJvX01aTVk1Q0NSZTQ2aldaRGRmeTJKM3lRRTBhSmJTREVwRlR2YW5JMFVIRlkzODRhOHhwWWVlNno5M3NWUHdYQ2ItelAzUGZLR2UySE1ZSGc?oc=5\" target=\"_blank\">SK Group Chairman Chey Tae-won Warns of \"Hellish\" Memory Chip Shortage, Eyes U.S. Fab Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group Chairman warns of severe memory chip shortage and signals potential U.S. fab construction. While the warning reflects industry conditions and SK hynix (a fund holding) is central to the story, this appears to be forward-looking commentary and exploration rather than a confirmed, concrete event or announced capacity decision."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "98b322b7707ad090d6163cad5e91a498e9db124c",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Tumble in Seoul as China AI Breakthrough Weighs on AI Infrastructure Stocks - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb3lvQ1kyX0dkMzlQLXZRSnlwRkRTdi1IQWV6Um5DbTZzbzZhRnJHRnRCV3hvY29BMXhzM0l6eXUzVDEwekxhNnNSMjljdDNEcVpwMEZLcmt4SDNxNVg5MFRKYWtsbENiMHg0UE1IZ0lDc2RTU0NCOGlWd3pPZnIzY0pud1pDQ210QnkxeUVxTUotbWNleThfeGNSVXcxSUdyell6WDBXNTRYMWFXLW1VTGsxUW5ndHRLUllkNWl2UmFGTXl1MmF0blpVMHU1SGkweEVPNFJITjJVVzBLVktkbEpKaw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 06:51:07 GMT",
+  "published_ts": 1784530267,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb3lvQ1kyX0dkMzlQLXZRSnlwRkRTdi1IQWV6Um5DbTZzbzZhRnJHRnRCV3hvY29BMXhzM0l6eXUzVDEwekxhNnNSMjljdDNEcVpwMEZLcmt4SDNxNVg5MFRKYWtsbENiMHg0UE1IZ0lDc2RTU0NCOGlWd3pPZnIzY0pud1pDQ210QnkxeUVxTUotbWNleThfeGNSVXcxSUdyell6WDBXNTRYMWFXLW1VTGsxUW5ndHRLUllkNWl2UmFGTXl1MmF0blpVMHU1SGkweEVPNFJITjJVVzBLVktkbEpKaw?oc=5\" target=\"_blank\">Samsung, SK Hynix Tumble in Seoul as China AI Breakthrough Weighs on AI Infrastructure Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stock prices fell in Seoul trading, attributed to concerns that a Chinese AI breakthrough may reduce near-term demand for AI infrastructure and associated memory chips. This is a market reaction to perceived demand risk rather than a concrete event or hard number that changes fundamentals."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "0ba51350a0260f7df9b0be91af88e754086446da",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "Samsung, SK hynix push new memory layer as AI outgrows HBM alone - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fczlfaTlNenlORHd6Y0VYbU9LMnFTdDdjbW1mUG4yX1UwcnRDVEZGMWJ5RW9vWndFNzkyaHBESXBqOGJCWmJjVGV5QXJWV0RSd0xtMU0yYw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 06:19:08 GMT",
+  "published_ts": 1784528348,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fczlfaTlNenlORHd6Y0VYbU9LMnFTdDdjbW1mUG4yX1UwcnRDVEZGMWJ5RW9vWndFNzkyaHBESXBqOGJCWmJjVGV5QXJWV0RSd0xtMU0yYw?oc=5\" target=\"_blank\">Samsung, SK hynix push new memory layer as AI outgrows HBM alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix are developing new memory layer technologies to address AI infrastructure demands that exceed current HBM capacity. This represents strategic product development in response to evolving industry requirements, but lacks concrete details on timing, specifications, or market availability."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "89fbe1d3f9c098ef92f5ad5d2d342ad2be3281a4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmlQbVllVDBaaXd3YWpaQkwzVElDWjc3c3hmSWhscXNRNDJ3aUNUT3BsSE5xalU2Q1RoTC1FN281Qk9VUVJOOThfdjYxSHZzMnNfQy1BV05ZWFMxblIzTHVIZTNELWNhcjZXZFVRMnloTTYxVnpfVHZnYXdfMS1DVnRIeEJvblYzYXVtTnJuTWNKZHZ4UGY2ZEZVTGVaQQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 01:59:05 GMT",
+  "published_ts": 1784512745,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQmlQbVllVDBaaXd3YWpaQkwzVElDWjc3c3hmSWhscXNRNDJ3aUNUT3BsSE5xalU2Q1RoTC1FN281Qk9VUVJOOThfdjYxSHZzMnNfQy1BV05ZWFMxblIzTHVIZTNELWNhcjZXZFVRMnloTTYxVnpfVHZnYXdfMS1DVnRIeEJvblYzYXVtTnJuTWNKZHZ4UGY2ZEZVTGVaQQ?oc=5\" target=\"_blank\">SK Hynix: Strong HBM Tailwinds, But Mind ADR Premium And The Cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analysis on SK Hynix discussing HBM tailwinds and cycle dynamics. Opinion-based investment commentary rather than a concrete event; HBM demand tailwinds are known and the piece addresses valuation and cyclical concerns rather than reporting new material developments."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "8b07682fa69ef86c9988da43d9c2c79ba03d13d0",
+  "source": "mkbn.mk.co.kr",
+  "topic": "industry",
+  "title": "SK Group chief warns AI chip shortage to worsen in 2027 - mkbn.mk.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSzY2d0hKZDRONlFhOWIxZXZZZUw5NnVPcXA3V0Fad19rMkxlcHNQTGtnSFRQRFNrczdtdGhPbTdtZG9tQWRhRHhzU1FVUjVxZERLLVVn?oc=5",
+  "published_at": "Mon, 20 Jul 2026 05:10:02 GMT",
+  "published_ts": 1784524202,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSzY2d0hKZDRONlFhOWIxZXZZZUw5NnVPcXA3V0Fad19rMkxlcHNQTGtnSFRQRFNrczdtdGhPbTdtZG9tQWRhRHhzU1FVUjVxZERLLVVn?oc=5\" target=\"_blank\">SK Group chief warns AI chip shortage to worsen in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mkbn.mk.co.kr</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "mkbn.mk.co.kr"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group chief warns that an AI chip shortage will worsen in 2027. This is forward guidance/commentary on future supply constraints affecting memory demand, but it is opinion/warning rather than a concrete event or hard number. SK hynix is a major DRAM holding, making the statement relevant to fund dynamics, but the speculative nature limits impact to 3."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "a4a362e292317493fdd6c8d3d31f2b1c685ddb07",
+  "source": "Tech in Asia",
+  "topic": "holding",
+  "title": "Samsung, SK hynix push CXL memory for AI servers - Tech in Asia",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3JYNGpPeGMwM2szbEVOZ1VNLXdhYlQtNDlIc3I3UWh3N0JvcGhTZ3VDRHo4bkh2WTZrc2d1Qmh2cWFuS1UtSGFHNERxS0FsNGpfMUM0TjBRYjFuNy1LZXF3YncwaVJaSy1GRzFLZ09MaXlLRlNHVTJNYnhnOEVWTw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 06:36:00 GMT",
+  "published_ts": 1784529360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3JYNGpPeGMwM2szbEVOZ1VNLXdhYlQtNDlIc3I3UWh3N0JvcGhTZ3VDRHo4bkh2WTZrc2d1Qmh2cWFuS1UtSGFHNERxS0FsNGpfMUM0TjBRYjFuNy1LZXF3YncwaVJaSy1GRzFLZ09MaXlLRlNHVTJNYnhnOEVWTw?oc=5\" target=\"_blank\">Samsung, SK hynix push CXL memory for AI servers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech in Asia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK hynix are developing and promoting CXL (Compute Express Link) memory solutions for AI servers. This represents strategic positioning in the high-bandwidth memory and AI-infrastructure segment, but the article appears to be developmental/strategic in nature rather than announcing concrete production capacity, orders, or shipment milestones."
+  },
+  "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "f50308b10660a5da128afdad4fb9863b4753ef60",
+  "source": "Pluang",
+  "topic": "industry",
+  "title": "Micron rated Buy on growing HBM demand beyond N... - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmFzSUl1MFExdlB5Qmk2YWx1MDQ4YjhYYndJMXI5MFhQQ3kxWkVqZDVRdVpBRW5JcDQ1R0dUSkd0aHgtejNSR3hBY2J4cmM3bTJ3ejE0OUpFNFIzNmVyOUJ2a0ZYVmRKUXItSkh4VUVpTWlZQ2FkZm16dGNWSTAxTFIwZWU?oc=5",
+  "published_at": "Mon, 20 Jul 2026 05:36:36 GMT",
+  "published_ts": 1784525796,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORmFzSUl1MFExdlB5Qmk2YWx1MDQ4YjhYYndJMXI5MFhQQ3kxWkVqZDVRdVpBRW5JcDQ1R0dUSkd0aHgtejNSR3hBY2J4cmM3bTJ3ejE0OUpFNFIzNmVyOUJ2a0ZYVmRKUXItSkh4VUVpTWlZQ2FkZm16dGNWSTAxTFIwZWU?oc=5\" target=\"_blank\">Micron rated Buy on growing HBM demand beyond N...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analyst rates Micron Buy based on growing HBM (high-bandwidth memory) demand prospects beyond current cycle. This is analyst opinion and price-target positioning rather than a concrete event or new market data, so it merits impact 3. HBM demand is a key industry driver for the fund's holdings."
+  },
+  "buffered_ts": 1784535833.213971
  }
 ]
