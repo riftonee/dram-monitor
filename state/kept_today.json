@@ -1060,5 +1060,293 @@
    "summary": "Analyst rates Micron Buy based on growing HBM (high-bandwidth memory) demand prospects beyond current cycle. This is analyst opinion and price-target positioning rather than a concrete event or new market data, so it merits impact 3. HBM demand is a key industry driver for the fund's holdings."
   },
   "buffered_ts": 1784535833.213971
+ },
+ {
+  "id": "9d342b46950964b2adadb777c1f988bc2407d745",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Storage Giants Samsung, SK Hynix and Micron Halt In-House CXL Commercialization, Chip Design Firms Like Marvell May Benefit - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWhJc3dnVk5uQ3ltTUltZl9MYVpwazZla0Y5OGctQXFaVjBfSTNzSTRUNHR3bnJndHNtSkdxX0dJVUtZNzNMMnFsYUptcVg4MlpIZGNGSThMbDQ4RUVhaTJZb295cjlrMHhjTzNxZ1hKWmFqNzFreXR6N1JiUEhPd0dLaVdCdjZXdUxiU1JYUkNERUVWS3VMaFRjTndSN3Rzek15ZkhxX3NZbWFZYjZxRGNpVjVETjNiSkE2T3pR?oc=5",
+  "published_at": "Mon, 20 Jul 2026 10:19:51 GMT",
+  "published_ts": 1784542791,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWhJc3dnVk5uQ3ltTUltZl9MYVpwazZla0Y5OGctQXFaVjBfSTNzSTRUNHR3bnJndHNtSkdxX0dJVUtZNzNMMnFsYUptcVg4MlpIZGNGSThMbDQ4RUVhaTJZb295cjlrMHhjTzNxZ1hKWmFqNzFreXR6N1JiUEhPd0dLaVdCdjZXdUxiU1JYUkNERUVWS3VMaFRjTndSN3Rzek15ZkhxX3NZbWFZYjZxRGNpVjVETjNiSkE2T3pR?oc=5\" target=\"_blank\">Storage Giants Samsung, SK Hynix and Micron Halt In-House CXL Commercialization, Chip Design Firms Like Marvell May Benefit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung, SK Hynix, and Micron have halted in-house CXL (Compute Express Link) commercialization efforts, a concrete strategic shift affecting three major DRAM ETF holdings. This represents an official decision that changes their product roadmaps and competitive positioning in the memory/interconnect space."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "ee93f63961617b5f8098dbb473f80c0da467c713",
+  "source": "Big News Network.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix advance new memory layer to tackle AI scaling limits - Big News Network.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblpUaDBNTUd4QTAwOWIwUUJ0YnBxWVFsN2xFX3FLblh2aVRaamd0bllsMnBTdC1lWXZHd0NVTjFWWDJjREpIR0lDMi1GSm01Wnk5T0VXdlNtcjNOdURZeE9ucVNfb05RYXZReWtnZzgyRDZhQ2NlVzMydkJiTjJhcVp1QjZvOTBiTFVlcUVKYmdMWmpiU3E1ZE91VmQtOTIxdW9PaXUyemFYOEZWYVlpUlFMLURuZw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:51:00 GMT",
+  "published_ts": 1784541060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPblpUaDBNTUd4QTAwOWIwUUJ0YnBxWVFsN2xFX3FLblh2aVRaamd0bllsMnBTdC1lWXZHd0NVTjFWWDJjREpIR0lDMi1GSm01Wnk5T0VXdlNtcjNOdURZeE9ucVNfb05RYXZReWtnZzgyRDZhQ2NlVzMydkJiTjJhcVp1QjZvOTBiTFVlcUVKYmdMWmpiU3E1ZE91VmQtOTIxdW9PaXUyemFYOEZWYVlpUlFMLURuZw?oc=5\" target=\"_blank\">Samsung, SK Hynix advance new memory layer to tackle AI scaling limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big News Network.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Big News Network.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix have announced advancement of a new memory technology layer designed to address AI scaling limitations. This represents a concrete development by two major fund holdings (Samsung's memory division and SK Hynix) in tackling AI-driven memory demand, a key driver of the memory cycle."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "a76c230fca74aa3217eed7de3ef81362f7cfecc5",
+  "source": "ANI News",
+  "topic": "pricing",
+  "title": "China's CXMT targets global DRAM giants with record $8.5 billion IPO - ANI News",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXAtOXlJUmVjaWNuY0xhcVNvWVQwbkJvSU10ZF8tcjVtR1JPcm1VbF9zNHhwQXl3S3RKcjB2SnRCcGRtby16VUJSRUp2QklFTU1lWFpOYWpzVXlWMXBTdXhnSEZXVm15OXBTOTAzS2gzOTFGUllmRy1rai1zNnN3MG5WWEtDTmpwMUdoRFlLT203YU9QOHBKVTd0M21UcHRQQjJMcWdqM1F2NXJYZThYakZn?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:12:00 GMT",
+  "published_ts": 1784538720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXAtOXlJUmVjaWNuY0xhcVNvWVQwbkJvSU10ZF8tcjVtR1JPcm1VbF9zNHhwQXl3S3RKcjB2SnRCcGRtby16VUJSRUp2QklFTU1lWFpOYWpzVXlWMXBTdXhnSEZXVm15OXBTOTAzS2gzOTFGUllmRy1rai1zNnN3MG5WWEtDTmpwMUdoRFlLT203YU9QOHBKVTd0M21UcHRQQjJMcWdqM1F2NXJYZThYakZn?oc=5\" target=\"_blank\">China's CXMT targets global DRAM giants with record $8.5 billion IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ANI News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "China's CXMT announced a record $8.5 billion IPO, signaling a major new entrant into the global DRAM market with capital to compete directly against established players (Micron, SK hynix, Samsung). This concrete funding event materially affects the competitive landscape and future capacity dynamics in the memory sector."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "96fc98367cbd885384ef2f0c07867e615edeab5d",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Will in-house CXL development undermine their own DRAM business? Samsung, SK Hynix, and Micron simultaneously abandon in-house CXL controller development. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUZGNE1melZLTXI4YkQwaFZEUjhmT1B6eERINDRFN3hBS0c4bkVUcW13dHVhYVBadGM0T0RJME9leXlYU01vYlZmeXRBcTNHZjlWRm1qdmhWT0J5ZHdSRlpjYVhrbnk4WHVDRzJrclBoYjNOVDNvQzhBSkVQamxCTWdacmxZenNjQkZ5VVhfWjFGb2M4TkM3UjJ4TlBBcS00bFhRQkFMZ3k?oc=5",
+  "published_at": "Mon, 20 Jul 2026 08:41:53 GMT",
+  "published_ts": 1784536913,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUZGNE1melZLTXI4YkQwaFZEUjhmT1B6eERINDRFN3hBS0c4bkVUcW13dHVhYVBadGM0T0RJME9leXlYU01vYlZmeXRBcTNHZjlWRm1qdmhWT0J5ZHdSRlpjYVhrbnk4WHVDRzJrclBoYjNOVDNvQzhBSkVQamxCTWdacmxZenNjQkZ5VVhfWjFGb2M4TkM3UjJ4TlBBcS00bFhRQkFMZ3k?oc=5\" target=\"_blank\">Will in-house CXL development undermine their own DRAM business? Samsung, SK Hynix, and Micron simultaneously abandon in-house CXL controller development.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung, SK Hynix, and Micron have abandoned in-house CXL (Compute Express Link) controller development. This is a strategic shift in memory-semiconductor architecture that could affect how these DRAM holdings position themselves in the AI/data-center infrastructure ecosystem, but the news reports a decision already made rather than a forward-looking demand/capacity shock or pricing catalyst. The implication for DRAM demand is indirect and uncertain."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "bdd44baa7e5f8cb827d3477bad5ad4d3e20bdafd",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung's Bonus Bias Toward Memory Chip Unit Triggers Exodus; Over 80% of Foundry Staff Eye Exit - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yWVBHQzZCV0szTGxkTmllQ1NHS3FJVHdTT2lIenEzT1hKQXhDdUctQml1T0lyZ1E4czF3WDlXVU9xcmZybXQxQTZqZm9reXVNdy1PLVZKSV8tUXJybDN0Y0x6cWlDMFRrSTd1bGx3RWN1c1M5Y2c?oc=5",
+  "published_at": "Mon, 20 Jul 2026 03:56:00 GMT",
+  "published_ts": 1784519760,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1yWVBHQzZCV0szTGxkTmllQ1NHS3FJVHdTT2lIenEzT1hKQXhDdUctQml1T0lyZ1E4czF3WDlXVU9xcmZybXQxQTZqZm9reXVNdy1PLVZKSV8tUXJybDN0Y0x6cWlDMFRrSTd1bGx3RWN1c1M5Y2c?oc=5\" target=\"_blank\">Samsung's Bonus Bias Toward Memory Chip Unit Triggers Exodus; Over 80% of Foundry Staff Eye Exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is allocating bonuses heavily toward its memory chip unit, triggering potential staff exodus from its foundry business with over 80% of foundry staff considering leaving. This reflects Samsung's strategic prioritization of memory over foundry but represents organizational/HR news rather than a concrete market event; the impact on memory production capacity or financial results remains uncertain and unconfirmed."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "875b530df44f4c835385801f7dded5f311347da1",
+  "source": "ThePrint",
+  "topic": "industry",
+  "title": "AI memory chip global shortage may lead to geopolitical crisis, says SK group chairman Chey Tae-Won - ThePrint",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVFMRGtuUHllNWlSVGpZUXhuVHFsajE1OEtjVkI2Z2RXXzBjMkZsMGdfUDNkcTBkeENFRnY5NTdhejBpVEhyRThVSVYwQmJLZW1iUTNybFNwU1N0SGdLM3Rkeng4Z1plYVgxUDNDaXJFRzdSbkM2LWIwUzB3RHFUbnliODNuVWs3N21JUHcwbDNhTUl1SGRDNTIxeERpWDU2NHVjNERLa01UNm94OXdJVkd5aVJ4X0pQZFN2OHFldmV5aEVPUUJjOXgtMnTSAdIBQVVfeXFMUE9xbURGQWN0OU1LRFRkWEVKWTNCWFJzdlpBMXdxU0lwRlpPZTQ4dUd0NWRxQTRRUndFN1JzbHR0bXM1MkJ0Wm9IY0pucDF1OXRKZjdwSmZhMTdrQ3NBMWl4UUU2eFN4OE5TNXRYMFN0S1RndTkzaFBrckZTSG9NWkJGYklERm94V2lUODdjTlVWekpJWk5NRTJMX3ctVlRMZGxRV2c1SzVsX1NzRDc4Q2YwbGh4MVFrV0k3cXpVS25PcGpULTF2Z19tVFh0NHZDM1lB?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:48:35 GMT",
+  "published_ts": 1784540915,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVFMRGtuUHllNWlSVGpZUXhuVHFsajE1OEtjVkI2Z2RXXzBjMkZsMGdfUDNkcTBkeENFRnY5NTdhejBpVEhyRThVSVYwQmJLZW1iUTNybFNwU1N0SGdLM3Rkeng4Z1plYVgxUDNDaXJFRzdSbkM2LWIwUzB3RHFUbnliODNuVWs3N21JUHcwbDNhTUl1SGRDNTIxeERpWDU2NHVjNERLa01UNm94OXdJVkd5aVJ4X0pQZFN2OHFldmV5aEVPUUJjOXgtMnTSAdIBQVVfeXFMUE9xbURGQWN0OU1LRFRkWEVKWTNCWFJzdlpBMXdxU0lwRlpPZTQ4dUd0NWRxQTRRUndFN1JzbHR0bXM1MkJ0Wm9IY0pucDF1OXRKZjdwSmZhMTdrQ3NBMWl4UUU2eFN4OE5TNXRYMFN0S1RndTkzaFBrckZTSG9NWkJGYklERm94V2lUODdjTlVWekpJWk5NRTJMX3ctVlRMZGxRV2c1SzVsX1NzRDc4Q2YwbGh4MVFrV0k3cXpVS25PcGpULTF2Z19tVFh0NHZDM1lB?oc=5\" target=\"_blank\">AI memory chip global shortage may lead to geopolitical crisis, says SK group chairman Chey Tae-Won</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ThePrint"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group chairman warns of potential geopolitical crisis due to AI memory chip global shortage. While it raises concerns about memory supply constraints relevant to the fund's holdings (SK hynix is a major DRAM/HBM producer), the statement is a forward-looking warning and commentary rather than a confirmed event or hard number. No new capacity data, pricing changes, or concrete supply/demand shifts are reported."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "7c1f8d3f3b336143ec59cf19163237937549bba7",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "South Korean Stocks Face Another Bloodbath: Kospi Tumbles 4%, Samsung and SK Hynix Slump Over 3% - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDFKTDlUWHIxRDNnazB3Nml2cTluN1lzOHdzZGJPTnlZY2xTcE1uN3IzdVk1TUstYjVKYmpORnpZbDFhWTl3a1JmVmJLTi0yU1FvR0RqQUR2YkpCYl9OTXpEM0oyRkhQdEVNVzhTdVRrTk9LZHN0Qk5TSTZma1A5Q1V4NlZBQWctaFVmNEl3WXU5c1JKcmlkNko2YXF3U21jdE00RUozX0RQTUcwRmVBSDZMOGV5VmxyNEE?oc=5",
+  "published_at": "Mon, 20 Jul 2026 07:14:48 GMT",
+  "published_ts": 1784531688,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDFKTDlUWHIxRDNnazB3Nml2cTluN1lzOHdzZGJPTnlZY2xTcE1uN3IzdVk1TUstYjVKYmpORnpZbDFhWTl3a1JmVmJLTi0yU1FvR0RqQUR2YkpCYl9OTXpEM0oyRkhQdEVNVzhTdVRrTk9LZHN0Qk5TSTZma1A5Q1V4NlZBQWctaFVmNEl3WXU5c1JKcmlkNko2YXF3U21jdE00RUozX0RQTUcwRmVBSDZMOGV5VmxyNEE?oc=5\" target=\"_blank\">South Korean Stocks Face Another Bloodbath: Kospi Tumbles 4%, Samsung and SK Hynix Slump Over 3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean market selloff with Samsung and SK Hynix down over 3%. The holdings experienced a significant price decline, though the driver appears to be broad market weakness rather than memory-specific news. Stock moves without a distinct operational or earnings catalyst tied to the holdings themselves are categorized as impact 3."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "d1bd75199fd5a6998a93330ea802d9a635f666ce",
+  "source": "Hankyoreh : English Edition",
+  "topic": "industry",
+  "title": "SK chief calls memory shortage ‘utter chaos,’ hints at plans to invest in US - Hankyoreh : English Edition",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lb1hpejlrRHRZUXJ1SXV0Ukt2RV85OVhsUWhzZXdyeGF5ak13Z3dtekNmdU80T25sZlJWQW5GOE1xX3NhOWsxek5zZS1xdFd4bFU2VmV6cDEtajZOYUh3U2ZuLVB4aVJkZGdMZG9HOHVNY1lJbzRxTGh4Zw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 08:09:00 GMT",
+  "published_ts": 1784534940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5lb1hpejlrRHRZUXJ1SXV0Ukt2RV85OVhsUWhzZXdyeGF5ak13Z3dtekNmdU80T25sZlJWQW5GOE1xX3NhOWsxek5zZS1xdFd4bFU2VmV6cDEtajZOYUh3U2ZuLVB4aVJkZGdMZG9HOHVNY1lJbzRxTGh4Zw?oc=5\" target=\"_blank\">SK chief calls memory shortage ‘utter chaos,’ hints at plans to invest in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hankyoreh : English Edition</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Hankyoreh : English Edition"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix chief characterizes memory shortage as severe and hints at potential US investment plans. While indicating strategic response to market conditions, the statement is preliminary commentary and intention rather than a confirmed investment decision or concrete capacity/production announcement."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "2ceec955d42fc0981fa33796fa64e1ddc6991a30",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Slump 27% and 33% in July. What Could Revive Chip Stocks? - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14NGNWTm5FaVBmb0w5eHlqOFpSNXJySFZsbktSSjBYUmlmQWs4NVlBd0E1d0d1X0tPMEhac25sM1k0LVROelVuc2xsYzY4LUR1NS0wRg?oc=5",
+  "published_at": "Mon, 20 Jul 2026 11:06:39 GMT",
+  "published_ts": 1784545599,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE14NGNWTm5FaVBmb0w5eHlqOFpSNXJySFZsbktSSjBYUmlmQWs4NVlBd0E1d0d1X0tPMEhac25sM1k0LVROelVuc2xsYzY4LUR1NS0wRg?oc=5\" target=\"_blank\">Samsung, SK Hynix Slump 27% and 33% in July. What Could Revive Chip Stocks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix both experienced substantial stock declines in July (27% and 33% respectively). The article discusses what could revive chip stocks but does not report a concrete new catalyst or event—rather, it analyzes existing price moves and explores possibilities for recovery. Relevant as both are DRAM ETF holdings, but the impact is soft analysis rather than a market-moving announcement."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "a3506d0f18782214bc042f516717b1f3a1f31dbc",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron Stock Set to Snap Losing Streak After SK Hynix Memory Price Warning - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjZrWnVvWFlLdkpfUEhfd0hkZU54c3puNGM1UkZQZ0s5LVltdElHajYxZVRvN19QU2ZUaFRXazRLT3M0ZkhkSFRSV19JSWRyWHBVb0NQeE1nb0ZzWkxkLTd4cnlWZzZibGhPSzlFeHBHa1NiN3o5TGJrX1BuaHJzalNn?oc=5",
+  "published_at": "Mon, 20 Jul 2026 10:33:00 GMT",
+  "published_ts": 1784543580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjZrWnVvWFlLdkpfUEhfd0hkZU54c3puNGM1UkZQZ0s5LVltdElHajYxZVRvN19QU2ZUaFRXazRLT3M0ZkhkSFRSV19JSWRyWHBVb0NQeE1nb0ZzWkxkLTd4cnlWZzZibGhPSzlFeHBHa1NiN3o5TGJrX1BuaHJzalNn?oc=5\" target=\"_blank\">Micron Stock Set to Snap Losing Streak After SK Hynix Memory Price Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SK Hynix issued a memory price warning that is expected to support Micron stock recovery. This reflects pricing dynamics in the DRAM market affecting holdings, but the story is analyst commentary on expected stock reaction rather than a concrete price move or confirmed event."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "6cf726e346309ca3ce9f6fe1bf37c12c048fb958",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "CXL Memory Battle Opens AI Growth Avenue, Revenue Timing May Slip - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUFhc3dxQTlZTWp0bjk1VFpnU0VkSnZiY3N3elprcWdjZmlmOHd0TTVGOVVYaWFyV1M5YzJ2M2YwUFh3UjFUalp5dlRDUVNvemJnYXZtNlhTSm1jcmdHUW5sbWpqbU5EQ29TZTdjQ19TV2tNTkZUNHM3RHZxdXIzRzkzUmlHUmZNUDlsLUhR?oc=5",
+  "published_at": "Mon, 20 Jul 2026 08:45:53 GMT",
+  "published_ts": 1784537153,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUFhc3dxQTlZTWp0bjk1VFpnU0VkSnZiY3N3elprcWdjZmlmOHd0TTVGOVVYaWFyV1M5YzJ2M2YwUFh3UjFUalp5dlRDUVNvemJnYXZtNlhTSm1jcmdHUW5sbWpqbU5EQ29TZTdjQ19TV2tNTkZUNHM3RHZxdXIzRzkzUmlHUmZNUDlsLUhR?oc=5\" target=\"_blank\">CXL Memory Battle Opens AI Growth Avenue, Revenue Timing May Slip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "CXL (Compute Express Link) memory technology is emerging as a competitive battleground with potential to drive AI infrastructure growth, though revenue timing remains uncertain. This reflects evolving demand dynamics in the memory ecosystem tied to AI capex, but the story centers on possibility and timing uncertainty rather than a concrete, confirmed event or hard number."
+  },
+  "buffered_ts": 1784546526.8488905
+ },
+ {
+  "id": "d30d785c64b40d04d1cdca9768f150499b48cf42",
+  "source": "WSJ",
+  "topic": "holding",
+  "title": "The Massive Supply Deals Feeding the AI Frenzy Are No Sure Thing - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSllaT3Z0TDdxMkJSMkxqdG5ycDFRY2VlWE9JMm0wamNyaXFlX3FzY3RHcEpQN1lobVVTS1RTUllMeUw3VWtJaTIwdUJEek02bzVfQ0NPV3EzSjZ5dTZqVV9ERW5lNVNLMWhoWjdPUXYzQkpKTzdzT3Jic2YySEcwdnptTk4wTlljc0hmUHFuNmZYVEduSldicFFCWlFpVEtCeXNZ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:30:00 GMT",
+  "published_ts": 1784539800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSllaT3Z0TDdxMkJSMkxqdG5ycDFRY2VlWE9JMm0wamNyaXFlX3FzY3RHcEpQN1lobVVTS1RTUllMeUw3VWtJaTIwdUJEek02bzVfQ0NPV3EzSjZ5dTZqVV9ERW5lNVNLMWhoWjdPUXYzQkpKTzdzT3Jic2YySEcwdnptTk4wTlljc0hmUHFuNmZYVEduSldicFFCWlFpVEtCeXNZ?oc=5\" target=\"_blank\">The Massive Supply Deals Feeding the AI Frenzy Are No Sure Thing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "WSJ"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "WSJ analysis questioning the certainty of major AI-related supply deals. Relevant to memory demand cycle and fab capacity commitments that underpin DRAM/HBM growth assumptions, but represents analysis/opinion rather than a concrete event or hard number."
+  },
+  "buffered_ts": 1784546526.8488905
  }
 ]
