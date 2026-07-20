@@ -604,5 +604,221 @@
    "summary": "Headline mentions SK hynix alongside other companies (Google, Tesla) and geopolitical events as potential volatility drivers, but provides no concrete news, earnings figures, guidance changes, or material developments specific to SK hynix or memory semiconductors—only speculation about which events might move markets."
   },
   "buffered_ts": 1784509549.159434
+ },
+ {
+  "id": "6f0e944729f8b6fd604181f2481c45e337c4208b",
+  "source": "Construction Review",
+  "topic": "holding",
+  "title": "$3.8bn SK Hynix Chip Manufacturing Plant in West Lafayette Makes Headway despite Zoning Suit - Construction Review",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGZSQkxWQWlvUnA2a0s1VkFFNWU2ZWt2TkhvTnZGdDZmQTd0TmN2aktSU3VVWWxxMFJKYnU5eHBTeDJJRVFwNjRNVHI5UFFmaEhRaDM1QVlTMmhrcDVxbjJxQjlESWJnMzJ2c3lZN2wyVlVsc2VSZjlVeXJkZ1dEbDVXcUtXeXB3YnJLcl9LUXRzQ1VjaHNFZkF6TFgweFAzVjdWMTFiSXQ5a0ZYY1diM0lGN0tQQldXLXlpbk00d09JeklQUmJ2eQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 01:18:47 GMT",
+  "published_ts": 1784510327,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGZSQkxWQWlvUnA2a0s1VkFFNWU2ZWt2TkhvTnZGdDZmQTd0TmN2aktSU3VVWWxxMFJKYnU5eHBTeDJJRVFwNjRNVHI5UFFmaEhRaDM1QVlTMmhrcDVxbjJxQjlESWJnMzJ2c3lZN2wyVlVsc2VSZjlVeXJkZ1dEbDVXcUtXeXB3YnJLcl9LUXRzQ1VjaHNFZkF6TFgweFAzVjdWMTFiSXQ5a0ZYY1diM0lGN0tQQldXLXlpbk00d09JeklQUmJ2eQ?oc=5\" target=\"_blank\">$3.8bn SK Hynix Chip Manufacturing Plant in West Lafayette Makes Headway despite Zoning Suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Review</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Construction Review"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix's $3.8 billion chip manufacturing plant in West Lafayette is advancing despite ongoing zoning litigation, confirming material capex commitment by a major DRAM ETF holding to expand U.S. memory production capacity."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "95be05c7f6e53af061e089c725a0c1fde880c056",
+  "source": "odaily.news",
+  "topic": "industry",
+  "title": "SemiAnalysis: Kimi K3's KDA Mechanism Boosts Attention Efficiency, But Will Require More GPU, HBM, DRAM, and Networking, Not Less - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZFloMTJKSVR2U0R4T1I0WTR6X2NtQ1k2cExiNGZuNnVURmIwZXNqNmkzWHdLZHBqLUlxbExNU2VrMlZaYlNoN0Q2OENzbjNJ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 02:39:48 GMT",
+  "published_ts": 1784515188,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZFloMTJKSVR2U0R4T1I0WTR6X2NtQ1k2cExiNGZuNnVURmIwZXNqNmkzWHdLZHBqLUlxbExNU2VrMlZaYlNoN0Q2OENzbjNJ?oc=5\" target=\"_blank\">SemiAnalysis: Kimi K3's KDA Mechanism Boosts Attention Efficiency, But Will Require More GPU, HBM, DRAM, and Networking, Not Less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "odaily.news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SemiAnalysis analysis indicates that Kimi K3's KDA mechanism, despite improving attention efficiency, will actually increase demand for GPU, HBM, DRAM, and networking infrastructure rather than reduce it. This represents analyst commentary on AI infrastructure requirements that supports the thesis that advanced AI models continue to drive memory demand growth."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "6d60b7cc5cfdaedd5a1ec5a7bf04d16b316bd67a",
+  "source": "TweakTown",
+  "topic": "holding",
+  "title": "SK hynix says memory supply 'must be expanded' to save the consumer tech market and prevent 'chipflation' - TweakTown",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXN4UTkwTVR0ZTVscFd5bVVqUU12cnRVTVROSk5kcDBJQzJYMTlUWFd5SlZRd21JQWlycEhsb2ZjM3gwWjhwYUFobjNOcHhPczFzVjdYRkRjUUd6N1BVU2RmdDZQcGRRN0pyZ0Q4NDhaQjZ0ZUZmVFRZMFpDTU5mVkNTWnlzXzZjTzhQMXltSlB3cXJHeG56bXJlQXRKZE1XU3ljTlhpM0ZvX1NFcDJyODdWMEJXLTdRcEtiSzRITVk3dkg3WldHa0ZHYzNWOUM4UWlfTy03ZTZEOXlraVlpenVCTnY?oc=5",
+  "published_at": "Mon, 20 Jul 2026 04:31:07 GMT",
+  "published_ts": 1784521867,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXN4UTkwTVR0ZTVscFd5bVVqUU12cnRVTVROSk5kcDBJQzJYMTlUWFd5SlZRd21JQWlycEhsb2ZjM3gwWjhwYUFobjNOcHhPczFzVjdYRkRjUUd6N1BVU2RmdDZQcGRRN0pyZ0Q4NDhaQjZ0ZUZmVFRZMFpDTU5mVkNTWnlzXzZjTzhQMXltSlB3cXJHeG56bXJlQXRKZE1XU3ljTlhpM0ZvX1NFcDJyODdWMEJXLTdRcEtiSzRITVk3dkg3WldHa0ZHYzNWOUM4UWlfTy03ZTZEOXlraVlpenVCTnY?oc=5\" target=\"_blank\">SK hynix says memory supply 'must be expanded' to save the consumer tech market and prevent 'chipflation'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TweakTown</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TweakTown"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix executive commentary on need for expanded memory supply to address market concerns and prevent price inflation. Represents industry perspective on supply-demand dynamics but lacks specific capacity commitments, production plans, or concrete developments."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "03524e1be362532103751eb5567732b62c53bee1",
+  "source": "ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Seagate stock trades steady as data storage demand and AI infrastructure spending support outlook - ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0hQQjFRVG9ZUl9ud0JzcEdTTGJuTXRnZURPNUU5QjVZVjA0QTA1aEpVa0RZd2xmZW9RSHpRMm1nMUhaVkF6bjU3WE5McnlGNWJKUVMwclVLdWNJMUEyUWVrTjRhcXdtQWQ3SU5MV2RQemdia2V3TkRUVVdBWVdCR3JkQUJhTGtqazNDb0pEb1Y1TV9UdnQ0Z2lTSHBfYkk0SThsTjBwZ0dBQXBHdVZWc2ZwUW9BQXRYMkY5R0hPT05OUlJ6elhGcFBlaw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 03:38:29 GMT",
+  "published_ts": 1784518709,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0hQQjFRVG9ZUl9ud0JzcEdTTGJuTXRnZURPNUU5QjVZVjA0QTA1aEpVa0RZd2xmZW9RSHpRMm1nMUhaVkF6bjU3WE5McnlGNWJKUVMwclVLdWNJMUEyUWVrTjRhcXdtQWQ3SU5MV2RQemdia2V3TkRUVVdBWVdCR3JkQUJhTGtqazNDb0pEb1Y1TV9UdnQ0Z2lTSHBfYkk0SThsTjBwZ0dBQXBHdVZWc2ZwUW9BQXRYMkY5R0hPT05OUlJ6elhGcFBlaw?oc=5\" target=\"_blank\">Seagate stock trades steady as data storage demand and AI infrastructure spending support outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX) stock trading steadily amid supportive data storage demand and AI infrastructure spending outlook. This is a positive sentiment piece on a fund holding, but lacks concrete new information or a specific catalyst—it reflects market digestion of existing trends rather than a discrete event or guidance change."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "c10064231fbe5ef9a7297d6becdee5a9a657f171",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUFHVC10U1hOdXZacjczZjJvWEdndDFKM3lmWjItNkc5TmtCLWczd3dPelhKSnAxV0dVRUZDOG9FLWhna3Q4OGRXVVRVa2djUEw4Ny1yTzJYOGFYUHlHbV9tUGk0Nm95cmdISkwzZThMQU50aHA2bUdxUUpfalFGVDBZNFpWalJPZlc2czQxaWZxV1h0bDlrNE5hTFlzZHozTEFYUdIBqgFBVV95cUxQd09RVThINDhuT25FUm16WWo5NjN6LUNHQUctMmR6T3VCWTFwcmhQT25fMENrbEt5aUQ1NGU2M2Rudml3cUE2RmdUTF9lSDFINm9XdzFYbXlmUDYzRmRZV3pVdVJVdmlaOFpuSFFEaEN5bk1lV0MzWUFoc2pRSkJtZDJzblNfUnQ0emh6eHZxYkMwNXdHWXlhSmg2a0Y0QXNkS3dYOG1fSHM5dw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 04:18:05 GMT",
+  "published_ts": 1784521085,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUFHVC10U1hOdXZacjczZjJvWEdndDFKM3lmWjItNkc5TmtCLWczd3dPelhKSnAxV0dVRUZDOG9FLWhna3Q4OGRXVVRVa2djUEw4Ny1yTzJYOGFYUHlHbV9tUGk0Nm95cmdISkwzZThMQU50aHA2bUdxUUpfalFGVDBZNFpWalJPZlc2czQxaWZxV1h0bDlrNE5hTFlzZHozTEFYUdIBqgFBVV95cUxQd09RVThINDhuT25FUm16WWo5NjN6LUNHQUctMmR6T3VCWTFwcmhQT25fMENrbEt5aUQ1NGU2M2Rudml3cUE2RmdUTF9lSDFINm9XdzFYbXlmUDYzRmRZV3pVdVJVdmlaOFpuSFFEaEN5bk1lV0MzWUFoc2pRSkJtZDJzblNfUnQ0emh6eHZxYkMwNXdHWXlhSmg2a0Y0QXNkS3dYOG1fSHM5dw?oc=5\" target=\"_blank\">'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean retail traders' leveraged bets on SK Hynix and Samsung memory stocks have unwound following a market selloff. The story documents trader losses and sentiment but does not report a new corporate event, earnings surprise, or market-moving catalyst beyond the price decline itself."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "b50d1064da43a99e4551ff2388cd5a5179e0a7d9",
+  "source": "36Kr",
+  "topic": "holding",
+  "title": "Summer of SK Hynix: A Nation’s High-Stakes AI Chip Gamble That’s Reshaping the Global Tech Landscape - 36Kr",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ILWpEaTkzdWFsaXhzR2xnQ0RQV01hRnpaby1ST1lSNUxRek1COUJJeUhweHlIZjRJUHJCRUc4eEo4YzVTdDlDWUJqYkZWckZ6SWlZ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 01:32:59 GMT",
+  "published_ts": 1784511179,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ILWpEaTkzdWFsaXhzR2xnQ0RQV01hRnpaby1ST1lSNUxRek1COUJJeUhweHlIZjRJUHJCRUc4eEo4YzVTdDlDWUJqYkZWckZ6SWlZ?oc=5\" target=\"_blank\">Summer of SK Hynix: A Nation’s High-Stakes AI Chip Gamble That’s Reshaping the Global Tech Landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "36Kr"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "36Kr commentary on SK Hynix's AI chip strategy and its geopolitical/industry implications. This is analytical coverage of a holding company's positioning in the AI memory market, but lacks concrete new developments, earnings results, capacity announcements, or pricing data—it appears to be strategic assessment and opinion rather than a reported event."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "d278f9f5a0167d9489d09a9432fe44a4ef02b988",
+  "source": "KuCoin",
+  "topic": "pricing",
+  "title": "Morgan Stanley Raises Q3 DRAM ASP Forecast to 21% Amid Surge in Server Memory Demand - KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm5mSXctU0FidUZQM1RCZ3M0YmVqME4tSnhxMFphUUNDWUtNaTA4ako3bjJlQmV5WVg2Und3UzAzcndrOFQtT3MwMFQwdW1aNFpGT0N1N2E2UlJmOUhBaGpMRUExV1JYaUpnS0ZQV3RxRWdBcGo2VDZ3MUR0NWZPVmlCMVlMeFM2WVhXY19BeWVtSUpOV19tQkpWcnZBU2o5NFRqSWg1MzE2clE?oc=5",
+  "published_at": "Mon, 20 Jul 2026 04:30:56 GMT",
+  "published_ts": 1784521856,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm5mSXctU0FidUZQM1RCZ3M0YmVqME4tSnhxMFphUUNDWUtNaTA4ako3bjJlQmV5WVg2Und3UzAzcndrOFQtT3MwMFQwdW1aNFpGT0N1N2E2UlJmOUhBaGpMRUExV1JYaUpnS0ZQV3RxRWdBcGo2VDZ3MUR0NWZPVmlCMVlMeFM2WVhXY19BeWVtSUpOV19tQkpWcnZBU2o5NFRqSWg1MzE2clE?oc=5\" target=\"_blank\">Morgan Stanley Raises Q3 DRAM ASP Forecast to 21% Amid Surge in Server Memory Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KuCoin"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Morgan Stanley raises Q3 DRAM ASP (average selling price) forecast to 21%, citing surge in server memory demand. This is analyst forecast/opinion on pricing trends rather than a confirmed price or transaction; it is relevant to the memory cycle but represents analysis and outlook rather than a concrete market event."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "eb9a545bfd94a0d789ed73c0e3128790a2589607",
+  "source": "Seoul Economic Daily",
+  "topic": "industry",
+  "title": "Chey Warns of Deeper Chip Shortage in 2026 as AI Demand Surges - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaS12Z1pTNk5EeXRVRG8yWkpBa2QtN2phS1pQWEl5SzNwOVVSa2kxT2JVY2dIdVMyd3AyYWpaZkpBWk1wTXZZaFFDbEFoR0k5SS01SWpncWVBcDQyRm93amFEc3h3YUtKX2dwek1sYkJrNFVVbHVPMkpYelJUcmM3cTZaQzBmU092cjdJZ3VoWDdmUGN4Y2hndzRYejh2Zw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 01:00:05 GMT",
+  "published_ts": 1784509205,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaS12Z1pTNk5EeXRVRG8yWkpBa2QtN2phS1pQWEl5SzNwOVVSa2kxT2JVY2dIdVMyd3AyYWpaZkpBWk1wTXZZaFFDbEFoR0k5SS01SWpncWVBcDQyRm93amFEc3h3YUtKX2dwek1sYkJrNFVVbHVPMkpYelJUcmM3cTZaQzBmU092cjdJZ3VoWDdmUGN4Y2hndzRYejh2Zw?oc=5\" target=\"_blank\">Chey Warns of Deeper Chip Shortage in 2026 as AI Demand Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix chairman Chey warns of a deeper chip shortage anticipated in 2026 driven by surging AI demand. This is forward-looking commentary on supply constraints and AI-driven memory demand dynamics relevant to the fund's holdings and the memory cycle, but it is opinion/forecast rather than a concrete, confirmed event."
+  },
+  "buffered_ts": 1784523835.5421126
+ },
+ {
+  "id": "37f3b80bdb12df0284cac7bf43723db6fa441ec4",
+  "source": "Semafor",
+  "topic": "industry",
+  "title": "AI memory shortage puts pressure on governments to act - Semafor",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ19PUVo1QUNuVGQzTFpfTEpET09UN2VXSTJfS0FyOVlnNm1keGNSNFZucEMxWk5OUXNIVmZVOWxiZUxLVGU0SmlmVmlwYkJib05PQWNHTXAxbjFycmxJUWpzWGJaSmdIR3hoSkNRT0t4WUhyemIxRW5kVHFyNnl1NFdNdTZudUkxYkdWLVUxNTVKSGxkb1BVa3lVdWY2UQ?oc=5",
+  "published_at": "Sun, 19 Jul 2026 22:27:00 GMT",
+  "published_ts": 1784500020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQ19PUVo1QUNuVGQzTFpfTEpET09UN2VXSTJfS0FyOVlnNm1keGNSNFZucEMxWk5OUXNIVmZVOWxiZUxLVGU0SmlmVmlwYkJib05PQWNHTXAxbjFycmxJUWpzWGJaSmdIR3hoSkNRT0t4WUhyemIxRW5kVHFyNnl1NFdNdTZudUkxYkdWLVUxNTVKSGxkb1BVa3lVdWY2UQ?oc=5\" target=\"_blank\">AI memory shortage puts pressure on governments to act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Semafor"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on AI memory shortage creating government pressure to act. This is relevant to memory-semiconductor industry demand drivers but lacks concrete events, confirmed capacities, or specific policy decisions—it presents the situation and possibility of government action rather than a settled development."
+  },
+  "buffered_ts": 1784523835.5421126
  }
 ]
