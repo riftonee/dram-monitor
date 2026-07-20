@@ -892,5 +892,80 @@
    "summary": "Motley Fool opinion piece discussing recent share price declines in Micron and SanDisk, posing a speculative 'buy the dip' question without reporting a specific catalyst or concrete news."
   },
   "buffered_ts": 1784583692.8827114
+ },
+ {
+  "id": "a306520decc6520adf47203b475ed96fd86c992f",
+  "source": "Ad-hoc-news.de",
+  "topic": "industry",
+  "title": "Micron Plows $3 Billion Into U.S. Wafer Supply as Auto Deals and AI Demand Stretch Capacity Into 202 - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUQ4RjkzWTF2T050SFF1Q1I0TkF4X1VLU1JmbXA5bDdkcFY5YkFxcW5hbWR2REZHS1hFNXo1NV8xak40ZkVWeXlCcDdxNWxLU1pCNG1Gd1NXNzJyU0NFck9YZ2ZXYmhBTHdtNENBR3RTVEIwQkJKM3NETHotTGR1bUpGanlud1E1cENiWGNrTUhUSE1HalYwaG9xV05STjFuV2JNTldXd25LQ2V6M0I4cVlXd0VoRUhzczdmMFNNc3BTZnRwQjNRQktyZw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 16:06:40 GMT",
+  "published_ts": 1784563600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUQ4RjkzWTF2T050SFF1Q1I0TkF4X1VLU1JmbXA5bDdkcFY5YkFxcW5hbWR2REZHS1hFNXo1NV8xak40ZkVWeXlCcDdxNWxLU1pCNG1Gd1NXNzJyU0NFck9YZ2ZXYmhBTHdtNENBR3RTVEIwQkJKM3NETHotTGR1bUpGanlud1E1cENiWGNrTUhUSE1HalYwaG9xV05STjFuV2JNTldXd25LQ2V6M0I4cVlXd0VoRUhzczdmMFNNc3BTZnRwQjNRQktyZw?oc=5\" target=\"_blank\">Micron Plows $3 Billion Into U.S. Wafer Supply as Auto Deals and AI Demand Stretch Capacity Into 202</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron announced a $3 billion investment in U.S. wafer supply capacity in response to AI demand and auto sector deals stretching capacity into 2025. This is a concrete capital allocation decision by a major fund holding directly addressing memory demand drivers."
+  },
+  "buffered_ts": 1784588208.3038635
+ },
+ {
+  "id": "2bef1a0050d66534b1adb3d9fe24795f3d416b5c",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Sandisk Sinks 24% in 5 Days -- This $2,500 Projection Suggests It's Not Time to Panic - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYUVidGJxWXJ5NzZRSElIRS1vYXY4dGt1NGlidFF1WEVheXExTE9YOFFiRGEtZENwZW03VHFtbXBtMHlXc0pIODdGSHBKbnBXajR2QjNaemR4bFl6VkNBTXFWc182RWE2MnRiX3VhTm5xN2FGbHZSODN5U2x6a3Z3azluUTJUbmVoS0JlQU1yb0x5bHN3S3NDdW83aktJLU1ENHplV3p4OEhKRFBHNm9fNHpKcHV0S0tKVVR0Qm9RcVhvWng2bTUwWGJIZEVWWjVpbnZIdUs5eDNDbmpkOHhNS3hHSXFnUkVTLTYwVTlwLVhQUVE4ekNtQUVn?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:37:16 GMT",
+  "published_ts": 1784554636,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYUVidGJxWXJ5NzZRSElIRS1vYXY4dGt1NGlidFF1WEVheXExTE9YOFFiRGEtZENwZW03VHFtbXBtMHlXc0pIODdGSHBKbnBXajR2QjNaemR4bFl6VkNBTXFWc182RWE2MnRiX3VhTm5xN2FGbHZSODN5U2x6a3Z3azluUTJUbmVoS0JlQU1yb0x5bHN3S3NDdW83aktJLU1ENHplV3p4OEhKRFBHNm9fNHpKcHV0S0tKVVR0Qm9RcVhvWng2bTUwWGJIZEVWWjVpbnZIdUs5eDNDbmpkOHhNS3hHSXFnUkVTLTYwVTlwLVhQUVE4ekNtQUVn?oc=5\" target=\"_blank\">Sandisk Sinks 24% in 5 Days -- This $2,500 Projection Suggests It's Not Time to Panic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Globe and Mail",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Sandisk Sinks 24% in 5 Days -- This $2,500 Projection Suggests It's Not Time to Panic - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) declined 24% over 5 days; article offers analyst perspective with a $2,500 price target suggesting the move may be overdone. This is a post-event analysis and price-target commentary rather than a concrete catalyst, so impact is soft (analyst opinion/reaction) rather than hard news."
+  },
+  "buffered_ts": 1784588208.3038635
+ },
+ {
+  "id": "001adda2b4d3332ea178f763581506a4b222b36b",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Micron and Sandisk Shares Are Crashing. Is It Time to Buy the Dip? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2RuX1dmejJsMlh3UnVnVWpKWWswbEJfLV95dXk5UzNvbF9jcUFUSU9fSjJSS1FSSG5zbVVnOUhFOXB2YW4waGVVYVpkNE1felF3NW8tS0V5NjcxcXVfakd3ejJaakF6NUZnYWVFZVBnbGNWVEM0dk80RDdFZGhWakNDbFNlUm42dWdZRnB2dW03eExiZU5FNTEtaUFJLUprVFVqREFwaTd2cUZmV1FTU045YnFNdU9ZakRMMUxUYzNmYmN5UW95YnFIaWtGcUlmM1FFajZPMXZoMlk?oc=5",
+  "published_at": "Mon, 20 Jul 2026 21:37:57 GMT",
+  "published_ts": 1784583477,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2RuX1dmejJsMlh3UnVnVWpKWWswbEJfLV95dXk5UzNvbF9jcUFUSU9fSjJSS1FSSG5zbVVnOUhFOXB2YW4waGVVYVpkNE1felF3NW8tS0V5NjcxcXVfakd3ejJaakF6NUZnYWVFZVBnbGNWVEM0dk80RDdFZGhWakNDbFNlUm42dWdZRnB2dW03eExiZU5FNTEtaUFJLUprVFVqREFwaTd2cUZmV1FTU045YnFNdU9ZakRMMUxUYzNmYmN5UW95YnFIaWtGcUlmM1FFajZPMXZoMlk?oc=5\" target=\"_blank\">Micron and Sandisk Shares Are Crashing. Is It Time to Buy the Dip?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Article discussing sharp share price declines in Micron and SanDisk with analysis on whether the selloff presents a buying opportunity. This is a post-move commentary piece without a stated catalyst or new concrete event driving the declines."
+  },
+  "buffered_ts": 1784588208.3038635
  }
 ]
