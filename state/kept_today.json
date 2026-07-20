@@ -193,5 +193,173 @@
    "summary": "SK Hynix stock rose 5% in a broader chip rally, with Korea cited as a catalyst. This is a price-move story without a stated concrete news driver—merely reporting stock performance and attributing it vaguely to regional sentiment. No earnings, deal, or supply/demand catalyst is identified."
   },
   "buffered_ts": 1784553940.3526292
+ },
+ {
+  "id": "8c0e8e85e6f750aa7960f4ebbe83757f4209f9ee",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk Sinks 24% in 5 Days -- This $2,500 Projection Suggests It's Not Time to Panic - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUM0aVpiUWlEOTItcDZlbzVYeUxEX3BUT3RlNndpLUx6YTNXeDBqNjlSZnVhRHB3UnU2SERWb29kX1NERlQ1YVJ1b3hIMzZoY1BVZ1dMa1EzUnhBeEY4YWl5VFpCRGdDMVdEdlltZGRrUXJUbWotMmUyZ1JOSVZBNXdZRTZuUW1oRHRnWHdyTE1OUUtBdkhTUw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:30:27 GMT",
+  "published_ts": 1784554227,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUM0aVpiUWlEOTItcDZlbzVYeUxEX3BUT3RlNndpLUx6YTNXeDBqNjlSZnVhRHB3UnU2SERWb29kX1NERlQ1YVJ1b3hIMzZoY1BVZ1dMa1EzUnhBeEY4YWl5VFpCRGdDMVdEdlltZGRrUXJUbWotMmUyZ1JOSVZBNXdZRTZuUW1oRHRnWHdyTE1OUUtBdkhTUw?oc=5\" target=\"_blank\">Sandisk Sinks 24% in 5 Days -- This $2,500 Projection Suggests It's Not Time to Panic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock declined 24% over 5 days; Motley Fool article discusses the move and includes analyst price-target projection of $2,500. The sharp price movement is notable for a fund holding, but the article appears to be post-hoc analysis and commentary rather than reporting a concrete catalyst—likely a reaction to earnings or other news already in the market. Analyst price targets and commentary on existing stock moves are soft impact."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "fa775ce3519671a01f23238246f6d224f0dfcb1c",
+  "source": "TechPowerUp",
+  "topic": "holding",
+  "title": "SK hynix Explores US Fab Options to Keep Memory Prices Under Control - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTJLR004R0ZZMVREZmlSVUo1NWdWVjNQdGFicG1XN1UtUXRHOTZKWkpVWWg3XzNxZlhpR1BWa3lvSFktbXVCd2JNYV9EZTZ1Ui1UTmNseHJQa055dnpGblN1NlhTVjRHNEJKYnp1MVh0ZHZ0VWRYZjBiaVN5dk8tdXExZEJGN0gwX1owa3BWSEpFV09TVWE4aHZ0RllmdmJDMExzYWJR0gGrAUFVX3lxTFBZSG5VWm5kUDRpLVZCUElLX0pVQmJZdzF6UlVFalFMSHpmT3czMnVicEJBckRFdWJhTVpGZm9JSUJZYlJ3dldtS2tEWXV1LUtmMEs1cVBSaVFKeUdZdG5EcmxDYklVU3VPZ3czRHJ5bGhWQUVuWmRLMDNMQW5vUjNuRGFQZ0xIam12ZEdzbnB0THUtWlg3U0YtUk50YlR4Rl9FVHh3eGNnQmhoaw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 14:41:12 GMT",
+  "published_ts": 1784558472,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTJLR004R0ZZMVREZmlSVUo1NWdWVjNQdGFicG1XN1UtUXRHOTZKWkpVWWg3XzNxZlhpR1BWa3lvSFktbXVCd2JNYV9EZTZ1Ui1UTmNseHJQa055dnpGblN1NlhTVjRHNEJKYnp1MVh0ZHZ0VWRYZjBiaVN5dk8tdXExZEJGN0gwX1owa3BWSEpFV09TVWE4aHZ0RllmdmJDMExzYWJR0gGrAUFVX3lxTFBZSG5VWm5kUDRpLVZCUElLX0pVQmJZdzF6UlVFalFMSHpmT3czMnVicEJBckRFdWJhTVpGZm9JSUJZYlJ3dldtS2tEWXV1LUtmMEs1cVBSaVFKeUdZdG5EcmxDYklVU3VPZ3czRHJ5bGhWQUVuWmRLMDNMQW5vUjNuRGFQZ0xIam12ZEdzbnB0THUtWlg3U0YtUk50YlR4Rl9FVHh3eGNnQmhoaw?oc=5\" target=\"_blank\">SK hynix Explores US Fab Options to Keep Memory Prices Under Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechPowerUp"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is exploring options to build a US fabrication facility as a strategy to maintain control over memory pricing. This represents a potential capacity expansion initiative by a major holding, but the story indicates the company is still in the exploration phase rather than announcing a concrete commitment or investment decision."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "b9cd3cb98e1b3002b9472eafded5c4738091f57f",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "SK Hynix Says AI Memory Prices Are Too High — Here's Why - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0tmcTVMRXI1NjhFUmdlcU1kdVNrZE55eE8zOC02QjRUN25mQ2tod2pud0J0RDdPZlJlT2JlMlFUYkVPQzA2alh4aHdqWmlubVVUMFhQT1h1SFVua1JfOUlnOXRaR0M1UVFERjRjcVZ4MWV3VGxIbTR3RjlhTDJJckZwOG9sLWZWdHNiOG5WX2tXbXJDZlkxS1JIQUdhLVgzRFd1UDYtam9LbTg4Ykh5SGdJSThuWU5iS0E?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:27:38 GMT",
+  "published_ts": 1784554058,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0tmcTVMRXI1NjhFUmdlcU1kdVNrZE55eE8zOC02QjRUN25mQ2tod2pud0J0RDdPZlJlT2JlMlFUYkVPQzA2alh4aHdqWmlubVVUMFhQT1h1SFVua1JfOUlnOXRaR0M1UVFERjRjcVZ4MWV3VGxIbTR3RjlhTDJJckZwOG9sLWZWdHNiOG5WX2tXbXJDZlkxS1JIQUdhLVgzRFd1UDYtam9LbTg4Ykh5SGdJSThuWU5iS0E?oc=5\" target=\"_blank\">SK Hynix Says AI Memory Prices Are Too High — Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SK Hynix commentary on elevated AI memory (likely HBM) pricing. This is opinion/analysis on market conditions rather than a concrete pricing event or guidance change, making it a soft but relevant signal about the memory cycle."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "3357fa2f0ca6da1ec647374bda1ca3f053210184",
+  "source": "The Information",
+  "topic": "holding",
+  "title": "Samsung Is the New Memory Chip Underdog—for Now - The Information",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWc4UDZUUFpVdWt0RUczTFR1bXE1dkQ5ZGstV3BURkFPa2N6bC1Ca2tZYVh0UGxDVGxlaGktVWZ1dHZ4dUE4R0RpQUFDZVVON0M5empwd0hraFd5Ry1RTzI2ckJ0bF90T0RzSm10WnM4VXF1TS1FUDd5VkxZcGRsV0JB?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:32:00 GMT",
+  "published_ts": 1784554320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWc4UDZUUFpVdWt0RUczTFR1bXE1dkQ5ZGstV3BURkFPa2N6bC1Ca2tZYVh0UGxDVGxlaGktVWZ1dHZ4dUE4R0RpQUFDZVVON0M5empwd0hraFd5Ry1RTzI2ckJ0bF90T0RzSm10WnM4VXF1TS1FUDd5VkxZcGRsV0JB?oc=5\" target=\"_blank\">Samsung Is the New Memory Chip Underdog—for Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Information"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung positioned as memory chip underdog; analysis piece examining competitive dynamics in memory market. Opinion/analysis rather than concrete event or hard data on Samsung's memory segment performance or strategy."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "5c7fe4f5e947b275f38223a3fe268d6019716cf5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "AMD, Micron, SK Hynix lead chip stock recovery - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdk9ocUZ3YzF2U0YtRm02UWJ2dFRmVER3TnhDbVgtaGp1Vl84c2ZCR0t2b1ZqSjFKbEhibmliZFpGbXpaVUVUWnpsRU45MG1BamMyUlI4Z1A3a21RRlNkTGJyenVucmlObHppNkdqWHlsMTNwVDZXcXZ2WVdFTmxkLWlhcE1DZENjLXV3NGphcHFoaUR2SkpfRV9fekRxbGV0QlBlM2ZBRQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:31:10 GMT",
+  "published_ts": 1784554270,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdk9ocUZ3YzF2U0YtRm02UWJ2dFRmVER3TnhDbVgtaGp1Vl84c2ZCR0t2b1ZqSjFKbEhibmliZFpGbXpaVUVUWnpsRU45MG1BamMyUlI4Z1A3a21RRlNkTGJyenVucmlObHppNkdqWHlsMTNwVDZXcXZ2WVdFTmxkLWlhcE1DZENjLXV3NGphcHFoaUR2SkpfRV9fekRxbGV0QlBlM2ZBRQ?oc=5\" target=\"_blank\">AMD, Micron, SK Hynix lead chip stock recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Market report noting AMD, Micron (MU), and SK Hynix among chip stocks recovering. Without specifics on catalyst, driver, or magnitude, this appears to be a post-market price observation rather than a concrete event or new information affecting the holdings."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "d8c9c3f9be6cc47ae2397299eb8d62b94f487022",
+  "source": "매일경제",
+  "topic": "industry",
+  "title": "SK Group chief warns AI chip shortage to worsen in 2027 - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vSWkyaGhiZWh0YmVueHMwQlNyc09kZ2F3cUVONGZLTU15ZkpBR3pwQkNrUzg4Q0ZSR2VYZjJRZjYtaDZ4Z0ZGd1JuRmtPbWFFd09jXzJpQQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 05:10:02 GMT",
+  "published_ts": 1784524202,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vSWkyaGhiZWh0YmVueHMwQlNyc09kZ2F3cUVONGZLTU15ZkpBR3pwQkNrUzg4Q0ZSR2VYZjJRZjYtaDZ4Z0ZGd1JuRmtPbWFFd09jXzJpQQ?oc=5\" target=\"_blank\">SK Group chief warns AI chip shortage to worsen in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Group chief warns that AI chip shortage will worsen in 2027, signaling expectation of sustained high demand for memory semiconductors driven by AI infrastructure buildout; forward-looking but not a concrete event or confirmed supply decision yet."
+  },
+  "buffered_ts": 1784561320.3339727
+ },
+ {
+  "id": "d203d4692a00a137d586f38ecb21c7cfda5e2d79",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "U.S. Stocks Move | Chip Stocks Broadly Higher, SanDisk (SNDK.US) Up Over 6% - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHowVjdlNzVsTGoxei00N0NOS3h3MktrQkR0V2VtUGtwRDNFZXJpdnNORDBrSW5GQ1N0WG1rQVNvdTFuQ0duYkVCQW90TFJseWNmVkFORl9VYmRuV1R0czg2c0RFUnBaQTFqSnNlUEpXQ3VaRmRVRnRoMGpWeWZnd3ZLU01GREVmVy1qY0hEZ3E1UWNtTU4wVjNJT2cyMVNnU1E?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:54:36 GMT",
+  "published_ts": 1784555676,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHowVjdlNzVsTGoxei00N0NOS3h3MktrQkR0V2VtUGtwRDNFZXJpdnNORDBrSW5GQ1N0WG1rQVNvdTFuQ0duYkVCQW90TFJseWNmVkFORl9VYmRuV1R0czg2c0RFUnBaQTFqSnNlUEpXQ3VaRmRVRnRoMGpWeWZnd3ZLU01GREVmVy1qY0hEZ3E1UWNtTU4wVjNJT2cyMVNnU1E?oc=5\" target=\"_blank\">U.S. Stocks Move | Chip Stocks Broadly Higher, SanDisk (SNDK.US) Up Over 6%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a DRAM ETF holding, rose over 6% in broad chip-sector strength. No specific catalyst or news driver disclosed; appears to be a general market move reflective of sector momentum rather than company-specific developments."
+  },
+  "buffered_ts": 1784561320.3339727
  }
 ]
