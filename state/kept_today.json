@@ -676,5 +676,101 @@
    "summary": "SanDisk stock rebounded; Motley Fool analysis of the stock move. Without the full article content, this appears to be post-price-move commentary rather than reporting a concrete catalyst—typical of analyst reaction pieces scoring impact 3 unless a distinct, new fundamental event is disclosed in the body."
   },
   "buffered_ts": 1784573585.4476626
+ },
+ {
+  "id": "7110963b0ec790d09cd616b1e47a42e39197125f",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Memory Chip Giants' Trillion-Dollar Expansion Sparks Oversupply Alarm, 2028 Seen as Critical Inflection Point - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LXllalpvNDRIYTRYOUxpLVQ4bVkzRG95MDRiVXFoOGJtOWxCQ0k0U2JaRkdVcklPRFl6d1BzLUlCWGhkTXJXR1dvclNhMXMwQXhlVTFPSGE2M1dEcUxZbXg1S3VWY1RBLU9sVTdfUk4tTTNhVGc?oc=5",
+  "published_at": "Mon, 20 Jul 2026 14:15:00 GMT",
+  "published_ts": 1784556900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LXllalpvNDRIYTRYOUxpLVQ4bVkzRG95MDRiVXFoOGJtOWxCQ0k0U2JaRkdVcklPRFl6d1BzLUlCWGhkTXJXR1dvclNhMXMwQXhlVTFPSGE2M1dEcUxZbXg1S3VWY1RBLU9sVTdfUk4tTTNhVGc?oc=5\" target=\"_blank\">Memory Chip Giants' Trillion-Dollar Expansion Sparks Oversupply Alarm, 2028 Seen as Critical Inflection Point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Industry analysis warns of potential oversupply from major memory chipmakers' trillion-dollar capacity expansions, with 2028 identified as a critical inflection point. This is forward-looking commentary on industry dynamics and cycle timing rather than a confirmed event, making it material to the fund's holdings but not an actionable development yet."
+  },
+  "buffered_ts": 1784578694.067716
+ },
+ {
+  "id": "a15291c1831de995193bee169413845b6da5f609",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Micron Stock Jumps as SK Hynix Warns AI Memory Boom Won't Last Forever - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGFTZ3diZG9adXNKb3VPa3VtdXAxOUNLemd3eURPelh6YjBERFk3UjgzN0dCbkcteXl2anBZZE1oZU5qMHdvSExLdXNiOU9TTjY3M0g0azctczUzWGxrR1p2a2Vhc09UaXl3Qnk4cjAtSENvUWN0akhiVW4zM09CaVlaMzJNRGtZQmhUcmtibHJieUxEVTlONUdVTnRFcndyTHBUV2RybEFfNndnbHkzOHNfeXRlXzlEWTFzYlRJazVWVmlJMEZCY3RB?oc=5",
+  "published_at": "Mon, 20 Jul 2026 19:39:13 GMT",
+  "published_ts": 1784576353,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGFTZ3diZG9adXNKb3VPa3VtdXAxOUNLemd3eURPelh6YjBERFk3UjgzN0dCbkcteXl2anBZZE1oZU5qMHdvSExLdXNiOU9TTjY3M0g0azctczUzWGxrR1p2a2Vhc09UaXl3Qnk4cjAtSENvUWN0akhiVW4zM09CaVlaMzJNRGtZQmhUcmtibHJieUxEVTlONUdVTnRFcndyTHBUV2RybEFfNndnbHkzOHNfeXRlXzlEWTFzYlRJazVWVmlJMEZCY3RB?oc=5\" target=\"_blank\">Micron Stock Jumps as SK Hynix Warns AI Memory Boom Won't Last Forever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock jumped following SK Hynix's cautionary commentary about the durability of AI-driven memory demand. The move reflects market reaction to analyst sentiment and competitive positioning rather than a new concrete event or guidance change from Micron itself."
+  },
+  "buffered_ts": 1784578694.067716
+ },
+ {
+  "id": "3ecb6a78e002df2f9104695c32ba7da79865abd6",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "SanDisk Surges As Wall Street Bets On Memory Boom - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzByb0NFcmE2eEJsc0szbDVoNXgxeXJxei1abmh4VTFOSEVhcmxwclF4aUJzcVlJeHNQZUJzMnBOa2pnalJmUVZzR0FnY1p1bGlxQS1FZWZwWEpBbE5DVTFzYXhERVFPeWs4cVkzRVg0LVFNRnp1TUM0WTZSQlRfeEVUenp6aWczOXgzNXowbVB4UQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 16:09:27 GMT",
+  "published_ts": 1784563767,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzByb0NFcmE2eEJsc0szbDVoNXgxeXJxei1abmh4VTFOSEVhcmxwclF4aUJzcVlJeHNQZUJzMnBOa2pnalJmUVZzR0FnY1p1bGlxQS1FZWZwWEpBbE5DVTFzYXhERVFPeWs4cVkzRVg0LVFNRnp1TUM0WTZSQlRfeEVUenp6aWczOXgzNXowbVB4UQ?oc=5\" target=\"_blank\">SanDisk Surges As Wall Street Bets On Memory Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rises on analyst/Wall Street optimism around memory market outlook. This is a price move driven by market sentiment and analyst opinion rather than a concrete catalyst or earnings release, making it a soft story typical of post-earnings or thematic commentary."
+  },
+  "buffered_ts": 1784578694.067716
+ },
+ {
+  "id": "8931de3aac0d7945a18604a8cad88a6d668fa1f1",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "US Stocks Open Slightly Higher; Chip and Memory Sectors Rebound Strongly, SK Hynix Surges Over 4% - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fV21lMzM4T3JPLUFsczlqbFl1TGx1RmVINU5OT0c4d3pUTFBGVF9yUzE0OHQybVB4NExBSzF3S05SWk83VkJxVF9JOENRdEhGbUd0NDJJTGYwYVd5ZVRucmNQOFp6YlJHeTJPb1NZUUpySGlRT2c?oc=5",
+  "published_at": "Mon, 20 Jul 2026 13:55:00 GMT",
+  "published_ts": 1784555700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5fV21lMzM4T3JPLUFsczlqbFl1TGx1RmVINU5OT0c4d3pUTFBGVF9yUzE0OHQybVB4NExBSzF3S05SWk83VkJxVF9JOENRdEhGbUd0NDJJTGYwYVd5ZVRucmNQOFp6YlJHeTJPb1NZUUpySGlRT2c?oc=5\" target=\"_blank\">US Stocks Open Slightly Higher; Chip and Memory Sectors Rebound Strongly, SK Hynix Surges Over 4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix surged over 4% as chip and memory sectors rebounded. This is a stock-price move report with no stated catalyst or concrete news event driving the gain, making it a minor mention of a price move without underlying material information."
+  },
+  "buffered_ts": 1784578694.067716
  }
 ]
