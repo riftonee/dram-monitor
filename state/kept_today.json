@@ -1663,5 +1663,197 @@
    "summary": "Samsung Electronics and SK hynix stock prices rebounded following gains in U.S. chip stocks. This is a price-move story tied to broader market sentiment rather than a concrete company-specific event or earnings catalyst, making it a soft market reaction piece."
   },
   "buffered_ts": 1784622148.4697533
+ },
+ {
+  "id": "c7f21dbf5b84881685d4e1cb3c9d35aad242f532",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0tLb0dtM0pCamRxQjVjQ0tTZHRISXMxQ1BDejhKeTdvV25fc0QyX3h3U3UzYmtCMHgwMUFUWmZucGVRUFFtaTZaNFRBUHpDWEo3S3VTZU5rbWlEdnNhN0VjLWp6YlFKcERqSzVMTl9yY0poakh5UE5PcG1tSzZRWTdZYXNPYXoyMjkxTGhvOG1iZ1duNTdNUVh4UVVpa2cyR1Uw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 06:43:00 GMT",
+  "published_ts": 1784616180,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0tLb0dtM0pCamRxQjVjQ0tTZHRISXMxQ1BDejhKeTdvV25fc0QyX3h3U3UzYmtCMHgwMUFUWmZucGVRUFFtaTZaNFRBUHpDWEo3S3VTZU5rbWlEdnNhN0VjLWp6YlFKcERqSzVMTl9yY0poakh5UE5PcG1tSzZRWTdZYXNPYXoyMjkxTGhvOG1iZ1duNTdNUVh4UVVpa2cyR1Uw?oc=5\" target=\"_blank\">Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk posted blowout earnings in 2026, but the stock market's differential reaction to SanDisk versus Palantir on the earnings day suggests mixed sentiment despite strong results. This is a post-earnings analysis piece rather than a concrete market catalyst—relevant to the holding but not a new information event driving prices."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "f326a6240b9b386aa458aaf3dce2d64defb4e0b5",
+  "source": "富途牛牛",
+  "topic": "industry",
+  "title": "Wall Street rallies behind chip stocks! Morgan Stanley: Sell-off in memory stocks presents a prime buying opportunity - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0VoelhESXBsQV9YMTVKVUdnWkthdjZ0NVBaamZBblhqMjQxcmppYkVmbXB0MWh6eFdfQm95ckp4UF9sNG82NDZrTzUyR01ha09zMUp3NHVIOUo2UnFJZlRQekpvNGlILVJIQXgyR2dmTVVjakdwT3pXMFlUYkUyV1VJaTlRMnN0RnVjd2plOHc5V0IxYnpIM2hsd1U3VUljRmtVSUxB?oc=5",
+  "published_at": "Tue, 21 Jul 2026 08:51:21 GMT",
+  "published_ts": 1784623881,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0VoelhESXBsQV9YMTVKVUdnWkthdjZ0NVBaamZBblhqMjQxcmppYkVmbXB0MWh6eFdfQm95ckp4UF9sNG82NDZrTzUyR01ha09zMUp3NHVIOUo2UnFJZlRQekpvNGlILVJIQXgyR2dmTVVjakdwT3pXMFlUYkUyV1VJaTlRMnN0RnVjd2plOHc5V0IxYnpIM2hsd1U3VUljRmtVSUxB?oc=5\" target=\"_blank\">Wall Street rallies behind chip stocks! Morgan Stanley: Sell-off in memory stocks presents a prime buying opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Morgan Stanley analyst notes that the recent sell-off in memory stocks presents a buying opportunity. This is analyst opinion and commentary on valuation rather than a concrete event or new information about supply, demand, or pricing. It reflects market sentiment but does not introduce material facts about the memory cycle or holdings."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "45e27baa60383aa71467802597acc2dcadb0125d",
+  "source": "Ad-hoc-news.de",
+  "topic": "pricing",
+  "title": "Micron Technology stock trades near recent highs as memory pricing and AI demand support outlook - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanp1X052QnZrdGJzbFJnb2d4TTlobS03eWdGdFJEZVVKWHBmTTByOGVjR3hWNWF5V21pb1FzbWtiQ0k0VVRmQUVfY1dNSGhOYk1QYnNTQVhFemdRU2ZyWTNnN21SRmRCUjFycUltbnY5VWRNZVhQOG4yakRKU1JlM01WeHdsWi1KX0VUVkM0ZkRDbFRCSmtiZTFWRlk3ZXcxSUNRM01IMzlRQzZVVzFDcklGZDBtTS1WejJadTB3dXlLSzc2N1BZdjdyTm4?oc=5",
+  "published_at": "Mon, 20 Jul 2026 07:03:45 GMT",
+  "published_ts": 1784531025,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPanp1X052QnZrdGJzbFJnb2d4TTlobS03eWdGdFJEZVVKWHBmTTByOGVjR3hWNWF5V21pb1FzbWtiQ0k0VVRmQUVfY1dNSGhOYk1QYnNTQVhFemdRU2ZyWTNnN21SRmRCUjFycUltbnY5VWRNZVhQOG4yakRKU1JlM01WeHdsWi1KX0VUVkM0ZkRDbFRCSmtiZTFWRlk3ZXcxSUNRM01IMzlRQzZVVzFDcklGZDBtTS1WejJadTB3dXlLSzc2N1BZdjdyTm4?oc=5\" target=\"_blank\">Micron Technology stock trades near recent highs as memory pricing and AI demand support outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Micron stock trading near recent highs supported by memory pricing strength and AI demand. This is market commentary on price action and outlook rather than a concrete event or hard number, making it analyst/commentary-grade."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "9ab43edeaf7394c4c7632f3cbf9c5f192f976845",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "DDR5 RAM Prices Surge 4.5-Fold in a Year; Morgan Stanley Sees Another 25%+ Jump in Q3 - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeE5FRkRrRDJaV3hEcE84elBsSnZod1pEU1JPb1BRVk4xdlZYTlFrLUhkZ2cyT1ZweWpySzhESjc5aEZYcXRPVy12N2hzOEdnMTRMTlRQall0SFlvdVBuLWhfZWNkU3YzRHZoY0xWWFJxZFIzRVE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 02:45:00 GMT",
+  "published_ts": 1784601900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeE5FRkRrRDJaV3hEcE84elBsSnZod1pEU1JPb1BRVk4xdlZYTlFrLUhkZ2cyT1ZweWpySzhESjc5aEZYcXRPVy12N2hzOEdnMTRMTlRQall0SFlvdVBuLWhfZWNkU3YzRHZoY0xWWFJxZFIzRVE?oc=5\" target=\"_blank\">DDR5 RAM Prices Surge 4.5-Fold in a Year; Morgan Stanley Sees Another 25%+ Jump in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "DDR5 DRAM spot prices have surged 4.5x over the past year, with Morgan Stanley forecasting an additional 25%+ increase in Q3. While concrete price data is material to the memory cycle, the forward forecast component and analyst opinion reduce this from a 4 to a 3; the historical price move is already known/priced in, and the Q3 projection is speculative rather than a confirmed event."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "021dbc7fc530e559860f82acf2d5e9ced31793d5",
+  "source": "TradingView",
+  "topic": "fund",
+  "title": "MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFlsMTdWanZNa1F0N0FmYXZtb2lFVDkxNzhCVmcxVExuWVF3STBUbC1pOUk5eGU0NndnZ3NvMzJsVzZIcUhUS1FFN2ZLUEpZLVRlUURwLVU0R3FtbFB4Sm54aUp2QUlQY0dHMllDM0NUZ3BhN3ROaEhzU1pKYlBWeHJHUkpyOVN2b0xWRDRjSkdLb3pkN0MzTU1NVlFKRUx0OG1fOERXbTUyb0gxNkFpNWowWUVGRm1VNFdsZ3VhTDlZNVJtcEl5OW8tWWRyM1daNG1Fam1BeEo4Wjg?oc=5",
+  "published_at": "Tue, 21 Jul 2026 09:25:43 GMT",
+  "published_ts": 1784625943,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFlsMTdWanZNa1F0N0FmYXZtb2lFVDkxNzhCVmcxVExuWVF3STBUbC1pOUk5eGU0NndnZ3NvMzJsVzZIcUhUS1FFN2ZLUEpZLVRlUURwLVU0R3FtbFB4Sm54aUp2QUlQY0dHMllDM0NUZ3BhN3ROaEhzU1pKYlBWeHJHUkpyOVN2b0xWRDRjSkdLb3pkN0MzTU1NVlFKRUx0OG1fOERXbTUyb0gxNkFpNWowWUVGRm1VNFdsZ3VhTDlZNVJtcEl5OW8tWWRyM1daNG1Fam1BeEo4Wjg?oc=5\" target=\"_blank\">MU, SNDK, STX, WDC: Beaten-Down Memory Stocks Extend AI Rebound Ahead Of Tech Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (MU, SNDK, STX, WDC) are rising ahead of earnings in an AI-driven rebound. This is a price-movement story tied to anticipated earnings results rather than a concrete catalyst or new information, making it soft analysis of market sentiment."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "47a86a9ca585b38ea65b2a46ffc2a85a11ac1f70",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "UBS sees Broadcom, Sandisk, Oracle stocks rebounding: here's why - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE93VUtRTGh1cEJCZnNaWWY3eW9XRksxS3NtaWhNT1NPeGc5RFJhX0t1Z3VpWV9oRnFsUXU3dk1neGdYUlNXRWp1aWpqTzZPZzRYS2JNT0p2eWh1WlRpQkpmakZQbmQtb1dMZkF1US16RjVfSDNfTFpqa2hybnFxU0pHV1p5aG15amZMeW9KM2ItbW5FVDUtX1BjZFV0ZHNn?oc=5",
+  "published_at": "Tue, 21 Jul 2026 08:00:20 GMT",
+  "published_ts": 1784620820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE93VUtRTGh1cEJCZnNaWWY3eW9XRksxS3NtaWhNT1NPeGc5RFJhX0t1Z3VpWV9oRnFsUXU3dk1neGdYUlNXRWp1aWpqTzZPZzRYS2JNT0p2eWh1WlRpQkpmakZQbmQtb1dMZkF1US16RjVfSDNfTFpqa2hybnFxU0pHV1p5aG15amZMeW9KM2ItbW5FVDUtX1BjZFV0ZHNn?oc=5\" target=\"_blank\">UBS sees Broadcom, Sandisk, Oracle stocks rebounding: here's why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "UBS analyst report suggesting SanDisk stock may rebound; analyst opinion on price target or valuation rather than a concrete event or earnings catalyst."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "cd4cd31315e1641a610ef25b81caf5448d98728b",
+  "source": "CoinGape",
+  "topic": "holding",
+  "title": "KOSPI Snaps Back 3.56% as Samsung & SK Hynix Surge Over 6%, Rally After Monthly Crash? - CoinGape",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlAybnR3NVhzV3JCYUhsWGdKTnpRbzh4X0dJc2dkZV9UNGEzcDRoWW9iUGdTaDcyREduWk5NYWpINkoxaklwR28yWGNLTHAtb0ZBNXBCR0pOSXhGMFIxbW9vREtBVzl6UnhtOWJnMDlMV054SnQ5cjJMbHVrZmRkVW9Ic1U5VlREQlZfOGcxc2pwLUl4U01fa0psdDUzVEdxVFVPdjFmekRzTmxNeUlGdnFoc1k?oc=5",
+  "published_at": "Tue, 21 Jul 2026 08:46:39 GMT",
+  "published_ts": 1784623599,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlAybnR3NVhzV3JCYUhsWGdKTnpRbzh4X0dJc2dkZV9UNGEzcDRoWW9iUGdTaDcyREduWk5NYWpINkoxaklwR28yWGNLTHAtb0ZBNXBCR0pOSXhGMFIxbW9vREtBVzl6UnhtOWJnMDlMV054SnQ5cjJMbHVrZmRkVW9Ic1U5VlREQlZfOGcxc2pwLUl4U01fa0psdDUzVEdxVFVPdjFmekRzTmxNeUlGdnFoc1k?oc=5\" target=\"_blank\">KOSPI Snaps Back 3.56% as Samsung & SK Hynix Surge Over 6%, Rally After Monthly Crash?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinGape</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CoinGape"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "KOSPI index rebounds 3.56% with Samsung and SK hynix both surging over 6%. This is a broad market rally post-crash recovery with no disclosed holding-specific catalyst or memory-sector news—it appears to be a technical rebound of the Korean index. The gains lack a stated fundamental driver related to DRAM demand, pricing, or company-specific developments. Minor mention of fund holdings in a price-recovery context."
+  },
+  "buffered_ts": 1784630317.079076
+ },
+ {
+  "id": "b50637260542938483c277ced578295f1ef87685",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Bernstein Maintains SanDisk(SNDK.US) With Buy Rating, Maintains Target Price $3,000 - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNXbHhKa3RMOFlfMk9kc1AxTFN4V2VLd3EyVzRZVFY5eVNtQ1RjMmVmWHJYR2toVlZyb3hyRWtObEFNR1V6Ui01VkM3WTRVdzdXU3dSWnBBTjFTenpzdmZVQ3Zub0ZpRjAyMWpJZGlJLWhHZk1MSjVMOWlhVHVsMjRUemlJUEx2ZTFkREZFT2ZYQmJncWpMMjZma0h3RmNySTRTQjI3cG0yREVYd0R5ZWRsLXg2Zw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 08:50:18 GMT",
+  "published_ts": 1784623818,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNXbHhKa3RMOFlfMk9kc1AxTFN4V2VLd3EyVzRZVFY5eVNtQ1RjMmVmWHJYR2toVlZyb3hyRWtObEFNR1V6Ui01VkM3WTRVdzdXU3dSWnBBTjFTenpzdmZVQ3Zub0ZpRjAyMWpJZGlJLWhHZk1MSjVMOWlhVHVsMjRUemlJUEx2ZTFkREZFT2ZYQmJncWpMMjZma0h3RmNySTRTQjI3cG0yREVYd0R5ZWRsLXg2Zw?oc=5\" target=\"_blank\">Bernstein Maintains SanDisk(SNDK.US) With Buy Rating, Maintains Target Price $3,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Bernstein maintains SanDisk with Buy rating and $3,000 price target. This is a routine analyst reaffirmation with no new information, concrete catalyst, or material development—merely a price-target reiteration offering limited incremental insight into the holding."
+  },
+  "buffered_ts": 1784630317.079076
  }
 ]
