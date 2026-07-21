@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "id": "8bea9f937a0ab769fda3f7d1ca5ff09c3bd03514",
+  "source": "Mezha",
+  "topic": "holding",
+  "title": "Chinese smartphone manufacturers have begun to push back against yet another price rise for Samsung memory - Mezha",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdKcEVmUHhNajZSbGEzR0VvTXFsbS1laUpUUjVLb041dlJnU2FRRFpGR0pHSnRxaWVQTEo3bGhwU3hvcXpmYVVjVkZWUm5yVklvWjBuOE5fcWdCcndJM3F6WDJxVHpUdnpnVVpVdHg5Tzd1Z0lpNWUwd2M3UXNOczNzWVJEd2JIUTBRZVAtTnM0VWtlaHdfTDhGQnRLWmdaYjk4QlFITW_SAa4BQVVfeXFMUGFoTzViY3VyQjhwckluX2FTRG1IQjEzcDI2c0Npc21zRU5kWmZYZmw1dU5kZW1OYzBhckhPV1pkWDVBdldpVXc1WXNjRkxzbHRCc0VyVmZVYWFvWmdjRnhhTGNtNmd3c1lubHp1cjM2bmtBRGlicXMybXoxckhXTy1Tc3NrMlVlQm16cloxWTFXX2UwYXRMQWFObmZNX3FRbTlaVTdYRzJmNzFFX0Jn?oc=5",
+  "published_at": "Tue, 21 Jul 2026 08:38:00 GMT",
+  "published_ts": 1784623080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdKcEVmUHhNajZSbGEzR0VvTXFsbS1laUpUUjVLb041dlJnU2FRRFpGR0pHSnRxaWVQTEo3bGhwU3hvcXpmYVVjVkZWUm5yVklvWjBuOE5fcWdCcndJM3F6WDJxVHpUdnpnVVpVdHg5Tzd1Z0lpNWUwd2M3UXNOczNzWVJEd2JIUTBRZVAtTnM0VWtlaHdfTDhGQnRLWmdaYjk4QlFITW_SAa4BQVVfeXFMUGFoTzViY3VyQjhwckluX2FTRG1IQjEzcDI2c0Npc21zRU5kWmZYZmw1dU5kZW1OYzBhckhPV1pkWDVBdldpVXc1WXNjRkxzbHRCc0VyVmZVYWFvWmdjRnhhTGNtNmd3c1lubHp1cjM2bmtBRGlicXMybXoxckhXTy1Tc3NrMlVlQm16cloxWTFXX2UwYXRMQWFObmZNX3FRbTlaVTdYRzJmNzFFX0Jn?oc=5\" target=\"_blank\">Chinese smartphone manufacturers have begun to push back against yet another price rise for Samsung memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mezha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Chinese smartphone makers are resisting another Samsung memory price increase, indicating pricing pressure and potential demand pushback in the memory market. This reflects ongoing price negotiations but represents sentiment/resistance rather than a confirmed price move or concrete deal outcome."
+  },
+  "buffered_ts": 1784636540.4534993
+ }
+]
