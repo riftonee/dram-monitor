@@ -699,5 +699,341 @@
    "summary": "Report indicates NAND Flash supply constraints are expected to ease in 2027, suggesting a forward-looking view of fab capacity and production normalization. This is industry-relevant as it affects pricing and demand dynamics for memory semiconductor holdings, but represents analyst commentary or forecast rather than a confirmed event or hard capacity announcement."
   },
   "buffered_ts": 1784650913.5483804
+ },
+ {
+  "id": "d88608d3a208005128de4481d050eb29f0caf092",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "Exclusive: SK hynix in talks to buy Intel’s Ohio chip campus for U.S. memory production - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenNBaFNKbTZ2VHJMMklScERkNHpwdzhBUG8tTlU5X2tDdC1kMnNVMEMzZ1daVUo4Zl8xZEdRekl0amlwOXVDS2hpNFdjNHpkM1NlLVVPYkg0eEZadVQ3c19rWGRlbmg3V0JONUFaamhSWlFCSDFrbjBoMDlSRl82cFpxYmV2OFBDVjdzODltYV81cE9aV2hrOUVjQlJrOU5DajN1Y1R2Qk5WVkhzeEhhZFFSMjV2NGtOejVtYTRMcmRNZE02clFhUUI3UmptZlA3N3c?oc=5",
+  "published_at": "Tue, 21 Jul 2026 16:34:19 GMT",
+  "published_ts": 1784651659,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenNBaFNKbTZ2VHJMMklScERkNHpwdzhBUG8tTlU5X2tDdC1kMnNVMEMzZ1daVUo4Zl8xZEdRekl0amlwOXVDS2hpNFdjNHpkM1NlLVVPYkg0eEZadVQ3c19rWGRlbmg3V0JONUFaamhSWlFCSDFrbjBoMDlSRl82cFpxYmV2OFBDVjdzODltYV81cE9aV2hrOUVjQlJrOU5DajN1Y1R2Qk5WVkhzeEhhZFFSMjV2NGtOejVtYTRMcmRNZE02clFhUUI3UmptZlA3N3c?oc=5\" target=\"_blank\">Exclusive: SK hynix in talks to buy Intel’s Ohio chip campus for U.S. memory production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix (a top DRAM holding) is in exclusive talks to acquire Intel's Ohio chip campus for U.S. memory production. This is a concrete, material development—an officially reported acquisition discussion involving a major strategic expansion of DRAM/memory manufacturing capacity by a fund holding."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "3a97719b82acaa8dbd25de0c0ae7425320380045",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Sandisk vs. Seagate Technology: What Do Their Revenue Trends Tell Investors About Their Roles in the Artificial Intelligence Ecosystem? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZHZtOVJmVW9SMlNYNDgtbUdRSnRDSnJIWmdoSFJwaHZUdXlzN09kYmk4bFBJa2l3VGxMUVU0Uk9MRTUzOEw3bmI2bk1VSnFNUmRVNmRQeFZRN0RtSGdaNV9RX3VIQnc3WmVvdmxoQy16Qklxd0xRek5rSUtaUzdwQ2RoSEYzcVZ5bkNyLVZvSTllV3c4RGc5RXliU2RncVlhNV83UnMzNVZUNEhKeTQwTjZST0lUdkRRZU5La2xSTV9zUGFNMDFsbm1pODU1SWs1N1EzU1d3WWJ3Z2o2VlY0TEVwalAtU1YwYmlZU0xqU1hBNHZvdGIzVE4yaFdCaFhIdUd5cEEyTERTOExJa3c?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:15:49 GMT",
+  "published_ts": 1784654149,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQZHZtOVJmVW9SMlNYNDgtbUdRSnRDSnJIWmdoSFJwaHZUdXlzN09kYmk4bFBJa2l3VGxMUVU0Uk9MRTUzOEw3bmI2bk1VSnFNUmRVNmRQeFZRN0RtSGdaNV9RX3VIQnc3WmVvdmxoQy16Qklxd0xRek5rSUtaUzdwQ2RoSEYzcVZ5bkNyLVZvSTllV3c4RGc5RXliU2RncVlhNV83UnMzNVZUNEhKeTQwTjZST0lUdkRRZU5La2xSTV9zUGFNMDFsbm1pODU1SWs1N1EzU1d3WWJ3Z2o2VlY0TEVwalAtU1YwYmlZU0xqU1hBNHZvdGIzVE4yaFdCaFhIdUd5cEEyTERTOExJa3c?oc=5\" target=\"_blank\">Sandisk vs. Seagate Technology: What Do Their Revenue Trends Tell Investors About Their Roles in the Artificial Intelligence Ecosystem?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analysis comparing SanDisk and Seagate's revenue trends and roles in the AI ecosystem. This is investor-focused commentary and analysis rather than new concrete developments or confirmed events, making it soft editorial content that interprets existing data."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "e889ff2822b6d9a34a465dd1623ff6b76af85c21",
+  "source": "Investopedia",
+  "topic": "industry",
+  "title": "The Memory Stock Sell-Off Created a ‘Strong Entry Point,’ Says Morgan Stanley. Investors Are Buying In. - Investopedia",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFBEQVprcVpSN2NFSWgtR1Q5MDlSR0M4YlRrVnhzdDFLaUVvUGFmczU0YnNidnF5THhra3BDcGJFQzhua295ZHZiUzNESjg0OEtLajlBdzBPa1FuMTBINTJEQXZoVzhxbUVjQk95aFNid3lDeE5jUmotTGlrRlEwdUl4dGtJTGZkSkdrX3FSQVBKSHVUREtlN3JrOEpUenVOVzJ2ekZ4NkQtMHpqdXNlWEV2bDFnWFZrR29LVkpCSk4wdUFJbjlPbDJub2E?oc=5",
+  "published_at": "Mon, 20 Jul 2026 17:17:15 GMT",
+  "published_ts": 1784567835,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFBEQVprcVpSN2NFSWgtR1Q5MDlSR0M4YlRrVnhzdDFLaUVvUGFmczU0YnNidnF5THhra3BDcGJFQzhua295ZHZiUzNESjg0OEtLajlBdzBPa1FuMTBINTJEQXZoVzhxbUVjQk95aFNid3lDeE5jUmotTGlrRlEwdUl4dGtJTGZkSkdrX3FSQVBKSHVUREtlN3JrOEpUenVOVzJ2ekZ4NkQtMHpqdXNlWEV2bDFnWFZrR29LVkpCSk4wdUFJbjlPbDJub2E?oc=5\" target=\"_blank\">The Memory Stock Sell-Off Created a ‘Strong Entry Point,’ Says Morgan Stanley. Investors Are Buying In.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investopedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Morgan Stanley characterized the memory stock sell-off as a 'strong entry point,' and investors are buying. This is analyst opinion and market reaction to prior known conditions rather than a new concrete event, making it relevant but soft analysis."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "697f24c5f66a2ae83fdf55432cb6037fef48c637",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SanDisk Corporation Stock (SNDK) Moved Up by 13.08% on Jul 21: Key Drivers Unveiled - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG0ta0Znc0h6aGhYaEItSXNhU2ktRlNCWGItSFAzZi1XV3FsNVY3Q1NCSi10cHhRUVN2X01tMlVXRks5R2JFWThLYVVLeVY1QS14SnFZTWV2ckVNaTNmNTZMTWI0cHpKbl93SmxWd0lFUEVlTXZWREpQdG5VaUptMTdtaEZzWUZ3eS1V?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:15:55 GMT",
+  "published_ts": 1784654155,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG0ta0Znc0h6aGhYaEItSXNhU2ktRlNCWGItSFAzZi1XV3FsNVY3Q1NCSi10cHhRUVN2X01tMlVXRks5R2JFWThLYVVLeVY1QS14SnFZTWV2ckVNaTNmNTZMTWI0cHpKbl93SmxWd0lFUEVlTXZWREpQdG5VaUptMTdtaEZzWUZ3eS1V?oc=5\" target=\"_blank\">SanDisk Corporation Stock (SNDK) Moved Up by 13.08% on Jul 21: Key Drivers Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock rose 13.08% on July 21. The headline promises 'key drivers unveiled' but the snippet provides no details on the actual cause—whether earnings, guidance, an announcement, or market sentiment. Without a stated concrete catalyst distinct from price movement itself, this is a price-move report without sufficient detail to warrant higher impact."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "7552bebb6b6473b4f5f1ae82bed2e6956bdcbec4",
+  "source": "Benzinga",
+  "topic": "fund",
+  "title": "Memory ETF DRAM Rallies 12% In Best Day Since June - Roundhill Memory ETF (BATS:DRAM) - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXJrU3BvU3JoN1JhZ2RFdzM2TGtaMVdlUmVvRTdXMEV3WVVnQ1JXU1FrbzdxMXJqUzh2SnB4bUpVNnRzMi1SSElnSGVxejB3ejFHWGVXOFNUdU5EWUdvZjdKTWFIUVVaWi1yWkRJMmt4a1dLRlZ4YlRDelJZMEVabzg5NGtBSzVsNHBJUFhKNHRzbkE4Q3Z5ZFNpYm9LVE91TXRCTFc2c1pYb19FTkpJVw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:42:29 GMT",
+  "published_ts": 1784655749,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXJrU3BvU3JoN1JhZ2RFdzM2TGtaMVdlUmVvRTdXMEV3WVVnQ1JXU1FrbzdxMXJqUzh2SnB4bUpVNnRzMi1SSElnSGVxejB3ejFHWGVXOFNUdU5EWUdvZjdKTWFIUVVaWi1yWkRJMmt4a1dLRlZ4YlRDelJZMEVabzg5NGtBSzVsNHBJUFhKNHRzbkE4Q3Z5ZFNpYm9LVE91TXRCTFc2c1pYb19FTkpJVw?oc=5\" target=\"_blank\">Memory ETF DRAM Rallies 12% In Best Day Since June - Roundhill Memory ETF (BATS:DRAM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF rose 12% in its best day since June. The article reports the price move itself but does not state a distinct catalyst separate from the same-session movements in underlying holdings. This is a fund performance report driven by known market activity rather than a concrete new development, placing it at impact 3."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "e1b2b020edc68c9706805439bbffc549a0d5f985",
+  "source": "Notebookcheck",
+  "topic": "pricing",
+  "title": "NAND flash could balance out next year, according to reputable analysis firm - Notebookcheck",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdG5xZ2o4cUoxZU1SR3c3dm56WEd3aldiamVVbVE1OUFOaE5NMFd4YTU0amtybVFHYk1CWm1HbGlyLWNVX0tiS1c1bjk4YklQcHNRdFRDNjFPVUFzYWthYklGallLbVhwaXcxN3MwcXI1aDN2OUo2WHQ4a0FvVFFGc1BMQ2NFaHJZQ3drdWxCNGwzYldoY3k0WEQ0eWU1bGhTYU5ZaVBHc0tFaUtFM3hiMHZNbVcwUFRpRHdCaA?oc=5",
+  "published_at": "Tue, 21 Jul 2026 16:53:00 GMT",
+  "published_ts": 1784652780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdG5xZ2o4cUoxZU1SR3c3dm56WEd3aldiamVVbVE1OUFOaE5NMFd4YTU0amtybVFHYk1CWm1HbGlyLWNVX0tiS1c1bjk4YklQcHNRdFRDNjFPVUFzYWthYklGallLbVhwaXcxN3MwcXI1aDN2OUo2WHQ4a0FvVFFGc1BMQ2NFaHJZQ3drdWxCNGwzYldoY3k0WEQ0eWU1bGhTYU5ZaVBHc0tFaUtFM3hiMHZNbVcwUFRpRHdCaA?oc=5\" target=\"_blank\">NAND flash could balance out next year, according to reputable analysis firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Notebookcheck"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis firm forecasts NAND flash market may balance supply and demand next year. This is forward-looking analyst commentary rather than a confirmed event or hard data, making it soft intelligence on pricing trends relevant to the fund's holdings in memory semiconductors."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "9c17bc7d8a003411852aabcf3b4cf6510655a3af",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix (KOSE:A000660) Could Be 46% Undervalued Following Its ADS Offering - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1N4N1hOV09MY21fdGxUX09scFhuaFQ5X0pIU001eFpMeVRiSnd3SUhhNU0zQ1dZRjBCdmFuVnJrSEdqZUtyZmxET2w4NE1ualI1WUNMdTBLV1JsUTRUbS0xVllJR0REdHd2cU5YQU1Oa05vdEU3OFlLeTZzeFkwRXY3RG4zel9NR0pTbWtIcTA3Z1ZsN2Jv?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:11:20 GMT",
+  "published_ts": 1784639480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1N4N1hOV09MY21fdGxUX09scFhuaFQ5X0pIU001eFpMeVRiSnd3SUhhNU0zQ1dZRjBCdmFuVnJrSEdqZUtyZmxET2w4NE1ualI1WUNMdTBLV1JsUTRUbS0xVllJR0REdHd2cU5YQU1Oa05vdEU3OFlLeTZzeFkwRXY3RG4zel9NR0pTbWtIcTA3Z1ZsN2Jv?oc=5\" target=\"_blank\">SK Hynix (KOSE:A000660) Could Be 46% Undervalued Following Its ADS Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst valuation assessment suggests SK Hynix trading at a 46% discount following its ADS (American Depositary Share) offering. This is analyst opinion on valuation rather than a concrete market event or confirmed catalyst, making it a soft relevance score."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "e441e5b5d525cc8b64a57147ad719616618bb596",
+  "source": "Ad-hoc-news.de",
+  "topic": "industry",
+  "title": "Micron's Uneasy Rebound: AI-Driven Demand Meets a Valuation Reckoning - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWURsbUtxYk1VWXpqeUZudW53QjIwb2pNbkF5RXZtOHNwb2hldVRzdl9jSTZLdTJVRllvc2RBMXNhYTFtRlpFQVRPUmlyM190d2ZaWjV5MlIwTENIMnROMEx5RlhCeXRFWjlOWTFLRDFFQVN3a3BSbmMwVzlxZ1R3NmlYQWRzMl9WNExIcEUyS2JTbE9aYjRTbG4xR3U4MEFmQmI3STZodnRQalpraThMZVFucVU5U25mclpHM21xeWhrUFNpb0E?oc=5",
+  "published_at": "Tue, 21 Jul 2026 10:41:30 GMT",
+  "published_ts": 1784630490,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWURsbUtxYk1VWXpqeUZudW53QjIwb2pNbkF5RXZtOHNwb2hldVRzdl9jSTZLdTJVRllvc2RBMXNhYTFtRlpFQVRPUmlyM190d2ZaWjV5MlIwTENIMnROMEx5RlhCeXRFWjlOWTFLRDFFQVN3a3BSbmMwVzlxZ1R3NmlYQWRzMl9WNExIcEUyS2JTbE9aYjRTbG4xR3U4MEFmQmI3STZodnRQalpraThMZVFucVU5U25mclpHM21xeWhrUFNpb0E?oc=5\" target=\"_blank\">Micron's Uneasy Rebound: AI-Driven Demand Meets a Valuation Reckoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on Micron's stock rebound driven by AI demand, balanced against valuation concerns. Discusses the tension between AI-infrastructure memory tailwinds and current valuation multiples—relevant to the fund's largest holding but represents analyst commentary and market interpretation rather than a concrete new development or earnings catalyst."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "ae3a859301b1632bb7dae8c95b48a2416b97adc5",
+  "source": "AOL.com",
+  "topic": "fund",
+  "title": "If Micron’s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027 - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VbjBVSEdqZWNQZW1hNzNrTkFZR0p6V2dtSXVjandjZVRPZTJ6WmdtdzNwY2ZPYm1TS3Q5enVPWkdNbUhRMjdic0t6RkRSME9rWWpUdVN6YmtOaWhwUWNCSFBwWjVaOXNMczVaUEtyU3ZWdjRXQ04yRg?oc=5",
+  "published_at": "Tue, 21 Jul 2026 03:42:12 GMT",
+  "published_ts": 1784605332,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1VbjBVSEdqZWNQZW1hNzNrTkFZR0p6V2dtSXVjandjZVRPZTJ6WmdtdzNwY2ZPYm1TS3Q5enVPWkdNbUhRMjdic0t6RkRSME9rWWpUdVN6YmtOaWhwUWNCSFBwWjVaOXNMczVaUEtyU3ZWdjRXQ04yRg?oc=5\" target=\"_blank\">If Micron’s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "AOL article discussing Micron CEO's outlook and its potential implications for memory stock ETFs including DRAM through 2027. Analysis based on CEO commentary rather than a concrete new event or guidance change."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "e98a84006d3581382d9725698af9655f57637428",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmk2dFV5S1dWck9tVEpVbExId0gwRE1HWnd4Y0hYM08xaGRTNG9UcnVTaElQQWliTWxtN01mZl9OYmx1V0w1d1Ixb0tlV2ROM0xWM2FZSlJJblVxZ1lldXJiS3ZEZnc0UzEteHhad3B5MWFyNHZCcUNJTXQ2REwxZmEyT09XZVN5R3NhX2VOc2kxaWxiU215dTdDVQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:01:03 GMT",
+  "published_ts": 1784653263,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmk2dFV5S1dWck9tVEpVbExId0gwRE1HWnd4Y0hYM08xaGRTNG9UcnVTaElQQWliTWxtN01mZl9OYmx1V0w1d1Ixb0tlV2ROM0xWM2FZSlJJblVxZ1lldXJiS3ZEZnc0UzEteHhad3B5MWFyNHZCcUNJTXQ2REwxZmEyT09XZVN5R3NhX2VOc2kxaWxiU215dTdDVQ?oc=5\" target=\"_blank\">Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Micron leading a chip-sector rally driven by AI demand. This is a post-price-move commentary piece without new concrete catalysts—the stocks rose, but no specific earnings, guidance change, or announced event is cited as the driver."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "963e84192ec70af18709dda2572eec1133a1cb1c",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SA analyst upgrades/downgrades: SNDK, TSM, NFLX, YUMC - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjZEc3plUkxtQXJ1NFh2RDAtZEhPSGNEcU8yM2J4VU5UOG1hek9XZU16cFV3b0hoVkFId2hOR1hqc21NanpFUEFJM2ZjZW5tdXpRS1BxNmFYS0EzcGhBUEthVFlpeTd0NG9RNWROYjVoQkRKTTNjaWQ3eGFOdEdWRVpBbmFSbWJwTHhwbDZ5bWE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:08:07 GMT",
+  "published_ts": 1784642887,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjZEc3plUkxtQXJ1NFh2RDAtZEhPSGNEcU8yM2J4VU5UOG1hek9XZU16cFV3b0hoVkFId2hOR1hqc21NanpFUEFJM2ZjZW5tdXpRS1BxNmFYS0EzcGhBUEthVFlpeTd0NG9RNWROYjVoQkRKTTNjaWQ3eGFOdEdWRVpBbmFSbWJwTHhwbDZ5bWE?oc=5\" target=\"_blank\">SA analyst upgrades/downgrades: SNDK, TSM, NFLX, YUMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst upgrade or downgrade of SanDisk (SNDK), a fund holding in the memory-semiconductor space. Analyst opinion on rating changes is soft intelligence—not a concrete event—so impact is capped at 3."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "694e20431df75ebe96798da4e60ab9c574cc332a",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Is Still Going Up - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjkwXzNkbGJ0SllYeEYxTkxhZ1NjbTJyZy1xUTdEQW9DY01tRFpTZzRjWENDZEh3ZE9Qc01saGo4d3BUSGhtaWZ5SC1uWEtIdG1Wb2w3UUgyQ19jVVpVS3BXWlRudXdTelhCVXpIbVV1UjV0ekk1OXZ4cURPcDJXVTduQzQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:50:38 GMT",
+  "published_ts": 1784656238,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjkwXzNkbGJ0SllYeEYxTkxhZ1NjbTJyZy1xUTdEQW9DY01tRFpTZzRjWENDZEh3ZE9Qc01saGo4d3BUSGhtaWZ5SC1uWEtIdG1Wb2w3UUgyQ19jVVpVS3BXWlRudXdTelhCVXpIbVV1UjV0ekk1OXZ4cURPcDJXVTduQzQ?oc=5\" target=\"_blank\">Why Sandisk Stock Is Still Going Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing SanDisk stock performance and reasons for its continued appreciation. This is opinion-based market commentary on a fund holding rather than a concrete event or new material development."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "99514a0ac8ec7794b6ba2eccc065c57b582b23a6",
+  "source": "StockStory",
+  "topic": "holding",
+  "title": "Seagate, Western Digital, FormFactor, Amkor, and Teradyne Shares Are Soaring, What You Need To Know - StockStory",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVA4LVpVRzFMcnRJQjRjY2o0V0ZsSTl2VGdZQ3FRNUV0NWxuUEdRaWxDSU5vSl9LNVV4VlJLVW1SX2YxcklzZW1YVk9qMTl1NTNKLW9Xbk9aZGc2bUUtVS1yb19YYi1pZjQ2cmN1bUEzQ1RIM2tGOHdnNWRaZ0YyeHBoRjRKaENlU1ZVV2pZYzRRY0R5WHZpaWJuMHRnNzdQV1RsSU5acElEQXM2Znptend3OHpIbks3eGI0M3FRNDJ2R2EwWG1vWnljS0lfbW5vUGRuTWZjX29XRDhsVGIxRFhUTU1ia3hQWjVR?oc=5",
+  "published_at": "Tue, 21 Jul 2026 16:46:16 GMT",
+  "published_ts": 1784652376,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVA4LVpVRzFMcnRJQjRjY2o0V0ZsSTl2VGdZQ3FRNUV0NWxuUEdRaWxDSU5vSl9LNVV4VlJLVW1SX2YxcklzZW1YVk9qMTl1NTNKLW9Xbk9aZGc2bUUtVS1yb19YYi1pZjQ2cmN1bUEzQ1RIM2tGOHdnNWRaZ0YyeHBoRjRKaENlU1ZVV2pZYzRRY0R5WHZpaWJuMHRnNzdQV1RsSU5acElEQXM2Znptend3OHpIbks3eGI0M3FRNDJ2R2EwWG1vWnljS0lfbW5vUGRuTWZjX29XRDhsVGIxRFhUTU1ia3hQWjVR?oc=5\" target=\"_blank\">Seagate, Western Digital, FormFactor, Amkor, and Teradyne Shares Are Soaring, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StockStory"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Roundhill DRAM ETF holdings Seagate (STX) and Western Digital (WDC) mentioned in a stock-price roundup, along with non-memory companies FormFactor, Amkor, and Teradyne. No specific catalyst, news, or memory-industry driver cited—appears to be a generic price-movement digest without substantive memory-cycle or company-specific information."
+  },
+  "buffered_ts": 1784656427.519441
+ },
+ {
+  "id": "47e735c1f79df9d76e88ee65000bdda6ed536c04",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SK hynix stock surging today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1h1UHhVWUw2NWVmY2NWOFJtWVIxcDFJWWcyc0tzaXdjVkYyYlF6ZWk0S3BHZ0UzVzR1Z1BLWFBkU3RrV3IyOUE4T1NnNjVxWk9CNzNFLVpDbHFCT0hRM0FaRDMxd3pROWJHTFdyRnR2WlFONjd0MGxheEhwRHFZQjBYSmpxY2dmUlJ2aWdtVlROVTZ3SEl4cGJlU2FiUQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:50:30 GMT",
+  "published_ts": 1784641830,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNR1h1UHhVWUw2NWVmY2NWOFJtWVIxcDFJWWcyc0tzaXdjVkYyYlF6ZWk0S3BHZ0UzVzR1Z1BLWFBkU3RrV3IyOUE4T1NnNjVxWk9CNzNFLVpDbHFCT0hRM0FaRDMxd3pROWJHTFdyRnR2WlFONjd0MGxheEhwRHFZQjBYSmpxY2dmUlJ2aWdtVlROVTZ3SEl4cGJlU2FiUQ?oc=5\" target=\"_blank\">Why is SK hynix stock surging today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Article asking why SK hynix stock is surging today. Without the actual content/reason disclosed in the snippet, this appears to be a post-hoc price-movement piece. If the surge is simply market reaction to already-known news or general momentum, this is minor coverage. If a new catalyst emerges in the full article, impact could be higher, but based on the headline alone it reads as a generic 'stock moved' explainer."
+  },
+  "buffered_ts": 1784656427.519441
  }
 ]
