@@ -1307,5 +1307,77 @@
    "summary": "Motley Fool opinion piece asking whether to buy SanDisk stock ahead of an Aug. 5 earnings report, noting the stock has risen after the past two earnings releases. This is analyst commentary and speculation about a future event, not a concrete development or new information about the company itself."
   },
   "buffered_ts": 1784661337.3382165
+ },
+ {
+  "id": "5d5fee830ce903eeac54552eba828df6ed6f134c",
+  "source": "TrendForce",
+  "topic": "pricing",
+  "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 07:09:47 GMT",
+  "published_ts": 1784617787,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5\" target=\"_blank\">NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "TrendForce forecasts NAND flash supply growth will outpace demand in 2027, with supply constraints easing in H2 2027. This is forward-looking analysis on supply/demand balance that could influence memory pricing cycle expectations, but it is analyst opinion and forecast rather than a confirmed market event or hard pricing data."
+  },
+  "buffered_ts": 1784666620.9458072
+ },
+ {
+  "id": "591c90e2e98cae97b4f7d89815910339399c769c",
+  "source": "Investing.com Nigeria",
+  "topic": "holding",
+  "title": "Seagate Technology stock may move 13% on July 28 earnings By Investing.com - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHJPY0Z6d3dNa1djZ2RnM3VKT2JIbFRaZUY4cmlMLVdKOElOUktwQXp4SEZ5cjlOQ0RoVFY1N0JadUFwRXlMbExoRkRPM2ZVYjJkS3VCWmxGTmJqNFQyY3BjYmFOYXhvX2xoQWZNS04xSzhDQWZ3a2hlb05LOXpaUVVRUjl3SXJJMkRfT2dpVjZnTko2bWk5eTVJb1dFVHQ4bzZqWVNDblpraXI3UnN5dVEtRkpFeDZR?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:27:56 GMT",
+  "published_ts": 1784644076,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHJPY0Z6d3dNa1djZ2RnM3VKT2JIbFRaZUY4cmlMLVdKOElOUktwQXp4SEZ5cjlOQ0RoVFY1N0JadUFwRXlMbExoRkRPM2ZVYjJkS3VCWmxGTmJqNFQyY3BjYmFOYXhvX2xoQWZNS04xSzhDQWZ3a2hlb05LOXpaUVVRUjl3SXJJMkRfT2dpVjZnTko2bWk5eTVJb1dFVHQ4bzZqWVNDblpraXI3UnN5dVEtRkpFeDZR?oc=5\" target=\"_blank\">Seagate Technology stock may move 13% on July 28 earnings By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Nigeria"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst forecast that Seagate (STX, a DRAM ETF holding) stock may move 13% on its July 28 earnings release. This is pre-earnings speculation on potential stock movement, not a concrete event or new information. The actual earnings and any material guidance changes would be impact 5 if they introduce surprises; this forward-looking analyst commentary is opinion/possibility."
+  },
+  "buffered_ts": 1784666620.9458072
+ },
+ {
+  "id": "01d21f0890bf52fcc426dd147d534dccbbfa5d0c",
+  "source": "EE Times",
+  "topic": "holding",
+  "title": "SK Hynix Nasdaq Debut Shows Global Memory Expansion Race - EE Times",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEl0aW0xVlJTNGNsTDU5VkRSZFF1eEFOQmZlemNJUGRzd3FfNWxXeFpqT2tQZzBoQ0R1RTlDWU9uVlpSc1FMM3lXak9QUzUwajRiUWhxYzRfWVVJNUt0SDVISlpaODZORVdFckY1bkNBMjY4R3NudjVLOFJoS1dQTkJjNGwzOHBs?oc=5",
+  "published_at": "Tue, 21 Jul 2026 20:10:48 GMT",
+  "published_ts": 1784664648,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEl0aW0xVlJTNGNsTDU5VkRSZFF1eEFOQmZlemNJUGRzd3FfNWxXeFpqT2tQZzBoQ0R1RTlDWU9uVlpSc1FMM3lXak9QUzUwajRiUWhxYzRfWVVJNUt0SDVISlpaODZORVdFckY1bkNBMjY4R3NudjVLOFJoS1dQTkJjNGwzOHBs?oc=5\" target=\"_blank\">SK Hynix Nasdaq Debut Shows Global Memory Expansion Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "EE Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's Nasdaq debut signals the company's global expansion strategy in the memory semiconductor market, reflecting competitive positioning in the memory cycle but no concrete new capacity or demand catalyst disclosed in the headline."
+  },
+  "buffered_ts": 1784666620.9458072
  }
 ]
