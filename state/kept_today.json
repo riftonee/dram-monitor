@@ -967,5 +967,245 @@
    "summary": "Article discussing sharp share price declines in Micron and SanDisk with analysis on whether the selloff presents a buying opportunity. This is a post-move commentary piece without a stated catalyst or new concrete event driving the declines."
   },
   "buffered_ts": 1784588208.3038635
+ },
+ {
+  "id": "96344552430f9234e77e43ff983322da1a644fe8",
+  "source": "Bitget",
+  "topic": "pricing",
+  "title": "Global Storage Market Update: 21% DRAM Price Increase in 3Q26, HBM4 Orders and Over 10% NAND Verification - Bitget",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbXVySzZpNm1WRkhiSUZXUjZ3eEpXNGJGQXREVUVZU2hXZWdHZGlKZVdVQjlTVnNYeFdHcG5aYkJBVGFVMjQ4RUdLZHJLbDNCTU5kbUQ3eUN0MlFMVkluWnVnONIBY0FVX3lxTE5DbXVySzZpNm1WRkhiSUZXUjZ3eEpXNGJGQXREVUVZU2hXZWdHZGlKZVdVQjlTVnNYeFdHcG5aYkJBVGFVMjQ4RUdLZHJLbDNCTU5kbUQ3eUN0MlFMVkluWnVnOA?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:48:19 GMT",
+  "published_ts": 1784540899,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbXVySzZpNm1WRkhiSUZXUjZ3eEpXNGJGQXREVUVZU2hXZWdHZGlKZVdVQjlTVnNYeFdHcG5aYkJBVGFVMjQ4RUdLZHJLbDNCTU5kbUQ3eUN0MlFMVkluWnVnONIBY0FVX3lxTE5DbXVySzZpNm1WRkhiSUZXUjZ3eEpXNGJGQXREVUVZU2hXZWdHZGlKZVdVQjlTVnNYeFdHcG5aYkJBVGFVMjQ4RUdLZHJLbDNCTU5kbUQ3eUN0MlFMVkluWnVnOA?oc=5\" target=\"_blank\">Global Storage Market Update: 21% DRAM Price Increase in 3Q26, HBM4 Orders and Over 10% NAND Verification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bitget"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Global DRAM prices increased 21% in 3Q26 with HBM4 orders and over 10% NAND price verification reported, a concrete pricing development affecting the memory cycle and fund holdings directly."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "4ead76e18d9b374dfd3583c3450b6ee3740de7f9",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "AI's Long-Term Deals Hide 'Take-or-Pay' Traps: Can a Trillion-Dollar Supply Chain Built on Orders Withstand a Demand Downturn? - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Gd3hJNUtjdm9zblN0eXkzZjVCWWhDaGpiclhxVUk1dDd4bzdyVUFKN2FIakFGaFR4NW1iZW8zbjVpVFBwX1ZRcnZWMDRVR1pjQ1FPTlBseTdiNDFjVnF2WWpTanc1cTAxM3paYnpjLXhsNDJnamc?oc=5",
+  "published_at": "Tue, 21 Jul 2026 00:25:00 GMT",
+  "published_ts": 1784593500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Gd3hJNUtjdm9zblN0eXkzZjVCWWhDaGpiclhxVUk1dDd4bzdyVUFKN2FIakFGaFR4NW1iZW8zbjVpVFBwX1ZRcnZWMDRVR1pjQ1FPTlBseTdiNDFjVnF2WWpTanc1cTAxM3paYnpjLXhsNDJnamc?oc=5\" target=\"_blank\">AI's Long-Term Deals Hide 'Take-or-Pay' Traps: Can a Trillion-Dollar Supply Chain Built on Orders Withstand a Demand Downturn?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis of 'take-or-pay' contractual risks embedded in long-term AI infrastructure deals that could expose memory suppliers to demand-downturn losses. Explores whether the trillion-dollar supply chain built on AI orders can sustain a demand shock—relevant to memory cycle outlook but opinion/analysis rather than a concrete event."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "8003834fc522cd13e7900c2742d4d3e8dd21078f",
+  "source": "XenoSpectrum",
+  "topic": "holding",
+  "title": "Samsung and Other Memory Makers Reportedly Scale Back In-House CXL Controller Development—Product Roadmaps Continue - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Wl9fbHlES0JFVlBiVS1VNG5iZ0h6OXpPU1U0UkNXbDhoY0lmSlNjSFNNd2tIZ09zbEhtOTZfX3lHSGR6dFFQdmNUYUdWZEkwYk1qajZCa2VPR25QbDBXNEZiclRHQldvRzBCMUEwUWFwd0JtZ25QOTBB?oc=5",
+  "published_at": "Tue, 21 Jul 2026 01:26:55 GMT",
+  "published_ts": 1784597215,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Wl9fbHlES0JFVlBiVS1VNG5iZ0h6OXpPU1U0UkNXbDhoY0lmSlNjSFNNd2tIZ09zbEhtOTZfX3lHSGR6dFFQdmNUYUdWZEkwYk1qajZCa2VPR25QbDBXNEZiclRHQldvRzBCMUEwUWFwd0JtZ25QOTBB?oc=5\" target=\"_blank\">Samsung and Other Memory Makers Reportedly Scale Back In-House CXL Controller Development—Product Roadmaps Continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and other memory makers are scaling back in-house CXL (Compute Express Link) controller development, though product roadmaps continue. This reflects a strategic shift in how memory companies approach CXL infrastructure, relevant to the memory industry's HBM and AI-infrastructure ecosystem, but the report is based on unconfirmed claims ('reportedly') rather than official announcements, and the actual business impact remains unclear since development is being scaled back rather than abandoned entirely."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "64b3eed8ee20840720987aba7af8dc7dffdd1b3f",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK Group Chairman Says Abnormal Memory Prices Should Fall; AI Chip Demand Seen Up 60–100% Next Year - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1NwTVcxR1dsSEZBS1FOWWhSV1pYbFNWYUpXelNjamFhZjhPblRYTnBrQXNJSmN6QUJNekp2WFFVVUk1ZF9ER3pNTk5RcXBMRzhFdkNFNzB2NXItSGN3UnpxN0tkS204Z0VPd1I3djlhdUpUdUxNVnRwajd2QXpHeE95MnQ3cG9zd2ZCcnJocHY4RGRxR2UtajV0cEc2b3FBYjRBcXA4aWpOZV9LM0haYnBYNzFXRW1henJHemNBdlVpdTV0RUc5dTV0WWtMbFYtR1QxODB4anotaThpOUZV?oc=5",
+  "published_at": "Mon, 20 Jul 2026 10:20:38 GMT",
+  "published_ts": 1784542838,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1NwTVcxR1dsSEZBS1FOWWhSV1pYbFNWYUpXelNjamFhZjhPblRYTnBrQXNJSmN6QUJNekp2WFFVVUk1ZF9ER3pNTk5RcXBMRzhFdkNFNzB2NXItSGN3UnpxN0tkS204Z0VPd1I3djlhdUpUdUxNVnRwajd2QXpHeE95MnQ3cG9zd2ZCcnJocHY4RGRxR2UtajV0cEc2b3FBYjRBcXA4aWpOZV9LM0haYnBYNzFXRW1henJHemNBdlVpdTV0RUc5dTV0WWtMbFYtR1QxODB4anotaThpOUZV?oc=5\" target=\"_blank\">[News] SK Group Chairman Says Abnormal Memory Prices Should Fall; AI Chip Demand Seen Up 60–100% Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SK Group chairman states that abnormally elevated memory prices should normalize downward, while forecasting AI chip demand growth of 60–100% next year. The price commentary is opinion/expectation rather than a reported price move or supply announcement; the demand forecast is forward-looking rather than a concrete event. Relevant to the memory cycle but lacks the specificity of a hard number or confirmed development."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "f6762482d255f95ab67681fa2c890010a91b723f",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology stock trades near recent highs as AI demand supports earnings outlook - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEMxTjl0WmE3ek5oQU8tdjdXZU1ocVJJZ2xWRVpaTXA3U2dFa1VDRDcxNVBFR0hPZjFhQ0VPZU9HQ0laZGxnNmUzRkFya1ZPLWZ1UTNNWUFYV3NjejVCcXQzODA4dGM5ajZ4OUg2cUNJTjI4WFBtbUdiMzdON1Uyam5WbVNYRmtlLVpuZ29MVnZJWlBiUGE0N1hyY3VJQ3A5OUJpUDhEZ2FWSzBSeW1sTEQyMHFVd2VKUEJBN3k2UEZzQmRadFRuQg?oc=5",
+  "published_at": "Tue, 21 Jul 2026 01:32:01 GMT",
+  "published_ts": 1784597521,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEMxTjl0WmE3ek5oQU8tdjdXZU1ocVJJZ2xWRVpaTXA3U2dFa1VDRDcxNVBFR0hPZjFhQ0VPZU9HQ0laZGxnNmUzRkFya1ZPLWZ1UTNNWUFYV3NjejVCcXQzODA4dGM5ajZ4OUg2cUNJTjI4WFBtbUdiMzdON1Uyam5WbVNYRmtlLVpuZ29MVnZJWlBiUGE0N1hyY3VJQ3A5OUJpUDhEZ2FWSzBSeW1sTEQyMHFVd2VKUEJBN3k2UEZzQmRadFRuQg?oc=5\" target=\"_blank\">Micron Technology stock trades near recent highs as AI demand supports earnings outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock trading near recent highs attributed to AI demand supporting earnings outlook. This is post-earnings market digestion and analyst commentary rather than a new concrete event or guidance change, so it rates as relevant but soft opinion/analysis."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "958fe4f88df9db0f7111c39f0cfac533e3881e9f",
+  "source": "Investing.com Nigeria",
+  "topic": "industry",
+  "title": "HBM prices could double by 2027 on surging AI demand, DigiTimes reports - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjNWRVdIeTd0dXJ2TTNhT3pOMmZja2tBbXJuY0V4THR1bkZmcWU1azFhOF9KanNLQzR4cG9VOW5OQUcwTUFvaUxzWkhHa3lndEJXUEZkR1haalV0b1FnRm92MklfeVFRYXJDYUtGblp3UzBWM0JjNmJ2UGlUUjlhekpCeVFPV1E3a0ZtTzU3Q1lwaVNCaEY4Wk01anZPSEZ1WXpLZkRVQVFDWjNrelJMRlpiN1Zhcy1xQkJVM0ZZWEYyalc2?oc=5",
+  "published_at": "Mon, 20 Jul 2026 14:45:00 GMT",
+  "published_ts": 1784558700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjNWRVdIeTd0dXJ2TTNhT3pOMmZja2tBbXJuY0V4THR1bkZmcWU1azFhOF9KanNLQzR4cG9VOW5OQUcwTUFvaUxzWkhHa3lndEJXUEZkR1haalV0b1FnRm92MklfeVFRYXJDYUtGblp3UzBWM0JjNmJ2UGlUUjlhekpCeVFPV1E3a0ZtTzU3Q1lwaVNCaEY4Wk01anZPSEZ1WXpLZkRVQVFDWjNrelJMRlpiN1Zhcy1xQkJVM0ZZWEYyalc2?oc=5\" target=\"_blank\">HBM prices could double by 2027 on surging AI demand, DigiTimes reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Nigeria"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "DigiTimes report forecasting HBM prices could double by 2027 driven by AI demand surge. Reflects analyst expectation of sustained HBM demand cycle but is forward-looking opinion/forecast rather than a concrete event or hard current pricing data."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "095da47f5f116df6113fff1dab7243903aacbc05",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Weekly Recap: SK hynix leveraged ETF halt and Barclays Overweight DRs up - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHg4SENuLTJzVmxLVlBmWUlSd2otNk1WZUUxVVk4WVh2azBGaUtNa01zbVQ4c2x4ekZ6ZmZLU2hvUEkxVGs2QXZaTmF1WE1pOFp3YzY5bWlaU0tOdUUzZW5IZGF2ZExzWjNIa1JrVE9KbXdOUW1yWm1nZTh6bFljWlFTejJtUC1uT2I4U2NtTjE3MFpmMndkMXdxNmFna21Ta3ZxZ1ZXT0hOcGZvbGk1RXJvbS1adXpKLTRzT3BJTXl5ak1OVk1CMTBZMHZkdw?oc=5",
+  "published_at": "Mon, 20 Jul 2026 22:14:20 GMT",
+  "published_ts": 1784585660,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHg4SENuLTJzVmxLVlBmWUlSd2otNk1WZUUxVVk4WVh2azBGaUtNa01zbVQ4c2x4ekZ6ZmZLU2hvUEkxVGs2QXZaTmF1WE1pOFp3YzY5bWlaU0tOdUUzZW5IZGF2ZExzWjNIa1JrVE9KbXdOUW1yWm1nZTh6bFljWlFTejJtUC1uT2I4U2NtTjE3MFpmMndkMXdxNmFna21Ta3ZxZ1ZXT0hOcGZvbGk1RXJvbS1adXpKLTRzT3BJTXl5ak1OVk1CMTBZMHZkdw?oc=5\" target=\"_blank\">Weekly Recap: SK hynix leveraged ETF halt and Barclays Overweight DRs up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix leveraged ETF halted; Barclays upgraded depositary receipts to Overweight. Analyst upgrade and ETF trading event related to a major DRAM holding, but upgrade is analyst opinion (not a concrete catalyst) and ETF halt is administrative rather than market-moving."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "a8a7e2b9a96e6791adfdb3b3b3afe0035a41d575",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix prioritize DDR5 as margins near HBM levels - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkhDaXRhdWR2ZEVWQWhGbFY1dlh4V0F2NW5LdDBHSlVEUi1QblVSNHNBR2pzc2FrNHJyaU94VVlRNjhaZjVzMTk4aEI5QlRfVy1salI5czhCWDQzUUN2UzZVQTdDOUcxR05TZXdodkJaLVpKRTlMNnQxNDRvNy1hWkpvRUo2QTBO?oc=5",
+  "published_at": "Mon, 20 Jul 2026 23:52:25 GMT",
+  "published_ts": 1784591545,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkhDaXRhdWR2ZEVWQWhGbFY1dlh4V0F2NW5LdDBHSlVEUi1QblVSNHNBR2pzc2FrNHJyaU94VVlRNjhaZjVzMTk4aEI5QlRfVy1salI5czhCWDQzUUN2UzZVQTdDOUcxR05TZXdodkJaLVpKRTlMNnQxNDRvNy1hWkpvRUo2QTBO?oc=5\" target=\"_blank\">Samsung, SK Hynix prioritize DDR5 as margins near HBM levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix are shifting focus to DDR5 production as DDR5 margins approach HBM profitability levels. This reflects strategic reallocation of memory-chip capacity in response to improving DDR5 pricing dynamics and represents a shift in product mix for two major fund holdings, though the announcement lacks concrete production numbers or timeline specifics."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "4e067c308f1ef0a9d594b8a7275ab709dd1ff5f3",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung could overtake SK Hynix in the HBM market by 2027 - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNkdUMwTFRaQmd1UnVOeGhBYi04MWFobTcwMm0wOExCY3pMN3lqZ3ZFRDFQRnM1TW5KbWxiUmJiSlJBVmltWU8weS10Ul8wYWIxZUtvNHI4NTlJM0dQNE5RWm5OQ2RDbUQyeWxwNjhXWG42ZlJ2Q2RNMGI2UWFXeThwYmN3Rk1ZbWtXWg?oc=5",
+  "published_at": "Mon, 20 Jul 2026 23:48:46 GMT",
+  "published_ts": 1784591326,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNkdUMwTFRaQmd1UnVOeGhBYi04MWFobTcwMm0wOExCY3pMN3lqZ3ZFRDFQRnM1TW5KbWxiUmJiSlJBVmltWU8weS10Ul8wYWIxZUtvNHI4NTlJM0dQNE5RWm5OQ2RDbUQyeWxwNjhXWG42ZlJ2Q2RNMGI2UWFXeThwYmN3Rk1ZbWtXWg?oc=5\" target=\"_blank\">Samsung could overtake SK Hynix in the HBM market by 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Digitimes reports that Samsung could overtake SK Hynix in the HBM (high-bandwidth memory) market by 2027. This is a forward-looking analyst projection rather than a confirmed event or hard number, making it relevant to the memory industry but speculative in nature."
+  },
+  "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "32b50c1cedc404d18eafbd2bf69b46eb9e240248",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix Rebound After Three-Day Slump on Bargain Hunting - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WWExV1lKbTExemszNjZqcV96Y3BEemV5bnQybTBrc0RnY0pfTU1FRTBqVDc0dVZOQ2VlTFZadlp1U3BmNVZmMkwwM2lJSnhXVERXUHAwbmR4VlY4aWE5MW12S0VQaUpqVUZsaE5GZ0RBQkZEUFE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 00:55:00 GMT",
+  "published_ts": 1784595300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE95WWExV1lKbTExemszNjZqcV96Y3BEemV5bnQybTBrc0RnY0pfTU1FRTBqVDc0dVZOQ2VlTFZadlp1U3BmNVZmMkwwM2lJSnhXVERXUHAwbmR4VlY4aWE5MW12S0VQaUpqVUZsaE5GZ0RBQkZEUFE?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix Rebound After Three-Day Slump on Bargain Hunting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix stocks rebounded after a three-day decline due to bargain hunting. This is a minor price-movement story with no underlying fundamental catalyst stated—pure technicals/sentiment without new information on memory demand, pricing, capacity, or company-specific developments."
+  },
+  "buffered_ts": 1784601273.1609728
  }
 ]
