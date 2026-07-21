@@ -1207,5 +1207,197 @@
    "summary": "Samsung Electronics and SK Hynix stocks rebounded after a three-day decline due to bargain hunting. This is a minor price-movement story with no underlying fundamental catalyst stated—pure technicals/sentiment without new information on memory demand, pricing, capacity, or company-specific developments."
   },
   "buffered_ts": 1784601273.1609728
+ },
+ {
+  "id": "1615b534bae358bfbc3663aff1f3706a48db1ab0",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK Hynix and Samsung Electronics, which have been rebounding recently, are soaring thanks to the inf.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBES1lhdUpGRmtLQjZqWXlCYU9ZbmlpaTkwaEZWejBPUU5QQ3pUTlBkSzViYi1ZREEwSlhsckx6alRPMWNIZ0tCOU5KaV81OFE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 04:27:13 GMT",
+  "published_ts": 1784608033,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBES1lhdUpGRmtLQjZqWXlCYU9ZbmlpaTkwaEZWejBPUU5QQ3pUTlBkSzViYi1ZREEwSlhsckx6alRPMWNIZ0tCOU5KaV81OFE?oc=5\" target=\"_blank\">SK Hynix and Samsung Electronics, which have been rebounding recently, are soaring thanks to the inf..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung Electronics are described as rebounding and soaring, attributed to AI infrastructure demand. This is soft commentary on stock price movement and sentiment rather than a concrete event or hard number, and the headline is incomplete. Without specific details on pricing, production, orders, or guidance changes, this registers as relevant but as analysis/observation of market reaction rather than a new catalyst."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "b9a421a7bdb787cb9b7370a6f55857f27a885441",
+  "source": "digitimes",
+  "topic": "pricing",
+  "title": "Niche demand drives SLC NAND prices up nearly tenfold, opening further gains for Taiwan suppliers - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFllMlhhdUwtazNydGNJOUpUN1pPUW0yVS1pbmdpdm9LeFc5VkVOVnBicDJXOGRrdjZnQ0lRTG93cWYwWXp3OVB4TVNnTExzNUlwYW9kTnhJbTVSazE3ektHUmNQcjhNSnRLeHBuaFp3UHZmZ3lzU0xrS2NtbmVyai1xem1NaW5v?oc=5",
+  "published_at": "Tue, 21 Jul 2026 02:24:10 GMT",
+  "published_ts": 1784600650,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFllMlhhdUwtazNydGNJOUpUN1pPUW0yVS1pbmdpdm9LeFc5VkVOVnBicDJXOGRrdjZnQ0lRTG93cWYwWXp3OVB4TVNnTExzNUlwYW9kTnhJbTVSazE3ektHUmNQcjhNSnRLeHBuaFp3UHZmZ3lzU0xrS2NtbmVyai1xem1NaW5v?oc=5\" target=\"_blank\">Niche demand drives SLC NAND prices up nearly tenfold, opening further gains for Taiwan suppliers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SLC NAND prices have risen nearly tenfold driven by niche demand, benefiting Taiwan suppliers. While a concrete price move is reported, this is a specialized segment (SLC vs. mainstream TLC/QLC NAND) and lacks specifics on which fund holdings are affected or the magnitude of their exposure to SLC production."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "0189e8d215530d0c11cf5be9b4d575c3d944f27d",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix and Micron pull back on in-house CXL controller plans - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENjTHBfZjh4QWRzcXZWYlZwX1pkQTRZd2QwV3hKMldXV0lkZXBTa0V6eHlmY0ZEMTV5dWp1X1dMb2lhZ1Q3b2pDaFRpeDVmSUJuTmtqRDA4T0lXVzc2bjFfc2dvZ2c4WEtjekd2UnVwWlNtRlY0ckVHak5ZYlJxN182eUpKU1V1Ml9GazVrSnpncVhqQjBv?oc=5",
+  "published_at": "Tue, 21 Jul 2026 04:53:59 GMT",
+  "published_ts": 1784609639,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENjTHBfZjh4QWRzcXZWYlZwX1pkQTRZd2QwV3hKMldXV0lkZXBTa0V6eHlmY0ZEMTV5dWp1X1dMb2lhZ1Q3b2pDaFRpeDVmSUJuTmtqRDA4T0lXVzc2bjFfc2dvZ2c4WEtjekd2UnVwWlNtRlY0ckVHak5ZYlJxN182eUpKU1V1Ml9GazVrSnpncVhqQjBv?oc=5\" target=\"_blank\">Samsung, SK Hynix and Micron pull back on in-house CXL controller plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung, SK Hynix, and Micron are scaling back internal development of CXL (Compute Express Link) controllers. This reflects a strategic shift in how memory makers approach advanced interconnect technology—likely due to complexity, cost, or market positioning by specialized controller vendors. While relevant to industry dynamics and product strategy, this is a reported development/shift rather than a concrete event with immediate financial impact, and CXL adoption remains nascent. Impacts long-term competitive positioning more than near-term memory demand or pricing."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "308f8d3c2ead4a861a3c0b4171e6437c46755f3c",
+  "source": "digitimes",
+  "topic": "industry",
+  "title": "Memory shortage could turn into a glut by 2028 as chipmakers expand - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHRKT0FKUjU1MlBiNVg4dm5pM0FyQjJaTE00bFdPWFdjaUF1OTFNMDMwNkRXc2FWOE9xanlGeVFsNDNGNk1Ed3JMbkV0N0RnV3JmMWtYQndYWG95eU9mZlQ2eUNKR3NtU0w0VkVxZU1nMjlCaFp1V0Rjd1UtT1Y2NVhMNnhYNkU?oc=5",
+  "published_at": "Tue, 21 Jul 2026 02:11:32 GMT",
+  "published_ts": 1784599892,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHRKT0FKUjU1MlBiNVg4dm5pM0FyQjJaTE00bFdPWFdjaUF1OTFNMDMwNkRXc2FWOE9xanlGeVFsNDNGNk1Ed3JMbkV0N0RnV3JmMWtYQndYWG95eU9mZlQ2eUNKR3NtU0w0VkVxZU1nMjlCaFp1V0Rjd1UtT1Y2NVhMNnhYNkU?oc=5\" target=\"_blank\">Memory shortage could turn into a glut by 2028 as chipmakers expand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Industry analysis suggesting that memory capacity expansion by chipmakers could lead to oversupply by 2028, a forward-looking forecast of potential future market dynamics affecting DRAM/memory cycle rather than a concrete current event."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "347a7d35bd153d824fc1fe6ad79b45dc59d32dba",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK hynix rebound on higher U.S. chip stocks - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVUgzWWF1TnlnLXdUVkhmMFJpV0NtQk9RYVFqaldYaldfemVTMEpfZTRmSVVmZ3pKWVM2bU1YUmRNTldmS1Z1VEN5NllfeVRtYWc?oc=5",
+  "published_at": "Tue, 21 Jul 2026 02:08:49 GMT",
+  "published_ts": 1784599729,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVUgzWWF1TnlnLXdUVkhmMFJpV0NtQk9RYVFqaldYaldfemVTMEpfZTRmSVVmZ3pKWVM2bU1YUmRNTldmS1Z1VEN5NllfeVRtYWc?oc=5\" target=\"_blank\">Samsung Electronics, SK hynix rebound on higher U.S. chip stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK hynix rebounded in response to higher U.S. chip stocks. A stock price rebound driven by market momentum (U.S. chip stocks rising) without a distinct news catalyst specific to these companies' memory business operations or new earnings/guidance information."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "3df7a2a3f9fa6ff6a4e24d5155f73d3d1a0cfc27",
+  "source": "tbreak.com",
+  "topic": "pricing",
+  "title": "DRAM Shortage Could Last 10 Years, ADATA Chief Warns - tbreak.com",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY0REcGNkeldYUFVYTVFiRnNoVExLZTEzYTZxWVBydG43X05OcFhGenJyWXFxZl9uZ2RiaGpBU3d0U2F3Tk4xc2phQy1tZ1VRbEpJOTJiOC1fcTI4TGVWaFBZYXdEN1l3ckI1bXNn?oc=5",
+  "published_at": "Tue, 21 Jul 2026 04:21:33 GMT",
+  "published_ts": 1784607693,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY0REcGNkeldYUFVYTVFiRnNoVExLZTEzYTZxWVBydG43X05OcFhGenJyWXFxZl9uZ2RiaGpBU3d0U2F3Tk4xc2phQy1tZ1VRbEpJOTJiOC1fcTI4TGVWaFBZYXdEN1l3ckI1bXNn?oc=5\" target=\"_blank\">DRAM Shortage Could Last 10 Years, ADATA Chief Warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tbreak.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "tbreak.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "ADATA chief warns of potential 10-year DRAM shortage; a forward-looking claim from an industry executive rather than a concrete event or official supply announcement, but relevant to demand-supply dynamics affecting memory pricing and fund holdings."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "225efaa491c7b4d401390ef515ea0e9e75fcd76a",
+  "source": "NDTV Profit",
+  "topic": "holding",
+  "title": "'Feels Like Poker Game': Why South Korean Traders Keep Chasing Samsung Electronics, SK Hynix Bets After Wipeout - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXpQYS1OQlVEMXd6VnRCcEVISUh4T0lfY2dTUEhJQXNOa1BVQUZQS1poMjVIcG8wWEZkVS1kWG1WTDQ1ZzJISGc0MTFjUEtQX3RGRXRrdTh1SU9VLUd6TGhsR2tWZ3dyUzBDNGZaTHMxWXBJVHBLUDhwT3BLZU5hSlN4WG1GalM3MXdXWDBTY3ZmMU41YTlDMGJKZ2c1VEhkaEtBRG9paE9Db00xT1dGMVlhVFNOb2VGTF9zWDU2aU5Ub0Q3M1JhdV9B0gHSAUFVX3lxTE42SE13QVpwOGZBLVZEM3VYUUJKSlNCZHNxbUlQREZhLTZXdTUzeFQ0dG9JSWh6dlE2UTN4aUgxMGZ2a3lDTF9NZno3amFKM1ZXZWU5ZWV0V2lfSnd5MXRzRElaMjNZSjA5RElOWUlXSFVDck9NemdZQXkxZW1mNTdRRzBCZHNibTdSVWZmZlRTOW9ybmZGYUZnQnB6YjdTdjdwdXlyVTZrcURxcFNwZXE4Nzk5Y3RncHR6aFhXQXlyMnZuT2xBa0lOM0gyVVdETVFUdw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 03:20:21 GMT",
+  "published_ts": 1784604021,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXpQYS1OQlVEMXd6VnRCcEVISUh4T0lfY2dTUEhJQXNOa1BVQUZQS1poMjVIcG8wWEZkVS1kWG1WTDQ1ZzJISGc0MTFjUEtQX3RGRXRrdTh1SU9VLUd6TGhsR2tWZ3dyUzBDNGZaTHMxWXBJVHBLUDhwT3BLZU5hSlN4WG1GalM3MXdXWDBTY3ZmMU41YTlDMGJKZ2c1VEhkaEtBRG9paE9Db00xT1dGMVlhVFNOb2VGTF9zWDU2aU5Ub0Q3M1JhdV9B0gHSAUFVX3lxTE42SE13QVpwOGZBLVZEM3VYUUJKSlNCZHNxbUlQREZhLTZXdTUzeFQ0dG9JSWh6dlE2UTN4aUgxMGZ2a3lDTF9NZno3amFKM1ZXZWU5ZWV0V2lfSnd5MXRzRElaMjNZSjA5RElOWUlXSFVDck9NemdZQXkxZW1mNTdRRzBCZHNibTdSVWZmZlRTOW9ybmZGYUZnQnB6YjdTdjdwdXlyVTZrcURxcFNwZXE4Nzk5Y3RncHR6aFhXQXlyMnZuT2xBa0lOM0gyVVdETVFUdw?oc=5\" target=\"_blank\">'Feels Like Poker Game': Why South Korean Traders Keep Chasing Samsung Electronics, SK Hynix Bets After Wipeout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "South Korean traders are reportedly chasing Samsung Electronics and SK hynix shares after significant declines, viewing it as a speculative opportunity. The piece is commentary on trading sentiment and retail investor behavior rather than reporting concrete company news, production changes, pricing developments, or fund-specific information."
+  },
+  "buffered_ts": 1784612847.1255846
+ },
+ {
+  "id": "0d23d68e08ac4d1185e5076a03876800bbcd346f",
+  "source": "Stocktwits",
+  "topic": "fund",
+  "title": "SNDK Stock Hit Record Highs Amid Optimism Around DRAM ETF’s $1B AUM - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFOTGdla205eURCWDZkVThvTTl6SGVHSUhpaUFBNEU1OExKdWVQNWFmWEV4TlBFa1dvbnhpcTZ2Z0tHVDRoVUZVUFdTRUxrUm9TRFVJeUlYSUpSQXh4Z0J2eHFsUnBfZ1dMM3g1OE9BSUVSVWUyLXhwcTlLUm1JbzVjQ2ZsY3pSVXBxXzVmQ0RSRnI5YjdIWWJxQXdtV0VPVFlGeS15VEdPLXR3aklyUkU5dkxUSmRKMlRNbjc3dXp6WnM?oc=5",
+  "published_at": "Mon, 20 Jul 2026 09:07:54 GMT",
+  "published_ts": 1784538474,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFOTGdla205eURCWDZkVThvTTl6SGVHSUhpaUFBNEU1OExKdWVQNWFmWEV4TlBFa1dvbnhpcTZ2Z0tHVDRoVUZVUFdTRUxrUm9TRFVJeUlYSUpSQXh4Z0J2eHFsUnBfZ1dMM3g1OE9BSUVSVWUyLXhwcTlLUm1JbzVjQ2ZsY3pSVXBxXzVmQ0RSRnI5YjdIWWJxQXdtV0VPVFlGeS15VEdPLXR3aklyUkU5dkxUSmRKMlRNbjc3dXp6WnM?oc=5\" target=\"_blank\">SNDK Stock Hit Record Highs Amid Optimism Around DRAM ETF’s $1B AUM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stocktwits"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "SanDisk (SNDK) stock reached record highs amid positive sentiment around DRAM ETF achieving $1B in assets under management. The story conflates ETF fund news with a stock price move, but provides no concrete catalyst for SNDK's rally beyond the fund milestone itself, which is a soft positive for the fund but not material market-moving information."
+  },
+  "buffered_ts": 1784612847.1255846
  }
 ]
