@@ -1595,5 +1595,77 @@
    "summary": "Fund performance note reporting that the RAM/DRAM ETF is pulling back as DRAM momentum cools—a general market observation without concrete new information or catalyst disclosed."
   },
   "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "f8b2bd4eb966ba7df4afffeae3b80df16dc9398e",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix’s HBM Empire Powers 65% US Revenue — Is This the Must-Own AI Stock? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUVVNVlMajdyc2FBUmFPbnBZT2hiWWVQOS1JSWdIWjF0el9aVlZrZlkzTUVwUWIzbHltQUZEbWNQWFJSdm8tZVhmTHZ3M0ZNUFdzMDEwM01SNGxjbmMwZkdibjE1bHdzTU9xVXVoTVNxMnl6MkQ1LUtpa1p5eUVaWGFKN0FicVpRRmJtNUttejVmOGts?oc=5",
+  "published_at": "Tue, 21 Jul 2026 15:31:10 GMT",
+  "published_ts": 1784647870,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUVVNVlMajdyc2FBUmFPbnBZT2hiWWVQOS1JSWdIWjF0el9aVlZrZlkzTUVwUWIzbHltQUZEbWNQWFJSdm8tZVhmTHZ3M0ZNUFdzMDEwM01SNGxjbmMwZkdibjE1bHdzTU9xVXVoTVNxMnl6MkQ1LUtpa1p5eUVaWGFKN0FicVpRRmJtNUttejVmOGts?oc=5\" target=\"_blank\">SK Hynix’s HBM Empire Powers 65% US Revenue — Is This the Must-Own AI Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Yahoo Finance analysis piece on SK Hynix's HBM business driving 65% of US revenue and its AI stock potential. Soft commentary and valuation opinion rather than a concrete new event or disclosed number; reflects market narrative but lacks novel earnings data or official guidance change."
+  },
+  "buffered_ts": 1784676476.3627439
+ },
+ {
+  "id": "86f3e28366899fae33ef8609c6c2eb44cff5e0eb",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Sandisk Shares Are Tumbling and What Investors Should Know - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUs4UGhDQWZXemFzTTF1aUxGTDNlSWVCYmVldS10d3VjYmhRS284Y29lano1eGV4dFN3TmY5OFRMVFhrejd5LXE2RmZmWlpDM1RoSHdXZWJYSkZvUzNLTFdrMEx5eGR5MHRvb041bEdKN2dOV2ZmbnE1Y20tLUxjMnJTTkYwV21jdDVHN1Z5MmtsOG5qRzktU3pDd3hnbjBlc3kxajB2eXZfTzl3UTlBdjAzbjJpTjFTMnJfTTdZcTJsV01pSExyU3BKLTBDbFJxZ19lelUyNzNfN1VaRjhidg?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:47:58 GMT",
+  "published_ts": 1784670478,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUs4UGhDQWZXemFzTTF1aUxGTDNlSWVCYmVldS10d3VjYmhRS284Y29lano1eGV4dFN3TmY5OFRMVFhrejd5LXE2RmZmWlpDM1RoSHdXZWJYSkZvUzNLTFdrMEx5eGR5MHRvb041bEdKN2dOV2ZmbnE1Y20tLUxjMnJTTkYwV21jdDVHN1Z5MmtsOG5qRzktU3pDd3hnbjBlc3kxajB2eXZfTzl3UTlBdjAzbjJpTjFTMnJfTTdZcTJsV01pSExyU3BKLTBDbFJxZ19lelUyNzNfN1VaRjhidg?oc=5\" target=\"_blank\">Why Sandisk Shares Are Tumbling and What Investors Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk shares declining; analysis piece on reasons and implications for investors. Likely driven by known recent developments (earnings, guidance, or market conditions) rather than new concrete information. Price movement with analytical context warrants tracking but without fresh catalyst details, impact is soft news rather than hard event."
+  },
+  "buffered_ts": 1784676476.3627439
+ },
+ {
+  "id": "59a3ebf6c8b1e26ec3b1a51a3f3dca29e17c833b",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Memory Stocks Surge, Philadelphia Semiconductor Index Soars Over 4% as Wall Street Opens Higher Ahead of Tech Giant Earnings - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85VWxCcG96MEVvNE9HUTU5bG91clBRSEVONkgtWGdtQXlPUm5lUXpxTlhtZTFXVzZONHk2c3ZOdjRscHFJUWZGZDdyQzJYWGNodXdHSllvdWxDU3BEQ3NsNS1fTS1VNUcwTFBDOHVNNktsZ2ptU1E?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:36:00 GMT",
+  "published_ts": 1784644560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE85VWxCcG96MEVvNE9HUTU5bG91clBRSEVONkgtWGdtQXlPUm5lUXpxTlhtZTFXVzZONHk2c3ZOdjRscHFJUWZGZDdyQzJYWGNodXdHSllvdWxDU3BEQ3NsNS1fTS1VNUcwTFBDOHVNNktsZ2ptU1E?oc=5\" target=\"_blank\">Memory Stocks Surge, Philadelphia Semiconductor Index Soars Over 4% as Wall Street Opens Higher Ahead of Tech Giant Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Memory stocks and semiconductor index rising ahead of tech earnings; broad market sentiment indicator with no specific concrete catalyst or holding-level news disclosed."
+  },
+  "buffered_ts": 1784676476.3627439
  }
 ]
