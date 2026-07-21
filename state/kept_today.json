@@ -1379,5 +1379,221 @@
    "summary": "SK Hynix's Nasdaq debut signals the company's global expansion strategy in the memory semiconductor market, reflecting competitive positioning in the memory cycle but no concrete new capacity or demand catalyst disclosed in the headline."
   },
   "buffered_ts": 1784666620.9458072
+ },
+ {
+  "id": "8084c8030574d2a933150afd34a1a2eaf3ccb4c5",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate, Western Digital, FormFactor, Amkor, and Teradyne Shares Are Soaring, What You Need To Know - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXJtUlc5dVphZkNXUUZlMHNCQVpZdk1Pc2pSWWhpbUx1cC1TQ3RNQ28yX0dnS0h1cUk4ZXRGNks0UGxhRVpvdVMwdFV1VzNqUkpxSTdzQWtpZXJ6TXpWZ2dTVFlBS0RZNHBNN3dUZFpDMng3ZjJEc2RrUVlrT3dPOXhCZUs3QlhwU3dMT3Z4NGZtcTFGMG40WGZqeGxXMXltdGlIRFhIbnY?oc=5",
+  "published_at": "Tue, 21 Jul 2026 20:46:26 GMT",
+  "published_ts": 1784666786,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXJtUlc5dVphZkNXUUZlMHNCQVpZdk1Pc2pSWWhpbUx1cC1TQ3RNQ28yX0dnS0h1cUk4ZXRGNks0UGxhRVpvdVMwdFV1VzNqUkpxSTdzQWtpZXJ6TXpWZ2dTVFlBS0RZNHBNN3dUZFpDMng3ZjJEc2RrUVlrT3dPOXhCZUs3QlhwU3dMT3Z4NGZtcTFGMG40WGZqeGxXMXltdGlIRFhIbnY?oc=5\" target=\"_blank\">Seagate, Western Digital, FormFactor, Amkor, and Teradyne Shares Are Soaring, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Stock price appreciation story covering multiple holdings (Seagate, Western Digital) alongside non-holdings (FormFactor, Amkor, Teradyne). Without a stated catalyst or concrete news driving the moves, this appears to be post-market analysis of price action rather than a discrete event. Relevant due to holdings mentioned, but impact is soft—likely digesting already-known information or market sentiment rather than introducing new material facts."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "99a9a34b6d225583bef3c45930f19bcf5b7aeb7e",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Seagate (STX) Stock May Be 34% Undervalued On Fresh AI Demand News - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlYzdEUya09qa1NQWVNPRDVpa1pGa0FweXZzZ2lkbDlUWDZUdVU2WGpLbGdqaWhxWU8tbUNrdGtoM0ZOeXVsc3VCRjN4cDNpekt4aThoNVp3emlBcHlxMkNpeWNJVnlmU3pLT2VleS05aUVaRFdRZmN2ZDI1STJLMS1obkZSZ2ptcHNKZEs2MkVVb3c?oc=5",
+  "published_at": "Tue, 21 Jul 2026 20:09:11 GMT",
+  "published_ts": 1784664551,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlYzdEUya09qa1NQWVNPRDVpa1pGa0FweXZzZ2lkbDlUWDZUdVU2WGpLbGdqaWhxWU8tbUNrdGtoM0ZOeXVsc3VCRjN4cDNpekt4aThoNVp3emlBcHlxMkNpeWNJVnlmU3pLT2VleS05aUVaRFdRZmN2ZDI1STJLMS1obkZSZ2ptcHNKZEs2MkVVb3c?oc=5\" target=\"_blank\">Seagate (STX) Stock May Be 34% Undervalued On Fresh AI Demand News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst commentary on Seagate (STX) valuation relative to AI demand; opinion-based valuation claim rather than a concrete event or new confirmed information about demand or results."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "2d3d393f72ea18689eeb81aca84a88ef415eb82f",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Shares Are Tumbling and What Investors Should Know - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON204WVBtbkVBTVBUNjFQWF94dXBJMlRqQ2Nud2Q1R0FmSmxFR2o2bnZxdXhkM1hKWlI1VFgycXdWNkl2UWpyUjlSS1N3YkJ1Qm01aVFTQUw2Z2xDa2FNeG1yU2twUEJ6Rl8xT0tpRjZFSWotdUFDaGhDdXVQbmdqY1N6Qkk3bHN5MWpPTWVvS0FPSjl5aVEwMA?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:33:10 GMT",
+  "published_ts": 1784669590,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxON204WVBtbkVBTVBUNjFQWF94dXBJMlRqQ2Nud2Q1R0FmSmxFR2o2bnZxdXhkM1hKWlI1VFgycXdWNkl2UWpyUjlSS1N3YkJ1Qm01aVFTQUw2Z2xDa2FNeG1yU2twUEJ6Rl8xT0tpRjZFSWotdUFDaGhDdXVQbmdqY1N6Qkk3bHN5MWpPTWVvS0FPSjl5aVEwMA?oc=5\" target=\"_blank\">Why Sandisk Shares Are Tumbling and What Investors Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool analysis of SanDisk (SNDK) share decline. This is post-price-move commentary analyzing reasons for a stock drop, likely tied to earnings or market conditions already reported. Without a concrete new catalyst stated in the headline, this falls into soft analysis/market digestion rather than a new material event."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "8d781a6d658ec44093aa59a348639ebd3cb64270",
+  "source": "timothysykes.com",
+  "topic": "holding",
+  "title": "SanDisk (SNDK) Stock Rockets On Aggressive Price Target Hikes - timothysykes.com",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0Y1UlZWZG1ILWQ2Y3RPWHgwZUhYZ3paR29zQzdiREZiWHg3VG9QcW1OX1RibzRIS2JXeVdXeTNVbDFtZy1rZk9sQWR4YVBVLWNJb2F4VkNfT0pIQlJXcDhuem5aMWh2ZUcyTXpaSGRtVUdQbDliQU9sU0pwOGd5ZQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:04:00 GMT",
+  "published_ts": 1784667840,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0Y1UlZWZG1ILWQ2Y3RPWHgwZUhYZ3paR29zQzdiREZiWHg3VG9QcW1OX1RibzRIS2JXeVdXeTNVbDFtZy1rZk9sQWR4YVBVLWNJb2F4VkNfT0pIQlJXcDhuem5aMWh2ZUcyTXpaSGRtVUdQbDliQU9sU0pwOGd5ZQ?oc=5\" target=\"_blank\">SanDisk (SNDK) Stock Rockets On Aggressive Price Target Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "timothysykes.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock rose on analyst price-target increases. This is a post-market reaction to analyst sentiment rather than a concrete event or new fundamental information; analyst upgrades and price-target changes are inherently soft signals reflecting market digestion of existing information."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "0798f753c8a829ba7dbd021332ad8260e98bac37",
+  "source": "TweakTown",
+  "topic": "pricing",
+  "title": "NAND Flash shortages are expected to end in 2027, per new report - TweakTown",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzhPZ290bGFKQUxQTGxRZFZ3cEJMMzl2Z21LNnpYeXF2VEpHOGluUGotcFVGMWVOTVBzYjl4VkFZLVh1UG1sajFaczBHczlKSTN0TTlCQzhJZXFNQzJPNzB1Tzg3bmNOQWl6UzdWaXJwQkVFZEFHLWlsRWtaQ09WQXZPZVF0SWpKSWxJbDE3amQyMWdldy03enJrSWtGQ0RFSmR3WUhGcHVLcjQ3NG1HOVdR?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:45:09 GMT",
+  "published_ts": 1784670309,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzhPZ290bGFKQUxQTGxRZFZ3cEJMMzl2Z21LNnpYeXF2VEpHOGluUGotcFVGMWVOTVBzYjl4VkFZLVh1UG1sajFaczBHczlKSTN0TTlCQzhJZXFNQzJPNzB1Tzg3bmNOQWl6UzdWaXJwQkVFZEFHLWlsRWtaQ09WQXZPZVF0SWpKSWxJbDE3amQyMWdldy03enJrSWtGQ0RFSmR3WUhGcHVLcjQ3NG1HOVdR?oc=5\" target=\"_blank\">NAND Flash shortages are expected to end in 2027, per new report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TweakTown</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TweakTown"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report forecasts NAND Flash shortages will end by 2027. This is forward-looking industry analysis rather than a concrete current event; it touches on supply dynamics relevant to the memory cycle but represents analyst commentary on future conditions rather than a confirmed development or pricing data that would immediately move the market."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "b4c59c6a74cd781bde35df995adbf43f70114d3c",
+  "source": "scanx.trade",
+  "topic": "holding",
+  "title": "Western Digital stock surges on sector recovery and AI demand - scanx.trade",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzRpTTFBN09NS3ktbmliSm9ROGM3eDNTdjdrSmdOSEY1TThCdFBTbkJUcTNCREpjN1ZwQlRObEgtU1JPcFNpdnljQVpLcWI2ODZvazh0MjFnYXlfNDlGTndIZjVvNThzOFhSUkxQNlJUNUFIclhEbk91MFE4dXl2b3k4YzVnT2cxcmY2YXVRTHlPRXRfSXNpX1RoNmJMNFBMVGpEU1RtMGpxZnBHY3ZkZFJqaGlvbTlGOFE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:57:12 GMT",
+  "published_ts": 1784671032,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzRpTTFBN09NS3ktbmliSm9ROGM3eDNTdjdrSmdOSEY1TThCdFBTbkJUcTNCREpjN1ZwQlRObEgtU1JPcFNpdnljQVpLcWI2ODZvazh0MjFnYXlfNDlGTndIZjVvNThzOFhSUkxQNlJUNUFIclhEbk91MFE4dXl2b3k4YzVnT2cxcmY2YXVRTHlPRXRfSXNpX1RoNmJMNFBMVGpEU1RtMGpxZnBHY3ZkZFJqaGlvbTlGOFE?oc=5\" target=\"_blank\">Western Digital stock surges on sector recovery and AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "scanx.trade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM ETF holding, experiences a stock surge attributed to sector recovery and AI demand. The report cites sector-level tailwinds and demand drivers rather than a specific company event or concrete catalyst, making this a post-hoc analysis of price movement rather than new material information."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "eecb3d1ce489686f899c71bd8399199f593a3057",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC (STX) Stock Up 11.1% but GF Value Says Overvalued -- GF Score: 66/100 - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV081ZG9KSXVneTRKUUh6NXNTMDlaaFAtLURXTlBoVU9sNDVUdDAyekFHM1VhNFBDUkl4b3FlcWVONkxXOTltblpVQmgxSUJCNENCQ0RwMVFVaEVkVDJkRFdCRjlfZTd1SjFZcy1nOVlvdHF2RDg5d0UyZ1ZBbFhRNmVidGNXeWRkZ1Y0eXc2WjBIWEtxNERMbjBoeGZJaWswRHhPS0JWZnV3MklRS0FYTVlhLWdRYkY0N2RYLVpleXZKQ1FNanctYkVNbw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:26:58 GMT",
+  "published_ts": 1784669218,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQV081ZG9KSXVneTRKUUh6NXNTMDlaaFAtLURXTlBoVU9sNDVUdDAyekFHM1VhNFBDUkl4b3FlcWVONkxXOTltblpVQmgxSUJCNENCQ0RwMVFVaEVkVDJkRFdCRjlfZTd1SjFZcy1nOVlvdHF2RDg5d0UyZ1ZBbFhRNmVidGNXeWRkZ1Y0eXc2WjBIWEtxNERMbjBoeGZJaWswRHhPS0JWZnV3MklRS0FYTVlhLWdRYkY0N2RYLVpleXZKQ1FNanctYkVNbw?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC (STX) Stock Up 11.1% but GF Value Says Overvalued -- GF Score: 66/100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, rose 11.1% but GuruFocus valuation analysis suggests overvaluation with a 66/100 score. This is a post-price-move analyst opinion piece with no new catalyst or concrete event disclosed; the stock move itself lacks a stated cause distinct from prior news."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "b6486e0736fc4d8cb0629d123f40a3e55434c33f",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "SK hynix (NASDAQ:SKHY) Trading Up 13.7% - What's Next? - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXREdEZiTWdDUG1iR2FsSEdjU0dVYXNpUHcwTWN2UEhha3JmckJGQXVXMlVwWGQtaEc3WHJvT2ZDZFR5N0hRVllWQ1dUT1dHd0x5b2d0UFo4bFBvU2E0eUg4QzlzdThnY0I5VW5rNWo4cmZwY2NrVDY0NkFKMDIyZElrUWJOeXBQZmxWaU5QaWFkWmVqQUdPa3Y0NTc4TFFh?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:46:22 GMT",
+  "published_ts": 1784670382,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONXREdEZiTWdDUG1iR2FsSEdjU0dVYXNpUHcwTWN2UEhha3JmckJGQXVXMlVwWGQtaEc3WHJvT2ZDZFR5N0hRVllWQ1dUT1dHd0x5b2d0UFo4bFBvU2E0eUg4QzlzdThnY0I5VW5rNWo4cmZwY2NrVDY0NkFKMDIyZElrUWJOeXBQZmxWaU5QaWFkWmVqQUdPa3Y0NTc4TFFh?oc=5\" target=\"_blank\">SK hynix (NASDAQ:SKHY) Trading Up 13.7% - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock rose 13.7%, but the headline is a generic price-movement recap with no stated catalyst or new information driving the move. Without a concrete event or news trigger disclosed, this is a minor market-observation piece."
+  },
+  "buffered_ts": 1784671316.37253
+ },
+ {
+  "id": "5acff051c1898e61d416d88f86b92c52905e419a",
+  "source": "StocksToTrade",
+  "topic": "fund",
+  "title": "RAM ETF Pulls Back As DRAM Momentum Cools - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5kM3NDN1VOLWg2U0l3TDZvNDNRSjVIN2NfRkF3S2hsOTVqUTl4b2dYdl8yRDhNNGwwVHRUeEdGREJ5S2JZeTVSa2hIeVE0TXhKek5zZExhclJDTWJTNWlPQVpkV2tveHhOQTdPMlFRV0R5ZFBycnBNNWs5T0JGalU3VHctZXZUQTQ0YnlZaXFvOV8zYVBTYQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:02:00 GMT",
+  "published_ts": 1784642520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5kM3NDN1VOLWg2U0l3TDZvNDNRSjVIN2NfRkF3S2hsOTVqUTl4b2dYdl8yRDhNNGwwVHRUeEdGREJ5S2JZeTVSa2hIeVE0TXhKek5zZExhclJDTWJTNWlPQVpkV2tveHhOQTdPMlFRV0R5ZFBycnBNNWs5T0JGalU3VHctZXZUQTQ0YnlZaXFvOV8zYVBTYQ?oc=5\" target=\"_blank\">RAM ETF Pulls Back As DRAM Momentum Cools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Fund performance note reporting that the RAM/DRAM ETF is pulling back as DRAM momentum cools—a general market observation without concrete new information or catalyst disclosed."
+  },
+  "buffered_ts": 1784671316.37253
  }
 ]
