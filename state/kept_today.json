@@ -22,5 +22,367 @@
    "summary": "Chinese smartphone makers are resisting another Samsung memory price increase, indicating pricing pressure and potential demand pushback in the memory market. This reflects ongoing price negotiations but represents sentiment/resistance rather than a confirmed price move or concrete deal outcome."
   },
   "buffered_ts": 1784636540.4534993
+ },
+ {
+  "id": "b28cfaa5eca62cafd3953592ff134d71b06e42e0",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Group Chairman Chey Tae-won: \"Build Fabs Wherever Possible\" — SK Hynix Nears Expansion Decisions in U.S. and Japan - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SmJsRjV1M1NiOUtlR1A3dllDc2w5X3FSMzljWUVITnNTMFcyZ0lHUUlfV2RuVHFIR04wWFFuN1A2REgwcE0tQndUV0FqTFRlNDlSaFFQdE5Ldjd6NTJwSk02QUI3Q21BQzBabm5VbVFIQXFCMVE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 07:56:00 GMT",
+  "published_ts": 1784620560,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE95SmJsRjV1M1NiOUtlR1A3dllDc2w5X3FSMzljWUVITnNTMFcyZ0lHUUlfV2RuVHFIR04wWFFuN1A2REgwcE0tQndUV0FqTFRlNDlSaFFQdE5Ldjd6NTJwSk02QUI3Q21BQzBabm5VbVFIQXFCMVE?oc=5\" target=\"_blank\">SK Group Chairman Chey Tae-won: \"Build Fabs Wherever Possible\" — SK Hynix Nears Expansion Decisions in U.S. and Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix chairman signals aggressive fab expansion strategy in U.S. and Japan, nearing expansion decisions. While material to the holding, the statement is strategic intent rather than a confirmed, executed decision; actual capex impact and timing remain uncertain."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "72362dae8d41fb55a1100d30d20d1a04dc0232ec",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] Samsung Reportedly Targets 2026 CXL 3.2 Mass Production; SK hynix Advances New AI Memory Architecture - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0d4d2ZPRnBDMVFMRVNwdVdObzJxT1QtUWlmb19mZUdoRkdkMmZ4YUU4cE9yeElxbVd4cV9nN0xLX3F5RFhpa1l5SnJCYl9MN2JlVmV2OUFqeERCU2puTVhBUktybG93Y2dPU1VTVU9IcEZvbmxDZHdLSDBla0Z2M3czOEVhNTEzQWVWRHA1emljbUVWZDljSDdMLTYtRkVkdUF4bFBReFVaWjNqa1hqNGhUdGJ0azRKaXVNUFV0RFhwV1JGYjVZV005OFUtSjFkbUM1UnN4WUR1RkxEMU9kVTluSQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 10:28:33 GMT",
+  "published_ts": 1784629713,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0d4d2ZPRnBDMVFMRVNwdVdObzJxT1QtUWlmb19mZUdoRkdkMmZ4YUU4cE9yeElxbVd4cV9nN0xLX3F5RFhpa1l5SnJCYl9MN2JlVmV2OUFqeERCU2puTVhBUktybG93Y2dPU1VTVU9IcEZvbmxDZHdLSDBla0Z2M3czOEVhNTEzQWVWRHA1emljbUVWZDljSDdMLTYtRkVkdUF4bFBReFVaWjNqa1hqNGhUdGJ0azRKaXVNUFV0RFhwV1JGYjVZV005OFUtSjFkbUM1UnN4WUR1RkxEMU9kVTluSQ?oc=5\" target=\"_blank\">[News] Samsung Reportedly Targets 2026 CXL 3.2 Mass Production; SK hynix Advances New AI Memory Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung reportedly targeting 2026 CXL 3.2 mass production and SK hynix advancing new AI memory architecture. These are forward-looking product roadmaps and technology developments relevant to memory-semiconductor industry capacity and AI-infrastructure demand, but lack confirmed timelines or concrete milestones, making them planning statements rather than settled events."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "ecfa9ba2bd936ab653216933397a17e4c14c3eb8",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Rebound After Three-Day Slump; Analysts Say Peak-Out Fears Are Overblown - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wY0g0RmV1Vld5NElqV3Q4RlFEMFY1a05KZHRNemNNaV9nTHJTYUYtNFUzUlJseEtKSUtFYVFtUHd2TU0yZzd1d3A5eC1DU1VUWi0yeHdWd25tY3pBMUtwTFgxb0NBaDNUaDdJcVdiTzRlaWgxckE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:05:00 GMT",
+  "published_ts": 1784639100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0wY0g0RmV1Vld5NElqV3Q4RlFEMFY1a05KZHRNemNNaV9nTHJTYUYtNFUzUlJseEtKSUtFYVFtUHd2TU0yZzd1d3A5eC1DU1VUWi0yeHdWd25tY3pBMUtwTFgxb0NBaDNUaDdJcVdiTzRlaWgxckE?oc=5\" target=\"_blank\">Samsung, SK Hynix Rebound After Three-Day Slump; Analysts Say Peak-Out Fears Are Overblown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix stocks rebounded after a three-day decline, with analysts commenting that concerns about peak demand in memory are exaggerated. This is analyst commentary on recent price action and sentiment rather than a concrete event or new data."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "18c51955af786c6443bc5806863c0458e1eba11a",
+  "source": "Ad-hoc-news.de",
+  "topic": "industry",
+  "title": "Micron's Volatility Hits 104% as HBM Demand Shifts the Stock from Commodity Play to AI Proxy - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEZRVzNOdlpHRm50WTNNeklwdHRLdVd4U0d1TUpQQjc5OVl1cnJEeWV5Y1E0ZUpFSU44cldBWVJqU0hzSXg0aU1PY3JWZGNyZW9vUkFDcTFZSXRrb3VKRklFVE9JZU1YWmZxSFBqalJPWVJHSXBRLVpXV0cwY0g1Yy1Md0xndzRTbmtFbmJNOC01N2pBUFptYmJXRURfeDZfN1c0a0FXd3FKVWNmVFVFLVFPQUpDanBjV0JlU1Z1eE9hMXE3Z0Q1aVRndw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:24:20 GMT",
+  "published_ts": 1784643860,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEZRVzNOdlpHRm50WTNNeklwdHRLdVd4U0d1TUpQQjc5OVl1cnJEeWV5Y1E0ZUpFSU44cldBWVJqU0hzSXg0aU1PY3JWZGNyZW9vUkFDcTFZSXRrb3VKRklFVE9JZU1YWmZxSFBqalJPWVJHSXBRLVpXV0cwY0g1Yy1Md0xndzRTbmtFbmJNOC01N2pBUFptYmJXRURfeDZfN1c0a0FXd3FKVWNmVFVFLVFPQUpDanBjV0JlU1Z1eE9hMXE3Z0Q1aVRndw?oc=5\" target=\"_blank\">Micron's Volatility Hits 104% as HBM Demand Shifts the Stock from Commodity Play to AI Proxy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing Micron's increased volatility (104%) driven by HBM demand shifts and positioning as an AI-infrastructure play rather than a pure commodity business. This is opinion/market commentary on an existing trend rather than a new concrete event or hard number, and reflects the market's interpretation of known HBM dynamics."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "b7a487ceb8995445df0b4379ef4663c72309cba8",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalNRdnRUTGwycDNhTnJqWHFqUWhsbFd4VzFiZ01wRDgtc2F4bWRablRXQURQQXNzQkNKMGRKZ3RNWVp3RWY5SHY5c19JbWVRWTN2dTY3ak1FZXdtdVV2M1BydnR0SHJCSVpuclFDdVRzRXM3c2dBY2F0RjcyY3UtLTFMcm02YjROV0dTQ1IzdEVJVUI5RmZyeTlXV2JkRU9UQTFYZjJGQXpWb2sxN1h6SEVFemdtUHNQNFV0ekszb2pVTU1ZZ3c?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:20:32 GMT",
+  "published_ts": 1784643632,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQalNRdnRUTGwycDNhTnJqWHFqUWhsbFd4VzFiZ01wRDgtc2F4bWRablRXQURQQXNzQkNKMGRKZ3RNWVp3RWY5SHY5c19JbWVRWTN2dTY3ak1FZXdtdVV2M1BydnR0SHJCSVpuclFDdVRzRXM3c2dBY2F0RjcyY3UtLTFMcm02YjROV0dTQ1IzdEVJVUI5RmZyeTlXV2JkRU9UQTFYZjJGQXpWb2sxN1h6SEVFemdtUHNQNFV0ekszb2pVTU1ZZ3c?oc=5\" target=\"_blank\">SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Three DRAM ETF holdings (SanDisk, Western Digital, Micron) posted significant single-day gains (7-9%) on reports of accelerating memory-sector rebound. This represents market reaction to emerging positive momentum in the memory cycle rather than a specific new catalyst or concrete event disclosed today."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "7464f4d31e74f999de96182622d26db85e6229af",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Unwinding Margin Can Turn SK Hynix Into a Generational Buying Opportunity - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JM0FERWtoR3RVVEhNSmIzODFVLThDa0xnYUZTRThTT0ZwUlo0cHdKcUdPV0IxNzc3cE1SdUJKMHlobkc0ZHV5Sk91QzVES0kyY3lVZ05QTjF6aEtBTDJsSlY3enJWSF9aNGUtM1JCcHptMXBfNTJ2dWdWU3VvQUU?oc=5",
+  "published_at": "Tue, 21 Jul 2026 12:21:50 GMT",
+  "published_ts": 1784636510,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JM0FERWtoR3RVVEhNSmIzODFVLThDa0xnYUZTRThTT0ZwUlo0cHdKcUdPV0IxNzc3cE1SdUJKMHlobkc0ZHV5Sk91QzVES0kyY3lVZ05QTjF6aEtBTDJsSlY3enJWSF9aNGUtM1JCcHptMXBfNTJ2dWdWU3VvQUU?oc=5\" target=\"_blank\">Unwinding Margin Can Turn SK Hynix Into a Generational Buying Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece arguing SK hynix stock presents a buying opportunity as margins unwind. This is opinion/analysis on a holding company rather than a concrete event or new material information about the company's business, guidance, or pricing."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "cf70c9dc3f8a527a39ef381dc86d11f690c97e66",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Why is SK hynix stock surging today? By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjF4bXVaU0hsTTUtUVowOExXYjliUGZDWHBiQzJ6dGYzajVyWGtvY1FCWkgzYUotSll2QWlsQ1F5NkczNlhicm5vaTB6ejRHdTRhU3FPem5IZmF4Qm9QRTdJQTgwU1hzdXlvN3pucVJCd3RsWk9nVW00M2lTa0czcGVNYWlCNnNYWmFVcUsxbVR2eDEyRnRoRVB4b0Y?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:55:45 GMT",
+  "published_ts": 1784642145,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjF4bXVaU0hsTTUtUVowOExXYjliUGZDWHBiQzJ6dGYzajVyWGtvY1FCWkgzYUotSll2QWlsQ1F5NkczNlhicm5vaTB6ejRHdTRhU3FPem5IZmF4Qm9QRTdJQTgwU1hzdXlvN3pucVJCd3RsWk9nVW00M2lTa0czcGVNYWlCNnNYWmFVcUsxbVR2eDEyRnRoRVB4b0Y?oc=5\" target=\"_blank\">Why is SK hynix stock surging today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": [
+    "Why is SanDisk stock surging today? By Investing.com - Investing.com Canada"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock is surging, but the article appears to be asking the question without stating a confirmed catalyst. This is a price-move observation without a clearly articulated, concrete cause distinct from known earnings or market developments. Typical of 'why is X stock up today' pieces that reflect market digestion rather than new material information."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "45cda9126719efe7e550c0d181882764a4bd2467",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Seagate Technology stock may move 13% on July 28 earnings - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlRaTUY3YWlpYXZVQllfa1Ria3pRYkZrUHNFbmRtaG1HU2EwbTNrd1pPUDF1NDQxWFhUWF9lcm1Vc3FtSlRTRE51U0xhMDYzZHFYVllhWjhsa0VUS21FMEkwWndUZkVuRHA4V1ZFaXF6UGZKVV9vZWdjZDlJdXR6N29IRXFzSEk5M0ZiWGpyM0VJaDNRcWNqWVFVa1M4RWJQV2tNSFBVeE54dnpXb1V1OGRyUExqTE5xV1E?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:26:11 GMT",
+  "published_ts": 1784643971,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlRaTUY3YWlpYXZVQllfa1Ria3pRYkZrUHNFbmRtaG1HU2EwbTNrd1pPUDF1NDQxWFhUWF9lcm1Vc3FtSlRTRE51U0xhMDYzZHFYVllhWjhsa0VUS21FMEkwWndUZkVuRHA4V1ZFaXF6UGZKVV9vZWdjZDlJdXR6N29IRXFzSEk5M0ZiWGpyM0VJaDNRcWNqWVFVa1M4RWJQV2tNSFBVeE54dnpXb1V1OGRyUExqTE5xV1E?oc=5\" target=\"_blank\">Seagate Technology stock may move 13% on July 28 earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate earnings on July 28 flagged as potentially moving stock 13%; analyst speculation on earnings outcome rather than concrete development or pre-earnings catalyst."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "75aba464226127a54819615ce45c28b0f00fdaf0",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is Sandisk Stock Soaring Tuesday? - SanDisk (NASDAQ:SNDK) - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTFRel9LcUpoN0w0UWI1ODB2NkZ2dlpvbjJxMEJLN2QtbHUxblU3d25QVFNyb3hpSUtJNjl1cWRaR1d3TkN5U3BaSjg5elJtUEFkZHQ2MDN2c3BZZHdtT185ZlhVVnJITjZocVQ1UjBRamJObW4wLWgzV1RzdzhCVEpKZkxLdVhCRlR5dFFCUXZEdlRkMjRDNVVkZU1ZSjdwcUFuQjBCckVzTlVIM19Mc0xjdTBoejhnYmFDMHBldWZybVU?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:41:46 GMT",
+  "published_ts": 1784641306,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTFRel9LcUpoN0w0UWI1ODB2NkZ2dlpvbjJxMEJLN2QtbHUxblU3d25QVFNyb3hpSUtJNjl1cWRaR1d3TkN5U3BaSjg5elJtUEFkZHQ2MDN2c3BZZHdtT185ZlhVVnJITjZocVQ1UjBRamJObW4wLWgzV1RzdzhCVEpKZkxLdVhCRlR5dFFCUXZEdlRkMjRDNVVkZU1ZSjdwcUFuQjBCckVzTlVIM19Mc0xjdTBoejhnYmFDMHBldWZybVU?oc=5\" target=\"_blank\">Why Is Sandisk Stock Soaring Tuesday? - SanDisk (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock experiencing a notable intraday rise. The headline indicates a price move but lacks specification of the underlying catalyst—likely either market reaction to earnings/guidance, analyst commentary, or sector momentum. Without a distinct, newly-announced event or hard number, the story is analysis of an existing move rather than a concrete development."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "6523ae9cb3b95d867f539ac782657be416288b83",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "The AI Trade Is Back With a Bang—Just Look at Sandisk Stock - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2hlNGpoekNjem9KT1ZLazVEZ2VXVHVfUlhCRHhUQXpRUWVyTENGTHhUSHBxdXM0TXJCYnJBU2p1WjRSM0VLRTJjYkU2XzRNR2s0dWgwNXVEQ1VvV1lqcE9UemJORHpBTGt4VUZLZm0tWlp0b2Y1dXZnejFpVW13bkdPN28tUmxWbXo0?oc=5",
+  "published_at": "Tue, 21 Jul 2026 10:49:00 GMT",
+  "published_ts": 1784630940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2hlNGpoekNjem9KT1ZLazVEZ2VXVHVfUlhCRHhUQXpRUWVyTENGTHhUSHBxdXM0TXJCYnJBU2p1WjRSM0VLRTJjYkU2XzRNR2s0dWgwNXVEQ1VvV1lqcE9UemJORHpBTGt4VUZLZm0tWlp0b2Y1dXZnejFpVW13bkdPN28tUmxWbXo0?oc=5\" target=\"_blank\">The AI Trade Is Back With a Bang—Just Look at Sandisk Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's reports on SanDisk stock performance tied to renewed AI trade momentum. This is a price-move story tied to market sentiment around AI demand rather than a concrete new development or earnings catalyst. While SanDisk is a fund holding, the article appears to be commentary on stock movement driven by the broader AI trade narrative without citing a specific new event, deal, or hard number affecting memory demand or supply."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "eb57c2e8a4981115737ddd120cdf6c8f645cda7f",
+  "source": "games.gg",
+  "topic": "holding",
+  "title": "SK Hynix Chairman Warns Memory Prices Have a Hard Ceiling - games.gg",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZXVlb0doaFR0ZDJjb2FBNHVva2UzaU1lcms5ZmlVRHM2YXhlNXhTaWZ5NjRXZkhUSU5mNDlQQk9GLVJ5MmtIZjB4aTEwaVJCSFlaUFYxU0JmbGlySFNXaUstMGdzbFU2b0tuSzNn?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:30:32 GMT",
+  "published_ts": 1784640632,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZXVlb0doaFR0ZDJjb2FBNHVva2UzaU1lcms5ZmlVRHM2YXhlNXhTaWZ5NjRXZkhUSU5mNDlQQk9GLVJ5MmtIZjB4aTEwaVJCSFlaUFYxU0JmbGlySFNXaUstMGdzbFU2b0tuSzNn?oc=5\" target=\"_blank\">SK Hynix Chairman Warns Memory Prices Have a Hard Ceiling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">games.gg</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "games.gg"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix chairman comments on memory pricing limits. While relevant to a key holding and the pricing cycle, this is executive commentary and opinion rather than a confirmed pricing event or concrete market development. Such warnings are directional but require pricing data or supply/demand shifts to materially move the needle."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "a96062129d382d2b120e8eddd98d677626141a46",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Why Micron Stock Is Jumping Ahead of Google Earnings - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTAxUXBWdjJpcVpvTEpFQUQ1alBnX08xaTM2U24yLVlubWZET2JDMFNvbGprSlNLWXpYcVV5OWFHVkNYSXowU3pnM2JLTnJFSWF5YkktR2ozanVyXy1WUzJTalR1NG9tY0dNaHBQQmp5ODdWbHhwZS1EWkZ6WHUzVUVn?oc=5",
+  "published_at": "Tue, 21 Jul 2026 11:34:00 GMT",
+  "published_ts": 1784633640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTAxUXBWdjJpcVpvTEpFQUQ1alBnX08xaTM2U24yLVlubWZET2JDMFNvbGprSlNLWXpYcVV5OWFHVkNYSXowU3pnM2JLTnJFSWF5YkktR2ozanVyXy1WUzJTalR1NG9tY0dNaHBQQmp5ODdWbHhwZS1EWkZ6WHUzVUVn?oc=5\" target=\"_blank\">Why Micron Stock Is Jumping Ahead of Google Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock is rising ahead of Google earnings, likely reflecting market anticipation of AI infrastructure capex and memory demand. This is analysis/speculation about a price move tied to forward-looking sentiment rather than a confirmed event or concrete development from Micron itself."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "2d0a5a77f43b5470d0c0f3c2f6c821b7edbae710",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK hynix Expands U.S. Hiring for AI Memory Push - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vT0R0eVNJdUl1LVlBWW42ZUpYeFMyajBHYnAyWG1YUXA4c09BaVBFYzZvVzJVcVJrLUxlSkNULUlVaVBsSHplRUVHcjMyT0VXajFUdXJQQXJsYkVYbkFReHdFYXVJX2g0cFB3Y0tPYmdfNDRT?oc=5",
+  "published_at": "Tue, 21 Jul 2026 13:52:45 GMT",
+  "published_ts": 1784641965,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1vT0R0eVNJdUl1LVlBWW42ZUpYeFMyajBHYnAyWG1YUXA4c09BaVBFYzZvVzJVcVJrLUxlSkNULUlVaVBsSHplRUVHcjMyT0VXajFUdXJQQXJsYkVYbkFReHdFYXVJX2g0cFB3Y0tPYmdfNDRT?oc=5\" target=\"_blank\">SK hynix Expands U.S. Hiring for AI Memory Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Businesskorea"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is expanding U.S. hiring focused on AI memory production. This reflects the company's strategic commitment to HBM and AI-driven memory demand, but is a staffing/capacity plan announcement rather than a concrete shipment, production cut, or binding deal that has already moved the market."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "ecaaa894b6be03873f53746b104d8cf42ee1de92",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Micron, SanDisk Break Momentum Rally: SPMO Hits Worst Month - Micron Technology (NASDAQ:MU), Invesco S&P - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGRtMDVWRHJCUnk2SERaTkVOdlFzcjRXQ21TSGl1RFJwcDU0elB0SEpYR3h1NEhfeVVWUFNyMENkVXh0eGpmM05UT25lZXVjaEJjTEFEb01EZXpJYU5tSEE0NUJoSm9fbEs5WFJlSnFwVDBEdWJnTTJFeHdpZUJaLVk0azFlZ0c5THJSR3kzZnBSQWRGb2Izc1RIMUQ?oc=5",
+  "published_at": "Tue, 21 Jul 2026 12:58:35 GMT",
+  "published_ts": 1784638715,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGRtMDVWRHJCUnk2SERaTkVOdlFzcjRXQ21TSGl1RFJwcDU0elB0SEpYR3h1NEhfeVVWUFNyMENkVXh0eGpmM05UT25lZXVjaEJjTEFEb01EZXpJYU5tSEE0NUJoSm9fbEs5WFJlSnFwVDBEdWJnTTJFeHdpZUJaLVk0azFlZ0c5THJSR3kzZnBSQWRGb2Izc1RIMUQ?oc=5\" target=\"_blank\">Micron, SanDisk Break Momentum Rally: SPMO Hits Worst Month - Micron Technology (NASDAQ:MU), Invesco S&amp;P</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Micron and SanDisk mentioned in a broader market commentary piece about the Invesco S&P Momentum ETF (SPMO) experiencing its worst month. The holdings are named but the story is primarily about fund-level price action and momentum trends rather than memory-specific fundamentals or catalysts."
+  },
+  "buffered_ts": 1784644471.2193682
+ },
+ {
+  "id": "8c1c932743344ea551232c3364643eebd4fbf46d",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SK Hynix Traders Brace for AI Cycle Whiplash as Volatility Hits 147%: Options Chatter - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1laRHF2MXc5bXEyOERtR3hZZTNYWHByXzBPNWZyY1FBaVd4SVM1V0VfZ3d2MlZCYVhIcHZvMTAzQ0N6QmZwLVVIcVNMRXBBOXlaWE9nc1dSc3VPaE4wZDd4amxwYW5ad0labkJHMjNMNVRCSk9nQWpMUGxlbXU5ZE4zLVhIWFJTa3FPVVZZM01TWXItai1Pcjl2Q1VhODNjM1lWZWpTdE5oUXJISkhDZnJ3?oc=5",
+  "published_at": "Tue, 21 Jul 2026 14:21:14 GMT",
+  "published_ts": 1784643674,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1laRHF2MXc5bXEyOERtR3hZZTNYWHByXzBPNWZyY1FBaVd4SVM1V0VfZ3d2MlZCYVhIcHZvMTAzQ0N6QmZwLVVIcVNMRXBBOXlaWE9nc1dSc3VPaE4wZDd4amxwYW5ad0labkJHMjNMNVRCSk9nQWpMUGxlbXU5ZE4zLVhIWFJTa3FPVVZZM01TWXItai1Pcjl2Q1VhODNjM1lWZWpTdE5oUXJISkhDZnJ3?oc=5\" target=\"_blank\">SK Hynix Traders Brace for AI Cycle Whiplash as Volatility Hits 147%: Options Chatter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix options volatility has spiked to 147% amid trader speculation about AI cycle swings. This is market chatter and options positioning rather than a concrete catalyst or new information about the company's fundamentals, capacity, or pricing."
+  },
+  "buffered_ts": 1784644471.2193682
  }
 ]
