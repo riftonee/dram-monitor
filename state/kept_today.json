@@ -310,5 +310,293 @@
    "summary": "SK Hynix denies reports about involvement in Intel's Ohio fabrication facility. A denial of a rumored partnership or investment is relevant to a major holding but lacks concrete new information—it is a response to speculation rather than a confirmed development."
   },
   "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "b73af6a7a34a958bb8a267ce76444028a2bbf42e",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK hynix (KRX:000660) accelerates AI packaging investment as shares lose earlier 9% climb - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHB6ekV2ZGlqWHAzeVpaajg4NFhaTjVncDN0NGxoRU9SSlBXeHZmVHFXY1gydHZyVk9tYjJHR2hpaldWN2RWTGd1QWxRTzdPdUJoY0FLeW5Ya2JEOVhhZ2RDRE8ybi1keldwQUZhTlJOcnVWbUlwU0p5Q1RMdDdUaFkwNDBhbzhtdWFfSXVwLUc5T05jOUQ5Yk0ybTNoY3hFbm9pLWI4ZGJwQQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:43:35 GMT",
+  "published_ts": 1784731415,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHB6ekV2ZGlqWHAzeVpaajg4NFhaTjVncDN0NGxoRU9SSlBXeHZmVHFXY1gydHZyVk9tYjJHR2hpaldWN2RWTGd1QWxRTzdPdUJoY0FLeW5Ya2JEOVhhZ2RDRE8ybi1keldwQUZhTlJOcnVWbUlwU0p5Q1RMdDdUaFkwNDBhbzhtdWFfSXVwLUc5T05jOUQ5Yk0ybTNoY3hFbm9pLWI4ZGJwQQ?oc=5\" target=\"_blank\">SK hynix (KRX:000660) accelerates AI packaging investment as shares lose earlier 9% climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced acceleration of AI packaging investment, a concrete capital allocation decision to boost HBM and AI-memory production capacity. Though stock initially rose 9% then pulled back, the underlying investment commitment is a material development for a major DRAM fund holding."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "596a47c381b5290f852112b68220e52c8343a520",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "DRAM Spot Prices Hit Record Highs; \"Q3 Contract Prices to Surge Another 25%+\" - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04emVUb2hhRERrNHUyUXIwU3NYSFpsUHcyWVg5b0xzYXR0Rk9fSGtHRHZ1by00b3BrVGo3RzdTN1I3c01yb1hLbklXY0VfM0dhVjZ3WFRBMDFLVGV2MWtjdm1fMlZvMlJoc05Ja0dlRFBCU1BZZ0E?oc=5",
+  "published_at": "Wed, 22 Jul 2026 09:15:00 GMT",
+  "published_ts": 1784711700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE04emVUb2hhRERrNHUyUXIwU3NYSFpsUHcyWVg5b0xzYXR0Rk9fSGtHRHZ1by00b3BrVGo3RzdTN1I3c01yb1hLbklXY0VfM0dhVjZ3WFRBMDFLVGV2MWtjdm1fMlZvMlJoc05Ja0dlRFBCU1BZZ0E?oc=5\" target=\"_blank\">DRAM Spot Prices Hit Record Highs; \"Q3 Contract Prices to Surge Another 25%+\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "DRAM spot prices have reached record highs with forecasts of Q3 contract prices surging another 25%. This is a concrete pricing development that serves as a leading indicator for memory-semiconductor stocks held in DRAM ETF and directly signals strong near-term margin expansion for holdings like Micron, SK hynix, and Samsung's memory division."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "15ae2f6590f023b5681ccbb9c3c88301752d577a",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "SK Hynix Pares 4% Drop After Denying Talks to Buy Intel's Ohio Fab as Market Shrugs Off Iran Jitters - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGF5T3lGdkFaTEgxbUFYWXBlZFBzdGt1VWxYVkEyTFU0b0x6dk0wNjJkVDEtQ1pzR01CTkY1a0pIYkp3aTRvSE95T0ItbWp1Q1g2OTZkTmgxS2lfUks4RHpsS09oTmNFd0t4VzJxYUtpQTlIRVZpaWZvT1hUeU5XUzZUcEprNDN4QUNNQV9pcUQxVjZWZldLTkI1Mjk2bnUzVEpTU0xtTGcyOEpqMFhsdkp5cGhUU21IaGFwaHBwdUhCeGVya05qR1gxaHJSQk5XeXFKY1o5V1BaZw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:32:50 GMT",
+  "published_ts": 1784730770,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGF5T3lGdkFaTEgxbUFYWXBlZFBzdGt1VWxYVkEyTFU0b0x6dk0wNjJkVDEtQ1pzR01CTkY1a0pIYkp3aTRvSE95T0ItbWp1Q1g2OTZkTmgxS2lfUks4RHpsS09oTmNFd0t4VzJxYUtpQTlIRVZpaWZvT1hUeU5XUzZUcEprNDN4QUNNQV9pcUQxVjZWZldLTkI1Mjk2bnUzVEpTU0xtTGcyOEpqMFhsdkp5cGhUU21IaGFwaHBwdUhCeGVya05qR1gxaHJSQk5XeXFKY1o5V1BaZw?oc=5\" target=\"_blank\">SK Hynix Pares 4% Drop After Denying Talks to Buy Intel's Ohio Fab as Market Shrugs Off Iran Jitters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "24/7 Wall St."
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denied ongoing talks to acquire Intel's Ohio fabrication plant. The stock initially fell 4% but pared losses as the market moved past geopolitical concerns. The denial itself is a concrete statement but the denial of a deal (rather than announcement of one) and lack of new capacity/production commitments limit impact to soft news about a holding."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "effeafbb78f1ea417225dc5aa586d11f180359a5",
+  "source": "Crypto Briefing",
+  "topic": "industry",
+  "title": "Micron stock jumps ahead of Google earnings as AI memory demand hits record highs - Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZ3lvR1NNdVVVY2ZXeDVKQ0pXSHB5Ykp2UzRGT3NmV0RVNE12cTd3UU55STAxaXRaTDdtSW16R1dPeTc3TGpieDRIbHp1UFRSc2xTX2JaY3k2X290VldWUjE4VG1CRmpMQmJlZ215eEtiVjBPUThsZm8yNi0?oc=5",
+  "published_at": "Tue, 21 Jul 2026 11:58:23 GMT",
+  "published_ts": 1784635103,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZ3lvR1NNdVVVY2ZXeDVKQ0pXSHB5Ykp2UzRGT3NmV0RVNE12cTd3UU55STAxaXRaTDdtSW16R1dPeTc3TGpieDRIbHp1UFRSc2xTX2JaY3k2X290VldWUjE4VG1CRmpMQmJlZ215eEtiVjBPUThsZm8yNi0?oc=5\" target=\"_blank\">Micron stock jumps ahead of Google earnings as AI memory demand hits record highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Micron stock rises on elevated AI-driven memory demand; story cites record highs in demand but is positioned as a pre-earnings move and market reaction rather than reporting a concrete new development or hard number from the company itself."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "28f11303611c011bce30b0ace37b238204a979b9",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Western Digital (WDC) Surges 12.5% to $548 - Kioxia Merger Talks, $900 Analyst Target - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeTgzQkxJNXVfVE1McVM0eHd5eWVrU0VXcHM1NWVXeXBLU1AtLTVabERXYnI3eGQzY2hibUFoUjRzM0cyTEdJQnY2SkE5WVRyY3VMd0JJOHR0cUcyWlUyakF2VHdFbVQ2QXRqTUlrSTdzbnRXdUV5VEpQSGFsRkJFRzlOc1BVc21qZENyc2xSWGhVTC1XTjhZbU8zV0NjSm9KeVQyYnVGOThYUHhla0pnSDJONnk2YV9QTjdLTzlqa29SNmFsakxoWUMyMHJIZEQxd1Y1LWdac2loNDdKNDdR?oc=5",
+  "published_at": "Wed, 22 Jul 2026 15:03:36 GMT",
+  "published_ts": 1784732616,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeTgzQkxJNXVfVE1McVM0eHd5eWVrU0VXcHM1NWVXeXBLU1AtLTVabERXYnI3eGQzY2hibUFoUjRzM0cyTEdJQnY2SkE5WVRyY3VMd0JJOHR0cUcyWlUyakF2VHdFbVQ2QXRqTUlrSTdzbnRXdUV5VEpQSGFsRkJFRzlOc1BVc21qZENyc2xSWGhVTC1XTjhZbU8zV0NjSm9KeVQyYnVGOThYUHhla0pnSDJONnk2YV9QTjdLTzlqa29SNmFsakxoWUMyMHJIZEQxd1Y1LWdac2loNDdKNDdR?oc=5\" target=\"_blank\">Western Digital (WDC) Surges 12.5% to $548 - Kioxia Merger Talks, $900 Analyst Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Western Digital (WDC), a DRAM fund holding, surged 12.5% amid reports of Kioxia merger talks and a $900 analyst price target. The stock move reflects market reaction to deal rumors and analyst sentiment rather than a confirmed event or official announcement; merger discussions are exploratory and not yet settled, making this opinion/possibility-driven rather than a concrete development."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "dd3e2e541dd09005995ae9a3f2c0cbace7fc830b",
+  "source": "Coinpedia",
+  "topic": "holding",
+  "title": "South Korea Stock Market Rallies as AI Chip Demand Lifts Samsung and SK Hynix - Coinpedia",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWlsUmp2R0NxUVU1alEtY1B2aHhkNjBXN3BpdmY0a1hjS280YWlNendlTnluRlZ0WkF5c3VEel8tQnJGQjZlbXpXUjVscE81TEVLdlBLSjBKV3d6c1Y3bDdSaHQ4SkZ0RXJFU0dJNHN4ZUtNNTYxNlNLWDV3V1FzYngtVHhCazVoOEpfS0VlZkpUWW13TGhPanY2WVFYbjRuelZnckgzNHBYc0RZNEJ0VmE4eG9FOTRE0gG-AUFVX3lxTE9uaVRWVUQtNjhqU2EtTzNfWGNrRTlfRkYwSWNCN283ODVzNFUzS1Zoa01jdTVBeTZmV25oSURSLWtyOHlaRXpmazJ1Q2hkV3NJWXM4V1IxZm9Ta1ZWR2N1OGpYSlRZdWlQN25jZVhZdVFORTdRWVU5ZC1qQ0hpbWxneGFGUlRybFFDRXJsbG9uVFhiRHhMcC1ETmgxVktrcE9mYXJya1NLNzhleGRTelVFOVgxV3hhOXNWWmpxb3c?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:01:27 GMT",
+  "published_ts": 1784728887,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWlsUmp2R0NxUVU1alEtY1B2aHhkNjBXN3BpdmY0a1hjS280YWlNendlTnluRlZ0WkF5c3VEel8tQnJGQjZlbXpXUjVscE81TEVLdlBLSjBKV3d6c1Y3bDdSaHQ4SkZ0RXJFU0dJNHN4ZUtNNTYxNlNLWDV3V1FzYngtVHhCazVoOEpfS0VlZkpUWW13TGhPanY2WVFYbjRuelZnckgzNHBYc0RZNEJ0VmE4eG9FOTRE0gG-AUFVX3lxTE9uaVRWVUQtNjhqU2EtTzNfWGNrRTlfRkYwSWNCN283ODVzNFUzS1Zoa01jdTVBeTZmV25oSURSLWtyOHlaRXpmazJ1Q2hkV3NJWXM4V1IxZm9Ta1ZWR2N1OGpYSlRZdWlQN25jZVhZdVFORTdRWVU5ZC1qQ0hpbWxneGFGUlRybFFDRXJsbG9uVFhiRHhMcC1ETmgxVktrcE9mYXJya1NLNzhleGRTelVFOVgxV3hhOXNWWmpxb3c?oc=5\" target=\"_blank\">South Korea Stock Market Rallies as AI Chip Demand Lifts Samsung and SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Coinpedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean stock market rallies on AI chip demand, with Samsung and SK Hynix mentioned as beneficiaries. This is a macro/sentiment piece citing AI demand as a tailwind for memory holdings, but lacks concrete new information about orders, capacity, pricing, or earnings—it reflects market reaction to existing AI trends rather than a new event."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "3fcb624b6779b31584a16daf8bf24551625e9fdc",
+  "source": "Sahm",
+  "topic": "fund",
+  "title": "AI Trade’s Favorite Chip ETF Sees Record Inflows Despite Worst Month Since 2008 - Sahm",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGlIcG9iTHVGUWZRUllSVGVYSEgweGZPd1p4cVlTbmoycXR2SU1xa0k5NGlIZEY3Y3RybTZkanYyejA2UU5BWXNiVXZ2dUREajVheGNnV0NaQV9EckVSNVBTNm1QbmJJWXFRWWxzUFI1TEN4YnF2S2x3ODAtVnR5d1lQX1JoZExRRTFQY3ppZ2VWNnotSHVYamJxVVhkQWJtSUFTQ2F1T0J6b0ZiT3hYLUVsVi1zV0NYTGtGRVhCRHBjQ3I3UjZjaFJ3?oc=5",
+  "published_at": "Tue, 21 Jul 2026 21:23:42 GMT",
+  "published_ts": 1784669022,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGlIcG9iTHVGUWZRUllSVGVYSEgweGZPd1p4cVlTbmoycXR2SU1xa0k5NGlIZEY3Y3RybTZkanYyejA2UU5BWXNiVXZ2dUREajVheGNnV0NaQV9EckVSNVBTNm1QbmJJWXFRWWxzUFI1TEN4YnF2S2x3ODAtVnR5d1lQX1JoZExRRTFQY3ppZ2VWNnotSHVYamJxVVhkQWJtSUFTQ2F1T0J6b0ZiT3hYLUVsVi1zV0NYTGtGRVhCRHBjQ3I3UjZjaFJ3?oc=5\" target=\"_blank\">AI Trade’s Favorite Chip ETF Sees Record Inflows Despite Worst Month Since 2008</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Sahm"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "The DRAM ETF is experiencing record inflows despite a challenging market month, indicating sustained investor interest in memory semiconductors amid AI infrastructure demand."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "7235fc50286e3104d0172bee3651c55a3c48f777",
+  "source": "Overclocking.com",
+  "topic": "pricing",
+  "title": "Will NAND Flash Prices Stabilize in 2027? - Overclocking.com",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdm1NODV1eGhsdkhCY3VjbDg1NmJJY25pLVpDZUx2MV9oU245R2V0dHg2WGZ3LWNkcjVnUUFjeEF3QXhJVUh3RDd3RElwMTNQRHloSXFDakVfWFlPckljMlBrTmU0SHFXLWI0NjlIWGJ0Rzl1OG1BQw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:00:16 GMT",
+  "published_ts": 1784728816,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdm1NODV1eGhsdkhCY3VjbDg1NmJJY25pLVpDZUx2MV9oU245R2V0dHg2WGZ3LWNkcjVnUUFjeEF3QXhJVUh3RDd3RElwMTNQRHloSXFDakVfWFlPckljMlBrTmU0SHFXLWI0NjlIWGJ0Rzl1OG1BQw?oc=5\" target=\"_blank\">Will NAND Flash Prices Stabilize in 2027?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Overclocking.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Overclocking.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Opinion/analysis piece speculating on NAND flash price stabilization in 2027. While pricing is a leading indicator for memory stocks, this is forward-looking commentary and forecast rather than a concrete price report or settled market development."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "afead70f998eec98856bc9449918375239d32123",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "SK Hynix Denies Report on Intel Ohio Fab - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHFZOVFpdy0xMFIwT3JLbTJUN2Y5b0w2TEFTV0dvbGRwUEMydnkxYXZSSWkwQXYtaEpLUzRqNXNSX3BERzRkbG9XeEZ5dGU2MzZBVzJTT0g3VFZuTjBqME9kMGJmdnYwZkdpb2dBX2piX2x3SDk5MVI5SWVkRDdXUzZaQnhoY3FKSmszNEZYdFVNam5iZ0UyNlZwRFBCUkF2ekE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:45:32 GMT",
+  "published_ts": 1784724332,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONHFZOVFpdy0xMFIwT3JLbTJUN2Y5b0w2TEFTV0dvbGRwUEMydnkxYXZSSWkwQXYtaEpLUzRqNXNSX3BERzRkbG9XeEZ5dGU2MzZBVzJTT0g3VFZuTjBqME9kMGJmdnYwZkdpb2dBX2piX2x3SDk5MVI5SWVkRDdXUzZaQnhoY3FKSmszNEZYdFVNam5iZ0UyNlZwRFBCUkF2ekE?oc=5\" target=\"_blank\">SK Hynix Denies Report on Intel Ohio Fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denied a report regarding involvement in Intel's Ohio fab, clarifying its position on a potential partnership or investment. This is a clarification of speculation rather than a concrete new development, making it relevant but soft news."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "8d846e1cd9d63a873575d6b4c641d49888f3a62a",
+  "source": "IAM Media",
+  "topic": "holding",
+  "title": "IP Litigation Insider: Sandisk IP leader sees NAND flash memory becoming a bigger battleground - IAM Media",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmlka2pVSzlHT1pxZF96bHVLSjI2MmdESEVvNTQ3MkhPZW1wY0JvYUQ1ZGZTdHBqVWRzTE1xZTdIRnNKQ2hKQmxxc2ZERUNxNk1kcm1OSTJUUk00VUFMekE5WnpUX3RFV2tuVXgwSmJlU2Qyd2xRTkJ2eGdBcmk5bnE2aDY4WkNySk0xcm9Cb0toc2dLNUt1dndyZjJBV25QaHRDU25oVWI0b293d2h3NUF1T21vNkxNTmtwR19CN1FDQmc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:54:55 GMT",
+  "published_ts": 1784732095,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmlka2pVSzlHT1pxZF96bHVLSjI2MmdESEVvNTQ3MkhPZW1wY0JvYUQ1ZGZTdHBqVWRzTE1xZTdIRnNKQ2hKQmxxc2ZERUNxNk1kcm1OSTJUUk00VUFMekE5WnpUX3RFV2tuVXgwSmJlU2Qyd2xRTkJ2eGdBcmk5bnE2aDY4WkNySk0xcm9Cb0toc2dLNUt1dndyZjJBV25QaHRDU25oVWI0b293d2h3NUF1T21vNkxNTmtwR19CN1FDQmc?oc=5\" target=\"_blank\">IP Litigation Insider: Sandisk IP leader sees NAND flash memory becoming a bigger battleground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IAM Media</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "IAM Media"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk IP executive comments on increasing patent litigation in the NAND flash memory sector. While relevant to the holding, this is general industry commentary on IP trends rather than a concrete event affecting SanDisk's business or the memory cycle."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "20e58cbf216bfd3d1d6dedfcbd33c314ea0c4a43",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock slipping today? By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlprczZLSkpWVUxsRmI3RUR4U296a05LNjhvM0tldWxUU2VoV3hZcmhSQjZtOG4wNlk5WUFON25UcEFtQXJlbWliVlJ5bXpHdFJYTXkxM3hRSkE1cDBLdGdEUTEyeW1ibEs3RXpkRDg2YUxHQlZEc3NVaHNFQklxeHpwOHNGUnVnX2lveWxpeUcyNFFwYzlkSENBR01Ndw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 08:46:31 GMT",
+  "published_ts": 1784709991,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYlprczZLSkpWVUxsRmI3RUR4U296a05LNjhvM0tldWxUU2VoV3hZcmhSQjZtOG4wNlk5WUFON25UcEFtQXJlbWliVlJ5bXpHdFJYTXkxM3hRSkE1cDBLdGdEUTEyeW1ibEs3RXpkRDg2YUxHQlZEc3NVaHNFQklxeHpwOHNGUnVnX2lveWxpeUcyNFFwYzlkSENBR01Ndw?oc=5\" target=\"_blank\">Why is SK Hynix stock slipping today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Generic article asking why SK Hynix stock is moving intraday; no new concrete information about the company, memory pricing, or industry fundamentals provided in the snippet."
+  },
+  "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "14d497976e38193e99fa4fde2993ac97cd703242",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Is Sandisk Stock Falling on Wednesday? - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHdfVjgyX2lfYmxwaGlSaDQzQ1JSY3o5R1BHbU0zaXdxcmNlTFlMclRMRHo0eHNMeVF2TlRERTZVS2cwSjY2eXM1S1VLU3BwMkJJWjJLYnplLUYzRHlrSnE3c1dJbTZySE9JdTM2QlB0cGpGeXVMa3NtVURQc0RRaGZGVVd3UFZiZFJlM090Tnl5REExOVRSbHZyNDdEdkt5QkFaWQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 15:03:31 GMT",
+  "published_ts": 1784732611,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHdfVjgyX2lfYmxwaGlSaDQzQ1JSY3o5R1BHbU0zaXdxcmNlTFlMclRMRHo0eHNMeVF2TlRERTZVS2cwSjY2eXM1S1VLU3BwMkJJWjJLYnplLUYzRHlrSnE3c1dJbTZySE9JdTM2QlB0cGpGeXVMa3NtVURQc0RRaGZGVVd3UFZiZFJlM090Tnl5REExOVRSbHZyNDdEdkt5QkFaWQ?oc=5\" target=\"_blank\">Why Is Sandisk Stock Falling on Wednesday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock declined on an unspecified Wednesday. Without details on the cause (earnings, guidance, competitive news, pricing pressure, or broader market moves), this appears to be a routine price-movement report rather than a material catalyst. Marked as minor mention pending more context on the driver."
+  },
+  "buffered_ts": 1784734681.529334
  }
 ]
