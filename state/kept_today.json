@@ -1667,5 +1667,293 @@
    "summary": "Memory stocks and semiconductor index rising ahead of tech earnings; broad market sentiment indicator with no specific concrete catalyst or holding-level news disclosed."
   },
   "buffered_ts": 1784676476.3627439
+ },
+ {
+  "id": "aa7aa97fd5f711ffa53cb16584fdf8c525a4c67a",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix, Micron Halt In-House CXL Controller Development, Reshaping Industry Supply Chain - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HakV1RDhzM0dxVUpPUEN4WVU5bFJFcVk2Ykh5Wk91U2RUV1l3eU16YnpRcHhORmlUcXFTaTNtNTFJT2dhUV9uV0pobV8wRlI3dzFkU3ZoalVybnc3WU4welUtVkVnZmQtRWR0R3lkd0l0N1RjeVE?oc=5",
+  "published_at": "Tue, 21 Jul 2026 18:05:00 GMT",
+  "published_ts": 1784657100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1HakV1RDhzM0dxVUpPUEN4WVU5bFJFcVk2Ykh5Wk91U2RUV1l3eU16YnpRcHhORmlUcXFTaTNtNTFJT2dhUV9uV0pobV8wRlI3dzFkU3ZoalVybnc3WU4welUtVkVnZmQtRWR0R3lkd0l0N1RjeVE?oc=5\" target=\"_blank\">Samsung, SK Hynix, Micron Halt In-House CXL Controller Development, Reshaping Industry Supply Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung, SK Hynix, and Micron have halted in-house CXL (Compute Express Link) controller development, a concrete strategic shift affecting memory-semiconductor supply chain architecture and competitive positioning among three major DRAM holdings."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "bfbcecabecc9481fae6b6caafcbffdc1cf737938",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Exclusive: SK hynix in talks to buy Intel's Ohio chip campus for U.S. memory production - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXZPcDNTU1VZUUJWa0tNMnhvVkRhU3lFRzJZbW4zMnFnOU5hUUt0a2dxQ2Y0SWRTTlVybmhIWWp5ekJnQ3hPVmkwa0RBQ3RoWHVGVC1nbVFfbkxBcTFJWTB4dmpFQlF4ZmJUVGVJWmtTbjhOZTJtOTdJT3ZNbnBteFY4R0Fhci1LTjh5ZndfaTA5d0RJZW1QOXZ1Z1dWZTBhd0Mw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+  "published_ts": 1784617200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXZPcDNTU1VZUUJWa0tNMnhvVkRhU3lFRzJZbW4zMnFnOU5hUUt0a2dxQ2Y0SWRTTlVybmhIWWp5ekJnQ3hPVmkwa0RBQ3RoWHVGVC1nbVFfbkxBcTFJWTB4dmpFQlF4ZmJUVGVJWmtTbjhOZTJtOTdJT3ZNbnBteFY4R0Fhci1LTjh5ZndfaTA5d0RJZW1QOXZ1Z1dWZTBhd0Mw?oc=5\" target=\"_blank\">Exclusive: SK hynix in talks to buy Intel's Ohio chip campus for U.S. memory production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix, a major DRAM ETF holding, is in exclusive talks to acquire Intel's Ohio chip campus for U.S.-based memory production. This is a concrete, officially announced development that represents a material capacity and geographic expansion decision for a fund holding, with direct implications for future memory production and supply dynamics."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "4691f1f29b29b2db18c989e20c4d319082c182f0",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "Semiconductors Trigger Short Squeeze: Kospi Surges Nearly 6%, Kioxia and SK Hynix Jump 9%, SoftBank and Samsung Rally Together - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQemwxM1FURDlfMGMwakt2d09FRWh2RTdHOFByMzBIMmh6RVI4d0FOM0pHMlgwc0szc1FrWmhsY1QtZ0oxVFlpVnhZQlhjWll1bEZ6U0pTMVdNRUpyQ29ITDRoTDlSaUNQMEx1NWNMZktaeTg0OU9vYm5YRU9sMG1wRlNYUjYwc3ItLTVWem9malcySUNxZFpXVjRLSnNVcFlOc3FTbVIzamRMWWoySk00bnVOcW54a2hkbFdnXzVJWmw1SFlDS0dz?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:45:06 GMT",
+  "published_ts": 1784681106,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQemwxM1FURDlfMGMwakt2d09FRWh2RTdHOFByMzBIMmh6RVI4d0FOM0pHMlgwc0szc1FrWmhsY1QtZ0oxVFlpVnhZQlhjWll1bEZ6U0pTMVdNRUpyQ29ITDRoTDlSaUNQMEx1NWNMZktaeTg0OU9vYm5YRU9sMG1wRlNYUjYwc3ItLTVWem9malcySUNxZFpXVjRLSnNVcFlOc3FTbVIzamRMWWoySk00bnVOcW54a2hkbFdnXzVJWmw1SFlDS0dz?oc=5\" target=\"_blank\">Semiconductors Trigger Short Squeeze: Kospi Surges Nearly 6%, Kioxia and SK Hynix Jump 9%, SoftBank and Samsung Rally Together</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung memory stocks surged 9% amid broader semiconductor short squeeze and Kospi rally. Stock price movement is reported without a stated fundamental catalyst distinct from market positioning."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "a899dd09ee7bf19230a6de71de3a92cfd0a67c70",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "SK Hynix’s Transatlantic Gambit: An Intel Plant in Ohio and a Battle for HBM4 Primacy - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT1lDR19vOVNvQ1FsUXdpTUtQWFRLcENzMUliQjVDcTFUUS1FUmJ6eDBhRE1MSHg2TmU2bFJ3QjczRzlhT1UxNDM5MjVuZWx5cE5nbkRCZHplRGxZV3BVZ3pUbkRyZ2FZX0Q0SHY4TWo4WlNoUG5ockM1clFwWm5kamZwT19uSzV0ZFdoNURFdVNtRkFtZFJfN1k0X2FuMXhOeS1uWUNZUTNQRXFqUlo1S25ZdVl3WFN4eFJBRlc0UjlYOHgtX2xIR2h3?oc=5",
+  "published_at": "Tue, 21 Jul 2026 17:04:58 GMT",
+  "published_ts": 1784653498,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQT1lDR19vOVNvQ1FsUXdpTUtQWFRLcENzMUliQjVDcTFUUS1FUmJ6eDBhRE1MSHg2TmU2bFJ3QjczRzlhT1UxNDM5MjVuZWx5cE5nbkRCZHplRGxZV3BVZ3pUbkRyZ2FZX0Q0SHY4TWo4WlNoUG5ockM1clFwWm5kamZwT19uSzV0ZFdoNURFdVNtRkFtZFJfN1k0X2FuMXhOeS1uWUNZUTNQRXFqUlo1S25ZdVl3WFN4eFJBRlc0UjlYOHgtX2xIR2h3?oc=5\" target=\"_blank\">SK Hynix’s Transatlantic Gambit: An Intel Plant in Ohio and a Battle for HBM4 Primacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix pursuing acquisition or partnership involving Intel's Ohio plant as part of HBM4 strategy. Story discusses competitive positioning in high-bandwidth memory but appears to be analysis/speculation rather than confirmed announcement of a signed deal or official capacity decision."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "4d2db1c0acde4f28fc0b83e47815b98b815c071a",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "KB Securities says AI efficiency spurs HBM demand, boosts SK hynix outlook - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hLN01BUjJJMmIwR0xYY2pOVHA4cllHVklBTFA4VF92Sm13Y0QwSVo3RGZlUnZmbWwxWjhZSFp6ck5PTU9SeldCdEhUTmZBbFo2ZTI5ZzVDZ3RnRHdsWHRDTTZPMll3aHdwZWVpcmFDcXlTTXpNbjVsanU5YnJpOdIBlAFBVV95cUxNRkhKOXl1V0JxVkg3Y2tETUhFLXdZbXJfOUgtYmUyUkFhVFI4S0hiRmpMSXp1RkNQN2FXY1pfMzI2aFE3RGg5bGhDbVBRV3FGSkR2SnZkOG42VUNUcnpZN1gwQlRXZHVsSHIyQUxIbkdKWGpIUjQxWUpTbGFockluSno5NEZFVG9wV0oyMG5WdjFsMlBw?oc=5",
+  "published_at": "Tue, 21 Jul 2026 23:25:00 GMT",
+  "published_ts": 1784676300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hLN01BUjJJMmIwR0xYY2pOVHA4cllHVklBTFA4VF92Sm13Y0QwSVo3RGZlUnZmbWwxWjhZSFp6ck5PTU9SeldCdEhUTmZBbFo2ZTI5ZzVDZ3RnRHdsWHRDTTZPMll3aHdwZWVpcmFDcXlTTXpNbjVsanU5YnJpOdIBlAFBVV95cUxNRkhKOXl1V0JxVkg3Y2tETUhFLXdZbXJfOUgtYmUyUkFhVFI4S0hiRmpMSXp1RkNQN2FXY1pfMzI2aFE3RGg5bGhDbVBRV3FGSkR2SnZkOG42VUNUcnpZN1gwQlRXZHVsSHIyQUxIbkdKWGpIUjQxWUpTbGFockluSno5NEZFVG9wV0oyMG5WdjFsMlBw?oc=5\" target=\"_blank\">KB Securities says AI efficiency spurs HBM demand, boosts SK hynix outlook - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "KB Securities analyst report argues that AI efficiency improvements will drive HBM (high-bandwidth memory) demand and boost SK hynix's outlook. This is analyst commentary and forecast rather than a concrete event or confirmed demand/pricing change, making it opinion-based analysis despite the bullish thesis for a fund holding."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "9927c5e592478e80da33c2210ea6a36f0e8b1a9a",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "SK hynix jumps as ADR surge and US AI chip rally lift sentiment - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0JSWVVnVkpqNXRxMmczVnlvNkdQckZBb2NMOElTdDJ3ZHFMWjFGcGN5SjY0XzlBV1ZUT2VMaHI4NlJQX1FJVk01YV9BcjAyLUpkTlFWWW9mYV9wVEpseGhneXJZN3VSNWdzMXVPZmJpMm5fdVBYUEh1R0RvbFBQa9IBlAFBVV95cUxOLUJuSmY5U0RSdU9IekVPcE10N3VXOG01MHhIU1R3dnNGQ2ltZHc3OWtxMVZpa292SmtPdm9JUzFoOW9VREdBZ014M2U4TS0yUXBwci0tdzZRTWZWQ3FXUHJuZUsydGtZMFUyTU1NUFZHWXd2RkZaZlBmQXhNOTBSYXpEVGM2d3MtQk5rZ2JDNDREN3p2?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:14:00 GMT",
+  "published_ts": 1784679240,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0JSWVVnVkpqNXRxMmczVnlvNkdQckZBb2NMOElTdDJ3ZHFMWjFGcGN5SjY0XzlBV1ZUT2VMaHI4NlJQX1FJVk01YV9BcjAyLUpkTlFWWW9mYV9wVEpseGhneXJZN3VSNWdzMXVPZmJpMm5fdVBYUEh1R0RvbFBQa9IBlAFBVV95cUxOLUJuSmY5U0RSdU9IekVPcE10N3VXOG01MHhIU1R3dnNGQ2ltZHc3OWtxMVZpa292SmtPdm9JUzFoOW9VREdBZ014M2U4TS0yUXBwci0tdzZRTWZWQ3FXUHJuZUsydGtZMFUyTU1NUFZHWXd2RkZaZlBmQXhNOTBSYXpEVGM2d3MtQk5rZ2JDNDREN3p2?oc=5\" target=\"_blank\">SK hynix jumps as ADR surge and US AI chip rally lift sentiment - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix stock rises amid broader US AI chip sentiment rally and ADR strength. The move reflects market sentiment on AI-driven memory demand but lacks a specific new catalyst or concrete event tied to SK hynix operations, earnings, or guidance."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "3952aeda8355ebf5cf2d3b62461b327a4c032227",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is SK Hynix (KOSE:A000660) Fully Priced After Its AI Memory Progress? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZraVZ6TXFJUXgzUG12QlFNMG9Fc0hXa1YxNW5pSXRMWWJQNFdVMzI1dTJjYmNYRlctajUwZ0czZkhXM3pVMnExZHd4NzgxU3JXbWRUbnJZWmhBZV9Db1BUSmdyVXdRRzRCc3J3WXF4WVR0bFRhNkRDVFlxT1lKOVY2eHlXSDJRN0FUYWd3R0pqN1NaX2ZuWTZybFFiQkFKbnMzMkptQWttY1dSSGFsRjE2Rk5DRWpjdkloUURwbERwTHZqcG5sRUs4TTZUQkdkTjRObFIyU3TSAd4BQVVfeXFMTnhxOTB4UnVBOWFGa2VmYk5uMTZfd1JFQ2k0bDNQRkpGNkYzYjl4RFlOQkp1WGZZWGx2a2p1Nm02N0ZjQkQ2WUV5SmxSSkRHZnppMDR5NFdRNVZpOWhySXFzVUc1enN3VVJnV0xBc0J3SW50MXdnWVcyaFZrdTJPMkFJMnlwOFNsZWh4SDFsVE41QWNUdFh3dmZXa21jdTBUQnhIbi1yanh5THlvRHdUamVyNy12ZTQ4NkR3b1JrczljNUlUMVNnQUZsQzNEUzBSSXkxZEQ4Qm8yQTJRa21n?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:34:58 GMT",
+  "published_ts": 1784680498,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZraVZ6TXFJUXgzUG12QlFNMG9Fc0hXa1YxNW5pSXRMWWJQNFdVMzI1dTJjYmNYRlctajUwZ0czZkhXM3pVMnExZHd4NzgxU3JXbWRUbnJZWmhBZV9Db1BUSmdyVXdRRzRCc3J3WXF4WVR0bFRhNkRDVFlxT1lKOVY2eHlXSDJRN0FUYWd3R0pqN1NaX2ZuWTZybFFiQkFKbnMzMkptQWttY1dSSGFsRjE2Rk5DRWpjdkloUURwbERwTHZqcG5sRUs4TTZUQkdkTjRObFIyU3TSAd4BQVVfeXFMTnhxOTB4UnVBOWFGa2VmYk5uMTZfd1JFQ2k0bDNQRkpGNkYzYjl4RFlOQkp1WGZZWGx2a2p1Nm02N0ZjQkQ2WUV5SmxSSkRHZnppMDR5NFdRNVZpOWhySXFzVUc1enN3VVJnV0xBc0J3SW50MXdnWVcyaFZrdTJPMkFJMnlwOFNsZWh4SDFsVE41QWNUdFh3dmZXa21jdTBUQnhIbi1yanh5THlvRHdUamVyNy12ZTQ4NkR3b1JrczljNUlUMVNnQUZsQzNEUzBSSXkxZEQ4Qm8yQTJRa21n?oc=5\" target=\"_blank\">Is SK Hynix (KOSE:A000660) Fully Priced After Its AI Memory Progress?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece from Simply Wall St assessing whether SK Hynix is fairly valued following its AI memory progress. This is opinion/valuation analysis rather than a concrete event or new information about the company's HBM capacity, production, or financials."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "996b73b904007124a3ea93f035728974eba38960",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Samsung, SK hynix surge and lift South Korea chip suppliers - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklNNTlBVlJrTU9VZjUzWm9adG94c0V5LVpxaUJ0V2JrM1NhYWZreWQ1TFVQczhfRHVCZFNKdkx5bFctN0RUYzdTandwTWNzY3cxNjY5QXhfZWU5NDZYYzlmX2ZIdnFOc1FNdjZDei1wVHFFcmNBcnRLNXltc2FietIBlAFBVV95cUxNQ3NOVDFDQVZ4ZXFsX1VoNGtrazk3MXNoOUhISi1Kakk4V00xNTFwQjNibUZ1M2lSc2RhRGc3aTBmeGJNMWtPQjAtTDM5NGJ1RmU2VkR5WEtSUkhMVUJhaHI0SzYtU3RIWjhzaWNqaTJ4LXJLNHA0ZG1JWHBLRXI3eUU0WUxIc1hzUHdDajRpdWNITW1u?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:38:00 GMT",
+  "published_ts": 1784680680,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklNNTlBVlJrTU9VZjUzWm9adG94c0V5LVpxaUJ0V2JrM1NhYWZreWQ1TFVQczhfRHVCZFNKdkx5bFctN0RUYzdTandwTWNzY3cxNjY5QXhfZWU5NDZYYzlmX2ZIdnFOc1FNdjZDei1wVHFFcmNBcnRLNXltc2FietIBlAFBVV95cUxNQ3NOVDFDQVZ4ZXFsX1VoNGtrazk3MXNoOUhISi1Kakk4V00xNTFwQjNibUZ1M2lSc2RhRGc3aTBmeGJNMWtPQjAtTDM5NGJ1RmU2VkR5WEtSUkhMVUJhaHI0SzYtU3RIWjhzaWNqaTJ4LXJLNHA0ZG1JWHBLRXI3eUU0WUxIc1hzUHdDajRpdWNITW1u?oc=5\" target=\"_blank\">Samsung, SK hynix surge and lift South Korea chip suppliers - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stock prices rose, lifting broader South Korean chip supplier sector. Stock price movement without a stated concrete catalyst tied to memory demand, capacity, pricing, or earnings; categorized as post-event market reaction or sentiment-driven reporting."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "55d8d7442d3d2f86913cc57801754ed5a6dc8539",
+  "source": "NewsBytes",
+  "topic": "industry",
+  "title": "Chey Tae-won warns AI memory chip shortage at Jeju Forum - NewsBytes",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGJSVTNTU1pwQUVpZ1pJUjMyUUh6cFBOc3FwaU4xd0E2TkhzQldXQm9LQWxiYzRMOUhfUFpkVklPWXhERndNZ3YyS2VEZDFOUkpHNl9wYUpfaHlBMVgzcjZJRmpaT1laTEhpZXZWVGRfM1JnRTh5VUdQaGJXU1ZKeU80Q2wyUUFlR0dNZmFNOF80MFBrMGtVcS1jZUljUHNXR01QTndwSQ?oc=5",
+  "published_at": "Mon, 20 Jul 2026 12:29:04 GMT",
+  "published_ts": 1784550544,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGJSVTNTU1pwQUVpZ1pJUjMyUUh6cFBOc3FwaU4xd0E2TkhzQldXQm9LQWxiYzRMOUhfUFpkVklPWXhERndNZ3YyS2VEZDFOUkpHNl9wYUpfaHlBMVgzcjZJRmpaT1laTEhpZXZWVGRfM1JnRTh5VUdQaGJXU1ZKeU80Q2wyUUFlR0dNZmFNOF80MFBrMGtVcS1jZUljUHNXR01QTndwSQ?oc=5\" target=\"_blank\">Chey Tae-won warns AI memory chip shortage at Jeju Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBytes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NewsBytes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix chairman Chey Tae-won warns of potential AI memory chip shortage at Jeju Forum. This reflects industry commentary on HBM/memory demand risks but lacks a concrete event or hard number; it is opinion/warning rather than a confirmed supply disruption or production decision."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "9101bd582ccb110d7e1c5adbb61805e9841e5c2a",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Asia-Pacific stocks rallied collectively, with South Korean shares extending gains to 6%, SK Hynix rising 7%, and Japanese equities climbing over 1%. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXEwU3hCM09LQmQydDlTOGp6QkpUX0pMMWhqckt5RmczN0d2T0x6cGQyaDNEbmVfU1ZaTXhoam1CZklOeUxsQlplVUptRGRUNnNET1k1cXNsS3hNbEJjSFFEYTZjM3paSUhpMVgycnNaMGNtWU5OTFF0NkRmR0V0U05PVjdYQkh2OXNLMkc3QVRWNk0xLUY1S1FpbVB1SVNpMFFRSzBjYmxLQVZPbDkwQ1B6cUxsQ1Fn?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:43:43 GMT",
+  "published_ts": 1784681023,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXEwU3hCM09LQmQydDlTOGp6QkpUX0pMMWhqckt5RmczN0d2T0x6cGQyaDNEbmVfU1ZaTXhoam1CZklOeUxsQlplVUptRGRUNnNET1k1cXNsS3hNbEJjSFFEYTZjM3paSUhpMVgycnNaMGNtWU5OTFF0NkRmR0V0U05PVjdYQkh2OXNLMkc3QVRWNk0xLUY1S1FpbVB1SVNpMFFRSzBjYmxLQVZPbDkwQ1B6cUxsQ1Fn?oc=5\" target=\"_blank\">Asia-Pacific stocks rallied collectively, with South Korean shares extending gains to 6%, SK Hynix rising 7%, and Japanese equities climbing over 1%.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock rose 7% as part of a broader Asia-Pacific market rally. The price move is reported without a distinct catalyst; it appears driven by general regional sentiment rather than company-specific or memory-market news."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "ecf81a250cede5531a4b85126920b16a2d3188b0",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Korea-Focused KORU ETF Dips On KOSPI Drag: Samsung, SK Hynix Extend Selloff Into US Big Tech Earnings Week - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtCdVd5QmUtVGltVFI4WTlFZi02NEF3X0FhNV9pdnI5UkJFbHRjMnVRM3RPUUdfanZkYnprNFhhRzNtVEFySk9mNi1YeGRlbXNVLWdsM2xLbEVmMXlzRDR3bUhGbE1YbmhYOUotWHh4UF9UTHBrN3U4YnFlUHlyel95Z0dzN2xnS1VjelNidTQ3RTltSVIyYmR1U0hwZDZx?oc=5",
+  "published_at": "Mon, 20 Jul 2026 05:26:00 GMT",
+  "published_ts": 1784525160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtCdVd5QmUtVGltVFI4WTlFZi02NEF3X0FhNV9pdnI5UkJFbHRjMnVRM3RPUUdfanZkYnprNFhhRzNtVEFySk9mNi1YeGRlbXNVLWdsM2xLbEVmMXlzRDR3bUhGbE1YbmhYOUotWHh4UF9UTHBrN3U4YnFlUHlyel95Z0dzN2xnS1VjelNidTQ3RTltSVIyYmR1U0hwZDZx?oc=5\" target=\"_blank\">Korea-Focused KORU ETF Dips On KOSPI Drag: Samsung, SK Hynix Extend Selloff Into US Big Tech Earnings Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stocks extending selloff amid KOSPI weakness during US tech earnings week. Passing mention of holdings in broader market context with no memory-specific catalyst or concrete news."
+  },
+  "buffered_ts": 1784681812.6376212
+ },
+ {
+  "id": "1a8acdd6a9c37396ddb9fe45abdee425b3250c70",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "US Stocks Stage Vengeful Rebound: Chip Stocks Surge, SanDisk Soars Over 14%, Gold Nears $4,100 - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMeHRJeXVsdmJVNHEyYktxY3h2b2s4eXBKWC1iWVJzVG5YSm1PR09jNVVaSE5zdUN0bHh0bzdNS2FCMDFOQS1fV1hzWXZTVEQxRUZoZ0w0eGROcXdXcDk4RTdySDIySGM5S014aWI1eGZwci1ObkE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:15:00 GMT",
+  "published_ts": 1784679300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBMeHRJeXVsdmJVNHEyYktxY3h2b2s4eXBKWC1iWVJzVG5YSm1PR09jNVVaSE5zdUN0bHh0bzdNS2FCMDFOQS1fV1hzWXZTVEQxRUZoZ0w0eGROcXdXcDk4RTdySDIySGM5S014aWI1eGZwci1ObkE?oc=5\" target=\"_blank\">US Stocks Stage Vengeful Rebound: Chip Stocks Surge, SanDisk Soars Over 14%, Gold Nears $4,100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk, a holding in the DRAM ETF, surged over 14% in a broader US stock market rebound driven by chip-sector strength. However, the story reports only the price move without identifying a distinct catalyst or new concrete development, making it a post-market digest rather than news of a material event."
+  },
+  "buffered_ts": 1784681812.6376212
  }
 ]
