@@ -1,1 +1,314 @@
-[]
+[
+ {
+  "id": "9d0d0d63f9fa93dfa051445c346487552d3c603b",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "SK Hynix Stock Falls After Memory Giant Denies Talks to Buy Intel Plant - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9paTNoVHFXWE9IVzZkTEppSk5WTklHbTJ5TGJudEtNdG5QTThYUmlJLWxIcUdBa0kxdkxHd0tkTm9iWFdaQTRmSXJ3Ykg3V1NoTmFzUnhVMjFZelpqTnI3Y3FsMkNXbFlmUjFUVGFRUmhCNlBhQlhMbnFQa1ZpOE0?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:12:00 GMT",
+  "published_ts": 1784722320,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9paTNoVHFXWE9IVzZkTEppSk5WTklHbTJ5TGJudEtNdG5QTThYUmlJLWxIcUdBa0kxdkxHd0tkTm9iWFdaQTRmSXJ3Ykg3V1NoTmFzUnhVMjFZelpqTnI3Y3FsMkNXbFlmUjFUVGFRUmhCNlBhQlhMbnFQa1ZpOE0?oc=5\" target=\"_blank\">SK Hynix Stock Falls After Memory Giant Denies Talks to Buy Intel Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix denied it is in talks to acquire Intel's fab plant. The denial itself is a concrete development affecting a key holding; the stock fell on the news, indicating market impact from a clarified (negative) outcome on a potential major capacity/strategic move."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "be21c7983ba5d4cd17624d82f985570c7400bb73",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "NAND Flash May See Relief in H2 2027, But Taiwan Industry Veteran Warns DRAM Shortage Could Last Another Decade - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vMm5DZUw2ODVsRzBGUm16dWU4LUlKeEhCNWIzQU5CZ2pnUWJuZU5oS1d6WTB0eEZhZHJTd1B0SVNVQVlNZmFsWnl5bjdfZnZCMGdDRkQ0Yk85TlY0UjlzbnZtTFVncC1ZenZmM21fWkFyVXpHRUE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 11:55:00 GMT",
+  "published_ts": 1784721300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9vMm5DZUw2ODVsRzBGUm16dWU4LUlKeEhCNWIzQU5CZ2pnUWJuZU5oS1d6WTB0eEZhZHJTd1B0SVNVQVlNZmFsWnl5bjdfZnZCMGdDRkQ0Yk85TlY0UjlzbnZtTFVncC1ZenZmM21fWkFyVXpHRUE?oc=5\" target=\"_blank\">NAND Flash May See Relief in H2 2027, But Taiwan Industry Veteran Warns DRAM Shortage Could Last Another Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Taiwan industry veteran warns DRAM shortage could persist for another decade, while NAND flash may see relief in H2 2027. This is analyst/expert opinion on long-term supply dynamics rather than a concrete event, making it relevant to the memory cycle but speculative in nature."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "ed0f5b9781f664e90229483d10173384e8153d72",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "S&P Upgrades Samsung Electronics' Rating Outlook to 'Positive' — \"Biggest Beneficiary of Memory Supercycle\" - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRVlKNEdyUDBwdTduVU5XTG9DWHdudDBWR0F2ZnNQZWsxWHdWSzhMS2tqZUdZcEVpTGk2Q2plTHk5OUVZdzJGRnllYTV1eUZfc21rUGJJMnVCR1lIN21oWGVpWmx2V0J2NDhGQ3VsYlZHX1FKbFE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 01:05:00 GMT",
+  "published_ts": 1784682300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRVlKNEdyUDBwdTduVU5XTG9DWHdudDBWR0F2ZnNQZWsxWHdWSzhMS2tqZUdZcEVpTGk2Q2plTHk5OUVZdzJGRnllYTV1eUZfc21rUGJJMnVCR1lIN21oWGVpWmx2V0J2NDhGQ3VsYlZHX1FKbFE?oc=5\" target=\"_blank\">S&amp;P Upgrades Samsung Electronics' Rating Outlook to 'Positive' — \"Biggest Beneficiary of Memory Supercycle\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "S&P upgraded Samsung Electronics' rating outlook to positive, citing it as a major beneficiary of the memory supercycle. This is analyst commentary on Samsung's positioning in the memory market, not a new concrete event or material development that changes the investment thesis, making it a relevant but soft signal."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "81afca5f1bea05d3bc7591195a7c00c7c4672eb0",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Wells Fargo Adjusts Price Target on Sandisk to $1,620 From $1,250, Maintains Equalweight Rating - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWtUZjhNa3lYeU9ZWFkwMkdZelJkN3lPWlcyYWNFWVJfa0N2RDc5V0dCaUlLVUtlQ2lER3poNEU5NUNJVGhZR3dzaGQ1NUVrdTlRTU9WN2NqblJiNjNsOFZNcDJqUFBmQmVwczFMWXI2d3Zuck9uZkp1aVlndktyV1ZSc09LcnhGemtvWXVudmVyZlZRUUdDSVpCVjFIQWxKZFNNbjdwQS1xUnRpSmIxems0RDlaXy1jOFRUT0tIOWM4dHlzWHFNRjhsYTk2Zl9HVm9TQzVLWnd0OUhlX2c?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:56:19 GMT",
+  "published_ts": 1784724979,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWtUZjhNa3lYeU9ZWFkwMkdZelJkN3lPWlcyYWNFWVJfa0N2RDc5V0dCaUlLVUtlQ2lER3poNEU5NUNJVGhZR3dzaGQ1NUVrdTlRTU9WN2NqblJiNjNsOFZNcDJqUFBmQmVwczFMWXI2d3Zuck9uZkp1aVlndktyV1ZSc09LcnhGemtvWXVudmVyZlZRUUdDSVpCVjFIQWxKZFNNbjdwQS1xUnRpSmIxems0RDlaXy1jOFRUT0tIOWM4dHlzWHFNRjhsYTk2Zl9HVm9TQzVLWnd0OUhlX2c?oc=5\" target=\"_blank\">Wells Fargo Adjusts Price Target on Sandisk to $1,620 From $1,250, Maintains Equalweight Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wells Fargo raised its price target on SanDisk (a DRAM fund holding) by ~30% to $1,620 from $1,250, though maintained an Equalweight rating. This is an analyst price-target adjustment reflecting the analyst's view of the stock but does not represent a concrete market event or new information beyond analyst opinion."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "c98ae2d26c40a0fb409649aa6f7b92e49b4f5b12",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Here are Wednesday's biggest analyst calls: CoreWeave, Sandisk, Affirm, Disney, Shopify, Nebius & more - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU9hNXQwTVF1SnZtRE1heG1BYnp5SC03bVhNdkx2YTJXektGN3Z3S3JFN1kzQ291SGVHNFlBLVdjc3VWeFRJUUN1UlBqWTFpT1lWdjJ6LUQ5ZHZuM1dJYThVbjJpMEpraTFXSE9GOHBJTEtfTjUzaFYzZng1dmg4YS14WDF2YnRtUFc2dzYtZmdmSURFRGl4RXd4ak5iaUpNdXVHcTZTVzNEdw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:44:53 GMT",
+  "published_ts": 1784724293,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU9hNXQwTVF1SnZtRE1heG1BYnp5SC03bVhNdkx2YTJXektGN3Z3S3JFN1kzQ291SGVHNFlBLVdjc3VWeFRJUUN1UlBqWTFpT1lWdjJ6LUQ5ZHZuM1dJYThVbjJpMEpraTFXSE9GOHBJTEtfTjUzaFYzZng1dmg4YS14WDF2YnRtUFc2dzYtZmdmSURFRGl4RXd4ak5iaUpNdXVHcTZTVzNEdw?oc=5\" target=\"_blank\">Here are Wednesday's biggest analyst calls: CoreWeave, Sandisk, Affirm, Disney, Shopify, Nebius & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "CNBC roundup of analyst calls including SanDisk (a DRAM ETF holding). Without specific details on the SanDisk call content, pricing action, or guidance changes, this is a soft mention of analyst activity rather than a concrete development."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "00d4f2511bccc837e1da8d6c7909fe5c565c8711",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "Samsung Keeps Galaxy Z8 Price Hikes Minimal Despite 8-Fold Memory Cost Surge - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZV93dHdtbzRYeU0wcjMzblhxWXI3ZDZSYnZjMHpSb3gwWUlCR0I1ZEVNMlBGN3c5N3NScUViUU9MLVE3V3JTWFFDNUZCZjI1cVJuVDZCejBUSjRhZFJyUTRkZGltWTJUT1JnVTkwNnptTWs4eW9XZENlcDQyMGVTeTltMlRhMFZFMzZabjNQSXp4Z0pZNktqVUtMLVdsTHZoTUE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 13:12:24 GMT",
+  "published_ts": 1784725944,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZV93dHdtbzRYeU0wcjMzblhxWXI3ZDZSYnZjMHpSb3gwWUlCR0I1ZEVNMlBGN3c5N3NScUViUU9MLVE3V3JTWFFDNUZCZjI1cVJuVDZCejBUSjRhZFJyUTRkZGltWTJUT1JnVTkwNnptTWs4eW9XZENlcDQyMGVTeTltMlRhMFZFMzZabjNQSXp4Z0pZNktqVUtMLVdsTHZoTUE?oc=5\" target=\"_blank\">Samsung Keeps Galaxy Z8 Price Hikes Minimal Despite 8-Fold Memory Cost Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung absorbs significant memory cost increases (8-fold surge) while minimizing consumer price hikes on Galaxy Z8 foldables, indicating margin compression in consumer device segment but demonstrating Samsung's pricing power and cost absorption strategy during memory cost volatility."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "05d9eb2f7f42cd1f460fee995b68598b2462fd5e",
+  "source": "Ad-hoc-news.de",
+  "topic": "holding",
+  "title": "Micron Technology stock trades higher as AI memory demand supports guidance - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU5XdGhtTHpFQ3lxemdBUndEOC0zWkE5ZERoUVk4Xy1Ybk5yLW5YTXJTRmFMRkhDQTF4OFZKMmVWX20xZnd3TXYxNVlfTDFBSVJ2V01jWlJNOWZmUzlORHI2SGRsb0hjeXpIZnoyOGlSeWVMVEZTN3Z1ek5CTFIxNWR6eWZlblQ4NHZFMG5UZjJLc1JTWktXdDBCbG5NSkx4X0xPSzFGMEcyVzlZdVhGVmp0dENScGJkM180VlNVSFBMME0?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:18:44 GMT",
+  "published_ts": 1784701124,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU5XdGhtTHpFQ3lxemdBUndEOC0zWkE5ZERoUVk4Xy1Ybk5yLW5YTXJTRmFMRkhDQTF4OFZKMmVWX20xZnd3TXYxNVlfTDFBSVJ2V01jWlJNOWZmUzlORHI2SGRsb0hjeXpIZnoyOGlSeWVMVEZTN3Z1ek5CTFIxNWR6eWZlblQ4NHZFMG5UZjJLc1JTWktXdDBCbG5NSkx4X0xPSzFGMEcyVzlZdVhGVmp0dENScGJkM180VlNVSFBMME0?oc=5\" target=\"_blank\">Micron Technology stock trades higher as AI memory demand supports guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock rises on AI memory demand supporting guidance. This is a post-earnings price move driven by already-reported results and guidance, not a new concrete development or surprise announcement."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "9a5492926d1acdecc4b4c35fa71bf04009d4124b",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Foreign Investors Scoop Up Samsung, SK Hynix as Shares Slump Up to 40% - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pR1BsZUdqbHRRZXl2WThWSnEtSEZJVThVdXV3cUdjSW1KcGF1OFBYWEpaaW1SZWY1aGZldVFFV1VGTkd2emtEVmRpdDlaN3o5Nkx0bQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 13:29:47 GMT",
+  "published_ts": 1784726987,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pR1BsZUdqbHRRZXl2WThWSnEtSEZJVThVdXV3cUdjSW1KcGF1OFBYWEpaaW1SZWY1aGZldVFFV1VGTkd2emtEVmRpdDlaN3o5Nkx0bQ?oc=5\" target=\"_blank\">Foreign Investors Scoop Up Samsung, SK Hynix as Shares Slump Up to 40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Foreign investors are buying Samsung and SK hynix shares following a significant stock decline of up to 40%. This reflects market sentiment and valuation changes for two major DRAM ETF holdings, but the headline reports investor positioning and price moves rather than a concrete operational or demand catalyst. Without clarity on the underlying driver, this is relevant but soft sentiment/positioning news rather than a market-moving event."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "047483034baa1123930be238b6499f868bd29525",
+  "source": "KELO-AM",
+  "topic": "holding",
+  "title": "Samsung unveils wider foldable phone, hikes prices as chip costs rise - KELO-AM",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk5XYXpQd2JQMVQ2Q2hYaldrMVhYWnZRcVRZTVpBT296VHA4YTE1OTY2endaVzhxWkJPRnlJTThyNWRrTGQtTXFsNGZaWWJrTkZVR2Q3cFBUYUE5VU1FcXdBalZIeDk0d3VBczkzMlBnTjBLTWxHR2dreGdkODI2N05jaW10UGEySmhEZ3pIamluZ0MxX1VXb1FsOWtUUQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 13:30:15 GMT",
+  "published_ts": 1784727015,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYk5XYXpQd2JQMVQ2Q2hYaldrMVhYWnZRcVRZTVpBT296VHA4YTE1OTY2endaVzhxWkJPRnlJTThyNWRrTGQtTXFsNGZaWWJrTkZVR2Q3cFBUYUE5VU1FcXdBalZIeDk0d3VBczkzMlBnTjBLTWxHR2dreGdkODI2N05jaW10UGEySmhEZ3pIamluZ0MxX1VXb1FsOWtUUQ?oc=5\" target=\"_blank\">Samsung unveils wider foldable phone, hikes prices as chip costs rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KELO-AM</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KELO-AM"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung raises foldable phone prices citing higher chip costs. While Samsung is a DRAM ETF holding via its memory/semiconductor operations, this is primarily a consumer-device pricing announcement tied to general chip-cost pressures rather than a concrete event affecting memory supply, demand, or pricing dynamics. The price hike reflects input costs but does not constitute new information about memory capacity, production, or memory-specific pricing."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "8bb9656faebb4e6643591c6e70efac780146123a",
+  "source": "SamMobile",
+  "topic": "holding",
+  "title": "Samsung's DRAM dominance looks safe despite CXMT's expansion plans - SamMobile",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkRYQUx6X1hiRF9mZWs3ZE5lNU1OTmdNenMySlJzT3hjYklxN1lIQjZsRi1UeENmMUtkbDRCd0R1cGk1c2dRalp5U2JXNlZhalowbUZQOUZCVHdneTlSYVZHNHJpLUhxN1F4LV9uX0JJR2p3M0wyR2lJanNDc29maHhsVGJIeVJnaVk0RUp6elMydw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:15:00 GMT",
+  "published_ts": 1784722500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkRYQUx6X1hiRF9mZWs3ZE5lNU1OTmdNenMySlJzT3hjYklxN1lIQjZsRi1UeENmMUtkbDRCd0R1cGk1c2dRalp5U2JXNlZhalowbUZQOUZCVHdneTlSYVZHNHJpLUhxN1F4LV9uX0JJR2p3M0wyR2lJanNDc29maHhsVGJIeVJnaVk0RUp6elMydw?oc=5\" target=\"_blank\">Samsung's DRAM dominance looks safe despite CXMT's expansion plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SamMobile</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "SamMobile"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis suggesting Samsung's DRAM market position remains secure despite competitor CXMT's capacity expansion plans. This is opinion/analysis rather than a confirmed event or hard data on market share shifts, pricing pressure, or Samsung's own strategic moves."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "b3b6382fe2f54f9f39ac27e19bf01434cacd9eec",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Samsung revamps foldable branding amid rising memory costs - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXVmQWxFTW9Xdlp1bDl1MHlsSFl4UXNiQVdQX3Y0WXlQSDJ0V3cyeWVnNG9jLW9SdUlOa2RYRkJlNFBUQ3ZCLTNjV05KWXNqbC1BSU1ibjk1eEdidmRkNWdHVmN4UVlzOEdPM3JrV3g5WkpQdFJ3SnJIdU9ydmgwU1IyaHpBSzdYQm1qNmMtdFR2ckRZSDVGY1M4N180bmpvQ2QwM19xcDB5WDJUQl9kRU44czQ2VklISmfSAb8BQVVfeXFMTlhSNlVWandmQjV0aXV5a3VtOUs3QjFfQXhzNk1mQjU2UDl1UDlGMHdDcG5SbVItT2pfa3hOWFVjRF8zNlQyX1N0YUxZZEVNdjdYaUIxak53VS00MkphSFlEckppQUx5S2JZN0h3aGVyazdyamc5VVowenRUX0t3N1F1S3g2a3pYMl9fMjlWZGlKRWFtWXVFSlFZaDJYaGR4NkpHVnZBLTJnclpTTDh6Rk9TVm1SLWwxNzRmVE1NdlE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 13:01:06 GMT",
+  "published_ts": 1784725266,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXVmQWxFTW9Xdlp1bDl1MHlsSFl4UXNiQVdQX3Y0WXlQSDJ0V3cyeWVnNG9jLW9SdUlOa2RYRkJlNFBUQ3ZCLTNjV05KWXNqbC1BSU1ibjk1eEdidmRkNWdHVmN4UVlzOEdPM3JrV3g5WkpQdFJ3SnJIdU9ydmgwU1IyaHpBSzdYQm1qNmMtdFR2ckRZSDVGY1M4N180bmpvQ2QwM19xcDB5WDJUQl9kRU44czQ2VklISmfSAb8BQVVfeXFMTlhSNlVWandmQjV0aXV5a3VtOUs3QjFfQXhzNk1mQjU2UDl1UDlGMHdDcG5SbVItT2pfa3hOWFVjRF8zNlQyX1N0YUxZZEVNdjdYaUIxak53VS00MkphSFlEckppQUx5S2JZN0h3aGVyazdyamc5VVowenRUX0t3N1F1S3g2a3pYMl9fMjlWZGlKRWFtWXVFSlFZaDJYaGR4NkpHVnZBLTJnclpTTDh6Rk9TVm1SLWwxNzRmVE1NdlE?oc=5\" target=\"_blank\">Samsung revamps foldable branding amid rising memory costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is revamping its foldable branding strategy in response to rising memory costs. This indicates memory cost pressures affecting Samsung's product strategy and profitability, which is relevant to the fund's holding but lacks concrete new pricing or capacity data."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "127461aee2faab5a3b750f0f3ef28237cecc2eaa",
+  "source": "Electronics360",
+  "topic": "industry",
+  "title": "NAND flash chip shortage may get relief in 2027 - Electronics360",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2p4ZWN0NF9PTDRjMkVmekpIdTdIb1V6NzFjOHdqbzItOE5tQVR4REVtbTZGUmExbmpXbUJjb052Z0FMakRyR1kzU0VfX2wxVXV2b0ZFeVRIMzN2WXNxTmI3ZmRpV2NSNDQ5MnZSYWhLOWdjNjl1dHdrRUstY2c4RmdRT1dSc2xaS1hnaEZmNFFaV2dhR3NZaFExQXVZRUtX?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:48:22 GMT",
+  "published_ts": 1784724502,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2p4ZWN0NF9PTDRjMkVmekpIdTdIb1V6NzFjOHdqbzItOE5tQVR4REVtbTZGUmExbmpXbUJjb052Z0FMakRyR1kzU0VfX2wxVXV2b0ZFeVRIMzN2WXNxTmI3ZmRpV2NSNDQ5MnZSYWhLOWdjNjl1dHdrRUstY2c4RmdRT1dSc2xaS1hnaEZmNFFaV2dhR3NZaFExQXVZRUtX?oc=5\" target=\"_blank\">NAND flash chip shortage may get relief in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics360</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Electronics360"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis suggesting NAND flash chip shortage may ease in 2027, indicating potential future supply normalization. Relevant to fund holdings like Micron and Western Digital but represents forward-looking commentary rather than a concrete event or hard capacity decision."
+  },
+  "buffered_ts": 1784727839.7960994
+ },
+ {
+  "id": "a7c3dd1dcc4b85e734e52906bdfc424924788f06",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "SK Hynix Denies Report on Intel Ohio Fab - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGZ3Ti1sVU8xWDZEUnNfLW84aFZyQVZNY0prbFd6WjFncmtYTDNTNzVCNHg1MkFsc3VWMDFnMlZyanliN09nZzFHcUp4QUV3SVRVZnEtcll4ZkNvTlphSTgzQ2hVZHpYd1NWNnk1RkFjNF84MlRESWlSalpCSEl3TjJyR3pKQQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 12:09:14 GMT",
+  "published_ts": 1784722154,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGZ3Ti1sVU8xWDZEUnNfLW84aFZyQVZNY0prbFd6WjFncmtYTDNTNzVCNHg1MkFsc3VWMDFnMlZyanliN09nZzFHcUp4QUV3SVRVZnEtcll4ZkNvTlphSTgzQ2hVZHpYd1NWNnk1RkFjNF84MlRESWlSalpCSEl3TjJyR3pKQQ?oc=5\" target=\"_blank\">SK Hynix Denies Report on Intel Ohio Fab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denies reports about involvement in Intel's Ohio fabrication facility. A denial of a rumored partnership or investment is relevant to a major holding but lacks concrete new information—it is a response to speculation rather than a confirmed development."
+  },
+  "buffered_ts": 1784727839.7960994
+ }
+]
