@@ -3086,5 +3086,229 @@
    "summary": "SK Hynix stock price movement query without substantive details on cause or magnitude; likely a generic price-watch article rather than material news on the company or memory markets."
   },
   "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "0605837791c97137f88b80fc761e9acbb3029c6b",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "Sk Hynix Inc. Approves Additional Investment for Construction of Advanced Packaging Plant P&T7 in Cheongju - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQczRMLU12VWk2UTk1YU4wNS1yc0FpT3ZzNUFEUV9ySTVmOWU5dFBXWDFhU0FXbWotSmdfLVhtZ1QwNFJFeldiMkFpOUE1MlFaa0MtWkRlcHRDeU5HQUdFOHhBQ3VlVjIwQlBoMjBQYWlpM1RVRlRYMlYzZ2VwSlVYZlZYRDl0a3pOMWx5UWJBOWVsMWZqY3F6SUVqMjZKVHdndVlWZkw4cGNCSHVSVHBWdUxmR3BvQndra2g3X2prNEZ2RW9PMFRpUXRaWGlWeXM2MlFJMV9zQTVZajhxUG9JZS1ON2hWYjA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 11:06:17 GMT",
+  "published_ts": 1784718377,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQczRMLU12VWk2UTk1YU4wNS1yc0FpT3ZzNUFEUV9ySTVmOWU5dFBXWDFhU0FXbWotSmdfLVhtZ1QwNFJFeldiMkFpOUE1MlFaa0MtWkRlcHRDeU5HQUdFOHhBQ3VlVjIwQlBoMjBQYWlpM1RVRlRYMlYzZ2VwSlVYZlZYRDl0a3pOMWx5UWJBOWVsMWZqY3F6SUVqMjZKVHdndVlWZkw4cGNCSHVSVHBWdUxmR3BvQndra2g3X2prNEZ2RW9PMFRpUXRaWGlWeXM2MlFJMV9zQTVZajhxUG9JZS1ON2hWYjA?oc=5\" target=\"_blank\">Sk Hynix Inc. Approves Additional Investment for Construction of Advanced Packaging Plant P&amp;T7 in Cheongju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix approved additional investment for construction of advanced packaging plant P&T7 in Cheongju, a concrete capacity expansion decision for a major DRAM fund holding that signals commitment to HBM and advanced memory production."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "56710d781c90637ae8f31768e1d9d2aca1f1b119",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "SK hynix (SKHY) commits ₩7.09T to Cheongju AI memory plant - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWhrR1hDOHZkdUF3NFIweHFLYktWUlV2RGpJYTV1QmsyTXFxNWhvMTBCa056ZEh1eXpGSEl5UmxlcVlUd1hFaVB5T3R2NW1GdWpHdmVkbVVWdjFUcVpPZWxGd2NrRXRybTQ4VGlfNXBXbnZZckRmQ2xlTVlhSm9EYzhPYlctZGpIMk95RXRTcnJHQzBJaGxSU3Zid2VpTXpPNjdmenI1NlRQSElW?oc=5",
+  "published_at": "Wed, 22 Jul 2026 10:05:02 GMT",
+  "published_ts": 1784714702,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWhrR1hDOHZkdUF3NFIweHFLYktWUlV2RGpJYTV1QmsyTXFxNWhvMTBCa056ZEh1eXpGSEl5UmxlcVlUd1hFaVB5T3R2NW1GdWpHdmVkbVVWdjFUcVpPZWxGd2NrRXRybTQ4VGlfNXBXbnZZckRmQ2xlTVlhSm9EYzhPYlctZGpIMk95RXRTcnJHQzBJaGxSU3Zid2VpTXpPNjdmenI1NlRQSElW?oc=5\" target=\"_blank\">SK hynix (SKHY) commits ₩7.09T to Cheongju AI memory plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Stock Titan"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix announced a ₩7.09 trillion (approximately $5.3 billion USD) investment commitment in its Cheongju facility to expand AI memory production capacity. This is a concrete, officially announced capex decision by a fund holding that directly targets high-bandwidth memory and AI infrastructure demand, a key growth driver for the memory cycle."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "1ba224f1f7064e988f5be226ddb7033a00ed5ab8",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix-Intel Ohio Fab Talks Descend into Confusion as Korean Media Reports Negotiations, Both Companies Deny - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LR3FsaHZuTW5RUmUtX1ZfejBzRnJRNFJwV1NfcWpQNnU0RGpzLXBnMGxRaTNqNDc2a2ttZmYwUVdGOEg5VEp0RzlJUUJEQlVwYkxaenBiOHMzV2o2QWpSRXQxOEhPN2xDQW5YT2N2dnNNTDlsN0E?oc=5",
+  "published_at": "Wed, 22 Jul 2026 04:06:00 GMT",
+  "published_ts": 1784693160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LR3FsaHZuTW5RUmUtX1ZfejBzRnJRNFJwV1NfcWpQNnU0RGpzLXBnMGxRaTNqNDc2a2ttZmYwUVdGOEg5VEp0RzlJUUJEQlVwYkxaenBiOHMzV2o2QWpSRXQxOEhPN2xDQW5YT2N2dnNNTDlsN0E?oc=5\" target=\"_blank\">SK Hynix-Intel Ohio Fab Talks Descend into Confusion as Korean Media Reports Negotiations, Both Companies Deny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Intel reportedly in talks over Ohio fab partnership according to Korean media, but both companies have denied active negotiations. Unconfirmed reports of discussions around potential collaboration on semiconductor manufacturing capacity, but lack of official confirmation or concrete commitment limits impact."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "2969567e3af69463f823c1cb6eaca9ae02c04125",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "South Korea's HBM Duo Dominates but Lacks the 'Brain' — The Taiwan-Korea AI Golden Triangle Battle Begins - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBreHctdWt4UG5TMkRwNVI5NTduM01xZm5KaW12QXl1c29GZHBrVUFmTTQ3VHgycE9JV1E1NkJXV0J2MXN3NXc3T1JRZ0dVUDdpazRuSVZBbmpYcFY3cFNFN0d1MXhxcHVGeG1aYTluWkZKZGljVFE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 05:35:00 GMT",
+  "published_ts": 1784698500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBreHctdWt4UG5TMkRwNVI5NTduM01xZm5KaW12QXl1c29GZHBrVUFmTTQ3VHgycE9JV1E1NkJXV0J2MXN3NXc3T1JRZ0dVUDdpazRuSVZBbmpYcFY3cFNFN0d1MXhxcHVGeG1aYTluWkZKZGljVFE?oc=5\" target=\"_blank\">South Korea's HBM Duo Dominates but Lacks the 'Brain' — The Taiwan-Korea AI Golden Triangle Battle Begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis of South Korea's HBM dominance (SK hynix and Samsung) in high-bandwidth memory versus Taiwan's AI chip design leadership. Discusses competitive positioning in the AI infrastructure supply chain rather than reporting a concrete event or price move, making it relevant strategic commentary on industry dynamics affecting memory demand but lacking hard news."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "e71154aa26a68cbe2aacc212ac4bef9567b663f0",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Memory-Driven Smartphone Upheaval: Samsung Eyes Windfall as Chinese Rivals Retreat Amid Price Surge - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tMkd4UmVhZmlld29TZE1uLVE5dG81ZzFCbXVuRUlDbk9HTFcxSGwtU3doR3h0UGQweWdQMncxaVp4S2x1czZtOHRWbDdBMUQ2TzhrWm5KWmRtbTRnX1R4WlpMRE1USkxHY1BVNjhoWGdlQk1fNnc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 07:07:00 GMT",
+  "published_ts": 1784704020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8tMkd4UmVhZmlld29TZE1uLVE5dG81ZzFCbXVuRUlDbk9HTFcxSGwtU3doR3h0UGQweWdQMncxaVp4S2x1czZtOHRWbDdBMUQ2TzhrWm5KWmRtbTRnX1R4WlpMRE1USkxHY1BVNjhoWGdlQk1fNnc?oc=5\" target=\"_blank\">Memory-Driven Smartphone Upheaval: Samsung Eyes Windfall as Chinese Rivals Retreat Amid Price Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung potentially benefits from Chinese competitors exiting the smartphone memory market amid price increases. Describes market positioning and competitive dynamics rather than confirmed financial results or concrete transactions."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "115923224ac83ed887c23713976a00311e58c823",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "BofA Sees HBM Market Growing Sevenfold by 2030, Lifts Micron Target to $1,550 - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZHRRcVd1bUUzV0RYVlZzUVhlSDd4T3JkYk9rU044cXZheElONzhQb0pqMWtpRkNwQXA1akVEOExFZFluTXRMUi1aX3NnX3V2ZkRiSXdZRFIwUDBFRWtMZUZGSmY3VXc5Q2RLazRBdDhZRHlKY2c?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:05:00 GMT",
+  "published_ts": 1784700300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZHRRcVd1bUUzV0RYVlZzUVhlSDd4T3JkYk9rU044cXZheElONzhQb0pqMWtpRkNwQXA1akVEOExFZFluTXRMUi1aX3NnX3V2ZkRiSXdZRFIwUDBFRWtMZUZGSmY3VXc5Q2RLazRBdDhZRHlKY2c?oc=5\" target=\"_blank\">BofA Sees HBM Market Growing Sevenfold by 2030, Lifts Micron Target to $1,550</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "BofA analyst forecasts HBM market growth of 7x by 2030 and raises Micron price target to $1,550. HBM demand is a key driver for memory semiconductor holdings, but this is analyst opinion and a target price change rather than a concrete event or reported market development."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "974cb658a00cb6aa0e2340fa2c913ae7b906b723",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30 - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVExqSDR4VnhUaU9QY3pOVEdXcnFQQmFpU0dIZ1drZEVIUndETHJJMEp0RGI4MUEzNUF4Z21kUk4zMjRUbjdHTjVZSWhFOVBmY3k2Vk1fcV9GRHFvdnFla0M2eFFrYWw3OEMtTTd0NTJYOFRMLUNGcWp3eDlONFRjRjhoU09rV1FUQ2JiNVBFV0ZDQzBGcko2YQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 11:15:58 GMT",
+  "published_ts": 1784718958,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVExqSDR4VnhUaU9QY3pOVEdXcnFQQmFpU0dIZ1drZEVIUndETHJJMEp0RGI4MUEzNUF4Z21kUk4zMjRUbjdHTjVZSWhFOVBmY3k2Vk1fcV9GRHFvdnFla0M2eFFrYWw3OEMtTTd0NTJYOFRMLUNGcWp3eDlONFRjRjhoU09rV1FUQ2JiNVBFV0ZDQzBGcko2YQ?oc=5\" target=\"_blank\">Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance",
+    "AOL.com"
+   ],
+   "titles": [
+    "Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30 - Yahoo Finance",
+    "Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30 - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Motley Fool opinion piece predicting Micron and SanDisk stock declines following July 30 date; lacks concrete catalyst or confirmed event, representing analyst speculation rather than reported fact or material development."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "516a8d296ea93e7448191924d6fd0d0f9c4c0aca",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Market Chatter: SK Hynix Weighs Acquisition of Intel's Ohio Chip Campus - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGxVNUU4eGRpSElIVlpzdG5MX3Bxa21nSUl0ZVVwdS1oUXc2dmN1UU5obmgyQjQ4QVZHMzEtZFNvdlcwUFVZQjdoMnB3SE5MczQxNzJFX1JpRmZrTmpJekJBZG91Zi1xWmc3VHdzZ1BaQUlPN2FDQVgydXRiUExxeWJaci1tZGltUlpXeGZEUU9DNkFXTXoybXNtdjBQQm9ucUE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 11:19:19 GMT",
+  "published_ts": 1784719159,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGxVNUU4eGRpSElIVlpzdG5MX3Bxa21nSUl0ZVVwdS1oUXc2dmN1UU5obmgyQjQ4QVZHMzEtZFNvdlcwUFVZQjdoMnB3SE5MczQxNzJFX1JpRmZrTmpJekJBZG91Zi1xWmc3VHdzZ1BaQUlPN2FDQVgydXRiUExxeWJaci1tZGltUlpXeGZEUU9DNkFXTXoybXNtdjBQQm9ucUE?oc=5\" target=\"_blank\">Market Chatter: SK Hynix Weighs Acquisition of Intel's Ohio Chip Campus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly exploring a potential acquisition of Intel's Ohio chip campus. The story is framed as market speculation ('weighs', 'chatter') rather than a confirmed deal, making it opinion/possibility rather than a settled event. A completed acquisition would be material, but at the discussion or exploration stage it rates as relevant but soft analysis."
+  },
+  "buffered_ts": 1784720849.0201445
+ },
+ {
+  "id": "e3731cfa0db3dc9bd8fb99ac8c8b2d1843768bb2",
+  "source": "Stock Titan",
+  "topic": "holding",
+  "title": "SK hynix (SKHY) rejects report on Intel Ohio chip campus deal - Stock Titan",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGo1RnpkY0tyMTVna0lyTVRqZHVVV0VUVWxaN0FfY1hlTGlkV2FBVkFKQWpBYjFnZ3Q1cDEySDZJTG9YMXJ6NkRqRktibFFsWmFzV2hrNnN0TnVETnVFektqOEZqUkk1M1ExdEhWbWptdmxUa1paRVEtUXR3TnlSb3plNTYxZjRrV1pJRVNGeUpxem1GejFiMEM3WEROQk1weFpENXlmSmhaTnUw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 10:04:53 GMT",
+  "published_ts": 1784714693,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGo1RnpkY0tyMTVna0lyTVRqZHVVV0VUVWxaN0FfY1hlTGlkV2FBVkFKQWpBYjFnZ3Q1cDEySDZJTG9YMXJ6NkRqRktibFFsWmFzV2hrNnN0TnVETnVFektqOEZqUkk1M1ExdEhWbWptdmxUa1paRVEtUXR3TnlSb3plNTYxZjRrV1pJRVNGeUpxem1GejFiMEM3WEROQk1weFpENXlmSmhaTnUw?oc=5\" target=\"_blank\">SK hynix (SKHY) rejects report on Intel Ohio chip campus deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Stock Titan",
+    "Finimize"
+   ],
+   "titles": [
+    "SK Hynix Eyes Intel’s Ohio Chip Campus Deal - Finimize"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix denies report of involvement in Intel's Ohio chip campus deal. This is a clarification/denial of a rumored partnership, which is soft news—speculation that has been rejected rather than a confirmed development."
+  },
+  "buffered_ts": 1784720849.0201445
  }
 ]
