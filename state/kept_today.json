@@ -598,5 +598,197 @@
    "summary": "SanDisk stock declined on an unspecified Wednesday. Without details on the cause (earnings, guidance, competitive news, pricing pressure, or broader market moves), this appears to be a routine price-movement report rather than a material catalyst. Marked as minor mention pending more context on the driver."
   },
   "buffered_ts": 1784734681.529334
+ },
+ {
+  "id": "416404aba1c92270f867c218bc39ec616efd083c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Pares 4% Drop After Denying Talks to Buy Intel’s Ohio Fab as Market Shrugs Off Iran Jitters - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnRxQmxSUlh1OEJMOWRBZFU3MktMNXJFWTBVSm9YMWxDWUlPeEliZFFSVndDZmVMZ0NGanlsMzVYelVvTTVVWEtZVm02bGUtVmZQMFB5dHFpZ3JrVWU5TFFrbFd2ekhQcDFHNVlqcWlkVnNxZGRsdTN3bGVOVWZ4OTdLLWtYX1B1V1hrQ2tDWQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:32:50 GMT",
+  "published_ts": 1784730770,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnRxQmxSUlh1OEJMOWRBZFU3MktMNXJFWTBVSm9YMWxDWUlPeEliZFFSVndDZmVMZ0NGanlsMzVYelVvTTVVWEtZVm02bGUtVmZQMFB5dHFpZ3JrVWU5TFFrbFd2ekhQcDFHNVlqcWlkVnNxZGRsdTN3bGVOVWZ4OTdLLWtYX1B1V1hrQ2tDWQ?oc=5\" target=\"_blank\">SK Hynix Pares 4% Drop After Denying Talks to Buy Intel’s Ohio Fab as Market Shrugs Off Iran Jitters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denied talks to acquire Intel's Ohio fab; stock initially dropped 4% but recovered. Denial of potential fab acquisition is relevant to a major holding but the absence of a deal is not a concrete event; recovery suggests market has moved on from the rumor."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "efa27032b823b0754fc1ce78d68cf76a801ac06e",
+  "source": "PC Guide",
+  "topic": "pricing",
+  "title": "SSD prices may finally start to settle down next year as supply is expected to outpace demand - PC Guide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJ2OC1XbTBwbVFzNnZBS001bTRRY2dpSUhmd0UxU1JwWGU5dEZMRzNEMWFodHRmUWdzUXdSTnVaNXdmWUR6U0RwMjhqRnRIcG9RMU9PWnZjLS1vZW1RT3lGU25faDNCMWY4MEdoalgxQTlxU2RHa1ZvbHhpaHRjT0dUeDB0TnZlZXFuNzNjWXVrLWV4RDN2ZFJoVkotdzYxenVxVEFmVXRTWV9jT1BOcTF3cTh3cTdwNEZURGh4bWs?oc=5",
+  "published_at": "Wed, 22 Jul 2026 15:47:03 GMT",
+  "published_ts": 1784735223,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJ2OC1XbTBwbVFzNnZBS001bTRRY2dpSUhmd0UxU1JwWGU5dEZMRzNEMWFodHRmUWdzUXdSTnVaNXdmWUR6U0RwMjhqRnRIcG9RMU9PWnZjLS1vZW1RT3lGU25faDNCMWY4MEdoalgxQTlxU2RHa1ZvbHhpaHRjT0dUeDB0TnZlZXFuNzNjWXVrLWV4RDN2ZFJoVkotdzYxenVxVEFmVXRTWV9jT1BOcTF3cTh3cTdwNEZURGh4bWs?oc=5\" target=\"_blank\">SSD prices may finally start to settle down next year as supply is expected to outpace demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Guide</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "PC Guide"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis that SSD supply is expected to outpace demand next year, which may lead to price settlement. This is a forward-looking forecast rather than a confirmed event or hard pricing data, making it analytical/speculative rather than a concrete market development. Relevant to the memory/storage pricing cycle that affects holdings like Western Digital and Seagate, but soft on confirmation."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "3ab78210e73f5c4b1ac2dcda8d74ffeb0f29f4d7",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix Dismisses Intel Ohio Buyout Report: 'We Have No Plans for an Acquisition' - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0RlOXctYUIxUnozWFRTMjVBZWFNRXZ2OHM1b1ZaeGZTY2pXaEoyTzBzZ21FYXVhZ1g2bnJlUnRpZXBlX1RwcFd1TFl5NXRFd0NVcWtfTE1udmxMa0FrZzlsWTRaa000M21ZSEtMVFpXY1p2Q2c5TWJTYW1ESzh4dWlSMjRHQkFXM3RvYTdYZDl2Vjk0eXhBWmVB?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:20:00 GMT",
+  "published_ts": 1784690400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0RlOXctYUIxUnozWFRTMjVBZWFNRXZ2OHM1b1ZaeGZTY2pXaEoyTzBzZ21FYXVhZ1g2bnJlUnRpZXBlX1RwcFd1TFl5NXRFd0NVcWtfTE1udmxMa0FrZzlsWTRaa000M21ZSEtMVFpXY1p2Q2c5TWJTYW1ESzh4dWlSMjRHQkFXM3RvYTdYZDl2Vjk0eXhBWmVB?oc=5\" target=\"_blank\">SK Hynix Dismisses Intel Ohio Buyout Report: 'We Have No Plans for an Acquisition'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denies reports of plans to acquire Intel's Ohio fab, stating they have no acquisition plans. This is a clarification/denial of M&A speculation rather than a confirmed development, reducing impact from what a real deal would carry."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "148b04a1c724e447e27f960433f8ef2d7ddc62f9",
+  "source": "The Business Times",
+  "topic": "holding",
+  "title": "Samsung unveils wider foldable phone, hikes prices as chip costs rise - The Business Times",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFQ0djZzeFJnaHRzbDdIc21WZkxHekNFOGNaOURBUjJFWmRSWHpneXlOZVNCUVpMVVdVRExXdVhTRHNDa1VKcHoyVzJIcDRDaG5nbFJyR1BWdmdlaVUtcHpjYlJoWnJhMXNLS1piakhrWWRhTEpGdVpUMzhlaS1HZFZmY2N4ejhuT0s2Q1JYSzAzNWozSTV2TzVaajFrV0tjTGFScFUwMXRKWXRBSGVRTEptdnRBN0ROMzcxWkRWZk5jcFFTUjVaY09pazVaRFE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 15:20:00 GMT",
+  "published_ts": 1784733600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFQ0djZzeFJnaHRzbDdIc21WZkxHekNFOGNaOURBUjJFWmRSWHpneXlOZVNCUVpMVVdVRExXdVhTRHNDa1VKcHoyVzJIcDRDaG5nbFJyR1BWdmdlaVUtcHpjYlJoWnJhMXNLS1piakhrWWRhTEpGdVpUMzhlaS1HZFZmY2N4ejhuT0s2Q1JYSzAzNWozSTV2TzVaajFrV0tjTGFScFUwMXRKWXRBSGVRTEptdnRBN0ROMzcxWkRWZk5jcFFTUjVaY09pazVaRFE?oc=5\" target=\"_blank\">Samsung unveils wider foldable phone, hikes prices as chip costs rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Business Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung raising foldable phone prices due to rising chip costs indicates semiconductor cost pressures affecting a major holding, but the news is framed around consumer product pricing rather than memory-specific supply/demand or capacity decisions. Relevant as it signals chip cost environment but lacks concrete data on memory pricing, DRAM/NAND production, or memory-specific guidance."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "7aa4ef4380c9d75c915f1f18f437f9aa5a723504",
+  "source": "TradingKey",
+  "topic": "industry",
+  "title": "Micron (MU) Bounces to $969 - Morgan Stanley and BofA Both Say Buy the Dip - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2Z3ZmpQWE5rU05kQ2Y2clBYbjBWY2c3RXg4cHlCOTZPeUhPOEdRWmg0WEh4TzVkZmxUOElCOGl1b2ppN1FCWllsZ044eTV3NVVrT1R1SWE3NEkxWktwSjZ6eEJsVG84R2VlRXhkeEx0Yk9EdW05TDU2YnZzbGZoQjBlZ0pUaVhGR1pqMnE4NEVSOGN0ZXRYWG9pczJ6ZkdGU3lxS2hxdGVnUzE3T253Y3lORHc4NkM5LUpoUVhmYi1NZlBOaVpneHdaeDRaNEJJRF9Ydnc2cER6UkV1Y05HTGhtYw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 14:05:47 GMT",
+  "published_ts": 1784729147,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2Z3ZmpQWE5rU05kQ2Y2clBYbjBWY2c3RXg4cHlCOTZPeUhPOEdRWmg0WEh4TzVkZmxUOElCOGl1b2ppN1FCWllsZ044eTV3NVVrT1R1SWE3NEkxWktwSjZ6eEJsVG84R2VlRXhkeEx0Yk9EdW05TDU2YnZzbGZoQjBlZ0pUaVhGR1pqMnE4NEVSOGN0ZXRYWG9pczJ6ZkdGU3lxS2hxdGVnUzE3T253Y3lORHc4NkM5LUpoUVhmYi1NZlBOaVpneHdaeDRaNEJJRF9Ydnc2cER6UkV1Y05HTGhtYw?oc=5\" target=\"_blank\">Micron (MU) Bounces to $969 - Morgan Stanley and BofA Both Say Buy the Dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron (MU), a core DRAM ETF holding, bounced to $969 with analyst buy-the-dip calls from Morgan Stanley and BofA. This is a price move with analyst commentary but no new fundamental catalyst or concrete event—typical post-move analyst reaction."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "768603d3de8ff6d797417a656cfe519ebc02641b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Sandisk Corporation (SNDK) Rose on Stronger Pricing Dynamics - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXlTYy1hbG40MXhEaGU2YmNzaTlfUHJjQnZ1RFgyWi1VVHRuWHA2ZWFOQ2p0NzRXWVlGdDY5Rk90Vmp6SEZDOU5xek1YTXRuTEEtZmstM3BMek5yV05aYjYzUV9RRjF0cnNHcHp4Vno3ODJ0d3poZ0R6T2hNTHNwVVVadER2engyS25JUmNFOVJ3azZ3Yjg4WmNjeVM2UG0xOFU1clJB?oc=5",
+  "published_at": "Wed, 22 Jul 2026 16:40:50 GMT",
+  "published_ts": 1784738450,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXlTYy1hbG40MXhEaGU2YmNzaTlfUHJjQnZ1RFgyWi1VVHRuWHA2ZWFOQ2p0NzRXWVlGdDY5Rk90Vmp6SEZDOU5xek1YTXRuTEEtZmstM3BMek5yV05aYjYzUV9RRjF0cnNHcHp4Vno3ODJ0d3poZ0R6T2hNTHNwVVVadER2engyS25JUmNFOVJ3azZ3Yjg4WmNjeVM2UG0xOFU1clJB?oc=5\" target=\"_blank\">Sandisk Corporation (SNDK) Rose on Stronger Pricing Dynamics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "SanDisk (a fund holding) stock rose on stronger NAND pricing dynamics. This reflects positive pricing trends in the memory market, but the report appears to be commentary on a price move rather than a hard announcement of pricing data or a concrete event. Analyst observations of pricing strength are relevant but softer than an earnings release or confirmed pricing index."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "db779c0ea85c5924343fbe0ca32781b43b26c08a",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix: Riding The Revolutionary AI Wave (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzN2ekNSVFJMQXRwNXdHNXZRcXJlNkxFUVpVazlTMXdocDFzUVRvNHl3ZUkyLUQ5SFRzZ3B5R2d0R043RkhuWWwyYnBsMmNZdXQ1bXcyUW9nMld1S2FjZFVGM0IzZlJRT0NtV3lEeG12YkxTSURjZE56cGhoOWhORzZ6dWpUQjhaNmc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 15:16:58 GMT",
+  "published_ts": 1784733418,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzN2ekNSVFJMQXRwNXdHNXZRcXJlNkxFUVpVazlTMXdocDFzUVRvNHl3ZUkyLUQ5SFRzZ3B5R2d0R043RkhuWWwyYnBsMmNZdXQ1bXcyUW9nMld1S2FjZFVGM0IzZlJRT0NtV3lEeG12YkxTSURjZE56cGhoOWhORzZ6dWpUQjhaNmc?oc=5\" target=\"_blank\">SK hynix: Riding The Revolutionary AI Wave (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha opinion piece on SK hynix positioning in AI wave. Analytical commentary on the holding's AI exposure and growth narrative, but no new concrete developments, earnings data, or material events reported."
+  },
+  "buffered_ts": 1784740435.6051233
+ },
+ {
+  "id": "033d12af69fc286c9b09678f7191827d3c5765fc",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Seagate Technology Q4 FY2026 earnings conference call - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME1sMlFnODlROWU5bXMzMFZNalg5YmtzWV9IRDFnR2VCQXFGa21JeXFtZWRETUlyMzk1UUdqYW53WDhCWTV6dVNwWjVIR0ZsLW53ejZ0eEdHcmxlSHk3X1hIU1NaZHEwMVZudHFrajlsY0NHeS12VG1WVl9EYWJfQUoxYzhLN1huZmhGdnVpNG1hNVlIbERxVTZtM0dDbHdKWUVYRXF0dUlPcXc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 09:53:45 GMT",
+  "published_ts": 1784714025,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME1sMlFnODlROWU5bXMzMFZNalg5YmtzWV9IRDFnR2VCQXFGa21JeXFtZWRETUlyMzk1UUdqYW53WDhCWTV6dVNwWjVIR0ZsLW53ejZ0eEdHcmxlSHk3X1hIU1NaZHEwMVZudHFrajlsY0NHeS12VG1WVl9EYWJfQUoxYzhLN1huZmhGdnVpNG1hNVlIbERxVTZtM0dDbHdKWUVYRXF0dUlPcXc?oc=5\" target=\"_blank\">Seagate Technology Q4 FY2026 earnings conference call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate Technology Q4 FY2026 earnings conference call announced. Earnings calls are relevant to holdings but the impact depends on concrete guidance or results disclosed during the call itself; this headline alone is just notification of the event occurring, not reporting substantive outcomes."
+  },
+  "buffered_ts": 1784740435.6051233
  }
 ]
