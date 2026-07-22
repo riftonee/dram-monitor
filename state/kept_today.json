@@ -1105,5 +1105,176 @@
    "summary": "Analysis piece discussing SanDisk's strategic shift away from AI boom beneficiary positioning. This is opinion/analysis on a holding company's narrative and positioning rather than a concrete event, earnings release, or material development. Scored as soft relevance with analytical commentary."
   },
   "buffered_ts": 1784756203.8366985
+ },
+ {
+  "id": "255bc2a33782b533d01c6dd9bf4983899800246c",
+  "source": "thelec.net",
+  "topic": "holding",
+  "title": "SK Hynix Accelerates Cheongju P&T7 Project, Reapproves 7.1 Trillion Won Investment - thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EQkpqN3gzazRqLWVuZzRDX0taelVkbHNkQ3RWTWlWMEhHSEVnZlVzd1ZnM3hDdTZMajRZR1lrMGtnQ2w5OVVjcVo5TFp5c3FpVnktN2l6YXhRTWM0ZDhOZmxjMnhwdGM?oc=5",
+  "published_at": "Wed, 22 Jul 2026 22:42:23 GMT",
+  "published_ts": 1784760143,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EQkpqN3gzazRqLWVuZzRDX0taelVkbHNkQ3RWTWlWMEhHSEVnZlVzd1ZnM3hDdTZMajRZR1lrMGtnQ2w5OVVjcVo5TFp5c3FpVnktN2l6YXhRTWM0ZDhOZmxjMnhwdGM?oc=5\" target=\"_blank\">SK Hynix Accelerates Cheongju P&amp;T7 Project, Reapproves 7.1 Trillion Won Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thelec.net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has reapproved and is accelerating its Cheongju P&T7 fab project with a 7.1 trillion won (~$5.3B USD) investment. This is a concrete capacity expansion decision by a major DRAM holding that signals production ramp and supply-side commitment to meet demand."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "ee5edf0bc55891a8c38aaea2ea43f185e3e8ac7e",
+  "source": "24/7 Wall St.",
+  "topic": "holding",
+  "title": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hqdXJpZlhJbV9GdkZydDFyZXFxUHNTMURVVG5SdDExRWttcExUblczQVQzTFZ2RHNXZFFrSzN6dnVKUkdzSnRvOEZjeFVEZHNyelprMzZsV3p4OHZ2a3pfVXktWGdPaWEwRE9Sdy1SV21mSXFUNW85ZVhrM3k5UE1CckxtQ1M3eUoxbDE0LU1MT3dPUmpfcEpwQUlXSnZ1em5XNTA1MjlSb1llSEwtNnFn?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:53:48 GMT",
+  "published_ts": 1784757228,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hqdXJpZlhJbV9GdkZydDFyZXFxUHNTMURVVG5SdDExRWttcExUblczQVQzTFZ2RHNXZFFrSzN6dnVKUkdzSnRvOEZjeFVEZHNyelprMzZsV3p4OHZ2a3pfVXktWGdPaWEwRE9Sdy1SV21mSXFUNW85ZVhrM3k5UE1CckxtQ1M3eUoxbDE0LU1MT3dPUmpfcEpwQUlXSnZ1em5XNTA1MjlSb1llSEwtNnFn?oc=5\" target=\"_blank\">The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "24/7 Wall St.",
+    "AOL.com"
+   ],
+   "titles": [
+    "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think - AOL.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece suggesting a potential bull run for Micron and SanDisk (both DRAM fund holdings) alongside NVIDIA. This is opinion/forecast rather than a concrete event or new catalyst, so impact is soft—typical analyst/commentary take on sentiment and timing rather than reported developments or price drivers."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "5ffb5819a987dd39f811db82c6cbb5d18d498736",
+  "source": "Investing.com UK",
+  "topic": "holding",
+  "title": "Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report - Investing.com UK",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1NGYnVzLXJCdnhVZUxyV0E3Y25HbFpqTkhHdlM3dDRpT0RINTc2ZWdrd21TTXBUNkVwQmFTaGxrbGZlcFNfd2dUcjlvZ1dza0FQZ0FLbUZxQ1oySG1KOE4yQUtnX1ctMHBIVllxTWFBc2FCRlBBNkQtWUIyWjROTEF4UWU4S3JuMUZQZl9SeGNuNm44bE0xeGhkTVpoeE5DNkdmY3FtV0lXX2lqbGhxTzRnYzlReHQxdThzSmM5ZEpqYUN2TDdEbUxfZw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:20:00 GMT",
+  "published_ts": 1784755200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1NGYnVzLXJCdnhVZUxyV0E3Y25HbFpqTkhHdlM3dDRpT0RINTc2ZWdrd21TTXBUNkVwQmFTaGxrbGZlcFNfd2dUcjlvZ1dza0FQZ0FLbUZxQ1oySG1KOE4yQUtnX1ctMHBIVllxTWFBc2FCRlBBNkQtWUIyWjROTEF4UWU4S3JuMUZQZl9SeGNuNm44bE0xeGhkTVpoeE5DNkdmY3FtV0lXX2lqbGhxTzRnYzlReHQxdThzSmM5ZEpqYUN2TDdEbUxfZw?oc=5\" target=\"_blank\">Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is reportedly among candidates Intel is considering as a partnership partner for its Ohio chip fabrication facility. This is exploratory discussion rather than a confirmed deal, making it relevant but speculative. The outcome could affect SK Hynix's capital allocation and capacity strategy, but no concrete commitment or development has been announced."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "07e2af21280903a87d78484c2d77e49cde409a07",
+  "source": "CNET",
+  "topic": "holding",
+  "title": "Samsung’s Foldables Got Pricier. The RAM Shortage Is Part of the Bill - CNET",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGNseDh5bHB1R0tzamdBTW5ONVFKZjB2eE9IN3ZESERBRWt3MnNmSUpHQXdvbUQ1SGRRUlFsQU9wUTM0amZVR0VlOHVraVRDbWdPS3l5cXFadlFwNngzbGxRbzBRWUFwd3RIRWJzMm81LXZDc0lvSTRvYTBJODBEMUpRZC0?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:02:54 GMT",
+  "published_ts": 1784754174,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGNseDh5bHB1R0tzamdBTW5ONVFKZjB2eE9IN3ZESERBRWt3MnNmSUpHQXdvbUQ1SGRRUlFsQU9wUTM0amZVR0VlOHVraVRDbWdPS3l5cXFadlFwNngzbGxRbzBRWUFwd3RIRWJzMm81LXZDc0lvSTRvYTBJODBEMUpRZC0?oc=5\" target=\"_blank\">Samsung’s Foldables Got Pricier. The RAM Shortage Is Part of the Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNET"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung raised foldable phone prices, citing RAM/memory shortage as a contributing factor to higher component costs. This reflects pricing pressure in memory markets affecting a major holding, but is primarily analysis of Samsung's pricing decision rather than a concrete supply or pricing data point."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "051a177fc0cb2d8cdd2b83706fb4263e8864956a",
+  "source": "The Korea Times",
+  "topic": "holding",
+  "title": "Samsung revamps foldable branding amid rising memory costs - The Korea Times",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFI2VVZqd2ZCNXRpdXlrdW05SzdCMV9BeHM2TWZCNTZQOXVQOUYwd0NwblJtUi1Pal9reE5YVWNEXzM2VDJfU3RhTFlkRU12N1hpQjFqTndVLTQySmFIWURySmlBTHlLYlk3SHdoZXJrN3JqZzlVWjB6dFRfS3c3UXVLeDZrelgyX18yOVZkaUpFYW1ZdUVKUVloMlhoZHg2SkdWdkEtMmdyWlNMOHpGT1NWbVItbDE3NGZUTU12UdIBvwFBVV95cUxOWFI2VVZqd2ZCNXRpdXlrdW05SzdCMV9BeHM2TWZCNTZQOXVQOUYwd0NwblJtUi1Pal9reE5YVWNEXzM2VDJfU3RhTFlkRU12N1hpQjFqTndVLTQySmFIWURySmlBTHlLYlk3SHdoZXJrN3JqZzlVWjB6dFRfS3c3UXVLeDZrelgyX18yOVZkaUpFYW1ZdUVKUVloMlhoZHg2SkdWdkEtMmdyWlNMOHpGT1NWbVItbDE3NGZUTU12UQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+  "published_ts": 1784725260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFI2VVZqd2ZCNXRpdXlrdW05SzdCMV9BeHM2TWZCNTZQOXVQOUYwd0NwblJtUi1Pal9reE5YVWNEXzM2VDJfU3RhTFlkRU12N1hpQjFqTndVLTQySmFIWURySmlBTHlLYlk3SHdoZXJrN3JqZzlVWjB6dFRfS3c3UXVLeDZrelgyX18yOVZkaUpFYW1ZdUVKUVloMlhoZHg2SkdWdkEtMmdyWlNMOHpGT1NWbVItbDE3NGZUTU12UdIBvwFBVV95cUxOWFI2VVZqd2ZCNXRpdXlrdW05SzdCMV9BeHM2TWZCNTZQOXVQOUYwd0NwblJtUi1Pal9reE5YVWNEXzM2VDJfU3RhTFlkRU12N1hpQjFqTndVLTQySmFIWURySmlBTHlLYlk3SHdoZXJrN3JqZzlVWjB6dFRfS3c3UXVLeDZrelgyX18yOVZkaUpFYW1ZdUVKUVloMlhoZHg2SkdWdkEtMmdyWlNMOHpGT1NWbVItbDE3NGZUTU12UQ?oc=5\" target=\"_blank\">Samsung revamps foldable branding amid rising memory costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is rebranding its foldable phone line amid rising memory costs. While Samsung is a major memory holding (DRAM/NAND), this headline focuses on consumer foldable phone strategy rather than concrete memory pricing, capacity, or supply decisions. The mention of 'rising memory costs' is contextual but not a hard number or specific supply announcement. This is relevant to Samsung's business but lacks the concrete event or new quantified data needed for impact 4+."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "a875a6191ae4e6cc19e84a58a98f6b62ca07d2d8",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "SK hynix (NASDAQ:SKHY) Shares Down 3.9% - Here's Why - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVprb3pWdk41MXByVkRVOU5RbDRmM3pPWUJ4SC0wU2dKcmZvUUt1TWZHUjVQaGRKVGs2ZG1xUXhJMmN1TktDSWxSdkJ2OVRwMTBwdHRQY1JSV001aDJ1UWdXYTEzYXcxZUJMMXFhMV9OMEYtS0dLTXY5dzFrb2NXc0hIbXJiUU5HdTlnTEEwQTZUTjg2T1JySGY2MDdySDg?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:34:39 GMT",
+  "published_ts": 1784756079,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVprb3pWdk41MXByVkRVOU5RbDRmM3pPWUJ4SC0wU2dKcmZvUUt1TWZHUjVQaGRKVGs2ZG1xUXhJMmN1TktDSWxSdkJ2OVRwMTBwdHRQY1JSV001aDJ1UWdXYTEzYXcxZUJMMXFhMV9OMEYtS0dLTXY5dzFrb2NXc0hIbXJiUU5HdTlnTEEwQTZUTjg2T1JySGY2MDdySDg?oc=5\" target=\"_blank\">SK hynix (NASDAQ:SKHY) Shares Down 3.9% - Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix shares declined 3.9%, a post-market price move. The headline indicates a reported reason exists, but without access to the full article content detailing the specific catalyst, this appears to be a standard market-reaction summary rather than disclosure of a new concrete event. Such moves warrant monitoring but typically reflect digestion of known news or technical factors rather than fresh material developments."
+  },
+  "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "b2edee66a14330019211d01adc461dbd8fdb083a",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Direxion Enters SK Hynix Space With SKHL, a High-Risk 2X Leveraged Fund - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zallwRE44VUFBcTZIWkkyeTJOSXlzWUNHUl9jQ3V1Y2ZUcFFCMDhfLUlKY3UxMldJdVFYS2ljcXVGeTg4T3JXREswM0dQRVVFRHo4ZmxuVXZ0aTlMR3ZmQ2Jjb3Zwemo3aUptSHVHTnA0RjQ4dmFfanlzemh4bmM?oc=5",
+  "published_at": "Wed, 22 Jul 2026 20:45:39 GMT",
+  "published_ts": 1784753139,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8zallwRE44VUFBcTZIWkkyeTJOSXlzWUNHUl9jQ3V1Y2ZUcFFCMDhfLUlKY3UxMldJdVFYS2ljcXVGeTg4T3JXREswM0dQRVVFRHo4ZmxuVXZ0aTlMR3ZmQ2Jjb3Zwemo3aUptSHVHTnA0RjQ4dmFfanlzemh4bmM?oc=5\" target=\"_blank\">Direxion Enters SK Hynix Space With SKHL, a High-Risk 2X Leveraged Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "Direxion launched SKHL, a 2X leveraged ETF tracking SK hynix. This is fund-ecosystem news about a competitor product, not directly material to DRAM ETF itself, but confirms continued institutional interest in memory-chip stocks."
+  },
+  "buffered_ts": 1784761137.7302518
  }
 ]
