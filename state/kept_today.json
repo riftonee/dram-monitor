@@ -2822,5 +2822,269 @@
    "summary": "Samsung Electronics and SK Hynix stocks rallied as part of a broader US chip sector rebound. No specific catalyst or material news about memory demand, pricing, production, or fundamentals stated—appears to be a market sentiment/price-movement piece without a concrete underlying event."
   },
   "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "20e29089737c38fa05b811151f4a16d33c67733d",
+  "source": "Longbridge",
+  "topic": "holding",
+  "title": "SK Hynix Denies Acquisition of Intel’s US Fabs, Shares Under Pressure Falling Below 2 Million Mark - Longbridge",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVHlNVk9vNXdjTktfaDJoZEFrTmhsUWRPRkNqN2huTFotTkFHSmZRVE5USTBKS1I1OWVOdU5jd19iXzVKNU5RemJTTV9lUQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:47:47 GMT",
+  "published_ts": 1784692067,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVHlNVk9vNXdjTktfaDJoZEFrTmhsUWRPRkNqN2huTFotTkFHSmZRVE5USTBKS1I1OWVOdU5jd19iXzVKNU5RemJTTV9lUQ?oc=5\" target=\"_blank\">SK Hynix Denies Acquisition of Intel’s US Fabs, Shares Under Pressure Falling Below 2 Million Mark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Longbridge</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Longbridge"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix officially denied acquisition of Intel's US fabs, causing its share price to fall below 2 million won. This represents a concrete development resolving prior deal speculation and is a market-moving event for a major DRAM fund holding."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "c7d72aae0ffbeaf4924efdb045d22941b4087760",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Sandisk Launches $6 Billion Buyback as NAND Demand Drives Market Cap Past $200 Billion - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kUXdjeHV6ZUY1TlFsdXZvc1BFNEx4UDhRb0M5VUxaRnRMbUJlSUpjeElrbk9iMmhvNXR5eUwtbVZEZEQ1ci1fR2U4bW9wa0FYUHNHVDlYajFQdjBBWlJoc3Y4VzNBYWUza04zc3Z6WlJQV0ZpVHc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:27:00 GMT",
+  "published_ts": 1784690820,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9kUXdjeHV6ZUY1TlFsdXZvc1BFNEx4UDhRb0M5VUxaRnRMbUJlSUpjeElrbk9iMmhvNXR5eUwtbVZEZEQ1ci1fR2U4bW9wa0FYUHNHVDlYajFQdjBBWlJoc3Y4VzNBYWUza04zc3Z6WlJQV0ZpVHc?oc=5\" target=\"_blank\">Sandisk Launches $6 Billion Buyback as NAND Demand Drives Market Cap Past $200 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SanDisk announced a $6 billion share buyback program, driven by strong NAND demand that has pushed the company's market cap above $200 billion. This is a concrete capital allocation decision by a fund holding that reflects confidence in NAND market conditions."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "c866ec8f980ba184e43082c4a03e613e4f4fe42a",
+  "source": "Businesskorea",
+  "topic": "holding",
+  "title": "SK Hynix Denies Intel Ohio Plant Deal - Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZEtBZzd0MTBsN0J0T2RXaDVwd0xNVjR6STBqbUxLeHRqT1ZOaXZjd09uYS1RVlpHdzJSTzF1djM0OWM2TEpIa2cyMnE0bmZvM3paUDN3ckdRMDhpTDh0WFd3aFhYTWpLNVE3UGRSeXlpVnJx?oc=5",
+  "published_at": "Wed, 22 Jul 2026 07:55:07 GMT",
+  "published_ts": 1784706907,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9IZEtBZzd0MTBsN0J0T2RXaDVwd0xNVjR6STBqbUxLeHRqT1ZOaXZjd09uYS1RVlpHdzJSTzF1djM0OWM2TEpIa2cyMnE0bmZvM3paUDN3ckdRMDhpTDh0WFd3aFhYTWpLNVE3UGRSeXlpVnJx?oc=5\" target=\"_blank\">SK Hynix Denies Intel Ohio Plant Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Businesskorea"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix officially denies a reported deal to supply or partner on Intel's Ohio fab plant, clarifying a material piece of rumor that had circulated regarding capacity commitments and industry partnerships."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "f79c9ff669f348ee0a8a45409633b71efd697bc7",
+  "source": "Longbridge",
+  "topic": "holding",
+  "title": "Tencent unveils Miora, a new AI creative tool; SK hynix denies acquiring Intel wafer assets | Daily News Recap - Longbridge",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84VE9tVjZ1dGhkOVJBRW4tMWY4SWtBQUpHUmtYa3VVbnNmSGhOam5TX0tzV1BOaEdsVnU0RFFyVDl1N2o0RG85SEJjU2p6ZjA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 09:18:41 GMT",
+  "published_ts": 1784711921,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE84VE9tVjZ1dGhkOVJBRW4tMWY4SWtBQUpHUmtYa3VVbnNmSGhOam5TX0tzV1BOaEdsVnU0RFFyVDl1N2o0RG85SEJjU2p6ZjA?oc=5\" target=\"_blank\">Tencent unveils Miora, a new AI creative tool; SK hynix denies acquiring Intel wafer assets | Daily News Recap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Longbridge</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Longbridge"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix denies acquiring Intel wafer assets. The denial of a potential fab capacity deal is relevant to a major fund holding, though it confirms no concrete transaction occurred and is primarily a response to speculation rather than a new confirmed development."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "406c5aad0f811ecb7df3170ad16ea9551266630a",
+  "source": "Investing.com South Africa",
+  "topic": "holding",
+  "title": "SK hynix in talks to buy Intel’s Ohio chip campus for U.S. memory - report By Investing.com - Investing.com South Africa",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVNqcWFXTVJDSGxHQzJxaUFWS3ZERUZqZUdncERlRDNCaW9NWnBZNFJNRzRMYlBNbDM4WFZodFY1allzRmpLb241V0VOVFBwcHJrR2JzemtxaTJxN2lXVDJwMHpQb29fRUhUWHpua3YyRlNCMElobk9FMEtwc0JhVkpVNVYzaFlSd2thYWQxQ0hNbGhkcnZlamQwRkF5cVJuc1VNRnpuZXE1RUg2ZUZIMTRsQUgtZjcwdjBNTXZLY0hDYXB3?oc=5",
+  "published_at": "Wed, 22 Jul 2026 02:28:37 GMT",
+  "published_ts": 1784687317,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVNqcWFXTVJDSGxHQzJxaUFWS3ZERUZqZUdncERlRDNCaW9NWnBZNFJNRzRMYlBNbDM4WFZodFY1allzRmpLb241V0VOVFBwcHJrR2JzemtxaTJxN2lXVDJwMHpQb29fRUhUWHpua3YyRlNCMElobk9FMEtwc0JhVkpVNVYzaFlSd2thYWQxQ0hNbGhkcnZlamQwRkF5cVJuc1VNRnpuZXE1RUg2ZUZIMTRsQUgtZjcwdjBNTXZLY0hDYXB3?oc=5\" target=\"_blank\">SK hynix in talks to buy Intel’s Ohio chip campus for U.S. memory - report By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com South Africa"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is in talks to acquire Intel's Ohio chip campus for memory production. This is a reported deal under discussion rather than a confirmed announcement, making it a possibility rather than a settled event."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "a1182459ee5c9b6d5897f567adea83d73c9b648f",
+  "source": "XenoSpectrum",
+  "topic": "pricing",
+  "title": "NAND Shortage Set to Ease in Late 2027 as Higher-Density Nodes and China's 19% Share Boost Supply - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dDgyUmZPWF82Vm00TUwxZzhvQ2s4amtIUEtzTzhlYXpSTElnMW1oTlZrd2xZRHZIai12QnNIMEs1aFBCb2ttVzdpQjVTa1U3WkpDc08wcldwM3h5cVQwNVFqVlY?oc=5",
+  "published_at": "Wed, 22 Jul 2026 01:45:00 GMT",
+  "published_ts": 1784684700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dDgyUmZPWF82Vm00TUwxZzhvQ2s4amtIUEtzTzhlYXpSTElnMW1oTlZrd2xZRHZIai12QnNIMEs1aFBCb2ttVzdpQjVTa1U3WkpDc08wcldwM3h5cVQwNVFqVlY?oc=5\" target=\"_blank\">NAND Shortage Set to Ease in Late 2027 as Higher-Density Nodes and China's 19% Share Boost Supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "XenoSpectrum forecasts that NAND supply constraints will ease in late 2027 due to higher-density node production and China's expanded 19% market share. Forward-looking supply analysis relevant to the memory cycle but based on projection rather than confirmed near-term event."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "240b6f42615c4d77097cafc9149f3f049dc7f105",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "SK Hynix Reportedly to Acquire Intel's U.S. Campus: A Win-Win Deal Under White House Pressure? - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFVpN29FeW5tdlFPSGdkOWRDc0Q2TzRwNFJfWXhOaU1uWmowUlJxdUdNU0dCR2piWkdYeU83MzNDdzVfNkI1LTdiNlRmelJ2UWFEV1EtQWtWV2oxalc2Zjd0OGRfLWxsS0l2cW05YWZjOThUOGRwTS1Cb3dTR1NBSEo2dnZjYXpwVVZzdVRYQkNkOTZXLWc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:18:08 GMT",
+  "published_ts": 1784690288,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObFVpN29FeW5tdlFPSGdkOWRDc0Q2TzRwNFJfWXhOaU1uWmowUlJxdUdNU0dCR2piWkdYeU83MzNDdzVfNkI1LTdiNlRmelJ2UWFEV1EtQWtWV2oxalc2Zjd0OGRfLWxsS0l2cW05YWZjOThUOGRwTS1Cb3dTR1NBSEo2dnZjYXpwVVZzdVRYQkNkOTZXLWc?oc=5\" target=\"_blank\">SK Hynix Reportedly to Acquire Intel's U.S. Campus: A Win-Win Deal Under White House Pressure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix reportedly in talks to acquire Intel's U.S. campus, framed as potentially under White House pressure. A significant development for a major fund holding, but reported as rumor/negotiation rather than confirmed deal."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "51b85f0ee90c99c5df08d40f83e4dc460a531b56",
+  "source": "theinvestor.co.kr",
+  "topic": "holding",
+  "title": "Samsung, SK, Naver chiefs head to US for Nvidia talks - theinvestor.co.kr",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ESXJTV3k1Zk9SYUhDQjYwWVA3WVc4Q3FSeGJWdjR3ZG1fUFl3MWIwS2xWTHlOR3lHVEloaVhHaUVuQXU3c0FKcndLdklTVm5wamtYTHFkNVRkQQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 07:31:31 GMT",
+  "published_ts": 1784705491,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ESXJTV3k1Zk9SYUhDQjYwWVA3WVc4Q3FSeGJWdjR3ZG1fUFl3MWIwS2xWTHlOR3lHVEloaVhHaUVuQXU3c0FKcndLdklTVm5wamtYTHFkNVRkQQ?oc=5\" target=\"_blank\">Samsung, SK, Naver chiefs head to US for Nvidia talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinvestor.co.kr</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "theinvestor.co.kr"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix executives traveling to the US for meetings with Nvidia. This indicates engagement on HBM (high-bandwidth memory) and AI infrastructure deals, but the story reports only that talks are occurring—no concrete agreement, capacity commitment, or order announcement has been disclosed. Until such talks yield a signed deal or official capacity/supply commitment, this remains speculative positioning."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "65da41c13f995d4c09ba7f80daf3f52ba19cdee0",
+  "source": "TradingView",
+  "topic": "fund",
+  "title": "MU, SNDK, WDC Stocks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaERJbERSVkRMNk9MTWNFeExVNDh6Y0QybEZoYnUweV83UzJGYy1qOUNyWVJMQnFmWDZuOExVQUFDRnJ6dEVRTGJBSG1GNms1c1pmSV9mZzBKZmtQU09yeWNOT2FUd21GZllhOGVnM1VFeG5nZ2RzLTZJNnJ6ZS1sUTZNQldoeXk5VE1uOFZNR2hfZEdkY2xVN1ZFTXpkZFUtMUpENlpnLTN5MVE2THZ1cXlGenR1dGEzc24tOXJvTnZNdDVBXzVleGpTMloyWnR2cUFPbXFiM0ZWNTVU?oc=5",
+  "published_at": "Wed, 22 Jul 2026 02:19:00 GMT",
+  "published_ts": 1784686740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaERJbERSVkRMNk9MTWNFeExVNDh6Y0QybEZoYnUweV83UzJGYy1qOUNyWVJMQnFmWDZuOExVQUFDRnJ6dEVRTGJBSG1GNms1c1pmSV9mZzBKZmtQU09yeWNOT2FUd21GZllhOGVnM1VFeG5nZ2RzLTZJNnJ6ZS1sUTZNQldoeXk5VE1uOFZNR2hfZEdkY2xVN1ZFTXpkZFUtMUpENlpnLTN5MVE2THZ1cXlGenR1dGEzc24tOXJvTnZNdDVBXzVleGpTMloyWnR2cUFPbXFiM0ZWNTVU?oc=5\" target=\"_blank\">MU, SNDK, WDC Stocks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Multiple DRAM ETF holdings (MU, SNDK, WDC) rose for a second consecutive day amid retail sentiment that the memory sector pullback may be ending. This is a price-move story without a stated concrete catalyst—sentiment-driven rather than event-driven."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "4782e1c17711f72935021b3c8d785556d1e529cb",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "SanDisk - Sharp Rebound After Brutal Pullback - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXBuQzZEa3FrT05XLUJaX2lzVWMxMjNkdWJ5S2UwTDRHTHRXZWh2Y3lRUC1NWmtFbTZnQ0pvV01sMUJXeGdhWUpINEt5WGstRGtOd2ZLeExaUjNPaE9tbTZSZEpwdmZjQ092TngyQVlfSF8yLVlnLU1qaFJuXzZWRG1rUGprOGhoaS0xcTdkV0hNU09hU0Q5RXdjelN5QQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 08:49:29 GMT",
+  "published_ts": 1784710169,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNXBuQzZEa3FrT05XLUJaX2lzVWMxMjNkdWJ5S2UwTDRHTHRXZWh2Y3lRUC1NWmtFbTZnQ0pvV01sMUJXeGdhWUpINEt5WGstRGtOd2ZLeExaUjNPaE9tbTZSZEpwdmZjQ092TngyQVlfSF8yLVlnLU1qaFJuXzZWRG1rUGprOGhoaS0xcTdkV0hNU09hU0Q5RXdjelN5QQ?oc=5\" target=\"_blank\">SanDisk - Sharp Rebound After Brutal Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock rebounded after a sharp pullback. This is a price-movement observation with no stated catalyst or new information driving the move, making it a minor technical note rather than a material catalyst."
+  },
+  "buffered_ts": 1784714251.5822241
+ },
+ {
+  "id": "1698b8c7a7ae67e593525d9000652008e6e35478",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock slipping today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXU3cmN1WDFwR3VGOTV3SGh4aGRtQ1BqNC1NQ05RUnVNRmVmTmxhOGl4YWFMeFZxRmVGWnMwRWNmSmhEWDFSVXczSnVEaDhKc2pZUzhTUjVCS2RuVWlfTHRRU1F2cVNWLWFRNkdUQnlJMUUyMGs4RU95SkFVZkFWOUFvdWpTdWZiYXlzVkRiWnRYTjBpTUhwTTR2UWlVbnc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 08:56:40 GMT",
+  "published_ts": 1784710600,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXU3cmN1WDFwR3VGOTV3SGh4aGRtQ1BqNC1NQ05RUnVNRmVmTmxhOGl4YWFMeFZxRmVGWnMwRWNmSmhEWDFSVXczSnVEaDhKc2pZUzhTUjVCS2RuVWlfTHRRU1F2cVNWLWFRNkdUQnlJMUUyMGs4RU95SkFVZkFWOUFvdWpTdWZiYXlzVkRiWnRYTjBpTUhwTTR2UWlVbnc?oc=5\" target=\"_blank\">Why is SK Hynix stock slipping today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock price movement query without substantive details on cause or magnitude; likely a generic price-watch article rather than material news on the company or memory markets."
+  },
+  "buffered_ts": 1784714251.5822241
  }
 ]
