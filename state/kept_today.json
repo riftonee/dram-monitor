@@ -2459,5 +2459,368 @@
    "summary": "South Korean Kospi index rises 5% as Asian chipmakers, including SK hynix and Samsung, rebound from recent AI-driven selloff. General market recovery without specific memory-cycle catalysts or concrete company-level news."
   },
   "buffered_ts": 1784693790.870014
+ },
+ {
+  "id": "232dc9db30a60414af86b6eab5a220c4f4913a04",
+  "source": "VOI.ID",
+  "topic": "holding",
+  "title": "SK hynix Negotiating to Buy Intel Chip Complex in Ohio for Memory Production - VOI.ID",
+  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hZ2pLR3ZRZWFsRVZpWlZOS2lHeDRBWDU5amZhMkFqWm11a3dpQTNCcWd4OFdFMDZUUWV6Wm1DZ3BkNTTSAUJBVV95cUxPM0w1Uk5XTGd5U2xtRDh5LU1hN1dSV29pVjlSVDBwVkxVd0t5UGR5Mlp6RTFWMlhZUDVrSGVvTll3eHc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:39:02 GMT",
+  "published_ts": 1784702342,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hZ2pLR3ZRZWFsRVZpWlZOS2lHeDRBWDU5amZhMkFqWm11a3dpQTNCcWd4OFdFMDZUUWV6Wm1DZ3BkNTTSAUJBVV95cUxPM0w1Uk5XTGd5U2xtRDh5LU1hN1dSV29pVjlSVDBwVkxVd0t5UGR5Mlp6RTFWMlhZUDVrSGVvTll3eHc?oc=5\" target=\"_blank\">SK hynix Negotiating to Buy Intel Chip Complex in Ohio for Memory Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.ID</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "VOI.ID"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK hynix is in negotiations to acquire Intel's chip manufacturing complex in Ohio for memory production. This represents a concrete, material development for a fund holding (SK hynix) involving a substantial capital commitment and capacity expansion that would directly impact the company's memory production footprint and future earnings potential."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "ae8192fc9ad9c60880207421a523f4ec54db3de9",
+  "source": "finance.biggo.com",
+  "topic": "pricing",
+  "title": "NAND Flash Shortages to Persist Through Next Year; Supply-Demand Gap May Ease by Second Half of 2027, Research Firm Says - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yLUNDaUFucmpCWVVCN2UwZFVJNWZIWnNrb0puVUhZbEI0QXdLQVA5aG1zdTdQRGh3N1g1LUpRRWM5QzI5b00zMzNsWTVsTW94QVduMkRpZG52NHJjMmQ1R1pyaEJDUXQ0SG5rUUlaVEJZLWs3ZXc?oc=5",
+  "published_at": "Tue, 21 Jul 2026 22:35:00 GMT",
+  "published_ts": 1784673300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8yLUNDaUFucmpCWVVCN2UwZFVJNWZIWnNrb0puVUhZbEI0QXdLQVA5aG1zdTdQRGh3N1g1LUpRRWM5QzI5b00zMzNsWTVsTW94QVduMkRpZG52NHJjMmQ1R1pyaEJDUXQ0SG5rUUlaVEJZLWs3ZXc?oc=5\" target=\"_blank\">NAND Flash Shortages to Persist Through Next Year; Supply-Demand Gap May Ease by Second Half of 2027, Research Firm Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Research firm forecasts NAND flash shortages will persist through 2026 and supply-demand gap may ease by H2 2027. This is analyst speculation/forecast rather than a concrete event or hard data on current production/pricing, making it a relevant industry signal but not an immediate market-moving development."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "3a3b3a99d1a574be6354b289fa219725da76fdf9",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Wall Street Chorus: Chip Stock Rout Is a 'Golden Dip,' Kimi K3 Emerges as Memory Demand Catalyst - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdnozRGZJdTJmRUw3QXNYR0lXamw5cE10WjYzUGhNRDZwN3lJTEl4eVd4T1RXUXdhNWk4dDRUYVNvaEE5SUpTUnVKaXhlbUdjajVrcVVTa1RHUkhnYnEzZGlEc0VlZU1JUEltSW4xV0ttc3Q0ckE?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:16:00 GMT",
+  "published_ts": 1784690160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdnozRGZJdTJmRUw3QXNYR0lXamw5cE10WjYzUGhNRDZwN3lJTEl4eVd4T1RXUXdhNWk4dDRUYVNvaEE5SUpTUnVKaXhlbUdjajVrcVVTa1RHUkhnYnEzZGlEc0VlZU1JUEltSW4xV0ttc3Q0ckE?oc=5\" target=\"_blank\">Wall Street Chorus: Chip Stock Rout Is a 'Golden Dip,' Kimi K3 Emerges as Memory Demand Catalyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Wall Street analysts view recent chip stock decline as a buying opportunity, citing Kimi K3 as an emerging catalyst for memory demand. This represents analyst sentiment and market interpretation rather than a concrete event or hard number, positioning it as soft analysis of potential demand drivers for memory semiconductors."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "c6d9300fa44622e7085f8e9d7416d073dc4fb80b",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Is SK Hynix Buying Intel’s Ohio Fab? Korean Chipmaker Denies Report — Now All Eyes Are on Earnings - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXlCOTA1UzRqelh3bm5BVDQ5T1VzelE5bXdHMkxXU0lkdWM3YVhYaEFTQlg2MzExaXNiZjJqY0lNTVZCVnFtamVEUnlIZFpYVlBYVXRqLUFIWHc0dDV6SU9pSDl6TmNVSERMLV9NYWxKVG9CencyWktadUw1cGVHeHhpQVBjQ3R2dllGWnlQYnRBUkxBQnc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 03:42:00 GMT",
+  "published_ts": 1784691720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXlCOTA1UzRqelh3bm5BVDQ5T1VzelE5bXdHMkxXU0lkdWM3YVhYaEFTQlg2MzExaXNiZjJqY0lNTVZCVnFtamVEUnlIZFpYVlBYVXRqLUFIWHc0dDV6SU9pSDl6TmNVSERMLV9NYWxKVG9CencyWktadUw1cGVHeHhpQVBjQ3R2dllGWnlQYnRBUkxBQnc?oc=5\" target=\"_blank\">Is SK Hynix Buying Intel’s Ohio Fab? Korean Chipmaker Denies Report — Now All Eyes Are on Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denies report of acquiring Intel's Ohio fab; story frames upcoming earnings as key to clarity on potential strategic moves. Rumor and denial constitute soft news pending concrete developments or earnings guidance."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "678eb8afae17e6882b7554baf0ec51e61ad1fc9b",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Micron, Western Digital, and Sandisk Just Jumped 12% to 14%. Here's the Forecast That Did It. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2ZMNy02dVFCWHVSVUdid0J3VlI3X05mZnJYY3NGNXFIei1CbmwyVGc0U05uMklPSjlNdEY1cTQ1bGVIZkdvbTRLSTJtV1RERjRVY0NzeEx4M2RZOEVsT0p0ZU5VYWF1bHp3RTZPR2xRUkhiMlp0Q2d1MXNvcmVPTkxwQ3lySXVBYXV5ZmRCTjdWQ3YwVmpoeA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:49:13 GMT",
+  "published_ts": 1784702953,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2ZMNy02dVFCWHVSVUdid0J3VlI3X05mZnJYY3NGNXFIei1CbmwyVGc0U05uMklPSjlNdEY1cTQ1bGVIZkdvbTRLSTJtV1RERjRVY0NzeEx4M2RZOEVsT0p0ZU5VYWF1bHp3RTZPR2xRUkhiMlp0Q2d1MXNvcmVPTkxwQ3lySXVBYXV5ZmRCTjdWQ3YwVmpoeA?oc=5\" target=\"_blank\">Micron, Western Digital, and Sandisk Just Jumped 12% to 14%. Here's the Forecast That Did It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Three major DRAM ETF holdings (Micron, Western Digital, SanDisk) rose 12-14% on a forecast. The story explains the stock moves are driven by analyst forecasts or expectations rather than a concrete reported event or new hard data—characteristic of market reaction to opinions or forward guidance discussion rather than a settled development."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "5159824a32fec07624f68411884f2a98df42c0a0",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix dismisses Intel Ohio Fab acquisition report; Intel reassures Ohio campus commitment - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWh4akwwMXhYa2FlZjJtWjllX01iekdnU0hlSmhHTVRXdkNmSVRtTEFjZ2ZESS1LdVB3YWtONTEzdjBwdFR0dlZPWDNjOXA3SERYUUNmYlpFRkhHNjJKdkcyLVR0RXpkSU52czF5QWNpM1BoVFVfYzFqSDk5cUZqaVpCRENaTlVvMk93dEhUbm1rR0ZJSkFNSzN3VmtNejBnTFlXSEs5Z25UdERFa0xKWkRCSXVJSnQ5anM2anB0ZUx3VDI4UEh0Qg?oc=5",
+  "published_at": "Wed, 22 Jul 2026 05:02:27 GMT",
+  "published_ts": 1784696547,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWh4akwwMXhYa2FlZjJtWjllX01iekdnU0hlSmhHTVRXdkNmSVRtTEFjZ2ZESS1LdVB3YWtONTEzdjBwdFR0dlZPWDNjOXA3SERYUUNmYlpFRkhHNjJKdkcyLVR0RXpkSU52czF5QWNpM1BoVFVfYzFqSDk5cUZqaVpCRENaTlVvMk93dEhUbm1rR0ZJSkFNSzN3VmtNejBnTFlXSEs5Z25UdERFa0xKWkRCSXVJSnQ5anM2anB0ZUx3VDI4UEh0Qg?oc=5\" target=\"_blank\">SK Hynix dismisses Intel Ohio Fab acquisition report; Intel reassures Ohio campus commitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix denied reports it is acquiring Intel's Ohio fabrication facility; Intel reaffirmed commitment to the Ohio campus. The denial addresses speculation about a major deal involving a fund holding, but represents clarification of rumored (not confirmed) developments rather than a concrete new event."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "575c0ccd706c114d8a3b70cca7e9f775ec834906",
+  "source": "VideoCardz.com",
+  "topic": "holding",
+  "title": "SK hynix expects worst-ever memory shortage in 2027, ADATA expects a decade-long shortage - VideoCardz.com",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWpnV1Y5bllSQkF3WkVpc2lBMUFOeVBzTGVKZFFST3kxNldYLXNUWnZYZkp6WVJMdmFTYjlYMjJ4dzFteFhXdTh6Um5VeHRaeE5lLTBUakJfNGpuanhfM2lUZXJUYnhuOXNPMXJ2WU1KTm1Hei1PZVR2MVd1Z1AxM29BcDBLeUFFdHl3clFoUjhSWVN5NU9zR1VJOHVTUlpzRmVJUHJKNFcxNWVHSVNzMmhLM01WNzA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:24:57 GMT",
+  "published_ts": 1784701497,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWpnV1Y5bllSQkF3WkVpc2lBMUFOeVBzTGVKZFFST3kxNldYLXNUWnZYZkp6WVJMdmFTYjlYMjJ4dzFteFhXdTh6Um5VeHRaeE5lLTBUakJfNGpuanhfM2lUZXJUYnhuOXNPMXJ2WU1KTm1Hei1PZVR2MVd1Z1AxM29BcDBLeUFFdHl3clFoUjhSWVN5NU9zR1VJOHVTUlpzRmVJUHJKNFcxNWVHSVNzMmhLM01WNzA?oc=5\" target=\"_blank\">SK hynix expects worst-ever memory shortage in 2027, ADATA expects a decade-long shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VideoCardz.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "VideoCardz.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix (a major DRAM/NAND producer and fund holding) forecasts a severe memory shortage in 2027; ADATA predicts a decade-long shortage. This is executive commentary on future supply conditions—material to the memory cycle outlook but not a confirmed event or hard capacity decision. Scores as soft forward guidance (opinion/forecast) rather than a concrete development."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "eab5f5c82006c6f63e9dacafcb19adc0e83b803f",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "Samsung, SK and Naver leaders to meet Nvidia CEO Jensen Huang in U.S. AI talks - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2JOTDFhNm1qMkhhbktYenpCRXBPWGpjSURyVjBxMmtfaW1ILUNMTC1lT0FEaldYLVg5ZzUtUmlPRGpqZFRJS3hpbEd1RHpBRXVsVk14dk5RQWRJMlM0cVBBWnhnU21PSmd2U291UElvY1c4YkptXy1UMlZSd3FkUnlvQ0ZVaXFPcTh4NWx6TENjQmhsQmV1M1NoUnFBR3NCanl5bjZ5bWZFcjA1VGQ5TXR6bFFhZ2NLMlZucDhBSnBrT0dnSklr?oc=5",
+  "published_at": "Wed, 22 Jul 2026 01:45:48 GMT",
+  "published_ts": 1784684748,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2JOTDFhNm1qMkhhbktYenpCRXBPWGpjSURyVjBxMmtfaW1ILUNMTC1lT0FEaldYLVg5ZzUtUmlPRGpqZFRJS3hpbEd1RHpBRXVsVk14dk5RQWRJMlM0cVBBWnhnU21PSmd2U291UElvY1c4YkptXy1UMlZSd3FkUnlvQ0ZVaXFPcTh4NWx6TENjQmhsQmV1M1NoUnFBR3NCanl5bjZ5bWZFcjA1VGQ5TXR6bFFhZ2NLMlZucDhBSnBrT0dnSklr?oc=5\" target=\"_blank\">Samsung, SK and Naver leaders to meet Nvidia CEO Jensen Huang in U.S. AI talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Korea JoongAng Daily",
+    "매일경제"
+   ],
+   "titles": [
+    "Samsung, SK, Naver chiefs to meet Nvidia’s Jensen Huang in U.S. - 매일경제"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix executives are scheduled to meet Nvidia CEO Jensen Huang in the U.S. for AI discussions. This indicates potential engagement on AI infrastructure and memory demand, but is a planned meeting with no confirmed deal or concrete outcome announced yet."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "75ef10de5b54779772066fa20aba66c6b57dd80b",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung Electronics Seen Reaching $593 Billion Revenue in 2027 After S&P Raises Outlook - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pa0NpdjRrc0k0WUIzZy1MdWxoZFBLLW9iQnJwUHl5VnVRcUlkYlVmUjhlSk9ZbEZqbm9zUVBfX2lXdy1oLWM3czRQVUNaMnd2VThKNA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 02:45:46 GMT",
+  "published_ts": 1784688346,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pa0NpdjRrc0k0WUIzZy1MdWxoZFBLLW9iQnJwUHl5VnVRcUlkYlVmUjhlSk9ZbEZqbm9zUVBfX2lXdy1oLWM3czRQVUNaMnd2VThKNA?oc=5\" target=\"_blank\">Samsung Electronics Seen Reaching $593 Billion Revenue in 2027 After S&amp;P Raises Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "S&P raised its outlook for Samsung Electronics, projecting $593 billion revenue by 2027. This is an analyst forecast and outlook revision rather than a concrete event or earnings surprise, so it carries moderate relevance as sentiment on a major holding but does not constitute new hard information about memory demand or pricing."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "35e0ae1b347d4f8dca59bce1b2a2cf325d587f79",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "S&P lifts Samsung Electronics outlook as AI-fueled memory boom drives gains - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDYlB4V0huWXA3LWo3QWFGc0xtLTRfRWdJZkM1RHBvTnU0YUcyYlRDUzJSWHZvVV8tSlNiS0U1dk9zNXJVbGdVOUpBV3NBZ3BPS1VURG91MkFEczRucXhjc3MtNjh5N2toTUYzOUc3UUNGb2NuSWlfOUpB0gGOAUFVX3lxTE5laTl5T1V3UHhjR25mdFBpMDBiaGxTZjUtbkktcDBuN1Q3eUlpT3VEdnhIaDJpWnVFYTMwSU5VMENZVjhrM0VxOTRFbS12VmJFVVhURGpDbEtoTm5IQUd6dllabmVRa04ycVFDNmJadTF3SG0tWk8zUlpiaGQ1MGdhYjhEblRvalpHUldtUGc?oc=5",
+  "published_at": "Wed, 22 Jul 2026 05:18:00 GMT",
+  "published_ts": 1784697480,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBDYlB4V0huWXA3LWo3QWFGc0xtLTRfRWdJZkM1RHBvTnU0YUcyYlRDUzJSWHZvVV8tSlNiS0U1dk9zNXJVbGdVOUpBV3NBZ3BPS1VURG91MkFEczRucXhjc3MtNjh5N2toTUYzOUc3UUNGb2NuSWlfOUpB0gGOAUFVX3lxTE5laTl5T1V3UHhjR25mdFBpMDBiaGxTZjUtbkktcDBuN1Q3eUlpT3VEdnhIaDJpWnVFYTMwSU5VMENZVjhrM0VxOTRFbS12VmJFVVhURGpDbEtoTm5IQUd6dllabmVRa04ycVFDNmJadTF3SG0tWk8zUlpiaGQ1MGdhYjhEblRvalpHUldtUGc?oc=5\" target=\"_blank\">S&amp;P lifts Samsung Electronics outlook as AI-fueled memory boom drives gains - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "S&P upgraded Samsung Electronics' outlook, citing AI-driven memory demand. This is analyst opinion/rating action on a fund holding in response to industry tailwinds, not a new concrete event or hard number from Samsung itself."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "5c3fde41cb5cf89533f5db5b301b0ad5bc44fbf6",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "SK hynix Shoots Down Intel Ohio Deal Rumor, Yet Admits It’s Still Hunting Acquisitions - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXU3aS1NRERMOWljWERPemdBMnVqUXVCc0pYWnNvMFQ1YURCaHp2ekhDZ3l0bk83M2ZFZ1d2UWszN3loUGlTYVhoZ2RHVF8yWVQ4UGc5VmdkaThXanR6b2pDVlNtUUZPSkNZMm1WRWdEazJCRkdXck1Cdkx6RTVYQzVLX21yb3VQYzhTT3hXTWdaYjhYWVNkenlNVlRsZXZKeENrQkQzbE5EZ9IBrwFBVV95cUxNa0ZaMHBwZlhhX01JSGxadS1OM0xFbE9NUG1odDVtNmszMFJUMzl4QWRiU0h5b3lzZjMxZjFVZVBMNEVYNnhReXVjakE2MS1tZS1iMVVJS2ZMRllxSzFuWEtSU21QT3B2cUc3QVBKZVBybTVEZWhYMEt6RTkzLTIyNW5NXy16S0N2cUVLR1VVc1FoNTExUkRJSXNyVkkzNXhMOC15VVlKbHRaUjh5M2gw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:47:11 GMT",
+  "published_ts": 1784702831,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXU3aS1NRERMOWljWERPemdBMnVqUXVCc0pYWnNvMFQ1YURCaHp2ekhDZ3l0bk83M2ZFZ1d2UWszN3loUGlTYVhoZ2RHVF8yWVQ4UGc5VmdkaThXanR6b2pDVlNtUUZPSkNZMm1WRWdEazJCRkdXck1Cdkx6RTVYQzVLX21yb3VQYzhTT3hXTWdaYjhYWVNkenlNVlRsZXZKeENrQkQzbE5EZ9IBrwFBVV95cUxNa0ZaMHBwZlhhX01JSGxadS1OM0xFbE9NUG1odDVtNmszMFJUMzl4QWRiU0h5b3lzZjMxZjFVZVBMNEVYNnhReXVjakE2MS1tZS1iMVVJS2ZMRllxSzFuWEtSU21QT3B2cUc3QVBKZVBybTVEZWhYMEt6RTkzLTIyNW5NXy16S0N2cUVLR1VVc1FoNTExUkRJSXNyVkkzNXhMOC15VVlKbHRaUjh5M2gw?oc=5\" target=\"_blank\">SK hynix Shoots Down Intel Ohio Deal Rumor, Yet Admits It’s Still Hunting Acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix denies rumor of Intel Ohio deal but confirms ongoing acquisition hunting. This is speculation about potential M&A activity rather than a concrete event; no deal announced or terms disclosed. Relevant to the holding but soft intel."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "b72c74a694155d3ccbc917a64c407d6ce062c45c",
+  "source": "TweakTown",
+  "topic": "holding",
+  "title": "SK hynix CEO says 2027 will be the worst year on record for memory supply - TweakTown",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMG9uU2JmVEJNT2RRQ1hxcjJUZm1GWXJmdFdCbGV3ZmNOQTNFdGJrem1JN2tkdHNKWUdXN0QxMnJzd0FPbE5pbEpfbEwtajI0Z1o2cEJSZEFfalhxMlBMVHFfWGJaMVhkM3o4Y19NbnptNXlsblE4ODVJNzBWWWpFWGZSZ0hLZklGd0c0RHZlWXQzZDUxbjE4Z1pRRDRqaVlJeWR0N2EtbV9MOWJhRGZSRFZTVUhxdHE2VFVRbWJwZw?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:58:07 GMT",
+  "published_ts": 1784703487,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMG9uU2JmVEJNT2RRQ1hxcjJUZm1GWXJmdFdCbGV3ZmNOQTNFdGJrem1JN2tkdHNKWUdXN0QxMnJzd0FPbE5pbEpfbEwtajI0Z1o2cEJSZEFfalhxMlBMVHFfWGJaMVhkM3o4Y19NbnptNXlsblE4ODVJNzBWWWpFWGZSZ0hLZklGd0c0RHZlWXQzZDUxbjE4Z1pRRDRqaVlJeWR0N2EtbV9MOWJhRGZSRFZTVUhxdHE2VFVRbWJwZw?oc=5\" target=\"_blank\">SK hynix CEO says 2027 will be the worst year on record for memory supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TweakTown</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TweakTown"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix CEO forecasts 2027 will be the worst year on record for memory supply. This is forward guidance/opinion about future supply conditions rather than a confirmed event, making it a soft but relevant industry signal about the memory cycle."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "8d2bd3797777b75e91bdb2bb509d1784c9c31c59",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "S&P lifts Samsung outlook to positive on AI memory boom - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mczJFZXRNM1E3NU9kdWRzYlkxVHNuVUhCTmFwM0VIb2VrbGF0dHcwYzI0N2pqejRvc01WVW5ITjFzZXk5X1RleG5EdVBnSmZUTHN6dTgwNA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 05:06:43 GMT",
+  "published_ts": 1784696803,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mczJFZXRNM1E3NU9kdWRzYlkxVHNuVUhCTmFwM0VIb2VrbGF0dHcwYzI0N2pqejRvc01WVW5ITjFzZXk5X1RleG5EdVBnSmZUTHN6dTgwNA?oc=5\" target=\"_blank\">S&amp;P lifts Samsung outlook to positive on AI memory boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "S&P raised Samsung's outlook to positive, citing AI memory demand as a driver. This is analyst/rating action on a key holding (Samsung's memory/semiconductor arm is in DRAM), but it reflects market consensus around known AI trends rather than a new concrete event or confirmed Samsung announcement. Outlook upgrades are soft signals, not hard operational or financial facts."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "edd5cfd518d524a7b4396d85ee69214ba8a7fed6",
+  "source": "MLex",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix lead race as DRAM SEP market emerges - MLex",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjNsWUNiTnppRzBOYmlOejl1VlFlZzJtSUR4UDZvb3hpTVFpRTVBNDdiMmhtSXc3MEg0LUw2WDlXU2xpX2QwcXM2Qlphd3AzVFJ4aTdKV1A5WG5HWGZoT1hNckRtdEVtWkNveW0yR1B5QUFLWVB6d0NNM0hadTB1TDNSS3A4TFV6US04WVZSRWZQdDdieWRwWUllSlbSAVpBVV95cUxObFVPWUtUbEFqVWprQTJlTXNHQUtiTmc5ck5vc2VlN0Q3M2Z5bUp2VHpKa3VjTzFfck5zZmhzWXNjSVdnNkt1dWdhWVF6NlFnN1BhX3A1OWNNd1E?oc=5",
+  "published_at": "Wed, 22 Jul 2026 06:01:00 GMT",
+  "published_ts": 1784700060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjNsWUNiTnppRzBOYmlOejl1VlFlZzJtSUR4UDZvb3hpTVFpRTVBNDdiMmhtSXc3MEg0LUw2WDlXU2xpX2QwcXM2Qlphd3AzVFJ4aTdKV1A5WG5HWGZoT1hNckRtdEVtWkNveW0yR1B5QUFLWVB6d0NNM0hadTB1TDNSS3A4TFV6US04WVZSRWZQdDdieWRwWUllSlbSAVpBVV95cUxObFVPWUtUbEFqVWprQTJlTXNHQUtiTmc5ck5vc2VlN0Q3M2Z5bUp2VHpKa3VjTzFfck5zZmhzWXNjSVdnNkt1dWdhWVF6NlFnN1BhX3A1OWNNd1E?oc=5\" target=\"_blank\">Samsung, SK Hynix lead race as DRAM SEP market emerges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLex</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MLex"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Samsung and SK Hynix are leading in the emerging DRAM SEP (Specialty DRAM) market. This is relevant as both are major holdings/competitors in the memory sector, but the story appears to be analysis/market positioning rather than a concrete event or announced capacity decision."
+  },
+  "buffered_ts": 1784704094.4072928
+ },
+ {
+  "id": "dcf9f3499908c1c10ea6d1dbe850cff6630d0d34",
+  "source": "bloomingbit",
+  "topic": "holding",
+  "title": "Samsung Electronics, SK Hynix Rally as US Chip Stocks Rebound - bloomingbit",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWGRRNG5fQXI1SGk0X0hWWHhkNEdfOWVzN0llU3JORGxfQXBmNUE1cmtLazh1aVo1S2dnOTlIM0w3NS1lNWQ3eGt2ODR0bjdTeU5fOQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 00:58:45 GMT",
+  "published_ts": 1784681925,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWGRRNG5fQXI1SGk0X0hWWHhkNEdfOWVzN0llU3JORGxfQXBmNUE1cmtLazh1aVo1S2dnOTlIM0w3NS1lNWQ3eGt2ODR0bjdTeU5fOQ?oc=5\" target=\"_blank\">Samsung Electronics, SK Hynix Rally as US Chip Stocks Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "bloomingbit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Hynix stocks rallied as part of a broader US chip sector rebound. No specific catalyst or material news about memory demand, pricing, production, or fundamentals stated—appears to be a market sentiment/price-movement piece without a concrete underlying event."
+  },
+  "buffered_ts": 1784704094.4072928
  }
 ]
