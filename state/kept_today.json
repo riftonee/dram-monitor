@@ -1300,5 +1300,269 @@
    "summary": "Opinion piece predicting stock declines for Micron and SanDisk after July 30, likely tied to upcoming earnings. This is analyst speculation/forecast rather than confirmed news or concrete events, and lacks specific catalysts or hard data beyond the prediction itself."
   },
   "buffered_ts": 1784765034.5006585
+ },
+ {
+  "id": "81b838c9681581fad5925f5eabf9531bd9fa39fa",
+  "source": "XenoSpectrum",
+  "topic": "pricing",
+  "title": "DDR4 Spot Prices Rise 3.27% in a Week, But Demand for Branded Products Fails to Translate into Deals - XenoSpectrum",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VGJ4Mms1bzlkX3B3S0pudUxSQkFVNTVOQmJkaEhMdHROZnVCbFJYTjZ4U1FwUDdyRmFxQmVuOXo2dGNLQjdXdjVKcW1wWklmakpMZ2pGLXZKZGs4ai1MeEV0WEVVUjZCNE5V?oc=5",
+  "published_at": "Thu, 23 Jul 2026 00:43:06 GMT",
+  "published_ts": 1784767386,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VGJ4Mms1bzlkX3B3S0pudUxSQkFVNTVOQmJkaEhMdHROZnVCbFJYTjZ4U1FwUDdyRmFxQmVuOXo2dGNLQjdXdjVKcW1wWklmakpMZ2pGLXZKZGs4ai1MeEV0WEVVUjZCNE5V?oc=5\" target=\"_blank\">DDR4 Spot Prices Rise 3.27% in a Week, But Demand for Branded Products Fails to Translate into Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "XenoSpectrum"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "DDR4 spot prices rose 3.27% in a week, but weak demand for branded products suggests limited follow-through. A concrete price move with directional signal, but the disconnect between spot gains and actual deal flow indicates mixed market conditions—relevant to the memory cycle but not a definitive catalyst."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "3e70150ef9b377f40870d0801f075e8e6c9b2fe8",
+  "source": "Investing.com South Africa",
+  "topic": "industry",
+  "title": "Micron earnings sustainability: HBM shift or another cyclical peak? By Investing.com - Investing.com South Africa",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVFkeVY3M08yWnlGa0xLU2dkbFJNRWF6WjQzZVExN19UeWtZUnJMTWIxY0stekItZFYxcUNhNDE5cXYtejlnOVc2eHMzNVhsZVVuc1pqZUxSLUhQaWlVNEJ5SVQ5R2RySVVRU3F3LXVXVVpXM2daeUlrRnMxck5lUkFRNHhjR3VEdmx0ZksyWkRPMEtuZTc4d09NUU5hTkJaaGszQU1oWlBzNjVGdU1JTzgzdXNqV3lBak5JemZWUmRWUzJyLTBUdW9rYl94Z0dJbnZaRQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 22:55:19 GMT",
+  "published_ts": 1784760919,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVFkeVY3M08yWnlGa0xLU2dkbFJNRWF6WjQzZVExN19UeWtZUnJMTWIxY0stekItZFYxcUNhNDE5cXYtejlnOVc2eHMzNVhsZVVuc1pqZUxSLUhQaWlVNEJ5SVQ5R2RySVVRU3F3LXVXVVpXM2daeUlrRnMxck5lUkFRNHhjR3VEdmx0ZksyWkRPMEtuZTc4d09NUU5hTkJaaGszQU1oWlBzNjVGdU1JTzgzdXNqV3lBak5JemZWUmRWUzJyLTBUdW9rYl94Z0dJbnZaRQ?oc=5\" target=\"_blank\">Micron earnings sustainability: HBM shift or another cyclical peak? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com South Africa"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece examining whether Micron's earnings strength is driven by a structural HBM shift or represents another cyclical peak in the memory market. Opinion/analysis rather than a concrete event or new data point."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "afa466b4993ac2f3256cc0e27e9e8ea559004597",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Is Samsung Electronics (KOSE:A005930) Fully Valued Following The US ITC Patent Probe? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ24zbnA1cTNHS1pYSVFBTTZaT0I0T0JYbndmWUpSaUtCaHFWbWtMQmhIc0tManJDb1ZReHFObkNtYnBGUlo1bkljZVdSWGxybGtrajJGZDU0MU9QcHhJeEpmbzJlZmJpV0NxeTN4dEkyM2tINGVJZWRwLUFZNnF2LWx2N3ZjTFFsU2tZejd2NURRXzFEZkZaSV8zMzI5WlNtM3pQN0N3?oc=5",
+  "published_at": "Tue, 21 Jul 2026 15:11:24 GMT",
+  "published_ts": 1784646684,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ24zbnA1cTNHS1pYSVFBTTZaT0I0T0JYbndmWUpSaUtCaHFWbWtMQmhIc0tManJDb1ZReHFObkNtYnBGUlo1bkljZVdSWGxybGtrajJGZDU0MU9QcHhJeEpmbzJlZmJpV0NxeTN4dEkyM2tINGVJZWRwLUFZNnF2LWx2N3ZjTFFsU2tZejd2NURRXzFEZkZaSV8zMzI5WlNtM3pQN0N3?oc=5\" target=\"_blank\">Is Samsung Electronics (KOSE:A005930) Fully Valued Following The US ITC Patent Probe?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis of Samsung Electronics valuation in context of a US ITC patent probe. Samsung is a DRAM ETF holding via its memory semiconductor business, and patent disputes can materially affect business and licensing, but this appears to be analytical/opinion-driven commentary on valuation rather than reporting a concrete development in the probe itself."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "1cf4e313bb6629922abd7cd47c562a4de8771908",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEo4N1pRaTZzdmRFU2RqNUF3cFlQRlpMMm5uS2lSR0E3ckN4TlQ4a1ktNnN3cTExa25KMWxOa1RrUlJWZm9ORk83SWZTSGZacW1veVVzRldKTUt2ZklEanpFY2FHQWtEb0oyXzBZcXZpSHV3ekJjOVNkWF82MEhkQXNxcy1oWUJIVXFqMnpULWllSDVoSHlkZktCSUpRaWM2RXl3Sm9YRHRWUUhQd2VKYTVpeEM4dTZwQkM0UjRCdzNHZUFDVmNuS2pUVQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:29:31 GMT",
+  "published_ts": 1784755771,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEo4N1pRaTZzdmRFU2RqNUF3cFlQRlpMMm5uS2lSR0E3ckN4TlQ4a1ktNnN3cTExa25KMWxOa1RrUlJWZm9ORk83SWZTSGZacW1veVVzRldKTUt2ZklEanpFY2FHQWtEb0oyXzBZcXZpSHV3ekJjOVNkWF82MEhkQXNxcy1oWUJIVXFqMnpULWllSDVoSHlkZktCSUpRaWM2RXl3Sm9YRHRWUUhQd2VKYTVpeEM4dTZwQkM0UjRCdzNHZUFDVmNuS2pUVQ?oc=5\" target=\"_blank\">Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel is exploring a partnership for its Ohio chip fab with SK Hynix among potential candidates. This is a speculative, early-stage discussion rather than a confirmed deal, and while SK Hynix is a fund holding, the outcome and memory-specific implications remain uncertain."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "10cb9f072fc46d35a0411e0cfc7003779b90ce18",
+  "source": "TechNode",
+  "topic": "holding",
+  "title": "Report says Oppo and Vivo decline Samsung Electronics’ Q3 2026 memory price offer - TechNode",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGNGbmNTSTUxTGtpZ1R5RXdxWWk0M2hDc3hQUHo2djBYdkZ5VFU2NEpWbmZXdzVWb25tWnZTTzNybUtjbzZLRDA2QWFzM3N4ZUFjVzFrYmlVQWtMeldEcjFpRkoxanpsek44TWJITVhjQlR2SUxoS1JGaGgycDlOb0RPM3ZfaTlzVXVDVGl4M3FzU0VpQ1E4SjBrdXRwQTNGM3RMMjFrYXBhU3ppaUVVQW1IRQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 02:55:27 GMT",
+  "published_ts": 1784775327,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGNGbmNTSTUxTGtpZ1R5RXdxWWk0M2hDc3hQUHo2djBYdkZ5VFU2NEpWbmZXdzVWb25tWnZTTzNybUtjbzZLRDA2QWFzM3N4ZUFjVzFrYmlVQWtMeldEcjFpRkoxanpsek44TWJITVhjQlR2SUxoS1JGaGgycDlOb0RPM3ZfaTlzVXVDVGl4M3FzU0VpQ1E4SjBrdXRwQTNGM3RMMjFrYXBhU3ppaUVVQW1IRQ?oc=5\" target=\"_blank\">Report says Oppo and Vivo decline Samsung Electronics’ Q3 2026 memory price offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechNode</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechNode"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Oppo and Vivo reportedly declined Samsung Electronics' Q3 2026 memory pricing offer, suggesting demand softness or pricing pressure in the smartphone supply chain. While indicative of near-term memory pricing dynamics, this is a market report of negotiations/discussions rather than a confirmed deal outcome or official price announcement."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "bba231fd9563f5585993075fba6ce3fee609f76a",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "SK Hynix denies Intel Ohio fab deal, but the market didn’t care - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZjFPNm40blJBaUFvQi05Ui1iZDZyZ25UYXV3M1FMV0NaQnFfQ2l5ZkhuZHZ2YVFhMFRIT2YyUC1OUkxSNjh5Ry0yUmd1S0pDLTdZU1V0cTFZRDZ3Y1YtZUM0MXhEWWJFdHhySkp0N2ZzS0FMNjl1U0NHNjk?oc=5",
+  "published_at": "Thu, 23 Jul 2026 00:07:00 GMT",
+  "published_ts": 1784765220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZjFPNm40blJBaUFvQi05Ui1iZDZyZ25UYXV3M1FMV0NaQnFfQ2l5ZkhuZHZ2YVFhMFRIT2YyUC1OUkxSNjh5Ry0yUmd1S0pDLTdZU1V0cTFZRDZ3Y1YtZUM0MXhEWWJFdHhySkp0N2ZzS0FMNjl1U0NHNjk?oc=5\" target=\"_blank\">SK Hynix denies Intel Ohio fab deal, but the market didn’t care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix issued a denial regarding a rumored Intel Ohio fab deal. The headline notes the market reaction was muted despite the denial, suggesting the market had already priced in skepticism of the deal. This is relevant to the holding but represents clarification/denial of prior speculation rather than a concrete new development that moves the memory cycle or SK Hynix's fundamentals."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "63f02a37c11cfdd770bc423cf917605d15070dfe",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "SanDisk’s Bold Pivot From AI Boom Beneficiary to Bust Breaker - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTJ5NWhwdGRET2JIM2FxUDdYR011RGRjQVZNUVdqMzZ4NzhzTFdYVzBBcnFZM0Y0M2RtYW5YOElOdWtrQnZmSmxlcGcyYzhxWHVyRERiWEhXQUtFVXVJY3lzVEN4d2dMemMyTkVSVzJSMTdvamFRa0gzeUU5NmNVZ1pLbkVhNGNSSjFoNDM0dHk3bE1fenFJX3haekU5VXI0MHV2c3lFek01TlBBclpF?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:04:57 GMT",
+  "published_ts": 1784754297,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTJ5NWhwdGRET2JIM2FxUDdYR011RGRjQVZNUVdqMzZ4NzhzTFdYVzBBcnFZM0Y0M2RtYW5YOElOdWtrQnZmSmxlcGcyYzhxWHVyRERiWEhXQUtFVXVJY3lzVEN4d2dMemMyTkVSVzJSMTdvamFRa0gzeUU5NmNVZ1pLbkVhNGNSSjFoNDM0dHk3bE1fenFJX3haekU5VXI0MHV2c3lFek01TlBBclpF?oc=5\" target=\"_blank\">SanDisk’s Bold Pivot From AI Boom Beneficiary to Bust Breaker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Trefis analysis piece on SanDisk's strategic pivot and performance during the AI cycle transition. Commentary and opinion on the company's market positioning rather than a concrete event or reported development."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "35cc6d71bb7f10ae13c6615e4fb722ce16de29a0",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Sandisk Stock Was a Winner on Wednesday - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGlqT3doNXlwUE5LUnE4NGpwbTYwc0tMdGNXcHpXS0ZaaEdGZFdEZFRaYUxpd1VLY2tPdHdwa1ZSSVZoVlBFUS00Mm9SeFdvSm9lWW9tQW1rTHNJdEVHTDNuTS1jdGNELXhMeHlmSXZ1SE9hdHZGSXhpSHB1cUozODNOcU1VeHdHRHA3NXFJSQ?oc=5",
+  "published_at": "Wed, 22 Jul 2026 22:39:00 GMT",
+  "published_ts": 1784759940,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGlqT3doNXlwUE5LUnE4NGpwbTYwc0tMdGNXcHpXS0ZaaEdGZFdEZFRaYUxpd1VLY2tPdHdwa1ZSSVZoVlBFUS00Mm9SeFdvSm9lWW9tQW1rTHNJdEVHTDNuTS1jdGNELXhMeHlmSXZ1SE9hdHZGSXhpSHB1cUozODNOcU1VeHdHRHA3NXFJSQ?oc=5\" target=\"_blank\">Why Sandisk Stock Was a Winner on Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock moved positively on Wednesday. The article is a post-hoc market reaction piece analyzing why the stock won on that day. Without details on a concrete catalyst (earnings, guidance change, deal announcement, or pricing movement), this is a soft post-price-move analysis rather than a new market-moving event."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "292aee366d2ec2f1bc808db3fab049a5d1816802",
+  "source": "Zacks Investment Research",
+  "topic": "holding",
+  "title": "What is the current Price Target and Forecast for SK Hynix, Inc. - Sponsored ADR (SKHY) - Zacks Investment Research",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbU5aOGdDT1NOY1B3SjdGRHRNNDNGS2dHem54Q0VtcjdiMGF2VGtLVFNRZjB6dzNmVnhfdmYzYUlrS2FWeVhqZ3hnUnhZcFdVeEZjTjBtWFdzeUd0Z3lVWWNRNDdfRm1YT2hHYmF2RXR6RFY3ZmFUbA?oc=5",
+  "published_at": "Wed, 22 Jul 2026 20:00:00 GMT",
+  "published_ts": 1784750400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbU5aOGdDT1NOY1B3SjdGRHRNNDNGS2dHem54Q0VtcjdiMGF2VGtLVFNRZjB6dzNmVnhfdmYzYUlrS2FWeVhqZ3hnUnhZcFdVeEZjTjBtWFdzeUd0Z3lVWWNRNDdfRm1YT2hHYmF2RXR6RFY3ZmFUbA?oc=5\" target=\"_blank\">What is the current Price Target and Forecast for SK Hynix, Inc. - Sponsored ADR (SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Zacks Investment Research"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Zacks Investment Research publishes current price target and forecast for SK hynix (SKHY), a major fund holding. This is analyst commentary on valuation expectations rather than new information or a concrete event."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "f948f02b25c1ee9089c8406c1d5a6ad1dc22a045",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix CEOs Face Criminal Complaint Over Profit-Linked Bonuses - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NWtvYmFNVEFXX2RDM0tQMVV3eld4OGcxVC1EZ0pFWVlPb3NXODFHTWFiSjg3S3FMUE1fX1lWbFl1U1Q2cURhVC1MWkNYWkVIaXdIR0FPaEg4cGdYN0d3eGlMN2JrSjJDM0VLN3ZObU41SF9ERWc?oc=5",
+  "published_at": "Thu, 23 Jul 2026 00:37:00 GMT",
+  "published_ts": 1784767020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NWtvYmFNVEFXX2RDM0tQMVV3eld4OGcxVC1EZ0pFWVlPb3NXODFHTWFiSjg3S3FMUE1fX1lWbFl1U1Q2cURhVC1MWkNYWkVIaXdIR0FPaEg4cGdYN0d3eGlMN2JrSjJDM0VLN3ZObU41SF9ERWc?oc=5\" target=\"_blank\">Samsung, SK Hynix CEOs Face Criminal Complaint Over Profit-Linked Bonuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Criminal complaint filed against Samsung and SK Hynix CEOs regarding profit-linked bonus practices. While it involves two major fund holdings, this is a corporate governance/legal matter with unclear operational or financial impact on memory business performance. Warrants monitoring but does not represent a concrete market-moving event for the memory cycle or company financials."
+  },
+  "buffered_ts": 1784778823.751846
+ },
+ {
+  "id": "a24d7645345800f94327f1b18c4a44b5f273b5ea",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Hynix ADR premium signals Korea share gains as conversion lags - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUFHUDFXOVRDM0hPU2RjLUJiQmpsYkJHNE1MdEdtaUJSTXJvZDhNTUxUdjRXcXhMU1Bic0VsdmUwR0Q3S0VaaXpnRjMxdWNIYTNJUnR1MUdLTE9PdkotUHBFUkNfWkFKTE1oaE5EVEE0TFpNbnVHdzlXc01lX1h6RtIBlAFBVV95cUxNRTVoSFdycG1qMnl4WllDekJTQ01JdmFUemRfVjdVNzgwQzgydnBkZ3E2SGltNGliM2NkNmlWSUxMYVBuQjF6OTB3bTN6MEhuUkRlQmhtRExocWdBQVVpRzhha1B1ZnZjT08yQTlrOFlaMklSeThnOTRuSlIzcVpSblFYNGFEWDgzMXFBNnBja0hGS2Rq?oc=5",
+  "published_at": "Wed, 22 Jul 2026 23:36:00 GMT",
+  "published_ts": 1784763360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUFHUDFXOVRDM0hPU2RjLUJiQmpsYkJHNE1MdEdtaUJSTXJvZDhNTUxUdjRXcXhMU1Bic0VsdmUwR0Q3S0VaaXpnRjMxdWNIYTNJUnR1MUdLTE9PdkotUHBFUkNfWkFKTE1oaE5EVEE0TFpNbnVHdzlXc01lX1h6RtIBlAFBVV95cUxNRTVoSFdycG1qMnl4WllDekJTQ01JdmFUemRfVjdVNzgwQzgydnBkZ3E2SGltNGliM2NkNmlWSUxMYVBuQjF6OTB3bTN6MEhuUkRlQmhtRExocWdBQVVpRzhha1B1ZnZjT08yQTlrOFlaMklSeThnOTRuSlIzcVpSblFYNGFEWDgzMXFBNnBja0hGS2Rq?oc=5\" target=\"_blank\">Hynix ADR premium signals Korea share gains as conversion lags - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a premium to Korean shares, suggesting potential gains in Korea-listed stock due to conversion lag. Minor technical/valuation observation with no concrete operational or market-moving news."
+  },
+  "buffered_ts": 1784778823.751846
  }
 ]
