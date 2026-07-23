@@ -2071,5 +2071,346 @@
    "summary": "Technical analysis of SK Hynix stock ahead of July 29 earnings, noting an ascending channel with a $184 price target. No new material information about the company or memory market; primarily chart-based speculation on near-term price movement."
   },
   "buffered_ts": 1784797732.4310403
+ },
+ {
+  "id": "1e0463e34e2ccf700d6a117ebd175ccdd9364336",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Acquiring Intel's Ohio Fab Was a Misunderstanding? SK Hynix Shares Plunge After Denial - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUXM5LXdpRlVxbi1VWU50Y3Q2YVZiVUVqUklkME9OSHdkU0d0UzJWaE1WVkV6dUxSWVE1WmhreWw5b3hKcWo5d3k1Zl9UMEw5SXpta0M0WE5nNjNOZWNGWmpXTWJicXVNckV6dmNwUzBYYng0SHc?oc=5",
+  "published_at": "Thu, 23 Jul 2026 04:25:00 GMT",
+  "published_ts": 1784780700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUXM5LXdpRlVxbi1VWU50Y3Q2YVZiVUVqUklkME9OSHdkU0d0UzJWaE1WVkV6dUxSWVE1WmhreWw5b3hKcWo5d3k1Zl9UMEw5SXpta0M0WE5nNjNOZWNGWmpXTWJicXVNckV6dmNwUzBYYng0SHc?oc=5\" target=\"_blank\">Acquiring Intel's Ohio Fab Was a Misunderstanding? SK Hynix Shares Plunge After Denial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix denied reports of acquiring Intel's Ohio fab, causing shares to plunge. The reversal of acquisition expectations is a concrete, market-moving development for a key DRAM fund holding with direct implications for SK Hynix's capacity and strategy."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "495d3bb0d7b6335fef5886a00b465411fb76c815",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix Sets Upper Limit for ADR Conversion at 2.5% of Outstanding Shares - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWhmbkpLemVtVExzUmNyZ2pRcGhWWkkyMkcxSWxCem1kVXZFTDJiSGt4TWdndUw0dlc5Q0pBWGQtNktRQXdaN1BDUFZJRS1nLWdFS0ktYWpQdmJaZXBvb2I4a1lneUxkOEtaYUpDalRpYWtnRjdQYURzd3FzbnNUTTI2OVZPamIybWJWZGpNX0cxSUhSMUhJYi1JZUxlN252NmYxOFFnYk1uNVotZ1B4eHBoaWtQYkRWSEtWczdfbDFMZ200?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:57:26 GMT",
+  "published_ts": 1784800646,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWhmbkpLemVtVExzUmNyZ2pRcGhWWkkyMkcxSWxCem1kVXZFTDJiSGt4TWdndUw0dlc5Q0pBWGQtNktRQXdaN1BDUFZJRS1nLWdFS0ktYWpQdmJaZXBvb2I4a1lneUxkOEtaYUpDalRpYWtnRjdQYURzd3FzbnNUTTI2OVZPamIybWJWZGpNX0cxSUhSMUhJYi1JZUxlN252NmYxOFFnYk1uNVotZ1B4eHBoaWtQYkRWSEtWczdfbDFMZ200?oc=5\" target=\"_blank\">SK Hynix Sets Upper Limit for ADR Conversion at 2.5% of Outstanding Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has announced an official upper limit of 2.5% of outstanding shares for ADR (American Depositary Receipt) conversion, a concrete corporate governance/capital structure decision affecting the holding."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "ff6514921e29d0414dc9ca635fde336bd67bf0a6",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "STARTRADER Launches SKHY as SK Hynix Makes US Market Debut By FinanceWire - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMS1FOUV4VW05cGdjXzZOU2hmTUh6ZzlUZHBIVmdGZGw4Vkk3eVNzeUh6YU5OSVlBZ3IyakZwa2tsUG5nZUFoazB3R1hXV3VEVmc0X21qQ3BtV3VnNzlCUDc4SFJnNVItWThfWnNKNzVlNEJMVnlWQ1NkalI2YUFtRHJXYnUxX2w3ZEJWWnFiaXZrbGlWWm9QR0t1OENxNmFDeFlaOVpyU2lBZXgwMno0?oc=5",
+  "published_at": "Thu, 23 Jul 2026 08:15:00 GMT",
+  "published_ts": 1784794500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMS1FOUV4VW05cGdjXzZOU2hmTUh6ZzlUZHBIVmdGZGw4Vkk3eVNzeUh6YU5OSVlBZ3IyakZwa2tsUG5nZUFoazB3R1hXV3VEVmc0X21qQ3BtV3VnNzlCUDc4SFJnNVItWThfWnNKNzVlNEJMVnlWQ1NkalI2YUFtRHJXYnUxX2w3ZEJWWnFiaXZrbGlWWm9QR0t1OENxNmFDeFlaOVpyU2lBZXgwMno0?oc=5\" target=\"_blank\">STARTRADER Launches SKHY as SK Hynix Makes US Market Debut By FinanceWire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "mykxlg.com",
+    "FXStreet"
+   ],
+   "titles": [
+    "STARTRADER Launches SKHY as SK Hynix Makes US Market Debut - mykxlg.com",
+    "STARTRADER launches SKHY as SK Hynix makes US market debut - FXStreet"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix launches US market trading under ticker SKHY, marking a significant development for a core DRAM ETF holding. This is a concrete corporate action that expands accessibility to one of the fund's major components in the US market."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "d962a53f220c45c40d3cb1de02a8e53145ff2418",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Samsung reallocates CSS staff to memory and System LSI within DS - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44YTZscVZ5YXpmR1Q1X1k5Rm1IdHRteUtValkwZ19FLXRjdXFrN2poMEphY3hNZ3ZKODZfQVlZendBdk0xN2RKRnRyWDJhNUlFRC1wTDM0b3dVREMzdm5FTEZhMkF5d1RfVkFEdUpBR0VUdmt5ckliWlF30gGOAUFVX3lxTE53UEFFeFNja2c5bTVCcldXdEwySDByZUZCX0NPMGlzSG8xeUhqbjQ4MFoyZ3R1U2FuR09zVUJWNW1GMWU5YnQ2aGdUQ2gzQVpYWlBjUE05NzRsR0VSSGdqazBtc0FHSnd4VkNtUVpXYjNoaVdBNC1ZQ3dSSXFMMU5yZDJqblhudndKbk9Kc3c?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:39:00 GMT",
+  "published_ts": 1784803140,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44YTZscVZ5YXpmR1Q1X1k5Rm1IdHRteUtValkwZ19FLXRjdXFrN2poMEphY3hNZ3ZKODZfQVlZendBdk0xN2RKRnRyWDJhNUlFRC1wTDM0b3dVREMzdm5FTEZhMkF5d1RfVkFEdUpBR0VUdmt5ckliWlF30gGOAUFVX3lxTE53UEFFeFNja2c5bTVCcldXdEwySDByZUZCX0NPMGlzSG8xeUhqbjQ4MFoyZ3R1U2FuR09zVUJWNW1GMWU5YnQ2aGdUQ2gzQVpYWlBjUE05NzRsR0VSSGdqazBtc0FHSnd4VkNtUVpXYjNoaVdBNC1ZQ3dSSXFMMU5yZDJqblhudndKbk9Kc3c?oc=5\" target=\"_blank\">Samsung reallocates CSS staff to memory and System LSI within DS - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung reallocates staff from CSS (customer service solutions) division to memory and System LSI business units, signaling internal resource prioritization toward memory semiconductors and strategic repositioning within its Device Solutions division."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "97d55bb6f18d9cfe638e69c427c14b045e2f221c",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY) - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVF4YUpfblFNbnR3ZTdNc2thNXNFWXRkU01VaEs2OE04SUJOR2xLZmgzSmJRbGdCOHR3cjFRTXd6WmdaY2kyaHVHeFBZZFp3RVIwcThKLUVFQWYyQnFlNDdrTkROTlE3TEh6V2k4U1dQTDJfQ2Jad2lxZTl6VE5rdzBORkFwUWZzczNFN1lxQ2tOQQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:35:29 GMT",
+  "published_ts": 1784802929,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVF4YUpfblFNbnR3ZTdNc2thNXNFWXRkU01VaEs2OE04SUJOR2xLZmgzSmJRbGdCOHR3cjFRTXd6WmdaY2kyaHVHeFBZZFp3RVIwcThKLUVFQWYyQnFlNDdrTkROTlE3TEh6V2k4U1dQTDJfQ2Jad2lxZTl6VE5rdzBORkFwUWZzczNFN1lxQ2tOQQ?oc=5\" target=\"_blank\">SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares rising on sentiment that Big Tech AI investment will boost semiconductor demand outlook. This is market reaction and analyst sentiment rather than a concrete event or new hard data; the connection to memory demand is real but the story reports stock movement driven by existing knowledge of AI capex trends, not a new development."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "44f3c92a29f862726b59bc34dcc88122ca66ca34",
+  "source": "재경일보",
+  "topic": "industry",
+  "title": "SK Hynix Surges Amid New Investment Expectations, Reconfirming HBM Leadership : 기업주식정보 : JKN - 재경일보",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92WnhsZkpLVnRhTmJPbFlXZ21jQzFNYVozbmcxTllGa1VSbUlJYldGcXFJSVNKUVBld0QtYll1QnBSYWg4VnlZOThn?oc=5",
+  "published_at": "Thu, 23 Jul 2026 04:57:00 GMT",
+  "published_ts": 1784782620,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE92WnhsZkpLVnRhTmJPbFlXZ21jQzFNYVozbmcxTllGa1VSbUlJYldGcXFJSVNKUVBld0QtYll1QnBSYWg4VnlZOThn?oc=5\" target=\"_blank\">SK Hynix Surges Amid New Investment Expectations, Reconfirming HBM Leadership : 기업주식정보 : JKN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "재경일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK Hynix stock rises on expectations of new investment and reconfirmation of its HBM (high-bandwidth memory) leadership position. The story reflects market sentiment around SK Hynix's strategic positioning in the HBM market, a key driver of memory demand, but does not report a concrete announced investment decision or guidance change—only market expectations and sentiment around existing capabilities."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "1160c87f578ed1d72b3aec05154b40c9d24f58c4",
+  "source": "MarketWatch",
+  "topic": "holding",
+  "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2tZaFA4Mk1oZU9LblFYcWRETDdWTVN5a2tZNFdUVjd5NkRFMjR1VVZwNmZMeUM2LUNRUkQxZTFzNnlySm1OMDVaOHlYMGs4NHQzUXpDYjVROGE5Mm14RzBNMlJGZk9WbHRiVmdJUm1xRjVobVFUQUNpSWZjRVVkeUEyUmRhaFY1YUp1YWxwQ3RZNDhUTGw4Zy0yQ2RCTGdxNHBVcXBuUHBwT1pVME9XY0NfZ0NnSng3?oc=5",
+  "published_at": "Thu, 23 Jul 2026 11:04:00 GMT",
+  "published_ts": 1784804640,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2tZaFA4Mk1oZU9LblFYcWRETDdWTVN5a2tZNFdUVjd5NkRFMjR1VVZwNmZMeUM2LUNRUkQxZTFzNnlySm1OMDVaOHlYMGs4NHQzUXpDYjVROGE5Mm14RzBNMlJGZk9WbHRiVmdJUm1xRjVobVFUQUNpSWZjRVVkeUEyUmRhaFY1YUp1YWxwQ3RZNDhUTGw4Zy0yQ2RCTGdxNHBVcXBuUHBwT1pVME9XY0NfZ0NnSng3?oc=5\" target=\"_blank\">The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketWatch"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix faces continued U.S. regulatory constraints that maintain a pricing premium for its U.S. sales relative to global markets. The Korean regulatory ruling preserves existing restrictions but represents an ongoing structural constraint rather than a new, concrete development that materially changes the investment thesis."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "87652fa25f8ca5fe4a006f078d5640201524f789",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Micron and Sandisk Are Surging: Can the Rally Last Through 2027? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNUNQU3JYb19FQnlQcEcwMXE5c3NNVWRxZHlqZ1dCXzhwMF9aZFZraHZycklyVEExSldlQ0ZqempOMjdUQ1dKandtWUxEU1YxaFg1WEhlMllpY1BGRFBCeW5TLUVnYWZLV1J0X1hZR3FoN2JkcUdYQjV2X3BLSkRkemZXTDE1Qnp3MXRYSzJNV2VDNV92SFpaeGRSdVJndWxQaVlxTHU4S191YmU2QXg3d096V2ttcmRYQjZTdDZXWjVyT0k4U3hKSU5hLUxWcXp2dHhEbHA2a2Rqbmc3N19CMQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 08:18:57 GMT",
+  "published_ts": 1784794737,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNUNQU3JYb19FQnlQcEcwMXE5c3NNVWRxZHlqZ1dCXzhwMF9aZFZraHZycklyVEExSldlQ0ZqempOMjdUQ1dKandtWUxEU1YxaFg1WEhlMllpY1BGRFBCeW5TLUVnYWZLV1J0X1hZR3FoN2JkcUdYQjV2X3BLSkRkemZXTDE1Qnp3MXRYSzJNV2VDNV92SFpaeGRSdVJndWxQaVlxTHU4S191YmU2QXg3d096V2ttcmRYQjZTdDZXWjVyT0k4U3hKSU5hLUxWcXp2dHhEbHA2a2Rqbmc3N19CMQ?oc=5\" target=\"_blank\">Micron and Sandisk Are Surging: Can the Rally Last Through 2027?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece questioning whether the rally in Micron and SanDisk (both DRAM ETF holdings) can be sustained through 2027. This is forward-looking commentary and opinion rather than a concrete event or new material development; it reports on a stock move already in progress but does not provide a specific catalyst or new information distinct from market digestion of known factors."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "eebb60b9d591b3c7a7a5f03e4b31c038d5c5eda8",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHk4V3J3RlNDeS0zNTJuQXVvYjE1ckx4b0ZEajhvNEo1QXp0a1Y3ZDBDYWtUT044WWUtYXFTc0VxYURRUjY2YU9wd0NMOGVPRDMwSWIyRFpieW9jZXByX3NCdk02VDRKMW4xQllJR0FrdUNhSEFLYi0zS0Rad0liWnpKbllJa2VVVGJJTW8xeEM3ZDJpSG5QRg?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:58:37 GMT",
+  "published_ts": 1784800717,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHk4V3J3RlNDeS0zNTJuQXVvYjE1ckx4b0ZEajhvNEo1QXp0a1Y3ZDBDYWtUT044WWUtYXFTc0VxYURRUjY2YU9wd0NMOGVPRDMwSWIyRFpieW9jZXByX3NCdk02VDRKMW4xQllJR0FrdUNhSEFLYi0zS0Rad0liWnpKbllJa2VVVGJJTW8xeEM3ZDJpSG5QRg?oc=5\" target=\"_blank\">Sandisk: Why NAND May Have More Room To Run Than DRAM (NASDAQ:SNDK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analysis comparing NAND and DRAM pricing/cycle dynamics with commentary on SanDisk (holding), presenting opinion on relative upside potential rather than reporting concrete developments or market-moving events."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "e5d98f34c24b3306b58f776b150261ca03d87234",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock surging today? By Investing.com - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblR4U2tnZUh0azNQODF2enRxREpKY1haTkZQcE5LUGMxU0l2ck9LclNwU0thQmxpbWFfaFpHUEVQY21aSHJzUmg1RmxmMklVck5QWDRCYjJWb2V1UTNTS2p4UWlnaW0yRWZrTWdfQ3k2SVNMendWQUJDdXhkWTNJYnlxbWtYWjl0N0p2Y2tqc0UtdVJrYTlUcnQ0ako?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:24:50 GMT",
+  "published_ts": 1784802290,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPblR4U2tnZUh0azNQODF2enRxREpKY1haTkZQcE5LUGMxU0l2ck9LclNwU0thQmxpbWFfaFpHUEVQY21aSHJzUmg1RmxmMklVck5QWDRCYjJWb2V1UTNTS2p4UWlnaW0yRWZrTWdfQ3k2SVNMendWQUJDdXhkWTNJYnlxbWtYWjl0N0p2Y2tqc0UtdVJrYTlUcnQ0ako?oc=5\" target=\"_blank\">Why is SK Hynix stock surging today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock price movement reported; likely a post-market or intraday reaction to news or earnings, but the snippet does not disclose the underlying catalyst or concrete event driving the move."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "4db447dc5b98c4a00bdb9491f208f9976384e888",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Why Micron Stock Is Lagging SK Hynix After Google Earnings - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVR5bmMyZnh1N1hWWEFtMF9RZk9La0tkSE5MMnlQNGRndERya1NNSlFQUEdCcFJZNmxqaHNJX0xOTE1TdHlITi1USWwzdU5Iek9nZDBHNG5Wa0NqUzRBYkpfN3o5QlNlTFpIVzR0ejYzbkV5eXNlbUNwQ082N2prWkRaMW1wQQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:56:00 GMT",
+  "published_ts": 1784804160,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVR5bmMyZnh1N1hWWEFtMF9RZk9La0tkSE5MMnlQNGRndERya1NNSlFQUEdCcFJZNmxqaHNJX0xOTE1TdHlITi1USWwzdU5Iek9nZDBHNG5Wa0NqUzRBYkpfN3o5QlNlTFpIVzR0ejYzbkV5eXNlbUNwQ082N2prWkRaMW1wQQ?oc=5\" target=\"_blank\">Why Micron Stock Is Lagging SK Hynix After Google Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's analysis comparing Micron and SK Hynix stock performance in the context of Google earnings. This is post-earnings commentary analyzing how the two holdings are reacting to known information (Google's earnings), rather than reporting new concrete developments specific to memory demand or the companies themselves."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "0656c0ff40d955606f41295eee96b159d696720a",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "SK Hynix stock jumps on robust AI spending outlook - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFY1QkdCV1BkZE81dUYwUlBRSm9kXy1nQ2JqRlIwaVI5TjFJd1FJbzVBVE9iU3dMM3duMk1kRF95cUZSY3ZhVUphZEZrS2RYNHVUYXgtWTNibWV2RXVqSFNLaEpIUGtPMjF3bmxkWjh3Qm1wVWNSNlV5U3VCNlZCMXEwTm1tVlo4N3RNaUtlV3g1bkg2U3FzWGhtN21vam9nSktSdzhNVGI5M3BTSzZ6Yjln?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:10:06 GMT",
+  "published_ts": 1784797806,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFY1QkdCV1BkZE81dUYwUlBRSm9kXy1nQ2JqRlIwaVI5TjFJd1FJbzVBVE9iU3dMM3duMk1kRF95cUZSY3ZhVUphZEZrS2RYNHVUYXgtWTNibWV2RXVqSFNLaEpIUGtPMjF3bmxkWjh3Qm1wVWNSNlV5U3VCNlZCMXEwTm1tVlo4N3RNaUtlV3g1bkg2U3FzWGhtN21vam9nSktSdzhNVGI5M3BTSzZ6Yjln?oc=5\" target=\"_blank\">SK Hynix stock jumps on robust AI spending outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock rises on market sentiment regarding strong AI spending outlook. This is a price-move story tied to forward-looking sentiment rather than a concrete, material event or official guidance change. Relevant as a holding but scored as soft opinion/analyst outlook rather than a confirmed earnings release or guidance adjustment."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "ee3dc565ae49d73066321df9e429c114825e11b0",
+  "source": "Pluang",
+  "topic": "holding",
+  "title": "Sandisk shares fall nearly 30% but AI-driven NA... - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjFGejVXUjlEamIxcU9BQUR5NTNJQ25TbXd1Zm5GZlNqTXFucXVST0NKcVpJU1NjeF9aeFp1eUpjR0FqM1h1Nk5SamlmOFREeHBBTzM4OTFGRVVqVUlYdk9HMlN1ak0yNGpVMHBJVFRyVHI3cE5hYjIwa0pKemlyZzFzVWNXY3JaN3BB?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:45:10 GMT",
+  "published_ts": 1784803510,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjFGejVXUjlEamIxcU9BQUR5NTNJQ25TbXd1Zm5GZlNqTXFucXVST0NKcVpJU1NjeF9aeFp1eUpjR0FqM1h1Nk5SamlmOFREeHBBTzM4OTFGRVVqVUlYdk9HMlN1ak0yNGpVMHBJVFRyVHI3cE5hYjIwa0pKemlyZzFzVWNXY3JaN3BB?oc=5\" target=\"_blank\">Sandisk shares fall nearly 30% but AI-driven NA...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) shares fell nearly 30%, likely driven by earnings results or guidance revision. The headline is incomplete but references AI-driven factors (presumably demand or margin pressure). A 30% move is material but appears to be a market reaction to already-reported results rather than a distinct new catalyst announced in this piece."
+  },
+  "buffered_ts": 1784805837.6648898
+ },
+ {
+  "id": "d8cfb9c2b6389af24d6a77fc02d61725a94db800",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "SK Hynix ADR Conversion Quota 2.5% Exhausted, Arbitrage Channel Temporarily Closed, High Premium Still to Be Released - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUdsYTJ2SHVzeWItd08zbElrX091b2p3REtGR2hINVVTSU90Vm9iUW1hRjNvZHpkSlYyVlBiV082YmY1ODBtYWtfQ19oZzlKQmNVOGFINnhwdncwYnphR1BiQ2txdTVES05SRmsxWWhpbnQ4Nko2dlE5cGk4ME4yRC1PYXVSX1JoalNRZmxIQzhOTHNnaWJZUWxiV0pMNE90QmRwRmRuWlZjNzB1TWNoNVZB?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:32:37 GMT",
+  "published_ts": 1784799157,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUUdsYTJ2SHVzeWItd08zbElrX091b2p3REtGR2hINVVTSU90Vm9iUW1hRjNvZHpkSlYyVlBiV082YmY1ODBtYWtfQ19oZzlKQmNVOGFINnhwdncwYnphR1BiQ2txdTVES05SRmsxWWhpbnQ4Nko2dlE5cGk4ME4yRC1PYXVSX1JoalNRZmxIQzhOTHNnaWJZUWxiV0pMNE90QmRwRmRuWlZjNzB1TWNoNVZB?oc=5\" target=\"_blank\">SK Hynix ADR Conversion Quota 2.5% Exhausted, Arbitrage Channel Temporarily Closed, High Premium Still to Be Released</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADR conversion quota exhausted, creating a temporary arbitrage closure. This is a technical trading matter affecting ADR availability and premiums but does not reflect material changes to the company's memory business, production capacity, pricing, or competitive position."
+  },
+  "buffered_ts": 1784805837.6648898
  }
 ]
