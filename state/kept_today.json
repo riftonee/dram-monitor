@@ -382,5 +382,53 @@
    "summary": "Seagate (STX), a DRAM ETF holding, will report earnings post-market on July 28. This is a routine earnings announcement notice with no new information about results, guidance, or memory-specific developments—a calendar item only."
   },
   "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "9be511ef5504bd014079e12a612e671a9fc660d5",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Seagate Stock Is Off 20% From Its High. Why July 28 Earnings Could Trigger a Rebound. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjlTVXFURnA0MlpfN183bjF6Znd3ZTYzNjF0M0dfenE0Q1FIdkpBMjIwRm5YdG9wNHcwMXhJQzc1X0k5Q2VIMHk4eVFhbnBKY1FfbVRCNmEyRTItMDl4cWNPaDQ0NEhyWFN0MWtYRk9FTHZCUUN3cEZkUkpBOTNDMWJVRGN0amF3VXhVcnlQNjFSMkc0dE4zdmE4ODFyamQzdU4zaVFtQzVLWEh5MnlSRF9OZ0FiNmpmYW12Tk5pS2ZiU3Rv?oc=5",
+  "published_at": "Thu, 23 Jul 2026 17:39:31 GMT",
+  "published_ts": 1784828371,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjlTVXFURnA0MlpfN183bjF6Znd3ZTYzNjF0M0dfenE0Q1FIdkpBMjIwRm5YdG9wNHcwMXhJQzc1X0k5Q2VIMHk4eVFhbnBKY1FfbVRCNmEyRTItMDl4cWNPaDQ0NEhyWFN0MWtYRk9FTHZCUUN3cEZkUkpBOTNDMWJVRGN0amF3VXhVcnlQNjFSMkc0dE4zdmE4ODFyamQzdU4zaVFtQzVLWEh5MnlSRF9OZ0FiNmpmYW12Tk5pS2ZiU3Rv?oc=5\" target=\"_blank\">Seagate Stock Is Off 20% From Its High. Why July 28 Earnings Could Trigger a Rebound.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, is down 20% from highs ahead of July 28 earnings. Article speculates on potential rebound but does not report concrete news—the earnings event itself has not yet occurred and is purely prospective."
+  },
+  "buffered_ts": 1784830309.1454766
+ },
+ {
+  "id": "6f6a25dc5171a27cff5616d7c0a5a6a81c584fa9",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Leveraged Bets on Samsung, SK Hynix Slash Kosdaq Trading Volume by Two-Thirds - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZbUJwZi1TYnQ0VTFXWTNpMi1EOGdKTVNqZGVxTEZ2bEIyWk54UVdYMFVYLUg4cmxhREwtLVBnVjhDN1ZOX3FmdmFiQmQ4ZDBocExYT295TlNRWkdVTFpVN2RxajdmczRwNDJHQktKeWFyQ3ppNVE?oc=5",
+  "published_at": "Thu, 23 Jul 2026 17:35:00 GMT",
+  "published_ts": 1784828100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZbUJwZi1TYnQ0VTFXWTNpMi1EOGdKTVNqZGVxTEZ2bEIyWk54UVdYMFVYLUg4cmxhREwtLVBnVjhDN1ZOX3FmdmFiQmQ4ZDBocExYT295TlNRWkdVTFpVN2RxajdmczRwNDJHQktKeWFyQ3ppNVE?oc=5\" target=\"_blank\">Leveraged Bets on Samsung, SK Hynix Slash Kosdaq Trading Volume by Two-Thirds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Leveraged trading bets on Samsung and SK hynix have reduced Kosdaq trading volume by two-thirds. While the holdings are named, this is primarily a market-structure/trading-volume story about derivatives activity rather than news about the companies' memory business, capacity, or fundamentals."
+  },
+  "buffered_ts": 1784830309.1454766
  }
 ]
