@@ -1276,5 +1276,29 @@
    "summary": "Direxion launched SKHL, a 2X leveraged ETF tracking SK hynix. This is fund-ecosystem news about a competitor product, not directly material to DRAM ETF itself, but confirms continued institutional interest in memory-chip stocks."
   },
   "buffered_ts": 1784761137.7302518
+ },
+ {
+  "id": "b1e62a12ec4bab4600a18f5a54b18dd14d976d49",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30 - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXJoX3FTRXhpRElPczZ5MEpDZ1c4Q0ZRVUFFTTZhMmtEMjBmMEoxR3RzX1VXNXgyWU1mZ0EzYTQ1dzJwWS1sZFljc2hvYVZOWGFQbUtveVVoU2llS3lCeVF0NEE0TkVqdXBnQkQ5UExhVFhoVzQ4RXo5VXhQOUJJMTVmZUExdjU1Z3p1WGwzZDZNNmd2S3h0dHZhaERKLTZQd2V3RTZnN1VaTm5ib2gxdmVZRmV2VThSVU9BUHZGdDhaSXQweHY5cXZSQ09qdVJ3YTQ5ZzZoTUVDLWwyX1JWZFk2ZVNHT29Q?oc=5",
+  "published_at": "Wed, 22 Jul 2026 11:05:43 GMT",
+  "published_ts": 1784718343,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXJoX3FTRXhpRElPczZ5MEpDZ1c4Q0ZRVUFFTTZhMmtEMjBmMEoxR3RzX1VXNXgyWU1mZ0EzYTQ1dzJwWS1sZFljc2hvYVZOWGFQbUtveVVoU2llS3lCeVF0NEE0TkVqdXBnQkQ5UExhVFhoVzQ4RXo5VXhQOUJJMTVmZUExdjU1Z3p1WGwzZDZNNmd2S3h0dHZhaERKLTZQd2V3RTZnN1VaTm5ib2gxdmVZRmV2VThSVU9BUHZGdDhaSXQweHY5cXZSQ09qdVJ3YTQ5ZzZoTUVDLWwyX1JWZFk2ZVNHT29Q?oc=5\" target=\"_blank\">Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece predicting stock declines for Micron and SanDisk after July 30, likely tied to upcoming earnings. This is analyst speculation/forecast rather than confirmed news or concrete events, and lacks specific catalysts or hard data beyond the prediction itself."
+  },
+  "buffered_ts": 1784765034.5006585
  }
 ]
