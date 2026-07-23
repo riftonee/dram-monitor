@@ -673,5 +673,53 @@
    "summary": "SK hynix stock rose 2.6%, but the article provides no specific catalyst, concrete event, or substantive news—it is a generic price-move report with likely post-market commentary rather than a material development in memory demand, supply, pricing, or company fundamentals."
   },
   "buffered_ts": 1784844610.4518368
+ },
+ {
+  "id": "343af49afedaf9e4b64380b1ce3b6b3fa00a73f7",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "While SK Hynix Sheds approximately $678, SK Eternix Doubles in a Month - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0d2c2ZWI0Szh2bjF5R01yaHBjYTh1UTI2M2YxNVpMa2dHMHFtOE5vbWNZX3pwcHdpN2Z1V0hHeG43Uks5TUVoUWJpWVBUMUVELXBfUFd4S0ozREtJQ0NGX0RUOVBhVEw4QU5RMDdnbWpLeDk3UHc?oc=5",
+  "published_at": "Thu, 23 Jul 2026 22:55:00 GMT",
+  "published_ts": 1784847300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB0d2c2ZWI0Szh2bjF5R01yaHBjYTh1UTI2M2YxNVpMa2dHMHFtOE5vbWNZX3pwcHdpN2Z1V0hHeG43Uks5TUVoUWJpWVBUMUVELXBfUFd4S0ozREtJQ0NGX0RUOVBhVEw4QU5RMDdnbWpLeDk3UHc?oc=5\" target=\"_blank\">While SK Hynix Sheds approximately $678, SK Eternix Doubles in a Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix stock declined approximately $678 while SK Eternix doubled in a month. A passing mention of SK Hynix price movement without stated catalyst or context regarding memory-business fundamentals; the focus appears to be on SK Eternix performance, which is not a fund holding."
+  },
+  "buffered_ts": 1784849244.51327
+ },
+ {
+  "id": "959cd1c9e9004a39f719a868494dd9b71cdd21a8",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "What You Need To Know Ahead of Sandisk's Earnings Release - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE0tempGRHZ4MUxtemphQzduZGNTQTljQjdmVkR5MzF0bU04dmJkNEtkU2p0Y0dmMVBWbE1PZjNTN2dmZkNzU2o0UjVLR2s4aUh4YjBJb1FySHRnNk9XQVRMR0FLekljWFIxNTdPVFlxUVNTT1lnbnFLSko5MnAzVVVZNXRpZmZaaExPYVVGU1BENmxESlJWVXlldWhrRWRzWmN3?oc=5",
+  "published_at": "Thu, 23 Jul 2026 14:12:34 GMT",
+  "published_ts": 1784815954,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE0tempGRHZ4MUxtemphQzduZGNTQTljQjdmVkR5MzF0bU04dmJkNEtkU2p0Y0dmMVBWbE1PZjNTN2dmZkNzU2o0UjVLR2s4aUh4YjBJb1FySHRnNk9XQVRMR0FLekljWFIxNTdPVFlxUVNTT1lnbnFLSko5MnAzVVVZNXRpZmZaaExPYVVGU1BENmxESlJWVXlldWhrRWRzWmN3?oc=5\" target=\"_blank\">What You Need To Know Ahead of Sandisk's Earnings Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Preview article ahead of SanDisk earnings release. Generic pre-earnings content without new information or concrete developments."
+  },
+  "buffered_ts": 1784849244.51327
  }
 ]
