@@ -142,5 +142,245 @@
    "summary": "Report noting DRAM ETF inflows and a rally in its major holdings (Micron, SanDisk, SK Hynix, Samsung). This is fund-level news but lacks concrete flow numbers, specific catalysts, or material events—it reads as a general market commentary on fund performance and sentiment rather than a reportable inflow event or structural change."
   },
   "buffered_ts": 1784811455.5731041
+ },
+ {
+  "id": "dea334e9fa35770f4622ced6ff8a6885c005f68d",
+  "source": "The Manila Times",
+  "topic": "fund",
+  "title": "Leverage Shares by Themes Launches RAML, the Leverage Shares 2X Long Memory Daily ETF - The Manila Times",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdndZRUdvRnVRTm9RMklSUUw0SC00T29OcEM5NGhVNmJPMlV3ZHU0YkRiN243cEhHbGRsRFk4WTh3Znp1U2k3Ul9VMnZXakZhZVhVNHhnYWZST0dERnBJTzRReFFJUnNSZDlFZnVBNkM4ekdRTko5ZG43V0lEQjhLM1dyRFRIM2w5R3BpTnhuaW5iMGNiNnlvZGZxeWxJd3IyR3g5N1dIQ2xFRnVKU1hFLTFzZEJHQXdySWRCVTdlN2FIc1BtbjRlemxoYzNaRzBtYUZMVnZUbUs1dHI5U1hsaC1NQTZTUzlqRUp4MVgzX3ZUZV9t0gH0AUFVX3lxTE12d1lFR29GdVFOb1EySVJRTDRILTRPb05wQzk0aFU2Yk8yVXdkdTRiRGI3bjdwSEdsZGxEWThZOHdmenVTaTdSX1UydldqRmFlWFU0eGdhZlJPR0RGcElPNFF4UUlSc1JkOUVmdUE2Qzh6R1FOSjlkbjdXSURCOEszV3JEVEgzbDlHcGlOeG5pbmIwY2I2eW9kZnF5bEl3cjJHeDk3V0hDbEVGdUpTWEUtMXNkQkdBd3JJZEJVN2U3YUhzUG1uNGV6bGhjM1pHMG1hRkxWdlRtSzV0cjlTWGxoLU1BNlNTOWpFSngxWDNfdlRlX20?oc=5",
+  "published_at": "Thu, 23 Jul 2026 13:21:52 GMT",
+  "published_ts": 1784812912,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdndZRUdvRnVRTm9RMklSUUw0SC00T29OcEM5NGhVNmJPMlV3ZHU0YkRiN243cEhHbGRsRFk4WTh3Znp1U2k3Ul9VMnZXakZhZVhVNHhnYWZST0dERnBJTzRReFFJUnNSZDlFZnVBNkM4ekdRTko5ZG43V0lEQjhLM1dyRFRIM2w5R3BpTnhuaW5iMGNiNnlvZGZxeWxJd3IyR3g5N1dIQ2xFRnVKU1hFLTFzZEJHQXdySWRCVTdlN2FIc1BtbjRlemxoYzNaRzBtYUZMVnZUbUs1dHI5U1hsaC1NQTZTUzlqRUp4MVgzX3ZUZV9t0gH0AUFVX3lxTE12d1lFR29GdVFOb1EySVJRTDRILTRPb05wQzk0aFU2Yk8yVXdkdTRiRGI3bjdwSEdsZGxEWThZOHdmenVTaTdSX1UydldqRmFlWFU0eGdhZlJPR0RGcElPNFF4UUlSc1JkOUVmdUE2Qzh6R1FOSjlkbjdXSURCOEszV3JEVEgzbDlHcGlOeG5pbmIwY2I2eW9kZnF5bEl3cjJHeDk3V0hDbEVGdUpTWEUtMXNkQkdBd3JJZEJVN2U3YUhzUG1uNGV6bGhjM1pHMG1hRkxWdlRtSzV0cjlTWGxoLU1BNlNTOWpFSngxWDNfdlRlX20?oc=5\" target=\"_blank\">Leverage Shares by Themes Launches RAML, the Leverage Shares 2X Long Memory Daily ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Manila Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "Leverage Shares launches RAML, a 2X long daily leveraged ETF tracking memory semiconductors, representing a new fund product in the memory ETF space and a concrete development in fund offerings for the sector."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "1f619c6cc5083219d25fbd68a635596ae14009b8",
+  "source": "marketscreener.com",
+  "topic": "holding",
+  "title": "SK Hynix Caps ADR Conversions at 2.5% of Outstanding Shares - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmxQUFhaMFdZRldTb0VTbzVnbm82cjh3SDRlNjAwUW5zWll1Ym9JVjh0Q0s1YWlhTW0wVTVfSjZGZEhOcEFoZEJiSEczUUJGcElPQ2xHaWlFMHlUMEpwMG9aTEpCRkYxeWY3VVI3VFNmbEwtNkRDbS1aRWxzUHJpRHE3all5RUVfanlkVzVkOTdRWkFZYTNMOGlfTkxhZVFjR3JuLTR1RWozUVl2WVBseA?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:33:13 GMT",
+  "published_ts": 1784799193,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmxQUFhaMFdZRldTb0VTbzVnbm82cjh3SDRlNjAwUW5zWll1Ym9JVjh0Q0s1YWlhTW0wVTVfSjZGZEhOcEFoZEJiSEczUUJGcElPQ2xHaWlFMHlUMEpwMG9aTEpCRkYxeWY3VVI3VFNmbEwtNkRDbS1aRWxzUHJpRHE3all5RUVfanlkVzVkOTdRWkFZYTNMOGlfTkxhZVFjR3JuLTR1RWozUVl2WVBseA?oc=5\" target=\"_blank\">SK Hynix Caps ADR Conversions at 2.5% of Outstanding Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "marketscreener.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix has announced a cap on ADR (American Depositary Receipt) conversions at 2.5% of outstanding shares, a concrete corporate governance/capital management decision that affects one of the fund's key holdings and may impact share availability and trading dynamics for international investors."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "ba91755ba6bddc1357fd2e749cfeda7d5de835d2",
+  "source": "lincolnjournal.com",
+  "topic": "holding",
+  "title": "STARTRADER Launches SKHY as SK Hynix Makes US Market Debut - lincolnjournal.com",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYmYwTHFldnlkb1BaX2QxUjdWZFR6TnpicnF0cDV2UUlWQ2VQNjZtTnpFdFJBdHZMTW9hOEE3ZTRhU3RpMDFCcFV4eU5laTN4a2YzeFpUMXhsd3A2VkVmeXRXeFRtYVEyeExOTVlfWFhpenRnNlpWcjVCWVdKRkR1aWU4OGlsZndPTHZHMkdiSDloV1VnaW5xZ1hTb0sxb1k5Uld4bVlsYjVzV19FQlA3MXVtUWgwaXV6UXZZeHRmWTlvb2FxVXVxTUFWaWZPRUxqLXZNdjY1NFB2c1pXVll6cnRxOTBPc3RSaERzSmRwbjlRRUJOQ0FfVVNJTWNDaEE?oc=5",
+  "published_at": "Thu, 23 Jul 2026 09:31:03 GMT",
+  "published_ts": 1784799063,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYmYwTHFldnlkb1BaX2QxUjdWZFR6TnpicnF0cDV2UUlWQ2VQNjZtTnpFdFJBdHZMTW9hOEE3ZTRhU3RpMDFCcFV4eU5laTN4a2YzeFpUMXhsd3A2VkVmeXRXeFRtYVEyeExOTVlfWFhpenRnNlpWcjVCWVdKRkR1aWU4OGlsZndPTHZHMkdiSDloV1VnaW5xZ1hTb0sxb1k5Uld4bVlsYjVzV19FQlA3MXVtUWgwaXV6UXZZeHRmWTlvb2FxVXVxTUFWaWZPRUxqLXZNdjY1NFB2c1pXVll6cnRxOTBPc3RSaERzSmRwbjlRRUJOQ0FfVVNJTWNDaEE?oc=5\" target=\"_blank\">STARTRADER Launches SKHY as SK Hynix Makes US Market Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lincolnjournal.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "lincolnjournal.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix, a major DRAM/memory-semiconductor holding in the fund, has made a US market debut under ticker SKHY via STARTRADER. This is a concrete, officially announced listing event that provides new US-market access and trading liquidity for a core fund holding."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "adb95e3220ab2d0ad98f61378e40c1576ea93548",
+  "source": "Tom's Hardware",
+  "topic": "industry",
+  "title": "AI memory shortage is now increasing the price of cars — GM warns of vast cost increases, BYD hikes driver assistance prices 20% - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ0JqcWl3cDluQWlaRTVRVEpPWk1paW1MYzY2UkdFdjY3TFd5UVMtM1BveXhZLXY3TzQtVU1WanRlTTh2Yl8yQ2ZuaUZwSnpkVU5ybng2Q2licC11U014UVlsbU16SGt1VnliY2tHQ3lZOHZYZHZCZ1N2bVNYems1QTZReFpvVWlhRk8xTVJCV1VHWHdPSHI5T2RHTlEzaTl4QllzMWJyQzJtcEQ1OUhXNXgxQjU1Y0c5OU82Yi1IdWhQSVpIeGZraU9paUs1TjFDUG1ENnJzRWY0MWxMNFg1aVM0WVdfU2llTmJpMHlCYS05MUdTWEJES1BLcnVwUjBVR1VtQVdXcnJtb00?oc=5",
+  "published_at": "Thu, 23 Jul 2026 15:57:19 GMT",
+  "published_ts": 1784822239,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ0JqcWl3cDluQWlaRTVRVEpPWk1paW1MYzY2UkdFdjY3TFd5UVMtM1BveXhZLXY3TzQtVU1WanRlTTh2Yl8yQ2ZuaUZwSnpkVU5ybng2Q2licC11U014UVlsbU16SGt1VnliY2tHQ3lZOHZYZHZCZ1N2bVNYems1QTZReFpvVWlhRk8xTVJCV1VHWHdPSHI5T2RHTlEzaTl4QllzMWJyQzJtcEQ1OUhXNXgxQjU1Y0c5OU82Yi1IdWhQSVpIeGZraU9paUs1TjFDUG1ENnJzRWY0MWxMNFg1aVM0WVdfU2llTmJpMHlCYS05MUdTWEJES1BLcnVwUjBVR1VtQVdXcnJtb00?oc=5\" target=\"_blank\">AI memory shortage is now increasing the price of cars — GM warns of vast cost increases, BYD hikes driver assistance prices 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tom's Hardware"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "GM and BYD report that AI memory shortages are driving up costs in automotive applications, with BYD raising driver assistance prices 20%. Signals strong downstream demand for memory chips in automotive AI systems, supporting industry thesis, but reports industry impact rather than concrete supply/pricing data or holding-specific developments."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "482c272712f7ac614198d6c0069d6df24226c17e",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHR5U2RlekhiN0o4Z3l2RVdTYXpSTWtwOXJKME5VYmdZVjFDdFMya3dOaVZxUlk2dVQzanhGTEdwYmt4S3dEVG5abGM4c2RiZGFxMF9NWUxMbGdhQnpRTW9mRWJrY1hNeU41ZE5GaGVXYnpRS2pGR1M5SGNSX1hBUUdaV1FrOHpKWjNRRm5wMmxuUXdNaGdMSVF1Vm9odlpRZkhoRg?oc=5",
+  "published_at": "Wed, 22 Jul 2026 19:33:00 GMT",
+  "published_ts": 1784748780,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHR5U2RlekhiN0o4Z3l2RVdTYXpSTWtwOXJKME5VYmdZVjFDdFMya3dOaVZxUlk2dVQzanhGTEdwYmt4S3dEVG5abGM4c2RiZGFxMF9NWUxMbGdhQnpRTW9mRWJrY1hNeU41ZE5GaGVXYnpRS2pGR1M5SGNSX1hBUUdaV1FrOHpKWjNRRm5wMmxuUXdNaGdMSVF1Vm9odlpRZkhoRg?oc=5\" target=\"_blank\">Memory Prices Are Still Skyrocketing. Is the Next Rally for Micron, SanDisk, and SK Hynix Just Beginning?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis piece discussing elevated memory prices and potential stock rally upside for Micron, SanDisk, and SK Hynix. Reports on price momentum but frames future gains as speculative ('Is the Next Rally...Just Beginning?') rather than confirming new pricing data or a concrete catalyst."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "1bab3b79618d5056d1a9eebdd4be4dca3f07fcb3",
+  "source": "NAI500",
+  "topic": "holding",
+  "title": "Storage Chip Giant Sandisk Rallies Against Market Trend as Analyst Lifts Price Target, Signaling Confidence - NAI500",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWs4Ums0ajhsYnpRZ3VpX0o4UVZNMFBuZm9zSy1YdDZtd2IzSGVyVEVkeVBwYVc4a2xuR3ZzbV9hUHBSU1VSbmYyM1p0TG9hUzRFWXl4WXRSd0UwY3Y1V2pwZGg3em1lZC1vTVNTR29xNE1RQm10SGY5eUN2RHAyR1U5V1pkdndXWEdhakZ6VVVsMzYya3JMME9GZWtOYlpiTWgxb0tSRElPUlQ4R2NJQ2ZoZDEzWXVnWVFuY25GMTkxMWx4OFFicnJSbk0yTER1Q0UtODhR?oc=5",
+  "published_at": "Thu, 23 Jul 2026 16:08:21 GMT",
+  "published_ts": 1784822901,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWs4Ums0ajhsYnpRZ3VpX0o4UVZNMFBuZm9zSy1YdDZtd2IzSGVyVEVkeVBwYVc4a2xuR3ZzbV9hUHBSU1VSbmYyM1p0TG9hUzRFWXl4WXRSd0UwY3Y1V2pwZGg3em1lZC1vTVNTR29xNE1RQm10SGY5eUN2RHAyR1U5V1pkdndXWEdhakZ6VVVsMzYya3JMME9GZWtOYlpiTWgxb0tSRElPUlQ4R2NJQ2ZoZDEzWXVnWVFuY25GMTkxMWx4OFFicnJSbk0yTER1Q0UtODhR?oc=5\" target=\"_blank\">Storage Chip Giant Sandisk Rallies Against Market Trend as Analyst Lifts Price Target, Signaling Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NAI500</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NAI500"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst raises SanDisk price target; stock rallies. Price-target changes and analyst reactions to existing data are soft signals (opinion/analysis rather than concrete new information), not market-moving events themselves."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "f8713de123dda2c24ef053e5f055df88f21fda88",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix-backed AI chip startup Etched raises $300M at $10.3B valuation (SKHY:NASDAQ) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlhvV1VCdC1PdWwyOXZWb2w2cmV5eHJJV01Kazc4THo0UGNPZFB1VVZmUUJGTWFUVUdNWGFka2psRjVYUUVwUnpEa3BiNHlzYWZCNjdhWG5ZYnBFcUlCaGZLNldBREc5ZnR1S213ek92Q3FZT25xVDZPYU5WWTR5RlNXdmtWV3NkWURLTjczZEtVQkhVaEE0OU9uVU1SSjBGbmxTTU9heUl0WWc?oc=5",
+  "published_at": "Thu, 23 Jul 2026 16:21:57 GMT",
+  "published_ts": 1784823717,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlhvV1VCdC1PdWwyOXZWb2w2cmV5eHJJV01Kazc4THo0UGNPZFB1VVZmUUJGTWFUVUdNWGFka2psRjVYUUVwUnpEa3BiNHlzYWZCNjdhWG5ZYnBFcUlCaGZLNldBREc5ZnR1S213ek92Q3FZT25xVDZPYU5WWTR5RlNXdmtWV3NkWURLTjczZEtVQkhVaEE0OU9uVU1SSjBGbmxTTU9heUl0WWc?oc=5\" target=\"_blank\">SK Hynix-backed AI chip startup Etched raises $300M at $10.3B valuation (SKHY:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix-backed AI chip startup Etched raised $300M at a $10.3B valuation. This indicates SK Hynix's strategic positioning in AI infrastructure and HBM demand, but is a venture funding round for a third-party company rather than a concrete SK Hynix business development or earnings event. The capital raise itself does not directly move SK Hynix's near-term fundamentals, though it signals confidence in AI chip tailwinds that benefit memory demand."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "16b6dbba442e99df64187016c1947b2e379d93ad",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "DRAM ETF inflows rise as Micron, SanDisk, SK Hynix, Samsung lead rally amid risks - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXI4THhOTlk3OWItN29iUmlndVp3MG1XWloyZ2hoNGtxODJzMl9rekd0ZldtWHZlanZDQTlhWTVTZ2xXSklNRVNzNXk3Qnd6Nl9lb2pGVEhaNF9YWU1qU0JEWExodEN4b0VCd0xsUFR5QlU4U1NBSVl4UW91SHhfWTJ4Zks2eFRJOHJ2T09FTkRfZnViUW5RRlNaY0UwTnVtOGI4VTJDNEhPWGhDUmlDN21VSGtQdWRO?oc=5",
+  "published_at": "Thu, 23 Jul 2026 13:12:13 GMT",
+  "published_ts": 1784812333,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXI4THhOTlk3OWItN29iUmlndVp3MG1XWloyZ2hoNGtxODJzMl9rekd0ZldtWHZlanZDQTlhWTVTZ2xXSklNRVNzNXk3Qnd6Nl9lb2pGVEhaNF9YWU1qU0JEWExodEN4b0VCd0xsUFR5QlU4U1NBSVl4UW91SHhfWTJ4Zks2eFRJOHJ2T09FTkRfZnViUW5RRlNaY0UwTnVtOGI4VTJDNEhPWGhDUmlDN21VSGtQdWRO?oc=5\" target=\"_blank\">DRAM ETF inflows rise as Micron, SanDisk, SK Hynix, Samsung lead rally amid risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF experiencing inflows as major holdings (Micron, SanDisk, SK Hynix, Samsung) rally; story is market commentary on fund flows and stock performance rather than a concrete event or announced development."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "333768ef58970af291821434d2d839f9ae102ea0",
+  "source": "Yahoo Finance Singapore",
+  "topic": "holding",
+  "title": "STARTRADER Launches SKHY as SK Hynix Makes Its US Market Debut, Giving Clients Timely Access to a Key AI Memory Name - Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFE0ckZUbjVwSWJxeFkwM1FPZ2gwMjl3dmRZUEZPWWhWLXJSdUFzUm5udXN4M1piSjc4OGJUVDNYdEVHLXVhb3lINlJ4RXpRZFVpS0lHLWxLR01uNzBXVkg2UDBqRGh3VGRXbEYybjNCbmtEVjZHRXRydjdYYXpiZmpQQ0FoNkZHc0E?oc=5",
+  "published_at": "Thu, 23 Jul 2026 16:45:00 GMT",
+  "published_ts": 1784825100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFE0ckZUbjVwSWJxeFkwM1FPZ2gwMjl3dmRZUEZPWWhWLXJSdUFzUm5udXN4M1piSjc4OGJUVDNYdEVHLXVhb3lINlJ4RXpRZFVpS0lHLWxLR01uNzBXVkg2UDBqRGh3VGRXbEYybjNCbmtEVjZHRXRydjdYYXpiZmpQQ0FoNkZHc0E?oc=5\" target=\"_blank\">STARTRADER Launches SKHY as SK Hynix Makes Its US Market Debut, Giving Clients Timely Access to a Key AI Memory Name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance Singapore"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "STARTRADER brokerage launches ticker SKHY to give clients access to SK Hynix's US market debut. SK Hynix is a core DRAM ETF holding, but this is a broker distribution announcement rather than company news or a market-moving event for the holding itself."
+  },
+  "buffered_ts": 1784825793.6016254
+ },
+ {
+  "id": "4853f6f2e4f7a10d9caa7f26ef3ab96e1034bb29",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "Earnings Preview: STX to Report Financial Results Post-market on July 28 - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3pXUjNRWUFWQllsOHdDaHBBQlI4cHpiZUlsUmYtQWF4Q0JZT2xSOEx1TTA1d0oycGU3ZC1yVHBqeFFrUkZVOVVDSzNCRkM5WEw4T3czdXFOV2Qta0doUUowT3ZaOGUzM1BtaVEtaHNGcnduV3pZUjFHRHo3TmFhb01WQTlpVkd4X0dYdmRZemZaQ3lBTzNVZkZFSU55Ull0UExxRHB6UQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 06:33:58 GMT",
+  "published_ts": 1784788438,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3pXUjNRWUFWQllsOHdDaHBBQlI4cHpiZUlsUmYtQWF4Q0JZT2xSOEx1TTA1d0oycGU3ZC1yVHBqeFFrUkZVOVVDSzNCRkM5WEw4T3czdXFOV2Qta0doUUowT3ZaOGUzM1BtaVEtaHNGcnduV3pZUjFHRHo3TmFhb01WQTlpVkd4X0dYdmRZemZaQ3lBTzNVZkZFSU55Ull0UExxRHB6UQ?oc=5\" target=\"_blank\">Earnings Preview: STX to Report Financial Results Post-market on July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, will report earnings post-market on July 28. This is a routine earnings announcement notice with no new information about results, guidance, or memory-specific developments—a calendar item only."
+  },
+  "buffered_ts": 1784825793.6016254
  }
 ]
