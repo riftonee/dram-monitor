@@ -430,5 +430,80 @@
    "summary": "Leveraged trading bets on Samsung and SK hynix have reduced Kosdaq trading volume by two-thirds. While the holdings are named, this is primarily a market-structure/trading-volume story about derivatives activity rather than news about the companies' memory business, capacity, or fundamentals."
   },
   "buffered_ts": 1784830309.1454766
+ },
+ {
+  "id": "f78b5435247214419dc8704d954c5ada1cf0aaba",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "AMD boosts AI with HBM4 core strategy, leans on Samsung for supply - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80YXVReTZ2VnBXMU9CSzJrRXlOV3VjM0tHWDJMU3NHc1hqU3pwdXVhM1lTOGVSQnRfRUVWWWkxX3NVNFZyU244Mk9OdjBOVXpzdHRyX3lPb094eWpua1FJcGkwS01PQzEzbnU1U2Q5YkJoNmV5UVdfNXln0gGOAUFVX3lxTFA5dlB5Q0lvYzVVT3VLWGQ2TjV5M2NXUEk5OHNyV2NZV09RanVwbjFCUTk0ZTlhYXo4blE1Nk5BNWtxcWxFVXNuRS1fRmY5cXBrNHR2VFBFTjlMbkVGMmFCakNHSDlCODFXQ0s5SjVpeXlPV2NWVWdXb2xESnNKSUxveklwWm5kOEhDWVg4LVE?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:30:00 GMT",
+  "published_ts": 1784831400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE80YXVReTZ2VnBXMU9CSzJrRXlOV3VjM0tHWDJMU3NHc1hqU3pwdXVhM1lTOGVSQnRfRUVWWWkxX3NVNFZyU244Mk9OdjBOVXpzdHRyX3lPb094eWpua1FJcGkwS01PQzEzbnU1U2Q5YkJoNmV5UVdfNXln0gGOAUFVX3lxTFA5dlB5Q0lvYzVVT3VLWGQ2TjV5M2NXUEk5OHNyV2NZV09RanVwbjFCUTk0ZTlhYXo4blE1Nk5BNWtxcWxFVXNuRS1fRmY5cXBrNHR2VFBFTjlMbkVGMmFCakNHSDlCODFXQ0s5SjVpeXlPV2NWVWdXb2xESnNKSUxveklwWm5kOEhDWVg4LVE?oc=5\" target=\"_blank\">AMD boosts AI with HBM4 core strategy, leans on Samsung for supply - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "AMD announced a strategic shift toward HBM4 (high-bandwidth memory generation 4) as core to its AI processor strategy and has signed or formalized a supply agreement with Samsung for HBM supply. This is a concrete development affecting HBM demand and capacity for a major customer, directly impacting DRAM fund holdings like Samsung."
+  },
+  "buffered_ts": 1784836498.7080238
+ },
+ {
+  "id": "e044837d969a6a1bbcc3e17d5b0a229c88929fbc",
+  "source": "Business Wire",
+  "topic": "fund",
+  "title": "T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28 - Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWVCV2FhQmhiZWhRaThDMzZ5bkxadW1vNHJ1TVM4eW9HcmZmSUx5UUZBSWJoSTY5LVBEVHFwV1hrc19MbzF1dE82aVdYb3B4bE9LMUJsSVlhXzZHQnJvalcyMU9PZElfbEFNUFZTYTBHTkV4TS1TQkszM0hRR3N5a1NvekF0Q0YwbmNZZlJfLVhzdWFwQnpWdWVxNVNtOGlRejVoelk2LXZqMTIyRktXaUhTU0Rsa2pjTFBMRDRtb0V3Zw?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:30:00 GMT",
+  "published_ts": 1784831400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWVCV2FhQmhiZWhRaThDMzZ5bkxadW1vNHJ1TVM4eW9HcmZmSUx5UUZBSWJoSTY5LVBEVHFwV1hrc19MbzF1dE82aVdYb3B4bE9LMUJsSVlhXzZHQnJvalcyMU9PZElfbEFNUFZTYTBHTkV4TS1TQkszM0hRR3N5a1NvekF0Q0YwbmNZZlJfLVhzdWFwQnpWdWVxNVNtOGlRejVoelk2LXZqMTIyRktXaUhTU0Rsa2pjTFBMRDRtb0V3Zw?oc=5\" target=\"_blank\">T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Business Wire"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "T-REX launches RAMZ, a 2X inverse DRAM ETF, on July 28. This is a concrete new fund product directly tied to DRAM ETF performance and represents an official market development in the DRAM ETF ecosystem."
+  },
+  "buffered_ts": 1784836498.7080238
+ },
+ {
+  "id": "d0ee14d5d2db2f10ea96b553431a016fd2ee226b",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDJJLVBmQTJHVXhSazFjeDlSdFdhcTd0M1pyYXdISElDanl5LU5OM21URDE4Zl9FVnc3OEZJZEp5NF83cGs5NFhtYkNORUx1Y0llcjFxNDVMM1UwZnNGXy1MakxBd0FfT0p6SlNpRXpnNnNPNWYzdmwzM3pNYzBhTVBtMVluYmJhYzBTZ2MweVZoaFMtRjJFRQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 17:20:46 GMT",
+  "published_ts": 1784827246,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDJJLVBmQTJHVXhSazFjeDlSdFdhcTd0M1pyYXdISElDanl5LU5OM21URDE4Zl9FVnc3OEZJZEp5NF83cGs5NFhtYkNORUx1Y0llcjFxNDVMM1UwZnNGXy1MakxBd0FfT0p6SlNpRXpnNnNPNWYzdmwzM3pNYzBhTVBtMVluYmJhYzBTZ2MweVZoaFMtRjJFRQ?oc=5\" target=\"_blank\">Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy? - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece comparing Micron and SK Hynix as investment picks. No new concrete information, earnings data, or market-moving events—purely analytical commentary on two major fund holdings."
+  },
+  "buffered_ts": 1784836498.7080238
  }
 ]
