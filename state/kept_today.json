@@ -865,5 +865,200 @@
    "summary": "Samsung and SK hynix stocks declined due to M7 cash burn concerns. This reflects market reaction to capital expenditure pressures facing major memory manufacturers, relevant to fund holdings but appears to be analysis/commentary rather than a new concrete event or earnings announcement."
   },
   "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "8ed44b48391fcb8215d950368d1b2c2248cea981",
+  "source": "Samsung Global Newsroom",
+  "topic": "holding",
+  "title": "Samsung Memory 3DS TSV SDRAM Package - Samsung Global Newsroom",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uZDF5NWZxMGNDUXViZldhX01DYi1QMFZCS3I0SWJyZW5rbktjcm1hRFdFQjNUU1M4dUdpbDBFNXFUWjJGZFpqLXdkeGxUaWNxTFJUaGR0WFBMbG5EQWRPTTRpOVNwRnNaVDRLVEx5bE1rOVBK?oc=5",
+  "published_at": "Thu, 23 Jul 2026 23:11:20 GMT",
+  "published_ts": 1784848280,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9uZDF5NWZxMGNDUXViZldhX01DYi1QMFZCS3I0SWJyZW5rbktjcm1hRFdFQjNUU1M4dUdpbDBFNXFUWjJGZFpqLXdkeGxUaWNxTFJUaGR0WFBMbG5EQWRPTTRpOVNwRnNaVDRLVEx5bE1rOVBK?oc=5\" target=\"_blank\">Samsung Memory 3DS TSV SDRAM Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung Global Newsroom</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Samsung Global Newsroom"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announces 3DS TSV (through-silicon via) SDRAM packaging technology. This is a concrete product/technology announcement from a major fund holding (Samsung memory division) representing a material advancement in memory architecture and potential competitive advantage in high-capacity, high-performance DRAM products."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "8f9ff5338c46aa6828fd77a627690e43bdebf9f2",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Is Seagate (STX) Quietly Rebuilding Its Profit Story Around AI-Driven High-Capacity Storage Demand? - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGdZc3hvc2JKNGtfdDB6RWI3bUdjalA5blVEeVhQUWwyc0NVdkZZWDBwOEpJNlY4MFVfVDdnZEZqS3JfTTJZNW1oYUpEbTlWckxLelNpTWtwa05IdGdJQThEeEdGcTlMLWlNSlpHa1dTMDg5TzFQbmdiR2d5RFFSSm9DcnBuNXJtS3lqM0haZGZpOWVpQUFYZjlUN01rUjhyMGNGZnlJZUhkejRSMTBTZEFBaFBRcnhpYXMwd2dLVVJCNkNhWXdMS3FqWWg4N2lGcFZjZEE1MkVJQWhuR2fSAd4BQVVfeXFMT0xnWXN4b3NiSjRrX3QwekViN21HY2pQOW5VRHlYUFFsMnNDVXZGWVgwcDhKSTZWODBVX1Q3Z2RGaktyX00yWTVtaGFKRG05VnJMS3pTaU1rcGtOSHRnSUE4RHhHRnE5TC1pTUpaR2tXUzA4OU8xUG5nYkdneURRUkpvQ3JwbjVybUt5ajNIWmRmaTllaUFBWGY5VDdNa1I4cjBjRmZ5SWVIZHo0UjEwU2RBQWhQUXJ4aWFzMHdnS1VSQjZDYVl3TEtxalloODdpRnBWY2RBNTJFSUFobkdn?oc=5",
+  "published_at": "Fri, 24 Jul 2026 01:38:03 GMT",
+  "published_ts": 1784857083,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGdZc3hvc2JKNGtfdDB6RWI3bUdjalA5blVEeVhQUWwyc0NVdkZZWDBwOEpJNlY4MFVfVDdnZEZqS3JfTTJZNW1oYUpEbTlWckxLelNpTWtwa05IdGdJQThEeEdGcTlMLWlNSlpHa1dTMDg5TzFQbmdiR2d5RFFSSm9DcnBuNXJtS3lqM0haZGZpOWVpQUFYZjlUN01rUjhyMGNGZnlJZUhkejRSMTBTZEFBaFBRcnhpYXMwd2dLVVJCNkNhWXdMS3FqWWg4N2lGcFZjZEE1MkVJQWhuR2fSAd4BQVVfeXFMT0xnWXN4b3NiSjRrX3QwekViN21HY2pQOW5VRHlYUFFsMnNDVXZGWVgwcDhKSTZWODBVX1Q3Z2RGaktyX00yWTVtaGFKRG05VnJMS3pTaU1rcGtOSHRnSUE4RHhHRnE5TC1pTUpaR2tXUzA4OU8xUG5nYkdneURRUkpvQ3JwbjVybUt5ajNIWmRmaTllaUFBWGY5VDdNa1I4cjBjRmZ5SWVIZHo0UjEwU2RBQWhQUXJ4aWFzMHdnS1VSQjZDYVl3TEtxalloODdpRnBWY2RBNTJFSUFobkdn?oc=5\" target=\"_blank\">Is Seagate (STX) Quietly Rebuilding Its Profit Story Around AI-Driven High-Capacity Storage Demand?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece on Seagate's strategic pivot toward AI-driven high-capacity storage demand and profit recovery. This is opinion/analysis rather than a concrete event or hard number; it discusses Seagate's narrative and positioning around AI storage tailwinds but does not report new earnings, guidance changes, capacity announcements, or pricing data. Relevant as a holding story but soft impact."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "ef951512c85e2d18688e45d46ddb8a52db95fcec",
+  "source": "Seoul Economic Daily",
+  "topic": "pricing",
+  "title": "NAND Price Fears Drove Samsung, SK hynix Selloff, But Analysts See Buying Opportunity - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkRKNGN4bWd2RzVuT3ZCMW9PV3VGUjRfOW5Wd3VjVlVOcXpiNXM1cVF1RHdfRnpwbGZicy14TWYxR0k5VWU1WHJTZWo2Ql8zMVh4S3JWWktINXhFZGVlUXd2YW0yNThhZ25OVjUwczg2TzlkV0VpLU5SMHRRTlNYUTdUeUFPSE5JZ2kzbWFMLW1hQUFBb2dvNA?oc=5",
+  "published_at": "Fri, 24 Jul 2026 02:33:39 GMT",
+  "published_ts": 1784860419,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkRKNGN4bWd2RzVuT3ZCMW9PV3VGUjRfOW5Wd3VjVlVOcXpiNXM1cVF1RHdfRnpwbGZicy14TWYxR0k5VWU1WHJTZWo2Ql8zMVh4S3JWWktINXhFZGVlUXd2YW0yNThhZ25OVjUwczg2TzlkV0VpLU5SMHRRTlNYUTdUeUFPSE5JZ2kzbWFMLW1hQUFBb2dvNA?oc=5\" target=\"_blank\">NAND Price Fears Drove Samsung, SK hynix Selloff, But Analysts See Buying Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "NAND price concerns triggered a selloff in Samsung and SK hynix stock, though analysts view the decline as a potential buying opportunity. The story reflects market reaction to NAND pricing concerns rather than reporting a concrete price move or new pricing data itself."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "ee7458f98b68687520b54ac8a9310f108fd8fbe6",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "SK Hynix, Samsung and Kioxia Face Pivotal Earnings Test on AI Swings - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUlyTXlyQmJUdHlZdEpLZ2w2LXlzdDl1ZlJLZmNPU3pYNzNKTzB4bzNKNF9vdXktRTJRemE2NGREU1hkX0ZoRVJBZDE1UjRiTVUxbjBMek82TGNsblo0WHV0a0N5Nk9tSFVaSTRmNnhkU3Z0MDhfVTdOSm9FZVhmSlZBaXNya29rR1A5ZzkzbjJwSWVlc3JYRlpsWU96RDZsMlByZU84NVlZSDhvWjRReHlma3RRdVZuMnc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 01:18:00 GMT",
+  "published_ts": 1784855880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUlyTXlyQmJUdHlZdEpLZ2w2LXlzdDl1ZlJLZmNPU3pYNzNKTzB4bzNKNF9vdXktRTJRemE2NGREU1hkX0ZoRVJBZDE1UjRiTVUxbjBMek82TGNsblo0WHV0a0N5Nk9tSFVaSTRmNnhkU3Z0MDhfVTdOSm9FZVhmSlZBaXNya29rR1A5ZzkzbjJwSWVlc3JYRlpsWU96RDZsMlByZU84NVlZSDhvWjRReHlma3RRdVZuMnc?oc=5\" target=\"_blank\">SK Hynix, Samsung and Kioxia Face Pivotal Earnings Test on AI Swings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Bloomberg.com",
+    "NDTV Profit"
+   ],
+   "titles": [
+    "SK Hynix, Samsung And Kioxia Face Pivotal Earnings Test On AI Swings - NDTV Profit"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung (both major DRAM holdings) are approaching earnings reports amid AI-driven demand volatility. This is forward-looking analysis of upcoming earnings, not a concrete event or new data point, so it rates as soft/opinion-based commentary rather than a market-moving disclosure."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "272a852cd093bc28cb3f382832d09d0563be5542",
+  "source": "Law.com",
+  "topic": "holding",
+  "title": "Sandisk IP Leader Sees NAND Flash Memory Becoming a Bigger Battleground - Law.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0N1T2pKRFdLbjN0YUxjOU9BdWhkWU5XRXV0QW1iMHBWWVV2ZlFaLWNpRFN1ejZ3M29zLUlDVS0tOEJfdFpQa2FhSzRNZ2x5ZnpGMG9NWmRDVF9MbHdzQkdoeWNRa0IyTEQ2eXlXdlRBRUJxZlJuMFlybEVhMGZNaXVEd2cwRnBjMkpwQkVMb25qaG0tMnphcVotWHhDYldTOE9rSDhtUUNOR3JaNnNUR0FOVzNmQQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 20:04:00 GMT",
+  "published_ts": 1784837040,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0N1T2pKRFdLbjN0YUxjOU9BdWhkWU5XRXV0QW1iMHBWWVV2ZlFaLWNpRFN1ejZ3M29zLUlDVS0tOEJfdFpQa2FhSzRNZ2x5ZnpGMG9NWmRDVF9MbHdzQkdoeWNRa0IyTEQ2eXlXdlRBRUJxZlJuMFlybEVhMGZNaXVEd2cwRnBjMkpwQkVMb25qaG0tMnphcVotWHhDYldTOE9rSDhtUUNOR3JaNnNUR0FOVzNmQQ?oc=5\" target=\"_blank\">Sandisk IP Leader Sees NAND Flash Memory Becoming a Bigger Battleground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Law.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) IP executive commentary on NAND flash memory competition intensifying; forward-looking perspective on industry battleground trends rather than concrete business developments or market-moving events."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "1ab0ba5b62f37a7463a5b7b7cd51c1684568ba58",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "This Analyst Just Cut Its Price Target on SNDK Stock. Here's Why. - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0o0RG1fWUdnbUtXRnBPSzVSalN0VVoxa3ZNVC1TMzkzRkY3Wjk5MTlyNGxjUWlRQWlQQm5USFlVeTRfRW01YnFiaGlYbkc3UEtFeV9pTVpNa1JiYWNqSnZFSFA1ZFlPRDhVRDZkLTVCQWFQbGFLSXZiZHE0cmkzUlJiRGEyVUFkb0N5bjVlbDItS3Atb1hiSy04cGxFWjRLTjN0SldCOVAwZkE?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:30:01 GMT",
+  "published_ts": 1784831401,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0o0RG1fWUdnbUtXRnBPSzVSalN0VVoxa3ZNVC1TMzkzRkY3Wjk5MTlyNGxjUWlRQWlQQm5USFlVeTRfRW01YnFiaGlYbkc3UEtFeV9pTVpNa1JiYWNqSnZFSFA1ZFlPRDhVRDZkLTVCQWFQbGFLSXZiZHE0cmkzUlJiRGEyVUFkb0N5bjVlbDItS3Atb1hiSy04cGxFWjRLTjN0SldCOVAwZkE?oc=5\" target=\"_blank\">This Analyst Just Cut Its Price Target on SNDK Stock. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "An analyst has cut their price target on SanDisk (SNDK), a fund holding. Price-target changes represent analyst opinion and are not concrete market events; the stock move, if any, would follow as the market digests this view. This is relevant but soft impact."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "2d787ee51eefc7ee13ee02ff66a7053e1646eabc",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "Intel reportedly considers SK Hynix for Ohio fab partnership - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTctM3oxMGM4aDQ1akszWE1Sckxaa1JEU2U3TG5IQnJBT0FTZFpWaVE3bURNVE5VQlgzR184NWhSZ3JYMXA4SlB2eldOeEJHc3UzT3ZfMTE4djFPNlBHRldhUEQ2Uk15LUZzb1JJRENIYlpBMzFNRm5oel94RzZ6ekJhXy1iaFlkekhJYm1iZ19BX2s?oc=5",
+  "published_at": "Fri, 24 Jul 2026 02:50:05 GMT",
+  "published_ts": 1784861405,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTctM3oxMGM4aDQ1akszWE1Sckxaa1JEU2U3TG5IQnJBT0FTZFpWaVE3bURNVE5VQlgzR184NWhSZ3JYMXA4SlB2eldOeEJHc3UzT3ZfMTE4djFPNlBHRldhUEQ2Uk15LUZzb1JJRENIYlpBMzFNRm5oel94RzZ6ekJhXy1iaFlkekhJYm1iZ19BX2s?oc=5\" target=\"_blank\">Intel reportedly considers SK Hynix for Ohio fab partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel is reportedly exploring a partnership with SK Hynix for its Ohio fab, a potential strategic move involving a fund holding but not yet confirmed or official."
+  },
+  "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "f92972dc6fa766abc87152a5ad9f2270972ad149",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "Seagate (STX) Will Report Q4 Earnings on July 28. Options Traders Brace for 18% Move - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSXhuUVZEeUsxdWpoOTUyaWFIdzVQOGFGanlOSWlJR29nWjV2UEJnNUF4c20wS2ZyZ21YZlRyOFFWOXdFY0JJSzRCdTdzQnY3TDdVZzUwUEFncFMwbkoxa0RNT2c0V3J0empKS05zdWp6SjBlNUtGTEluSjlvVDU1MkJKM3hIaTZXdTR1QXMwOUlPS0FOOHZFYXRVX1FuQW8wRmNxZGxnZ1QtWUs3QjYw?oc=5",
+  "published_at": "Thu, 23 Jul 2026 16:07:57 GMT",
+  "published_ts": 1784822877,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSXhuUVZEeUsxdWpoOTUyaWFIdzVQOGFGanlOSWlJR29nWjV2UEJnNUF4c20wS2ZyZ21YZlRyOFFWOXdFY0JJSzRCdTdzQnY3TDdVZzUwUEFncFMwbkoxa0RNT2c0V3J0empKS05zdWp6SjBlNUtGTEluSjlvVDU1MkJKM3hIaTZXdTR1QXMwOUlPS0FOOHZFYXRVX1FuQW8wRmNxZGxnZ1QtWUs3QjYw?oc=5\" target=\"_blank\">Seagate (STX) Will Report Q4 Earnings on July 28. Options Traders Brace for 18% Move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, will report Q4 earnings on July 28. Options traders are pricing in an 18% move. This is advance notice of an upcoming earnings date with expected volatility, but contains no new information about the company's actual results or memory-specific developments."
+  },
+  "buffered_ts": 1784866374.268161
  }
 ]
