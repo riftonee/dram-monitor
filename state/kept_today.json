@@ -1630,5 +1630,53 @@
    "summary": "SK hynix stock down 8.8% but story is opinion-based 'Time to Sell?' commentary with no new catalyst disclosed. Stock price movement alone without a stated concrete event or earnings trigger does not warrant higher impact."
   },
   "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "b372304b89e345c021e7fa15f7ee9c6156d7f7f2",
+  "source": "Korea JoongAng Daily",
+  "topic": "holding",
+  "title": "Pricing, profit and cycles: Three questions surrounding long-term memory chip supply deals - Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSHhpbEUtZ1lhSDdDUzdySGJpcHpvV0lsTWZjMFJxcC1XbU9XSVN5NWJyNkxMYU9LN3EzNklCdnVuUjdEbDJqNkMtbUpuNjh3MHB0cWVwTVNwaHQzYTBwTWVXVWpQSHktZ2lyQlFKM3pycjR0akhoRW9RQzFBRG1ldERsZTNlVk94OU04MGU5N3R5NVBSVDRoc3lXR05ZSzc0YmJadDVoRHVYcGFRMmJXZWhWSmZvRi14dElObm1TYXYtWmtUb2pvSXB1azNmV3BONGtiSnlDVE1kZ0U?oc=5",
+  "published_at": "Fri, 24 Jul 2026 22:03:24 GMT",
+  "published_ts": 1784930604,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSHhpbEUtZ1lhSDdDUzdySGJpcHpvV0lsTWZjMFJxcC1XbU9XSVN5NWJyNkxMYU9LN3EzNklCdnVuUjdEbDJqNkMtbUpuNjh3MHB0cWVwTVNwaHQzYTBwTWVXVWpQSHktZ2lyQlFKM3pycjR0akhoRW9RQzFBRG1ldERsZTNlVk94OU04MGU5N3R5NVBSVDRoc3lXR05ZSzc0YmJadDVoRHVYcGFRMmJXZWhWSmZvRi14dElObm1TYXYtWmtUb2pvSXB1azNmV3BONGtiSnlDVE1kZ0U?oc=5\" target=\"_blank\">Pricing, profit and cycles: Three questions surrounding long-term memory chip supply deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Korea JoongAng Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analysis of long-term memory chip supply deals, pricing dynamics, profitability, and cyclical factors affecting memory chip contracts. Discusses strategic considerations for supply agreements but appears to be analytical/opinion-driven rather than reporting a concrete deal or pricing movement."
+  },
+  "buffered_ts": 1784933882.8572469
+ },
+ {
+  "id": "860fc5c1c272361e319dac2630aa1084faf53efc",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE40VHlkaXVoMUxkQzhPMXFkdkk5M2FjNlhGX2NOYWxuYU91bGdjVXMxbkh1b1VoM0trVllpSFNoU3ZwUGRnaldXSDJaLVNCdEFDVVNERmJzUGlOdHVvQWFPdkdxcC14eGZjUi11dGwzaWU1OXRkZUVDR0F3YktFXzU3aHgzdFJjbnM3REN4aFVOa1VuSHc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 21:24:53 GMT",
+  "published_ts": 1784928293,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE40VHlkaXVoMUxkQzhPMXFkdkk5M2FjNlhGX2NOYWxuYU91bGdjVXMxbkh1b1VoM0trVllpSFNoU3ZwUGRnaldXSDJaLVNCdEFDVVNERmJzUGlOdHVvQWFPdkdxcC14eGZjUi11dGwzaWU1OXRkZUVDR0F3YktFXzU3aHgzdFJjbnM3REN4aFVOa1VuSHc?oc=5\" target=\"_blank\">Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, fell 11% on July 24 amid broader tech sector weakness. Without a stated company-specific catalyst, this appears to be a general market decline rather than DRAM-specific news; the price move alone, driven by sector-wide factors, merits only a minor notation."
+  },
+  "buffered_ts": 1784933882.8572469
  }
 ]
