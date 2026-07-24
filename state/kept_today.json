@@ -1462,5 +1462,173 @@
    "summary": "Roku is raising prices for streaming devices citing memory chip shortage. This is a passing mention of memory demand pressure but lacks specifics on DRAM/NAND pricing, volumes, or direct impact on fund holdings. It is a soft signal of industry conditions rather than a concrete event affecting memory chipmakers."
   },
   "buffered_ts": 1784924336.5250297
+ },
+ {
+  "id": "20474c4cd1de14487e52e1b0aa63300a0704735d",
+  "source": "Samsung Global Newsroom",
+  "topic": "holding",
+  "title": "Samsung Memory 3DS TSV SDRAM Package - Samsung Global Newsroom",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SME5lQ1lLQWhXcDBjMnM5eGRRN3pRWDN2V0tJY2FaX3A2U3VwWUZ5aTJySTBnYVA3UWVPcEVnRVFuYUJicEdUdlNBWGhuQTB1aXZMVGlNeTMyUE9EU1NGY1Z4TzBYUHFfR05qSUw3NGxQdURH?oc=5",
+  "published_at": "Fri, 24 Jul 2026 14:10:50 GMT",
+  "published_ts": 1784902250,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5SME5lQ1lLQWhXcDBjMnM5eGRRN3pRWDN2V0tJY2FaX3A2U3VwWUZ5aTJySTBnYVA3UWVPcEVnRVFuYUJicEdUdlNBWGhuQTB1aXZMVGlNeTMyUE9EU1NGY1Z4TzBYUHFfR05qSUw3NGxQdURH?oc=5\" target=\"_blank\">Samsung Memory 3DS TSV SDRAM Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung Global Newsroom</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Samsung Global Newsroom"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung announced a new 3DS TSV (three-dimensional stacked through-silicon-via) SDRAM package technology. This is a concrete product innovation from a fund holding (Samsung memory division) that addresses high-bandwidth memory demand and manufacturing capability—a material development in memory architecture and capacity."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "817c5f3635019d56cf67d45a5c69cb25cc1ad8ae",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUZRdGdtV0RqTnBRcl9pXzR6NngzWnBqYUlfTkdTZElNR05IM0d5Ykk2ZEMyVVJPN3VKd0Z3cUZMaVIxTG1OWlluVkNyYTN1elBNZXF0aUlEQS16YTNXbW5UN2loX2tDWGJwa0lrODVDZHNCTG92bDV5Qklkb1l1UURCamJvSUdpTHdlYjNHZVZTSTZKV29ob0k0YkxXLWotNXdycU5iMHlibUplYnB1cVJScFFHRXVrWW1BRFlFOWFZM25jUG1LdFZVbDJ2U3VHOFdaVEkyNXh3V0VHekFlMGFyWktTdw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 21:22:30 GMT",
+  "published_ts": 1784928150,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUZRdGdtV0RqTnBRcl9pXzR6NngzWnBqYUlfTkdTZElNR05IM0d5Ykk2ZEMyVVJPN3VKd0Z3cUZMaVIxTG1OWlluVkNyYTN1elBNZXF0aUlEQS16YTNXbW5UN2loX2tDWGJwa0lrODVDZHNCTG92bDV5Qklkb1l1UURCamJvSUdpTHdlYjNHZVZTSTZKV29ob0k0YkxXLWotNXdycU5iMHlibUplYnB1cVJScFFHRXVrWW1BRFlFOWFZM25jUG1LdFZVbDJ2U3VHOFdaVEkyNXh3V0VHekFlMGFyWktTdw?oc=5\" target=\"_blank\">Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk (SNDK), a fund holding, fell 11% on July 24 amid broader tech stock decline. The story reports the price move but does not identify a specific catalyst distinct from market-wide tech weakness."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "1627dbe292ffa879e9c2f83e1ab16edc67681b37",
+  "source": "AD HOC NEWS",
+  "topic": "industry",
+  "title": "The Split Screen at Micron: AI Demand Is Surging, but Consumer Pricing Is Already Cooling - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVhTNEppSGwydVFiNC16ZkVTQUMyb2I4Q2N2NzdiYm0zckJDdVprSDJlb3ZOc0pfSXR6Y2w5TER4T0k3UEd6YS1PY21FWE9ZWXh4eGdrU01mNjRhWHZaNVI1YzhJM0FLNHdOMDFWWlg2Tm9CckJ4U3EtSnR2VDhhWTBmR0Q2UW9IT1hWcEt4MlJFWE91LUg5YWd4YWQyMHp1aFJvUG91MXlic0dRRVNzeVRxUnhqalZXUWluR0l1UTk5dTVIUEFUb1p3?oc=5",
+  "published_at": "Fri, 24 Jul 2026 20:31:30 GMT",
+  "published_ts": 1784925090,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVhTNEppSGwydVFiNC16ZkVTQUMyb2I4Q2N2NzdiYm0zckJDdVprSDJlb3ZOc0pfSXR6Y2w5TER4T0k3UEd6YS1PY21FWE9ZWXh4eGdrU01mNjRhWHZaNVI1YzhJM0FLNHdOMDFWWlg2Tm9CckJ4U3EtSnR2VDhhWTBmR0Q2UW9IT1hWcEt4MlJFWE91LUg5YWd4YWQyMHp1aFJvUG91MXlic0dRRVNzeVRxUnhqalZXUWluR0l1UTk5dTVIUEFUb1p3?oc=5\" target=\"_blank\">The Split Screen at Micron: AI Demand Is Surging, but Consumer Pricing Is Already Cooling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis of divergent trends at Micron: strong AI-driven memory demand offsetting weakness in consumer DRAM/NAND pricing. Relevant to the fund's largest holding but represents market commentary and pricing observation rather than a concrete event or new hard data."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "9c874c7fcd227f039185d9cc93c6dc1887c09109",
+  "source": "TechPowerUp",
+  "topic": "holding",
+  "title": "CXMT Reportedly Outprices Samsung for DDR5 Server Memory Amid Surging Demand - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxXY2dhV3NqSUhPaXB0LXJfUHVYM3BvMDBHWUoxSnlxeHF1N2Z0cHZLVFVOZmdBdWZrU0picTFCaVFYYzlBbWtqZWRBZXM3XzNmUnFrUmRmVjlJazk3dkllalF5WWNwT0NCVDlxbmxaQW9lWGY4b3B6cGx6Qng0eGkwa1IxMVNpR0RYemRxWDd6NXhUM3pUYXRkSGVoSGJHZkdlWlFtNlBNYlI0UnRGTNIBtgFBVV95cUxNT3NieUFCTG9JTlBQZnhsUllFdmx5Y0lYRTlKX19vaDdKTENCVUUxcDU0Q2lKMXFoV3VDZEEtbk5YOWVjSWMtaWZIaFVDaTc3NUM5bGdMM1ZjZDlvZ29xYzVGbXhTQ1A2anh2dTRlTzBEa2JkOFhEZjVfbE9aQUlBcFRCOGtoWi10cThhTTJScnhkX2g4Vllra29wZXFsb0E2X0FXZW1mX054WG1GdlBYTEpoOVZSQQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 20:46:16 GMT",
+  "published_ts": 1784925976,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxXY2dhV3NqSUhPaXB0LXJfUHVYM3BvMDBHWUoxSnlxeHF1N2Z0cHZLVFVOZmdBdWZrU0picTFCaVFYYzlBbWtqZWRBZXM3XzNmUnFrUmRmVjlJazk3dkllalF5WWNwT0NCVDlxbmxaQW9lWGY4b3B6cGx6Qng0eGkwa1IxMVNpR0RYemRxWDd6NXhUM3pUYXRkSGVoSGJHZkdlWlFtNlBNYlI0UnRGTNIBtgFBVV95cUxNT3NieUFCTG9JTlBQZnhsUllFdmx5Y0lYRTlKX19vaDdKTENCVUUxcDU0Q2lKMXFoV3VDZEEtbk5YOWVjSWMtaWZIaFVDaTc3NUM5bGdMM1ZjZDlvZ29xYzVGbXhTQ1A2anh2dTRlTzBEa2JkOFhEZjVfbE9aQUlBcFRCOGtoWi10cThhTTJScnhkX2g4Vllra29wZXFsb0E2X0FXZW1mX054WG1GdlBYTEpoOVZSQQ?oc=5\" target=\"_blank\">CXMT Reportedly Outprices Samsung for DDR5 Server Memory Amid Surging Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechPowerUp"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "CXMT reportedly outpricing Samsung for DDR5 server memory contracts amid strong demand. Reflects competitive dynamics and pricing strength in the DDR5 server market, but is a report of market competition/rumor rather than a confirmed deal, order, or hard pricing data from the suppliers themselves."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "7e9af1d1a3840bce00e15f6a4451776f63ba7cb7",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC expected to post earnings of $5.09 a share - Earnings Preview - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZHQ4cWkyRk1kVnFpU2lnMXNBODFyaEZxeklnOVN1cThMOGVGWXlKZUYtNVRsbEhoVVMyVW5XZFdOTjhJZUV0anNZV0QtejBQRUlVSkJPTllrY2xIeUNUYTJ0cUM3Q2ppd29iZ0VCT3BCSkVqS2VpOS1TV2I3UTBFdC1lVEVGUzlmdGhqenRDR0VmY2tuSldxWUVwUERRc1NfS3RSSzk0dFliNG5SYk1hSDdIRGFsSTJmLTRmMjFheGxkQTh1dDAxbTF6V1pMR2JSZ2FXck9UMjJNX3R6TXFOSy1OXzZDeTRwODFsNlhrQTktZw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 20:59:06 GMT",
+  "published_ts": 1784926746,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZHQ4cWkyRk1kVnFpU2lnMXNBODFyaEZxeklnOVN1cThMOGVGWXlKZUYtNVRsbEhoVVMyVW5XZFdOTjhJZUV0anNZV0QtejBQRUlVSkJPTllrY2xIeUNUYTJ0cUM3Q2ppd29iZ0VCT3BCSkVqS2VpOS1TV2I3UTBFdC1lVEVGUzlmdGhqenRDR0VmY2tuSldxWUVwUERRc1NfS3RSSzk0dFliNG5SYk1hSDdIRGFsSTJmLTRmMjFheGxkQTh1dDAxbTF6V1pMR2JSZ2FXck9UMjJNX3R6TXFOSy1OXzZDeTRwODFsNlhrQTktZw?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC expected to post earnings of $5.09 a share - Earnings Preview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "TradingView earnings preview for Seagate (STX), a DRAM ETF holding. Pre-earnings analyst consensus of $5.09 EPS is routine expectation-setting with no new information; impact awaits actual earnings release."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "6328fe5d65d676bf75ca9afe052d904ed0bab3e4",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Seagate Technology Holdings PLC (STX) Shares Fall 6.8% -- GF Val - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzg4SDU3LXFodTRFazMxUU4wWnNqa1pVSFZEMHMyTHoxOHlCel94YmtPQlRPODZ1dnA3d1U4OVpXdTVsekJqSFYtZ2REZHMycDl6N1RIMS1CZExJbGZYRlZlV1h6ZmtRVHlDRXppUFdJM09xVXFReFBneElyaHVSR1BjdmU4bHFyeVA0Z0tIQzlZUk4wV05COWZNWWdScTlTR3VNT2xLQUF5MEpxV1l2YVZFR0NaZFg2Wkp5cg?oc=5",
+  "published_at": "Fri, 24 Jul 2026 21:31:13 GMT",
+  "published_ts": 1784928673,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzg4SDU3LXFodTRFazMxUU4wWnNqa1pVSFZEMHMyTHoxOHlCel94YmtPQlRPODZ1dnA3d1U4OVpXdTVsekJqSFYtZ2REZHMycDl6N1RIMS1CZExJbGZYRlZlV1h6ZmtRVHlDRXppUFdJM09xVXFReFBneElyaHVSR1BjdmU4bHFyeVA0Z0tIQzlZUk4wV05COWZNWWdScTlTR3VNT2xLQUF5MEpxV1l2YVZFR0NaZFg2Wkp5cg?oc=5\" target=\"_blank\">Seagate Technology Holdings PLC (STX) Shares Fall 6.8% -- GF Val</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "GuruFocus"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a 6.8% share price decline. The snippet provides no stated catalyst or fundamental reason for the move, making this a price-movement piece without distinct news. While STX is a holding, the lack of concrete event or triggering news limits impact."
+  },
+  "buffered_ts": 1784929001.1208673
+ },
+ {
+  "id": "c06aa999886bebd31c5cbdff1d9af391c2c014ec",
+  "source": "MarketBeat",
+  "topic": "holding",
+  "title": "SK hynix (NASDAQ:SKHY) Trading Down 8.8% - Time to Sell? - MarketBeat",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVU4RGdhWFpFWmYwX2djUFVSVkZzYVB5bU4zX2QwVU9ZQm9OSTlyQU1fRFVPTmdnUnJ4eExkbU9ZVG9HQ2hHTzFUNnBzMEtHYW9HNm85WGFoa2pZcmlPQ215TVE2RFR3bTdJZUdWM2dPU1RwblZFZV9EZzY1bGlqT21ZbUk4cXdOc3JwVFZXNGdaT1cxRzh6bW1IbjljWTk1Qzd2dw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 21:23:08 GMT",
+  "published_ts": 1784928188,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVU4RGdhWFpFWmYwX2djUFVSVkZzYVB5bU4zX2QwVU9ZQm9OSTlyQU1fRFVPTmdnUnJ4eExkbU9ZVG9HQ2hHTzFUNnBzMEtHYW9HNm85WGFoa2pZcmlPQ215TVE2RFR3bTdJZUdWM2dPU1RwblZFZV9EZzY1bGlqT21ZbUk4cXdOc3JwVFZXNGdaT1cxRzh6bW1IbjljWTk1Qzd2dw?oc=5\" target=\"_blank\">SK hynix (NASDAQ:SKHY) Trading Down 8.8% - Time to Sell?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "MarketBeat"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK hynix stock down 8.8% but story is opinion-based 'Time to Sell?' commentary with no new catalyst disclosed. Stock price movement alone without a stated concrete event or earnings trigger does not warrant higher impact."
+  },
+  "buffered_ts": 1784929001.1208673
  }
 ]
