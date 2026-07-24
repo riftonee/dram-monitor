@@ -747,5 +747,352 @@
    "summary": "Benzinga article asking why Seagate stock is falling on a particular trading day. Without details on the specific cause (earnings, guidance, market conditions, or memory/storage-specific news), this appears to be a routine stock-movement piece. Seagate is a holding but the snippet provides no substantive information about memory demand, capacity, pricing, or a concrete catalyst."
   },
   "buffered_ts": 1784906066.400099
+ },
+ {
+  "id": "4cce56672682530fa8f8c8bfd2e3ea13e9a172db",
+  "source": "South China Morning Post",
+  "topic": "industry",
+  "title": "Surging memory chip prices make profitable budget phones ‘impossible’ - South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSEd2Y3RuMll6OE45Vk5YXzBkb2YxQ015NG5CaHI3TllfM0ZSY0J2d2wtMHVVSUx1S2ptZHF6M0NFZmdqbTZoM3VudzQ4TFdGcURpQWlTMGhLamZvNTZDcGRKUWdRSXljMnhTTWtYWUNxT2ZheWd0bHdiWmVFcEpJbDJTQkhNamtJXy13WHRaRllUbkZidTZlb0VORkZHWmxkcjJZSVNjQXZQMEp5MkR4UkMtbmMxWldVTEJSNkdoUFhKUFkzWkc2bU8xRkVYaDTSAc8BQVVfeXFMTUhHdmN0bjJZejhOOVZOWF8wZG9mMUNNeTRuQmhyN05ZXzNGUmNCdndsLTB1VUlMdUtqbWRxejNDRWZnam02aDN1bnc0OExXRnFEaUFpUzBoS2pmbzU2Q3BkSlFnUUl5YzJ4U01rWFlDcU9mYXlndGx3YlplRXBKSWwyU0JITWprSV8td1h0WkZZVG5GYnU2ZW9FTkZGR1psZHIyWUlTY0F2UDBKeTJEeFJDLW5jMVpXVUxCUjZHaFBYSlBZM1pHNm1PMUZFWGg0?oc=5",
+  "published_at": "Fri, 24 Jul 2026 11:30:05 GMT",
+  "published_ts": 1784892605,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSEd2Y3RuMll6OE45Vk5YXzBkb2YxQ015NG5CaHI3TllfM0ZSY0J2d2wtMHVVSUx1S2ptZHF6M0NFZmdqbTZoM3VudzQ4TFdGcURpQWlTMGhLamZvNTZDcGRKUWdRSXljMnhTTWtYWUNxT2ZheWd0bHdiWmVFcEpJbDJTQkhNamtJXy13WHRaRllUbkZidTZlb0VORkZHWmxkcjJZSVNjQXZQMEp5MkR4UkMtbmMxWldVTEJSNkdoUFhKUFkzWkc2bU8xRkVYaDTSAc8BQVVfeXFMTUhHdmN0bjJZejhOOVZOWF8wZG9mMUNNeTRuQmhyN05ZXzNGUmNCdndsLTB1VUlMdUtqbWRxejNDRWZnam02aDN1bnc0OExXRnFEaUFpUzBoS2pmbzU2Q3BkSlFnUUl5YzJ4U01rWFlDcU9mYXlndGx3YlplRXBKSWwyU0JITWprSV8td1h0WkZZVG5GYnU2ZW9FTkZGR1psZHIyWUlTY0F2UDBKeTJEeFJDLW5jMVpXVUxCUjZHaFBYSlBZM1pHNm1PMUZFWGg0?oc=5\" target=\"_blank\">Surging memory chip prices make profitable budget phones ‘impossible’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "South China Morning Post"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Memory chip prices have surged to levels that make profitable budget phone manufacturing difficult, creating a concrete constraint on device economics and signaling strong DRAM/NAND pricing that benefits memory suppliers in the fund's holdings."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "357e35f07806e4974a3c63c5758eee54ac53913b",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "AMD Unveils AI Server with Samsung HBM4, Challenging Nvidia's Dominance - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OS3ZpR0F5OGRKeW1FT2JGY1o2cHZOaXYyQkhuSjhoWE1oLXU2RnU1aUFKS1BrZjFldmEwOWJWbi1pdkFFTXE0bm1LVWc2WjB6VWdnclNzaVFMd2QwZW9Cdl9sR28xZ0NFamV2UXZWSWtvVF93N1E?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:55:00 GMT",
+  "published_ts": 1784886900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1OS3ZpR0F5OGRKeW1FT2JGY1o2cHZOaXYyQkhuSjhoWE1oLXU2RnU1aUFKS1BrZjFldmEwOWJWbi1pdkFFTXE0bm1LVWc2WjB6VWdnclNzaVFMd2QwZW9Cdl9sR28xZ0NFamV2UXZWSWtvVF93N1E?oc=5\" target=\"_blank\">AMD Unveils AI Server with Samsung HBM4, Challenging Nvidia's Dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "AMD has unveiled an AI server incorporating Samsung HBM4 memory, representing a concrete product launch that validates HBM4 demand and positions a major holding (Samsung) as a supplier in the competitive AI infrastructure market."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "daf04570ca2f47b00ae08af7e86eb55a04191441",
+  "source": "The News International",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to sign major AI chip deals with US tech giants - The News International",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2lJSEtBTHVnSTFlbjNJNVNQQWtON2VMNUlScFdkSGhtZXhfMHRHNmN5Vi1kZkx4Z1pVR2hoWGlqeUcwWlF1SDhPS201VEJGM1V4YVkxdDRIOXRycXpRbm8ycFFvVW92STFtOUZHdUhPS3doN1pCMEF2eFZYV3ZtendzZmhJNjhOMVU4dWhvUjJfODFwdFVTVXA4VGF6YzNOYWtzU3NPclBBQQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:10:00 GMT",
+  "published_ts": 1784909400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2lJSEtBTHVnSTFlbjNJNVNQQWtON2VMNUlScFdkSGhtZXhfMHRHNmN5Vi1kZkx4Z1pVR2hoWGlqeUcwWlF1SDhPS201VEJGM1V4YVkxdDRIOXRycXpRbm8ycFFvVW92STFtOUZHdUhPS3doN1pCMEF2eFZYV3ZtendzZmhJNjhOMVU4dWhvUjJfODFwdFVTVXA4VGF6YzNOYWtzU3NPclBBQQ?oc=5\" target=\"_blank\">Samsung, SK Hynix to sign major AI chip deals with US tech giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News International</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The News International"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK hynix are signing major AI chip deals with US tech giants. This is a concrete, officially announced development involving two core fund holdings (Samsung's memory/semiconductor arm and SK hynix) securing significant AI-driven demand contracts, directly supporting memory-chip revenues and capacity utilization in a key growth segment."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "fdb5bc217253f1bab7abcf17a2c3eb74796d1666",
+  "source": "01net",
+  "topic": "fund",
+  "title": "T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28 - 01net",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3VIeGNQTEVzWU0tQkMyMHJUcHJTZTgwVE9HSU1SNmdZRmV4MjV5XzNfbElvTjdjbGUtMGl2bXNuaXhWYUJQMWRHdjdLdmlTUEF5TGJvaVo5amFsYXpHMGpRbGdZSmZLNkF3ekxxQ1dra1R3ZWFGdUxnV3RfOHd6WFE2S1ByV0dTbENNSVAzWURVdw?oc=5",
+  "published_at": "Thu, 23 Jul 2026 21:30:00 GMT",
+  "published_ts": 1784842200,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3VIeGNQTEVzWU0tQkMyMHJUcHJTZTgwVE9HSU1SNmdZRmV4MjV5XzNfbElvTjdjbGUtMGl2bXNuaXhWYUJQMWRHdjdLdmlTUEF5TGJvaVo5amFsYXpHMGpRbGdZSmZLNkF3ekxxQ1dra1R3ZWFGdUxnV3RfOHd6WFE2S1ByV0dTbENNSVAzWURVdw?oc=5\" target=\"_blank\">T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">01net</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "01net"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "T-REX is launching RAMZ, a new 2X inverse DRAM ETF, on July 28. This is a concrete fund development that creates a competing product in the memory-semiconductor ETF space and represents an official market event with a stated launch date."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "0247b009bcff45ec9e54f5db89b6bd6e6df7e5a5",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Memory Boom's Perception War: Five Major Debates Emerge as China Demand Slowdown Noise Rattles South Korean Giants - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdHNGQ0lrUzQxeVFlUkt6Nl9tbERtN080VmROMmlUWGtvbEwzeXhuU1Rabk50dF9SMFB2TFJSczBoQWh3MTNEOUdoRV9yclR4Zkx2NXVkenJxOWZRc3J6UGxNUnhIRDJvY3ZCTnlhZS03OUUyMnc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:55:00 GMT",
+  "published_ts": 1784886900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdHNGQ0lrUzQxeVFlUkt6Nl9tbERtN080VmROMmlUWGtvbEwzeXhuU1Rabk50dF9SMFB2TFJSczBoQWh3MTNEOUdoRV9yclR4Zkx2NXVkenJxOWZRc3J6UGxNUnhIRDJvY3ZCTnlhZS03OUUyMnc?oc=5\" target=\"_blank\">Memory Boom's Perception War: Five Major Debates Emerge as China Demand Slowdown Noise Rattles South Korean Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece discussing competing narratives around memory demand—including China slowdown concerns—and their impact on South Korean memory makers (SK hynix, Samsung). Soft commentary on market perception rather than a concrete event or hard number; relevant to industry cycle but not actionable intelligence."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "c6e5b769c9d0c488d628630285fdd9e401d94ba3",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix Begins Recruiting for 3D Stacked DRAM, Partnering with U.S. Clients to Target On-Device AI Market - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaN1lFOGNSZmZmOUFyVDRxOUtwX3owSFZuOThxWnAzX09hejNhM2VpMEdRYkw5bEVaOW4zeC16RjVGdDZjdFY5enlEdGdCdE1xMEI2SV9PbVAzU1dUTHFUVTRMQUxyMWJoQXBJYXRRM2p3Y1NqVnc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:35:00 GMT",
+  "published_ts": 1784885700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBaN1lFOGNSZmZmOUFyVDRxOUtwX3owSFZuOThxWnAzX09hejNhM2VpMEdRYkw5bEVaOW4zeC16RjVGdDZjdFY5enlEdGdCdE1xMEI2SV9PbVAzU1dUTHFUVTRMQUxyMWJoQXBJYXRRM2p3Y1NqVnc?oc=5\" target=\"_blank\">SK Hynix Begins Recruiting for 3D Stacked DRAM, Partnering with U.S. Clients to Target On-Device AI Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is recruiting for 3D stacked DRAM production and partnering with U.S. clients to serve the on-device AI market. This signals product development and demand positioning in a growing segment, but the announcement is about plans and partnerships rather than a confirmed capacity commitment or binding deal with concrete timelines."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "796ad46dcfad454378b6d6371bc9ef20ee7a94cc",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "SK Hynix and Micron Sink 6%, SanDisk Drops 9% as Korea Chip Selloff Hits U.S. Memory Stocks - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DSUwwZUhQU1kxbGZHOXhxNkhBSG5mOElhTkhibnRQVGw1cGk4WGRfMUhXMkRhWXNFWDEzNXl6bVVSU2tBN0ZZdFNPWkRFdTloTDRXOFN5RFMxSzF1alpTQlNOckg2bXBOUjF3dWN1NE5sVGlp?oc=5",
+  "published_at": "Fri, 24 Jul 2026 15:15:07 GMT",
+  "published_ts": 1784906107,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9DSUwwZUhQU1kxbGZHOXhxNkhBSG5mOElhTkhibnRQVGw1cGk4WGRfMUhXMkRhWXNFWDEzNXl6bVVSU2tBN0ZZdFNPWkRFdTloTDRXOFN5RFMxSzF1alpTQlNOckg2bXBOUjF3dWN1NE5sVGlp?oc=5\" target=\"_blank\">SK Hynix and Micron Sink 6%, SanDisk Drops 9% as Korea Chip Selloff Hits U.S. Memory Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Micron declined 6%, SanDisk dropped 9% in a Korea-driven chip selloff. This is a price move driven by regional market momentum rather than a fund-specific or company-specific catalyst distinct from the session itself; absent an identified concrete event (earnings, guidance, deal), the decline is a market reaction already reflected in holdings' prices."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "fba2f12522acd27c594c7f4b603712b83606926e",
+  "source": "Communications Today",
+  "topic": "holding",
+  "title": "AI demand puts SK hynix, Samsung and Kioxia earnings under spotlight - Communications Today",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkRhLWFWQmxMNkxRb1ZOSWFGOEVnZ1lOZTRmLWFfUmQ5bWhFOEJhVkJCcHdaa0VueUxGU3V6WE1VdkVWV1doNlVBZV9md0xSRUVfRDNzRWN4MHNqeTc1S3BONWxiS1ZYNUM4RnFPVFNfSjRGN0gyRHVNV255dnlsSGI0M2ZNbnpxZ0Vqc0xkeDlWZ2dybG9zVmozMm1BNWwxeFp5dGdwdnREQQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 10:56:50 GMT",
+  "published_ts": 1784890610,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkRhLWFWQmxMNkxRb1ZOSWFGOEVnZ1lOZTRmLWFfUmQ5bWhFOEJhVkJCcHdaa0VueUxGU3V6WE1VdkVWV1doNlVBZV9md0xSRUVfRDNzRWN4MHNqeTc1S3BONWxiS1ZYNUM4RnFPVFNfSjRGN0gyRHVNV255dnlsSGI0M2ZNbnpxZ0Vqc0xkeDlWZ2dybG9zVmozMm1BNWwxeFp5dGdwdnREQQ?oc=5\" target=\"_blank\">AI demand puts SK hynix, Samsung and Kioxia earnings under spotlight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Communications Today"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Story highlighting that AI demand is a key focus for upcoming earnings reports from SK hynix and Samsung (both DRAM/memory holdings). No concrete earnings numbers, guidance changes, or confirmed events reported—this is pre-earnings commentary setting expectations."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "ef03441ed2fa9ba6e428556565bb8b785b7b2648",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "AMD Turns to Samsung for HBM4 Memory as Lisa Su Races to Match NVIDIA’s Rubin - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUllWmVQcWdybi0xT1prUnBNLV9pUjlhanBvWFdvX2ljSVpFNk9xMFg4WHhrbW5KOGczUXdOX1U3bjJ2blJTc3prV3VnYnJjeWptTW5XOTYzazR1REVWMFVrc3VheHRsUUk0YW5OVlkxUUJfdEpxVThOMTFKSVgwVlR0aWg0eDh0bnBkTllQLUxNM1JRWWZ1TUVYRTgtMjjSAaQBQVVfeXFMT1dWemFQaTd3TDdFYVlBY2o3V1BZWHU3aDJrTjFYRmU0cmN4SlNrcHZQZkx6QmdtWHNoNnQtVGNSUVIzX3VVU3RzTGZkam9vdmRyU04xWDBMZDJqRWxDbmhFTkV3Q2tJSThQMUNSWU5DNmoxRl9WT05mSDhhX0NYa2hPa3BBeTV1TzBKaVhTTS1ybUFuaU1zT2VmNGRPSGlYS19DR28?oc=5",
+  "published_at": "Fri, 24 Jul 2026 15:41:04 GMT",
+  "published_ts": 1784907664,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUllWmVQcWdybi0xT1prUnBNLV9pUjlhanBvWFdvX2ljSVpFNk9xMFg4WHhrbW5KOGczUXdOX1U3bjJ2blJTc3prV3VnYnJjeWptTW5XOTYzazR1REVWMFVrc3VheHRsUUk0YW5OVlkxUUJfdEpxVThOMTFKSVgwVlR0aWg0eDh0bnBkTllQLUxNM1JRWWZ1TUVYRTgtMjjSAaQBQVVfeXFMT1dWemFQaTd3TDdFYVlBY2o3V1BZWHU3aDJrTjFYRmU0cmN4SlNrcHZQZkx6QmdtWHNoNnQtVGNSUVIzX3VVU3RzTGZkam9vdmRyU04xWDBMZDJqRWxDbmhFTkV3Q2tJSThQMUNSWU5DNmoxRl9WT05mSDhhX0NYa2hPa3BBeTV1TzBKaVhTTS1ybUFuaU1zT2VmNGRPSGlYS19DR28?oc=5\" target=\"_blank\">AMD Turns to Samsung for HBM4 Memory as Lisa Su Races to Match NVIDIA’s Rubin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "AMD is sourcing HBM4 memory from Samsung to compete with NVIDIA's Rubin platform. This represents a strategic partnership discussion but lacks confirmed details on volume, timeline, or financial terms. Samsung is a fund holding; the news confirms HBM demand momentum but is speculative regarding execution and commercial impact."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "c65ac7f60423d4473aad93cb197c6c783191e592",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "AI memory, chip stocks fall after Asian peers SK hynix, Samsung tumble - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXByWnQ1anFVMWxFSGtnOHZBTE1MOVZabzVreUdHaldNV0F4R3VvTDlMVmxaZXFkY0ZBZ2VEdHFULXBPbENqU29JenlCcy1TUWVFa0tsOE9mRTRodEFHVXZua251LVJpNzNtdFBXYjcxb3NRVXNLUVh1dVlYWEhXcmJFeHRnajFnZkZKdVh4VXkyQzgyZHAzUWRaQzQtYXVKSUxjcjNWUGUyUQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:14:06 GMT",
+  "published_ts": 1784909646,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXByWnQ1anFVMWxFSGtnOHZBTE1MOVZabzVreUdHaldNV0F4R3VvTDlMVmxaZXFkY0ZBZ2VEdHFULXBPbENqU29JenlCcy1TUWVFa0tsOE9mRTRodEFHVXZua251LVJpNzNtdFBXYjcxb3NRVXNLUVh1dVlYWEhXcmJFeHRnajFnZkZKdVh4VXkyQzgyZHAzUWRaQzQtYXVKSUxjcjNWUGUyUQ?oc=5\" target=\"_blank\">AI memory, chip stocks fall after Asian peers SK hynix, Samsung tumble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung stock prices fell, causing US memory and chip stocks to decline in sympathy. This is a price-move story driven by Asian peer weakness rather than new fundamental information or company-specific catalysts."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "039c0fed4369663fb54d3fb72fd1183f703e22bd",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "STX Likely to Beat Q4 Earnings: Is it a Portfolio Must-Have Now? - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOC13eEFGSV9fZ0tZU3ozeHA2VlE1c0cxWDh4M0pkMGZyR09tUjVLVzlSaHF0ZzcxV2tFX21DWkFwQ25PTUZRZ3FQdnR1UWotenlCbHQ3VDFSRzV5VTJOUXlfYlRhYml4SUVxTVduVXl0UmRjdkhYNzVNRFJJUktFVVZBRENaS2FfNlBlX3FGajF2YkRCTEJld1d6Y2lBVnVVNjlNYUJkSVg2THdNLWhVWWFrWXVEekY2VXc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 15:01:00 GMT",
+  "published_ts": 1784905260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOC13eEFGSV9fZ0tZU3ozeHA2VlE1c0cxWDh4M0pkMGZyR09tUjVLVzlSaHF0ZzcxV2tFX21DWkFwQ25PTUZRZ3FQdnR1UWotenlCbHQ3VDFSRzV5VTJOUXlfYlRhYml4SUVxTVduVXl0UmRjdkhYNzVNRFJJUktFVVZBRENaS2FfNlBlX3FGajF2YkRCTEJld1d6Y2lBVnVVNjlNYUJkSVg2THdNLWhVWWFrWXVEekY2VXc?oc=5\" target=\"_blank\">STX Likely to Beat Q4 Earnings: Is it a Portfolio Must-Have Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TradingView analysis suggests Seagate (STX) is likely to beat Q4 earnings and questions its portfolio appeal. This is analyst opinion and speculation about future earnings rather than a confirmed event or hard number, and does not constitute new market-moving information independent of the earnings release itself."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "d44465e3a7a99feb175b1712ed5af39fe0d66a59",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Why Did Sandisk Stock Drop Friday? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUpPaHhtYjNTTXh4SUJrUFMxcW9LMDBFM2JheFRKZ2s2eTF5OVRFVmtmQUJHTGZSaEZUc0MwVVRQU0d6NmlSZ1IxMGgybnZRYkdkQUVYdlQ4cjVQYW5nWG9DOHVRY0dFZ2FRWmpCQzlkUGxRNGpHSGduVHJkNzFvUXVR?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:12:17 GMT",
+  "published_ts": 1784909537,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUpPaHhtYjNTTXh4SUJrUFMxcW9LMDBFM2JheFRKZ2s2eTF5OVRFVmtmQUJHTGZSaEZUc0MwVVRQU0d6NmlSZ1IxMGgybnZRYkdkQUVYdlQ4cjVQYW5nWG9DOHVRY0dFZ2FRWmpCQzlkUGxRNGpHSGduVHJkNzFvUXVR?oc=5\" target=\"_blank\">Why Did Sandisk Stock Drop Friday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 3,
+   "sources": [
+    "The Motley Fool",
+    "Investing.com",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Why is SanDisk stock sliding today? - Investing.com",
+    "Why Did Sandisk Stock Drop Friday? - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece examining reasons for SanDisk stock decline on a specific trading day. Likely discusses post-earnings digestion or market reaction to known developments rather than new information."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "4d5dec620012c102ca2b2d84247fb63fc81373c7",
+  "source": "FinancialContent",
+  "topic": "holding",
+  "title": "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know - FinancialContent",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZDJJcDhWQVM5V0x0d2hGeFI1cGttbEd2eHp4YVp3ZHhJT2xzTHdTaWlmTFNDY09yRVBmQ21qYmZodkl3a3F3MW41VW43TXhpUVhtVHNxVkNMR1JxWERVYzhrd2lmNEdDQ0Z1Wnc5M2FqLVhjLXJpakpBdFhwV3dZdEE4U3dCRExTSkxlSVM2aFFrNlhrejFMOUx1ZVpyZld4N0NTaVA4MHdHQXFwaUlQMGUtLUpYXzVKdUR5ekFRbmc0eFRvcWVyNHZxclVWM1BCLUNpczkzZ25RLWwtVEN3TnozcndYazRBYkpZdERzQmZPVldXdmRtNmVsMA?oc=5",
+  "published_at": "Fri, 24 Jul 2026 15:20:00 GMT",
+  "published_ts": 1784906400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZDJJcDhWQVM5V0x0d2hGeFI1cGttbEd2eHp4YVp3ZHhJT2xzTHdTaWlmTFNDY09yRVBmQ21qYmZodkl3a3F3MW41VW43TXhpUVhtVHNxVkNMR1JxWERVYzhrd2lmNEdDQ0Z1Wnc5M2FqLVhjLXJpakpBdFhwV3dZdEE4U3dCRExTSkxlSVM2aFFrNlhrejFMOUx1ZVpyZld4N0NTaVA4MHdHQXFwaUlQMGUtLUpYXzVKdUR5ekFRbmc0eFRvcWVyNHZxclVWM1BCLUNpczkzZ25RLWwtVEN3TnozcndYazRBYkpZdERzQmZPVldXdmRtNmVsMA?oc=5\" target=\"_blank\">Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "FinancialContent",
+    "StockStory"
+   ],
+   "titles": [
+    "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know - StockStory"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Price movement story naming multiple holdings (Micron, Seagate, Western Digital) without stating a distinct catalyst or new information driving the decline. Generic price-action reporting on holdings with no memory-specific news or concrete event."
+  },
+  "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "8ddc3d67cf09a298b95edd315ef826ca22ada244",
+  "source": "Yahoo Finance Singapore",
+  "topic": "holding",
+  "title": "Tradr's Leveraged ETFs on SK hynix Set to Open Trading Tuesday - Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemZlbVdveHNrWmZSV3AxMzVYTkphaGVFWHFzTDBUbHoxSDQtVHJORDEwYk56SEFPYXB1OWo4d1ExQW45QmxVa1Frak0yaWQ5R0VfNjlmNTJLQldlSTVrT2g2TVktcXJXUWxuY3I0TmRtM2tSQzZxR0JEQVByTWRyQk1wQ1FFUQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:12:00 GMT",
+  "published_ts": 1784909520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOemZlbVdveHNrWmZSV3AxMzVYTkphaGVFWHFzTDBUbHoxSDQtVHJORDEwYk56SEFPYXB1OWo4d1ExQW45QmxVa1Frak0yaWQ5R0VfNjlmNTJLQldlSTVrT2g2TVktcXJXUWxuY3I0TmRtM2tSQzZxR0JEQVByTWRyQk1wQ1FFUQ?oc=5\" target=\"_blank\">Tradr's Leveraged ETFs on SK hynix Set to Open Trading Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance Singapore",
+    "PR Newswire"
+   ],
+   "titles": [
+    "Tradr's Leveraged ETFs on SK hynix Set to Open Trading Tuesday - PR Newswire"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Tradr is launching leveraged ETFs tracking SK hynix (a DRAM ETF holding). This is a minor structural development—a new derivative product on the holding—but carries no material news about SK hynix's business, capacity, pricing, or fundamentals."
+  },
+  "buffered_ts": 1784912638.5723748
  }
 ]
