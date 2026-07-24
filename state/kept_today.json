@@ -721,5 +721,149 @@
    "summary": "Preview article ahead of SanDisk earnings release. Generic pre-earnings content without new information or concrete developments."
   },
   "buffered_ts": 1784849244.51327
+ },
+ {
+  "id": "78348ddce8e7a89efe868dc05bc3797a1a0f5c8f",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Samsung, AMD co-design HBM4 and memory to power Helios AI platform - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YZlBDTVB0em5sUVU5ZDN1OXVGYkFZYnpnYzZhaTZFNks2TmpsQVBOYVhVVVZrbnhnTU5GRjRnai1JdjJZVDVsREQwRnkweTRPVWZQN1F3UXNPSTZUSXlwU0lFMnJUSHAzVl9WaUV2WmxhTTBBYXMtd3Vn0gGOAUFVX3lxTE5rc1h2a1ZqcGN4NXVpWWZVaGFGaXVrbnU1MFctYnRLbjhwQldCZm1Yb3V6X2RVS2pDSkFLQnBTNlpkUkZvRzRyVF9helh6WU9pRjN3TDhVOEEyWnFUajVVRmdkSkpfQU9WTC1icDRPUEphSUFSUTMtVjZJSGNIczZMYkZlNllfanJEWmtfSUE?oc=5",
+  "published_at": "Thu, 23 Jul 2026 23:32:00 GMT",
+  "published_ts": 1784849520,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9YZlBDTVB0em5sUVU5ZDN1OXVGYkFZYnpnYzZhaTZFNks2TmpsQVBOYVhVVVZrbnhnTU5GRjRnai1JdjJZVDVsREQwRnkweTRPVWZQN1F3UXNPSTZUSXlwU0lFMnJUSHAzVl9WaUV2WmxhTTBBYXMtd3Vn0gGOAUFVX3lxTE5rc1h2a1ZqcGN4NXVpWWZVaGFGaXVrbnU1MFctYnRLbjhwQldCZm1Yb3V6X2RVS2pDSkFLQnBTNlpkUkZvRzRyVF9helh6WU9pRjN3TDhVOEEyWnFUajVVRmdkSkpfQU9WTC1icDRPUEphSUFSUTMtVjZJSGNIczZMYkZlNllfanJEWmtfSUE?oc=5\" target=\"_blank\">Samsung, AMD co-design HBM4 and memory to power Helios AI platform - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Samsung and AMD have co-designed HBM4 and memory components for the Helios AI platform. This is a confirmed partnership on high-bandwidth memory—a key demand driver for memory semiconductors and directly relevant to Samsung's memory business and HBM capacity utilization in the AI infrastructure cycle."
+  },
+  "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "c3ab3cd3b00b9aa1bb325893e33f849cf4117369",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "Intel References SK hynix’s Ex-CEO When Discussing Its Memory Plans, Fueling The $28 Billion Ohio Fab JV Rumors - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHdLYnR3bFYxMWtZcTIzVHFsQ0t6MXd2ZTJMZTRfcDB1YjNfYWYxRWluMUdBcjVKMnV2UzRobXZzb2ZSMzNsZ2VKd2N0X25JVExfbDA3OE1qRXdlRVAyOUNoNmNpaFc1LTlxTVBTek5GamZVaHE3STJtTGJlMnV4X3c3bU1mSGcyeHpxeTdsbUhNZUtjT1VvOTZ2WXNlTHB3X3gwYThyZ1EzejFXSUtpMjVUZ3JLYUxXWk95Vk1LSy1HeU8yN3dTM3BB0gHPAUFVX3lxTE1hZV9GTmdwSURsc1hqVGIzeWJteVFSYVZESlpmakVLSWtuUEF2QnBGN001eUVQaFB3RVdOZHZwekgxXy1iOHJGdHc3aVFOOTN4X2N1bG9jRVNTXzVYOTZWQVdFTkZvSi1mN19fQnlPNTdJQWV0OHVTMV9oRDZyVmFRbm9HLWYwcVR5cUZFcVZJeDBtZXNlaTlIQklwN0sycmZMa0xoa1FBLTY1Q3NRTzhhNGFjR3lXQjVTSjViUTk3VFFQcXVsalktbElzNEtuQQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 00:28:40 GMT",
+  "published_ts": 1784852920,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHdLYnR3bFYxMWtZcTIzVHFsQ0t6MXd2ZTJMZTRfcDB1YjNfYWYxRWluMUdBcjVKMnV2UzRobXZzb2ZSMzNsZ2VKd2N0X25JVExfbDA3OE1qRXdlRVAyOUNoNmNpaFc1LTlxTVBTek5GamZVaHE3STJtTGJlMnV4X3c3bU1mSGcyeHpxeTdsbUhNZUtjT1VvOTZ2WXNlTHB3X3gwYThyZ1EzejFXSUtpMjVUZ3JLYUxXWk95Vk1LSy1HeU8yN3dTM3BB0gHPAUFVX3lxTE1hZV9GTmdwSURsc1hqVGIzeWJteVFSYVZESlpmakVLSWtuUEF2QnBGN001eUVQaFB3RVdOZHZwekgxXy1iOHJGdHc3aVFOOTN4X2N1bG9jRVNTXzVYOTZWQVdFTkZvSi1mN19fQnlPNTdJQWV0OHVTMV9oRDZyVmFRbm9HLWYwcVR5cUZFcVZJeDBtZXNlaTlIQklwN0sycmZMa0xoa1FBLTY1Q3NRTzhhNGFjR3lXQjVTSjViUTk3VFFQcXVsalktbElzNEtuQQ?oc=5\" target=\"_blank\">Intel References SK hynix’s Ex-CEO When Discussing Its Memory Plans, Fueling The $28 Billion Ohio Fab JV Rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel references SK hynix's ex-CEO in discussing its memory plans, fueling rumors of a $28 billion Ohio fab joint venture. This is speculative discussion of a potential deal rather than a confirmed announcement, placing it in the 'explored/rumored' category."
+  },
+  "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "7c20334480b2ce9162407ae23bdef7f1dc36cd9d",
+  "source": "TradingKey",
+  "topic": "pricing",
+  "title": "Micron (MU) Hits $1,000 on Three Catalysts - Google Capex, Vera Rubin, NAND Shortage - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUNSWnhaR0RuaE1yNDB6amI2b1hxVGs4c0JjVEt0elR5MjVDaDNPaDJaYjN1d1RPOTVCOGZVUjZOOE13Y0d3LV85dWQxU0ZPNXlpclFDdTJMV0JxWVRTNlNZV0phM1VEU3ZWZ05VMzlaRUVvYXVhNVhjOUUxYXEzVUt1LWlQcE0wbTN1Vy1UcTdHWTlSd3h1eU05R2FOLXctN0JZTnBlWmdBT0VxRzFuOTdaNTNtV0ZqTjJ1YjNESmRvc2FzamtDZDE4YlF6QmphMTI2WXdDMmI?oc=5",
+  "published_at": "Fri, 24 Jul 2026 00:54:38 GMT",
+  "published_ts": 1784854478,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUNSWnhaR0RuaE1yNDB6amI2b1hxVGs4c0JjVEt0elR5MjVDaDNPaDJaYjN1d1RPOTVCOGZVUjZOOE13Y0d3LV85dWQxU0ZPNXlpclFDdTJMV0JxWVRTNlNZV0phM1VEU3ZWZ05VMzlaRUVvYXVhNVhjOUUxYXEzVUt1LWlQcE0wbTN1Vy1UcTdHWTlSd3h1eU05R2FOLXctN0JZTnBlWmdBT0VxRzFuOTdaNTNtV0ZqTjJ1YjNESmRvc2FzamtDZDE4YlF6QmphMTI2WXdDMmI?oc=5\" target=\"_blank\">Micron (MU) Hits $1,000 on Three Catalysts - Google Capex, Vera Rubin, NAND Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron stock reaches $1,000 driven by three cited catalysts: Google capex spending (supporting AI/memory demand), Vera Rubin telescope project, and NAND shortage. Stock price move with multiple stated drivers, but without new concrete events or confirmed supply changes beyond the stock action itself."
+  },
+  "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "71309f8952d3d6ed58efbef82405ce58165c6878",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Intel Seeks Operating Partner for Ohio Fab; Early-Stage Talks with SK Hynix - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12U1pSV2dHY054el9FREpWUFBvanlxcDJnMDczaS1XX3lZOGI0ZGloNk94cVlteVRJR2tzbmFhYUtMYnRSUnAyYm9QRDcyRnR0YVJHZDhUb0pmQXltSkxHNUlFRVBJQlZjWDdEY3cydDR5Yk5rVHc?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:27:00 GMT",
+  "published_ts": 1784831220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12U1pSV2dHY054el9FREpWUFBvanlxcDJnMDczaS1XX3lZOGI0ZGloNk94cVlteVRJR2tzbmFhYUtMYnRSUnAyYm9QRDcyRnR0YVJHZDhUb0pmQXltSkxHNUlFRVBJQlZjWDdEY3cydDR5Yk5rVHc?oc=5\" target=\"_blank\">Intel Seeks Operating Partner for Ohio Fab; Early-Stage Talks with SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel is in early-stage talks with SK Hynix (a fund holding) regarding a potential operating partnership for Intel's Ohio fab. Early-stage discussions represent a possibility rather than a confirmed deal, so impact is 3 rather than 4. However, this is materially relevant to the fund as SK Hynix is a core holding and fab partnerships could affect memory production capacity and strategy."
+  },
+  "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "c6fe8930f554403463a45d89e9443662b41464e1",
+  "source": "TheStreet Pro",
+  "topic": "holding",
+  "title": "SK Hynix’s 32% Mystery: Why the Shares Trade at a Huge U.S. Premium - TheStreet Pro",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1Q2T0w4bkVMWGFaalM0cTJjRTlROV9vQ1Z4ekxmTWItazJYWnkwVGVlZWYzMWNsdDhLOW5xOEFqOW9rV1VfZjZmZXZTNTB5aWswLVpFbEZQeTZQUmZuQlk2TjBEV2MxWEcwZmhuT21wTURMbHVDMC1kMTdKeTdxRVhaVjhPSlN2ZXBQQThtYnFpWnl1VUhLNUQ4U0VUR2lXbkxPNE1jNVB4bkU?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:15:00 GMT",
+  "published_ts": 1784830500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1Q2T0w4bkVMWGFaalM0cTJjRTlROV9vQ1Z4ekxmTWItazJYWnkwVGVlZWYzMWNsdDhLOW5xOEFqOW9rV1VfZjZmZXZTNTB5aWswLVpFbEZQeTZQUmZuQlk2TjBEV2MxWEcwZmhuT21wTURMbHVDMC1kMTdKeTdxRVhaVjhPSlN2ZXBQQThtYnFpWnl1VUhLNUQ4U0VUR2lXbkxPNE1jNVB4bkU?oc=5\" target=\"_blank\">SK Hynix’s 32% Mystery: Why the Shares Trade at a Huge U.S. Premium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet Pro</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TheStreet Pro"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "TheStreet Pro analyzes why SK Hynix shares trade at a 32% premium in the U.S. versus home market—a valuation/arbitrage analysis rather than a fundamental business development. Relevant as it concerns a core DRAM ETF holding, but the story is market commentary and analysis rather than a concrete catalyst or event."
+  },
+  "buffered_ts": 1784854566.2326064
+ },
+ {
+  "id": "04a0b2bcd405b21f0f54c7fbf8d2d0d9aa6d6051",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "M7 Cash Burn Sinks Samsung, SK Hynix Stocks - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUw3MzAyeXdhV0h2MWVORm9FOUcxbUNRRjQ5Vi1NR0MzeHVpUC1oNWlka3oyWWp1dC14b1R1ZEdsVHJkQ3V1aklHUGkwdDYtSmRIXzQzUGh3OHBPRlBTT1BQWnNmQkQxV3VNSGl4VmgzamR5bHNwSWgxVUREampPOUVqYlZmUW9qQ3FUTk1R?oc=5",
+  "published_at": "Fri, 24 Jul 2026 00:37:05 GMT",
+  "published_ts": 1784853425,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUw3MzAyeXdhV0h2MWVORm9FOUcxbUNRRjQ5Vi1NR0MzeHVpUC1oNWlka3oyWWp1dC14b1R1ZEdsVHJkQ3V1aklHUGkwdDYtSmRIXzQzUGh3OHBPRlBTT1BQWnNmQkQxV3VNSGl4VmgzamR5bHNwSWgxVUREampPOUVqYlZmUW9qQ3FUTk1R?oc=5\" target=\"_blank\">M7 Cash Burn Sinks Samsung, SK Hynix Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix stocks declined due to M7 cash burn concerns. This reflects market reaction to capital expenditure pressures facing major memory manufacturers, relevant to fund holdings but appears to be analysis/commentary rather than a new concrete event or earnings announcement."
+  },
+  "buffered_ts": 1784854566.2326064
  }
 ]
