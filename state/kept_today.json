@@ -1094,5 +1094,274 @@
    "summary": "Tradr is launching leveraged ETFs tracking SK hynix (a DRAM ETF holding). This is a minor structural development—a new derivative product on the holding—but carries no material news about SK hynix's business, capacity, pricing, or fundamentals."
   },
   "buffered_ts": 1784912638.5723748
+ },
+ {
+  "id": "019333c6fcf5987b08630dd1952d216132d022a0",
+  "source": "TradingView",
+  "topic": "fund",
+  "title": "MU, SKHY, STX, WDC And Other Memory Stocks Tumble — Evercore's Daryanani Believes Supply-Demand Imbalance Is Going To Get Bigger In 2027 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVk9jR0liNlJIa09fbVdhSTFlTnlvM1J5VDZnZS1Kc1dWWTg0Uk5adkhxOW9PN1lUTlFLS2t5VXhKMGJzcWxMSnI1bXFOLWM2eTVZLUVlejRRN0lLNEI3YlZxV0ZZWERqZDJEejB5SnNJNVRXTjdqLVd1YUktMmJ6dFl2MDJVa0lqTUJFdWJQWFh1NFp0NzhEOXdaRWlnWVFZd0g2Zl95VnNWRXRvZk5LSnFUQlphclVCVklKeXYzWmJPVERUTXZGQ2ZGcjNnXzlCVG1qaUg4cnhvb2R0Mm1Hb3hVcmxwWlhQbGNLaVB5QzdOOHRyTTBVMDRiYjRYbFY5VzBLNzBaYmZRUUVRNFhpZjlKNFRuaVl5Tk90MA?oc=5",
+  "published_at": "Fri, 24 Jul 2026 17:06:50 GMT",
+  "published_ts": 1784912810,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOVk9jR0liNlJIa09fbVdhSTFlTnlvM1J5VDZnZS1Kc1dWWTg0Uk5adkhxOW9PN1lUTlFLS2t5VXhKMGJzcWxMSnI1bXFOLWM2eTVZLUVlejRRN0lLNEI3YlZxV0ZZWERqZDJEejB5SnNJNVRXTjdqLVd1YUktMmJ6dFl2MDJVa0lqTUJFdWJQWFh1NFp0NzhEOXdaRWlnWVFZd0g2Zl95VnNWRXRvZk5LSnFUQlphclVCVklKeXYzWmJPVERUTXZGQ2ZGcjNnXzlCVG1qaUg4cnhvb2R0Mm1Hb3hVcmxwWlhQbGNLaVB5QzdOOHRyTTBVMDRiYjRYbFY5VzBLNzBaYmZRUUVRNFhpZjlKNFRuaVl5Tk90MA?oc=5\" target=\"_blank\">MU, SKHY, STX, WDC And Other Memory Stocks Tumble — Evercore's Daryanani Believes Supply-Demand Imbalance Is Going To Get Bigger In 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Evercore analyst Daryanani comments that a supply-demand imbalance in memory semiconductors is expected to worsen in 2027, citing this outlook as memory stocks including Micron, SK hynix, Seagate, and Western Digital declined. This is analyst opinion and forecast rather than a confirmed event or hard number, placing it at impact 3."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "51880d239e0b45c41f32c820dc056e8506a9c217",
+  "source": "富途牛牛",
+  "topic": "holding",
+  "title": "SK Hynix has launched a recruitment drive to jointly develop 3D-stacked DRAM with its U.S. customers. - 富途牛牛",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmxCVkFOUHgxSGlqcnpCVFFDaHJ3WVlHem44LVJqaUpIZUR1emU2SGV1V2t6ZTJDelpBYUU5cG1GUm9TdWJlaEpHYjl5QW9sN2NHMU9QbzZld1V1WTR6YVg0ZFd4UHFfeUk0U0dnbHJDXzZidUhYdlVCZHQxM3BiNlEzMEt0MnZrZkFFMDNuaWZ1dEtMUGpyb1dNRzdSbzRwQmVB?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:49:34 GMT",
+  "published_ts": 1784886574,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmxCVkFOUHgxSGlqcnpCVFFDaHJ3WVlHem44LVJqaUpIZUR1emU2SGV1V2t6ZTJDelpBYUU5cG1GUm9TdWJlaEpHYjl5QW9sN2NHMU9QbzZld1V1WTR6YVg0ZFd4UHFfeUk0U0dnbHJDXzZidUhYdlVCZHQxM3BiNlEzMEt0MnZrZkFFMDNuaWZ1dEtMUGpyb1dNRzdSbzRwQmVB?oc=5\" target=\"_blank\">SK Hynix has launched a recruitment drive to jointly develop 3D-stacked DRAM with its U.S. customers.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "富途牛牛"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is recruiting to jointly develop 3D-stacked DRAM with U.S. customers. This is a strategic initiative by a fund holding (SK Hynix) aimed at advancing advanced memory technology, but it is a hiring/exploratory effort rather than a confirmed product launch, capacity decision, or concrete deal announcement. Relevant to the fund but lacks the specificity and market-moving weight of a binding development or capacity commitment."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "15d6aa402d67f4f7d12ed53fb6ba21e164a275e4",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "Seagate Earnings Preview: AI Tailwinds Remain, But Fading Sentiment Caps The Premium (STX) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDgzVF9NQWNhZVNjU3FrdGFISG9KcFhSWDFuYkZwOWZIeTg0TDRSa2EwUFlvdERtNHV6MXlGTTZHcmhrc1BiWGVqNkpJTUhlVjhXZzRrLV9hdmVIR1pmak1hTFV3bDhOd0htSE9qOVlUWmF4eWt3UTBWUDRiZVNOWGs5TjVZTG02SHZ0eTMxNEFOc09aWTNpdExmanhMblFWelI3cURiRFd5LWlQRXdwbHQtMGdjTDVNNlJB?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:18:54 GMT",
+  "published_ts": 1784917134,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDgzVF9NQWNhZVNjU3FrdGFISG9KcFhSWDFuYkZwOWZIeTg0TDRSa2EwUFlvdERtNHV6MXlGTTZHcmhrc1BiWGVqNkpJTUhlVjhXZzRrLV9hdmVIR1pmak1hTFV3bDhOd0htSE9qOVlUWmF4eWt3UTBWUDRiZVNOWGs5TjVZTG02SHZ0eTMxNEFOc09aWTNpdExmanhMblFWelI3cURiRFd5LWlQRXdwbHQtMGdjTDVNNlJB?oc=5\" target=\"_blank\">Seagate Earnings Preview: AI Tailwinds Remain, But Fading Sentiment Caps The Premium (STX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha preview of Seagate earnings discusses AI tailwinds as a positive driver but notes sentiment headwinds may limit stock upside. This is pre-earnings analysis and opinion rather than a concrete event or hard numbers from the company itself."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "be954e3f1d64ea80ec16412b60e9eccc26f06981",
+  "source": "Pluang",
+  "topic": "industry",
+  "title": "AI growth boosts Micron's memory demand despite market concerns over oversupply and spending. - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NdFpCcENWSEZkaE9RajU4NUE3QWhPN2w1TmNSYnRtOEc5Z253MUh2OXBpZWtwdE40d1VERk5wVC14aGJLVnhUVnVpM3FxdmZiZlhkWUFORXJrNmRKdVYxUS1abDYyWC1JLU53dDQyRWExbXA5MDhJ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:48:14 GMT",
+  "published_ts": 1784911694,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5NdFpCcENWSEZkaE9RajU4NUE3QWhPN2w1TmNSYnRtOEc5Z253MUh2OXBpZWtwdE40d1VERk5wVC14aGJLVnhUVnVpM3FxdmZiZlhkWUFORXJrNmRKdVYxUS1abDYyWC1JLU53dDQyRWExbXA5MDhJ?oc=5\" target=\"_blank\">AI growth boosts Micron's memory demand despite market concerns over oversupply and spending.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Pluang"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analysis piece discussing how AI growth is supporting memory demand for Micron despite broader market concerns about oversupply and capex cycles. This is forward-looking commentary and analysis rather than a concrete event or disclosed change in demand/guidance."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "7fc31f8af4734c5213a8025e539d66d0c94db1a3",
+  "source": "GuruFocus",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix to Announce Major Deals During South Korean President's US Visit - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTkwOVNSZWQzRW03M1BSMnZrZWU5cUpjY2wtNEVWQWRWLUtRRGpzVlU4eFNzUm1RSHpyc2FrTHI0R1BFNWVKM3JXSWRyaU9Rc0o1M2l6Vml4RTVUTGhHYXh3d2lGNzgxeDhHcDBNR2F2TXFsS2xRbFZVeWZPbTZQYy1JZHAwTzl0WnRpNmp2WTFxR0k2SEEyQngyXzFQVHpDekFrU0xxcUJEOEEyVU9XNlJUeFc0LXBSUHgyRkowVEQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 17:21:41 GMT",
+  "published_ts": 1784913701,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTkwOVNSZWQzRW03M1BSMnZrZWU5cUpjY2wtNEVWQWRWLUtRRGpzVlU4eFNzUm1RSHpyc2FrTHI0R1BFNWVKM3JXSWRyaU9Rc0o1M2l6Vml4RTVUTGhHYXh3d2lGNzgxeDhHcDBNR2F2TXFsS2xRbFZVeWZPbTZQYy1JZHAwTzl0WnRpNmp2WTFxR0k2SEEyQngyXzFQVHpDekFrU0xxcUJEOEEyVU9XNlJUeFc0LXBSUHgyRkowVEQ?oc=5\" target=\"_blank\">Samsung and SK Hynix to Announce Major Deals During South Korean President's US Visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "GuruFocus",
+    "qz.com"
+   ],
+   "titles": [
+    "Samsung and SK Hynix to announce major chip deals with U.S. firms - qz.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix (both DRAM holdings) are expected to announce major deals during South Korean President's US visit. The story lacks specifics on deal details, timing, or memory-segment focus; it is forward-looking and exploratory rather than a confirmed announcement with concrete terms."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "94ae1df46d1d63139f1270f84c3a7c90a3864ef2",
+  "source": "Yahoo! Finance Canada",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances - Yahoo! Finance Canada",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEQzTU1GOC1GQzQ0N3RLWTI1QVhsQXgxbk94bVZKLTFqOGdlWHZOZGhDc0xBTVRTN2FLYkZxblV4MEZmaWZKN3Q1T0ZXUVczWlRUUXNEdlphNzRkWGtENXVxbUh0Z3lLaWhGZGd1OXJiWjhoZTdVLVQwZVVLOXRpYmt1TEVMdw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:54:41 GMT",
+  "published_ts": 1784919281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEQzTU1GOC1GQzQ0N3RLWTI1QVhsQXgxbk94bVZKLTFqOGdlWHZOZGhDc0xBTVRTN2FLYkZxblV4MEZmaWZKN3Q1T0ZXUVczWlRUUXNEdlphNzRkWGtENXVxbUh0Z3lLaWhGZGd1OXJiWjhoZTdVLVQwZVVLOXRpYmt1TEVMdw?oc=5\" target=\"_blank\">Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo! Finance Canada"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are preparing major AI-related deals as part of a broader $880 billion plan. This represents potential demand tailwinds for memory semiconductors driven by AI infrastructure, but the story focuses on deal preparation and planning rather than confirmed, concrete agreements or official announcements of orders/capacity commitments."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "e19e073ac57b2bde429edac53005dc9fb7e86f63",
+  "source": "TipRanks",
+  "topic": "holding",
+  "title": "SanDisk vs. Seagate: Which AI Storage Stock Is the Better Buy Ahead of Q4 Earnings? - TipRanks",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkZUeTdUNFZHN0dRMDZOcjNpR2VBa21zdW5qTnZYODN4QTJnY3g0VDhlMXJGeVVEcmQxVldJa0FPeDdCd1FwS0JjY1VJQmJwOFl1V21tSnJYWENvdldsSnF5a2tiMXFzUm5qNzY1ZDdPNVVQZjF5RTQ3MHRRVW04T2NYNUtxVHZXR3NyX0RGZFhOOEhHaEtqWkYtZ1RFMlRsaXZibUR1d1doYlpjWENJ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 15:18:37 GMT",
+  "published_ts": 1784906317,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkZUeTdUNFZHN0dRMDZOcjNpR2VBa21zdW5qTnZYODN4QTJnY3g0VDhlMXJGeVVEcmQxVldJa0FPeDdCd1FwS0JjY1VJQmJwOFl1V21tSnJYWENvdldsSnF5a2tiMXFzUm5qNzY1ZDdPNVVQZjF5RTQ3MHRRVW04T2NYNUtxVHZXR3NyX0RGZFhOOEhHaEtqWkYtZ1RFMlRsaXZibUR1d1doYlpjWENJ?oc=5\" target=\"_blank\">SanDisk vs. Seagate: Which AI Storage Stock Is the Better Buy Ahead of Q4 Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TipRanks"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Analyst comparison piece weighing SanDisk and Seagate as AI storage plays ahead of Q4 earnings. This is opinion/analysis rather than a concrete event or new information, making it soft but relevant as both are fund holdings."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "13df3b831cf32f87353148334ef4632cdde35a46",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Kospi Plunges 6.1% as Samsung, SK Hynix Slide Over 7% - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXFPdTNxS2p1QXZpQWk4eGtrcF96QmRacmdEWmFUbHhwZUFaTjRWQUM1YjZ2T0g4LWtKN2FwVXdnS1hkb251UTctMGlCUVFNelpOS1p1SklTSHFnVG0yZm43My05SW9NTDhQS190T0t1RkdDSlpzcWtTamIwcGJwRVdHbDdidG52cXVaU0dUb1lYYlk1WWh1ZVRtQ2lndDhWeWdlZjFEc1JNUzQ2WGdJ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 17:05:52 GMT",
+  "published_ts": 1784912752,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXFPdTNxS2p1QXZpQWk4eGtrcF96QmRacmdEWmFUbHhwZUFaTjRWQUM1YjZ2T0g4LWtKN2FwVXdnS1hkb251UTctMGlCUVFNelpOS1p1SklTSHFnVG0yZm43My05SW9NTDhQS190T0t1RkdDSlpzcWtTamIwcGJwRVdHbDdidG52cXVaU0dUb1lYYlk1WWh1ZVRtQ2lndDhWeWdlZjFEc1JNUzQ2WGdJ?oc=5\" target=\"_blank\">Kospi Plunges 6.1% as Samsung, SK Hynix Slide Over 7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korea's Kospi index dropped 6.1% with Samsung and SK Hynix declining over 7%. This is a price movement reflecting broader market conditions; without a disclosed catalyst distinct from the day's trading activity, the decline represents market digestion of existing information rather than a new concrete event. Both holdings are DRAM-relevant, making it relevant to the fund, but the stock moves alone without an accompanying business catalyst (earnings, guidance, deal, supply announcement) warrant a 3."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "805584346c606b181a8d38f7dad538fe92d52de2",
+  "source": "Investopedia",
+  "topic": "holding",
+  "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners - Investopedia",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERJdk5WWmVGU2tpVHdoN0IzMHY1c0JPZGVySmp5ZWdoeTVvSlBUYnR0Vmx0WS03UlRDSUdtMUh4ejd0VVkzaWR1WXpXRE5EWlVhekROTXA3U2c0TEJvS0RVYWFPLTRNZ1ZhVGRCT1Z3LW5oVnpSeE1id180cTFIX1pRYzE4d3F6eDM2RHFlZGFjMlBrVmJrRW40MXRPd3Q0NTA4WkNLR3FVU2ljcmp5TTNLbjNsV3NKU2YxMHB3X2NfUk50eFpZY2pCaUd4dw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 17:10:48 GMT",
+  "published_ts": 1784913048,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERJdk5WWmVGU2tpVHdoN0IzMHY1c0JPZGVySmp5ZWdoeTVvSlBUYnR0Vmx0WS03UlRDSUdtMUh4ejd0VVkzaWR1WXpXRE5EWlVhekROTXA3U2c0TEJvS0RVYWFPLTRNZ1ZhVGRCT1Z3LW5oVnpSeE1id180cTFIX1pRYzE4d3F6eDM2RHFlZGFjMlBrVmJrRW40MXRPd3Q0NTA4WkNLR3FVU2ljcmp5TTNLbjNsV3NKU2YxMHB3X2NfUk50eFpZY2pCaUd4dw?oc=5\" target=\"_blank\">Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investopedia"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Market report noting that memory holdings Micron and SanDisk declined on Friday along with broader chip sector. No specific catalyst or cause cited; standard price-movement coverage without material news trigger."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "b2a87c79e01952160d3d08ceee6000dbc65c4aaf",
+  "source": "Trefis",
+  "topic": "holding",
+  "title": "Seagate Technology Stock 5-Day Winning Spree: Stock Climbs 23% - Trefis",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUpBLXYzVTgtS2hVOFU4VlNzc29DdXB0YzFNZFNEYnVzX2NFSUlaclJJNWhPbFhkZno2LUlBU1dqdGJjT3Q2cnpaVmJhOXRjZHVPWF9OelhibjBjYUx0UlpjNnNQcWJQRHJpNy00Wk5GdUVtNGJyWWJ1OTM2RzViWXVCclZFLXlCa2VjX2w0VnlVbThLZGdaZFAxM1RnWjQxazFqaVVqeURNYmZxcWc5X19EVDFpR2VsdzB5TWo3b2Rndml2NVRUY0Jn?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:12:13 GMT",
+  "published_ts": 1784916733,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUpBLXYzVTgtS2hVOFU4VlNzc29DdXB0YzFNZFNEYnVzX2NFSUlaclJJNWhPbFhkZno2LUlBU1dqdGJjT3Q2cnpaVmJhOXRjZHVPWF9OelhibjBjYUx0UlpjNnNQcWJQRHJpNy00Wk5GdUVtNGJyWWJ1OTM2RzViWXVCclZFLXlCa2VjX2w0VnlVbThLZGdaZFAxM1RnWjQxazFqaVVqeURNYmZxcWc5X19EVDFpR2VsdzB5TWo3b2Rndml2NVRUY0Jn?oc=5\" target=\"_blank\">Seagate Technology Stock 5-Day Winning Spree: Stock Climbs 23%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Trefis"
+   ],
+   "titles": [
+    "Seagate Technology Stock Climbs 23% On A 5-Day Winning Streak - Trefis"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate (STX), a DRAM ETF holding, experienced a 23% gain over 5 days. The article is a price-movement summary with no stated catalyst or new fundamental information disclosed. Stock moves without a distinct news driver are minor mentions absent concrete developments."
+  },
+  "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "58be9b4a4bc01c3cf34c5cb9df39fa2e557ee576",
+  "source": "StocksToTrade",
+  "topic": "fund",
+  "title": "RAM ETF Slides As Volatility Grips DRAM Leverage Trade - StocksToTrade",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHczMjN6WEJpeTZCWnpvSFhjWndUanBoQVNGa3dObTV4eWtBZmxzNVYtRkJWN1FGZ05rV1dLMDRabFMyZnlVcEczMTlGQU1BdV96V0p5M1lkS0o3U2JjZU52WkpLRWZ4dHQzSW9GUXFwcWdiWXl4bFgwWEN0c2FLYXN0UFM4M3pvMi02Tjk1bHU3dU9ZNEhoYQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 14:02:00 GMT",
+  "published_ts": 1784901720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHczMjN6WEJpeTZCWnpvSFhjWndUanBoQVNGa3dObTV4eWtBZmxzNVYtRkJWN1FGZ05rV1dLMDRabFMyZnlVcEczMTlGQU1BdV96V0p5M1lkS0o3U2JjZU52WkpLRWZ4dHQzSW9GUXFwcWdiWXl4bFgwWEN0c2FLYXN0UFM4M3pvMi02Tjk1bHU3dU9ZNEhoYQ?oc=5\" target=\"_blank\">RAM ETF Slides As Volatility Grips DRAM Leverage Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "StocksToTrade"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "fund",
+   "summary": "A brief mention that a RAM ETF (likely the DRAM ETF or a similar memory-focused fund) has declined amid volatility in leveraged DRAM trading. The headline names the fund but provides no concrete event, catalyst, or fund-specific news—it is a generic market-movement observation without underlying information about holdings, pricing, or industry fundamentals."
+  },
+  "buffered_ts": 1784919427.488879
  }
 ]
