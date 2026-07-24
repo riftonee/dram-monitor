@@ -1060,5 +1060,269 @@
    "summary": "Seagate (STX), a DRAM ETF holding, will report Q4 earnings on July 28. Options traders are pricing in an 18% move. This is advance notice of an upcoming earnings date with expected volatility, but contains no new information about the company's actual results or memory-specific developments."
   },
   "buffered_ts": 1784866374.268161
+ },
+ {
+  "id": "fcb4ccd9b7c191abd7452d1287c6e93eee40b494",
+  "source": "The Korea Herald",
+  "topic": "holding",
+  "title": "Samsung supplies HBM4 as AMD’s Helios enters production - The Korea Herald",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4V0U4eFhiWkxfSlRpS1Y0a0ZPT3JZbFNqQ0Jub2ktTi0yWkxrMWNvZWRFTHhELXpVXzhuZzVWMDcxMTVuQ20tOVpJY0hOa0RTM1d6OTBIQQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 05:23:27 GMT",
+  "published_ts": 1784870607,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4V0U4eFhiWkxfSlRpS1Y0a0ZPT3JZbFNqQ0Jub2ktTi0yWkxrMWNvZWRFTHhELXpVXzhuZzVWMDcxMTVuQ20tOVpJY0hOa0RTM1d6OTBIQQ?oc=5\" target=\"_blank\">Samsung supplies HBM4 as AMD’s Helios enters production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Korea Herald"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung confirmed as supplier of HBM4 memory for AMD's Helios processor entering production—a concrete deal announcement demonstrating demand for high-bandwidth memory and validating Samsung's HBM4 capacity in the AI-infrastructure cycle."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "f51e9b3862626f5e4d13ea695262944f358ee012",
+  "source": "Yahoo Finance",
+  "topic": "industry",
+  "title": "Micron Secures Major Tesla Memory Chip Allocation - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlVWSVltUXpaUkYzbnQxcHJ6S0dyaXUwUnVPUFhRd0N2NnRVMi1UZjJJVDRkN3FVWlVDNl9iaklVd0dwdkdZY3d3cFNoejZLa24tdk5xM3ZnelNoa0JoTDA3MFlacE9yTUpJbTQtWk12T2ZfS19hWEVfVHA1OVlWcDd0MzZTc3hhMWowRm5tNHBxOFltTVB1ZmNR?oc=5",
+  "published_at": "Thu, 23 Jul 2026 12:47:16 GMT",
+  "published_ts": 1784810836,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlVWSVltUXpaUkYzbnQxcHJ6S0dyaXUwUnVPUFhRd0N2NnRVMi1UZjJJVDRkN3FVWlVDNl9iaklVd0dwdkdZY3d3cFNoejZLa24tdk5xM3ZnelNoa0JoTDA3MFlacE9yTUpJbTQtWk12T2ZfS19hWEVfVHA1OVlWcDd0MzZTc3hhMWowRm5tNHBxOFltTVB1ZmNR?oc=5\" target=\"_blank\">Micron Secures Major Tesla Memory Chip Allocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Micron has secured a major memory chip allocation deal with Tesla, representing a concrete, material development that increases demand visibility for a core DRAM ETF holding and signals strength in the AI/EV infrastructure buildout driving memory demand."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "2fb985b9565b07f197af42dd2673f2de1492ecb7",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Morgan Stanley warns: The AI memory boom is nearing an inflection point, with memory prices potentially peaking in Q4. - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTR6bTBHbWsxVXNZOGJ1UTV5OEF6aWN0Y2x2cGxjTUc4Ym5ETlNqWmtHMmFISFBCa2FBY1l3a1ViR3ZqZllnaGtmLW5aY01BVmJla3VqcjBNdU1aV2lXY3MwQV94eGJVUHZkQXNEdlY2NlBUTlVvcnBSWTFWbUVoc0dSVERvVGxyTC1ZWS1vLUtLci10UlZQVWs2dw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 06:16:03 GMT",
+  "published_ts": 1784873763,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTR6bTBHbWsxVXNZOGJ1UTV5OEF6aWN0Y2x2cGxjTUc4Ym5ETlNqWmtHMmFISFBCa2FBY1l3a1ViR3ZqZllnaGtmLW5aY01BVmJla3VqcjBNdU1aV2lXY3MwQV94eGJVUHZkQXNEdlY2NlBUTlVvcnBSWTFWbUVoc0dSVERvVGxyTC1ZWS1vLUtLci10UlZQVWs2dw?oc=5\" target=\"_blank\">Morgan Stanley warns: The AI memory boom is nearing an inflection point, with memory prices potentially peaking in Q4.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Morgan Stanley analyst warning that AI-driven memory demand boom may be reaching an inflection point with prices potentially peaking in Q4. This is forward-looking analyst opinion on memory pricing trajectory, not a confirmed price move or concrete event. Relevant to memory cycle but qualifies as analysis/forecast rather than hard data."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "6d4e2869f2a67459927526e43a47c38ca01f0c2d",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Why Elon Musk Thanked Micron on Tesla's Earnings Call - Tesla (NASDAQ:TSLA), Micron Technology (NASDAQ:MU - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUJEdWduWGxwRllPdW56cURKOUdhRGR0dTM0RktSaFV3OHU3eWxPMmFCSEY3Q19KYUxlNGNPanlVUDlBYUJ2QTdjTENsS0JxWDVxYXZrQjdQNTQtUmE4ei1xSUVEOFpxUV8wbGNnUF9pckNnSWx4bTAzZ1k1M0tiV1RuYWtBNWtKSGZZVUp0Q0o4aUs3T2h4dWtMRFROV0tWdDBISnBkSV9JV0cyN24wWWFlY0RLWEtGbEhSRnZ0SFcybXhsMlFMcnFCd2pHX1hjV3ZYVlcwWQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 13:35:03 GMT",
+  "published_ts": 1784813703,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUJEdWduWGxwRllPdW56cURKOUdhRGR0dTM0RktSaFV3OHU3eWxPMmFCSEY3Q19KYUxlNGNPanlVUDlBYUJ2QTdjTENsS0JxWDVxYXZrQjdQNTQtUmE4ei1xSUVEOFpxUV8wbGNnUF9pckNnSWx4bTAzZ1k1M0tiV1RuYWtBNWtKSGZZVUp0Q0o4aUs3T2h4dWtMRFROV0tWdDBISnBkSV9JV0cyN24wWWFlY0RLWEtGbEhSRnZ0SFcybXhsMlFMcnFCd2pHX1hjV3ZYVlcwWQ?oc=5\" target=\"_blank\">Why Elon Musk Thanked Micron on Tesla's Earnings Call - Tesla (NASDAQ:TSLA), Micron Technology (NASDAQ:MU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Elon Musk thanked Micron during Tesla's earnings call, indicating Micron's role in Tesla's supply chain. This is a soft validation of Micron's demand from a key customer but lacks concrete new information about Micron's business, pricing, or guidance—it is analyst commentary/observation on an already-concluded earnings event."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "870342ef40bddc4e65ce2a934631532cfde2f08a",
+  "source": "odaily.news",
+  "topic": "industry",
+  "title": "From HBM to Cold Storage: Storage's Big Six at a Crossroads – What Will Drive the Next Bull Run? - odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjZk00RVppMmJ4VklhenVrX1RSczlRWHItYzNIZ1NINGRNc25XZHQ4djJpUHBISy1NRG0yVkZNTmRINTBISmhpX0FvMEZlcjFU?oc=5",
+  "published_at": "Fri, 24 Jul 2026 05:21:35 GMT",
+  "published_ts": 1784870495,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjZk00RVppMmJ4VklhenVrX1RSczlRWHItYzNIZ1NINGRNc25XZHQ4djJpUHBISy1NRG0yVkZNTmRINTBISmhpX0FvMEZlcjFU?oc=5\" target=\"_blank\">From HBM to Cold Storage: Storage's Big Six at a Crossroads – What Will Drive the Next Bull Run?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">odaily.news</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "odaily.news"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Analysis piece discussing HBM (high-bandwidth memory) and storage trends among major players in the memory and storage sector, exploring potential drivers for the next industry cycle. Appears to be forward-looking commentary and analysis rather than reporting a concrete market development or new information that has already occurred."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "f1fd1530c1f8e3e1359b743c5d44f93280be7874",
+  "source": "디지털투데이",
+  "topic": "industry",
+  "title": "ADATA chairman says memory shortage to last another 10 years, dismisses AI bubble talk - 디지털투데이",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb095R3RNRVlIczByNlAtV0ZzVDBjMDItbnhybGJja0tvUUJnamhXVUQyMTFjLUJYM0Fnb1gxRDg1bmV3cWlDT2pyb0ptR0p6YzB3TUtQMzU0cFJweDVidV9mcTFNM2cySWpWaVNqTnpLYmdDVnhLajQteU1LSXZOczV3Zl9rNjZ1TFdFOEx5ZjF3LUtQenhrTVZmNVlKcF9mTlZUMENwNHZOb21KMFRXSG80YkV5eHI1d1ZQSk9vV1BOakprZVFaR293?oc=5",
+  "published_at": "Fri, 24 Jul 2026 05:49:25 GMT",
+  "published_ts": 1784872165,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOb095R3RNRVlIczByNlAtV0ZzVDBjMDItbnhybGJja0tvUUJnamhXVUQyMTFjLUJYM0Fnb1gxRDg1bmV3cWlDT2pyb0ptR0p6YzB3TUtQMzU0cFJweDVidV9mcTFNM2cySWpWaVNqTnpLYmdDVnhLajQteU1LSXZOczV3Zl9rNjZ1TFdFOEx5ZjF3LUtQenhrTVZmNVlKcF9mTlZUMENwNHZOb21KMFRXSG80YkV5eHI1d1ZQSk9vV1BOakprZVFaR293?oc=5\" target=\"_blank\">ADATA chairman says memory shortage to last another 10 years, dismisses AI bubble talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "디지털투데이"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "ADATA chairman forecasts a decade-long memory shortage and dismisses AI bubble concerns. This is opinion/analysis on memory cycle dynamics rather than a concrete event, but it speaks to industry supply expectations that could influence demand narratives for DRAM holdings."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "651caf03f88c75372d611091fd90df65b094724a",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Foreign Media Highlight SK Hynix Chief's 'Korea's Divorce of the Century' - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWl1WHpkLWkyeFdaeS1RV095ZkFnZjhwTk1TQ2s4UGFta28wVHBEalo3WmM1cVVDeWMzOHNIVE1Rb0NiS0RxV1JJdHNsVnU2ay1ienRSdEFpYmhxQXptbDd6Z2cxT0ZDZ284NDN5WGNSR1dpMEtsN1JBeFJ1TlZyRGlXeDdIa01V?oc=5",
+  "published_at": "Fri, 24 Jul 2026 05:29:23 GMT",
+  "published_ts": 1784870963,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWl1WHpkLWkyeFdaeS1RV095ZkFnZjhwTk1TQ2s4UGFta28wVHBEalo3WmM1cVVDeWMzOHNIVE1Rb0NiS0RxV1JJdHNsVnU2ay1ienRSdEFpYmhxQXptbDd6Z2cxT0ZDZ284NDN5WGNSR1dpMEtsN1JBeFJ1TlZyRGlXeDdIa01V?oc=5\" target=\"_blank\">Foreign Media Highlight SK Hynix Chief's 'Korea's Divorce of the Century'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix chief's personal/corporate situation being covered by foreign media as 'Korea's Divorce of the Century.' Without concrete details on impact to operations or strategy, this is a soft story about executive circumstances rather than a material business development."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "ac58d7110a8f000d87f0f0abc2e58fcb34089a17",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix’s 51% Arbitrage Trade Stymied by Strict Conversion Cap - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWs4a24wZUlGWndHWXJNZ0c4SlZEQl9EUVZVTExEem91c0hBUE1DV1Z3VjdLcUY4N1IyQnhXclZBY09ubmIxLS1Fc1p4Z3h2Z0FVcGg1NXF2OFZmTnFCUFNTRVNMSWVxZXJ0OERPZTc1Q242WXVoajRjODlHOTdyS0t1bGs4RzY5VkdEdlNfcHJieDhiM0dJ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 07:37:03 GMT",
+  "published_ts": 1784792223,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWs4a24wZUlGWndHWXJNZ0c4SlZEQl9EUVZVTExEem91c0hBUE1DV1Z3VjdLcUY4N1IyQnhXclZBY09ubmIxLS1Fc1p4Z3h2Z0FVcGg1NXF2OFZmTnFCUFNTRVNMSWVxZXJ0OERPZTc1Q242WXVoajRjODlHOTdyS0t1bGs4RzY5VkdEdlNfcHJieDhiM0dJ?oc=5\" target=\"_blank\">SK Hynix’s 51% Arbitrage Trade Stymied by Strict Conversion Cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix's planned arbitrage trade involving a 51% conversion is being constrained by strict conversion caps, likely related to a corporate action or capital structure issue. This is a holding-specific corporate development but represents ongoing constraint rather than a concrete resolved event."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "cf90c6f0f7886e14fbe7e7a2d7611a391e1b7507",
+  "source": "Technology Org",
+  "topic": "industry",
+  "title": "Why Your Next Laptop Costs More: Inside the AI Memory Shortage - Technology Org",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUVrbE5udTQ2WWhKOWVNdUpvUWV0eWlBY3VibkdZZHZWVGFLNWNpeEl5dTAzMTFrWnFHRVREaS1Cc2JDNUJVbUN4Z1F4ZnFCbmFJZGJhTTd1Wl93SkZrdkJFdUtMRTRqX2FLRDExZkhPWkh4RTFKTldWbDB5NHVvcQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 06:41:00 GMT",
+  "published_ts": 1784875260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUVrbE5udTQ2WWhKOWVNdUpvUWV0eWlBY3VibkdZZHZWVGFLNWNpeEl5dTAzMTFrWnFHRVREaS1Cc2JDNUJVbUN4Z1F4ZnFCbmFJZGJhTTd1Wl93SkZrdkJFdUtMRTRqX2FLRDExZkhPWkh4RTFKTldWbDB5NHVvcQ?oc=5\" target=\"_blank\">Why Your Next Laptop Costs More: Inside the AI Memory Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Org</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Technology Org"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Article discusses AI-driven memory shortage impacting laptop pricing. Addresses industry-wide HBM and DRAM demand pressure from AI infrastructure capex, a relevant cyclical driver for memory semiconductors, but is analysis/explanation rather than reporting a concrete new event or hard number."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "b311b205ecf41480cddd4d736863b12f2cc4db88",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "SK Hynix ADR Cap Keeps 51% Premium Arbitrage Alive - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScElzdV9IRmZfRGxOOWNfaDRLSTJQYy1jblVmNUtFeXNOZWw2a0lsNmRYWmJwcUlKTGpnMFdIUUEwT1Fmd1BwQTRyVEtfZExaRUpqb3c2X3BLNHdGbmFoeXUzYTBvek1nRERQMm9oeklOZmFQRUM0M2taaw?oc=5",
+  "published_at": "Thu, 23 Jul 2026 20:41:02 GMT",
+  "published_ts": 1784839262,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScElzdV9IRmZfRGxOOWNfaDRLSTJQYy1jblVmNUtFeXNOZWw2a0lsNmRYWmJwcUlKTGpnMFdIUUEwT1Fmd1BwQTRyVEtfZExaRUpqb3c2X3BLNHdGbmFoeXUzYTBvek1nRERQMm9oeklOZmFQRUM0M2taaw?oc=5\" target=\"_blank\">SK Hynix ADR Cap Keeps 51% Premium Arbitrage Alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a 51% premium to the underlying Korean shares due to capital controls, creating an arbitrage opportunity. This reflects a valuation/trading dynamic rather than a fundamental business development affecting memory demand or supply."
+  },
+  "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "d50eaf61a5823a802c0f578ffa13ea7ce4cc159b",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Why is SK Hynix stock surging today? - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEl5OUo4MUdrYWJWd3JSYzlPcVBsazZ5T2RYSUVSZWtQejdCZXk2bFlHajVqZWxpOXVnckFka0J5R0pnYXhTcWRqaWRDY3NvdmlST2RpUGNKMjhZWEpnRlBrc0RUUUdXS0M1cTJWakY1Yy1ubU14VEdYOTNSMmtmS3E2TGJ4d19wMkR5dk10d1pvcW1ieFI1cDB3eXZ0UQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 10:40:20 GMT",
+  "published_ts": 1784803220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObEl5OUo4MUdrYWJWd3JSYzlPcVBsazZ5T2RYSUVSZWtQejdCZXk2bFlHajVqZWxpOXVnckFka0J5R0pnYXhTcWRqaWRDY3NvdmlST2RpUGNKMjhZWEpnRlBrc0RUUUdXS0M1cTJWakY1Yy1ubU14VEdYOTNSMmtmS3E2TGJ4d19wMkR5dk10d1pvcW1ieFI1cDB3eXZ0UQ?oc=5\" target=\"_blank\">Why is SK Hynix stock surging today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock is surging; the article asks why but provides no concrete event or catalyst—likely a price-move recap tied to earnings or market sentiment rather than new material information."
+  },
+  "buffered_ts": 1784876737.6089442
  }
 ]
