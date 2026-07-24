@@ -1,1 +1,367 @@
-[]
+[
+ {
+  "id": "f78cacc0cec3a722b32c4873e6aa21f428c65767",
+  "source": "Startup Fortune",
+  "topic": "holding",
+  "title": "SK Hynix reports Q2 2026 earnings as the AI memory supercycle faces its first real test - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaU8yUzU0TUxfNFcxTHl3WmFhZnpBWGJ3dTdSemROckx2RlZteWJJQXJ5MndaR3NVNmh1b1g0MEhxblItbG1GNWdFQmpNNnFPUjBWN3lvM2hyY0tWTVJ3aEh4elZ3eXVsQW5fcXBBQ0NsRmllQjFwTEpCY196a3UtX1FoTUQtUGdNSmE0aUY1LUQyc3d1NFBKX0xGWjQ1NkUxbUptbG9VekZoYnp3TGpzNDBkdmdCUQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 01:58:18 GMT",
+  "published_ts": 1784858298,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaU8yUzU0TUxfNFcxTHl3WmFhZnpBWGJ3dTdSemROckx2RlZteWJJQXJ5MndaR3NVNmh1b1g0MEhxblItbG1GNWdFQmpNNnFPUjBWN3lvM2hyY0tWTVJ3aEh4elZ3eXVsQW5fcXBBQ0NsRmllQjFwTEpCY196a3UtX1FoTUQtUGdNSmE0aUY1LUQyc3d1NFBKX0xGWjQ1NkUxbUptbG9VekZoYnp3TGpzNDBkdmdCUQ?oc=5\" target=\"_blank\">SK Hynix reports Q2 2026 earnings as the AI memory supercycle faces its first real test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "SK Hynix Q2 2026 earnings report released, providing concrete financial results and forward guidance during a critical phase of the AI memory cycle. As a major DRAM ETF holding, earnings releases deliver hard numbers on memory demand, pricing, and capacity that directly move the stock and fund."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "9f0d50b8b330dcb8ff9ae7d1df0e96ebc8b51ed2",
+  "source": "Yahoo Finance",
+  "topic": "fund",
+  "title": "T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzEtbXJPQnIxZnM2eVowMGhlWmNmZDIzUmZqU1FtTGFVRUpjQlBfTGJDdktOT1pCdDBVdmNBOVRTUktYSHc1SnhMRF8tS0xXaW1fR3NrTTJEOHlGVW54clJHMVJJTjB2S25XRlUtankwaGdqU0FLaHdwNXlIRjBTTXIxVVYwVTB3TkNMY3FGQ05XUGM?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:30:00 GMT",
+  "published_ts": 1784831400,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzEtbXJPQnIxZnM2eVowMGhlWmNmZDIzUmZqU1FtTGFVRUpjQlBfTGJDdktOT1pCdDBVdmNBOVRTUktYSHc1SnhMRF8tS0xXaW1fR3NrTTJEOHlGVW54clJHMVJJTjB2S25XRlUtankwaGdqU0FLaHdwNXlIRjBTTXIxVVYwVTB3TkNMY3FGQ05XUGM?oc=5\" target=\"_blank\">T-REX to Launch First-Ever U.S. 2X Inverse DRAM ETF (RAMZ) on July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "fund",
+   "summary": "T-REX launching first-ever U.S. 2X inverse DRAM ETF (RAMZ) on July 28. This is a concrete fund-related development that creates a competitive product in the memory-semiconductor ETF space and may affect flows and positioning in DRAM."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "2715f668246a100beb35f80e5796a96fa274a468",
+  "source": "Moomoo",
+  "topic": "holding",
+  "title": "Tied to Silicon Valley Giants! Report: Samsung and SK Hynix Plan to Sign \"Massive\" Chip Supply Agreements with U.S. Firms - Moomoo",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhHMGJDbkZ2YS05YnRFWGpuWG9OVFBQcUJVOU5rM3c2dGU1NDBYcTJRclBWZnd0MWlXb0ZNX29qWndIaXdrQ1pHSDVsbDA1YmJWQ0xyMy1ibjluMlp5WHVUaVloVGF6MXZSeGhMb2IyeFpXVWhDSkpUZmJHVU56MHZQXzQ4bkdINDVFWlh6c2ZaOGx3QTd1eGU3NGpfVHQt?oc=5",
+  "published_at": "Fri, 24 Jul 2026 11:45:59 GMT",
+  "published_ts": 1784893559,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhHMGJDbkZ2YS05YnRFWGpuWG9OVFBQcUJVOU5rM3c2dGU1NDBYcTJRclBWZnd0MWlXb0ZNX29qWndIaXdrQ1pHSDVsbDA1YmJWQ0xyMy1ibjluMlp5WHVUaVloVGF6MXZSeGhMb2IyeFpXVWhDSkpUZmJHVU56MHZQXzQ4bkdINDVFWlh6c2ZaOGx3QTd1eGU3NGpfVHQt?oc=5\" target=\"_blank\">Tied to Silicon Valley Giants! Report: Samsung and SK Hynix Plan to Sign \"Massive\" Chip Supply Agreements with U.S. Firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Moomoo"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix reported to be planning \"massive\" chip supply agreements with U.S. firms. The story is framed as a plan/discussion rather than a signed or officially announced deal, making it speculative rather than a concrete event. Relevant as both are major fund holdings, but lacks the specificity and confirmation needed for a higher impact score."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "839565d5aec1266272dbc3b1b84f820e3e2b6b02",
+  "source": "TrendForce",
+  "topic": "holding",
+  "title": "[News] SK hynix Reportedly Hires for 3D-Stacked DRAM-on-Logic With a U.S. Customer; Targets On-Device AI - TrendForce",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMGV1MGxVUzMzNG50TUh4Z3FNTHFXVDNXbHBkc29HMjhXSHVZbl9hMlQ3QnBwS05fLUU2Z2xEMDIxSElkdHJEY3RsbDQ3S040STlEQkhENWJxaWptRTRPTkZhbUVKb09TaEFVWmh5czVlTmdZNnAxUUJmUjBDc1Y4S1BDdjlQTTdaU2FadS16dHh1S0pZSExWdnhMZV9ZcVViNFdxa1hQT2ZGNWp6eG9zeV9XTzZkT1pnU0d5MnJneFdpWHR2MXJQdzRYVm1ONXZWejRiZHljWThBLUpJ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 07:05:30 GMT",
+  "published_ts": 1784876730,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMGV1MGxVUzMzNG50TUh4Z3FNTHFXVDNXbHBkc29HMjhXSHVZbl9hMlQ3QnBwS05fLUU2Z2xEMDIxSElkdHJEY3RsbDQ3S040STlEQkhENWJxaWptRTRPTkZhbUVKb09TaEFVWmh5czVlTmdZNnAxUUJmUjBDc1Y4S1BDdjlQTTdaU2FadS16dHh1S0pZSExWdnhMZV9ZcVViNFdxa1hQT2ZGNWp6eG9zeV9XTzZkT1pnU0d5MnJneFdpWHR2MXJQdzRYVm1ONXZWejRiZHljWThBLUpJ?oc=5\" target=\"_blank\">[News] SK hynix Reportedly Hires for 3D-Stacked DRAM-on-Logic With a U.S. Customer; Targets On-Device AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TrendForce"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix is reportedly hiring and developing 3D-stacked DRAM-on-Logic chips for an unnamed U.S. customer targeting on-device AI applications. This signals product development activity in advanced memory-logic integration, a key growth area, but lacks concrete confirmation of customer identity, timeline, or commercial significance."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "0830a38dbae833e452b03a12aaf751fd39da4a56",
+  "source": "Benzinga",
+  "topic": "holding",
+  "title": "Micron, SanDisk Stock Rout Is Ugly — This New ETF Thinks That’s Perfect - Micron Technology (NASDAQ:MU) - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXJYNm1oRllubk9wc0NmM2VHSG9jUVZyNlN6TDRYMmRWbHlDR2xrZThnLWdLRXZBazlZMzhwMW1EVVZMQ3MxUkR0OGxXeHdyTmZkYmhlVTZoZ1dEeE1CYm1KcGpRN0FkWHNzSnJfdXBSam4tMlJydVo3WG12YTNLMjJ0aXBlS3pFOTkyWXZ4X3N1bGlGbUhoMGVyT1pPdmpHeTBOYVV3VXZUUEQzbWlGWUlVbw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:51:32 GMT",
+  "published_ts": 1784897492,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXJYNm1oRllubk9wc0NmM2VHSG9jUVZyNlN6TDRYMmRWbHlDR2xrZThnLWdLRXZBazlZMzhwMW1EVVZMQ3MxUkR0OGxXeHdyTmZkYmhlVTZoZ1dEeE1CYm1KcGpRN0FkWHNzSnJfdXBSam4tMlJydVo3WG12YTNLMjJ0aXBlS3pFOTkyWXZ4X3N1bGlGbUhoMGVyT1pPdmpHeTBOYVV3VXZUUEQzbWlGWUlVbw?oc=5\" target=\"_blank\">Micron, SanDisk Stock Rout Is Ugly — This New ETF Thinks That’s Perfect - Micron Technology (NASDAQ:MU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Benzinga"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "Commentary on Micron and SanDisk stock declines and a new ETF strategy capitalizing on the weakness. Fund-focused but lacks concrete new information—analyst perspective on existing price moves rather than a new event or development."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "b2a236665a7dc5be6ac1b97c665045587044ae33",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says By Reuters - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmxrcUcxemJXSTVQc2JzcjI0eU10ZGZrU1I4S0ZCN0V2SjU2aWZQUWs1bFRZdXVlLUZtOENMMzJ2QXZIWEZWYko1VjNpWGdWVnNFUGlQdkFBV2RTQnNnUDF4cm9Ya2dpcHJuOXBlRTNLVVFMU1Y0ZXFpQWpISmtZamRFWGFCR3BmWFNzWFB0MHFlQWc0d1RaQ3p4QklIM3BudVpiODRNWE03VnVTcEFnUkVtZUZ5Zlk1QzhfX2dQWlhORG0zb3hGMFZBSVFLeFR4LUE?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:55:43 GMT",
+  "published_ts": 1784897743,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmxrcUcxemJXSTVQc2JzcjI0eU10ZGZrU1I4S0ZCN0V2SjU2aWZQUWs1bFRZdXVlLUZtOENMMzJ2QXZIWEZWYko1VjNpWGdWVnNFUGlQdkFBV2RTQnNnUDF4cm9Ya2dpcHJuOXBlRTNLVVFMU1Y0ZXFpQWpISmtZamRFWGFCR3BmWFNzWFB0MHFlQWc0d1RaQ3p4QklIM3BudVpiODRNWE03VnVTcEFnUkVtZUZ5Zlk1QzhfX2dQWlhORG0zb3hGMFZBSVFLeFR4LUE?oc=5\" target=\"_blank\">Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says By Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com",
+    "TradingView"
+   ],
+   "titles": [
+    "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says - TradingView"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are reported to announce major chip deals with US tech companies according to Seoul officials. This is positioned as a future announcement rather than a completed deal, making it speculative/forward-looking rather than a concrete, settled event. The snippet lacks specifics on deal terms, timing, or which memory products are involved. Until officially announced with details, this remains in the 'being discussed/pursued' category."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "08444605d36059ec6a195b0983d4464c1fe77e8b",
+  "source": "Ad-hoc-news.de",
+  "topic": "industry",
+  "title": "SK Hynix Faces a Tale of Two Markets as Geopolitical Jitters Collide with AI-Driven Demand - Ad-hoc-news.de",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1l4MTkyOVRFUWdPaTdodm5LRnJkY2pmZFMzMkFnMzN6SGFKTDNHdEtBME5pQkJtWWRvTDI1UThuN2lSSzFFZWpVYUpDRE1qSElSVGdYaWdZTHo1ZEdhdEE3VjNKTFdpSE5hWDVjQlZqNkxSREpxQkh1ajVfVEo4eGhVRFJJRTJGN09UeldNZEpocExlNnJWcFhRUnV6SWpiUHE0SVE3NUMxMUs2aW5GQzZ4c2NGVFpFOTlPOTB1c1hHYVNvLUgtaG9INGQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:43:06 GMT",
+  "published_ts": 1784896986,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1l4MTkyOVRFUWdPaTdodm5LRnJkY2pmZFMzMkFnMzN6SGFKTDNHdEtBME5pQkJtWWRvTDI1UThuN2lSSzFFZWpVYUpDRE1qSElSVGdYaWdZTHo1ZEdhdEE3VjNKTFdpSE5hWDVjQlZqNkxSREpxQkh1ajVfVEo4eGhVRFJJRTJGN09UeldNZEpocExlNnJWcFhRUnV6SWpiUHE0SVE3NUMxMUs2aW5GQzZ4c2NGVFpFOTlPOTB1c1hHYVNvLUgtaG9INGQ?oc=5\" target=\"_blank\">SK Hynix Faces a Tale of Two Markets as Geopolitical Jitters Collide with AI-Driven Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Ad-hoc-news.de"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix navigating conflicting pressures from geopolitical risks and strong AI-driven memory demand. Analysis of market dynamics affecting the company, but no concrete event or new hard numbers reported."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "2c136fcc63426f7246a1ca370de923ab41225dad",
+  "source": "Gadgets 360",
+  "topic": "industry",
+  "title": "Memory and Storage Chip Prices Tipped to Crash Next Year, But the Shortage Could Last Longer - Gadgets 360",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1NTSTM3aGFfWlh1Z1VFOXQ1bnd3X3F2OFFMdV91VzFLMWMyZk8xeTFlRENwRlV0cWxyMmt6bFVGaFpoMi1Yb3ZIV0lOMmsyb2hTdTVRNTlIYWVLa0lVOEhnNFNSeWJ6emFRX1F6TkozaUFyX1hNZE55OTNGT1FwZ0JTcEdhbXhTQnRsbHZpQlhaaGJYaU5OMjVHSm9wSGFDelhn?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:26:55 GMT",
+  "published_ts": 1784896015,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1NTSTM3aGFfWlh1Z1VFOXQ1bnd3X3F2OFFMdV91VzFLMWMyZk8xeTFlRENwRlV0cWxyMmt6bFVGaFpoMi1Yb3ZIV0lOMmsyb2hTdTVRNTlIYWVLa0lVOEhnNFNSeWJ6emFRX1F6TkozaUFyX1hNZE55OTNGT1FwZ0JTcEdhbXhTQnRsbHZpQlhaaGJYaU5OMjVHSm9wSGFDelhn?oc=5\" target=\"_blank\">Memory and Storage Chip Prices Tipped to Crash Next Year, But the Shortage Could Last Longer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadgets 360</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Gadgets 360"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "pricing",
+   "summary": "Analyst commentary forecasting memory and storage chip price declines in the coming year, with potential supply constraints persisting. This is forward-looking analysis and opinion rather than a confirmed pricing development or hard market data."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "a7da5ab74fb11a8d57b6182c939c071c6efabdd6",
+  "source": "semivision",
+  "topic": "holding",
+  "title": "Beyond HBM: Samsung Targets the Next AI Battleground with Advanced Packaging and CPO - semivision",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzRaS01SVmp2M0VyYXIxdHQyYWJyTEtKNkZtUTVUbll3Vnp6aTFJQi0yMVMzR2JnbnZUNlZEb1VaOU80eWlGcVljbkhEcnNBNjFraXBLdVVHeU1zbUJZR3hJS2pyQi1JS3p6RnpySmYtQzg0TGQxdkdVNUpwWWpqdFB3?oc=5",
+  "published_at": "Fri, 24 Jul 2026 00:49:33 GMT",
+  "published_ts": 1784854173,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzRaS01SVmp2M0VyYXIxdHQyYWJyTEtKNkZtUTVUbll3Vnp6aTFJQi0yMVMzR2JnbnZUNlZEb1VaOU80eWlGcVljbkhEcnNBNjFraXBLdVVHeU1zbUJZR3hJS2pyQi1JS3p6RnpySmYtQzg0TGQxdkdVNUpwWWpqdFB3?oc=5\" target=\"_blank\">Beyond HBM: Samsung Targets the Next AI Battleground with Advanced Packaging and CPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">semivision</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "semivision"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung is expanding its AI semiconductor strategy beyond HBM into advanced packaging and chiplet photonics (CPO) technologies. This represents Samsung's forward-looking positioning in AI infrastructure, though it discusses strategic direction and future focus rather than announcing a concrete new product launch or capacity commitment."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "8a72490f61122714a5f31c0025178e27d5438156",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "Samsung Electronics (KRX:005930) shares drop, July 30 margin split draws attention - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUFlQ1lkeUZhaGxMeG95c01ndUM2Sy1GR0hpUzVUNVdnWXR6MGJNYnRWRDZnTVJ6UjZoSGYwYU83TFJxeFpLdDNySjR2ZHdoV05iMWtlNlI2U2k5QnlJU00zc09ENDZqVXVLUlhFSU1kUk5SdGVXMVF6SGNPcWpsTzVJS0tZTGc3WFRmYTdHWnlockdFUWo2RFdDOTJsM0VQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:56:51 GMT",
+  "published_ts": 1784897811,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUFlQ1lkeUZhaGxMeG95c01ndUM2Sy1GR0hpUzVUNVdnWXR6MGJNYnRWRDZnTVJ6UjZoSGYwYU83TFJxeFpLdDNySjR2ZHdoV05iMWtlNlI2U2k5QnlJU00zc09ENDZqVXVLUlhFSU1kUk5SdGVXMVF6SGNPcWpsTzVJS0tZTGc3WFRmYTdHWnlockdFUWo2RFdDOTJsM0VQ?oc=5\" target=\"_blank\">Samsung Electronics (KRX:005930) shares drop, July 30 margin split draws attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung Electronics shares declined ahead of July 30 margin split announcement. Stock movement tied to anticipated financial metrics rather than a concrete new development; classified as analyst/market reaction to pending disclosure rather than the disclosure itself."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "0f3857ac78018e27564bd6d28f8faa429698998d",
+  "source": "Barron's",
+  "topic": "holding",
+  "title": "Micron Stock Slips. How Microsoft Will Give It Another Chance to Beat the S&P 500. - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzBkSS1WMVA3eFdraFFfM3BkVUMwYXV2dUhuNXE1V0Ewd0IxZW9OVmlVaDluSm5vZHlQZE9UWExRR1RxR0g3WEdiZFoxLVowZ29BaHJMa1plak5FOUZfWWtfclRPV2syeTRGdWgtWC1WdDZTb2RiRWgyZXF4ZktUUjVpWWNOYU9pT0NKankwbG5lV1k?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:27:00 GMT",
+  "published_ts": 1784896020,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzBkSS1WMVA3eFdraFFfM3BkVUMwYXV2dUhuNXE1V0Ewd0IxZW9OVmlVaDluSm5vZHlQZE9UWExRR1RxR0g3WEdiZFoxLVowZ29BaHJMa1plak5FOUZfWWtfclRPV2syeTRGdWgtWC1WdDZTb2RiRWgyZXF4ZktUUjVpWWNOYU9pT0NKankwbG5lV1k?oc=5\" target=\"_blank\">Micron Stock Slips. How Microsoft Will Give It Another Chance to Beat the S&amp;P 500.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Barron's"
+   ],
+   "titles": [
+    "Micron Stock Slips. How Microsoft Will Give It Another Chance to Beat the S&P 500. - Barron's"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Barron's analysis piece discussing Micron's stock performance and outlook tied to Microsoft demand. This is analyst commentary on a holding rather than a concrete development—opinion-based rather than a reported event or hard number."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "625fcfb49a9530d2f8961e39f17ee78a5c31f869",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK hynix, Samsung set to sign sizable supply deals with US companies: report - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGlFSHVBZkJzODZmWklTYjRnc3BzRHNvdFdCbHRfN3FUUFN6aEVvTnJaUGpSU2FrVGM0WWQ5SWhpcmJNZk83VkRKVkstdFVSM2EtY2c0UjZFWENvVG1DVGxjaDV2R0ZBWlFtVGJwUEt1QjlBVUV2NkVKRXJxcWhtY1doRUtVQmVpZXdqRGpGdWFhRTBrcno3RFE5TzItQnd4THhFQUhIVFRFMXJleW01TzhB?oc=5",
+  "published_at": "Fri, 24 Jul 2026 13:24:26 GMT",
+  "published_ts": 1784899466,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGlFSHVBZkJzODZmWklTYjRnc3BzRHNvdFdCbHRfN3FUUFN6aEVvTnJaUGpSU2FrVGM0WWQ5SWhpcmJNZk83VkRKVkstdFVSM2EtY2c0UjZFWENvVG1DVGxjaDV2R0ZBWlFtVGJwUEt1QjlBVUV2NkVKRXJxcWhtY1doRUtVQmVpZXdqRGpGdWFhRTBrcno3RFE5TzItQnd4THhFQUhIVFRFMXJleW01TzhB?oc=5\" target=\"_blank\">SK hynix, Samsung set to sign sizable supply deals with US companies: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix and Samsung reported to be negotiating sizable supply deals with US companies. This is a material development for two major fund holdings, but the language ('set to sign', 'report') indicates the deals are not yet officially announced or signed, making it forward-looking speculation rather than a confirmed event."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "e770462ad2a83f1ffa238f183e8b5d42d328727f",
+  "source": "Invezz",
+  "topic": "holding",
+  "title": "SanDisk stock down 33% from YTD high: Experts predict upside before Aug. 13 - Invezz",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2NtMHlndGZDT3FZR2I0bThSRzJkMURGRFo1Q2lwUmpMMVg3TW9lSGdtSFNWb0FJOVBsVDNOVWZtdm5hZGstQ1pQMTRZeDRCTkhtR1IzSUdIMEFGbTN6QTdrdzN5ZzhWcEZySFVMMHI5Z0VXZ012QWZlem56ZlFMajN6ZEdueXpSMnl4Zkttb0JTOW51QkQ3Q1czN1IyX0piRDFLNng5S2dnZm11UXJHWVFaOGdvLWZ3M2c?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:59:53 GMT",
+  "published_ts": 1784897993,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2NtMHlndGZDT3FZR2I0bThSRzJkMURGRFo1Q2lwUmpMMVg3TW9lSGdtSFNWb0FJOVBsVDNOVWZtdm5hZGstQ1pQMTRZeDRCTkhtR1IzSUdIMEFGbTN6QTdrdzN5ZzhWcEZySFVMMHI5Z0VXZ012QWZlem56ZlFMajN6ZEdueXpSMnl4Zkttb0JTOW51QkQ3Q1czN1IyX0piRDFLNng5S2dnZm11UXJHWVFaOGdvLWZ3M2c?oc=5\" target=\"_blank\">SanDisk stock down 33% from YTD high: Experts predict upside before Aug. 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Invezz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Invezz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SanDisk stock has declined 33% from its YTD high; analysts predict potential upside before August 13. This is analyst commentary and price-action analysis on a fund holding, not a concrete event or new fundamental development. Stock moves and expert predictions without a specific catalyst are scored as soft/opinion-based."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "65945006c001f1f76d46a48d3491837a6b4b913f",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "Veteran Bank Resets Sandisk Stock price target for 2027 - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPam5qc3VPZGtHNHlodUJhV0tZLXo5bmRlUFVQMFRzT3NQZWJHUFFZSlo2Qlk1U1JIUEwxanVrbGh0REZiRU5NNUNZTjlTdldqTlB2ZUFfNFI1djhNT05EMGVaUXd1Z2l2ME1pM0pxS05XYWJWYmxUQ0lEYkdyZGJBWGxZZTJFVkdUMTBtY3RPZzd5VTNkRUJ4N2lmcDN2RVhrNVBpZ3FBazNBcHRhbUtYc1RzaFVpdw?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:36:22 GMT",
+  "published_ts": 1784896582,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPam5qc3VPZGtHNHlodUJhV0tZLXo5bmRlUFVQMFRzT3NQZWJHUFFZSlo2Qlk1U1JIUEwxanVrbGh0REZiRU5NNUNZTjlTdldqTlB2ZUFfNFI1djhNT05EMGVaUXd1Z2l2ME1pM0pxS05XYWJWYmxUQ0lEYkdyZGJBWGxZZTJFVkdUMTBtY3RPZzd5VTNkRUJ4N2lmcDN2RVhrNVBpZ3FBazNBcHRhbUtYc1RzaFVpdw?oc=5\" target=\"_blank\">Veteran Bank Resets Sandisk Stock price target for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "A bank analyst has reset SanDisk's stock price target for 2027. Price-target changes are analyst opinion and forecasts rather than confirmed events or concrete developments, making this soft news. While SanDisk is a fund holding, a single analyst target reset lacks the materiality of earnings, guidance, deals, or production changes."
+  },
+  "buffered_ts": 1784899750.2861516
+ },
+ {
+  "id": "c96d7d7debc5d0ed8ffabaa27cbb18cfbffb606c",
+  "source": "Investing.com",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix to announce major US tech deals - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1lzaHBWcDBPZ001NGdKalQ0OExqb0wxb0pqcFJOWW1rTFRUS2pfTTJydktNZHhlNWRkRzlZTUdBSEozaTZLZ0xlSnpKVVI1c1VXTnZMWU5peVhzenpjeGdGYnI5X0lxN1A1UFNJdDl0N3JobGtvSEx1bGtnRmpCVElrYTZ0UmY5ZXRPVkk1MlN5X1NsTmNWTUlPRnREaFpjdTFsZkNEalA5eC1TOERybWhIUlc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 12:24:39 GMT",
+  "published_ts": 1784895879,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1lzaHBWcDBPZ001NGdKalQ0OExqb0wxb0pqcFJOWW1rTFRUS2pfTTJydktNZHhlNWRkRzlZTUdBSEozaTZLZ0xlSnpKVVI1c1VXTnZMWU5peVhzenpjeGdGYnI5X0lxN1A1UFNJdDl0N3JobGtvSEx1bGtnRmpCVElrYTZ0UmY5ZXRPVkk1MlN5X1NsTmNWTUlPRnREaFpjdTFsZkNEalA5eC1TOERybWhIUlc?oc=5\" target=\"_blank\">Samsung and SK Hynix to announce major US tech deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are set to announce major US tech deals. Without confirmed details on deal scope, timing, or specific memory-related commitments, this is a forward-looking statement rather than a concrete event. Once the deals are formally announced with details, impact could rise to 4. Currently flagged as soft news—possibility rather than settled fact."
+  },
+  "buffered_ts": 1784899750.2861516
+ }
+]
