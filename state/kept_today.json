@@ -1363,5 +1363,104 @@
    "summary": "A brief mention that a RAM ETF (likely the DRAM ETF or a similar memory-focused fund) has declined amid volatility in leveraged DRAM trading. The headline names the fund but provides no concrete event, catalyst, or fund-specific news—it is a generic market-movement observation without underlying information about holdings, pricing, or industry fundamentals."
   },
   "buffered_ts": 1784919427.488879
+ },
+ {
+  "id": "08cb49ee010c982c5043c21ec176cb1fa8e61d8e",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Musk Thanks Samsung, Micron, TSMC on Earnings Call, Underscoring Deepening AI Supply Chain Reliance - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DOTlnYlFaZ0FpQjFpSmdlTlNlc2xDeU9aSERKQW9KY0pzSUg2bGhwQUZRdGJsVmVKYVB6Q2JGWlR3ZXY2OVFiQXJ3N2FFNTlCRmZ4NUJjV19xeVR1MV83VG55aGVZdFNDSGpBUWt4ZUV1VXpUb2c?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:35:00 GMT",
+  "published_ts": 1784910900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DOTlnYlFaZ0FpQjFpSmdlTlNlc2xDeU9aSERKQW9KY0pzSUg2bGhwQUZRdGJsVmVKYVB6Q2JGWlR3ZXY2OVFiQXJ3N2FFNTlCRmZ4NUJjV19xeVR1MV83VG55aGVZdFNDSGpBUWt4ZUV1VXpUb2c?oc=5\" target=\"_blank\">Musk Thanks Samsung, Micron, TSMC on Earnings Call, Underscoring Deepening AI Supply Chain Reliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Musk thanked Samsung and Micron (both DRAM ETF holdings) on an earnings call, highlighting their role in AI supply chains. This confirms demand pull but is commentary/acknowledgment rather than a concrete event or new information about memory demand or supply."
+  },
+  "buffered_ts": 1784924336.5250297
+ },
+ {
+  "id": "018f7681f0173b03f9cc1f1409225f3c5016288a",
+  "source": "Mexico Business News",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Prepare Major Chip Supply Deals With US Firms - Mexico Business News",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXRsVmNIMEg0cWNjZzN2STNZQlowcEdMa2RJZ3Bfb1Myb1pQbFVxRXlVRXA1VURMVWdwZk0tRk92QmE5cHk5bG00NE1YRVlhaXNiT1lzTHdMaThsRWg1OElVTkNvdExqTEY0dEFncUxxdlNaUnFpVDJ4LWNFY01HOVJSQ0xnbFRjcG1HVjlWdy11aE1IeG1iZFlWNA?oc=5",
+  "published_at": "Fri, 24 Jul 2026 19:14:44 GMT",
+  "published_ts": 1784920484,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXRsVmNIMEg0cWNjZzN2STNZQlowcEdMa2RJZ3Bfb1Myb1pQbFVxRXlVRXA1VURMVWdwZk0tRk92QmE5cHk5bG00NE1YRVlhaXNiT1lzTHdMaThsRWg1OElVTkNvdExqTEY0dEFncUxxdlNaUnFpVDJ4LWNFY01HOVJSQ0xnbFRjcG1HVjlWdy11aE1IeG1iZFlWNA?oc=5\" target=\"_blank\">Samsung, SK Hynix Prepare Major Chip Supply Deals With US Firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Mexico Business News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are preparing major chip supply deals with US firms. This is a concrete development involving two key holdings, but the language 'prepare' and lack of specifics on terms, timing, or which US firms suggests deals are in negotiation rather than signed/announced. Score is 3—relevant but soft until official announcement."
+  },
+  "buffered_ts": 1784924336.5250297
+ },
+ {
+  "id": "7c9259672ca3a388c6358348e00164ded6be2470",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0w3Tk44WTUxRERZc2tfd2FNb3VwNFY1SkVUTzd4WFFjTzAwaFp1VjJsNzBzSDRUSDQtQVRGQW1wQXQ4bkY1akR1akl2eTRSYkZnSl9vREJ0bUlwTzVFM0NZaEQwUVgtT3c1bnh0MWxCekVSVVFTOVRBeGctQjdibTZyQWtPVVJvcHRJQWdFRkowbmRoSEtYNXNn?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:54:41 GMT",
+  "published_ts": 1784919281,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0w3Tk44WTUxRERZc2tfd2FNb3VwNFY1SkVUTzd4WFFjTzAwaFp1VjJsNzBzSDRUSDQtQVRGQW1wQXQ4bkY1akR1akl2eTRSYkZnSl9vREJ0bUlwTzVFM0NZaEQwUVgtT3c1bnh0MWxCekVSVVFTOVRBeGctQjdibTZyQWtPVVJvcHRJQWdFRkowbmRoSEtYNXNn?oc=5\" target=\"_blank\">Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "TradingView"
+   ],
+   "titles": [
+    "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances - TradingView"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are preparing major AI-related deals as part of a broader $880 billion plan. This signals strong AI infrastructure demand pulling memory capacity, but the story focuses on deals being prepared and explored rather than confirmed, signed agreements or concrete capacity commitments."
+  },
+  "buffered_ts": 1784924336.5250297
+ },
+ {
+  "id": "39d115b90842040574816859d3d3499e1bcb05ac",
+  "source": "Seeking Alpha",
+  "topic": "industry",
+  "title": "Roku lifts prices for streaming devices, citing memory chip shortage (ROKU:NASDAQ) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjJtVEFSaF9RbVZ2NVBiTllTVW5LUXB2cEJoTHhCS182cHBFczBpSm0taEdHZmJqQ2Z6dzI3T1ktelc5cmJpd0gtVlRqVmxxRXBObngxYTVWbElnRzQ1bVByQzF1aURNYzJ1cXEyU1FwOEpQYTV5RGl5dkZFaWZUbm1Pb3ZnaUt0SEVIaGx4Z0ctRGlEQ0psUUU3cnhjbGI4V0hHRERYdl8?oc=5",
+  "published_at": "Fri, 24 Jul 2026 19:05:16 GMT",
+  "published_ts": 1784919916,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjJtVEFSaF9RbVZ2NVBiTllTVW5LUXB2cEJoTHhCS182cHBFczBpSm0taEdHZmJqQ2Z6dzI3T1ktelc5cmJpd0gtVlRqVmxxRXBObngxYTVWbElnRzQ1bVByQzF1aURNYzJ1cXEyU1FwOEpQYTV5RGl5dkZFaWZUbm1Pb3ZnaUt0SEVIaGx4Z0ctRGlEQ0psUUU3cnhjbGI4V0hHRERYdl8?oc=5\" target=\"_blank\">Roku lifts prices for streaming devices, citing memory chip shortage (ROKU:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "industry",
+   "summary": "Roku is raising prices for streaming devices citing memory chip shortage. This is a passing mention of memory demand pressure but lacks specifics on DRAM/NAND pricing, volumes, or direct impact on fund holdings. It is a soft signal of industry conditions rather than a concrete event affecting memory chipmakers."
+  },
+  "buffered_ts": 1784924336.5250297
  }
 ]
