@@ -1324,5 +1324,392 @@
    "summary": "SK Hynix stock is surging; the article asks why but provides no concrete event or catalyst—likely a price-move recap tied to earnings or market sentiment rather than new material information."
   },
   "buffered_ts": 1784876737.6089442
+ },
+ {
+  "id": "45484e0b6f81891be69360ea43cb6606f16e0a39",
+  "source": "Seoul Economic Daily",
+  "topic": "holding",
+  "title": "AMD Teams with Samsung, Loads 50% More Memory Per Chip, Fueling HBM Shortage - Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzlqZzlwdUtod1FoUHgtMWt0RU02QUVMOFB4MER2cVJIcklscWFYM2N6NDJEWTRPYjU5THdTaGF2X25aSmxpRlVqNUJtNEdLbk9hZXVscWZ5dzlpYmhpc1U0dlVmMlFqeGR4cTAzdEdPS24xMW45OUotc1RWcWlaaExkZlFPenRMalBzOTZFbXN1NnNUZEhyZkNOUGJEa2NtekpUNTVn?oc=5",
+  "published_at": "Fri, 24 Jul 2026 08:49:32 GMT",
+  "published_ts": 1784882972,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzlqZzlwdUtod1FoUHgtMWt0RU02QUVMOFB4MER2cVJIcklscWFYM2N6NDJEWTRPYjU5THdTaGF2X25aSmxpRlVqNUJtNEdLbk9hZXVscWZ5dzlpYmhpc1U0dlVmMlFqeGR4cTAzdEdPS24xMW45OUotc1RWcWlaaExkZlFPenRMalBzOTZFbXN1NnNUZEhyZkNOUGJEa2NtekpUNTVn?oc=5\" target=\"_blank\">AMD Teams with Samsung, Loads 50% More Memory Per Chip, Fueling HBM Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seoul Economic Daily</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seoul Economic Daily"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "AMD and Samsung announced a partnership to increase memory density by 50% per chip, which is a concrete development in HBM (high-bandwidth memory) technology. This directly impacts memory demand and capacity dynamics that drive the memory cycle and DRAM ETF holdings, particularly Samsung's memory business and the broader HBM supply situation."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "b6eb52b1c714e4a69a87068c1bf096ec4195fdff",
+  "source": "ANI News",
+  "topic": "holding",
+  "title": "AMD Helios AI server rack enters production with Samsung HBM4 memory supply - ANI News",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdJdEJYOEZFX1hxSThtUlNDZ0NBbEFQVmdjZ0hvLWIyRjFFSUlsUFAxdEU0c0kyQTZPNUV1a0hqSnBSRDNLQ0UwbXVPMzE3NDB6bUtacmxVOHIzMFJKV3pNNUsyVzNmSjVFV2FVWFJadmNXTjlGVzgzSk83bGhWR0swcmgxakpRWmkwQU0zNWRqb1BVcFczMlhXTjZNYWJDOEt2bGJOZEltZXhmNVBzMTZVdGdFZnZsV3VzSWl6X19tc3VV?oc=5",
+  "published_at": "Fri, 24 Jul 2026 07:51:00 GMT",
+  "published_ts": 1784879460,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdJdEJYOEZFX1hxSThtUlNDZ0NBbEFQVmdjZ0hvLWIyRjFFSUlsUFAxdEU0c0kyQTZPNUV1a0hqSnBSRDNLQ0UwbXVPMzE3NDB6bUtacmxVOHIzMFJKV3pNNUsyVzNmSjVFV2FVWFJadmNXTjlGVzgzSk83bGhWR0swcmgxakpRWmkwQU0zNWRqb1BVcFczMlhXTjZNYWJDOEt2bGJOZEltZXhmNVBzMTZVdGdFZnZsV3VzSWl6X19tc3VV?oc=5\" target=\"_blank\">AMD Helios AI server rack enters production with Samsung HBM4 memory supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ANI News"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "AMD's Helios AI server rack has entered production with Samsung supplying HBM4 memory. This is a concrete, officially announced development confirming Samsung's HBM4 in high-volume AI infrastructure deployment, a key demand driver for the fund's holdings."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "6b2fe227cbef6888198f0e73bf63e86df45bee90",
+  "source": "Wccftech",
+  "topic": "holding",
+  "title": "On-Device AI In Smartphones Is A Blatant Lie Due To Packaging & DRAM Limitations, But SK hynix’s Newest Architecture Breakthrough Could Change That - Wccftech",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWtnUTVld3pkemQzaDlra09nbkN1QWhCOGdPSmhBVGRhNU1PMXA0bVZPTUlmT3ZLWUFKM2dSbHZwZ3BSMlFfcW5vSFZrUzE3WDQybEVRVDQ3S3piVVc1QmFKejN5SlNBeDBfSHJSNEVpTTFSQ01wTHRYeEJQeEZzZ2ZYd3NRdEhlYUJaOTVPTmFJQjhYc2RRZkFpVWRucWhrM3NF0gGoAUFVX3lxTE9LTlgxd2hnTFZ1d2Vja2ZQNFZ3V0U2ajRjVUxHTjlVVXQycjJoemRyRm5GRzNaaHB0ME10VWFZWV9semZId082OUJMQkdWX3E3UUI0VVhoZnV6R3FVeEtibFNGZFlhWThHdS1zV2dmekoxVUtKWDNRZnY1Q1lqT3AtNTktM2QyVTFKa1dHZnNwQmF3c0JRd29vbTJJOG1naDRtLXBEYjg5eg?oc=5",
+  "published_at": "Fri, 24 Jul 2026 08:29:07 GMT",
+  "published_ts": 1784881747,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWtnUTVld3pkemQzaDlra09nbkN1QWhCOGdPSmhBVGRhNU1PMXA0bVZPTUlmT3ZLWUFKM2dSbHZwZ3BSMlFfcW5vSFZrUzE3WDQybEVRVDQ3S3piVVc1QmFKejN5SlNBeDBfSHJSNEVpTTFSQ01wTHRYeEJQeEZzZ2ZYd3NRdEhlYUJaOTVPTmFJQjhYc2RRZkFpVWRucWhrM3NF0gGoAUFVX3lxTE9LTlgxd2hnTFZ1d2Vja2ZQNFZ3V0U2ajRjVUxHTjlVVXQycjJoemRyRm5GRzNaaHB0ME10VWFZWV9semZId082OUJMQkdWX3E3UUI0VVhoZnV6R3FVeEtibFNGZFlhWThHdS1zV2dmekoxVUtKWDNRZnY1Q1lqT3AtNTktM2QyVTFKa1dHZnNwQmF3c0JRd29vbTJJOG1naDRtLXBEYjg5eg?oc=5\" target=\"_blank\">On-Device AI In Smartphones Is A Blatant Lie Due To Packaging & DRAM Limitations, But SK hynix’s Newest Architecture Breakthrough Could Change That</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Wccftech"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix's new architecture breakthrough addresses DRAM limitations in on-device AI for smartphones, potentially solving packaging and memory constraints. The article discusses SK hynix's technical innovation as a potential solution to enable better on-device AI capabilities, though no concrete product launch, timeline, or commercialization details are provided."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "11ee121553c6bcb02addabdb6e9692a840e21dc5",
+  "source": "TradingKey",
+  "topic": "holding",
+  "title": "South Korea Stock Market Slide Intensifies: KOSPI Plunges Nearly 6%, Tumbles 30% From June High, SK Hynix and Samsung Both Slump - TradingKey",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkRLcXZwTGh2VElXbWtTSFdEemRxQTEwMHdBd3AyU1VuY2NRZDduSHpXdXktSk1XWjdGbklGNG5lRFBXRFNTNjcxLUwzajNpbVI1a2lWbV9Lc0dad0pUUmJFOVVsRzU2elpZamUxcWtjRzhRTEVmWmJnZDFVUEFWbzRNLTFWcUNDSDU2VHYtVTY0Mk45aGdtQ3pCNWhNSDhsTTJwaUZneEppc3Y2NXdYdUJfbzBiaWdja2FBVA?oc=5",
+  "published_at": "Fri, 24 Jul 2026 07:03:10 GMT",
+  "published_ts": 1784876590,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkRLcXZwTGh2VElXbWtTSFdEemRxQTEwMHdBd3AyU1VuY2NRZDduSHpXdXktSk1XWjdGbklGNG5lRFBXRFNTNjcxLUwzajNpbVI1a2lWbV9Lc0dad0pUUmJFOVVsRzU2elpZamUxcWtjRzhRTEVmWmJnZDFVUEFWbzRNLTFWcUNDSDU2VHYtVTY0Mk45aGdtQ3pCNWhNSDhsTTJwaUZneEppc3Y2NXdYdUJfbzBiaWdja2FBVA?oc=5\" target=\"_blank\">South Korea Stock Market Slide Intensifies: KOSPI Plunges Nearly 6%, Tumbles 30% From June High, SK Hynix and Samsung Both Slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingKey"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean stock market selloff drives SK hynix and Samsung shares lower; KOSPI down nearly 6% and 30% from June highs. While both holdings are affected, the story reports price moves without a distinct memory-specific catalyst — the decline appears driven by broader market weakness rather than memory cycle or company-specific news."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "d2f639f4571448b934d957e35f279dfd92af04ce",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "STARTRADER Launches SKHY as SK Hynix Makes Its US Market Debut, Giving Clients Timely Access to a Key AI Memory Name - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3J3UE9CQWt3Q3hNVElpWWEzQTRETGdxbFBwTU4xY3liak8xTFRscE52cXo0R2RYSjZacC1XNWdldl9EOVZ0ZFYyWG5LdUVvOHg3VlJJMXB4eW9ZWVRUYXlsUGxZSWx3WXUyZTJLYXhsWTdESkRXbGxEcy1pX3Q5MmVhVjg4UU1BbE5TbXJ1Sk9BNHdjekdPYkswM0JFdjA?oc=5",
+  "published_at": "Thu, 23 Jul 2026 08:27:00 GMT",
+  "published_ts": 1784795220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3J3UE9CQWt3Q3hNVElpWWEzQTRETGdxbFBwTU4xY3liak8xTFRscE52cXo0R2RYSjZacC1XNWdldl9EOVZ0ZFYyWG5LdUVvOHg3VlJJMXB4eW9ZWVRUYXlsUGxZSWx3WXUyZTJLYXhsWTdESkRXbGxEcy1pX3Q5MmVhVjg4UU1BbE5TbXJ1Sk9BNHdjekdPYkswM0JFdjA?oc=5\" target=\"_blank\">STARTRADER Launches SKHY as SK Hynix Makes Its US Market Debut, Giving Clients Timely Access to a Key AI Memory Name</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix (SKHY) has launched US market trading through STARTRADER, marking its US market debut and providing US investor access to a key memory semiconductor supplier for AI infrastructure. While this expands accessibility for DRAM ETF investors and represents a concrete corporate event, it is a listing/market-access development rather than a production, pricing, or demand catalyst that would move the memory cycle itself."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "0244e081cc8c636e40c5adf0df024367fc9b531d",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Near 'AI Memory Megadeals' with US Big Tech; China's CXMT Targets 3D IC Niche - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZk00a2hQcmRuZWVkS3phN1UxbVZaV2taV2xpdDNZeDJLQmpDNmFQN3lnM2VMUlBWeVcySThHN1MzNkNNZWZtbWFKX1dqNkhEcmVMSXhabERHSTgwUXAxX3JSOEdDR1h1cTMwWmZfQTZ0WW9jTnc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 07:25:00 GMT",
+  "published_ts": 1784877900,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZk00a2hQcmRuZWVkS3phN1UxbVZaV2taV2xpdDNZeDJLQmpDNmFQN3lnM2VMUlBWeVcySThHN1MzNkNNZWZtbWFKX1dqNkhEcmVMSXhabERHSTgwUXAxX3JSOEdDR1h1cTMwWmZfQTZ0WW9jTnc?oc=5\" target=\"_blank\">Samsung, SK Hynix Near 'AI Memory Megadeals' with US Big Tech; China's CXMT Targets 3D IC Niche</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are reportedly near completion of major AI memory deals with US technology companies. The story discusses potential high-bandwidth memory contracts that could drive significant demand for the fund's holdings, but uses language suggesting ongoing negotiations rather than confirmed, signed agreements."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "c057ee5bb816856e456e502fe8d2745515b21bca",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "SK Hynix ADR Conversion Cap of 2.5% Exhausted, Signaling Prolonged 30% Premium - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQ3FLSFJsR2xwZ3FvNVIzQjN4dVdLLXJDQS1QZllLS2ZpdEFELUthYjdWUVR1T3poRnRUcEFqMkNEUlV0elBiYkdpVlpSU2pkd2JUZHF1cllnU05uTUtrRVM1UEs4Y29lMzJ4TjJYRE1WWFNqSWc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 02:55:00 GMT",
+  "published_ts": 1784861700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQ3FLSFJsR2xwZ3FvNVIzQjN4dVdLLXJDQS1QZllLS2ZpdEFELUthYjdWUVR1T3poRnRUcEFqMkNEUlV0elBiYkdpVlpSU2pkd2JUZHF1cllnU05uTUtrRVM1UEs4Y29lMzJ4TjJYRE1WWFNqSWc?oc=5\" target=\"_blank\">SK Hynix ADR Conversion Cap of 2.5% Exhausted, Signaling Prolonged 30% Premium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix ADR conversion cap of 2.5% has been exhausted, creating a persistent 30% premium between the ADR price and the underlying Korean shares. This arbitrage dynamic reflects strong demand for SK Hynix exposure among US investors but is primarily a technical trading/capital-structure issue rather than a fundamental business development. The premium itself does not directly change the company's operations or the memory cycle, though it may influence investor demand for the stock and the DRAM ETF's holdings."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "6c1bde6318e93ed6b68bc67d484f4512c339e239",
+  "source": "TradingView",
+  "topic": "holding",
+  "title": "DRAM ETF inflows rise as Micron, SanDisk, SK Hynix, Samsung lead rally amid risks - TradingView",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2VaR1JMN1p6dEI3a0pXUEZXVExSNjNyNTNTWVdxUlRIRlR0SUQ3TVRKbVlfdF9KemhQYm1qMkNtUnNzSVNsdWgwVGExeE5VTUo0WW5JdXZWejhxUG0yQjdvSVlRMjJ1WHFtWEtOckNZWlU1N0xMSWJvOFk4X01pVVd4OUJKemJzOHk1T1FWMHNReEE5NEtwdlBtRy14TklJdE5GRnZzenZtSUNTZDhmZGZSY01uTy1VLVVKS1ctd0JjdXd1cFUyd3BBQXEyZDQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 12:35:00 GMT",
+  "published_ts": 1784810100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2VaR1JMN1p6dEI3a0pXUEZXVExSNjNyNTNTWVdxUlRIRlR0SUQ3TVRKbVlfdF9KemhQYm1qMkNtUnNzSVNsdWgwVGExeE5VTUo0WW5JdXZWejhxUG0yQjdvSVlRMjJ1WHFtWEtOckNZWlU1N0xMSWJvOFk4X01pVVd4OUJKemJzOHk1T1FWMHNReEE5NEtwdlBtRy14TklJdE5GRnZzenZtSUNTZDhmZGZSY01uTy1VLVVKS1ctd0JjdXd1cFUyd3BBQXEyZDQ?oc=5\" target=\"_blank\">DRAM ETF inflows rise as Micron, SanDisk, SK Hynix, Samsung lead rally amid risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TradingView"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "fund",
+   "summary": "DRAM ETF experiencing inflows with holdings Micron, SanDisk, SK Hynix, and Samsung rallying. Story reports fund flow activity and mentions multiple key holdings performing well, but lacks specific catalyst or concrete data on inflow magnitude or timing."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "b890db7e6266a31278ed2af6c647c3814a773601",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXI4UUs5UE9GcmhWQlBvY19NUDVjR0hVcHdqUnpobVlBcmZQYXlYM3VGdHh1UV9ZYm41WkEyQ3gtbFl2eGdVbzFBQTlzMzFBYjVXYVozUnNHYl9IVFc3RTFEQ3Rmc3FtV0JkbVFPN1UyOER4WTZ2djcxSzliTC00M1hYdlBzNzVlM2hEa053UnR3NE1PcXlmZkl3?oc=5",
+  "published_at": "Wed, 22 Jul 2026 21:49:17 GMT",
+  "published_ts": 1784756957,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXI4UUs5UE9GcmhWQlBvY19NUDVjR0hVcHdqUnpobVlBcmZQYXlYM3VGdHh1UV9ZYm41WkEyQ3gtbFl2eGdVbzFBQTlzMzFBYjVXYVozUnNHYl9IVFc3RTFEQ3Rmc3FtV0JkbVFPN1UyOER4WTZ2djcxSzliTC00M1hYdlBzNzVlM2hEa053UnR3NE1PcXlmZkl3?oc=5\" target=\"_blank\">Intel mulls partnership for Ohio chip fab, SK Hynix among candidates - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Intel is exploring a partnership for its Ohio chip fab with SK Hynix among potential candidates. This is a speculative report about a possible deal under discussion rather than a confirmed arrangement, making it soft news. If formalized, such a partnership could affect SK Hynix's capacity and strategy, but at this stage it remains exploratory and uncertain."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "bcb837e78e5444dca044c3c04c8db24f4ef9f525",
+  "source": "NDTV Profit",
+  "topic": "holding",
+  "title": "SK Hynix, Samsung And Kioxia Face Pivotal Earnings Test On AI Swings - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hvZHVuUGFRZWdTWnVjbHJtcEt0aWhaTjFaaG1GSjR3WnlONVNxbDVmREV4clVkV1Jsdk5GdXpnMUc5Q3VPY2g0cEpGSzMxMU5JSTVvRjFmMWozMmZYT3R6a0RPRENzRGQ3VGdtS3dTTmVqc3gyR2F0dnpkWVg5cnFGTjZYM1hzUldyamF6M2pucERLY3N5X2dHcGZVdFlBc29YSVotUFZNMXc1Mmd0YdIBuAFBVV95cUxOaHFlaXludFlKVjMtVVU0RzBjY1BTMUw5bFRMOGNUcmllZXlkd2ZDRnQ2c29lSndJNmxMT0lTU3gzeU01cE9SY0pNazFMTDFzNlo2M0hTZHBPSkhGZXFkT001ME9Ma09TRU5UblBxUFJhZlRxVGdTVXJFbUpKN2Z5ZnZmVk51UE5NZ1kxeXowVkh4WEpwNWNxemhCWXdxa25BYnR2UzRJbzNvQjFUSWR3QmstcGhjX3Rh?oc=5",
+  "published_at": "Fri, 24 Jul 2026 02:52:07 GMT",
+  "published_ts": 1784861527,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hvZHVuUGFRZWdTWnVjbHJtcEt0aWhaTjFaaG1GSjR3WnlONVNxbDVmREV4clVkV1Jsdk5GdXpnMUc5Q3VPY2g0cEpGSzMxMU5JSTVvRjFmMWozMmZYT3R6a0RPRENzRGQ3VGdtS3dTTmVqc3gyR2F0dnpkWVg5cnFGTjZYM1hzUldyamF6M2pucERLY3N5X2dHcGZVdFlBc29YSVotUFZNMXc1Mmd0YdIBuAFBVV95cUxOaHFlaXludFlKVjMtVVU0RzBjY1BTMUw5bFRMOGNUcmllZXlkd2ZDRnQ2c29lSndJNmxMT0lTU3gzeU01cE9SY0pNazFMTDFzNlo2M0hTZHBPSkhGZXFkT001ME9Ma09TRU5UblBxUFJhZlRxVGdTVXJFbUpKN2Z5ZnZmVk51UE5NZ1kxeXowVkh4WEpwNWNxemhCWXdxa25BYnR2UzRJbzNvQjFUSWR3QmstcGhjX3Rh?oc=5\" target=\"_blank\">SK Hynix, Samsung And Kioxia Face Pivotal Earnings Test On AI Swings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix and Samsung facing upcoming earnings reports amid AI demand volatility. Headline signals upcoming earnings tests but contains no concrete results, guidance changes, or market-moving events yet—merely sets up the earnings season. Stock reactions and analyst commentary will follow once earnings are actually reported."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "5ab87c86845ca1672be04144b2c80b758d70e3fd",
+  "source": "CoinGeek",
+  "topic": "industry",
+  "title": "China rivals US as global AI leader title; Chip shortage looms - CoinGeek",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2JtYWZrTjZ1NnZVdXZoZWFrSlpJb0FNZXhKV1hFRTQ5VFh0RVAyTm8wX2VpbEtjaE1xeTdkdEdkV19mcGQzS2lsUFMyR0d2ZWl4TnM1NTVQYkhlMXFfYTUyWlEtZ0FSTlc3aW1ZS2tRVkg3bVN1VnU1b2g4QjYwZjZaYVQxOHFFek1F?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:02:59 GMT",
+  "published_ts": 1784883779,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2JtYWZrTjZ1NnZVdXZoZWFrSlpJb0FNZXhKV1hFRTQ5VFh0RVAyTm8wX2VpbEtjaE1xeTdkdEdkV19mcGQzS2lsUFMyR0d2ZWl4TnM1NTVQYkhlMXFfYTUyWlEtZ0FSTlc3aW1ZS2tRVkg3bVN1VnU1b2g4QjYwZjZaYVQxOHFFek1F?oc=5\" target=\"_blank\">China rivals US as global AI leader title; Chip shortage looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinGeek</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CoinGeek"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Report on China-US AI competition and potential chip shortage. Generic macro commentary on AI leadership race without concrete details on memory-specific demand, pricing, capacity constraints, or holding-company impacts. Qualifies as industry-relevant but lacks hard numbers or confirmed events."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "41e14dd861db53bbd7470809cf8da2f7a6d7b7db",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix seeks US engineers for 3D stacked DRAM push - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXB0eTgzb2tqSi1QVnhOZVJTcU9BaHpLMm94clk4YVdKR1FMTnpJT2Z1bzBQd0dibWNBTk5Pdlp2a0w3OHgzMUpGbFEtUE1rUHB3T2VIOVpCTTFSLXk0UnlKaGcwV3d6d3hPOWl5ZFVhd1B5NXBWYU90VWtsMlJvQnBlWQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 08:43:23 GMT",
+  "published_ts": 1784882603,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXB0eTgzb2tqSi1QVnhOZVJTcU9BaHpLMm94clk4YVdKR1FMTnpJT2Z1bzBQd0dibWNBTk5Pdlp2a0w3OHgzMUpGbFEtUE1rUHB3T2VIOVpCTTFSLXk0UnlKaGcwV3d6d3hPOWl5ZFVhd1B5NXBWYU90VWtsMlJvQnBlWQ?oc=5\" target=\"_blank\">SK Hynix seeks US engineers for 3D stacked DRAM push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix is recruiting US engineers to support its 3D stacked DRAM development. This signals a concrete capacity/technology push from a major DRAM holding, but the news is about hiring intent rather than a completed deal or production milestone, so it reads as strategic movement rather than an immediate market event."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "aed323dd5bd58ad36599e8ebbf65500df4305bbd",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Some Investors Believe SK Hynix Could Be the Next Big AI Stock. History Says It's Not Time to Buy Shares Just Yet. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0ZkbVVjb1NJaktOemZraGV0Z0hka2F0OG1XZXBEOEJJUFFGYWRUaFVaX1dUMzBFVWlsV0lZbFBnd2MxRFlDTDRnUmNJNjlidWQ2NzhEbVJnajZ6X244YmVGZUhmNlNMMmMxeF81ZHJ0SG83TlZPZEh1UTlGZkR4RlVVaktmUF9RQ2JabkNNWUlIYXRpM1E?oc=5",
+  "published_at": "Fri, 24 Jul 2026 09:02:29 GMT",
+  "published_ts": 1784883749,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0ZkbVVjb1NJaktOemZraGV0Z0hka2F0OG1XZXBEOEJJUFFGYWRUaFVaX1dUMzBFVWlsV0lZbFBnd2MxRFlDTDRnUmNJNjlidWQ2NzhEbVJnajZ6X244YmVGZUhmNlNMMmMxeF81ZHJ0SG83TlZPZEh1UTlGZkR4RlVVaktmUF9RQ2JabkNNWUlIYXRpM1E?oc=5\" target=\"_blank\">Some Investors Believe SK Hynix Could Be the Next Big AI Stock. History Says It's Not Time to Buy Shares Just Yet.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "The Motley Fool",
+    "Yahoo Finance"
+   ],
+   "titles": [
+    "Some Investors Believe SK Hynix Could Be the Next Big AI Stock. History Says It's Not Time to Buy Shares Just Yet. - Yahoo Finance"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Opinion piece from Motley Fool discussing SK Hynix as a potential AI stock play, but cautioning against buying shares at this time. This is analyst commentary and speculation about timing, not a concrete development or material event affecting the holding."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "9c9185f988ea8c6d5d5614ae70080939f09149dd",
+  "source": "Chosunbiz",
+  "topic": "holding",
+  "title": "Korea investors shift to Samsung, SK hynix as semiconductor ETFs plunge - CHOSUNBIZ - Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS19ib1BZMVotZzFlRThqRjFIbGxxejBqSHdqWGwwQ1h1SXJfdlNfa3NjT0RoYzZ2czh5X3dVSHVJLW8yc0FPSnhvTTRFVXB0Y0VRUE5BT2ktQkpQZWdILUNueFZTOG9HODRTUGFQQTM0R3dkdURYX2JXUHJQR3h6c9IBlAFBVV95cUxPc2I0VmY3RnptQ1pDVU1Vc2RhTmMxVy1SMDFCWjBYaGp6bDBSOTRqM3N1R2luX1VMbkVjeXh2WFN2a2F5OUFmSWNrdDhQUHJzb05TZUhqSVJrWVVYdmk0QmlUYmFGbnB2TFBkeXlvak5CQlFBVno3OWhscDNFVUoxeDVSNUxORzNjNkMwQ3VMZS11NUwz?oc=5",
+  "published_at": "Fri, 24 Jul 2026 07:22:00 GMT",
+  "published_ts": 1784877720,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQS19ib1BZMVotZzFlRThqRjFIbGxxejBqSHdqWGwwQ1h1SXJfdlNfa3NjT0RoYzZ2czh5X3dVSHVJLW8yc0FPSnhvTTRFVXB0Y0VRUE5BT2ktQkpQZWdILUNueFZTOG9HODRTUGFQQTM0R3dkdURYX2JXUHJQR3h6c9IBlAFBVV95cUxPc2I0VmY3RnptQ1pDVU1Vc2RhTmMxVy1SMDFCWjBYaGp6bDBSOTRqM3N1R2luX1VMbkVjeXh2WFN2a2F5OUFmSWNrdDhQUHJzb05TZUhqSVJrWVVYdmk0QmlUYmFGbnB2TFBkeXlvak5CQlFBVno3OWhscDNFVUoxeDVSNUxORzNjNkMwQ3VMZS11NUwz?oc=5\" target=\"_blank\">Korea investors shift to Samsung, SK hynix as semiconductor ETFs plunge - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Korean investors are rotating into Samsung and SK hynix as semiconductor ETFs decline. This is a passing mention of fund flows and investor preference rather than a concrete development affecting the holdings' fundamentals or the memory cycle itself."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "c1bc96dffb18cfd6ce351f79258cd9b2698d4395",
+  "source": "TheStreet Pro",
+  "topic": "holding",
+  "title": "SK Hynix’s 32% Mystery: Why the Shares Trade at a Huge U.S. Premium - TheStreet Pro",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0J1OUtoOERlVGZGSURYeTdGWGNuNEp1Y1VNMzVZX3VWb1BqOUgyU2lEUG5IaE9LbERVdTVfYWt1WXMwb0pkTnM0S3F1RG9iQkJZdHBLeE55QmNWSWx3cWVfTEwtQUJLVlBnQWR3WHFFSUtaMHIwY3dha3lyRzlaU2hoNzB0eFRJMmhaeGtxcVJzdUJQUVZ2aV9EQQ?oc=5",
+  "published_at": "Thu, 23 Jul 2026 18:15:00 GMT",
+  "published_ts": 1784830500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxON0J1OUtoOERlVGZGSURYeTdGWGNuNEp1Y1VNMzVZX3VWb1BqOUgyU2lEUG5IaE9LbERVdTVfYWt1WXMwb0pkTnM0S3F1RG9iQkJZdHBLeE55QmNWSWx3cWVfTEwtQUJLVlBnQWR3WHFFSUtaMHIwY3dha3lyRzlaU2hoNzB0eFRJMmhaeGtxcVJzdUJQUVZ2aV9EQQ?oc=5\" target=\"_blank\">SK Hynix’s 32% Mystery: Why the Shares Trade at a Huge U.S. Premium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet Pro</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TheStreet Pro"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Analysis of SK Hynix's U.S.-traded shares trading at a 32% premium compared to home-market valuation. This is a valuation observation rather than a concrete event affecting the company's operations, memory cycle, or fundamentals."
+  },
+  "buffered_ts": 1784886217.9197922
+ },
+ {
+  "id": "f6eda4bd8a2289ab8fb47afe27a5c665007bee38",
+  "source": "KED Global",
+  "topic": "holding",
+  "title": "Korean firms shun long‑term bonds; SK Hynix lifts short‑term demand - KED Global",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZGpYRTVIR1lLbGVHQjE1YzluT01NWDhGb3lTbVlUOUlCZVFQaVlWQzFmX3UxdmRaWXR0LU10TmhDVW5iRWFicno1X3IxVG84NWVQN0p1N1BtNUFGQjNtbmRwUk9nODVJOVNXS1dQOUJEazQ?oc=5",
+  "published_at": "Fri, 24 Jul 2026 08:35:00 GMT",
+  "published_ts": 1784882100,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZGpYRTVIR1lLbGVHQjE1YzluT01NWDhGb3lTbVlUOUlCZVFQaVlWQzFmX3UxdmRaWXR0LU10TmhDVW5iRWFicno1X3IxVG84NWVQN0p1N1BtNUFGQjNtbmRwUk9nODVJOVNXS1dQOUJEazQ?oc=5\" target=\"_blank\">Korean firms shun long‑term bonds; SK Hynix lifts short‑term demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KED Global"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix is shifting toward short-term bond financing while Korean firms broadly reduce long-term debt issuance. This reflects a corporate treasury/financing decision but lacks material operational, supply-chain, or margin impact on the memory business or fund holdings. Minor mention of a holding's financial posture."
+  },
+  "buffered_ts": 1784886217.9197922
  }
 ]
