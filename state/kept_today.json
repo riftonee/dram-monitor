@@ -2411,5 +2411,251 @@
    "summary": "Commentary on Micron stock performance and general outlook driven by memory cycle and AI demand trends. No new concrete development or hard number disclosed."
   },
   "buffered_ts": 1784960076.5549421
+ },
+ {
+  "id": "9f9f46666b22b0cc55164a8064b813a2625f0540",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Anthropic Takes Key Step in Custom Chip Development, Submits Supply Request to SK Hynix - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQTNqUnU4ZVNpYllyM05rcDdzTHVIY3RQemNIbHA2Qk54TmZSelVNZkEzdGJYaEFhNDdZSVNwY2NVdEszQWQ0WmxJaEdGV2xxOG5CY3hqaWwxdTBmQXFhSWFiN1k2Wk0tYnVKOHU2U2NtUm50cGc?oc=5",
+  "published_at": "Sat, 25 Jul 2026 05:35:00 GMT",
+  "published_ts": 1784957700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQTNqUnU4ZVNpYllyM05rcDdzTHVIY3RQemNIbHA2Qk54TmZSelVNZkEzdGJYaEFhNDdZSVNwY2NVdEszQWQ0WmxJaEdGV2xxOG5CY3hqaWwxdTBmQXFhSWFiN1k2Wk0tYnVKOHU2U2NtUm50cGc?oc=5\" target=\"_blank\">Anthropic Takes Key Step in Custom Chip Development, Submits Supply Request to SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Anthropic has submitted a supply request to SK hynix for memory chips as part of its custom chip development program. This represents a concrete, material development signaling confirmed demand from a major AI company for SK hynix memory products, indicating actual memory capacity being allocated and contracted rather than speculative discussion."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "e3a18e256d74712bd68597d9f9ee0e9a112ca583",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, Broadcom Forge $200 Billion AI Alliance with One-Stop Memory and Foundry Deal - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MVWdDY2ZRVFY2Z1NSR1J0RFc2MHA5MHhiRWx4UU1xVEtxbC1wYllDa3VscF9LNVNZWmhCYVdhcEZxSVR4VXlTdlRCdloxczd3UW1UZnQtc0NvM2R0NjFDNng2SHhocGFrTzd6Ujd1NFdaTTVPVVE?oc=5",
+  "published_at": "Sat, 25 Jul 2026 06:55:00 GMT",
+  "published_ts": 1784962500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MVWdDY2ZRVFY2Z1NSR1J0RFc2MHA5MHhiRWx4UU1xVEtxbC1wYllDa3VscF9LNVNZWmhCYVdhcEZxSVR4VXlTdlRCdloxczd3UW1UZnQtc0NvM2R0NjFDNng2SHhocGFrTzd6Ujd1NFdaTTVPVVE?oc=5\" target=\"_blank\">Samsung, Broadcom Forge $200 Billion AI Alliance with One-Stop Memory and Foundry Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and Broadcom announced a $200 billion AI alliance combining memory (DRAM/HBM) and foundry services, a concrete strategic partnership that directly addresses AI infrastructure demand and locks in major memory demand for Samsung, a key DRAM holding."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "f66a7dad08dc7e6c1a3c5388c1e6b15f15108efc",
+  "source": "ETEnterpriseai.com",
+  "topic": "holding",
+  "title": "AMD Helios AI server rack enters production with Samsung HBM4 memory supply - ETEnterpriseai.com",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLUVLMnhvNjRPcEhxS3pHbjFVODdoR2FnaFNSX29jSEgyWE4wTzBLMS15WnNUN3RZSlBoV08wWkxOeF95cGZ6dklYTTctSTZCeDNNdFZZbXc3NThQUzdGVlZRYUFXUmFTR0hCam94ZVpyUFF3dk9oQ3U2V3NMQjFYQkVOZ3gtZFQ4eHBZNjBOMFdkRlo1WkNzbHYzeThCOUdKNHdVR2ZWUDdtNkpHNXpnXzFfUW96aU5hWEtJd0N1NklaZ2FrT2JKVUVocS1rNndvYXFhLThhd1J1dTliZTFn0gHkAUFVX3lxTE9kd1M0RldMcXRza2c0d3UxdWNhRWVmRmhjZ3JiZ2MyZVFkcEFUVEVkR01LYnJjWXFLeWlnbUlvaTkyMTA2UEctemZSQ2ZHblZ5NEJ6Q2RIVVpSQk9lVFpwelNvQjZDRlltdWg4eUhDMkdRSzBRbjR3ZkREUXlGSnh3S3dVTkh6SF9HdWtGUl9ldTVNOUs0Z2VmS29VNUM4dFBEVzFkYVBtT0pnNlB3SEhHMHJQU2dRUnB0ZjVhaXpEM09IN096cHl3RzFob1FWYW9POHV3LTJLTmxEX0NpNURVSDFkWA?oc=5",
+  "published_at": "Sat, 25 Jul 2026 02:49:26 GMT",
+  "published_ts": 1784947766,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLUVLMnhvNjRPcEhxS3pHbjFVODdoR2FnaFNSX29jSEgyWE4wTzBLMS15WnNUN3RZSlBoV08wWkxOeF95cGZ6dklYTTctSTZCeDNNdFZZbXc3NThQUzdGVlZRYUFXUmFTR0hCam94ZVpyUFF3dk9oQ3U2V3NMQjFYQkVOZ3gtZFQ4eHBZNjBOMFdkRlo1WkNzbHYzeThCOUdKNHdVR2ZWUDdtNkpHNXpnXzFfUW96aU5hWEtJd0N1NklaZ2FrT2JKVUVocS1rNndvYXFhLThhd1J1dTliZTFn0gHkAUFVX3lxTE9kd1M0RldMcXRza2c0d3UxdWNhRWVmRmhjZ3JiZ2MyZVFkcEFUVEVkR01LYnJjWXFLeWlnbUlvaTkyMTA2UEctemZSQ2ZHblZ5NEJ6Q2RIVVpSQk9lVFpwelNvQjZDRlltdWg4eUhDMkdRSzBRbjR3ZkREUXlGSnh3S3dVTkh6SF9HdWtGUl9ldTVNOUs0Z2VmS29VNUM4dFBEVzFkYVBtT0pnNlB3SEhHMHJQU2dRUnB0ZjVhaXpEM09IN096cHl3RzFob1FWYW9POHV3LTJLTmxEX0NpNURVSDFkWA?oc=5\" target=\"_blank\">AMD Helios AI server rack enters production with Samsung HBM4 memory supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETEnterpriseai.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ETEnterpriseai.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "AMD Helios AI server rack enters production with Samsung HBM4 memory supply. This is a confirmed, concrete development: a major AI infrastructure product moving into production with a named memory supplier (Samsung, a fund holding). HBM4 demand for AI servers directly drives memory demand and is material to the fund's holdings."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "9ab4f81b46d5cc5bb5dca40c94361999af10b48c",
+  "source": "theweek.in",
+  "topic": "holding",
+  "title": "Samsung, Broadcom ink $200‑billion AI chip pact while world faces memory crunch - theweek.in",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWI5Wl96dW5sZnBrVHcwaDUyRDRleHhGSTc4Z0x4T185MmdYUjVKWVlESzV3QnlBRWdTYkZBM0tFdFBRdGs5RUJSdG44MmQxeEt6M1c2Zm9EdUlvT09OeWdhVHdlUzlQaXd0Z1U3eTFIZUV4SHFCZlVNRzBMc2p6azZuZEJkUzVvazltTdIBkgFBVV95cUxQcXdEaVcybEJRRVU3Y3pQWnhOc2YyZG9HVnNOcE1FbFVXaUVUYlZTRkJPS2x2MFd6THRFcVhiNEwzOU5zM184bkhqRGE5MDJlNjNtdndidVQzU18zdmlOSllZdDBUWnc3YURTQUgwT3hkczFia1BhTFd5bHB1YklINGxVRnRUamhaQTIxdkMwbGhfZw?oc=5",
+  "published_at": "Sat, 25 Jul 2026 06:22:30 GMT",
+  "published_ts": 1784960550,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWI5Wl96dW5sZnBrVHcwaDUyRDRleHhGSTc4Z0x4T185MmdYUjVKWVlESzV3QnlBRWdTYkZBM0tFdFBRdGs5RUJSdG44MmQxeEt6M1c2Zm9EdUlvT09OeWdhVHdlUzlQaXd0Z1U3eTFIZUV4SHFCZlVNRzBMc2p6azZuZEJkUzVvazltTdIBkgFBVV95cUxQcXdEaVcybEJRRVU3Y3pQWnhOc2YyZG9HVnNOcE1FbFVXaUVUYlZTRkJPS2x2MFd6THRFcVhiNEwzOU5zM184bkhqRGE5MDJlNjNtdndidVQzU18zdmlOSllZdDBUWnc3YURTQUgwT3hkczFia1BhTFd5bHB1YklINGxVRnRUamhaQTIxdkMwbGhfZw?oc=5\" target=\"_blank\">Samsung, Broadcom ink $200‑billion AI chip pact while world faces memory crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "theweek.in",
+    "bloomingbit"
+   ],
+   "titles": [
+    "Samsung, Broadcom Sign $200 Billion AI Chip and Memory Pact Through 2030 - bloomingbit"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and Broadcom have signed a $200 billion AI chip pact amid global memory shortage. This is a concrete, officially announced deal involving a major holding (Samsung) that signals substantial AI infrastructure demand pulling memory capacity, directly relevant to DRAM cycle and fund holdings."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "3ccefb30cf97805d2aea760825940db42c852c44",
+  "source": "Investing.com Canada",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix unveil $950 billion US chip supply partnerships - Investing.com Canada",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0RZMHo4NUNoT1d2N0loVEpLb0pHZzh0SGJzdE0zb2dRczYtR0J5THVrZUY4NTdIMFU4N2RjWjJ3WFNwVEVmc3c0eG5IMWdUQlBTX0ZGczZiS2s0ZFhwcHRQQ3QwVF80VTBZVWlGNGJkZ0F4WHNjZkc3RXJsV1FKcm9hZ0YwSUJYWWRaRGdrU3pQRWFyTkVENGxqdTllcENsdVNrajFtb1hxckxNcldfdUxwcDg3N1p3MW9tcmY2TDY?oc=5",
+  "published_at": "Sat, 25 Jul 2026 07:36:50 GMT",
+  "published_ts": 1784965010,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0RZMHo4NUNoT1d2N0loVEpLb0pHZzh0SGJzdE0zb2dRczYtR0J5THVrZUY4NTdIMFU4N2RjWjJ3WFNwVEVmc3c0eG5IMWdUQlBTX0ZGczZiS2s0ZFhwcHRQQ3QwVF80VTBZVWlGNGJkZ0F4WHNjZkc3RXJsV1FKcm9hZ0YwSUJYWWRaRGdrU3pQRWFyTkVENGxqdTllcENsdVNrajFtb1hxckxNcldfdUxwcDg3N1p3MW9tcmY2TDY?oc=5\" target=\"_blank\">Samsung and SK Hynix unveil $950 billion US chip supply partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Investing.com Canada",
+    "Investing.com"
+   ],
+   "titles": [
+    "Samsung and SK Hynix unveil $950 billion US chip supply partnerships - Investing.com"
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix announced $950 billion in US chip supply partnerships, a concrete, officially unveiled initiative that materially affects two major DRAM holdings and reflects substantive capacity/investment decisions in memory semiconductor infrastructure."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "22a18b4697105103d158d007d2eb7de65354b226",
+  "source": "AOL.com",
+  "topic": "holding",
+  "title": "Samsung Elec, SK Group seal $950 billion deals as South Korea hosts AI powers - AOL.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNS1aZlE3bG9YTEwwcmVucHZYUDZqWkl6bFViWDFfRU05RXV6V1NoQTZQOXA4Y2Z5MHhuRnRwNnZVWkRDbERpZEZFNC1HTkFHT01rZlNxb2hOQ3FkNGxuM21HVzYtWl80TE1ncGxVS0oyY3BvS05xVGhn?oc=5",
+  "published_at": "Sat, 25 Jul 2026 07:41:00 GMT",
+  "published_ts": 1784965260,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNS1aZlE3bG9YTEwwcmVucHZYUDZqWkl6bFViWDFfRU05RXV6V1NoQTZQOXA4Y2Z5MHhuRnRwNnZVWkRDbERpZEZFNC1HTkFHT01rZlNxb2hOQ3FkNGxuM21HVzYtWl80TE1ncGxVS0oyY3BvS05xVGhn?oc=5\" target=\"_blank\">Samsung Elec, SK Group seal $950 billion deals as South Korea hosts AI powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AOL.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Group have announced $950 billion in deals, likely related to AI infrastructure investment and semiconductor capacity expansion. This represents a concrete, official commitment by two major fund holdings (Samsung and SK hynix under SK Group) to capital investment that directly impacts memory semiconductor supply and demand dynamics for AI infrastructure."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "4fdc668facf6cbcb57c67c2cfdcc8d1110311606",
+  "source": "The Tech Buzz",
+  "topic": "holding",
+  "title": "Samsung and Broadcom Ink $200B AI Chip Deal Through 2030 - The Tech Buzz",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FKb0xlbG55cGtDejg5UHVKUmRLbU9xc0FWYk80YXBaWjVoaVNTMlUxMHZVdUg4Tm1xcVFpRGNQSlFZOWRvUG9LWjdrcHl0T3dxeW53b0FGSTVqZTk5dFVnak9ZQi1taHkzUGM3ZHBMWElYeURIaDE3bG03UWozdGlHZzhjMU9xaXVtbzE0Q2RMUQ?oc=5",
+  "published_at": "Sat, 25 Jul 2026 08:08:00 GMT",
+  "published_ts": 1784966880,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FKb0xlbG55cGtDejg5UHVKUmRLbU9xc0FWYk80YXBaWjVoaVNTMlUxMHZVdUg4Tm1xcVFpRGNQSlFZOWRvUG9LWjdrcHl0T3dxeW53b0FGSTVqZTk5dFVnak9ZQi1taHkzUGM3ZHBMWElYeURIaDE3bG03UWozdGlHZzhjMU9xaXVtbzE0Q2RMUQ?oc=5\" target=\"_blank\">Samsung and Broadcom Ink $200B AI Chip Deal Through 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Tech Buzz"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and Broadcom have signed a $200B AI chip deal extending through 2030. This is a concrete, officially announced partnership that signals material demand commitment for Samsung's memory and semiconductor capacity serving AI infrastructure, directly supporting a key holding in the DRAM ETF."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "f38ec163e14ad223a9a6d34f66909bed2a93a29f",
+  "source": "The News International",
+  "topic": "industry",
+  "title": "Micron presses Trump to block Apple's China chip plan - The News International",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmxrSktuT1Y5VWcwN0JPM0xlSkJoMkxQalF2QXF5MHlsRzd1dlNEanpHTjlNdW1PdGdNdldOWWY5SGVZd2QyaVk4RDBPUFNERjRHNno2QTFDQmxDcFJHVE9KS282TXhYTlVRa2lVa1JudTExSzlJN3pPRVRPUkRwTENpWnZSX2FQSjFXc2RmNWNybU5LRnp4S1ln?oc=5",
+  "published_at": "Sat, 25 Jul 2026 07:02:02 GMT",
+  "published_ts": 1784962922,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmxrSktuT1Y5VWcwN0JPM0xlSkJoMkxQalF2QXF5MHlsRzd1dlNEanpHTjlNdW1PdGdNdldOWWY5SGVZd2QyaVk4RDBPUFNERjRHNno2QTFDQmxDcFJHVE9KS282TXhYTlVRa2lVa1JudTExSzlJN3pPRVRPUkRwTENpWnZSX2FQSjFXc2RmNWNybU5LRnp4S1ln?oc=5\" target=\"_blank\">Micron presses Trump to block Apple's China chip plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News International</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The News International"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Micron is lobbying Trump administration to block Apple's plan to develop chips in China. This is relevant to DRAM holdings as it concerns Micron's competitive positioning and potential trade/geopolitical actions, but is currently framed as lobbying activity and discussion rather than a confirmed policy decision or concrete market-moving event."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "578805a295039c9269877dfbdc7a440287a64ad1",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "3 AI Hardware Stocks Riding The Nvidia And SK Hynix Buildout - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGpWbV94WXdKb2FtaVlEQjNBS1ZlWC1GbVo0MlNTd1NVSDc0NWFWVFFhREh5TGZYUU95TDFFUm1yY2Ntb3NzVjdkTG5FS2FiMFBMeEdWNENsMVlIRFR4QjVGVHhZbGR0TV9peExuYVp0VFg4V2pqSktQWU9zcW5FLWJsQUVlZ0kyc21tWVNoRDNjRzNGaUdHaGtzNWxKV0w0WUY5R0t2NS1iTmpBZDd0NWljZzhGOG9QLWhYLXNSZjdZSnkxNHlHTXhhZWFMRWIzTnBmeTJBNzA1cDZoa19RRnBtQdIB6AFBVV95cUxQUGhGdEJTV3g4aVZpR3A2YUFZTm9VZEVOUkxTaTFXYnp4a2ZtbUlMNWhVamNLSkRva0Y1eXcycnhKRGtVS2djeWNvcy1uS3luWURsbmZuRG1NbUVZTkVvYlBfQWNPREROSXBaU0Rjd0RsczFIdFZMR1lQXzZySDVFSnNFX25tSGRtZmJaZW82SzRxNjdaY1hzMEx5NGJVVk53WEZQMGJGa0dCVVBwMk12Y1IwckhwN1Y1alZ5cnlLOW9sSm91TjJnSHdiSTRucTljNDl0SFFxdHdOTHkwV1M3QmI4S1BKdUM4?oc=5",
+  "published_at": "Sat, 25 Jul 2026 07:32:52 GMT",
+  "published_ts": 1784964772,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGpWbV94WXdKb2FtaVlEQjNBS1ZlWC1GbVo0MlNTd1NVSDc0NWFWVFFhREh5TGZYUU95TDFFUm1yY2Ntb3NzVjdkTG5FS2FiMFBMeEdWNENsMVlIRFR4QjVGVHhZbGR0TV9peExuYVp0VFg4V2pqSktQWU9zcW5FLWJsQUVlZ0kyc21tWVNoRDNjRzNGaUdHaGtzNWxKV0w0WUY5R0t2NS1iTmpBZDd0NWljZzhGOG9QLWhYLXNSZjdZSnkxNHlHTXhhZWFMRWIzTnBmeTJBNzA1cDZoa19RRnBtQdIB6AFBVV95cUxQUGhGdEJTV3g4aVZpR3A2YUFZTm9VZEVOUkxTaTFXYnp4a2ZtbUlMNWhVamNLSkRva0Y1eXcycnhKRGtVS2djeWNvcy1uS3luWURsbmZuRG1NbUVZTkVvYlBfQWNPREROSXBaU0Rjd0RsczFIdFZMR1lQXzZySDVFSnNFX25tSGRtZmJaZW82SzRxNjdaY1hzMEx5NGJVVk53WEZQMGJGa0dCVVBwMk12Y1IwckhwN1Y1alZ5cnlLOW9sSm91TjJnSHdiSTRucTljNDl0SFFxdHdOTHkwV1M3QmI4S1BKdUM4?oc=5\" target=\"_blank\">3 AI Hardware Stocks Riding The Nvidia And SK Hynix Buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "Opinion/analysis piece identifying AI hardware stocks benefiting from Nvidia and SK hynix buildout. No concrete events or new information disclosed; this is editorial commentary on sector trends rather than a material development."
+  },
+  "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "0e54128a7624a6ace45e8db92ac5f2786f5e3abf",
+  "source": "조선일보",
+  "topic": "holding",
+  "title": "Samsung's Lee Jae-yong meets OpenAI CEO on AI infrastructure - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1CV3gwSGZVeUJXc0RMbG9rUk1GYTROMkRDVXVxUXRHSFpwQWx3d1MwdjZKTjNzdGt6dWtTbG1SSFI3MzNBRTYybTJsZi1kaGZOXzRpNjg4c1hnUnZVQ1Vfb0oyT1JKTnowUWhJQjJGWEM0MHNlcHk4Tkd0SVdkNzBJVUxESU5r?oc=5",
+  "published_at": "Sat, 25 Jul 2026 06:48:00 GMT",
+  "published_ts": 1784962080,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1CV3gwSGZVeUJXc0RMbG9rUk1GYTROMkRDVXVxUXRHSFpwQWx3d1MwdjZKTjNzdGt6dWtTbG1SSFI3MzNBRTYybTJsZi1kaGZOXzRpNjg4c1hnUnZVQ1Vfb0oyT1JKTnowUWhJQjJGWEM0MHNlcHk4Tkd0SVdkNzBJVUxESU5r?oc=5\" target=\"_blank\">Samsung's Lee Jae-yong meets OpenAI CEO on AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "조선일보"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung's vice chairman Lee Jae-yong met with OpenAI CEO to discuss AI infrastructure. This indicates Samsung is exploring opportunities in AI infrastructure and memory demand, but the meeting itself is exploratory discussion rather than a confirmed deal or concrete development. Samsung's memory business is relevant to DRAM ETF holdings, but this is positioning/relationship-building rather than a settled event."
+  },
+  "buffered_ts": 1784968183.6070516
  }
 ]
