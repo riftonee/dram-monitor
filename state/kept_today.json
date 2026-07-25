@@ -409,5 +409,29 @@
    "summary": "Yahoo Finance opinion piece ahead of Seagate's July 28 earnings; provides analytical reasons to consider the stock but contains no new concrete information, pricing data, or confirmed developments. Pre-earnings analysis is minor until the actual earnings event occurs."
   },
   "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "3dc6603bf12c1e9ecb9d7c94ad570da37f7f2761",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Dear Seagate Technology Stock Fans, Mark Your Calendars for July 28 - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBPS2lRekNpUGlJdkl0Wk4tQmtGbVc5ZDgtemxMZG5tUVZnN3k1OXJiYmF0cG9ESHFkcm4xU1FxZF95WmJvejNGMG1DSHVObVhsVGxNZHZUaC1PQUpzWkgwQ0I2bFVRZkxqR0pUNWhuc01aN3RadEFvUFU0VGs4anhjbmVXcWh5MkxWaE9mY3RfTkdtYThvLW54dEY1bF9C?oc=5",
+  "published_at": "Sat, 25 Jul 2026 13:00:02 GMT",
+  "published_ts": 1784984402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBPS2lRekNpUGlJdkl0Wk4tQmtGbVc5ZDgtemxMZG5tUVZnN3k1OXJiYmF0cG9ESHFkcm4xU1FxZF95WmJvejNGMG1DSHVObVhsVGxNZHZUaC1PQUpzWkgwQ0I2bFVRZkxqR0pUNWhuc01aN3RadEFvUFU0VGs4anhjbmVXcWh5MkxWaE9mY3RfTkdtYThvLW54dEY1bF9C?oc=5\" target=\"_blank\">Dear Seagate Technology Stock Fans, Mark Your Calendars for July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Seagate Technology earnings date announcement for July 28. Calendar reminder with no new information about business, memory demand, or market conditions."
+  },
+  "buffered_ts": 1785008669.617423
  }
 ]
