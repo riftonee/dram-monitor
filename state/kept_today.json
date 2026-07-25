@@ -238,5 +238,176 @@
    "summary": "Seeking Alpha analyst opinion piece on SK Hynix investment thesis. A core holding of DRAM but the piece is analysis and commentary rather than reporting a concrete event, earnings release, or market-moving development."
   },
   "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "c7137e0699e4840d3687630e7bad46a9314a4334",
+  "source": "TechStock²",
+  "topic": "holding",
+  "title": "SK Hynix (KRX:000660) shares trade at a 28% ADR premium following $750 billion supply initiative - TechStock²",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVlOLV82bnZiNFNzazFoSmVhOXpqa2NpUThlOWVudkdrMnJfcHlpNnlwYmE0NDdhVF9ObDNLbFAwNi1qUEcyTDl5VnBtaGQzMmtmalMyT216cDJOTlFyZzJYdTBwOXdmRzc2TDZiRzdyeHlkT0l5Vklrbk1tTWYwa2l5dkdqTEhUQ2NLdTBkOHpiblJsckNmSExVQS1tRnViLUl6N0dfeVUyNnRWRmZURkVB?oc=5",
+  "published_at": "Sat, 25 Jul 2026 15:54:58 GMT",
+  "published_ts": 1784994898,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVlOLV82bnZiNFNzazFoSmVhOXpqa2NpUThlOWVudkdrMnJfcHlpNnlwYmE0NDdhVF9ObDNLbFAwNi1qUEcyTDl5VnBtaGQzMmtmalMyT216cDJOTlFyZzJYdTBwOXdmRzc2TDZiRzdyeHlkT0l5Vklrbk1tTWYwa2l5dkdqTEhUQ2NLdTBkOHpiblJsckNmSExVQS1tRnViLUl6N0dfeVUyNnRWRmZURkVB?oc=5\" target=\"_blank\">SK Hynix (KRX:000660) shares trade at a 28% ADR premium following $750 billion supply initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "TechStock²"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix shares trading at a 28% ADR premium following announcement of a $750 billion supply initiative. This represents a concrete corporate action by a major DRAM ETF holding with an identifiable market impact (ADR premium widening), indicating a significant supply/investment commitment that could affect production capacity and competitive positioning in memory semiconductors."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "dae0dd616c9681463f0fe92bc117e185e7c96344",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:25:36 GMT",
+  "published_ts": 1784989536,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5\" target=\"_blank\">Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Reuters"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung secures a $200 billion foundry partnership with Broadcom for AI chips, representing a concrete, material deal win that strengthens Samsung's semiconductor business and validates demand for advanced chip manufacturing capacity tied to AI infrastructure buildout."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "ce6e665f6152acd6b49842be13975a365ae3fe13",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong. - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWM4WlJza0gyWGhWcmhMMTNfdmVnelo5VjhPZGVQQjFVSlMtYUQwWWhkRDdQRGNHZEpGZ24xT1R2UnhvLTNLM1FZNVc2XzRkV2lWR2RfVkRpc25mUEtpMGdyS21zVlBlTThJc2VMUWN4ZUFrN0l0WjdCYUZzMUdRd0g1QnN2NlhPWlJMdkd0cDd5ZmlpdjNUY3NB?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:37:00 GMT",
+  "published_ts": 1784990220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWM4WlJza0gyWGhWcmhMMTNfdmVnelo5VjhPZGVQQjFVSlMtYUQwWWhkRDdQRGNHZEpGZ24xT1R2UnhvLTNLM1FZNVc2XzRkV2lWR2RfVkRpc25mUEtpMGdyS21zVlBlTThJc2VMUWN4ZUFrN0l0WjdCYUZzMUdRd0g1QnN2NlhPWlJMdkd0cDd5ZmlpdjNUY3NB?oc=5\" target=\"_blank\">Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Two Wall Street analysts have set divergent price targets on SanDisk (a DRAM ETF holding) that are $1,430 apart, highlighting disagreement on valuation. This is analyst opinion and price-target setting rather than a concrete event or material development, making it relevant but soft analysis."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "a854564e8274df304a74436f83ff95acb7d8ae05",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix Plunge Sparks Retail Panic; Top Traders See Buying Opportunity - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Zejl4SXpJSml0RXFqOFVoXzRhNE1RU2lVWGMxUWRfcVRsMU55Rk81WEQ0UjUzYmlraF84TzZQQWFYOTdQQWNEUGhUeEFWaUQ1MXo3WjR4T29IMGRkb2NkdEMxREktX092NnA4Rno0MV9nbzNTVXc?oc=5",
+  "published_at": "Sat, 25 Jul 2026 11:55:00 GMT",
+  "published_ts": 1784980500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Zejl4SXpJSml0RXFqOFVoXzRhNE1RU2lVWGMxUWRfcVRsMU55Rk81WEQ0UjUzYmlraF84TzZQQWFYOTdQQWNEUGhUeEFWaUQ1MXo3WjR4T29IMGRkb2NkdEMxREktX092NnA4Rno0MV9nbzNTVXc?oc=5\" target=\"_blank\">Samsung, SK Hynix Plunge Sparks Retail Panic; Top Traders See Buying Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix stocks declined sharply, triggering retail investor concern while professional traders view it as a buying opportunity. The article reports price movement and sentiment but does not cite a specific catalyst or new event driving the plunge."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "c7319b4a36135db03aaa9273a6911576551557bb",
+  "source": "The Express Tribune",
+  "topic": "holding",
+  "title": "Samsung Elec, SK Group seal $950b deals as South Korea hosts AI powers - The Express Tribune",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2JRTXpEMUdwQjhSbmVlc2lWNjhLa0Q2dEtxSFBNVExIZUU2Ym9kQWpyb1M4NXNhOVZ6dVpzZy1PTWtrNjdWMDR2UHdMTFpUb05LLUNtQ255aVZSODlqYjNGam9pekhEeHVyZGVSZWdJSDBHb0ctTWZCZ2g1NHFKR1NCQWNmOFAtdXdRcXM1Y2ZVa3g4eTFzejhRRVp5dDVSbldmV19BWWjSAbABQVVfeXFMT2Z0SHRmMVVaQkxmU2E5eC14enNNMlRQMGFvbXJpMWRNTHkyOC14UEZHaVRJTjlKc3lGQURNT3ZyN1ptQlo4VW82WDZFRDhGVUZtSnVBdi1HWkk2TDNneVRyVWZlQVpiTnYzXzRPWUxldXhOVGZ5MGRGTzFEcWRRZERhU0owcTVFZzZVQkdoYjF4ZFMzLU9JX29OcWxxUlozQ0k1Q0xmZ2NXZFRjbEY5X1Y?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:55:04 GMT",
+  "published_ts": 1784991304,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2JRTXpEMUdwQjhSbmVlc2lWNjhLa0Q2dEtxSFBNVExIZUU2Ym9kQWpyb1M4NXNhOVZ6dVpzZy1PTWtrNjdWMDR2UHdMTFpUb05LLUNtQ255aVZSODlqYjNGam9pekhEeHVyZGVSZWdJSDBHb0ctTWZCZ2g1NHFKR1NCQWNmOFAtdXdRcXM1Y2ZVa3g4eTFzejhRRVp5dDVSbldmV19BWWjSAbABQVVfeXFMT2Z0SHRmMVVaQkxmU2E5eC14enNNMlRQMGFvbXJpMWRNTHkyOC14UEZHaVRJTjlKc3lGQURNT3ZyN1ptQlo4VW82WDZFRDhGVUZtSnVBdi1HWkk2TDNneVRyVWZlQVpiTnYzXzRPWUxldXhOVGZ5MGRGTzFEcWRRZERhU0owcTVFZzZVQkdoYjF4ZFMzLU9JX29OcWxxUlozQ0k1Q0xmZ2NXZFRjbEY5X1Y?oc=5\" target=\"_blank\">Samsung Elec, SK Group seal $950b deals as South Korea hosts AI powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Express Tribune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Group announced approximately $950 billion in deals as South Korea positions itself as an AI hub. While the headline mentions two major DRAM fund holdings (Samsung and SK hynix), the snippet does not provide specific details about memory-semiconductor investments, capacity expansions, or production plans. This appears to be a broad economic/geopolitical story mentioning the companies rather than concrete memory-industry developments."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "2c3d815b6cb5adef31750b177f97046db08e0753",
+  "source": "Men's Journal",
+  "topic": "industry",
+  "title": "AI’s Memory Crunch Is Making Cars More Expensive - Men's Journal",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGtkXzlCZlY2UE9BRm9LVFdQTkpZS25BVE1vYnY2dmdyREJsYldaWWg3UFBDVzdsakRrRUZGUlduWWlhV2czMkRsNmNYUGZ3dzhqTGp6ZkJNcVJBQ3o1SndLbzA3ZDNJMGQ3bzBiLTdsLW1IWXktQ1lsLTRTVkVnOXp1Nmhfd2s?oc=5",
+  "published_at": "Sat, 25 Jul 2026 15:14:00 GMT",
+  "published_ts": 1784992440,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGtkXzlCZlY2UE9BRm9LVFdQTkpZS25BVE1vYnY2dmdyREJsYldaWWg3UFBDVzdsakRrRUZGUlduWWlhV2czMkRsNmNYUGZ3dzhqTGp6ZkJNcVJBQ3o1SndLbzA3ZDNJMGQ3bzBiLTdsLW1IWXktQ1lsLTRTVkVnOXp1Nmhfd2s?oc=5\" target=\"_blank\">AI’s Memory Crunch Is Making Cars More Expensive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Men's Journal</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Men's Journal"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "AI demand is creating a memory supply constraint that is increasing costs for automotive applications. This reflects broader memory-market tightness driven by AI infrastructure capex, relevant to DRAM fund holdings and industry pricing dynamics, but the article appears to be analysis or commentary rather than reporting a concrete new development or hard number."
+  },
+  "buffered_ts": 1784995333.8433666
+ },
+ {
+  "id": "45ba62ae19d2b5e7c04fe15c864548d33a82e9cf",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "3 Reasons Seagate Technology Could Be Worth a Closer Look Ahead of July 28 Earnings - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXM3M0xONXgwZXFZQ2d4V0tLRFR5XzdOQTNpYTVzRGdDMnNQeHN6V1dSV1VKQWpoOUJQMzdCRm5SdUdkTnlCRWo0VllQd2FMNndWVmItclhtaHZJbFRhNTRwXzU2TUloUllqYjhkUHZBbGJoSG1QOGV3bEh3NG1yaGpZejRtUEFZbWRQRFVndm40dXZkb1JIRkxzNVRQVjlD?oc=5",
+  "published_at": "Sat, 25 Jul 2026 15:20:28 GMT",
+  "published_ts": 1784992828,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXM3M0xONXgwZXFZQ2d4V0tLRFR5XzdOQTNpYTVzRGdDMnNQeHN6V1dSV1VKQWpoOUJQMzdCRm5SdUdkTnlCRWo0VllQd2FMNndWVmItclhtaHZJbFRhNTRwXzU2TUloUllqYjhkUHZBbGJoSG1QOGV3bEh3NG1yaGpZejRtUEFZbWRQRFVndm40dXZkb1JIRkxzNVRQVjlD?oc=5\" target=\"_blank\">3 Reasons Seagate Technology Could Be Worth a Closer Look Ahead of July 28 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 2,
+   "sources": [
+    "Yahoo Finance",
+    "24/7 Wall St."
+   ],
+   "titles": [
+    "3 Reasons Seagate Technology Could Be Worth a Closer Look Ahead of July 28 Earnings - 24/7 Wall St."
+   ]
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Yahoo Finance opinion piece ahead of Seagate's July 28 earnings; provides analytical reasons to consider the stock but contains no new concrete information, pricing data, or confirmed developments. Pre-earnings analysis is minor until the actual earnings event occurs."
+  },
+  "buffered_ts": 1784995333.8433666
  }
 ]
