@@ -1678,5 +1678,53 @@
    "summary": "SanDisk (SNDK), a fund holding, fell 11% on July 24 amid broader tech sector weakness. Without a stated company-specific catalyst, this appears to be a general market decline rather than DRAM-specific news; the price move alone, driven by sector-wide factors, merits only a minor notation."
   },
   "buffered_ts": 1784933882.8572469
+ },
+ {
+  "id": "eb861e2547ea53307906d286377a94ea77175b5d",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Samsung, SK Hynix to Unveil Major U.S. Chip Deals as China’s CXMT Flexes Pricing Power - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MWndaMnlYZUlnOWNLcUZLRVBUZFFiaXdyOTBCOUpjdThJTWVNY1JXa014SkZpbVBLNW1sOUNOWkpWd3QxbGtCdGpfYngzekdWSjM4VTNPXzZuOFdkMUFfTkJ1alpoRHA0RWVUX19waVNxSzEzcEE?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:56:00 GMT",
+  "published_ts": 1784919360,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MWndaMnlYZUlnOWNLcUZLRVBUZFFiaXdyOTBCOUpjdThJTWVNY1JXa014SkZpbVBLNW1sOUNOWkpWd3QxbGtCdGpfYngzekdWSjM4VTNPXzZuOFdkMUFfTkJ1alpoRHA0RWVUX19waVNxSzEzcEE?oc=5\" target=\"_blank\">Samsung, SK Hynix to Unveil Major U.S. Chip Deals as China’s CXMT Flexes Pricing Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix are reported to unveil major U.S. chip deals while China's CXMT is flexing pricing power. This involves two key DRAM holdings (Samsung memory division and SK Hynix) and touches on competitive dynamics and potential capacity/investment decisions, but without concrete details on deal terms, timing, or financial impact, it reads as forward-looking discussion rather than a confirmed event."
+  },
+  "buffered_ts": 1784938039.6366277
+ },
+ {
+  "id": "258090ed7b448d3500fe55195527370f83731d17",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "SK Hynix ADR Cap Keeps 51% Premium Arbitrage Alive - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUW5qSmdhQkhPd1RUS3dQNFlqR0hLbHc4aTFWRmdtZzNmUV9oc3dlMzczclFEMWIzOGtkZkVlRjhsOGhWSG1vSFJHdnB1VHJ4TDFxak5XWE9oa0pTdnduYkgwRkhrN3ZGQ2QyMFpFdERmajBOQWw3YW83Q19VM2lZVGtoTkNvUjFuaGRpengyOGI?oc=5",
+  "published_at": "Thu, 23 Jul 2026 20:41:02 GMT",
+  "published_ts": 1784839262,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUW5qSmdhQkhPd1RUS3dQNFlqR0hLbHc4aTFWRmdtZzNmUV9oc3dlMzczclFEMWIzOGtkZkVlRjhsOGhWSG1vSFJHdnB1VHJ4TDFxak5XWE9oa0pTdnduYkgwRkhrN3ZGQ2QyMFpFdERmajBOQWw3YW83Q19VM2lZVGtoTkNvUjFuaGRpengyOGI?oc=5\" target=\"_blank\">SK Hynix ADR Cap Keeps 51% Premium Arbitrage Alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SK Hynix ADR trading at a 51% premium due to ADR cap constraints, creating arbitrage opportunity. Minor capital-structure issue with no direct bearing on memory demand, pricing, or operational performance."
+  },
+  "buffered_ts": 1784938039.6366277
  }
 ]
