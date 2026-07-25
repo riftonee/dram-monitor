@@ -70,5 +70,173 @@
    "summary": "Reminder that Seagate (STX), a DRAM ETF holding, will report earnings or hold an event on July 28. Without details on what the event entails, this is a calendar note with minimal immediate impact — useful for investors to track but not a concrete development."
   },
   "buffered_ts": 1784985408.3234224
+ },
+ {
+  "id": "90e2c9191c72bb7fbacf57ed55a410bcd882e3da",
+  "source": "Startup Fortune",
+  "topic": "holding",
+  "title": "Nvidia and SK Group seal a $500 billion AI factory and memory deal that rewrites South Korea's place in the global chip race - Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2V6LUwxUDFSUTZfWHNlck1TbDF1SnZla0JZVFRsYUV4RGlxVzZYa3MwNWxLaWEwOVQ2N2w1TXNUZ2J0anNxci0zZDZRUVh4NVg1YnBRVm1uRW0tcDVCbXVGeEtnbG0zU2JYakR0VEE0NGo5Z3BZM2hwY1BrMXB5a1RKUmNEOW4yWXJtaG5UVFZlZkRaSzZuUjk0VVA3NkRLZExyWVRzZEs0Uy1KblVtOFJVcGktaVBNNDFXR2FRd0pDLTJGZXd0eGFUWUs5YUlVRUVwYXFPU3hiUVREdG0wRmJMNUI?oc=5",
+  "published_at": "Sat, 25 Jul 2026 09:38:18 GMT",
+  "published_ts": 1784972298,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2V6LUwxUDFSUTZfWHNlck1TbDF1SnZla0JZVFRsYUV4RGlxVzZYa3MwNWxLaWEwOVQ2N2w1TXNUZ2J0anNxci0zZDZRUVh4NVg1YnBRVm1uRW0tcDVCbXVGeEtnbG0zU2JYakR0VEE0NGo5Z3BZM2hwY1BrMXB5a1RKUmNEOW4yWXJtaG5UVFZlZkRaSzZuUjk0VVA3NkRLZExyWVRzZEs0Uy1KblVtOFJVcGktaVBNNDFXR2FRd0pDLTJGZXd0eGFUWUs5YUlVRUVwYXFPU3hiUVREdG0wRmJMNUI?oc=5\" target=\"_blank\">Nvidia and SK Group seal a $500 billion AI factory and memory deal that rewrites South Korea's place in the global chip race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Startup Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Nvidia and SK Group (parent of SK hynix, a DRAM ETF holding) have sealed a $500 billion AI factory and memory deal. This is a concrete, officially announced agreement involving massive capex commitment and memory production capacity tied directly to AI infrastructure demand—a material development for SK hynix's future memory supply and positioning."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "6d4832376e30d8cb26e4c9e15d85dd201689a674",
+  "source": "NDTV Profit",
+  "topic": "holding",
+  "title": "Samsung Secures $200-Billion Broadcom AI Chip Pact Through 2030 In Foundry Boost - NDTV Profit",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmk1b1AxdGh1NmlKSFNSVWVFZ2UyZ3lJNUVHWHhfNVJ4N1lkUUdGX2Vhb1ZrazkxMk1vdnFMTzUtMEdsWGd3QkFTZXI1QXdlbWVkUXZoUDlvM2R0S3I3MFBBejBmZ3BYam5uM2xYSjRiZHUwUFZvc0JpRWZTVjhkMDVlcDB0a0JReWl1d0dNaENzdWxTYVhYb0x1YVRudUwwWmZBR3R1SHhtYkxndnVrTzR2M2RuOXJob1NKWklQYzQ2d9IBygFBVV95cUxQMk5IWUVaSkJRNEUxeEhWVkR3WnlCSkN0clpVdlFCdW00czg3Y185NzBNTkdWX0MweG5XSWVfX3pNZWtNZmk4aVZpRFRxdHFDdDJybXpEdEMtQXZrUjBkT1hqRXJzZjRqNWFMdE45SDdfZUx1bEMzNlVEblQ1Ym0wTmFuRkN1Sk5TYXhMSEdzWTVieGx2dzgxTWN6eGRBNWdoU1ZoLVkxTmo1Qk5qTDQxaGlGTm5lU1l3OHZnTFVRYzZoMWlPUDFGQjR3?oc=5",
+  "published_at": "Sat, 25 Jul 2026 13:16:22 GMT",
+  "published_ts": 1784985382,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmk1b1AxdGh1NmlKSFNSVWVFZ2UyZ3lJNUVHWHhfNVJ4N1lkUUdGX2Vhb1ZrazkxMk1vdnFMTzUtMEdsWGd3QkFTZXI1QXdlbWVkUXZoUDlvM2R0S3I3MFBBejBmZ3BYam5uM2xYSjRiZHUwUFZvc0JpRWZTVjhkMDVlcDB0a0JReWl1d0dNaENzdWxTYVhYb0x1YVRudUwwWmZBR3R1SHhtYkxndnVrTzR2M2RuOXJob1NKWklQYzQ2d9IBygFBVV95cUxQMk5IWUVaSkJRNEUxeEhWVkR3WnlCSkN0clpVdlFCdW00czg3Y185NzBNTkdWX0MweG5XSWVfX3pNZWtNZmk4aVZpRFRxdHFDdDJybXpEdEMtQXZrUjBkT1hqRXJzZjRqNWFMdE45SDdfZUx1bEMzNlVEblQ1Ym0wTmFuRkN1Sk5TYXhMSEdzWTVieGx2dzgxTWN6eGRBNWdoU1ZoLVkxTmo1Qk5qTDQxaGlGTm5lU1l3OHZnTFVRYzZoMWlPUDFGQjR3?oc=5\" target=\"_blank\">Samsung Secures $200-Billion Broadcom AI Chip Pact Through 2030 In Foundry Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "NDTV Profit"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung secures $200 billion Broadcom AI chip foundry contract through 2030, a major concrete deal signaling sustained AI-driven demand for advanced semiconductor capacity that directly impacts Samsung's memory business and foundry growth trajectory."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "8c04b025587274a3b2138e77426f516e571490a7",
+  "source": "digitimes",
+  "topic": "holding",
+  "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM - digitimes",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:11:29 GMT",
+  "published_ts": 1784988689,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5\" target=\"_blank\">SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "digitimes"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "SK Hynix and Nvidia have announced a long-term deal to co-develop next-generation HBM (high-bandwidth memory). This is a concrete, officially announced partnership between a fund holding (SK Hynix) and a major demand driver (Nvidia), securing HBM supply and development collaboration—a material event for the memory cycle and SK Hynix's business prospects."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "d2d1d3b0fd8ec333be94002283ca9a47e5406234",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Wall Street Analysts: Samsung, SK Hynix Overcorrected — Now Is the Time to Buy the Dip; Price Targets Maintained at ₩600,000 and ₩4.2 Million - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54YjVUS21vRnRmYnRWZG42NEVfSi1pdHU1by1KMWE5d3FmUWhjVC1HRzdlWHVId1pHeEVsdndQeGVjQUY0Q0R0c3VwZXVvcDIxMmtTWHdXRUotZDdlMmZ5QXlEeEx3blNBRXR6dHdRa0dwcnJWdlE?oc=5",
+  "published_at": "Sat, 25 Jul 2026 13:55:00 GMT",
+  "published_ts": 1784987700,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE54YjVUS21vRnRmYnRWZG42NEVfSi1pdHU1by1KMWE5d3FmUWhjVC1HRzdlWHVId1pHeEVsdndQeGVjQUY0Q0R0c3VwZXVvcDIxMmtTWHdXRUotZDdlMmZ5QXlEeEx3blNBRXR6dHdRa0dwcnJWdlE?oc=5\" target=\"_blank\">Wall Street Analysts: Samsung, SK Hynix Overcorrected — Now Is the Time to Buy the Dip; Price Targets Maintained at ₩600,000 and ₩4.2 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Wall Street analysts maintain Samsung and SK hynix price targets (₩600,000 and ₩4.2M respectively) while opining that both stocks have overcorrected and represent buying opportunities. Price targets unchanged; this is analyst opinion/commentary rather than a concrete event or new catalyst."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "7be98491c6198427c76ce61602bb727018aba4fc",
+  "source": "The Motley Fool",
+  "topic": "holding",
+  "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong. - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWRoTHhkb3NSZmM3NzhaNnNMRjhoem1TMHJyYkNBUzAtVzVuM29reEo1SHdqNF9vSjNnenFJUzczQzZVUHdFbDhnOUFQTVYxbURpS1dhZ1Ztb2N6Mk9ObXY3YldjVUY0STh2WHhxS0RHWXg5TXFxaS04aThhTjdhcGp5cTZManFTTHJTOXdINjRwcXdHd0h6bg?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:31:56 GMT",
+  "published_ts": 1784989916,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWRoTHhkb3NSZmM3NzhaNnNMRjhoem1TMHJyYkNBUzAtVzVuM29reEo1SHdqNF9vSjNnenFJUzczQzZVUHdFbDhnOUFQTVYxbURpS1dhZ1Ztb2N6Mk9ObXY3YldjVUY0STh2WHhxS0RHWXg5TXFxaS04aThhTjdhcGp5cTZManFTTHJTOXdINjRwcXdHd0h6bg?oc=5\" target=\"_blank\">Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Two Wall Street analysts issued divergent price targets on SanDisk (a DRAM ETF holding), with a $1,430 gap between them. This represents analyst opinion and price-target variation rather than new concrete information about the company's fundamentals or business developments."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "6efae922264246f95a7ca87dc8cb84c41f612ea9",
+  "source": "thestreet.com",
+  "topic": "holding",
+  "title": "Korea’s chipmakers prepare big U.S. deals in Silicon Valley - thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWdRWWRFVHBRSmptTFRrVEdudUowZm1nX3NNQmpaUC1hN283RWs2Nmt2OWNaZUVVNUlPc3dhbmJoZDBoamR3c2tkMFFJS2RDZEN6RmpYb1dHR2YyRHZnR2xDd1JhbDRwLWU0enhBWHFlWUJzRmU0RmtrbHBDbVNsUw?oc=5",
+  "published_at": "Sat, 25 Jul 2026 13:55:40 GMT",
+  "published_ts": 1784987740,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWdRWWRFVHBRSmptTFRrVEdudUowZm1nX3NNQmpaUC1hN283RWs2Nmt2OWNaZUVVNUlPc3dhbmJoZDBoamR3c2tkMFFJS2RDZEN6RmpYb1dHR2YyRHZnR2xDd1JhbDRwLWU0enhBWHFlWUJzRmU0RmtrbHBDbVNsUw?oc=5\" target=\"_blank\">Korea’s chipmakers prepare big U.S. deals in Silicon Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "thestreet.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Korean chipmakers (SK hynix and Samsung) are preparing major U.S. deals in Silicon Valley. This is exploratory/in-preparation language indicating discussions and strategic positioning rather than a confirmed, signed deal or concrete event. Relevant to holdings but soft on impact until deals are officially announced."
+  },
+  "buffered_ts": 1784990787.6553974
+ },
+ {
+  "id": "76a367451e63bed4d8cbc51e4eee745706fb1e2f",
+  "source": "Seeking Alpha",
+  "topic": "holding",
+  "title": "SK Hynix: This Is A Tough Call (NASDAQ:SKHY) - Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VSk1xMERSOVBvMEtoZnFTX245MklUVXBsUS1nZlY2MFZOQWMyMGgtRGUxWFJxVU1qVzYzdWZYbzdQMjM5WVFOU2g3TDVmei1yUk9FelhVQm5wZ2h0bnR1dE5sbFFGUVV4SWpmdXJjT2NLLUloZUUydXV3?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:30:00 GMT",
+  "published_ts": 1784989800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9VSk1xMERSOVBvMEtoZnFTX245MklUVXBsUS1nZlY2MFZOQWMyMGgtRGUxWFJxVU1qVzYzdWZYbzdQMjM5WVFOU2g3TDVmei1yUk9FelhVQm5wZ2h0bnR1dE5sbFFGUVV4SWpmdXJjT2NLLUloZUUydXV3?oc=5\" target=\"_blank\">SK Hynix: This Is A Tough Call (NASDAQ:SKHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Seeking Alpha analyst opinion piece on SK Hynix investment thesis. A core holding of DRAM but the piece is analysis and commentary rather than reporting a concrete event, earnings release, or market-moving development."
+  },
+  "buffered_ts": 1784990787.6553974
  }
 ]
