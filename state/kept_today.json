@@ -1726,5 +1726,221 @@
    "summary": "SK Hynix ADR trading at a 51% premium due to ADR cap constraints, creating arbitrage opportunity. Minor capital-structure issue with no direct bearing on memory demand, pricing, or operational performance."
   },
   "buffered_ts": 1784938039.6366277
+ },
+ {
+  "id": "a3d66539cdf2a71fdc450cb2da3fa4b99fb267af",
+  "source": "Yahoo Finance",
+  "topic": "holding",
+  "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbW0wWGctanJnbmVZdHZtSWJyay0yaUY5bUV4OE1makZnYW95aEQ2RGt0MzFHQnQxZjZ3Q3JZOHFsT1NjNi1xZUdCczhMeEljdGIyUlI1bUp2NGxhMWtIVF83VXR3WDBja3RHQjdmVU9ma2pZWnN3c1d6bnNNMW8tcmltb3BpNkNNcDhqNWE1TWZUMF9f?oc=5",
+  "published_at": "Fri, 24 Jul 2026 23:53:43 GMT",
+  "published_ts": 1784937223,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbW0wWGctanJnbmVZdHZtSWJyay0yaUY5bUV4OE1makZnYW95aEQ2RGt0MzFHQnQxZjZ3Q3JZOHFsT1NjNi1xZUdCczhMeEljdGIyUlI1bUp2NGxhMWtIVF83VXR3WDBja3RHQjdmVU9ma2pZWnN3c1d6bnNNMW8tcmltb3BpNkNNcDhqNWE1TWZUMF9f?oc=5\" target=\"_blank\">Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Nvidia and SK Group (parent of SK hynix, a major DRAM holding) announced a $500+ billion AI data center initiative with an explicit memory partnership component. This is a concrete, officially unveiled deal that directly addresses HBM and memory demand from AI infrastructure capex—a key demand driver for the fund's holdings."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "4ace75a0ce6974d0e1919e851fb8b6c9ff202cf8",
+  "source": "Investing.com Nigeria",
+  "topic": "holding",
+  "title": "Nvidia and SK Group unveil over $500 billion AI infrastructure initiative - Investing.com Nigeria",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNF9lelV4RWNyZ2xtOFN1YWZEaF9sdzlwTU4zbGNYS1g5d1ZWbFFFVEFralRHODVRVmNFS1pMUU56UHRmRml2TDNkLWdTakE2S25hMkllZncwV0ZhN0hEY2R3NlA0amJTWk91N1V6TjJlY3JOTkFra2N5cE9kZUpMZGdvWGxrZUN3VVRsYndYSmtQSEtYbWVxcng4MVUxeVRwUEk2b3JoUi04Uks3SXI4ZElZRmxBeTR6UkVYT0V5UUo?oc=5",
+  "published_at": "Sat, 25 Jul 2026 02:17:44 GMT",
+  "published_ts": 1784945864,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNF9lelV4RWNyZ2xtOFN1YWZEaF9sdzlwTU4zbGNYS1g5d1ZWbFFFVEFralRHODVRVmNFS1pMUU56UHRmRml2TDNkLWdTakE2S25hMkllZncwV0ZhN0hEY2R3NlA0amJTWk91N1V6TjJlY3JOTkFra2N5cE9kZUpMZGdvWGxrZUN3VVRsYndYSmtQSEtYbWVxcng4MVUxeVRwUEk2b3JoUi04Uks3SXI4ZElZRmxBeTR6UkVYT0V5UUo?oc=5\" target=\"_blank\">Nvidia and SK Group unveil over $500 billion AI infrastructure initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Investing.com Nigeria"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "industry",
+   "summary": "Nvidia and SK Group (parent of SK hynix, a DRAM fund holding) announced a $500+ billion AI infrastructure initiative, signaling major capex commitment that will drive memory demand and production capacity decisions for a key holding."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "627bbf78d63b4c01073c832f950e8b34fe095679",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Dominating 80% of HBM Market Yet Lacking AI's Soul: South Korea's Semiconductor Powerhouse Risks Becoming a High-End Foundry - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VeVd2WFc4UGd3MGFhTk1FMmpXLXJxSDhZdExaWV9tUkdIUlB6SWhpN3ByaF85cWJEejJ6b2lIYnBldEpBbE1aMEhNaDMxWWkzMURfcE1ySldWX0J1dUM4LTFQVF9OMEV6dk43WFpzd0VpbGxZOVE?oc=5",
+  "published_at": "Sat, 25 Jul 2026 01:05:00 GMT",
+  "published_ts": 1784941500,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1VeVd2WFc4UGd3MGFhTk1FMmpXLXJxSDhZdExaWV9tUkdIUlB6SWhpN3ByaF85cWJEejJ6b2lIYnBldEpBbE1aMEhNaDMxWWkzMURfcE1ySldWX0J1dUM4LTFQVF9OMEV6dk43WFpzd0VpbGxZOVE?oc=5\" target=\"_blank\">Dominating 80% of HBM Market Yet Lacking AI's Soul: South Korea's Semiconductor Powerhouse Risks Becoming a High-End Foundry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "South Korean semiconductor companies (SK hynix and Samsung) dominate 80% of the HBM market but face strategic risks in AI infrastructure. Analysis of market position and competitive outlook for high-bandwidth memory supply, a key driver of memory-semiconductor demand for DRAM fund holdings."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "c534700ab74a3416a7306a976e61e92cd757b605",
+  "source": "매일경제",
+  "topic": "holding",
+  "title": "SK Hynix, whose stock price has plunged more than 30% this month, will announce its second-quarter e.. - 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Ty01aWxCclFsbGFhd3BOYy1abUdxbUdEVkFMb1RJR3RZTjhNUXB0X1d1aERFQjEyVUFSV3pMSEZwTlgxYlU5bnJkejlhdHc?oc=5",
+  "published_at": "Sat, 25 Jul 2026 01:39:59 GMT",
+  "published_ts": 1784943599,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Ty01aWxCclFsbGFhd3BOYy1abUdxbUdEVkFMb1RJR3RZTjhNUXB0X1d1aERFQjEyVUFSV3pMSEZwTlgxYlU5bnJkejlhdHc?oc=5\" target=\"_blank\">SK Hynix, whose stock price has plunged more than 30% this month, will announce its second-quarter e..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "매일경제"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix stock has fallen >30% this month and is about to announce Q2 earnings. The price move is already known and public; the earnings announcement itself is pending. Until the actual results and guidance are released, this is advance notice of an event rather than the event itself. Post-announcement, the market's digestion of reported results would be a 3; the announcement and any new guidance that materially differs from prior expectations would be a 4-5."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "cf70b7fb3205063492a80853b7ad11d0c091cbf6",
+  "source": "Bloomberg.com",
+  "topic": "holding",
+  "title": "Watch Nvidia's Jensen Huang on South Korea's Golden Age & SK Hynix Group Partnership - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU0yU0JrTVY0YnBSYnFWU180MnJfb1BoOU5ZQnpwSnJjbHdkQXVEel8ydmIwWXZfSnZmZUkzcVpVSzFwOGI2T3ltZHUzUUZKVzFNbVhnM0RfX1VDWldVYXl4ejlpbGFvc2p2R3hxRHpTdTBQZW9vbFc5WGNqS3JxOTJXcDhzS3o4dzljU0ktVmdMSVN6ZGZjS2VicEthR3JzdjhiZjRXQlVwb3AzQ0FnYjBYUkxlbkNrMHAxYVVCbHFqU0U?oc=5",
+  "published_at": "Sat, 25 Jul 2026 01:59:29 GMT",
+  "published_ts": 1784944769,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU0yU0JrTVY0YnBSYnFWU180MnJfb1BoOU5ZQnpwSnJjbHdkQXVEel8ydmIwWXZfSnZmZUkzcVpVSzFwOGI2T3ltZHUzUUZKVzFNbVhnM0RfX1VDWldVYXl4ejlpbGFvc2p2R3hxRHpTdTBQZW9vbFc5WGNqS3JxOTJXcDhzS3o4dzljU0ktVmdMSVN6ZGZjS2VicEthR3JzdjhiZjRXQlVwb3AzQ0FnYjBYUkxlbkNrMHAxYVVCbHFqU0U?oc=5\" target=\"_blank\">Watch Nvidia's Jensen Huang on South Korea's Golden Age & SK Hynix Group Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Bloomberg coverage of Nvidia's Jensen Huang discussing South Korea's semiconductor sector and SK Hynix partnership. The story appears to be promotional/interview content rather than reporting a concrete deal or development. Without specifics on new partnership terms, capacity commitments, or supply agreements, this is analysis and commentary rather than a material announcement."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "ea3e222dbc4cbff4aad3a43a52482acfa642172b",
+  "source": "Samsung Global Newsroom",
+  "topic": "holding",
+  "title": "Samsung Memory 3DS TSV SDRAM Package - Samsung Global Newsroom",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hcFFRcnlBZ0swOXFNUGNLcFpmVXUwMEtXUUFJcGVRendndF8xd0pNcDJ6dmxOSG9RRGpFUjBjMWtwT01rRHJXVEp6UDFSNmowTGl4OE5Sa0RTTnJIdW1VZmNSNkZsN1kxMlZ6amgtMWZGZFFi?oc=5",
+  "published_at": "Fri, 24 Jul 2026 14:02:05 GMT",
+  "published_ts": 1784901725,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5hcFFRcnlBZ0swOXFNUGNLcFpmVXUwMEtXUUFJcGVRendndF8xd0pNcDJ6dmxOSG9RRGpFUjBjMWtwT01rRHJXVEp6UDFSNmowTGl4OE5Sa0RTTnJIdW1VZmNSNkZsN1kxMlZ6amgtMWZGZFFi?oc=5\" target=\"_blank\">Samsung Memory 3DS TSV SDRAM Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Samsung Global Newsroom</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Samsung Global Newsroom"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung announced a new 3DS TSV SDRAM package technology. This represents a product development in memory packaging but lacks concrete details on timing, volume, or commercial impact; it reads as a technical announcement rather than a market-moving event."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "5446f07b1168b42c7a18e5b7b02d92d41c7ff61a",
+  "source": "inkl",
+  "topic": "industry",
+  "title": "AI memory shortage is now increasing the price of cars… - inkl",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVlDMWZpLXdsY1dZVDlTR2xmcXU4MDF1Q21jRnBZMlNHLU9pS1Fqd2JobER3RmVmLW1QaTM5VnJkM01pMXlIeWNpV1c4RFFYdzA2RjF5VVRpWXZmelZjRHJMQjhOcFNDUWVQZjJKVnExZGc3N0l6X0l0Tk9Pc0ZPSTAxX2JCOXFWUThNUGZILS1vQUpuTmJWdnZpSmU0bmU3LTdVTzhpNUwwb001cy0xQ3QtcXpzQW8yWFI4Uy1POE5STEtEUmNsRnc3VzJHaGVTR2p1SHhZNG1RVXExYjMzci10LXg?oc=5",
+  "published_at": "Thu, 23 Jul 2026 15:57:19 GMT",
+  "published_ts": 1784822239,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVlDMWZpLXdsY1dZVDlTR2xmcXU4MDF1Q21jRnBZMlNHLU9pS1Fqd2JobER3RmVmLW1QaTM5VnJkM01pMXlIeWNpV1c4RFFYdzA2RjF5VVRpWXZmelZjRHJMQjhOcFNDUWVQZjJKVnExZGc3N0l6X0l0Tk9Pc0ZPSTAxX2JCOXFWUThNUGZILS1vQUpuTmJWdnZpSmU0bmU3LTdVTzhpNUwwb001cy0xQ3QtcXpzQW8yWFI4Uy1POE5STEtEUmNsRnc3VzJHaGVTR2p1SHhZNG1RVXExYjMzci10LXg?oc=5\" target=\"_blank\">AI memory shortage is now increasing the price of cars…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "inkl"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "AI-driven memory shortage is reportedly increasing automotive prices, indicating strong demand for memory semiconductors driven by AI infrastructure buildout. This reflects broader industry demand dynamics relevant to DRAM holdings, though the piece appears to be analysis/opinion rather than a concrete pricing or supply event."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "ae8e21f6339a2a6fb7e889cc599a1c7c61a9b389",
+  "source": "finance.biggo.com",
+  "topic": "holding",
+  "title": "Memory Big Three Earnings Deluge Next Week: Can They Dispel AI Overheating Fears? - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8weVp2SWY0WVY4NnhreG1xSV9BcUhvdFFxdFh1cVJjMkpDX0MtRW1NbXNXYlFXd0JKT202Y01uVTFRM1dZWV9CcXQ1cnRBWFVUQXBINWRmVllETngyM2g2Q1pJdFh4NUFxcUV3NFVETkNGTW81Nnc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 18:37:00 GMT",
+  "published_ts": 1784918220,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8weVp2SWY0WVY4NnhreG1xSV9BcUhvdFFxdFh1cVJjMkpDX0MtRW1NbXNXYlFXd0JKT202Y01uVTFRM1dZWV9CcXQ1cnRBWFVUQXBINWRmVllETngyM2g2Q1pJdFh4NUFxcUV3NFVETkNGTW81Nnc?oc=5\" target=\"_blank\">Memory Big Three Earnings Deluge Next Week: Can They Dispel AI Overheating Fears?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Preview article anticipating upcoming earnings reports from major memory makers (the 'Big Three' — likely Micron, SK hynix, Samsung). No concrete event or new information; this is forward-looking commentary on imminent earnings calls rather than disclosure of results or guidance."
+  },
+  "buffered_ts": 1784951266.5510159
+ },
+ {
+  "id": "58cb339a0415caeb3f45283632465bbaf15108c5",
+  "source": "simplywall.st",
+  "topic": "holding",
+  "title": "Sandisk (SNDK) Stock Rose As Big Tech Sold Off## - simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjhvSjlRR0V3dlNUNDU0RnNiYjVqV3VYSklvbTNCZW94OUg1MTBHaVh1STlaUWlwSkF3R0NDRDQ4RnFabFRXM21aWklBWE5naHZrYmVyVzJiM0FoMHRWQnpjTDZtSno3MWJFTFQxS1BHNjJRaC1Ya2w1Rzd2SE1hUEc5T2MtZlRRcFotQy1CdVdfVmVIT1BnVkw2QVMtNHpIVTUycDV4cXg0QdIBrwFBVV95cUxOWEE0T0dPZTYyZlNLWnF5LU5VU29DMHhyQlJneDd4WGdFRnNjZVlEUU5KMlVLbkl3eV9MYnBERjdFblhWWDkxRkRzMWlWVWw0SU9Na2E4N0FlaVBmOHc4VXk4ZVI4eWFqaG5pNHhSdi1QS3pRVF93V3NJdWhtdjJsbnN1NGROQWR4X1h0al9ZNXFuWGMzcUxKbFVxaHdodFlOSGljeU5PUkd2YnlYNjE0?oc=5",
+  "published_at": "Sat, 25 Jul 2026 01:06:42 GMT",
+  "published_ts": 1784941602,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjhvSjlRR0V3dlNUNDU0RnNiYjVqV3VYSklvbTNCZW94OUg1MTBHaVh1STlaUWlwSkF3R0NDRDQ4RnFabFRXM21aWklBWE5naHZrYmVyVzJiM0FoMHRWQnpjTDZtSno3MWJFTFQxS1BHNjJRaC1Ya2w1Rzd2SE1hUEc5T2MtZlRRcFotQy1CdVdfVmVIT1BnVkw2QVMtNHpIVTUycDV4cXg0QdIBrwFBVV95cUxOWEE0T0dPZTYyZlNLWnF5LU5VU29DMHhyQlJneDd4WGdFRnNjZVlEUU5KMlVLbkl3eV9MYnBERjdFblhWWDkxRkRzMWlWVWw0SU9Na2E4N0FlaVBmOHc4VXk4ZVI4eWFqaG5pNHhSdi1QS3pRVF93V3NJdWhtdjJsbnN1NGROQWR4X1h0al9ZNXFuWGMzcUxKbFVxaHdodFlOSGljeU5PUkd2YnlYNjE0?oc=5\" target=\"_blank\">Sandisk (SNDK) Stock Rose As Big Tech Sold Off##</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "simplywall.st"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk (SNDK) stock rose while broader Big Tech sold off. This is a price move without a stated catalyst or news driver specific to the company or memory market."
+  },
+  "buffered_ts": 1784951266.5510159
  }
 ]
