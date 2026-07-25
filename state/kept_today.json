@@ -2657,5 +2657,221 @@
    "summary": "Samsung's vice chairman Lee Jae-yong met with OpenAI CEO to discuss AI infrastructure. This indicates Samsung is exploring opportunities in AI infrastructure and memory demand, but the meeting itself is exploratory discussion rather than a confirmed deal or concrete development. Samsung's memory business is relevant to DRAM ETF holdings, but this is positioning/relationship-building rather than a settled event."
   },
   "buffered_ts": 1784968183.6070516
+ },
+ {
+  "id": "dc6a1f2e9210a6acb597d232a11b430da04967ae",
+  "source": "CNBC",
+  "topic": "holding",
+  "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXdIVGF2aEhFZkd2RUt4cWJPYnRleXU3VVAwQmdzeFhkVFVLSTduM0FuUFhrR052VGNpLVAzLXo4cHo0NTM0NUR3bG94RGowSDFwZ2E2SjZHTG1SM3M1TVU4bkVJSTZteUc5U3JGZ0ZNTGpfamo2UEpfbk9Jdk9hbHVrMC0zUU9ITmdyNTY3VWtvejRRX282N0packdXaDRKeVRjOGhiTUR5d9IBrwFBVV95cUxQMlAtRUpKdjI3MjdkS0JIckxFdGY2MzVxSVN1eWVPMFFHLXVNUF9teGt1SXZPWG9XU24xZTdpUFk2V183UXdUSXE2SnUyR2NfbXBLX0dlOF96VE8wRXd6ekg3QkVJajlPcEE5Z18teXJ4dko3MktYelZmb1BlbGJjRU5ueTlkZ19CbUlMRnJaWVdXd2NjZ2l1VnVsenNJYng3bVVxdkp0bEV6LXg0ZnNz?oc=5",
+  "published_at": "Sat, 25 Jul 2026 05:00:01 GMT",
+  "published_ts": 1784955601,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXdIVGF2aEhFZkd2RUt4cWJPYnRleXU3VVAwQmdzeFhkVFVLSTduM0FuUFhrR052VGNpLVAzLXo4cHo0NTM0NUR3bG94RGowSDFwZ2E2SjZHTG1SM3M1TVU4bkVJSTZteUc5U3JGZ0ZNTGpfamo2UEpfbk9Jdk9hbHVrMC0zUU9ITmdyNTY3VWtvejRRX282N0packdXaDRKeVRjOGhiTUR5d9IBrwFBVV95cUxQMlAtRUpKdjI3MjdkS0JIckxFdGY2MzVxSVN1eWVPMFFHLXVNUF9teGt1SXZPWG9XU24xZTdpUFk2V183UXdUSXE2SnUyR2NfbXBLX0dlOF96VE8wRXd6ekg3QkVJajlPcEE5Z18teXJ4dko3MktYelZmb1BlbGJjRU5ueTlkZ19CbUlMRnJaWVdXd2NjZ2l1VnVsenNJYng3bVVxdkp0bEV6LXg0ZnNz?oc=5\" target=\"_blank\">Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "CNBC"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 5,
+   "category": "holding",
+   "summary": "Nvidia has locked down memory supply from SK Hynix as part of a $500 billion AI infrastructure deal. This is a concrete, major development confirming sustained demand for HBM and DRAM from a critical customer and securing supply for SK Hynix (a key fund holding), representing a significant market-moving event with new information about memory demand allocation and supply commitments."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "beb5e9caad9f0c5233347aeeb64a85eb7cc1be9b",
+  "source": "ET Manufacturing",
+  "topic": "holding",
+  "title": "AMD Helios AI server rack enters production with Samsung HBM4 memory supply - ET Manufacturing",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV0g3NDFPRHAtSEdiUFJxUjJXTkNyM1VtenhLcGM1T0pmYy1QS0VxLXc5cnhDNHc1enh5YlNKM0F4aDZzck13bENVTGJxTzJYQjQ1ZExWSXB0S0ZKQU9fdGc4dU5Ud1JBY09ScERnVFNZenI4R2NDN2RkbHpxcmdyZXczQUlMakl2V0owRVZhVDNnOEl3Q05TU3dSYjNSWFVPcE9aXzNCWkZxY3FqTXdYSlEyLTExNWNudjE3SDBfQ0NCTFVrREVSTnBMQTVxdmt4a1hIeWpJUkRUV0JJbk9uTFJGRdIB6AFBVV95cUxPdEg1LUNfclc3blZNMWxwdHZBdnlUS3NON0Rxa01LQ1Nfc1puZFUxcUhkT09OWVp2SkROYXQxNEZuVnNBNWtyMzE3VW1IZnZnNkpkZEw5UmcxN1lMSUJmOEE3ZW1qZFZaYzJ0N0s1Nko0YTZRaWNMckVFb0xYVDlwQmExVzJLTjJybGtPRTNrU2NKek1JRUJNU1Z0QlhZNXk1RGF2b3M5MjU4c1RUcmhaaEJkbjRQLXpUMWVFVWVNUXlrRXZKMm9ocTlDRTg5TXJ5VFB6WkVzMElkSm5nVllfU0M5Z1JNVWx6?oc=5",
+  "published_at": "Sat, 25 Jul 2026 04:38:55 GMT",
+  "published_ts": 1784954335,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV0g3NDFPRHAtSEdiUFJxUjJXTkNyM1VtenhLcGM1T0pmYy1QS0VxLXc5cnhDNHc1enh5YlNKM0F4aDZzck13bENVTGJxTzJYQjQ1ZExWSXB0S0ZKQU9fdGc4dU5Ud1JBY09ScERnVFNZenI4R2NDN2RkbHpxcmdyZXczQUlMakl2V0owRVZhVDNnOEl3Q05TU3dSYjNSWFVPcE9aXzNCWkZxY3FqTXdYSlEyLTExNWNudjE3SDBfQ0NCTFVrREVSTnBMQTVxdmt4a1hIeWpJUkRUV0JJbk9uTFJGRdIB6AFBVV95cUxPdEg1LUNfclc3blZNMWxwdHZBdnlUS3NON0Rxa01LQ1Nfc1puZFUxcUhkT09OWVp2SkROYXQxNEZuVnNBNWtyMzE3VW1IZnZnNkpkZEw5UmcxN1lMSUJmOEE3ZW1qZFZaYzJ0N0s1Nko0YTZRaWNMckVFb0xYVDlwQmExVzJLTjJybGtPRTNrU2NKek1JRUJNU1Z0QlhZNXk1RGF2b3M5MjU4c1RUcmhaaEJkbjRQLXpUMWVFVWVNUXlrRXZKMm9ocTlDRTg5TXJ5VFB6WkVzMElkSm5nVllfU0M5Z1JNVWx6?oc=5\" target=\"_blank\">AMD Helios AI server rack enters production with Samsung HBM4 memory supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Manufacturing</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "ET Manufacturing"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "AMD's Helios AI server rack has entered production with Samsung supplying HBM4 memory, confirming a concrete supply agreement and production milestone that directly impacts Samsung's memory business and HBM demand trajectory for AI infrastructure."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "f8f41cf840bc2a987614687a71b64d061a392417",
+  "source": "KELO-AM",
+  "topic": "holding",
+  "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - KELO-AM",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkNmWmpJSy1uOTl3NmZIbE0wTmNrNmJ4cmQyRUpZbnB3cUdTTTZjYXVWeE0ycGp0cGdRcEU5TDd1eHdzQ0pfbTlMd3BsaG1JNy01T2ZHaEstVUhZSTBXQXhtWl9NcDh0bmFBNlpZeHlUQUhwd21sQUx3R3ZlNnJiRHZIQXN0cUhvdXZ6cmhsQUh5X3dpMWF4Q1ZYaUxPQVdjdEVJeERtVkVTRnpRN3c?oc=5",
+  "published_at": "Sat, 25 Jul 2026 09:30:31 GMT",
+  "published_ts": 1784971831,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkNmWmpJSy1uOTl3NmZIbE0wTmNrNmJ4cmQyRUpZbnB3cUdTTTZjYXVWeE0ycGp0cGdRcEU5TDd1eHdzQ0pfbTlMd3BsaG1JNy01T2ZHaEstVUhZSTBXQXhtWl9NcDh0bmFBNlpZeHlUQUhwd21sQUx3R3ZlNnJiRHZIQXN0cUhvdXZ6cmhsQUh5X3dpMWF4Q1ZYaUxPQVdjdEVJeERtVkVTRnpRN3c?oc=5\" target=\"_blank\">Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KELO-AM</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "KELO-AM"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung secures a $200 billion partnership with Broadcom for AI chip manufacturing, materially strengthening its foundry business and semiconductor revenue prospects. This is a concrete, officially announced deal that validates Samsung's advanced node capacity and competitive positioning in the high-demand AI infrastructure market, directly benefiting the memory subsidiary within Samsung Electronics."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "e45724d56af5068b6e6a8d717b4fa2cceab68ab4",
+  "source": "Yahoo Finance UK",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix unveil $950 billion US chip supply partnerships - Yahoo Finance UK",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkNvak4xY1d0NHUwZzJVRE9ZTjlpeTlKcS0zYUotNHRrWnZTM1VDYUxIb0VmOXFYWG9DT0FMRHVhbEl2aURyNzNhWHUyUWFrejhRcjZ3MHhreHRVZ0FieFktXzBnTFZkUldhZnFnd1c2TU8yR2NUTkJaaTdwMk9YQlBn?oc=5",
+  "published_at": "Sat, 25 Jul 2026 08:04:09 GMT",
+  "published_ts": 1784966649,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObkNvak4xY1d0NHUwZzJVRE9ZTjlpeTlKcS0zYUotNHRrWnZTM1VDYUxIb0VmOXFYWG9DT0FMRHVhbEl2aURyNzNhWHUyUWFrejhRcjZ3MHhreHRVZ0FieFktXzBnTFZkUldhZnFnd1c2TU8yR2NUTkJaaTdwMk9YQlBn?oc=5\" target=\"_blank\">Samsung and SK Hynix unveil $950 billion US chip supply partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Yahoo Finance UK"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix announced $950 billion in US chip supply partnerships, a concrete and officially announced major infrastructure investment decision by two core holdings that directly affects their production capacity and strategic positioning in memory semiconductors."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "067ca4e61616b98942a5e4eba1fb11331c4ec822",
+  "source": "Reuters",
+  "topic": "holding",
+  "title": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5",
+  "published_at": "Sat, 25 Jul 2026 00:33:00 GMT",
+  "published_ts": 1784939580,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5\" target=\"_blank\">Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Reuters"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung Electronics and SK Group have sealed $950 billion in deals, likely related to AI infrastructure investment. This represents a concrete, officially announced capital commitment that directly impacts both major memory-semiconductor holdings (Samsung and SK hynix) and signals accelerating capacity/investment decisions to meet AI-driven memory demand."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "2aba84ba899b06b176aa2458fffd6ea456a77c59",
+  "source": "finance.biggo.com",
+  "topic": "industry",
+  "title": "Apple’s Push to Use Chinese Memory Chips Draws Fierce Micron Opposition, Forcing Trump to Choose - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13N3VaMXFtT0lhZ2VaR1Vva3pDUElPQThYWjhkbFB5RnlLQkZ5UHMwV2ZtREJKN0lFdjdXSlkyMkJFRHUtTVdvSjJUeGZCT2tsT2VtTzl3MDZHOVVXc1ZhQlMxQWxLMWpoTFRuSjlsMnRnYjkzU2c?oc=5",
+  "published_at": "Sat, 25 Jul 2026 04:05:00 GMT",
+  "published_ts": 1784952300,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE13N3VaMXFtT0lhZ2VaR1Vva3pDUElPQThYWjhkbFB5RnlLQkZ5UHMwV2ZtREJKN0lFdjdXSlkyMkJFRHUtTVdvSjJUeGZCT2tsT2VtTzl3MDZHOVVXc1ZhQlMxQWxLMWpoTFRuSjlsMnRnYjkzU2c?oc=5\" target=\"_blank\">Apple’s Push to Use Chinese Memory Chips Draws Fierce Micron Opposition, Forcing Trump to Choose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Apple is reportedly pursuing use of Chinese memory chips, with Micron (a DRAM ETF holding) opposing the move. The story involves regulatory/political pressure (Trump administration decision) rather than a confirmed business outcome. This is a developing situation with material implications for Micron's market position, but it is soft news—discussion and opposition rather than a settled event or concrete demand shift."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "d4703c39af19436bb67c6ac958d4a238a295d107",
+  "source": "AD HOC NEWS",
+  "topic": "pricing",
+  "title": "SK Hynix Shares Shed 8% in a Single Session as Geopolitical Jitters and NAND Fears Collide - AD HOC NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUYtb2lLSGpvSXFOanVxenlUOS1uSEVmV0s2MkZERHZtd3dXcXFYY1JQSGgtUFRRZzFWbW5yTngwQjhHeHh3NmNheXZZU0NOWjdHYjBpMFg4ZkVOMXdiTG5FXzVscUVLX1VfSmdxcTA2MS1Ta0YxWHE2X3RpMDc3Vkd1aFpZdGlyRHhEOFBkd190a0hBUi1wT2dqSldJVGc3c0VmUkhDd1dUU2E0UW05WVk3SXpRN3VXcXBsR1h5TDZlQ1U?oc=5",
+  "published_at": "Sat, 25 Jul 2026 09:51:36 GMT",
+  "published_ts": 1784973096,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUYtb2lLSGpvSXFOanVxenlUOS1uSEVmV0s2MkZERHZtd3dXcXFYY1JQSGgtUFRRZzFWbW5yTngwQjhHeHh3NmNheXZZU0NOWjdHYjBpMFg4ZkVOMXdiTG5FXzVscUVLX1VfSmdxcTA2MS1Ta0YxWHE2X3RpMDc3Vkd1aFpZdGlyRHhEOFBkd190a0hBUi1wT2dqSldJVGc3c0VmUkhDd1dUU2E0UW05WVk3SXpRN3VXcXBsR1h5TDZlQ1U?oc=5\" target=\"_blank\">SK Hynix Shares Shed 8% in a Single Session as Geopolitical Jitters and NAND Fears Collide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "AD HOC NEWS"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK Hynix shares fell 8% in a single session attributed to geopolitical concerns and NAND market fears. This is a significant stock move for a major fund holding, but the headline identifies causes (geopolitical jitters and NAND fears) that are not tied to a specific concrete event or hard number—they are general concerns rather than a disclosed development. The move itself is being reported post-facto without a clear distinct catalyst beyond market sentiment. Thus it rates as relevant opinion/analysis of market reaction rather than a confirmed event."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "949ce2f3d59d0b9a27085a585ac4d77cd99ae84c",
+  "source": "Malay Mail",
+  "topic": "holding",
+  "title": "Samsung and SK hynix to supply Nvidia, US firms in US$950b chip pact - Malay Mail",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcG9WTUh6cmt6Z1dlVTdmSmFlQlFXczBaRHQ5THFsR3NUYkRvWjRzTHVUZTdzSFpwVWI2V3JLVUhyQWpSamFnNThNMHNIbE9Ea3V0UHRlNDlCWUF1eEVZaXk0VEF1dENCTmlXNzVWTTZGSEFkVVp0aE5MVi1mVmNUYy1QX2VnUU5NWXYwXzVnb3Q2OXN0YUNETWRxY0o3RUVkeG5wc1dSSlVqem1BSXdldnZxNmFEQU9sc3o5OHdn0gHDAUFVX3lxTE95RHJoZW9tenhtNDMxREFhTHdORjZDLVlwZDk3QjdvR25mN3lQVVlXclBVTzltclFaWWVuUlpnSHNibkVFOXpVa0VRVzZtampjb09KdFAwMkduTEduMkRwWnJPMnM1MG9FU1JUWmRnZGhNYVNfOUNhMFBHWDh3SU82TlVtd2tuczJHWFVsandFMVBtMEF2Z0ZDbkpfYkxORnBhdFJaeGgwOXJKajc1T2pBQV81NjVZRktob2N0QmJZdzZyYw?oc=5",
+  "published_at": "Sat, 25 Jul 2026 08:34:42 GMT",
+  "published_ts": 1784968482,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcG9WTUh6cmt6Z1dlVTdmSmFlQlFXczBaRHQ5THFsR3NUYkRvWjRzTHVUZTdzSFpwVWI2V3JLVUhyQWpSamFnNThNMHNIbE9Ea3V0UHRlNDlCWUF1eEVZaXk0VEF1dENCTmlXNzVWTTZGSEFkVVp0aE5MVi1mVmNUYy1QX2VnUU5NWXYwXzVnb3Q2OXN0YUNETWRxY0o3RUVkeG5wc1dSSlVqem1BSXdldnZxNmFEQU9sc3o5OHdn0gHDAUFVX3lxTE95RHJoZW9tenhtNDMxREFhTHdORjZDLVlwZDk3QjdvR25mN3lQVVlXclBVTzltclFaWWVuUlpnSHNibkVFOXpVa0VRVzZtampjb09KdFAwMkduTEduMkRwWnJPMnM1MG9FU1JUWmRnZGhNYVNfOUNhMFBHWDh3SU82TlVtd2tuczJHWFVsandFMVBtMEF2Z0ZDbkpfYkxORnBhdFJaeGgwOXJKajc1T2pBQV81NjVZRktob2N0QmJZdzZyYw?oc=5\" target=\"_blank\">Samsung and SK hynix to supply Nvidia, US firms in US$950b chip pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malay Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Malay Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "Samsung and SK hynix reported to be in discussions to supply Nvidia and US firms under a reported US$950 billion chip pact. As a potential supply agreement involving two major fund holdings (SK hynix and Samsung) and reflecting AI-infrastructure demand, this is relevant; however, the story appears to be based on reported discussions rather than an officially confirmed, signed deal, placing it at impact 3 rather than 4."
+  },
+  "buffered_ts": 1784974229.6377969
+ },
+ {
+  "id": "296f9604619c0cfb4392bd7efa9edfc7ea9dcf13",
+  "source": "Algoa FM",
+  "topic": "holding",
+  "title": "S. Korean chipmakers to supply US tech firms in $950 bn deals - Algoa FM",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0tPcENNQk5XYzhHSEQ0ckRzbnNzb1EyNXIyTEoyeDkzdU83NGp1SHJmRUNFeFhNdEpWZGtkdWFBOXZaQmhvTGd1NnUxTFNSb2lkRmJ3clJLZFNQWGhrU2cxaDZDaVdYV0F6U19fbVBGbjBXMjBzaGxCb0pfNUlQblhwTm9heHNYWkJaUDNyNVNnT1J6NnZZ?oc=5",
+  "published_at": "Sat, 25 Jul 2026 09:01:00 GMT",
+  "published_ts": 1784970060,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0tPcENNQk5XYzhHSEQ0ckRzbnNzb1EyNXIyTEoyeDkzdU83NGp1SHJmRUNFeFhNdEpWZGtkdWFBOXZaQmhvTGd1NnUxTFNSb2lkRmJ3clJLZFNQWGhrU2cxaDZDaVdYV0F6U19fbVBGbjBXMjBzaGxCb0pfNUlQblhwTm9heHNYWkJaUDNyNVNnT1J6NnZZ?oc=5\" target=\"_blank\">S. Korean chipmakers to supply US tech firms in $950 bn deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Algoa FM</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Algoa FM"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "South Korean chipmakers (SK hynix and Samsung) are negotiating to supply US tech firms under $950 billion in deals. While material to fund holdings, this is deal-discussion language ('to supply', 'deals') without confirmation of signed contracts or specific memory-semiconductor commitments, making it prospective rather than a settled event."
+  },
+  "buffered_ts": 1784974229.6377969
  }
 ]
