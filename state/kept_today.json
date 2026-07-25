@@ -433,5 +433,77 @@
    "summary": "Seagate Technology earnings date announcement for July 28. Calendar reminder with no new information about business, memory demand, or market conditions."
   },
   "buffered_ts": 1785008669.617423
+ },
+ {
+  "id": "7e477b9a28710c006831407a44c75c813b7d3109",
+  "source": "The420.in",
+  "topic": "industry",
+  "title": "Qualcomm Warns Clients of Double-Digit Price Hikes Amid Memory Shortage - The420.in",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXy11b0JPUk92VGFKbU1lSlBFbFBJS3JxNFBCdThqcHF5TmxoVHpyWE1mZUN3UGRVaFVGRjhGMGRYU0RJQXh3elc5YloybnZrQ05GcDg3dndMRWNWcVJWdnJZVk9NaWREa3I0TUFvb2ZkZS1PeGY4Q010eDJ4U3cyN3hRZHBMSjVWeUU3UTd3OA?oc=5",
+  "published_at": "Sat, 25 Jul 2026 14:28:56 GMT",
+  "published_ts": 1784989736,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOXy11b0JPUk92VGFKbU1lSlBFbFBJS3JxNFBCdThqcHF5TmxoVHpyWE1mZUN3UGRVaFVGRjhGMGRYU0RJQXh3elc5YloybnZrQ05GcDg3dndMRWNWcVJWdnJZVk9NaWREa3I0TUFvb2ZkZS1PeGY4Q010eDJ4U3cyN3hRZHBMSjVWeUU3UTd3OA?oc=5\" target=\"_blank\">Qualcomm Warns Clients of Double-Digit Price Hikes Amid Memory Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The420.in</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The420.in"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "pricing",
+   "summary": "Qualcomm warning clients of double-digit memory price increases due to shortage signals a concrete shift in DRAM/memory pricing dynamics, a leading indicator that typically precedes stock moves in memory suppliers like the DRAM ETF holdings."
+  },
+  "buffered_ts": 1785012364.286454
+ },
+ {
+  "id": "9254b7f8e95eff7c182416b54fcd4bc97d03a5cf",
+  "source": "Fortune",
+  "topic": "holding",
+  "title": "SK chair says Anthropic asked for supplies to make its own chips - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3hFa0tQbzhjVkFsTUlBNHVJdHh1YTZFRWdlWEZkcEpSZlVpMU13Tk53S1JOMTFmUGxHSEU0Qm9heFZhd09mRHlsV2YtTklDQUNldnVqb0kta3U2cTFJY0FTd0syRUl1cXFEeURUN2Z5dDNFc3lnU0ZLRS1TRnFjWVJNRHEwZlEzem5Id1lR?oc=5",
+  "published_at": "Sat, 25 Jul 2026 20:23:00 GMT",
+  "published_ts": 1785010980,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3hFa0tQbzhjVkFsTUlBNHVJdHh1YTZFRWdlWEZkcEpSZlVpMU13Tk53S1JOMTFmUGxHSEU0Qm9heFZhd09mRHlsV2YtTklDQUNldnVqb0kta3U2cTFJY0FTd0syRUl1cXFEeURUN2Z5dDNFc3lnU0ZLRS1TRnFjWVJNRHEwZlEzem5Id1lR?oc=5\" target=\"_blank\">SK chair says Anthropic asked for supplies to make its own chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Fortune"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "holding",
+   "summary": "SK hynix chair reports that Anthropic inquired about supplies for manufacturing its own chips. This signals potential future memory demand from an AI company but remains speculative—no deal has been announced, no committed orders confirmed, and the request does not constitute a binding commitment. Relevant to SK hynix (a fund holding) but soft on execution risk."
+  },
+  "buffered_ts": 1785012364.286454
+ },
+ {
+  "id": "a587159bbbbea0c108ef84deed28275a0fee2f3a",
+  "source": "The Globe and Mail",
+  "topic": "holding",
+  "title": "Why Did Sandisk Stock Drop Friday? - The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0pXV2hCRkFLM2tWX1B5WFcySGdrN1lLVDg3R1JhVU8ySFhqN0ZGNURfc0dlRXpoN3RXZ2hsOHh0bkhaUWZoSmFNWFRoQWE1Nlh6N1NFaTB1WkFrTnp6cDU4NFZsdFB0VWc2OG50Rk8zTzIyWTM3Skpqc05od0hCalVhOEhxNjdfTFM1S1Voc0RUQkt1QnNfQmxpLTNpVWdFUHhRb3pxSjNJQUpSb2FKZDZqeWxZTEt6cXc?oc=5",
+  "published_at": "Fri, 24 Jul 2026 16:00:00 GMT",
+  "published_ts": 1784908800,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0pXV2hCRkFLM2tWX1B5WFcySGdrN1lLVDg3R1JhVU8ySFhqN0ZGNURfc0dlRXpoN3RXZ2hsOHh0bkhaUWZoSmFNWFRoQWE1Nlh6N1NFaTB1WkFrTnp6cDU4NFZsdFB0VWc2OG50Rk8zTzIyWTM3Skpqc05od0hCalVhOEhxNjdfTFM1S1Voc0RUQkt1QnNfQmxpLTNpVWdFUHhRb3pxSjNJQUpSb2FKZDZqeWxZTEt6cXc?oc=5\" target=\"_blank\">Why Did Sandisk Stock Drop Friday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "SanDisk stock declined on Friday; article explains the reason for the drop but provides no concrete catalyst or material new information beyond the price movement itself."
+  },
+  "buffered_ts": 1785012364.286454
  }
 ]
