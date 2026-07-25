@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "id": "f81b09604c3ed1bf96a98f6c5804a8ca1a78ca52",
+  "source": "Tech Times",
+  "topic": "holding",
+  "title": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals - Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTNaYjJvUEJ4YzRzZWNuMkQwNG9OT0pSNXhuTE8wdGFtZHp4dGZQX2hDSEo4WjBKTGotdEhtZDZLcnN3TlJrNHg4a0gzb0prd0ZBUDU5VkxWOXBYemJiQVFCOUE0VzN5TEZrSnNQdF9BdWZMclZmQVZlR0JVTHR6U2szSTd2SThJaVVWT29XM3QtODZLZzEwTnpvUjcyanl6QWF4cmRoTE9qYWptVk95dGcxZTBuckNBYmc?oc=5",
+  "published_at": "Sat, 25 Jul 2026 12:25:44 GMT",
+  "published_ts": 1784982344,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTNaYjJvUEJ4YzRzZWNuMkQwNG9OT0pSNXhuTE8wdGFtZHp4dGZQX2hDSEo4WjBKTGotdEhtZDZLcnN3TlJrNHg4a0gzb0prd0ZBUDU5VkxWOXBYemJiQVFCOUE0VzN5TEZrSnNQdF9BdWZMclZmQVZlR0JVTHR6U2szSTd2SThJaVVWT29XM3QtODZLZzEwTnpvUjcyanl6QWF4cmRoTE9qYWptVk95dGcxZTBuckNBYmc?oc=5\" target=\"_blank\">Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Tech Times"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 4,
+   "category": "holding",
+   "summary": "Samsung and SK Hynix have secured $950B in US deals locking in AI chip supply commitments through 2030. This is a concrete, officially announced deal representing material demand visibility and capital investment commitments for two major fund holdings, directly supporting memory semiconductor demand in the AI infrastructure cycle."
+  },
+  "buffered_ts": 1784985408.3234224
+ },
+ {
+  "id": "ac8ffa5169371b4a32e4e826fb96f51627027169",
+  "source": "Open Magazine",
+  "topic": "holding",
+  "title": "AI chip race heats up: NVIDIA-SK Group unveil $500 billion alliance as Samsung, Broadcom expand $200 billion partnership - Open Magazine",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUml1NmRYekw2Uk54TDU0ZHFTaHgxWG9tNjdKVUxMU3dxYkx3U2Mzd2FnZ2s0TGk0QnFPSGptdUdmSC1ySEJzekZ3S1NyTURQNTVITzl3M3FOSkJUVFE1Y1FRUHJkcG9NZzQ4Z2M5OHRfOGN1cEM5RkZ0T3A4czNzVHd5Ylh0U0J6U0xSUHFLbDM3UHVyVVNLSHJkY3RuUTI2cDlOdlVubEI2S3pXczAxU1pMajJkU1RRRjNWSHc5Y2hpWE8xejVZZ0k2WHdzUmdRdl9BOFhPYUVCb0gxUldfd2tnOUdBdjVD?oc=5",
+  "published_at": "Sat, 25 Jul 2026 11:47:50 GMT",
+  "published_ts": 1784980070,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUml1NmRYekw2Uk54TDU0ZHFTaHgxWG9tNjdKVUxMU3dxYkx3U2Mzd2FnZ2s0TGk0QnFPSGptdUdmSC1ySEJzekZ3S1NyTURQNTVITzl3M3FOSkJUVFE1Y1FRUHJkcG9NZzQ4Z2M5OHRfOGN1cEM5RkZ0T3A4czNzVHd5Ylh0U0J6U0xSUHFLbDM3UHVyVVNLSHJkY3RuUTI2cDlOdlVubEI2S3pXczAxU1pMajJkU1RRRjNWSHc5Y2hpWE8xejVZZ0k2WHdzUmdRdl9BOFhPYUVCb0gxUldfd2tnOUdBdjVD?oc=5\" target=\"_blank\">AI chip race heats up: NVIDIA-SK Group unveil $500 billion alliance as Samsung, Broadcom expand $200 billion partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Open Magazine</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Open Magazine"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 3,
+   "category": "industry",
+   "summary": "SK hynix and Samsung (both DRAM fund holdings) are involved in major AI chip partnerships and alliances ($500B SK Group-NVIDIA deal, $200B Samsung-Broadcom partnership). These signal significant AI infrastructure capex and memory demand, but the headline lacks specific details on memory production commitments, pricing, or concrete memory-chip capacity allocations, making it a forward-looking industry development rather than a confirmed event."
+  },
+  "buffered_ts": 1784985408.3234224
+ },
+ {
+  "id": "efd6b61912e148ca230e288583460c33865aedf0",
+  "source": "Barchart.com",
+  "topic": "holding",
+  "title": "Dear Seagate Technology Stock Fans, Mark Your Calendars for July 28 - Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2h1M2lERHpVWURrUHlNakRRaFpfVnB2ajQzalp3dTB6Q2RiN0hVSWJHZWoycjRFTzY3QXBrM1E3Qy1mZjk2VV9oWl9jY3RQc1RJNjNsUEctNnNranBqNURndEs4eUd4Zl9Jb1dJZUJoOHNabmdrSkpZNmViUFFwT01uc0NSNWZpNUhOWS1EM1NkbzM3YUdPbk9MdzgxZHhMa2dvZWhjNWxKTGstV2lz?oc=5",
+  "published_at": "Sat, 25 Jul 2026 13:00:02 GMT",
+  "published_ts": 1784984402,
+  "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2h1M2lERHpVWURrUHlNakRRaFpfVnB2ajQzalp3dTB6Q2RiN0hVSWJHZWoycjRFTzY3QXBrM1E3Qy1mZjk2VV9oWl9jY3RQc1RJNjNsUEctNnNranBqNURndEs4eUd4Zl9Jb1dJZUJoOHNabmdrSkpZNmViUFFwT01uc0NSNWZpNUhOWS1EM1NkbzM3YUdPbk9MdzgxZHhMa2dvZWhjNWxKTGstV2lz?oc=5\" target=\"_blank\">Dear Seagate Technology Stock Fans, Mark Your Calendars for July 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+  "corroboration": {
+   "count": 1,
+   "sources": [
+    "Barchart.com"
+   ],
+   "titles": []
+  },
+  "triage": {
+   "relevant": true,
+   "impact": 2,
+   "category": "holding",
+   "summary": "Reminder that Seagate (STX), a DRAM ETF holding, will report earnings or hold an event on July 28. Without details on what the event entails, this is a calendar note with minimal immediate impact — useful for investors to track but not a concrete development."
+  },
+  "buffered_ts": 1784985408.3234224
+ }
+]
